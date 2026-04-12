@@ -3,27 +3,35 @@
   "judgment": "neutral",
   "confidence": "medium",
   "suggested_action": "hold",
-  "updated_at": "2026-04-13 06:41 Asia/Seoul",
+  "updated_at": "2026-04-13 08:40 Asia/Seoul",
   "cash_krw": "10,000,000 KRW",
   "btc": "0 BTC",
   "avg_buy_price_krw": "0 KRW",
-  "last_price_krw": "105,918,832 KRW",
+  "last_price_krw": "104,782,452 KRW",
   "realized_pnl_krw": "0 KRW",
   "last_valuation_krw": "10,000,000 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.0,
   "last_action": "HOLD",
   "trade_count": 0,
-  "last_updated": "2026-04-13T06:41:00+09:00",
+  "last_updated": "2026-04-13T08:40:00+09:00",
   "summary": [
-    "BTC snapshot: Price about $71,332, about ₩105,918,832, 24h change about -2.88%, 7d change about +3.34%, 30d range about $66.0k to $74.9k.",
-    "Trend summary: BTC is soft intraday but still modestly positive over 7 days. It sits slightly below the 7-day average and above the 30-day average, which suggests consolidation rather than a clean breakout.",
-    "News summary: Headline flow is mixed. Recent coverage still points to ongoing ETF and institutional interest, but macro uncertainty and regulatory headlines are keeping conviction capped.",
-    "- 24h momentum is negative, while 7d performance is positive and 30d performance is nearly flat.",
-    "- Price remains inside a broad recent range instead of confirming a breakout.",
-    "- Mixed news backdrop supports patience more than action."
+    "BTC snapshot: Price about $70,679, about ₩104,782,452, 24h change about -3.30%, 7d change about +2.40%, 30d change about -0.74%, 30d range about $65.0k to $76.0k.",
+    "Trend summary: BTC is weak intraday and sitting below the 7-day average, but still above the 30-day average. That points to consolidation after a recent rebound, not a confirmed trend breakout.",
+    "News summary: Recent flow suggests institutional and ETF interest has improved, but risk appetite is still fragile. Macro tension and broader risk-off headlines are keeping Bitcoin from turning that support into stronger momentum.",
+    "- 24h momentum is clearly negative even though 7d performance remains modestly positive.",
+    "- Price is still inside the recent 30-day range and below the 7-day average, so breakout confirmation is missing.",
+    "- ETF and institutional-interest headlines help the floor, but they are not overwhelming the current macro risk tone."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-13T08:40:00+09:00",
+      "action": "HOLD",
+      "price_krw": 104782452,
+      "btc_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "Neutral stance. BTC is down about 3.3% in 24h, up about 2.4% in 7 days, and still slightly negative versus 30 days while remaining inside a broad recent range. News flow shows some ETF/institutional support but macro risk is still pressuring sentiment, and there is no meaningful fresh public-figure accumulation signal strong enough to justify a trade."
+    },
     {
       "timestamp": "2026-04-13T06:41:00+09:00",
       "action": "HOLD",
@@ -50,6 +58,10 @@
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-13-0800.md",
+      "title": "2026-04-13-0800"
+    },
     {
       "file": "2026-04-13-0600.md",
       "title": "2026-04-13-0600"
@@ -78,10 +90,16 @@
     },
     {
       "timestamp": "2026-04-13T06:41:00+09:00",
-      "valuation_krw": 10000000,
+      "valuation_krw": 0,
       "price_krw": 105918832,
+      "action": "HOLD"
+    },
+    {
+      "timestamp": "2026-04-13T08:40:00+09:00",
+      "valuation_krw": 10000000,
+      "price_krw": 104782452,
       "action": "HOLD"
     }
   ],
-  "latest_report_file": "2026-04-13-0600.md"
+  "latest_report_file": "2026-04-13-0800.md"
 }
