@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>bit's today</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b1020;
+      --card: #141b34;
+      --muted: #9fb0d9;
+      --text: #edf2ff;
+      --accent: #7aa2ff;
+      --good: #45d483;
+      --warn: #f3c969;
+      --bad: #ff7b7b;
+      --border: #263154;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, #0b1020 0%, #121933 100%);
+      color: var(--text);
+      padding: 24px;
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 { margin: 0 0 8px; font-size: 34px; }
+    .sub { color: var(--muted); margin-bottom: 24px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+    .card {
+      background: rgba(20,27,52,.9);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.22);
+    }
+    .label { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+    .value { font-size: 28px; font-weight: 700; }
+    .small { font-size: 14px; color: var(--muted); }
+    .section-title { margin: 28px 0 12px; font-size: 20px; }
+    .pill {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .bullish { background: rgba(69,212,131,.15); color: var(--good); }
+    .neutral { background: rgba(243,201,105,.15); color: var(--warn); }
+    .bearish { background: rgba(255,123,123,.15); color: var(--bad); }
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      margin: 0;
+      font-family: inherit;
+      line-height: 1.6;
+    }
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>bit's today</h1>
+    <div class="sub">Bitcoin monitoring + paper trading dashboard</div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="label">현재 판단</div>
+        <div class="value" id="judgment">-</div>
+        <div class="small" id="confidence">confidence: -</div>
+      </div>
+      <div class="card">
+        <div class="label">추천 행동</div>
+        <div class="value" id="action">-</div>
+        <div class="small" id="timestamp">updated: -</div>
+      </div>
+      <div class="card">
+        <div class="label">가상 포트폴리오 가치</div>
+        <div class="value" id="valuation">-</div>
+        <div class="small" id="cash">cash: -</div>
+      </div>
+      <div class="card">
+        <div class="label">보유 BTC</div>
+        <div class="value" id="btc">-</div>
+        <div class="small" id="pnl">realized pnl: -</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-title">최신 리포트</div>
+      <pre id="report">불러오는 중...</pre>
+    </div>
+  </div>
+
+  <script>
+    async function load() {
+      try {
+        const [statusRes, reportRes] = await Promise.all([
+          fetch('./status.json?_=' + Date.now()),
+          fetch('./latest-report.md?_=' + Date.now())
+        ]);
+        const status = await statusRes.json();
+        const report = await reportRes.text();
+
+        document.getElementById('judgment').textContent = status.judgment || '-';
+        document.getElementById('confidence').textContent = 'confidence: ' + (status.confidence || '-');
+        document.getElementById('action').textContent = status.suggested_action || '-';
+        document.getElementById('timestamp').textContent = 'updated: ' + (status.updated_at || '-');
+        document.getElementById('valuation').textContent = status.last_valuation_krw || '-';
+        document.getElementById('cash').textContent = 'cash: ' + (status.cash_krw || '-');
+        document.getElementById('btc').textContent = status.btc || '-';
+        document.getElementById('pnl').textContent = 'realized pnl: ' + (status.realized_pnl_krw || '-');
+        document.getElementById('report').textContent = report;
+
+        const j = (status.judgment || '').toLowerCase();
+        const el = document.getElementById('judgment');
+        if (j === 'bullish') el.className = 'value pill bullish';
+        else if (j === 'bearish') el.className = 'value pill bearish';
+        else if (j === 'neutral') el.className = 'value pill neutral';
+      } catch (e) {
+        document.getElementById('report').textContent = '대시보드 데이터를 불러오지 못했습니다.\n' + e;
+      }
+    }
+    load();
+    setInterval(load, 60000);
+  </script>
+</body>
+</html>
