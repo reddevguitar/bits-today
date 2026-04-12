@@ -13,14 +13,9 @@ def fmt_krw(value):
         return f"{value:,.0f} KRW"
     return str(value)
 
-latest_report = None
 reports = sorted(REPORTS.glob('*.md'))
-if reports:
-    latest_report = reports[-1]
-
-portfolio = {}
-if PORTFOLIO.exists():
-    portfolio = json.loads(PORTFOLIO.read_text())
+latest_report = reports[-1] if reports else None
+portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
 
 judgment = 'unknown'
 confidence = 'unknown'
@@ -58,6 +53,22 @@ valuation = portfolio.get('last_valuation_krw', 0) or 0
 return_pct = ((valuation - initial_cash) / initial_cash * 100) if initial_cash else 0
 history = portfolio.get('history', []) or []
 recent_trades = history[-5:][::-1]
+chart_points = [
+    {
+        'timestamp': h.get('timestamp'),
+        'valuation_krw': round((portfolio.get('cash_krw', 0) if i == len(history)-1 else None) or 0),
+        'price_krw': h.get('price_krw', 0),
+        'action': h.get('action', '-')
+    }
+    for i, h in enumerate(history)
+]
+recent_reports = [
+    {
+        'file': p.name,
+        'title': p.stem,
+    }
+    for p in reports[-5:][::-1]
+]
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -78,6 +89,8 @@ status = {
     'last_updated': portfolio.get('last_updated', '-'),
     'summary': summary_lines[:6],
     'recent_trades': recent_trades,
+    'recent_reports': recent_reports,
+    'chart_points': chart_points,
     'latest_report_file': latest_report.name if latest_report else None,
 }
 (DASH / 'status.json').write_text(json.dumps(status, ensure_ascii=False, indent=2))
