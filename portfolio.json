@@ -5,11 +5,11 @@
   "cash_krw": 10000000,
   "btc": 0,
   "avg_buy_price_krw": 0,
-  "last_price_krw": 105610984,
+  "last_price_krw": 105564997,
   "last_valuation_krw": 10000000,
   "realized_pnl_krw": 0,
   "last_action": "HOLD",
-  "last_updated": "2026-04-13T04:40:00+09:00",
+  "last_updated": "2026-04-13T05:06:00+09:00",
   "trade_count": 0,
   "history": [
     {
@@ -19,6 +19,14 @@
       "btc_delta": 0,
       "cash_delta_krw": 0,
       "reason": "Neutral stance. BTC is down about 3.5% in 24h, while the 30-day range remains broadly sideways with mixed macro and crypto-policy headlines. No fresh, meaningful public-figure investment signal strong enough to justify a trade."
+    },
+    {
+      "timestamp": "2026-04-13T05:06:00+09:00",
+      "action": "HOLD",
+      "price_krw": 105564997,
+      "btc_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "Neutral stance. BTC rebounded about 3.1% over 7 days and remains above short moving averages, but the 24h drop and still-flat 30-day range keep conviction limited. Fresh news is mixed, and there is no meaningful new Trump-family or other public-figure investment signal to trade on."
     }
   ]
 }
