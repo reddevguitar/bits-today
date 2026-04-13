@@ -2,30 +2,48 @@
   "project": "bit's today",
   "judgment": "neutral",
   "confidence": "medium",
-  "suggested_action": "BTC·ONDO 홀드, AKT·ESP는 돌파 확인 전 대기, 현금 비중 유지.",
-  "updated_at": "2026-04-14 03:09 KST",
-  "market_status": "BTC는 107.1M원대 지지 후 107.3M원대로 재안착 중이고, 알트는 여전히 선택적 순환매 구간입니다.",
+  "suggested_action": "BTC·ONDO 홀드, AKT는 683원 안착 확인 시 재검토, 현금 비중 유지.",
+  "updated_at": "2026-04-14 03:39 KST",
+  "market_status": "BTC는 107.1M원대 지지 후 107.5M원대로 재상승 중이고, 알트는 여전히 선택적 순환매 구간입니다.",
   "fear_greed": "12 (Extreme Fear)",
-  "btc_snapshot": "107,363,000원, 일간 +1.57%. 30분봉 기준 저점 상승 뒤 107.3M원대 재안착입니다.",
+  "btc_snapshot": "107,530,000원, 일간 +1.73%. 30분봉 기준 107.15M원대 지지 후 107.5M원대로 재상승입니다.",
   "cash_krw": "4,500,001 KRW",
   "realized_pnl_krw": "0 KRW",
-  "last_valuation_krw": "10,015,617 KRW",
+  "last_valuation_krw": "10,019,866 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 0.16,
+  "return_pct": 0.2,
   "last_action": "HOLD",
   "trade_count": 3,
-  "last_updated": "2026-04-14T03:09:00+09:00",
+  "last_updated": "2026-04-14T03:39:00+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 최근 30분봉에서 저점이 높아지며 107.3M원대 재안착을 시도 중이고, ONDO는 369원 박스권입니다.",
+    "단기 차트 요약: BTC는 30분봉, 5분봉 모두 저점 상승 뒤 107.5M원대까지 재반등했고, ONDO는 369원 박스권입니다.",
     "전략 상태 반영 요약: 캐시된 cautious bullish는 유지하되 실행 판단은 neutral로 유지합니다.",
-    "현재 보유 포트폴리오 요약: BTC 0.04215922, ONDO 2680.96514745, 현금 4,500,000.97원, 총 평가 10,015,617.45원입니다.",
-    "코인별 대응 전략 요약: BTC는 107.8M원 돌파 전 홀드, ONDO는 379원 재도전 전 홀드, AKT와 ESP는 확인 전 대기입니다.",
-    "근거: 공포탐욕지수 12로 리스크 선호는 약하지만 BTC 저점 상승 구조는 아직 유지됩니다.",
+    "현재 보유 포트폴리오 요약: BTC 0.04215922, ONDO 2680.96514745, 현금 4,500,000.97원, 총 평가 10,019,866.06원입니다.",
+    "코인별 대응 전략 요약: BTC는 107.8M원 돌파 전 홀드, ONDO는 379원 재도전 전 홀드, AKT는 683원 안착 확인 전 대기입니다.",
+    "근거: 공포탐욕지수 12로 리스크 선호는 약하지만 BTC 단기 재반등 구조는 유지됩니다.",
     "가상 매매 실행 내용: 이번 회차는 신규 매수/매도 없이 HOLD 대응입니다.",
-    "포트폴리오 현황: 현금 4,500,000.97원, BTC 평가 4,526,340.34원, ONDO 평가 989,276.14원, 총 평가 10,015,617.45원입니다.",
+    "포트폴리오 현황: 현금 4,500,000.97원, BTC 평가 4,533,379.82원, ONDO 평가 989,276.14원, 총 평가 10,019,866.06원입니다.",
     "주의사항: 실거래가 아닌 가상 기록이며, 소형 알트는 돌파 확인 없는 추격 매수를 피해야 합니다."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-14T03:39:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 369,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "369원 박스권이 이어져 신규 확대보다 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T03:39:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 107530000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "5분봉 재반등으로 단기 모멘텀은 살아 있지만 107.8M원 돌파 확인 전까지는 기존 비중 홀드가 적절합니다."
+    },
     {
       "timestamp": "2026-04-14T03:09:00+09:00",
       "symbol": "ONDO",
@@ -79,27 +97,13 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "30분봉 상승 추세는 유지되지만 5분봉은 107.5M원 부근에서 짧은 눌림이라 보유 관리가 적절."
-    },
-    {
-      "timestamp": "2026-04-14T01:39:00+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 371,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "371원 반등은 확인됐지만 아직 돌파형이 아니라 기존 비중 유지가 적절."
-    },
-    {
-      "timestamp": "2026-04-14T01:39:00+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 107364000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "107.3M원대 횡보로 추세는 유지되지만 107.7M원 재돌파 전까지는 보유 관리가 적절."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-14-0339.md",
+      "title": "2026-04-14-0339"
+    },
     {
       "file": "2026-04-14-0309.md",
       "title": "2026-04-14-0309"
@@ -127,10 +131,6 @@
     {
       "file": "2026-04-14-0039.md",
       "title": "2026-04-14-0039"
-    },
-    {
-      "file": "2026-04-14-0027.md",
-      "title": "2026-04-14-0027"
     }
   ],
   "positions": [
@@ -139,7 +139,7 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": "106,738,489 KRW",
-      "last_price_krw": "107,363,000 KRW",
+      "last_price_krw": "107,530,000 KRW",
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
       "strategy": "107.8M원 돌파 전까지 홀드, 106.6M원 이탈 시 일부 축소"
     },
@@ -204,6 +204,11 @@
         "timestamp": "2026-04-14T03:09:00+09:00",
         "price_krw": 107363000,
         "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-14T03:39:00+09:00",
+        "price_krw": 107530000,
+        "action": "HOLD"
       }
     ],
     "ONDO": [
@@ -241,8 +246,13 @@
         "timestamp": "2026-04-14T03:09:00+09:00",
         "price_krw": 369,
         "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-14T03:39:00+09:00",
+        "price_krw": 369,
+        "action": "HOLD"
       }
     ]
   },
-  "latest_report_file": "2026-04-14-0309.md"
+  "latest_report_file": "2026-04-14-0339.md"
 }
