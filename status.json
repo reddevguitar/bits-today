@@ -3,27 +3,35 @@
   "judgment": "neutral",
   "confidence": "medium",
   "suggested_action": "hold",
-  "updated_at": "2026-04-13T10:40:00+09:00",
+  "updated_at": "2026-04-13T12:40:00+09:00",
   "cash_krw": "10,000,000 KRW",
   "btc": "0 BTC",
   "avg_buy_price_krw": "0 KRW",
-  "last_price_krw": "105,705,745 KRW",
+  "last_price_krw": "105,416,090 KRW",
   "realized_pnl_krw": "0 KRW",
   "last_valuation_krw": "10,000,000 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.0,
   "last_action": "HOLD",
   "trade_count": 0,
-  "last_updated": "2026-04-13T10:40:00+09:00",
+  "last_updated": "2026-04-13T12:40:00+09:00",
   "summary": [
-    "BTC snapshot: BTC around $71,157, about 105,705,745 KRW using USD/KRW 1,485.53. 24h change about -0.75%, 7d about +3.35%, 30d about -0.09%.",
-    "Trend summary: Short term momentum softened after the weekend drop, but BTC is still modestly above last week and sitting in a broad 30-day range, roughly $65,968 to $74,885.",
-    "News summary: Recent headlines are mixed. Reuters reported US Treasury Secretary Bessent urging Congress to pass a crypto regulation bill, which is broadly supportive for the asset class. Reuters also highlighted concerns around Kraken's Fed payment account, reminding markets that regulatory and banking-friction risks remain. Macro risk is also back in focus as oil spiked on Hormuz-related tensions, and BTC extended losses during that risk-off move.",
-    "- BTC is holding above last week's level, but the 24h tape is still soft and the 30-day picture is basically sideways.",
-    "- Policy and institutional headlines are somewhat supportive, especially around crypto regulation and ETF/institutional demand.",
-    "- Macro stress, especially oil-shock and broader risk sentiment, is capping upside conviction right now."
+    "BTC snapshot: BTC around $70,962, about 105,416,090 KRW using USD/KRW 1,485.53. 24h change about -1.02%, 7d about +2.51%, 30d about +0.14%. 24h range about $70,617 to $71,772, market cap about $1.42T.",
+    "Trend summary: BTC remains in a broad sideways-to-slightly-positive range. It is modestly above last week, essentially flat versus 30 days, and still below major cycle highs, which suggests trend support but not a clean momentum breakout.",
+    "News summary: Recent coverage stays mixed. Reuters reported Treasury Secretary Scott Bessent urging Congress to pass a crypto market-structure bill, which is supportive for the asset class. Separate Reuters-reported coverage around Kraken's Fed payment-account setup shows ongoing regulatory and banking-risk debate. Broader macro conditions still look cautious, with markets sensitive to inflation, rates, and geopolitical risk.",
+    "- BTC is slightly weaker over 24 hours but still modestly positive over 7 days, which keeps the setup balanced rather than decisively bearish.",
+    "- The 30-day picture is basically flat, so trend context does not justify chasing.",
+    "- Regulatory and institutional headlines are mildly supportive, but macro risk still caps upside conviction."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-13T12:40:00+09:00",
+      "action": "HOLD",
+      "price_krw": 105416090,
+      "btc_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "Neutral stance. BTC is down about 1.0% in 24h, up about 2.5% in 7 days, and roughly flat over 30 days while remaining inside a broad recent range. Policy and ETF context are mildly supportive, but macro risk and mixed short-term tape still limit conviction, and there is no meaningful fresh public-figure BTC accumulation signal strong enough to justify a trade."
+    },
     {
       "timestamp": "2026-04-13T10:40:00+09:00",
       "action": "HOLD",
@@ -55,17 +63,13 @@
       "btc_delta": 0,
       "cash_delta_krw": 0,
       "reason": "Neutral stance. BTC rebounded about 3.1% over 7 days and remains above short moving averages, but the 24h drop and still-flat 30-day range keep conviction limited. Fresh news is mixed, and there is no meaningful new Trump-family or other public-figure investment signal to trade on."
-    },
-    {
-      "timestamp": "2026-04-13T04:40:00+09:00",
-      "action": "HOLD",
-      "price_krw": 105610984,
-      "btc_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "Neutral stance. BTC is down about 3.5% in 24h, while the 30-day range remains broadly sideways with mixed macro and crypto-policy headlines. No fresh, meaningful public-figure investment signal strong enough to justify a trade."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-13-1200.md",
+      "title": "2026-04-13-1200"
+    },
     {
       "file": "2026-04-13-1000.md",
       "title": "2026-04-13-1000"
@@ -81,10 +85,6 @@
     {
       "file": "2026-04-13-0500.md",
       "title": "2026-04-13-0500"
-    },
-    {
-      "file": "2026-04-13-0400.md",
-      "title": "2026-04-13-0400"
     }
   ],
   "chart_points": [
@@ -114,10 +114,16 @@
     },
     {
       "timestamp": "2026-04-13T10:40:00+09:00",
-      "valuation_krw": 10000000,
+      "valuation_krw": 0,
       "price_krw": 105705745,
+      "action": "HOLD"
+    },
+    {
+      "timestamp": "2026-04-13T12:40:00+09:00",
+      "valuation_krw": 10000000,
+      "price_krw": 105416090,
       "action": "HOLD"
     }
   ],
-  "latest_report_file": "2026-04-13-1000.md"
+  "latest_report_file": "2026-04-13-1200.md"
 }

@@ -1,16 +1,16 @@
-- Timestamp: 2026-04-13T10:40:00+09:00
-- BTC snapshot: BTC around $71,157, about 105,705,745 KRW using USD/KRW 1,485.53. 24h change about -0.75%, 7d about +3.35%, 30d about -0.09%.
-- Trend summary: Short term momentum softened after the weekend drop, but BTC is still modestly above last week and sitting in a broad 30-day range, roughly $65,968 to $74,885.
-- News summary: Recent headlines are mixed. Reuters reported US Treasury Secretary Bessent urging Congress to pass a crypto regulation bill, which is broadly supportive for the asset class. Reuters also highlighted concerns around Kraken's Fed payment account, reminding markets that regulatory and banking-friction risks remain. Macro risk is also back in focus as oil spiked on Hormuz-related tensions, and BTC extended losses during that risk-off move.
-- Notable public-figure investment note if any: No meaningful fresh bullish public-figure BTC accumulation signal. Trump-linked World Liberty Financial is in the news, but the fresh coverage is about governance, insider-loan, and investor-dispute issues rather than a constructive new Bitcoin investment signal. Separately, Strategy's $330 million Bitcoin purchase on April 6 remains supportive context, but it is not a fresh enough catalyst on its own this morning.
+- Timestamp: 2026-04-13T12:40:00+09:00
+- BTC snapshot: BTC around $70,962, about 105,416,090 KRW using USD/KRW 1,485.53. 24h change about -1.02%, 7d about +2.51%, 30d about +0.14%. 24h range about $70,617 to $71,772, market cap about $1.42T.
+- Trend summary: BTC remains in a broad sideways-to-slightly-positive range. It is modestly above last week, essentially flat versus 30 days, and still below major cycle highs, which suggests trend support but not a clean momentum breakout.
+- News summary: Recent coverage stays mixed. Reuters reported Treasury Secretary Scott Bessent urging Congress to pass a crypto market-structure bill, which is supportive for the asset class. Separate Reuters-reported coverage around Kraken's Fed payment-account setup shows ongoing regulatory and banking-risk debate. Broader macro conditions still look cautious, with markets sensitive to inflation, rates, and geopolitical risk.
+- Notable public-figure investment note if any: No meaningful fresh signal. Trump-linked crypto coverage remains more about venture access, governance, and controversy than a new Bitcoin accumulation catalyst. Older Trump-linked or other public-figure BTC exposure stories are not fresh enough to trade on here.
 - Judgment: neutral
 - Confidence: medium
 - Reasons:
-  - BTC is holding above last week's level, but the 24h tape is still soft and the 30-day picture is basically sideways.
-  - Policy and institutional headlines are somewhat supportive, especially around crypto regulation and ETF/institutional demand.
-  - Macro stress, especially oil-shock and broader risk sentiment, is capping upside conviction right now.
-  - No fresh celebrity or Trump-linked accumulation signal changes the setup in a meaningful way.
+  - BTC is slightly weaker over 24 hours but still modestly positive over 7 days, which keeps the setup balanced rather than decisively bearish.
+  - The 30-day picture is basically flat, so trend context does not justify chasing.
+  - Regulatory and institutional headlines are mildly supportive, but macro risk still caps upside conviction.
+  - No meaningful fresh public-figure investment headline changes the near-term setup.
 - Suggested action: hold
-- Virtual trade: No trade. Maintain cash at current levels and wait for either a cleaner breakout above the recent range or a deeper pullback with stabilization.
-- Portfolio snapshot: cash 10,000,000 KRW, BTC 0, average buy 0 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
-- Caveats: This is paper trading only. Price, FX, and news were sampled from public web sources and may lag slightly. If macro headlines move fast, the near-term BTC picture can change quickly.
+- Virtual trade: No trade. Maintain current cash and wait for either a cleaner breakout above the recent range or a better risk-reward pullback with stabilization.
+- Portfolio snapshot: cash 10,000,000 KRW, BTC 0 , average buy 0 KRW, last price 105,416,090 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
+- Caveats: This is paper trading only. Public web price, FX, and news inputs may lag. If ETF-flow or macro headlines shift quickly, the short-term BTC view can change fast.
