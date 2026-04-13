@@ -32,17 +32,18 @@
     .summary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 18px; }
     .asset-grid { display: grid; gap: 10px; margin-top: 12px; }
     .asset-row { background: #0d1626; border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
-    .asset-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
-    .asset-name { font-size: 17px; font-weight: 800; color: #fff; }
-    .asset-market { font-size: 12px; color: var(--muted); }
+    .asset-head { display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px; gap: 8px; }
+    .asset-name { font-size: 16px; font-weight: 800; color: #fff; }
+    .asset-market { font-size: 12px; color: var(--muted); margin-top: 2px; }
     .asset-values { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
     .label { color: var(--muted); font-size: 13px; margin-bottom: 6px; }
-    .big { font-size: 30px; font-weight: 800; color: #fff; }
-    .mid { font-size: 22px; font-weight: 800; color: #fff; }
+    .big { font-size: 26px; font-weight: 800; color: #fff; line-height: 1.2; }
+    .mid { font-size: 18px; font-weight: 800; color: #fff; line-height: 1.25; }
+    .money { font-size: 28px; font-weight: 800; color: #fff; line-height: 1.15; }
     .small { font-size: 12px; color: var(--muted); }
-    .buy { color: var(--buy); }
-    .sell { color: var(--sell); }
-    .hold { color: var(--hold); }
+    .buy { color: var(--buy) !important; }
+    .sell { color: var(--sell) !important; }
+    .hold { color: var(--hold) !important; }
     .toolbar { display: flex; gap: 8px; padding: 12px 14px; background: #0f1728; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); overflow: auto; }
     .pill { padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--muted); white-space: nowrap; font-size: 13px; }
     .pill.active { color: var(--blue); border-color: var(--blue); background: rgba(76,141,255,.08); }
@@ -63,7 +64,7 @@
     .badge.buy { background: rgba(255,107,87,.15); color: var(--buy); }
     .badge.sell { background: rgba(76,141,255,.15); color: var(--sell); }
     .badge.hold { background: rgba(179,192,218,.12); color: var(--hold); }
-    .trade-main { font-size: 22px; font-weight: 900; margin-bottom: 6px; color: #fff; }
+    .trade-main { font-size: 20px; font-weight: 900; margin-bottom: 6px; color: #fff; }
     .trade-sub { font-size: 13px; color: var(--muted); line-height: 1.5; }
     pre { margin: 0; white-space: pre-wrap; word-break: break-word; font-family: inherit; line-height: 1.6; color: #eef3ff; font-size: 13px; }
   </style>
@@ -87,11 +88,11 @@
           <div class="summary-grid">
             <div>
               <div class="label">총 보유자산</div>
-              <div class="big" id="valuation">-</div>
+              <div class="money" id="valuation">-</div>
             </div>
             <div>
               <div class="label">남은 현금</div>
-              <div class="big" id="cash">-</div>
+              <div class="money" id="cash">-</div>
             </div>
             <div>
               <div class="label">평가손익</div>
@@ -143,7 +144,7 @@
           <div class="summary-grid">
             <div>
               <div class="label">누적 수익</div>
-              <div class="big buy" id="profitValue2">-</div>
+              <div class="money buy" id="profitValue2">-</div>
             </div>
             <div>
               <div class="label">누적 수익률</div>
@@ -151,7 +152,7 @@
             </div>
             <div>
               <div class="label">투자원금</div>
-              <div class="mid" id="initialCash">-</div>
+              <div class="money" id="initialCash">-</div>
             </div>
             <div>
               <div class="label">실현 손익</div>
@@ -189,6 +190,18 @@
   </div>
 
   <script>
+    const NAME_MAP = {
+      BTC: '비트코인',
+      ETH: '이더리움',
+      XRP: '리플',
+      ONDO: '온도',
+      SOL: '솔라나',
+      DOGE: '도지코인',
+      SUI: '수이',
+      AVAX: '아발란체',
+      AKT: '아카시네트워크',
+      ESP: '에스피'
+    };
     function addNode(container, html, cls='note-item') {
       const el = document.createElement('div');
       el.className = cls;
@@ -204,7 +217,7 @@
       return Number(String(text || '').replace(/[^0-9.-]/g, '')) || 0;
     }
     function fmtKrw(value) {
-      return `${Math.round(Number(value || 0)).toLocaleString()} KRW`;
+      return Math.round(Number(value || 0)).toLocaleString();
     }
     function updateClock() {
       const d = new Date();
@@ -231,11 +244,12 @@
         const realized = parseNumber(status.realized_pnl_krw);
         const profit = valuation - initial;
 
-        document.getElementById('valuation').textContent = status.last_valuation_krw || '-';
-        document.getElementById('cash').textContent = status.cash_krw || '-';
-        document.getElementById('profitValue').textContent = fmtKrw(profit);
+        document.getElementById('valuation').innerHTML = `₩<br>${fmtKrw(valuation)}`;
+        document.getElementById('cash').innerHTML = `₩<br>${fmtKrw(parseNumber(status.cash_krw))}`;
+        document.getElementById('profitValue').textContent = `${profit >= 0 ? '+' : '-'}${fmtKrw(Math.abs(profit))} KRW`;
         document.getElementById('profitValue').className = 'mid ' + (profit >= 0 ? 'buy' : 'sell');
         document.getElementById('returnPct').textContent = `수익률 ${status.return_pct ?? '-'}%`;
+        document.getElementById('returnPct').className = 'small ' + ((Number(status.return_pct || 0) >= 0) ? 'buy' : 'sell');
         document.getElementById('judgment').textContent = status.judgment || '-';
         document.getElementById('action').textContent = `추천 행동 ${status.suggested_action || '-'}`;
         document.getElementById('marketStatus').textContent = status.market_status || '-';
@@ -244,11 +258,12 @@
         document.getElementById('fearGreed').textContent = status.fear_greed || '-';
         document.getElementById('fearNeedle').style.left = `calc(${parseFearValue(status.fear_greed)}% - 2px)`;
 
-        document.getElementById('profitValue2').textContent = fmtKrw(profit);
-        document.getElementById('profitValue2').className = 'big ' + (profit >= 0 ? 'buy' : 'sell');
+        document.getElementById('profitValue2').textContent = `${profit >= 0 ? '+' : '-'}${fmtKrw(Math.abs(profit))} KRW`;
+        document.getElementById('profitValue2').className = 'money ' + (profit >= 0 ? 'buy' : 'sell');
         document.getElementById('returnPct2').textContent = `${status.return_pct ?? '-'}%`;
-        document.getElementById('initialCash').textContent = status.initial_cash_krw || '-';
-        document.getElementById('realizedPnl').textContent = fmtKrw(realized);
+        document.getElementById('returnPct2').className = 'mid ' + ((Number(status.return_pct || 0) >= 0) ? 'buy' : 'sell');
+        document.getElementById('initialCash').innerHTML = `₩<br>${fmtKrw(initial)}`;
+        document.getElementById('realizedPnl').textContent = `${realized >= 0 ? '+' : '-'}${fmtKrw(Math.abs(realized))} KRW`;
         document.getElementById('realizedPnl').className = 'mid ' + (realized >= 0 ? 'buy' : 'sell');
 
         document.getElementById('report').textContent = report;
@@ -258,13 +273,18 @@
         (status.positions || []).forEach((p) => {
           const amount = Number(p.amount || 0);
           const last = parseNumber(p.last_price_krw);
+          const avg = parseNumber(p.avg_buy_price_krw);
           const evalAmount = amount * last;
+          const pnl = (last - avg) * amount;
+          const rate = avg ? (((last - avg) / avg) * 100) : 0;
+          const pnlCls = pnl >= 0 ? 'buy' : 'sell';
+          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
           const row = document.createElement('div');
           row.className = 'asset-row';
           row.innerHTML = `
             <div class="asset-head">
               <div>
-                <div class="asset-name">${p.symbol}</div>
+                <div class="asset-name">${name}</div>
                 <div class="asset-market">${p.market}</div>
               </div>
               <div class="small">보유량 ${amount}</div>
@@ -276,7 +296,15 @@
               </div>
               <div>
                 <div class="label">평가금액</div>
-                <div class="mid">${fmtKrw(evalAmount)}</div>
+                <div class="mid">${fmtKrw(evalAmount)} KRW</div>
+              </div>
+              <div>
+                <div class="label">평가손익</div>
+                <div class="mid ${pnlCls}">${pnl >= 0 ? '+' : '-'}${fmtKrw(Math.abs(pnl))} KRW</div>
+              </div>
+              <div>
+                <div class="label">수익률</div>
+                <div class="mid ${pnlCls}">${rate.toFixed(2)}%</div>
               </div>
             </div>
           `;
@@ -292,7 +320,8 @@
         const strategyList = document.getElementById('strategyList');
         strategyList.innerHTML = '';
         (status.positions || []).forEach((p) => {
-          addNode(strategyList, `<div class="strategy-title">${p.symbol} · ${p.market}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
+          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
+          addNode(strategyList, `<div class="strategy-title">${name}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
         });
 
         const summaryList = document.getElementById('summaryList');
@@ -306,12 +335,12 @@
           const cls = action.includes('BUY') ? 'buy-log' : action.includes('SELL') ? 'sell-log' : 'hold-log';
           const badgeCls = action.includes('BUY') ? 'buy' : action.includes('SELL') ? 'sell' : 'hold';
           const total = Math.abs(parseNumber(t.cash_delta_krw));
-          const totalText = total > 0 ? fmtKrw(total) : '거래 없음';
+          const totalText = total > 0 ? `${fmtKrw(total)} KRW` : '거래 없음';
           const mainText = action.includes('BUY') ? `총 ${totalText} 매수` : action.includes('SELL') ? `총 ${totalText} 매도` : `${t.symbol || '코인'} 관망`;
-          const priceText = fmtKrw(t.price_krw);
+          const priceText = `${fmtKrw(t.price_krw)} KRW`;
           addNode(tradeList, `
             <div class="trade-head">
-              <div class="strategy-title">${t.symbol || 'COIN'} · ${t.timestamp || '-'}</div>
+              <div class="strategy-title">${NAME_MAP[t.symbol] || t.symbol || 'COIN'} (${t.symbol || '-'}) · ${t.timestamp || '-'}</div>
               <div class="badge ${badgeCls}">${action}</div>
             </div>
             <div class="trade-main ${badgeCls}">${mainText}</div>
