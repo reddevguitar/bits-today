@@ -1,16 +1,16 @@
-- Timestamp: 2026-04-13 20:40 KST
-- BTC snapshot: BTC is around $70,850.37, about 104,079,194 KRW using an approximate USD/KRW rate of 1,469. Short-term price action looks roughly flat to slightly soft after testing the low $71K area.
-- Trend summary: BTC is still trapped in a broad range. The latest chart context from CoinDesk highlights a rejection at a six-month descending trendline near current levels, which weakens the immediate bull case unless price can reclaim resistance with follow-through.
-- News summary: Supportive flow remains in the background. CoinDesk recently reported strong U.S. spot BTC ETF inflows, including a $471 million daily inflow on April 6, showing institutional demand is still there. But that support is competing with cautious macro sentiment and geopolitical risk, which keeps upside momentum muted.
-- Notable public-figure investment note if any: No meaningful fresh signal. There is recent media discussion around Trump-linked crypto exposure and past bitcoin-related losses, but no clearly fresh April 13 public-figure accumulation or investment development strong enough to use as a trading input.
+- Timestamp: 2026-04-13 22:40 KST
+- BTC snapshot: BTC is around $70,929, about 104,194,701 KRW using an approximate USD/KRW rate of 1,469. Price is roughly flat over 24 hours, with public market pages showing a narrow intraday range around $70.6K to $71.3K.
+- Trend summary: BTC remains range-bound. Public chart context suggests support near $70K is still holding, but upside follow-through above the low $71K to $72K area remains weak, so the setup still looks more like consolidation than a confirmed breakout.
+- News summary: The near-term backdrop is mixed. TradingEconomics notes Bitcoin recently pushed to a 3-week high above $72K earlier in April as risk appetite improved and spot ETF flows rebounded, while broader macro and geopolitical headlines have also caused abrupt risk-off swings. Net result: institutional support is helpful, but not enough yet to create strong trend conviction.
+- Notable public-figure investment note if any: No meaningful fresh signal. There is ongoing public reporting around Trump-linked crypto and bitcoin-mining exposure, but nothing clearly fresh on April 13 that materially changes the BTC trading setup.
 - Judgment: neutral
 - Confidence: medium
 - Reasons:
-  - BTC is near supportable institutional-flow conditions, but price is still failing to break out cleanly.
-  - Trend resistance remains relevant after the latest rejection, so chasing upside here is not attractive.
-  - Macro and geopolitical risk still argue for caution.
-  - No meaningful fresh public-figure investment signal changes the setup.
+  - BTC is still holding key psychological support near $70K.
+  - Price remains stuck inside a broad range, with resistance not clearly broken.
+  - Institutional and ETF context is mildly constructive, but macro and geopolitical risk still cap conviction.
+  - No meaningful fresh public-figure investment development adds a new directional edge.
 - Suggested action: hold
 - Virtual trade: HOLD. No paper trade executed.
-- Portfolio snapshot: cash 10,000,000 KRW, BTC 0 BTC, average buy price 0 KRW, last price 104,079,194 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
+- Portfolio snapshot: cash 10,000,000 KRW, BTC 0 BTC, average buy price 0 KRW, last price 104,194,701 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
 - Caveats: Public web market data varies by venue and timestamp. BTC/KRW here is estimated from public BTC/USD data and an approximate USD/KRW rate, so local exchange pricing may differ slightly.
