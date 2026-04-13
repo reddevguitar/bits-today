@@ -8,7 +8,6 @@
     :root {
       --bg: #0b1220;
       --panel: #111a2b;
-      --panel2: #152238;
       --line: #25324b;
       --text: #f4f7ff;
       --muted: #a8b4cf;
@@ -16,207 +15,57 @@
       --buy: #ff6b57;
       --sell: #4c8dff;
       --hold: #b3c0da;
-      --good: #16c784;
-      --warn: #f3ba2f;
-      --bad: #ff5b6e;
     }
     * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    }
-    .app {
-      max-width: 430px;
-      margin: 0 auto;
-      min-height: 100vh;
-      background: linear-gradient(180deg, #0b1220 0%, #10192b 100%);
-    }
-    .topbar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 14px 16px 10px;
-      font-weight: 700;
-      font-size: 15px;
-      color: #ffffff;
-    }
-    .title {
-      text-align: center;
-      font-size: 18px;
-      font-weight: 800;
-      padding: 4px 16px 14px;
-      color: #ffffff;
-    }
-    .search {
-      margin: 0 12px 12px;
-      background: #0d1626;
-      border: 1px solid var(--line);
-      border-radius: 10px;
-      padding: 12px 14px;
-      color: var(--muted);
-      font-size: 14px;
-    }
-    .tabs {
-      display: flex;
-      border-bottom: 1px solid var(--line);
-      background: #0f1728;
-    }
-    .tab {
-      flex: 1;
-      text-align: center;
-      padding: 14px 6px;
-      color: var(--muted);
-      font-weight: 700;
-      border-bottom: 2px solid transparent;
-      cursor: pointer;
-    }
-    .tab.active {
-      color: #ffffff;
-      border-bottom-color: #ffffff;
-    }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .app { max-width: 430px; margin: 0 auto; min-height: 100vh; background: linear-gradient(180deg, #0b1220 0%, #10192b 100%); }
+    .topbar { display: flex; justify-content: space-between; align-items: center; padding: 14px 16px 10px; font-weight: 700; font-size: 15px; color: #fff; }
+    .title { text-align: center; font-size: 18px; font-weight: 800; padding: 4px 16px 14px; color: #fff; }
+    .search { margin: 0 12px 12px; background: #0d1626; border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; color: var(--muted); font-size: 14px; }
+    .tabs { display: flex; border-bottom: 1px solid var(--line); background: #0f1728; }
+    .tab { flex: 1; text-align: center; padding: 14px 6px; color: var(--muted); font-weight: 700; border-bottom: 2px solid transparent; cursor: pointer; }
+    .tab.active { color: #fff; border-bottom-color: #fff; }
     .screen { display: none; }
     .screen.active { display: block; }
     .section { padding: 14px 14px 0; }
-    .card, .box {
-      background: var(--panel);
-      border-top: 1px solid var(--line);
-      border-bottom: 1px solid var(--line);
-      padding: 16px 14px;
-    }
-    .summary-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px 18px;
-    }
+    .card, .box { background: var(--panel); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 16px 14px; }
+    .summary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 18px; }
+    .asset-grid { display: grid; gap: 10px; margin-top: 12px; }
+    .asset-row { background: #0d1626; border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
+    .asset-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .asset-name { font-size: 17px; font-weight: 800; color: #fff; }
+    .asset-market { font-size: 12px; color: var(--muted); }
+    .asset-values { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
     .label { color: var(--muted); font-size: 13px; margin-bottom: 6px; }
-    .big { font-size: 30px; font-weight: 800; color: #ffffff; }
-    .mid { font-size: 22px; font-weight: 800; color: #ffffff; }
+    .big { font-size: 30px; font-weight: 800; color: #fff; }
+    .mid { font-size: 22px; font-weight: 800; color: #fff; }
     .small { font-size: 12px; color: var(--muted); }
     .buy { color: var(--buy); }
     .sell { color: var(--sell); }
     .hold { color: var(--hold); }
-    .toolbar {
-      display: flex;
-      gap: 8px;
-      padding: 12px 14px;
-      background: #0f1728;
-      border-top: 1px solid var(--line);
-      border-bottom: 1px solid var(--line);
-      overflow: auto;
-    }
-    .pill {
-      padding: 8px 12px;
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      color: var(--muted);
-      white-space: nowrap;
-      font-size: 13px;
-    }
-    .pill.active {
-      color: var(--blue);
-      border-color: var(--blue);
-      background: rgba(76,141,255,.08);
-    }
+    .toolbar { display: flex; gap: 8px; padding: 12px 14px; background: #0f1728; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); overflow: auto; }
+    .pill { padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--muted); white-space: nowrap; font-size: 13px; }
+    .pill.active { color: var(--blue); border-color: var(--blue); background: rgba(76,141,255,.08); }
     .gauge-wrap { margin-top: 10px; }
-    .gauge {
-      height: 12px;
-      border-radius: 999px;
-      background: linear-gradient(90deg, #2f8fef, #f1b63b, #ff5b6e);
-      position: relative;
-      overflow: hidden;
-    }
-    .needle {
-      position: absolute;
-      top: -2px;
-      width: 4px;
-      height: 16px;
-      background: #fff;
-      border-radius: 3px;
-    }
-    .list-head, .coin-row {
-      display: grid;
-      grid-template-columns: 1.2fr .95fr .8fr 1fr;
-      gap: 8px;
-      align-items: center;
-    }
-    .list-head {
-      color: var(--muted);
-      font-size: 12px;
-      padding: 10px 14px;
-      border-bottom: 1px solid var(--line);
-      background: #101a2b;
-    }
-    .coin-row {
-      padding: 12px 14px;
-      border-bottom: 1px solid rgba(37,50,75,.7);
-      font-size: 14px;
-    }
-    .coin-name { font-weight: 800; color: #ffffff; }
-    .coin-sub { font-size: 12px; color: var(--muted); margin-top: 3px; }
-    .num { text-align: right; font-variant-numeric: tabular-nums; }
-    .strategy-box, .note-box, .report-box {
-      background: var(--panel);
-      border-top: 1px solid var(--line);
-      border-bottom: 1px solid var(--line);
-      padding: 14px;
-      margin-top: 12px;
-    }
-    .section-title { font-size: 16px; font-weight: 800; margin-bottom: 12px; color: #ffffff; }
-    .strategy-item, .note-item {
-      padding: 10px 0;
-      border-bottom: 1px solid rgba(37,50,75,.7);
-      color: #eef3ff;
-    }
+    .gauge { height: 12px; border-radius: 999px; background: linear-gradient(90deg, #2f8fef, #f1b63b, #ff5b6e); position: relative; overflow: hidden; }
+    .needle { position: absolute; top: -2px; width: 4px; height: 16px; background: #fff; border-radius: 3px; }
+    .strategy-box, .note-box, .report-box { background: var(--panel); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 14px; margin-top: 12px; }
+    .section-title { font-size: 16px; font-weight: 800; margin-bottom: 12px; color: #fff; }
+    .strategy-item, .note-item { padding: 10px 0; border-bottom: 1px solid rgba(37,50,75,.7); color: #eef3ff; }
     .strategy-item:last-child, .note-item:last-child { border-bottom: 0; }
-    .strategy-title { font-weight: 800; margin-bottom: 6px; color: #ffffff; }
-    .trade-log {
-      padding: 12px;
-      border-radius: 12px;
-      margin-bottom: 10px;
-      border: 1px solid var(--line);
-      background: #0d1626;
-    }
+    .strategy-title { font-weight: 800; margin-bottom: 6px; color: #fff; }
+    .trade-log { padding: 12px; border-radius: 12px; margin-bottom: 10px; border: 1px solid var(--line); background: #0d1626; }
     .trade-log.buy-log { border-left: 4px solid var(--buy); }
     .trade-log.sell-log { border-left: 4px solid var(--sell); }
     .trade-log.hold-log { border-left: 4px solid var(--hold); }
-    .trade-head {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 8px;
-    }
-    .badge {
-      font-size: 12px;
-      font-weight: 800;
-      padding: 4px 8px;
-      border-radius: 999px;
-    }
+    .trade-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 8px; }
+    .badge { font-size: 12px; font-weight: 800; padding: 4px 8px; border-radius: 999px; }
     .badge.buy { background: rgba(255,107,87,.15); color: var(--buy); }
     .badge.sell { background: rgba(76,141,255,.15); color: var(--sell); }
     .badge.hold { background: rgba(179,192,218,.12); color: var(--hold); }
-    .trade-main {
-      font-size: 22px;
-      font-weight: 900;
-      margin-bottom: 6px;
-      color: #ffffff;
-    }
-    .trade-sub {
-      font-size: 13px;
-      color: var(--muted);
-      line-height: 1.5;
-    }
-    pre {
-      margin: 0;
-      white-space: pre-wrap;
-      word-break: break-word;
-      font-family: inherit;
-      line-height: 1.6;
-      color: #eef3ff;
-      font-size: 13px;
-    }
+    .trade-main { font-size: 22px; font-weight: 900; margin-bottom: 6px; color: #fff; }
+    .trade-sub { font-size: 13px; color: var(--muted); line-height: 1.5; }
+    pre { margin: 0; white-space: pre-wrap; word-break: break-word; font-family: inherit; line-height: 1.6; color: #eef3ff; font-size: 13px; }
   </style>
 </head>
 <body>
@@ -241,13 +90,13 @@
               <div class="big" id="valuation">-</div>
             </div>
             <div>
+              <div class="label">남은 현금</div>
+              <div class="big" id="cash">-</div>
+            </div>
+            <div>
               <div class="label">평가손익</div>
               <div class="mid buy" id="profitValue">-</div>
               <div class="small" id="returnPct">-</div>
-            </div>
-            <div>
-              <div class="label">보유 KRW</div>
-              <div class="mid" id="cash">-</div>
             </div>
             <div>
               <div class="label">종합 투자의견</div>
@@ -255,13 +104,13 @@
               <div class="small" id="action">-</div>
             </div>
           </div>
+
+          <div class="asset-grid" id="assetGrid"></div>
         </div>
       </div>
 
       <div class="toolbar">
-        <div class="pill active">KRW</div>
-        <div class="pill">BTC</div>
-        <div class="pill">USDT</div>
+        <div class="pill active">보유 현황</div>
         <div class="pill">현재 시황</div>
         <div class="pill">공포탐욕</div>
       </div>
@@ -277,15 +126,6 @@
             <div class="mid" id="fearGreed">-</div>
             <div class="gauge"><div class="needle" id="fearNeedle" style="left:50%"></div></div>
           </div>
-        </div>
-      </div>
-
-      <div class="section">
-        <div class="card" style="padding:0;">
-          <div class="list-head">
-            <div>코인</div><div class="num">현재가</div><div class="num">수익률</div><div class="num">전략</div>
-          </div>
-          <div id="coinList"></div>
         </div>
       </div>
 
@@ -392,10 +232,10 @@
         const profit = valuation - initial;
 
         document.getElementById('valuation').textContent = status.last_valuation_krw || '-';
+        document.getElementById('cash').textContent = status.cash_krw || '-';
         document.getElementById('profitValue').textContent = fmtKrw(profit);
         document.getElementById('profitValue').className = 'mid ' + (profit >= 0 ? 'buy' : 'sell');
         document.getElementById('returnPct').textContent = `수익률 ${status.return_pct ?? '-'}%`;
-        document.getElementById('cash').textContent = status.cash_krw || '-';
         document.getElementById('judgment').textContent = status.judgment || '-';
         document.getElementById('action').textContent = `추천 행동 ${status.suggested_action || '-'}`;
         document.getElementById('marketStatus').textContent = status.market_status || '-';
@@ -413,26 +253,41 @@
 
         document.getElementById('report').textContent = report;
 
-        const coinList = document.getElementById('coinList');
-        coinList.innerHTML = '';
+        const assetGrid = document.getElementById('assetGrid');
+        assetGrid.innerHTML = '';
         (status.positions || []).forEach((p) => {
-          const avg = parseNumber(p.avg_buy_price_krw);
+          const amount = Number(p.amount || 0);
           const last = parseNumber(p.last_price_krw);
-          const rate = avg ? (((last - avg) / avg) * 100) : 0;
-          const rateCls = rate >= 0 ? 'buy' : 'sell';
+          const evalAmount = amount * last;
           const row = document.createElement('div');
-          row.className = 'coin-row';
+          row.className = 'asset-row';
           row.innerHTML = `
-            <div>
-              <div class="coin-name">${p.symbol}</div>
-              <div class="coin-sub">${p.market}</div>
+            <div class="asset-head">
+              <div>
+                <div class="asset-name">${p.symbol}</div>
+                <div class="asset-market">${p.market}</div>
+              </div>
+              <div class="small">보유량 ${amount}</div>
             </div>
-            <div class="num ${rateCls}">${p.last_price_krw}</div>
-            <div class="num ${rateCls}">${rate.toFixed(2)}%</div>
-            <div class="num">${p.strategy || '-'}</div>
+            <div class="asset-values">
+              <div>
+                <div class="label">현재가</div>
+                <div class="mid">${p.last_price_krw}</div>
+              </div>
+              <div>
+                <div class="label">평가금액</div>
+                <div class="mid">${fmtKrw(evalAmount)}</div>
+              </div>
+            </div>
           `;
-          coinList.appendChild(row);
+          assetGrid.appendChild(row);
         });
+        if (!(status.positions || []).length) {
+          const row = document.createElement('div');
+          row.className = 'asset-row';
+          row.innerHTML = `<div class="asset-name">보유 코인 없음</div><div class="small">현재는 현금만 보유 중</div>`;
+          assetGrid.appendChild(row);
+        }
 
         const strategyList = document.getElementById('strategyList');
         strategyList.innerHTML = '';
