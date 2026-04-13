@@ -1,16 +1,13 @@
 {
   "project": "bit's today",
-  "market_status": "극단적 공포 속 단기 반등 지속",
-  "fear_greed": "12 (Extreme Fear)",
-  "btc_snapshot": "$72,042 / 107,034,872원",
   "judgment": "bullish",
   "confidence": "medium",
   "suggested_action": "aggressive buy",
   "updated_at": "2026-04-14 00:09 KST",
+  "market_status": "비트코인은 극단적 공포 심리 속에서도 70K달러 초반 지지 후 72K달러 부근까지 반등했습니다. 단기적으로는 매수 우위가 살아났지만, 72K 부근에서는 차익실현 매물도 나올 수 있는 구간입니다.",
+  "fear_greed": "12 (Extreme Fear). 심리는 매우 위축돼 있으나, 단타 관점에서는 역발상 매수 명분이 유지됩니다.",
+  "btc_snapshot": "약 $72,042, 약 107,034,872원. 24시간 변동은 약 +1.82%, 최근 3시간은 약 +1.13%, 최근 1시간은 약 +0.69%입니다.",
   "cash_krw": "5,500,001 KRW",
-  "btc": "0.04215922 BTC",
-  "avg_buy_price_krw": "106,738,489 KRW",
-  "last_price_krw": "107,034,872 KRW",
   "realized_pnl_krw": "0 KRW",
   "last_valuation_krw": "10,012,508 KRW",
   "initial_cash_krw": "10,000,000 KRW",
@@ -19,28 +16,50 @@
   "trade_count": 2,
   "last_updated": "2026-04-14T00:09:00+09:00",
   "summary": [
-    "BTC는 현재 약 $72,042, 원화 약 107,034,872원입니다.",
-    "24시간 변동은 약 +1.82%, 최근 3시간은 약 +1.13%, 최근 1시간은 약 +0.69%입니다.",
-    "공포탐욕지수는 12로 극단적 공포입니다.",
-    "Strategy의 13,927 BTC 추가 매수 보도는 단기 심리 지지 재료입니다.",
-    "트럼프 연계 인물 관련해서는 의미 있는 신규 BTC 투자 신호가 없습니다."
+    "단기 추세 요약: 초단기 bullish. 최근 몇 시간 저점과 고점이 같이 올라가며 상방 모멘텀이 이어졌고 거래대금도 확대됐습니다. 다만 급반등 직후라 흔들림은 큽니다.",
+    "뉴스 요약:",
+    "주요 인물 투자 동향: 트럼프 일가 및 트럼프 연계 크립토 프로젝트 관련 최신 잡음과 정치성 이슈는 있으나, 지금 시점의 BTC 단타 판단을 바꿀 만큼 의미 있는 신규 비트코인 투자 신호는 없습니다.",
+    "근거:",
+    "가상 매매 실행 내용: 현금 1,499,999.54원을 사용해 BTC 0.01401412를 추가 매수했습니다. 체결 기준가는 107,034,872원으로 가정했습니다.",
+    "포트폴리오 현황: 현금 5,500,000.97원, BTC 0.04215922, 평균 매수가 106,738,488.77원, 평가금액 10,012,507.69원, 실현손익 0원.",
+    "주의사항: 실거래가 아닌 가상 단타 기록입니다. 초단기 반등 추종 매매라 72K 부근에서 힘이 약해지면 빠른 부분 축소가 필요합니다."
   ],
   "recent_trades": [
     {
       "timestamp": "2026-04-14T00:09:00+09:00",
+      "symbol": "BTC",
       "action": "BUY",
       "price_krw": 107034872,
-      "btc_delta": 0.01401412,
+      "amount_delta": 0.01401412,
       "cash_delta_krw": -1499999.54,
-      "reason": "24시간 +1.82%, 최근 1시간 약 +0.69%로 단기 상방 모멘텀이 이어졌다. 공포탐욕지수 12의 역발상 구간이고 Strategy 추가 매수 뉴스가 심리를 받쳐줘 15%를 추가 진입했다."
+      "reason": "단기 상방 모멘텀 지속으로 15% 추가 진입."
     },
     {
       "timestamp": "2026-04-13T23:39:00+09:00",
+      "symbol": "BTC",
       "action": "BUY",
       "price_krw": 106590472,
-      "btc_delta": 0.0281451,
+      "amount_delta": 0.0281451,
       "cash_delta_krw": -2999999.49,
-      "reason": "공포 과열 구간이지만 최근 몇 시간 가격이 반등하며 단기 모멘텀이 살아났다. 전액은 피하고 30%만 스캘프용으로 진입."
+      "reason": "단기 반등 모멘텀 확인, 30% 스캘프 진입."
+    },
+    {
+      "timestamp": "2026-04-13T05:06:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 105564997,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "혼조 흐름으로 추가 진입 근거 부족."
+    },
+    {
+      "timestamp": "2026-04-13T04:40:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 105610984,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "중립 시각 유지. 단기 방향성이 부족해 대기."
     }
   ],
   "recent_reports": [
@@ -63,87 +82,54 @@
     {
       "file": "2026-04-13-1800.md",
       "title": "2026-04-13-1800"
+    },
+    {
+      "file": "2026-04-13-1600.md",
+      "title": "2026-04-13-1600"
+    },
+    {
+      "file": "2026-04-13-1400.md",
+      "title": "2026-04-13-1400"
+    },
+    {
+      "file": "2026-04-13-1200.md",
+      "title": "2026-04-13-1200"
     }
   ],
-  "chart_points": [
+  "positions": [
     {
-      "timestamp": "2026-04-13T04:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105610984,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T05:06:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105564997,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T06:41:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105918832,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T08:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 104782452,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T10:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105705745,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T12:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105416090,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T14:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105224948,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T16:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 105491999.52,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T18:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 104280231.44,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T20:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 104079193.53,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T22:40:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 104194701,
-      "action": "HOLD"
-    },
-    {
-      "timestamp": "2026-04-13T23:39:00+09:00",
-      "valuation_krw": 10000000,
-      "price_krw": 106590472,
-      "action": "BUY"
-    },
-    {
-      "timestamp": "2026-04-14T00:09:00+09:00",
-      "valuation_krw": 10012507.69,
-      "price_krw": 107034872,
-      "action": "BUY"
+      "symbol": "BTC",
+      "market": "KRW-BTC",
+      "amount": 0.04215922,
+      "avg_buy_price_krw": "106,738,489 KRW",
+      "last_price_krw": "107,034,872 KRW",
+      "thesis": "단기 반등 모멘텀 스캘프",
+      "strategy": "단기 모멘텀 유지 시 홀드, 둔화 시 일부 축소"
     }
   ],
+  "chart_series": {
+    "BTC": [
+      {
+        "timestamp": "2026-04-13T04:40:00+09:00",
+        "price_krw": 105610984,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-13T05:06:00+09:00",
+        "price_krw": 105564997,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-13T23:39:00+09:00",
+        "price_krw": 106590472,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-14T00:09:00+09:00",
+        "price_krw": 107034872,
+        "action": "BUY"
+      }
+    ]
+  },
   "latest_report_file": "2026-04-14-0009.md"
 }
