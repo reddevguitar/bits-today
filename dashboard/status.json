@@ -2,29 +2,47 @@
   "project": "bit's today",
   "judgment": "bullish",
   "confidence": "medium",
-  "suggested_action": "aggressive tactical buy",
-  "updated_at": "2026-04-14 00:27 KST",
-  "market_status": "공포 구간 속 기술적 반등이 이어지고 있습니다. BTC가 반등을 유지하는 가운데 ETH, SOL, XRP도 동조 상승 중이라 단기 위험선호가 일부 회복됐습니다. 다만 아직 추세 전환 확정이라기보다 반등장 성격이 강합니다.",
-  "fear_greed": "12 (Extreme Fear). 심리는 매우 위축돼 있지만 단기 역발상 매수 명분은 남아 있습니다.",
-  "btc_snapshot": "약 $71,939, 약 106,910,000원. 24시간 변동은 약 +1.14%, 장중 고점은 107,722,000원입니다.",
+  "suggested_action": "hold core positions, avoid chase",
+  "updated_at": "2026-04-14 00:39 KST",
+  "market_status": "급락 뒤 기술적 반등은 이어지고 있습니다. BTC가 플러스권을 유지하고 ETH, SOL, XRP도 동조해 단기 위험선호는 남아 있지만, 아직 고점 돌파형 추세 전환으로 보긴 이릅니다.",
+  "fear_greed": "12 (Extreme Fear). 심리는 매우 위축돼 있어 눌림 대응과 빠른 리스크 관리가 우선입니다.",
+  "btc_snapshot": "106,834,000원, 24시간 +1.07%, 장중 고점 107,722,000원, 저점 105,438,000원.",
   "cash_krw": "4,500,001 KRW",
   "realized_pnl_krw": "0 KRW",
-  "last_valuation_krw": "10,007,243 KRW",
+  "last_valuation_krw": "9,995,996 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 0.07,
-  "last_action": "BUY",
+  "return_pct": -0.04,
+  "last_action": "HOLD",
   "trade_count": 3,
-  "last_updated": "2026-04-14T00:27:00+09:00",
+  "last_updated": "2026-04-14T00:39:00+09:00",
   "summary": [
-    "단기 추세 요약: short-term bullish. 다만 추세 전환 확정보다는 공포 구간 반등 추종 장세입니다.",
-    "메이저 흐름: BTC, ETH, SOL, XRP가 모두 플러스이며 SOL과 SUI 쪽 베타가 조금 더 좋습니다.",
-    "소형 알트 선별: ONDO가 업비트 내 상대강도와 거래대금이 함께 살아 있어 전술 편입했습니다. PENGU, SUI, LAYER는 워치 유지입니다.",
-    "뉴스 요약: Strategy의 13,927 BTC 추가 매수, CoinDesk의 저점 반등 보도, BitMine의 ETH 매수 뉴스가 심리상 우호적입니다.",
-    "가상 매매 실행 내용: ONDO를 373원 기준으로 1,000,000원어치 매수했습니다.",
-    "포트폴리오 현황: 현금 4,500,000.97원, BTC 0.04215922, ONDO 2680.96514745, 총 평가금액 10,007,243.18원입니다.",
-    "주의사항: 반등 추종장이라 눌림 없이 급등한 종목 추격은 리스크가 큽니다."
+    "단기 추세 요약: short-term bullish. 다만 아직은 반등 지속 확인 구간입니다.",
+    "메이저 흐름: BTC, ETH, XRP, SOL이 모두 플러스권이며 SOL과 DOGE 쪽 베타가 조금 더 높습니다.",
+    "소형 알트 선별: 기존 ONDO는 유지, ENA와 SEI는 새 워치 후보, PENGU는 과열 경계 유지입니다.",
+    "뉴스 요약: 비트코인·이더리움 반등, ETF 자금 흐름, CPI 전 회복 기대 관련 보도가 심리에 우호적입니다.",
+    "가상 매매 실행 내용: 이번 회차는 신규 매매 없이 HOLD 대응했습니다.",
+    "포트폴리오 현황: 현금 4,500,000.97원, BTC 0.04215922, ONDO 2680.96514745, 총 평가금액 9,995,996.18원입니다.",
+    "주의사항: 소형 알트는 거래대금이 줄면 즉시 관심에서 제외하고, 급등 추격은 피하는 편이 좋습니다."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-14T00:39:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 370,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "거래대금과 상대강도는 유지돼 성급한 축소보다 홀드가 유리."
+    },
+    {
+      "timestamp": "2026-04-14T00:39:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 106834000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "고점 재돌파 전 확인 구간이라 기존 비중 유지."
+    },
     {
       "timestamp": "2026-04-14T00:27:00+09:00",
       "symbol": "ONDO",
@@ -42,27 +60,13 @@
       "amount_delta": 0.01401412,
       "cash_delta_krw": -1499999.54,
       "reason": "단기 상방 모멘텀 지속으로 15% 추가 진입."
-    },
-    {
-      "timestamp": "2026-04-13T23:39:00+09:00",
-      "symbol": "BTC",
-      "action": "BUY",
-      "price_krw": 106590472,
-      "amount_delta": 0.0281451,
-      "cash_delta_krw": -2999999.49,
-      "reason": "단기 반등 모멘텀 확인, 30% 스캘프 진입."
-    },
-    {
-      "timestamp": "2026-04-13T05:06:00+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 105564997,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "혼조 흐름으로 추가 진입 근거 부족."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-14-0039.md",
+      "title": "2026-04-14-0039"
+    },
     {
       "file": "2026-04-14-0027.md",
       "title": "2026-04-14-0027"
@@ -90,10 +94,6 @@
     {
       "file": "2026-04-13-1600.md",
       "title": "2026-04-13-1600"
-    },
-    {
-      "file": "2026-04-13-1400.md",
-      "title": "2026-04-13-1400"
     }
   ],
   "positions": [
@@ -102,35 +102,40 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": "106,738,489 KRW",
-      "last_price_krw": "106,910,000 KRW",
+      "last_price_krw": "106,834,000 KRW",
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "107.7M원 부근 재돌파 시 홀드, 106.0M원 이탈 시 일부 축소"
+      "strategy": "107.7M원 재돌파 전까지 홀드, 106.0M원 이탈 시 일부 축소"
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
       "amount": 2680.96514745,
       "avg_buy_price_krw": "373 KRW",
-      "last_price_krw": "373 KRW",
-      "thesis": "업비트 내 단기 상대강도와 거래대금이 살아 있는 고변동 알트 순환매 후보",
-      "strategy": "379원 안착 시 추세 추종, 362원 하향 이탈 시 빠르게 축소"
+      "last_price_krw": "370 KRW",
+      "thesis": "업비트 내 단기 상대강도와 거래대금이 유지되는 고변동 알트 순환매 후보",
+      "strategy": "379원 재도전 전까지 홀드, 362원 하향 이탈 시 빠르게 축소"
     }
   ],
   "watchlist": [
     {
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "142원 부근 거래대금 동반 돌파 시 전술 진입 후보"
+    },
+    {
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "reason": "82원대 안착 여부 확인이 필요한 고회전 후보"
+    },
+    {
       "symbol": "PENGU",
       "market": "KRW-PENGU",
-      "reason": "고변동성과 거래대금은 충분하지만 밈코인 특성상 변동성이 과도해 추격 매수는 보류"
+      "reason": "강하지만 눌림 없는 추격은 금지"
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "메이저급 알트 중 반등 동조가 무난해 눌림 확인 시 관심"
-    },
-    {
-      "symbol": "LAYER",
-      "market": "KRW-LAYER",
-      "reason": "단기 반등률은 좋지만 유동성 신뢰도가 상대적으로 낮아 관찰 우선"
+      "reason": "메이저 알트 대안으로 눌림 확인 시 관심"
     }
   ],
   "chart_series": {
@@ -159,6 +164,11 @@
         "timestamp": "2026-04-14T00:27:00+09:00",
         "price_krw": 106910000,
         "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-14T00:39:00+09:00",
+        "price_krw": 106834000,
+        "action": "HOLD"
       }
     ],
     "ONDO": [
@@ -166,8 +176,13 @@
         "timestamp": "2026-04-14T00:27:00+09:00",
         "price_krw": 373,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-14T00:39:00+09:00",
+        "price_krw": 370,
+        "action": "HOLD"
       }
     ]
   },
-  "latest_report_file": "2026-04-14-0027.md"
+  "latest_report_file": "2026-04-14-0039.md"
 }
