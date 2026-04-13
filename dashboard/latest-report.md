@@ -1,16 +1,23 @@
-- Timestamp: 2026-04-13 22:40 KST
-- BTC snapshot: BTC is around $70,929, about 104,194,701 KRW using an approximate USD/KRW rate of 1,469. Price is roughly flat over 24 hours, with public market pages showing a narrow intraday range around $70.6K to $71.3K.
-- Trend summary: BTC remains range-bound. Public chart context suggests support near $70K is still holding, but upside follow-through above the low $71K to $72K area remains weak, so the setup still looks more like consolidation than a confirmed breakout.
-- News summary: The near-term backdrop is mixed. TradingEconomics notes Bitcoin recently pushed to a 3-week high above $72K earlier in April as risk appetite improved and spot ETF flows rebounded, while broader macro and geopolitical headlines have also caused abrupt risk-off swings. Net result: institutional support is helpful, but not enough yet to create strong trend conviction.
-- Notable public-figure investment note if any: No meaningful fresh signal. There is ongoing public reporting around Trump-linked crypto and bitcoin-mining exposure, but nothing clearly fresh on April 13 that materially changes the BTC trading setup.
-- Judgment: neutral
-- Confidence: medium
-- Reasons:
-  - BTC is still holding key psychological support near $70K.
-  - Price remains stuck inside a broad range, with resistance not clearly broken.
-  - Institutional and ETF context is mildly constructive, but macro and geopolitical risk still cap conviction.
-  - No meaningful fresh public-figure investment development adds a new directional edge.
-- Suggested action: hold
-- Virtual trade: HOLD. No paper trade executed.
-- Portfolio snapshot: cash 10,000,000 KRW, BTC 0 BTC, average buy price 0 KRW, last price 104,194,701 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
-- Caveats: Public web market data varies by venue and timestamp. BTC/KRW here is estimated from public BTC/USD data and an approximate USD/KRW rate, so local exchange pricing may differ slightly.
+# bit's today 리포트
+
+- 시각: 2026-04-13 23:39 KST
+- BTC 스냅샷: 약 $71,797, 약 106,590,472원. 24시간 범위는 대략 $70,678 ~ $71,792, 최근 24시간 변동은 약 +1.43%, 최근 몇 시간 반등은 약 +1.58%.
+- 현재 시황: 단기 공포는 매우 크지만, 가격은 70.7K달러 부근 저점 확인 뒤 71.8K달러까지 되돌리며 단기 반등 흐름입니다. 다만 72K 부근 저항 확인 전이라 추격 과열로 보기엔 이릅니다.
+- 공포탐욕지수: 12 (Extreme Fear). 심리는 매우 위축돼 있지만, 단타 관점에서는 역발상 매수 명분이 생기는 구간입니다.
+- 단기 추세 요약: 초단기는 약한 상방. 변동성은 크고, 아직 강한 추세 전환 확정은 아니지만 직전 몇 시간 기준으로는 매수 우위가 소폭 살아났습니다.
+- 뉴스 요약:
+  - Strategy가 비트코인 13,927개를 약 10억달러 규모로 추가 매수했다는 보도가 나왔습니다.
+  - 비트코인 70K달러 상단에서는 매도 압력이 남아 있다는 보도도 함께 나왔습니다.
+  - 유가 급등과 거시 리스크가 위험자산 선호를 흔들 수 있다는 해석이 이어지고 있습니다.
+- 주요 인물 투자 동향: 트럼프 일가 및 트럼프 연계 크립토 프로젝트 관련 잡음과 비판 보도는 있으나, 오늘 BTC 매매 판단을 바꿀 정도의 의미 있는 신규 비트코인 매수 신호는 없습니다.
+- 판단: bullish
+- 신뢰도: medium
+- 근거:
+  - 공포탐욕지수 12로 과도한 공포 구간입니다.
+  - 최근 수시간 가격이 70.7K달러대에서 71.8K달러대로 반등했습니다.
+  - Strategy 추가 매수 뉴스는 심리상 하방 완충 재료입니다.
+  - 다만 거시 변수와 72K 저항은 여전히 부담입니다.
+- 추천 행동: scalp buy
+- 가상 매매 실행 내용: 현금 3,000,000원을 사용해 BTC 0.02814510를 매수했습니다. 체결 기준가는 106,590,472원으로 가정했습니다.
+- 포트폴리오 현황: 현금 7,000,001원, BTC 0.02814510, 평균 매수가 106,590,472원, 평가금액 10,000,000원, 실현손익 0원.
+- 주의사항: 실거래가 아닌 가상 단타 기록입니다. 공포 구간 반등 매매라 변동성이 매우 크고, 72K 부근 재차 밀리면 빠른 축소가 필요합니다.
