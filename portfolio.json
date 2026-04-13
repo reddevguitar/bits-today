@@ -2,15 +2,15 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 7000000.51,
-  "btc": 0.0281451,
-  "avg_buy_price_krw": 106590471.88,
-  "last_price_krw": 106590472.0,
-  "last_valuation_krw": 10000000.0,
-  "realized_pnl_krw": 0.0,
+  "cash_krw": 5500000.97,
+  "btc": 0.04215922,
+  "avg_buy_price_krw": 106738488.77,
+  "last_price_krw": 107034872,
+  "last_valuation_krw": 10012507.69,
+  "realized_pnl_krw": 0,
   "last_action": "BUY",
-  "last_updated": "2026-04-13T23:39:00+09:00",
-  "trade_count": 1,
+  "last_updated": "2026-04-14T00:09:00+09:00",
+  "trade_count": 2,
   "history": [
     {
       "timestamp": "2026-04-13T04:40:00+09:00",
@@ -95,7 +95,7 @@
     {
       "timestamp": "2026-04-13T22:40:00+09:00",
       "action": "HOLD",
-      "price_krw": 104194701.0,
+      "price_krw": 104194701,
       "btc_delta": 0,
       "cash_delta_krw": 0,
       "reason": "Neutral stance. BTC is around $70.93K and roughly flat over 24 hours, while ETF and institutional-demand context remains mildly supportive but price is still range-bound below nearby resistance. Macro and geopolitical risk keep conviction limited, and there is no meaningful fresh Trump-family or other public-figure BTC accumulation signal strong enough to justify a trade."
@@ -103,10 +103,18 @@
     {
       "timestamp": "2026-04-13T23:39:00+09:00",
       "action": "BUY",
-      "price_krw": 106590472.0,
+      "price_krw": 106590472,
       "btc_delta": 0.0281451,
       "cash_delta_krw": -2999999.49,
       "reason": "공포 과열 구간이지만 최근 몇 시간 가격이 반등하며 단기 모멘텀이 살아났다. 전액은 피하고 30%만 스캘프용으로 진입."
+    },
+    {
+      "timestamp": "2026-04-14T00:09:00+09:00",
+      "action": "BUY",
+      "price_krw": 107034872,
+      "btc_delta": 0.01401412,
+      "cash_delta_krw": -1499999.54,
+      "reason": "24시간 +1.82%, 최근 1시간 약 +0.69%로 단기 상방 모멘텀이 이어졌다. 공포탐욕지수 12의 역발상 구간이고 Strategy 추가 매수 뉴스가 심리를 받쳐줘 15%를 추가 진입했다."
     }
   ]
 }

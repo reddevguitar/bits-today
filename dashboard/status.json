@@ -1,35 +1,43 @@
 {
   "project": "bit's today",
-  "market_status": "공포 속 단기 반등",
+  "market_status": "극단적 공포 속 단기 반등 지속",
   "fear_greed": "12 (Extreme Fear)",
-  "btc_snapshot": "$71,797 / 106,590,472원",
+  "btc_snapshot": "$72,042 / 107,034,872원",
   "judgment": "bullish",
   "confidence": "medium",
-  "suggested_action": "scalp buy",
-  "updated_at": "2026-04-13 23:39 KST",
-  "cash_krw": "7,000,001 KRW",
-  "btc": "0.02814510 BTC",
-  "avg_buy_price_krw": "106,590,472 KRW",
-  "last_price_krw": "106,590,472 KRW",
+  "suggested_action": "aggressive buy",
+  "updated_at": "2026-04-14 00:09 KST",
+  "cash_krw": "5,500,001 KRW",
+  "btc": "0.04215922 BTC",
+  "avg_buy_price_krw": "106,738,489 KRW",
+  "last_price_krw": "107,034,872 KRW",
   "realized_pnl_krw": "0 KRW",
-  "last_valuation_krw": "10,000,000 KRW",
+  "last_valuation_krw": "10,012,508 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 0.0,
+  "return_pct": 0.13,
   "last_action": "BUY",
-  "trade_count": 1,
-  "last_updated": "2026-04-13T23:39:00+09:00",
+  "trade_count": 2,
+  "last_updated": "2026-04-14T00:09:00+09:00",
   "summary": [
-    "BTC는 현재 약 $71,797, 원화 약 106,590,472원입니다.",
-    "24시간 변동은 약 +1.43%로 크지 않지만, 최근 몇 시간 반등은 +1.58%로 더 강합니다.",
+    "BTC는 현재 약 $72,042, 원화 약 107,034,872원입니다.",
+    "24시간 변동은 약 +1.82%, 최근 3시간은 약 +1.13%, 최근 1시간은 약 +0.69%입니다.",
     "공포탐욕지수는 12로 극단적 공포입니다.",
-    "Strategy 추가 매수 뉴스는 단기 심리 방어 재료입니다.",
-    "트럼프 연계 인물 관련해서는 의미 있는 신규 BTC 매수 신호가 없습니다."
+    "Strategy의 13,927 BTC 추가 매수 보도는 단기 심리 지지 재료입니다.",
+    "트럼프 연계 인물 관련해서는 의미 있는 신규 BTC 투자 신호가 없습니다."
   ],
   "recent_trades": [
     {
+      "timestamp": "2026-04-14T00:09:00+09:00",
+      "action": "BUY",
+      "price_krw": 107034872,
+      "btc_delta": 0.01401412,
+      "cash_delta_krw": -1499999.54,
+      "reason": "24시간 +1.82%, 최근 1시간 약 +0.69%로 단기 상방 모멘텀이 이어졌다. 공포탐욕지수 12의 역발상 구간이고 Strategy 추가 매수 뉴스가 심리를 받쳐줘 15%를 추가 진입했다."
+    },
+    {
       "timestamp": "2026-04-13T23:39:00+09:00",
       "action": "BUY",
-      "price_krw": 106590472.0,
+      "price_krw": 106590472,
       "btc_delta": 0.0281451,
       "cash_delta_krw": -2999999.49,
       "reason": "공포 과열 구간이지만 최근 몇 시간 가격이 반등하며 단기 모멘텀이 살아났다. 전액은 피하고 30%만 스캘프용으로 진입."
@@ -37,7 +45,7 @@
     {
       "timestamp": "2026-04-13T22:40:00+09:00",
       "action": "HOLD",
-      "price_krw": 104194701.0,
+      "price_krw": 104194701,
       "btc_delta": 0,
       "cash_delta_krw": 0,
       "reason": "Neutral stance. BTC is around $70.93K and roughly flat over 24 hours, while ETF and institutional-demand context remains mildly supportive but price is still range-bound below nearby resistance. Macro and geopolitical risk keep conviction limited, and there is no meaningful fresh Trump-family or other public-figure BTC accumulation signal strong enough to justify a trade."
@@ -48,7 +56,7 @@
       "price_krw": 104079193.53,
       "btc_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "Neutral stance. BTC is around $70.85K and remains range-bound after a technical rejection near resistance, while ETF inflows stay supportive but macro and geopolitical risk still limit conviction. There is no meaningful fresh Trump-family or other public-figure BTC accumulation signal strong enough to justify a trade."
+      "reason": "Neutral stance. BTC is around $70.85K and remains range-bound after a technical rejection near resistance, while ETF inflows stay supportive but macro and geopolitical risk still limit conviction. There is no meaningful fresh public-figure BTC accumulation signal strong enough to justify a trade."
     },
     {
       "timestamp": "2026-04-13T18:40:00+09:00",
@@ -57,17 +65,13 @@
       "btc_delta": 0,
       "cash_delta_krw": 0,
       "reason": "Neutral stance. BTC is around $71.0K and modestly positive over 24 hours, while ETF inflows and Strategy buying are supportive but price is still range-bound and macro risk keeps conviction limited. There is no meaningful fresh Trump-family or other public-figure investment signal strong enough to justify a trade."
-    },
-    {
-      "timestamp": "2026-04-13T16:40:00+09:00",
-      "action": "HOLD",
-      "price_krw": 105491999.52,
-      "btc_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "Neutral stance. BTC is around $70.8K and about flat over 24 hours, while spot ETF and institutional-support headlines remain mildly constructive but price is still stuck in a broad range. Macro risk and mixed short-term trend keep conviction limited, and there is no meaningful fresh Trump-family or other public-figure investment signal strong enough to justify a trade."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-14-0009.md",
+      "title": "2026-04-14-0009"
+    },
     {
       "file": "2026-04-13-2339.md",
       "title": "2026-04-13-2339"
@@ -83,10 +87,6 @@
     {
       "file": "2026-04-13-1800.md",
       "title": "2026-04-13-1800"
-    },
-    {
-      "file": "2026-04-13-1600.md",
-      "title": "2026-04-13-1600"
     }
   ],
   "chart_points": [
@@ -153,15 +153,21 @@
     {
       "timestamp": "2026-04-13T22:40:00+09:00",
       "valuation_krw": 10000000,
-      "price_krw": 104194701.0,
+      "price_krw": 104194701,
       "action": "HOLD"
     },
     {
       "timestamp": "2026-04-13T23:39:00+09:00",
-      "valuation_krw": 10000000.0,
-      "price_krw": 106590472.0,
+      "valuation_krw": 10000000,
+      "price_krw": 106590472,
+      "action": "BUY"
+    },
+    {
+      "timestamp": "2026-04-14T00:09:00+09:00",
+      "valuation_krw": 10012507.69,
+      "price_krw": 107034872,
       "action": "BUY"
     }
   ],
-  "latest_report_file": "2026-04-13-2339.md"
+  "latest_report_file": "2026-04-14-0009.md"
 }
