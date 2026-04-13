@@ -38,13 +38,16 @@
     .bullish { background: rgba(69,212,131,.15); color: var(--good); }
     .neutral { background: rgba(243,201,105,.15); color: var(--warn); }
     .bearish { background: rgba(255,123,123,.15); color: var(--bad); }
-    .list, .trades, .reports, .positions { display: grid; gap: 10px; }
+    .list, .trades, .reports, .positions, .legend { display: grid; gap: 10px; }
     .item { padding: 12px; border: 1px solid var(--border); border-radius: 12px; background: rgba(255,255,255,.02); }
     .item-title { font-weight: 600; margin-bottom: 6px; }
     pre { white-space: pre-wrap; word-break: break-word; margin: 0; font-family: inherit; line-height: 1.6; font-size: 14px; }
-    canvas { width: 100%; height: 300px; background: rgba(255,255,255,.02); border: 1px solid var(--border); border-radius: 12px; }
+    canvas { width: 100%; height: 340px; background: rgba(255,255,255,.02); border: 1px solid var(--border); border-radius: 12px; }
     .gauge { height: 14px; border-radius: 999px; background: linear-gradient(90deg, var(--gauge1), var(--gauge2), var(--gauge3)); position: relative; margin-top: 8px; }
     .needle { position: absolute; top: -4px; width: 4px; height: 22px; background: white; border-radius: 3px; }
+    .legend { grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); margin-top: 10px; }
+    .legend-item { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; }
+    .swatch { width: 12px; height: 12px; border-radius: 999px; }
     a { color: var(--accent); text-decoration: none; }
     @media (max-width: 980px) { .hero, .two-col { grid-template-columns: 1fr; } }
   </style>
@@ -62,7 +65,7 @@
     </div>
 
     <div class="two-col">
-      <div class="card"><div class="section-title">멀티코인 가격 차트</div><canvas id="priceChart" width="700" height="300"></canvas></div>
+      <div class="card"><div class="section-title">멀티코인 가격 차트</div><canvas id="priceChart" width="760" height="340"></canvas><div class="legend" id="chartLegend"></div></div>
       <div class="card"><div class="section-title">현재 픽한 코인 전략</div><div class="positions" id="positionList"></div></div>
     </div>
 
@@ -84,6 +87,7 @@
     </div>
   </div>
   <script>
+    const COLORS = ['#7aa2ff','#45d483','#f3c969','#ff7b7b','#c084fc','#22d3ee','#fb7185','#34d399'];
     function addItem(container, title, body) {
       const el = document.createElement('div');
       el.className = 'item';
@@ -97,28 +101,45 @@
     function drawChart(seriesMap) {
       const canvas = document.getElementById('priceChart');
       const ctx = canvas.getContext('2d');
+      const legend = document.getElementById('chartLegend');
+      legend.innerHTML = '';
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       const entries = Object.entries(seriesMap || {});
       if (!entries.length) { ctx.fillStyle = '#9fb0d9'; ctx.fillText('아직 멀티코인 차트 데이터가 부족해요.', 20, 40); return; }
-      const colors = ['#7aa2ff','#45d483','#f3c969','#ff7b7b','#c084fc','#22d3ee','#fb7185'];
       const allVals = entries.flatMap(([, pts]) => pts.map(p => p.price_krw || 0).filter(Boolean));
-      const min = Math.min(...allVals), max = Math.max(...allVals), pad = 30, w = canvas.width - pad * 2, h = canvas.height - pad * 2;
-      ctx.strokeStyle = '#263154'; ctx.strokeRect(pad, pad, w, h);
+      const min = Math.min(...allVals), max = Math.max(...allVals), pad = 40, w = canvas.width - pad * 2, h = canvas.height - pad * 2;
+      ctx.strokeStyle = '#263154';
+      for (let i = 0; i <= 4; i++) {
+        const y = pad + (h / 4) * i;
+        ctx.beginPath(); ctx.moveTo(pad, y); ctx.lineTo(pad + w, y); ctx.stroke();
+      }
       entries.forEach(([symbol, pts], idx) => {
-        const vals = pts.map(p => p.price_krw || 0).filter(Boolean);
+        const vals = pts.map(p => ({...p, price_krw: p.price_krw || 0})).filter(p => p.price_krw);
         if (!vals.length) return;
+        const color = COLORS[idx % COLORS.length];
         ctx.beginPath();
-        vals.forEach((v, i) => {
+        vals.forEach((p, i) => {
           const x = pad + (vals.length === 1 ? w / 2 : (i / (vals.length - 1)) * w);
-          const y = pad + h - ((v - min) / ((max - min) || 1)) * h;
+          const y = pad + h - ((p.price_krw - min) / ((max - min) || 1)) * h;
           if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
         });
-        ctx.strokeStyle = colors[idx % colors.length];
-        ctx.lineWidth = 2.5;
-        ctx.stroke();
-        ctx.fillStyle = colors[idx % colors.length];
-        ctx.fillText(symbol, pad + 8, pad + 18 + idx * 16);
+        ctx.strokeStyle = color; ctx.lineWidth = 2.5; ctx.stroke();
+        vals.forEach((p, i) => {
+          const x = pad + (vals.length === 1 ? w / 2 : (i / (vals.length - 1)) * w);
+          const y = pad + h - ((p.price_krw - min) / ((max - min) || 1)) * h;
+          if (p.action === 'BUY' || p.action === 'SELL' || p.action === 'PARTIAL_SELL') {
+            ctx.fillStyle = p.action === 'BUY' ? '#45d483' : '#ff7b7b';
+            ctx.beginPath(); ctx.arc(x, y, 4, 0, Math.PI * 2); ctx.fill();
+          }
+        });
+        const li = document.createElement('div');
+        li.className = 'legend-item';
+        li.innerHTML = `<span class="swatch" style="background:${color}"></span>${symbol}`;
+        legend.appendChild(li);
       });
+      ctx.fillStyle = '#9fb0d9';
+      ctx.fillText(`저가 ${Math.round(min).toLocaleString()} KRW`, pad, canvas.height - 10);
+      ctx.fillText(`고가 ${Math.round(max).toLocaleString()} KRW`, canvas.width - 180, 20);
     }
     async function load() {
       try {
