@@ -10,11 +10,12 @@
       --panel: #111a2b;
       --panel2: #152238;
       --line: #25324b;
-      --text: #eef3ff;
-      --muted: #95a2bf;
-      --blue: #2c7df7;
-      --up: #ff6b57;
-      --down: #3f8cff;
+      --text: #f4f7ff;
+      --muted: #a8b4cf;
+      --blue: #4c8dff;
+      --buy: #ff6b57;
+      --sell: #4c8dff;
+      --hold: #b3c0da;
       --good: #16c784;
       --warn: #f3ba2f;
       --bad: #ff5b6e;
@@ -39,12 +40,14 @@
       padding: 14px 16px 10px;
       font-weight: 700;
       font-size: 15px;
+      color: #ffffff;
     }
     .title {
       text-align: center;
       font-size: 18px;
-      font-weight: 700;
+      font-weight: 800;
       padding: 4px 16px 14px;
+      color: #ffffff;
     }
     .search {
       margin: 0 12px 12px;
@@ -65,17 +68,18 @@
       text-align: center;
       padding: 14px 6px;
       color: var(--muted);
-      font-weight: 600;
+      font-weight: 700;
       border-bottom: 2px solid transparent;
+      cursor: pointer;
     }
     .tab.active {
-      color: var(--text);
-      border-bottom-color: var(--text);
+      color: #ffffff;
+      border-bottom-color: #ffffff;
     }
-    .section {
-      padding: 14px 14px 0;
-    }
-    .card {
+    .screen { display: none; }
+    .screen.active { display: block; }
+    .section { padding: 14px 14px 0; }
+    .card, .box {
       background: var(--panel);
       border-top: 1px solid var(--line);
       border-bottom: 1px solid var(--line);
@@ -87,11 +91,12 @@
       gap: 12px 18px;
     }
     .label { color: var(--muted); font-size: 13px; margin-bottom: 6px; }
-    .big { font-size: 31px; font-weight: 800; }
-    .mid { font-size: 22px; font-weight: 700; }
+    .big { font-size: 30px; font-weight: 800; color: #ffffff; }
+    .mid { font-size: 22px; font-weight: 800; color: #ffffff; }
     .small { font-size: 12px; color: var(--muted); }
-    .up { color: var(--up); }
-    .down { color: var(--down); }
+    .buy { color: var(--buy); }
+    .sell { color: var(--sell); }
+    .hold { color: var(--hold); }
     .toolbar {
       display: flex;
       gap: 8px;
@@ -112,11 +117,9 @@
     .pill.active {
       color: var(--blue);
       border-color: var(--blue);
-      background: rgba(44,125,247,.08);
+      background: rgba(76,141,255,.08);
     }
-    .gauge-wrap {
-      margin-top: 10px;
-    }
+    .gauge-wrap { margin-top: 10px; }
     .gauge {
       height: 12px;
       border-radius: 999px;
@@ -134,7 +137,7 @@
     }
     .list-head, .coin-row {
       display: grid;
-      grid-template-columns: 1.5fr 1fr .9fr .9fr;
+      grid-template-columns: 1.2fr .95fr .8fr 1fr;
       gap: 8px;
       align-items: center;
     }
@@ -150,7 +153,7 @@
       border-bottom: 1px solid rgba(37,50,75,.7);
       font-size: 14px;
     }
-    .coin-name { font-weight: 700; }
+    .coin-name { font-weight: 800; color: #ffffff; }
     .coin-sub { font-size: 12px; color: var(--muted); margin-top: 3px; }
     .num { text-align: right; font-variant-numeric: tabular-nums; }
     .strategy-box, .note-box, .report-box {
@@ -160,38 +163,58 @@
       padding: 14px;
       margin-top: 12px;
     }
-    .section-title { font-size: 16px; font-weight: 700; margin-bottom: 12px; }
+    .section-title { font-size: 16px; font-weight: 800; margin-bottom: 12px; color: #ffffff; }
     .strategy-item, .note-item {
       padding: 10px 0;
       border-bottom: 1px solid rgba(37,50,75,.7);
+      color: #eef3ff;
     }
     .strategy-item:last-child, .note-item:last-child { border-bottom: 0; }
-    .strategy-title { font-weight: 700; margin-bottom: 6px; }
-    .chart-wrap { margin-top: 10px; }
-    canvas {
-      width: 100%;
-      height: 250px;
-      background: #0d1626;
+    .strategy-title { font-weight: 800; margin-bottom: 6px; color: #ffffff; }
+    .trade-log {
+      padding: 12px;
+      border-radius: 12px;
+      margin-bottom: 10px;
       border: 1px solid var(--line);
-      border-radius: 10px;
+      background: #0d1626;
     }
-    .legend {
+    .trade-log.buy-log { border-left: 4px solid var(--buy); }
+    .trade-log.sell-log { border-left: 4px solid var(--sell); }
+    .trade-log.hold-log { border-left: 4px solid var(--hold); }
+    .trade-head {
       display: flex;
-      flex-wrap: wrap;
-      gap: 8px 12px;
-      margin-top: 10px;
-      color: var(--muted);
-      font-size: 12px;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
     }
-    .legend-item { display: flex; align-items: center; gap: 6px; }
-    .swatch { width: 10px; height: 10px; border-radius: 99px; }
+    .badge {
+      font-size: 12px;
+      font-weight: 800;
+      padding: 4px 8px;
+      border-radius: 999px;
+    }
+    .badge.buy { background: rgba(255,107,87,.15); color: var(--buy); }
+    .badge.sell { background: rgba(76,141,255,.15); color: var(--sell); }
+    .badge.hold { background: rgba(179,192,218,.12); color: var(--hold); }
+    .trade-main {
+      font-size: 22px;
+      font-weight: 900;
+      margin-bottom: 6px;
+      color: #ffffff;
+    }
+    .trade-sub {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
     pre {
       margin: 0;
       white-space: pre-wrap;
       word-break: break-word;
       font-family: inherit;
-      line-height: 1.55;
-      color: #d9e2f2;
+      line-height: 1.6;
+      color: #eef3ff;
       font-size: 13px;
     }
   </style>
@@ -203,94 +226,129 @@
     <div class="search">🔍 코인명/심볼 검색</div>
 
     <div class="tabs">
-      <div class="tab active">보유자산</div>
-      <div class="tab">투자손익</div>
-      <div class="tab">거래내역</div>
-      <div class="tab">리포트</div>
+      <div class="tab active" data-tab="assets">보유자산</div>
+      <div class="tab" data-tab="profit">투자손익</div>
+      <div class="tab" data-tab="trades">거래내역</div>
+      <div class="tab" data-tab="report">리포트</div>
     </div>
 
-    <div class="section">
-      <div class="card">
-        <div class="summary-grid">
-          <div>
-            <div class="label">총 보유자산</div>
-            <div class="big" id="valuation">-</div>
+    <div class="screen active" id="screen-assets">
+      <div class="section">
+        <div class="card">
+          <div class="summary-grid">
+            <div>
+              <div class="label">총 보유자산</div>
+              <div class="big" id="valuation">-</div>
+            </div>
+            <div>
+              <div class="label">평가손익</div>
+              <div class="mid buy" id="profitValue">-</div>
+              <div class="small" id="returnPct">-</div>
+            </div>
+            <div>
+              <div class="label">보유 KRW</div>
+              <div class="mid" id="cash">-</div>
+            </div>
+            <div>
+              <div class="label">종합 투자의견</div>
+              <div class="mid" id="judgment">-</div>
+              <div class="small" id="action">-</div>
+            </div>
           </div>
-          <div>
-            <div class="label">평가손익</div>
-            <div class="mid up" id="profitValue">-</div>
-            <div class="small" id="returnPct">-</div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <div class="pill active">KRW</div>
+        <div class="pill">BTC</div>
+        <div class="pill">USDT</div>
+        <div class="pill">현재 시황</div>
+        <div class="pill">공포탐욕</div>
+      </div>
+
+      <div class="section">
+        <div class="card">
+          <div class="label">현재 시황</div>
+          <div class="mid" id="marketStatus">-</div>
+          <div class="small" id="btcSnapshot">-</div>
+          <div class="small" id="confidence">-</div>
+          <div class="gauge-wrap">
+            <div class="label">공포탐욕지수</div>
+            <div class="mid" id="fearGreed">-</div>
+            <div class="gauge"><div class="needle" id="fearNeedle" style="left:50%"></div></div>
           </div>
-          <div>
-            <div class="label">보유 KRW</div>
-            <div class="mid" id="cash">-</div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="card" style="padding:0;">
+          <div class="list-head">
+            <div>코인</div><div class="num">현재가</div><div class="num">수익률</div><div class="num">전략</div>
           </div>
-          <div>
-            <div class="label">종합 투자의견</div>
-            <div class="mid" id="judgment">-</div>
-            <div class="small" id="action">-</div>
-          </div>
+          <div id="coinList"></div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="note-box">
+          <div class="section-title">코인별 대응 전략</div>
+          <div id="strategyList"></div>
         </div>
       </div>
     </div>
 
-    <div class="toolbar">
-      <div class="pill active">KRW</div>
-      <div class="pill">BTC</div>
-      <div class="pill">USDT</div>
-      <div class="pill">현재 시황</div>
-      <div class="pill">공포탐욕</div>
-    </div>
+    <div class="screen" id="screen-profit">
+      <div class="section">
+        <div class="card">
+          <div class="summary-grid">
+            <div>
+              <div class="label">누적 수익</div>
+              <div class="big buy" id="profitValue2">-</div>
+            </div>
+            <div>
+              <div class="label">누적 수익률</div>
+              <div class="mid" id="returnPct2">-</div>
+            </div>
+            <div>
+              <div class="label">투자원금</div>
+              <div class="mid" id="initialCash">-</div>
+            </div>
+            <div>
+              <div class="label">실현 손익</div>
+              <div class="mid" id="realizedPnl">-</div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-    <div class="section">
-      <div class="card">
-        <div class="label">현재 시황</div>
-        <div class="mid" id="marketStatus">-</div>
-        <div class="small" id="btcSnapshot">-</div>
-        <div class="small" id="confidence">-</div>
-        <div class="gauge-wrap">
-          <div class="label">공포탐욕지수</div>
-          <div class="mid" id="fearGreed">-</div>
-          <div class="gauge"><div class="needle" id="fearNeedle" style="left:50%"></div></div>
+      <div class="section">
+        <div class="note-box">
+          <div class="section-title">핵심 요약</div>
+          <div id="summaryList"></div>
         </div>
       </div>
     </div>
 
-    <div class="section">
-      <div class="card" style="padding:0;">
-        <div class="list-head">
-          <div>한글명</div><div class="num">현재가</div><div class="num">수익률</div><div class="num">전략</div>
+    <div class="screen" id="screen-trades">
+      <div class="section">
+        <div class="box">
+          <div class="section-title">거래내역</div>
+          <div id="tradeList"></div>
         </div>
-        <div id="coinList"></div>
       </div>
     </div>
 
-    <div class="section">
-      <div class="strategy-box">
-        <div class="section-title">투자손익 그래프</div>
-        <div class="chart-wrap"><canvas id="priceChart" width="380" height="250"></canvas></div>
-        <div class="legend" id="chartLegend"></div>
-      </div>
-
-      <div class="note-box">
-        <div class="section-title">코인별 대응 전략</div>
-        <div id="strategyList"></div>
-      </div>
-
-      <div class="note-box">
-        <div class="section-title">핵심 요약</div>
-        <div id="summaryList"></div>
-      </div>
-
-      <div class="report-box">
-        <div class="section-title">최신 리포트</div>
-        <pre id="report">불러오는 중...</pre>
+    <div class="screen" id="screen-report">
+      <div class="section">
+        <div class="report-box">
+          <div class="section-title">최신 리포트</div>
+          <pre id="report">불러오는 중...</pre>
+        </div>
       </div>
     </div>
   </div>
 
   <script>
-    const COLORS = ['#f04f47','#2c7df7','#16c784','#f3ba2f','#a855f7','#22c55e','#ef4444'];
     function addNode(container, html, cls='note-item') {
       const el = document.createElement('div');
       el.className = cls;
@@ -305,52 +363,19 @@
       if (typeof text === 'number') return text;
       return Number(String(text || '').replace(/[^0-9.-]/g, '')) || 0;
     }
-    function drawChart(seriesMap) {
-      const canvas = document.getElementById('priceChart');
-      const ctx = canvas.getContext('2d');
-      const legend = document.getElementById('chartLegend');
-      legend.innerHTML = '';
-      ctx.clearRect(0,0,canvas.width,canvas.height);
-      const entries = Object.entries(seriesMap || {});
-      if (!entries.length) { ctx.fillStyle = '#95a2bf'; ctx.fillText('차트 데이터가 부족합니다.', 20, 30); return; }
-      const allVals = entries.flatMap(([, pts]) => pts.map(p => p.price_krw || 0).filter(Boolean));
-      const min = Math.min(...allVals), max = Math.max(...allVals);
-      const pad = 30, w = canvas.width - pad * 2, h = canvas.height - pad * 2;
-      ctx.strokeStyle = '#25324b';
-      for (let i=0;i<5;i++) {
-        const y = pad + (h/4)*i;
-        ctx.beginPath(); ctx.moveTo(pad,y); ctx.lineTo(pad+w,y); ctx.stroke();
-      }
-      entries.forEach(([symbol, pts], idx) => {
-        const vals = pts.filter(p => p.price_krw).map(p => ({...p, price_krw: Number(p.price_krw)}));
-        if (!vals.length) return;
-        const color = COLORS[idx % COLORS.length];
-        ctx.beginPath();
-        vals.forEach((p, i) => {
-          const x = pad + (vals.length===1 ? w/2 : (i/(vals.length-1))*w);
-          const y = pad + h - ((p.price_krw - min)/((max-min)||1))*h;
-          if (i===0) ctx.moveTo(x,y); else ctx.lineTo(x,y);
-        });
-        ctx.strokeStyle = color; ctx.lineWidth = 2.2; ctx.stroke();
-        vals.forEach((p, i) => {
-          if (p.action === 'BUY' || p.action === 'SELL' || p.action === 'PARTIAL_SELL') {
-            const x = pad + (vals.length===1 ? w/2 : (i/(vals.length-1))*w);
-            const y = pad + h - ((p.price_krw - min)/((max-min)||1))*h;
-            ctx.fillStyle = p.action === 'BUY' ? '#16c784' : '#ff5b6e';
-            ctx.beginPath(); ctx.arc(x,y,3.5,0,Math.PI*2); ctx.fill();
-          }
-        });
-        const li = document.createElement('div');
-        li.className = 'legend-item';
-        li.innerHTML = `<span class="swatch" style="background:${color}"></span>${symbol}`;
-        legend.appendChild(li);
-      });
+    function fmtKrw(value) {
+      return `${Math.round(Number(value || 0)).toLocaleString()} KRW`;
     }
     function updateClock() {
       const d = new Date();
       const hh = String(d.getHours()).padStart(2,'0');
       const mm = String(d.getMinutes()).padStart(2,'0');
       document.getElementById('clock').textContent = `${hh}:${mm}`;
+    }
+    function switchTab(name) {
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === name));
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+      document.getElementById('screen-' + name).classList.add('active');
     }
     async function load() {
       try {
@@ -363,10 +388,12 @@
 
         const valuation = parseNumber(status.last_valuation_krw);
         const initial = parseNumber(status.initial_cash_krw);
+        const realized = parseNumber(status.realized_pnl_krw);
         const profit = valuation - initial;
+
         document.getElementById('valuation').textContent = status.last_valuation_krw || '-';
-        document.getElementById('profitValue').textContent = `${profit >= 0 ? '' : '-'}${Math.abs(profit).toLocaleString()} KRW`;
-        document.getElementById('profitValue').className = 'mid ' + (profit >= 0 ? 'up' : 'down');
+        document.getElementById('profitValue').textContent = fmtKrw(profit);
+        document.getElementById('profitValue').className = 'mid ' + (profit >= 0 ? 'buy' : 'sell');
         document.getElementById('returnPct').textContent = `수익률 ${status.return_pct ?? '-'}%`;
         document.getElementById('cash').textContent = status.cash_krw || '-';
         document.getElementById('judgment').textContent = status.judgment || '-';
@@ -375,8 +402,15 @@
         document.getElementById('btcSnapshot').textContent = status.btc_snapshot || '-';
         document.getElementById('confidence').textContent = `신뢰도 ${status.confidence || '-'} · ${status.updated_at || '-'}`;
         document.getElementById('fearGreed').textContent = status.fear_greed || '-';
-        const fear = parseFearValue(status.fear_greed);
-        document.getElementById('fearNeedle').style.left = `calc(${fear}% - 2px)`;
+        document.getElementById('fearNeedle').style.left = `calc(${parseFearValue(status.fear_greed)}% - 2px)`;
+
+        document.getElementById('profitValue2').textContent = fmtKrw(profit);
+        document.getElementById('profitValue2').className = 'big ' + (profit >= 0 ? 'buy' : 'sell');
+        document.getElementById('returnPct2').textContent = `${status.return_pct ?? '-'}%`;
+        document.getElementById('initialCash').textContent = status.initial_cash_krw || '-';
+        document.getElementById('realizedPnl').textContent = fmtKrw(realized);
+        document.getElementById('realizedPnl').className = 'mid ' + (realized >= 0 ? 'buy' : 'sell');
+
         document.getElementById('report').textContent = report;
 
         const coinList = document.getElementById('coinList');
@@ -385,7 +419,7 @@
           const avg = parseNumber(p.avg_buy_price_krw);
           const last = parseNumber(p.last_price_krw);
           const rate = avg ? (((last - avg) / avg) * 100) : 0;
-          const rateCls = rate >= 0 ? 'up' : 'down';
+          const rateCls = rate >= 0 ? 'buy' : 'sell';
           const row = document.createElement('div');
           row.className = 'coin-row';
           row.innerHTML = `
@@ -399,31 +433,44 @@
           `;
           coinList.appendChild(row);
         });
-        if (!(status.positions || []).length) {
-          const row = document.createElement('div');
-          row.className = 'coin-row';
-          row.innerHTML = `<div>보유 코인 없음</div><div></div><div></div><div></div>`;
-          coinList.appendChild(row);
-        }
 
         const strategyList = document.getElementById('strategyList');
         strategyList.innerHTML = '';
         (status.positions || []).forEach((p) => {
           addNode(strategyList, `<div class="strategy-title">${p.symbol} · ${p.market}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
         });
-        if (!(status.positions || []).length) addNode(strategyList, `<div class="strategy-title">대기</div><div>아직 편입 코인이 없습니다.</div>`, 'strategy-item');
 
         const summaryList = document.getElementById('summaryList');
         summaryList.innerHTML = '';
         (status.summary || []).slice(0, 8).forEach((s) => addNode(summaryList, s));
 
-        drawChart(status.chart_series || {});
+        const tradeList = document.getElementById('tradeList');
+        tradeList.innerHTML = '';
+        (status.recent_trades || []).forEach((t) => {
+          const action = String(t.action || 'HOLD').toUpperCase();
+          const cls = action.includes('BUY') ? 'buy-log' : action.includes('SELL') ? 'sell-log' : 'hold-log';
+          const badgeCls = action.includes('BUY') ? 'buy' : action.includes('SELL') ? 'sell' : 'hold';
+          const total = Math.abs(parseNumber(t.cash_delta_krw));
+          const totalText = total > 0 ? fmtKrw(total) : '거래 없음';
+          const mainText = action.includes('BUY') ? `총 ${totalText} 매수` : action.includes('SELL') ? `총 ${totalText} 매도` : `${t.symbol || '코인'} 관망`;
+          const priceText = fmtKrw(t.price_krw);
+          addNode(tradeList, `
+            <div class="trade-head">
+              <div class="strategy-title">${t.symbol || 'COIN'} · ${t.timestamp || '-'}</div>
+              <div class="badge ${badgeCls}">${action}</div>
+            </div>
+            <div class="trade-main ${badgeCls}">${mainText}</div>
+            <div class="trade-sub">체결 기준가 ${priceText} · 수량 변화 ${t.amount_delta ?? 0}</div>
+            <div class="trade-sub">사유: ${t.reason || '-'}</div>
+          `, `trade-log ${cls}`);
+        });
       } catch (e) {
         document.getElementById('report').textContent = '대시보드 데이터를 불러오지 못했습니다.\n' + e;
       }
     }
     updateClock();
-    setInterval(updateClock, 1000 * 20);
+    setInterval(updateClock, 20000);
+    document.querySelectorAll('.tab').forEach(tab => tab.addEventListener('click', () => switchTab(tab.dataset.tab)));
     load();
     setInterval(load, 60000);
   </script>
