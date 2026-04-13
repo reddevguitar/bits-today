@@ -1,18 +1,16 @@
-# Bitcoin Paper Trade Report
-
-- Timestamp: 2026-04-13 08:40 Asia/Seoul
-- BTC snapshot: Price about $70,679, about ₩104,782,452, 24h change about -3.30%, 7d change about +2.40%, 30d change about -0.74%, 30d range about $65.0k to $76.0k.
-- Trend summary: BTC is weak intraday and sitting below the 7-day average, but still above the 30-day average. That points to consolidation after a recent rebound, not a confirmed trend breakout.
-- News summary: Recent flow suggests institutional and ETF interest has improved, but risk appetite is still fragile. Macro tension and broader risk-off headlines are keeping Bitcoin from turning that support into stronger momentum.
-- Notable public-figure investment note if any: No meaningful fresh signal. Fresh Trump-family or Trump-linked headlines in this check were mostly about prior losses, venture controversy, or project-specific weakness, not clear new Bitcoin accumulation.
+- Timestamp: 2026-04-13T10:40:00+09:00
+- BTC snapshot: BTC around $71,157, about 105,705,745 KRW using USD/KRW 1,485.53. 24h change about -0.75%, 7d about +3.35%, 30d about -0.09%.
+- Trend summary: Short term momentum softened after the weekend drop, but BTC is still modestly above last week and sitting in a broad 30-day range, roughly $65,968 to $74,885.
+- News summary: Recent headlines are mixed. Reuters reported US Treasury Secretary Bessent urging Congress to pass a crypto regulation bill, which is broadly supportive for the asset class. Reuters also highlighted concerns around Kraken's Fed payment account, reminding markets that regulatory and banking-friction risks remain. Macro risk is also back in focus as oil spiked on Hormuz-related tensions, and BTC extended losses during that risk-off move.
+- Notable public-figure investment note if any: No meaningful fresh bullish public-figure BTC accumulation signal. Trump-linked World Liberty Financial is in the news, but the fresh coverage is about governance, insider-loan, and investor-dispute issues rather than a constructive new Bitcoin investment signal. Separately, Strategy's $330 million Bitcoin purchase on April 6 remains supportive context, but it is not a fresh enough catalyst on its own this morning.
 - Judgment: neutral
 - Confidence: medium
 - Reasons:
-  - 24h momentum is clearly negative even though 7d performance remains modestly positive.
-  - Price is still inside the recent 30-day range and below the 7-day average, so breakout confirmation is missing.
-  - ETF and institutional-interest headlines help the floor, but they are not overwhelming the current macro risk tone.
-  - No reliable fresh public-figure investment catalyst was found.
+  - BTC is holding above last week's level, but the 24h tape is still soft and the 30-day picture is basically sideways.
+  - Policy and institutional headlines are somewhat supportive, especially around crypto regulation and ETF/institutional demand.
+  - Macro stress, especially oil-shock and broader risk sentiment, is capping upside conviction right now.
+  - No fresh celebrity or Trump-linked accumulation signal changes the setup in a meaningful way.
 - Suggested action: hold
-- Virtual trade: HOLD, 0 BTC, ₩0. Stay patient and keep dry powder for a cleaner breakout or a better pullback setup.
-- Portfolio snapshot: Cash ₩10,000,000, BTC 0, average buy price ₩0, marked BTC price ₩104,782,452, portfolio valuation ₩10,000,000, realized PnL ₩0, trade count 0.
-- Caveats: Price and headline inputs come from public web sources and can move fast. USD/KRW was approximated from a public FX API, and this is simulated paper trading only, not real investment advice.
+- Virtual trade: No trade. Maintain cash at current levels and wait for either a cleaner breakout above the recent range or a deeper pullback with stabilization.
+- Portfolio snapshot: cash 10,000,000 KRW, BTC 0, average buy 0 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
+- Caveats: This is paper trading only. Price, FX, and news were sampled from public web sources and may lag slightly. If macro headlines move fast, the near-term BTC picture can change quickly.
