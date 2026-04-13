@@ -2,24 +2,49 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 5500000.97,
+  "cash_krw": 4500000.97,
   "realized_pnl_krw": 0,
-  "last_valuation_krw": 10012507.69,
+  "last_valuation_krw": 10007243.18,
   "last_action": "BUY",
-  "last_updated": "2026-04-14T00:09:00+09:00",
-  "trade_count": 2,
+  "last_updated": "2026-04-14T00:27:00+09:00",
+  "trade_count": 3,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 107034872,
-      "thesis": "단기 반등 모멘텀 스캘프",
-      "strategy": "단기 모멘텀 유지 시 홀드, 둔화 시 일부 축소"
+      "last_price_krw": 106910000,
+      "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
+      "strategy": "107.7M원 부근 재돌파 시 홀드, 106.0M원 이탈 시 일부 축소"
+    },
+    "ONDO": {
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "amount": 2680.96514745,
+      "avg_buy_price_krw": 373,
+      "last_price_krw": 373,
+      "thesis": "업비트 내 단기 상대강도와 거래대금이 살아 있는 고변동 알트 순환매 후보",
+      "strategy": "379원 안착 시 추세 추종, 362원 하향 이탈 시 빠르게 축소"
     }
   },
-  "watchlist": [],
+  "watchlist": [
+    {
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "고변동성과 거래대금은 충분하지만 밈코인 특성상 변동성이 과도해 추격 매수는 보류"
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "메이저급 알트 중 반등 동조가 무난해 눌림 확인 시 관심"
+    },
+    {
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "단기 반등률은 좋지만 유동성 신뢰도가 상대적으로 낮아 관찰 우선"
+    }
+  ],
   "history": [
     {
       "timestamp": "2026-04-13T04:40:00+09:00",
@@ -56,6 +81,15 @@
       "amount_delta": 0.01401412,
       "cash_delta_krw": -1499999.54,
       "reason": "단기 상방 모멘텀 지속으로 15% 추가 진입."
+    },
+    {
+      "timestamp": "2026-04-14T00:27:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 373,
+      "amount_delta": 2680.96514745,
+      "cash_delta_krw": -1000000,
+      "reason": "업비트 소형 알트 중 상대강도와 거래대금이 동반되는 순환매 신호로 10% 전술 진입."
     }
   ]
 }
