@@ -5,11 +5,11 @@
   "cash_krw": 10000000,
   "btc": 0,
   "avg_buy_price_krw": 0,
-  "last_price_krw": 104280231.44,
-  "last_valuation_krw": 10000000,
+  "last_price_krw": 104079193.53,
+  "last_valuation_krw": 10000000.0,
   "realized_pnl_krw": 0,
   "last_action": "HOLD",
-  "last_updated": "2026-04-13T18:40:00+09:00",
+  "last_updated": "2026-04-13T20:40:00+09:00",
   "trade_count": 0,
   "history": [
     {
@@ -83,6 +83,14 @@
       "btc_delta": 0,
       "cash_delta_krw": 0,
       "reason": "Neutral stance. BTC is around $71.0K and modestly positive over 24 hours, while ETF inflows and Strategy buying are supportive but price is still range-bound and macro risk keeps conviction limited. There is no meaningful fresh Trump-family or other public-figure investment signal strong enough to justify a trade."
+    },
+    {
+      "timestamp": "2026-04-13T20:40:00+09:00",
+      "action": "HOLD",
+      "price_krw": 104079193.53,
+      "btc_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "Neutral stance. BTC is around $70.85K and remains range-bound after a technical rejection near resistance, while ETF inflows stay supportive but macro and geopolitical risk still limit conviction. There is no meaningful fresh Trump-family or other public-figure BTC accumulation signal strong enough to justify a trade."
     }
   ]
 }
