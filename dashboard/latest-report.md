@@ -1,16 +1,16 @@
-- Timestamp: 2026-04-13T12:40:00+09:00
-- BTC snapshot: BTC around $70,962, about 105,416,090 KRW using USD/KRW 1,485.53. 24h change about -1.02%, 7d about +2.51%, 30d about +0.14%. 24h range about $70,617 to $71,772, market cap about $1.42T.
-- Trend summary: BTC remains in a broad sideways-to-slightly-positive range. It is modestly above last week, essentially flat versus 30 days, and still below major cycle highs, which suggests trend support but not a clean momentum breakout.
-- News summary: Recent coverage stays mixed. Reuters reported Treasury Secretary Scott Bessent urging Congress to pass a crypto market-structure bill, which is supportive for the asset class. Separate Reuters-reported coverage around Kraken's Fed payment-account setup shows ongoing regulatory and banking-risk debate. Broader macro conditions still look cautious, with markets sensitive to inflation, rates, and geopolitical risk.
-- Notable public-figure investment note if any: No meaningful fresh signal. Trump-linked crypto coverage remains more about venture access, governance, and controversy than a new Bitcoin accumulation catalyst. Older Trump-linked or other public-figure BTC exposure stories are not fresh enough to trade on here.
+- Timestamp: 2026-04-13 14:40 KST
+- BTC snapshot: BTC is around $70,730, roughly 105,224,948 KRW using about 1,487.7 KRW/USD. 24h change is about -0.04%, with recent intraday range near $70,623 to $71,267.
+- Trend summary: Short-term tape is flat to slightly soft, but BTC remains broadly range-bound around the low $70Ks. Recent market commentary points to support from spot ETF inflows, while macro uncertainty still caps upside. Practical chart context suggests a sideways market unless price can cleanly push beyond the mid-$70K area.
+- News summary: Recent crypto coverage highlights renewed spot Bitcoin ETF inflows and steady institutional interest, but price response has been muted. Macro factors remain important, with risk sentiment and Fed-related expectations still limiting conviction.
+- Notable public-figure investment note if any: No meaningful fresh signal. There is discussion around prior Trump-family or Trump-linked crypto exposure, but no clearly fresh April 13 investment development strong enough to use as a trading input.
 - Judgment: neutral
 - Confidence: medium
 - Reasons:
-  - BTC is slightly weaker over 24 hours but still modestly positive over 7 days, which keeps the setup balanced rather than decisively bearish.
-  - The 30-day picture is basically flat, so trend context does not justify chasing.
-  - Regulatory and institutional headlines are mildly supportive, but macro risk still caps upside conviction.
-  - No meaningful fresh public-figure investment headline changes the near-term setup.
+  - Price is near $70.7K and basically flat over 24 hours, which does not show urgent momentum either way.
+  - ETF/institutional flow headlines are mildly supportive, but recent price reaction remains muted.
+  - Macro and risk sentiment are still mixed, so breakout conviction is limited.
+  - No meaningful fresh public-figure accumulation signal changes the setup.
 - Suggested action: hold
-- Virtual trade: No trade. Maintain current cash and wait for either a cleaner breakout above the recent range or a better risk-reward pullback with stabilization.
-- Portfolio snapshot: cash 10,000,000 KRW, BTC 0 , average buy 0 KRW, last price 105,416,090 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
-- Caveats: This is paper trading only. Public web price, FX, and news inputs may lag. If ETF-flow or macro headlines shift quickly, the short-term BTC view can change fast.
+- Virtual trade: HOLD. No paper trade executed.
+- Portfolio snapshot: cash 10,000,000 KRW, BTC 0, average buy price 0 KRW, last valuation 10,000,000 KRW, realized PnL 0 KRW.
+- Caveats: Public web market data can vary by venue and timestamp. KRW conversion uses a public mid-market approximation from KRW/USD data, so the BTC KRW figure is an estimate.
