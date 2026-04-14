@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10126190.86,
+  "last_valuation_krw": 10135972.44,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T06:39+09:00",
+  "last_updated": "2026-04-15T07:09+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,9 +14,9 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 109795000,
+      "last_price_krw": 110027000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "110.0M원선 안착 전까지 보수적 홀드, 109.2M원 이탈 시 방어 강화, 110.5M~110.8M원 회복 시 강세 복원 재평가"
+      "strategy": "110.0M원선 재안착 확인 중이므로 보수적 홀드, 109.2M원 이탈 시 방어 강화, 110.5M~110.8M원 회복 시 강세 복원 재평가"
     }
   },
   "watchlist": [
@@ -356,6 +356,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "110.0M원 안착 실패 뒤 109.8M원대로 다시 밀려 단기 모멘텀이 약해 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T07:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110027000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원선을 소폭 회복했지만 30분봉 기준 110.5M원 상단 돌파가 아직 없어 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
     }
   ]
 }
