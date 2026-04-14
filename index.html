@@ -2,11 +2,361 @@
 <html lang="ko">
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="refresh" content="0; url=bits-today/dashboard/index.html" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <title>bit's today</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #111a2b;
+      --line: #25324b;
+      --text: #f4f7ff;
+      --muted: #a8b4cf;
+      --blue: #4c8dff;
+      --buy: #ff6b57;
+      --sell: #4c8dff;
+      --hold: #b3c0da;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .app { max-width: 430px; margin: 0 auto; min-height: 100vh; background: linear-gradient(180deg, #0b1220 0%, #10192b 100%); }
+    .topbar { display: flex; justify-content: space-between; align-items: center; padding: 14px 16px 10px; font-weight: 700; font-size: 15px; color: #fff; }
+    .title { text-align: center; font-size: 18px; font-weight: 800; padding: 4px 16px 14px; color: #fff; }
+    .search { margin: 0 12px 12px; background: #0d1626; border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; color: var(--muted); font-size: 14px; }
+    .tabs { display: flex; border-bottom: 1px solid var(--line); background: #0f1728; }
+    .tab { flex: 1; text-align: center; padding: 14px 6px; color: var(--muted); font-weight: 700; border-bottom: 2px solid transparent; cursor: pointer; }
+    .tab.active { color: #fff; border-bottom-color: #fff; }
+    .screen { display: none; }
+    .screen.active { display: block; }
+    .section { padding: 14px 14px 0; }
+    .card, .box { background: var(--panel); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 16px 14px; }
+    .summary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 18px; }
+    .asset-grid { display: grid; gap: 10px; margin-top: 12px; }
+    .asset-row { background: #0d1626; border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
+    .asset-head { display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px; gap: 8px; }
+    .asset-name { font-size: 16px; font-weight: 800; color: #fff; }
+    .asset-market { font-size: 12px; color: var(--muted); margin-top: 2px; }
+    .asset-values { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .label { color: var(--muted); font-size: 13px; margin-bottom: 6px; }
+    .big { font-size: 26px; font-weight: 800; color: #fff; line-height: 1.2; }
+    .mid { font-size: 18px; font-weight: 800; color: #fff; line-height: 1.25; }
+    .money { font-size: 28px; font-weight: 800; color: #fff; line-height: 1.15; }
+    .small { font-size: 12px; color: var(--muted); }
+    .buy { color: var(--buy) !important; }
+    .sell { color: var(--sell) !important; }
+    .hold { color: var(--hold) !important; }
+    .toolbar { display: flex; gap: 8px; padding: 12px 14px; background: #0f1728; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); overflow: auto; }
+    .pill { padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--muted); white-space: nowrap; font-size: 13px; }
+    .pill.active { color: var(--blue); border-color: var(--blue); background: rgba(76,141,255,.08); }
+    .gauge-wrap { margin-top: 10px; }
+    .gauge { height: 12px; border-radius: 999px; background: linear-gradient(90deg, #2f8fef, #f1b63b, #ff5b6e); position: relative; overflow: hidden; }
+    .needle { position: absolute; top: -2px; width: 4px; height: 16px; background: #fff; border-radius: 3px; }
+    .strategy-box, .note-box, .report-box { background: var(--panel); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 14px; margin-top: 12px; }
+    .section-title { font-size: 16px; font-weight: 800; margin-bottom: 12px; color: #fff; }
+    .strategy-item, .note-item { padding: 10px 0; border-bottom: 1px solid rgba(37,50,75,.7); color: #eef3ff; }
+    .strategy-item:last-child, .note-item:last-child { border-bottom: 0; }
+    .strategy-title { font-weight: 800; margin-bottom: 6px; color: #fff; }
+    .trade-log { padding: 12px; border-radius: 12px; margin-bottom: 10px; border: 1px solid var(--line); background: #0d1626; }
+    .trade-log.buy-log { border-left: 4px solid var(--buy); }
+    .trade-log.sell-log { border-left: 4px solid var(--sell); }
+    .trade-log.hold-log { border-left: 4px solid var(--hold); }
+    .trade-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 8px; }
+    .badge { font-size: 12px; font-weight: 800; padding: 4px 8px; border-radius: 999px; }
+    .badge.buy { background: rgba(255,107,87,.15); color: var(--buy); }
+    .badge.sell { background: rgba(76,141,255,.15); color: var(--sell); }
+    .badge.hold { background: rgba(179,192,218,.12); color: var(--hold); }
+    .trade-main { font-size: 20px; font-weight: 900; margin-bottom: 6px; color: #fff; }
+    .trade-sub { font-size: 13px; color: var(--muted); line-height: 1.5; }
+    pre { margin: 0; white-space: pre-wrap; word-break: break-word; font-family: inherit; line-height: 1.6; color: #eef3ff; font-size: 13px; }
+  </style>
 </head>
 <body>
-  <p><a href="bits-today/dashboard/index.html">bit's today dashboard</a></p>
+  <div class="app">
+    <div class="topbar"><span id="clock">--:--</span><span>bit's today</span></div>
+    <div class="title">투자내역</div>
+    <div class="search">🔍 코인명/심볼 검색</div>
+
+    <div class="tabs">
+      <div class="tab active" data-tab="assets">보유자산</div>
+      <div class="tab" data-tab="profit">투자손익</div>
+      <div class="tab" data-tab="trades">거래내역</div>
+      <div class="tab" data-tab="report">리포트</div>
+    </div>
+
+    <div class="screen active" id="screen-assets">
+      <div class="section">
+        <div class="card">
+          <div class="summary-grid">
+            <div>
+              <div class="label">총 보유자산</div>
+              <div class="money" id="valuation">-</div>
+            </div>
+            <div>
+              <div class="label">남은 현금</div>
+              <div class="money" id="cash">-</div>
+            </div>
+            <div>
+              <div class="label">평가손익</div>
+              <div class="mid buy" id="profitValue">-</div>
+              <div class="small" id="returnPct">-</div>
+            </div>
+            <div>
+              <div class="label">종합 투자의견</div>
+              <div class="mid" id="judgment">-</div>
+              <div class="small" id="action">-</div>
+            </div>
+          </div>
+
+          <div class="asset-grid" id="assetGrid"></div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <div class="pill active">보유 현황</div>
+        <div class="pill">현재 시황</div>
+        <div class="pill">공포탐욕</div>
+      </div>
+
+      <div class="section">
+        <div class="card">
+          <div class="label">현재 시황</div>
+          <div class="mid" id="marketStatus">-</div>
+          <div class="small" id="btcSnapshot">-</div>
+          <div class="small" id="confidence">-</div>
+          <div class="gauge-wrap">
+            <div class="label">공포탐욕지수</div>
+            <div class="mid" id="fearGreed">-</div>
+            <div class="gauge"><div class="needle" id="fearNeedle" style="left:50%"></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="note-box">
+          <div class="section-title">코인별 대응 전략</div>
+          <div id="strategyList"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="screen" id="screen-profit">
+      <div class="section">
+        <div class="card">
+          <div class="summary-grid">
+            <div>
+              <div class="label">누적 수익</div>
+              <div class="money buy" id="profitValue2">-</div>
+            </div>
+            <div>
+              <div class="label">누적 수익률</div>
+              <div class="mid" id="returnPct2">-</div>
+            </div>
+            <div>
+              <div class="label">투자원금</div>
+              <div class="money" id="initialCash">-</div>
+            </div>
+            <div>
+              <div class="label">실현 손익</div>
+              <div class="mid" id="realizedPnl">-</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="note-box">
+          <div class="section-title">핵심 요약</div>
+          <div id="summaryList"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="screen" id="screen-trades">
+      <div class="section">
+        <div class="box">
+          <div class="section-title">거래내역</div>
+          <div id="tradeList"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="screen" id="screen-report">
+      <div class="section">
+        <div class="report-box">
+          <div class="section-title">최신 리포트</div>
+          <pre id="report">불러오는 중...</pre>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const NAME_MAP = {
+      BTC: '비트코인',
+      ETH: '이더리움',
+      XRP: '리플',
+      ONDO: '온도',
+      SOL: '솔라나',
+      DOGE: '도지코인',
+      SUI: '수이',
+      AVAX: '아발란체',
+      AKT: '아카시네트워크',
+      ESP: '에스피'
+    };
+    function addNode(container, html, cls='note-item') {
+      const el = document.createElement('div');
+      el.className = cls;
+      el.innerHTML = html;
+      container.appendChild(el);
+    }
+    function parseFearValue(text) {
+      const m = String(text || '').match(/(\d{1,3})/);
+      return m ? Math.max(0, Math.min(100, Number(m[1]))) : 50;
+    }
+    function parseNumber(text) {
+      if (typeof text === 'number') return text;
+      return Number(String(text || '').replace(/[^0-9.-]/g, '')) || 0;
+    }
+    function fmtKrw(value) {
+      return Math.round(Number(value || 0)).toLocaleString();
+    }
+    function updateClock() {
+      const d = new Date();
+      const hh = String(d.getHours()).padStart(2,'0');
+      const mm = String(d.getMinutes()).padStart(2,'0');
+      document.getElementById('clock').textContent = `${hh}:${mm}`;
+    }
+    function switchTab(name) {
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === name));
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+      document.getElementById('screen-' + name).classList.add('active');
+    }
+    async function load() {
+      try {
+        const [statusRes, reportRes] = await Promise.all([
+          fetch('./status.json?_=' + Date.now()),
+          fetch('./latest-report.md?_=' + Date.now())
+        ]);
+        const status = await statusRes.json();
+        const report = await reportRes.text();
+
+        const valuation = parseNumber(status.last_valuation_krw);
+        const initial = parseNumber(status.initial_cash_krw);
+        const realized = parseNumber(status.realized_pnl_krw);
+        const profit = valuation - initial;
+
+        document.getElementById('valuation').innerHTML = `₩<br>${fmtKrw(valuation)}`;
+        document.getElementById('cash').innerHTML = `₩<br>${fmtKrw(parseNumber(status.cash_krw))}`;
+        document.getElementById('profitValue').textContent = `${profit >= 0 ? '+' : '-'}${fmtKrw(Math.abs(profit))} KRW`;
+        document.getElementById('profitValue').className = 'mid ' + (profit >= 0 ? 'buy' : 'sell');
+        document.getElementById('returnPct').textContent = `수익률 ${status.return_pct ?? '-'}%`;
+        document.getElementById('returnPct').className = 'small ' + ((Number(status.return_pct || 0) >= 0) ? 'buy' : 'sell');
+        document.getElementById('judgment').textContent = status.judgment || '-';
+        document.getElementById('action').textContent = `추천 행동 ${status.suggested_action || '-'}`;
+        document.getElementById('marketStatus').textContent = status.market_status || '-';
+        document.getElementById('btcSnapshot').textContent = status.btc_snapshot || '-';
+        document.getElementById('confidence').textContent = `신뢰도 ${status.confidence || '-'} · ${status.updated_at || '-'}`;
+        document.getElementById('fearGreed').textContent = status.fear_greed || '-';
+        document.getElementById('fearNeedle').style.left = `calc(${parseFearValue(status.fear_greed)}% - 2px)`;
+
+        document.getElementById('profitValue2').textContent = `${profit >= 0 ? '+' : '-'}${fmtKrw(Math.abs(profit))} KRW`;
+        document.getElementById('profitValue2').className = 'money ' + (profit >= 0 ? 'buy' : 'sell');
+        document.getElementById('returnPct2').textContent = `${status.return_pct ?? '-'}%`;
+        document.getElementById('returnPct2').className = 'mid ' + ((Number(status.return_pct || 0) >= 0) ? 'buy' : 'sell');
+        document.getElementById('initialCash').innerHTML = `₩<br>${fmtKrw(initial)}`;
+        document.getElementById('realizedPnl').textContent = `${realized >= 0 ? '+' : '-'}${fmtKrw(Math.abs(realized))} KRW`;
+        document.getElementById('realizedPnl').className = 'mid ' + (realized >= 0 ? 'buy' : 'sell');
+
+        document.getElementById('report').textContent = report;
+
+        const assetGrid = document.getElementById('assetGrid');
+        assetGrid.innerHTML = '';
+        (status.positions || []).forEach((p) => {
+          const amount = Number(p.amount || 0);
+          const last = parseNumber(p.last_price_krw);
+          const avg = parseNumber(p.avg_buy_price_krw);
+          const evalAmount = amount * last;
+          const pnl = (last - avg) * amount;
+          const rate = avg ? (((last - avg) / avg) * 100) : 0;
+          const pnlCls = pnl >= 0 ? 'buy' : 'sell';
+          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
+          const row = document.createElement('div');
+          row.className = 'asset-row';
+          row.innerHTML = `
+            <div class="asset-head">
+              <div>
+                <div class="asset-name">${name}</div>
+                <div class="asset-market">${p.market}</div>
+              </div>
+              <div class="small">보유량 ${amount}</div>
+            </div>
+            <div class="asset-values">
+              <div>
+                <div class="label">현재가</div>
+                <div class="mid">${p.last_price_krw}</div>
+              </div>
+              <div>
+                <div class="label">평가금액</div>
+                <div class="mid">${fmtKrw(evalAmount)} KRW</div>
+              </div>
+              <div>
+                <div class="label">평가손익</div>
+                <div class="mid ${pnlCls}">${pnl >= 0 ? '+' : '-'}${fmtKrw(Math.abs(pnl))} KRW</div>
+              </div>
+              <div>
+                <div class="label">수익률</div>
+                <div class="mid ${pnlCls}">${rate.toFixed(2)}%</div>
+              </div>
+            </div>
+          `;
+          assetGrid.appendChild(row);
+        });
+        if (!(status.positions || []).length) {
+          const row = document.createElement('div');
+          row.className = 'asset-row';
+          row.innerHTML = `<div class="asset-name">보유 코인 없음</div><div class="small">현재는 현금만 보유 중</div>`;
+          assetGrid.appendChild(row);
+        }
+
+        const strategyList = document.getElementById('strategyList');
+        strategyList.innerHTML = '';
+        (status.positions || []).forEach((p) => {
+          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
+          addNode(strategyList, `<div class="strategy-title">${name}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
+        });
+
+        const summaryList = document.getElementById('summaryList');
+        summaryList.innerHTML = '';
+        (status.summary || []).slice(0, 8).forEach((s) => addNode(summaryList, s));
+
+        const tradeList = document.getElementById('tradeList');
+        tradeList.innerHTML = '';
+        (status.recent_trades || []).forEach((t) => {
+          const action = String(t.action || 'HOLD').toUpperCase();
+          const cls = action.includes('BUY') ? 'buy-log' : action.includes('SELL') ? 'sell-log' : 'hold-log';
+          const badgeCls = action.includes('BUY') ? 'buy' : action.includes('SELL') ? 'sell' : 'hold';
+          const total = Math.abs(parseNumber(t.cash_delta_krw));
+          const totalText = total > 0 ? `${fmtKrw(total)} KRW` : '거래 없음';
+          const mainText = action.includes('BUY') ? `총 ${totalText} 매수` : action.includes('SELL') ? `총 ${totalText} 매도` : `${t.symbol || '코인'} 관망`;
+          const priceText = `${fmtKrw(t.price_krw)} KRW`;
+          addNode(tradeList, `
+            <div class="trade-head">
+              <div class="strategy-title">${NAME_MAP[t.symbol] || t.symbol || 'COIN'} (${t.symbol || '-'}) · ${t.timestamp || '-'}</div>
+              <div class="badge ${badgeCls}">${action}</div>
+            </div>
+            <div class="trade-main ${badgeCls}">${mainText}</div>
+            <div class="trade-sub">체결 기준가 ${priceText} · 수량 변화 ${t.amount_delta ?? 0}</div>
+            <div class="trade-sub">사유: ${t.reason || '-'}</div>
+          `, `trade-log ${cls}`);
+        });
+      } catch (e) {
+        document.getElementById('report').textContent = '대시보드 데이터를 불러오지 못했습니다.\n' + e;
+      }
+    }
+    updateClock();
+    setInterval(updateClock, 20000);
+    document.querySelectorAll('.tab').forEach(tab => tab.addEventListener('click', () => switchTab(tab.dataset.tab)));
+    load();
+    setInterval(load, 60000);
+  </script>
 </body>
 </html>
