@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 4500000.97,
   "realized_pnl_krw": 0,
-  "last_valuation_krw": 10142758.33,
+  "last_valuation_krw": 10144191.75,
   "last_action": "HOLD",
-  "last_updated": "2026-04-14T12:09:00+09:00",
+  "last_updated": "2026-04-14T12:39:00+09:00",
   "trade_count": 3,
   "positions": {
     "BTC": {
@@ -14,7 +14,7 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 109870000,
+      "last_price_krw": 109904000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
       "strategy": "109.8M원대 지지 유지 시 홀드, 110.18M원 재돌파 시 단기 강세 재가속, 109.5M원 하향 이탈 시 일부 차익보호 관점 경계"
     },
@@ -42,7 +42,7 @@
     {
       "symbol": "WET",
       "market": "KRW-WET",
-      "reason": "거래대금은 강하지만 급등 뒤 급락 변동성이 커 신규 추격보다 눌림 안정화 여부만 관찰"
+      "reason": "거래대금은 강하지만 221원까지 조정이 깊어 신규 추격보다 안정화 여부만 관찰"
     },
     {
       "symbol": "SEI",
@@ -509,6 +509,24 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "376~378원 박스 횡보가 이어져 381원 안착 전까지는 신규 확대보다 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T12:39:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109904000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110M원 재시험 구간이지만 30분봉 저점 상승 구조가 유지돼 109.5M원 지지 훼손 전까지 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T12:39:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 377,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "377원 박스 횡보가 이어져 381원 안착 전까지는 신규 확대보다 기존 비중 홀드가 적절합니다."
     }
   ]
 }
