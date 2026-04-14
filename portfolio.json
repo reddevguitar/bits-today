@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 4500000.97,
   "realized_pnl_krw": 0,
-  "last_valuation_krw": 10044757,
+  "last_valuation_krw": 10136856.04,
   "last_action": "HOLD",
-  "last_updated": "2026-04-14T08:09:00+09:00",
+  "last_updated": "2026-04-14T09:39:00+09:00",
   "trade_count": 3,
   "positions": {
     "BTC": {
@@ -14,18 +14,18 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 107465000,
+      "last_price_krw": 109730000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "108.8M원 하회 확인으로 공격적 확대 중단, 107M원 초반 지지 확인 전까지 홀드 관찰"
+      "strategy": "109.4M원대 지지 유지 시 홀드, 110M원 재안착 시 추가 강세 확인, 109M원 하향 이탈 시 과열 식힘 경계"
     },
     "ONDO": {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
       "amount": 2680.96514745,
       "avg_buy_price_krw": 373,
-      "last_price_krw": 378,
+      "last_price_krw": 377,
       "thesis": "업비트 내 단기 상대강도와 거래대금이 유지되는 고변동 알트 순환매 후보",
-      "strategy": "379~381원 안착 전까지는 홀드, 374원 이탈 시 탄력 둔화 경계, 368원 하향 이탈 시 빠르게 축소"
+      "strategy": "377원 박스 조정 중, 381원 안착 전까지 홀드, 374원 이탈 시 탄력 둔화 경계"
     }
   },
   "watchlist": [
@@ -37,12 +37,12 @@
     {
       "symbol": "ESP",
       "market": "KRW-ESP",
-      "reason": "116원 수준 관찰, 거래대금 동반 재순환매 확인 전 대기"
+      "reason": "113원, 115원 이상 재가속과 거래대금 재집중 전 대기"
     },
     {
       "symbol": "WET",
       "market": "KRW-WET",
-      "reason": "급등 과열 상태라 신규 추격보다 눌림과 거래대금 유지 여부만 관찰"
+      "reason": "여전히 강하지만 급등 과열 상태라 신규 추격보다 눌림과 거래대금 유지 여부만 관찰"
     },
     {
       "symbol": "SEI",
@@ -365,6 +365,60 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "378원 부근 박스를 유지해 평균단가 위 흐름은 살아 있으나 379~381원 안착 전까지는 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T08:39:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110054000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "08:10 급락분을 대부분 회복하며 110M원선을 재회복해 추세 훼손 전까지 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T08:39:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 380,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "380원까지 반등해 저항 재시험이 진행 중이지만 아직 강한 안착 확정 전이라 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T09:09:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109581000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110M원 재회복 뒤 109.5M원대로 숨 고르기에 들어가 지지 확인 전까지 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T09:09:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 378,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "381원 안착 실패 후 378원 박스를 유지해 신규 확대보다 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T09:39:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109730000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "급락 이후 회복분을 유지 중이지만 110M원 위 안착은 아직 미완성이라 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T09:39:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 377,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "377원 박스 조정이 이어져 381원 돌파 확인 전까지는 기존 비중 홀드가 적절합니다."
     }
   ]
 }
