@@ -1,31 +1,35 @@
 {
   "project": "bit's today",
-  "judgment": "bullish",
+  "judgment": "neutral",
   "confidence": "medium",
-  "suggested_action": "BTC·ONDO 홀드, DRIFT 후속 확인만, ZBT 추격매수 금지.",
-  "updated_at": "2026-04-14 13:39 KST",
-  "market_status": "BTC는 110.02M원으로 110M원선 위를 유지 중이고, ONDO는 378원 박스 상단 재도전, DRIFT는 90.3원 강세 지속, ZBT는 165원 과열권입니다.",
+  "suggested_action": "BTC·ONDO 홀드, DRIFT 눌림 대기, ZBT 추격매수 금지.",
+  "updated_at": "2026-04-14 14:09 KST",
+  "market_status": "BTC는 109.82M원으로 110M원선 부근 재정비, ONDO는 377원 박스 유지, DRIFT는 92.5원 강세 지속, ZBT는 167원 과열권입니다.",
   "fear_greed": "21 (Extreme Fear)",
-  "btc_snapshot": "110,021,000원. 30분봉 저점 상승 뒤 110M원선 안착 시도 중이며 110.18M원 돌파가 다음 관건입니다.",
+  "btc_snapshot": "109,815,000원. 30분봉 저점 상승은 유지되지만 110.18M원 돌파 확인 전이라 고점 압축 구간입니다.",
   "cash_krw": "4,500,001 KRW",
   "realized_pnl_krw": "0 KRW",
-  "last_valuation_krw": "10,151,805 KRW",
+  "last_valuation_krw": "10,140,440 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 1.52,
+  "return_pct": 1.4,
   "last_action": "HOLD",
   "trade_count": 3,
-  "last_updated": "2026-04-14T13:39:00+09:00",
+  "last_updated": "2026-04-14T14:09:00+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 110M원선 위를 유지하며 30분봉 고점 압축 흐름을 이어가고 있습니다.",
-    "전략 상태 반영 요약: cached cautious bullish를 유지하며 메이저 우위 환경이라 기존 BTC·ONDO 관리가 우선입니다.",
-    "현재 보유 포트폴리오 요약: BTC 0.04215922, ONDO 2680.96514745, 현금 4,500,000.97원, 총 평가 약 10,151,805원입니다.",
-    "코인별 대응 전략 요약: BTC는 홀드, ONDO는 381원 안착 전 홀드, DRIFT는 감시 유지, ZBT는 추격 금지가 적절합니다.",
-    "근거: BTC 110M원선 유지, 공포탐욕 21, ONDO 평균단가 상회, cached 메이저 우위 바이어스를 감안하면 기존 포지션 유지가 유리합니다.",
+    "단기 차트 요약: BTC는 110M원 부근에서 숨 고르기지만 30분봉 저점 상승 구조는 아직 유지됩니다.",
+    "전략 상태 반영 요약: cached cautious bullish를 유지하되 돌파 확정 전이라 메이저 보유 관리가 우선입니다.",
+    "현재 보유 포트폴리오 요약: BTC 0.04215922, ONDO 2680.96514745, 현금 4,500,000.97원, 총 평가 약 10,140,440원입니다.",
+    "코인별 대응 전략 요약: BTC와 ONDO는 홀드, DRIFT는 눌림 대기, ZBT는 추격 금지가 적절합니다.",
+    "근거: BTC는 110.18M원 돌파 미확인, ONDO는 박스권, DRIFT·ZBT는 급등 부담이 있어 신규 확대 효율이 낮습니다.",
     "가상 매매 실행 내용: 이번 회차도 신규 매수/매도 없이 HOLD 대응입니다.",
-    "포트폴리오 현황: 현금 4,500,000.97원, BTC 평가 약 4,638,400원, ONDO 평가 약 1,013,405원, 총 평가 약 10,151,805원입니다.",
+    "포트폴리오 현황: 현금 4,500,000.97원, BTC 평가 약 4,629,715원, ONDO 평가 약 1,010,724원, 총 평가 약 10,140,440원입니다.",
     "주의사항: 실거래가 아닌 가상 기록이며, 경량 시세 스냅샷 기준이라 약간의 오차가 있을 수 있습니다."
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-14-1409.md",
+      "title": "2026-04-14-1409"
+    },
     {
       "file": "2026-04-14-1339.md",
       "title": "2026-04-14-1339"
@@ -45,10 +49,6 @@
     {
       "file": "2026-04-14-1139.md",
       "title": "2026-04-14-1139"
-    },
-    {
-      "file": "2026-04-14-1109.md",
-      "title": "2026-04-14-1109"
     }
   ],
   "positions": [
@@ -57,7 +57,7 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": "106,738,489 KRW",
-      "last_price_krw": "110,021,000 KRW",
+      "last_price_krw": "109,815,000 KRW",
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
       "strategy": "110.18M원 상향 돌파 시 홀드 강화, 109.5M원 하향 이탈 시 일부 차익보호 관점 경계"
     },
@@ -66,30 +66,12 @@
       "market": "KRW-ONDO",
       "amount": 2680.96514745,
       "avg_buy_price_krw": "373 KRW",
-      "last_price_krw": "378 KRW",
+      "last_price_krw": "377 KRW",
       "thesis": "업비트 내 단기 상대강도와 거래대금이 유지되는 고변동 알트 순환매 후보",
       "strategy": "376~378원 박스 홀드, 381원 안착 전까지 추가매수 보류, 374원 이탈 시 단기 탄력 둔화 경계"
     }
   ],
   "recent_trades": [
-    {
-      "timestamp": "2026-04-14T12:39:00+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109904000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110M원 재시험 구간이지만 30분봉 저점 상승 구조가 유지돼 109.5M원 지지 훼손 전까지 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-14T12:39:00+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 377,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "377원 박스 횡보가 이어져 381원 안착 전까지는 신규 확대보다 기존 비중 홀드가 적절합니다."
-    },
     {
       "timestamp": "2026-04-14T13:09:00+09:00",
       "symbol": "BTC",
@@ -125,7 +107,25 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "378원으로 박스 상단 재도전이지만 381원 안착 전이라 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T14:09:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109815000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.18M원 돌파는 아직 미완성이지만 109.2M원 저점을 지키며 110M원 부근 횡보가 이어져 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T14:09:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 377,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "377원 박스 유지 흐름으로 평균단가 위는 지키고 있어 381원 안착 전까지 기존 비중 홀드가 적절합니다."
     }
   ],
-  "latest_report_file": "2026-04-14-1339.md"
+  "latest_report_file": "2026-04-14-1409.md"
 }
