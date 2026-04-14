@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 4500000.97,
   "realized_pnl_krw": 0,
-  "last_valuation_krw": 10150220.51,
+  "last_valuation_krw": 10150442.62,
   "last_action": "HOLD",
-  "last_updated": "2026-04-14T18:39:00+09:00",
+  "last_updated": "2026-04-14T19:09:00+09:00",
   "trade_count": 3,
   "positions": {
     "BTC": {
@@ -14,7 +14,7 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 110047000,
+      "last_price_krw": 109920000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
       "strategy": "109.8M원 위 유지 시 홀드 지속, 110.5M원 상단 안착 확인 전까지 추격 확대 금지, 109.8M원 하향 이탈 시 일부 차익보호 관점 경계"
     },
@@ -23,26 +23,26 @@
       "market": "KRW-ONDO",
       "amount": 2680.96514745,
       "avg_buy_price_krw": 373,
-      "last_price_krw": 377,
+      "last_price_krw": 379,
       "thesis": "업비트 내 단기 상대강도와 거래대금이 유지되는 고변동 알트 순환매 후보",
       "strategy": "374~381원 박스 홀드, 381원 안착 전까지 추가매수 보류, 372원 하향 이탈 시 탄력 둔화 경계"
     }
   },
   "watchlist": [
     {
-      "symbol": "DRIFT",
-      "market": "KRW-DRIFT",
-      "reason": "87~88원 부근 지지 재확인 뒤 거래대금 재유입이 붙을 때만 검토"
+      "symbol": "TREE",
+      "market": "KRW-TREE",
+      "reason": "당일 강세는 선명하지만 이미 급등 폭이 커 눌림과 거래대금 지속 확인 뒤만 검토"
     },
     {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "156원 급등 후 되밀림과 변동성 확대 구간이라 눌림 안정화 전 추격 금지"
+      "symbol": "DRIFT",
+      "market": "KRW-DRIFT",
+      "reason": "재순환형 거래대금이 붙고 지지 확인이 나올 때만 검토"
     },
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.5M원 상단 안착 여부가 전체 단기 리스크온 유지의 핵심 기준"
+      "reason": "109.8M원 지지 유지 여부와 110.5M원 재돌파 여부가 전체 단기 리스크온 판단의 핵심 기준"
     }
   ],
   "history": [
@@ -234,6 +234,24 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "377원으로 박스 상단 근처를 유지하고 있으나 381원 돌파 확인 전까지는 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T19:09:00+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109920000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "109.8M원 위는 지키고 있지만 30분봉 고점이 낮아져 110.5M원 안착 전까지는 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-14T19:09:00+09:00",
+      "symbol": "ONDO",
+      "action": "HOLD",
+      "price_krw": 379,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "379원으로 박스 상단 재접근 중이지만 381원 안착 전이라 추가매수보다 기존 비중 홀드가 적절합니다."
     }
   ]
 }
