@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10119403.87,
+  "last_valuation_krw": 10136731.3,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T04:39+09:00",
+  "last_updated": "2026-04-15T05:09+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,31 +14,31 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 109634000,
+      "last_price_krw": 110045000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "109.6M원대 지지 유지 시 홀드, 이탈 누적 시 다음 회차 방어 강화"
+      "strategy": "110.0M원선 유지 시 홀드, 109.6M원 재이탈 누적 시 다음 회차 방어 강화"
     }
   },
   "watchlist": [
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "111원 급등 구간이라 추격보다 눌림 후 거래대금 유지 여부 확인이 우선"
+      "reason": "119원 급등 구간이라 추격보다 눌림 후 거래대금 유지 여부 확인이 우선"
     },
     {
       "symbol": "TREE",
       "market": "KRW-TREE",
-      "reason": "99원대 유지와 재상승 신호 확인 뒤만 검토"
+      "reason": "99원대 안착과 재상승 신호 확인 뒤만 검토"
     },
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.6M원 지지와 110.2M원 회복 여부가 다음 행동의 핵심 기준"
+      "reason": "110.0M원선 유지와 110.8M원 회복 여부가 다음 행동의 핵심 기준"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "165원대 강세가 남아 있지만 과열 구간이라 감시만 유지"
+      "reason": "강세가 남아 있어도 단기 과열 구간이라 감시만 유지"
     }
   ],
   "history": [
@@ -320,6 +320,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "110.0M원 회복 시도가 다시 꺾이며 109.6M원대 재시험이 이어져 이번 회차도 BTC는 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T05:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110045000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "109.6M원대 재시험 뒤 110.0M원선을 소폭 회복했지만 111M원대 재돌파는 아직 없어 이번 회차도 BTC는 기존 비중 홀드가 적절합니다."
     }
   ]
 }
