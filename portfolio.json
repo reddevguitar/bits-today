@@ -6,7 +6,7 @@
   "realized_pnl_krw": 106490.8,
   "last_valuation_krw": 10106503.14,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T21:09+09:00",
+  "last_updated": "2026-04-15T21:39+09:00",
   "trade_count": 5,
   "positions": {},
   "watchlist": [
@@ -184,6 +184,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 109.96M원까지 회복해 110.0M원 바로 아래를 테스트 중이지만 30분봉 상단 안착 확인은 아직 없어 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-15T21:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110259000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.26M원까지 올라 110.0M원 위를 테스트 중이지만 현재 30분봉은 아직 진행 중이라 상단 안착 확정으로 보기엔 이릅니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
