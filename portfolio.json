@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10138586.31,
+  "last_valuation_krw": 10134201.75,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T13:39+09:00",
+  "last_updated": "2026-04-15T14:09+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,7 +14,7 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 110089000,
+      "last_price_krw": 109985000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
       "strategy": "109.7M원 이탈 전까지 홀드 유지, 110.7M원 재돌파 시 강세 복원 확인"
     }
@@ -473,6 +473,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "110.0M원 위는 지키지만 최근 30분봉 기준 상단이 낮아지고 거래도 둔화돼 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T14:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109985000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 부근 왕복이 이어지지만 최근 30분봉 종가가 조금씩 낮아져 상단 돌파 전까지는 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
     }
   ]
 }
