@@ -3,29 +3,38 @@
   "judgment": "neutral",
   "confidence": "medium",
   "suggested_action": "BTC 25% 비중 홀드. 신규 알트 진입과 추가 BTC 매수는 보류하고, 다음 회차까지 110.0M원 지지 유지 여부를 확인.",
-  "updated_at": "2026-04-16 08:09 KST",
-  "market_status": "BTC는 08:09 KST 기준 110.379M원으로 110.0M원 상단을 유지한 채 단기 고점 뒤 숨 고르기 중입니다. 아직 상방 구조는 살아 있지만 공격 확대보다 지지 확인이 우선입니다.",
+  "updated_at": "2026-04-16 08:39 KST",
+  "market_status": "BTC는 08:39 KST 기준 110.328M원으로 110.0M원 상단을 유지한 채 좁은 박스 흐름입니다. 상방 구조는 아직 살아 있지만 공격 확대보다 지지 확인이 우선입니다.",
   "fear_greed": "23 (Extreme Fear)",
-  "btc_snapshot": "110,379,000원, 24시간 기준 +0.46%, 110.0M원 상단 유지",
+  "btc_snapshot": "110,328,000원, 24시간 기준 +0.41%, 110.0M원 상단 유지",
   "cash_krw": "7,599,857 KRW",
   "realized_pnl_krw": "99,844 KRW",
-  "last_valuation_krw": "10,092,929 KRW",
+  "last_valuation_krw": "10,091,777 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 0.93,
+  "return_pct": 0.92,
   "last_action": "HOLD",
   "trade_count": 8,
-  "last_updated": "2026-04-16T08:09+09:00",
+  "last_updated": "2026-04-16T08:39+09:00",
   "summary": [
-    "단기 차트 요약: 07:00, 07:30 확정 30분봉이 모두 110.5M원 부근에서 마감했고, 08:00 진행 봉은 110.379M원으로 소폭 눌림입니다.",
+    "단기 차트 요약: 07:00, 07:30 확정 30분봉 강세 뒤 08:00 봉은 110.333M원으로 둔화됐고, 08:30 진행 봉은 110.328M원으로 횡보 중입니다.",
     "전략 상태 반영 요약: cached 전략 bias는 cautious-neutral이며, 이번 회차도 BTC 25% 시험 진입 물량만 유지합니다.",
     "현재 보유 포트폴리오 요약: BTC 25% 비중 보유, 나머지는 현금입니다.",
     "코인별 대응 전략 요약: BTC는 110.0M원 위 유지 시 홀드, IN·BIO·TRUST는 눌림 확인 전 추격 금지입니다.",
-    "근거: 단기 반등 구조는 살아 있지만 공포탐욕 23과 거래 둔화 때문에 추가 확대 근거는 아직 부족합니다.",
+    "근거: 단기 상방 구조는 살아 있지만 공포탐욕 23과 거래 둔화 때문에 추가 확대 근거는 아직 부족합니다.",
     "가상 매매 실행 내용: 신규 매매 없이 기존 BTC 0.02258647개 홀드.",
-    "포트폴리오 현황: 현금 7,599,856.53원, BTC 평가금액 2,493,071.97원, 총 평가액 10,092,928.50원, 실현손익 99,844.19원.",
+    "포트폴리오 현황: 현금 7,599,856.53원, BTC 평가금액 2,491,920.06원, 총 평가액 10,091,776.59원, 실현손익 99,844.19원.",
     "주의사항: 110.0M원 지지가 30분봉 기준으로 깨지면 다음 회차에 빠른 보수 대응이 필요합니다."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-16T08:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110328000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.328M원으로 08:30 진행 30분봉에서 좁은 박스 흐름을 보이지만 110.0M원 상단은 유지하고 있습니다. 공포탐욕 23과 거래 둔화를 감안하면 이번 회차도 추가매수 없이 기존 BTC 25% 비중 홀드가 적절합니다."
+    },
     {
       "timestamp": "2026-04-16T08:09+09:00",
       "symbol": "BTC",
@@ -61,18 +70,13 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 110.110M원으로 아직 110.0M원 상단은 지키지만 최근 30분봉 모멘텀이 둔화돼, 이번 회차도 추가매수 없이 기존 BTC 25% 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-16T06:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110322000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.322M원으로 110.0M원 상단을 유지한 채 05:30 봉도 완만한 양봉 마감이라, 이번 회차도 추가매수 없이 기존 BTC 25% 비중 홀드가 적절합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-16-0839.md",
+      "title": "2026-04-16-0839"
+    },
     {
       "file": "2026-04-16-0809.md",
       "title": "2026-04-16-0809"
@@ -100,10 +104,6 @@
     {
       "file": "2026-04-16-0509.md",
       "title": "2026-04-16-0509"
-    },
-    {
-      "file": "2026-04-16-0439.md",
-      "title": "2026-04-16-0439"
     }
   ],
   "positions": [
@@ -112,55 +112,10 @@
       "market": "KRW-BTC",
       "amount": 0.02258647,
       "avg_buy_price_krw": "110,684,000 KRW",
-      "last_price_krw": "110,379,000 KRW",
+      "last_price_krw": "110,328,000 KRW",
       "thesis": "110.0M원 상단 재안착 30분봉 확인 뒤 follow-through 확인에 따른 보수적 재진입",
       "strategy": "110.0M원 위 유지 시 홀드, 110.0M원 아래 재이탈 시 빠른 방어"
     }
   ],
-  "chart_series": {
-    "BTC": [
-      { "timestamp": "2026-04-13T23:39:00+09:00", "price_krw": 106590472, "action": "BUY" },
-      { "timestamp": "2026-04-14T00:09:00+09:00", "price_krw": 107034872, "action": "BUY" },
-      { "timestamp": "2026-04-15T15:09+09:00", "price_krw": 109615000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T15:39+09:00", "price_krw": 109565000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T16:09+09:00", "price_krw": 109328000, "action": "SELL" },
-      { "timestamp": "2026-04-15T16:39+09:00", "price_krw": 109143000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T17:09+09:00", "price_krw": 109330000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T17:39+09:00", "price_krw": 109815000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T18:09+09:00", "price_krw": 109749000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T18:39+09:00", "price_krw": 109645000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T19:09+09:00", "price_krw": 109890000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T19:39+09:00", "price_krw": 109500000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T20:09+09:00", "price_krw": 109652000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T20:39+09:00", "price_krw": 109734000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T21:09+09:00", "price_krw": 109957000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T21:39+09:00", "price_krw": 110259000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T22:09+09:00", "price_krw": 110172000, "action": "BUY" },
-      { "timestamp": "2026-04-15T22:39+09:00", "price_krw": 109879000, "action": "SELL" },
-      { "timestamp": "2026-04-15T23:09+09:00", "price_krw": 109581000, "action": "HOLD" },
-      { "timestamp": "2026-04-15T23:39+09:00", "price_krw": 109603000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T00:09+09:00", "price_krw": 109517000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T00:39+09:00", "price_krw": 109200000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T01:09+09:00", "price_krw": 109235000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T01:39+09:00", "price_krw": 109541000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T02:09+09:00", "price_krw": 109527000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T02:39+09:00", "price_krw": 109543000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T03:09+09:00", "price_krw": 109571000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T03:39+09:00", "price_krw": 109716000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T04:09+09:00", "price_krw": 110221000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T04:39+09:00", "price_krw": 110684000, "action": "BUY" },
-      { "timestamp": "2026-04-16T05:09+09:00", "price_krw": 110467924.67, "action": "HOLD" },
-      { "timestamp": "2026-04-16T05:39+09:00", "price_krw": 110231000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T06:09+09:00", "price_krw": 110322000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T06:39+09:00", "price_krw": 110110000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T07:09+09:00", "price_krw": 110493000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T07:39+09:00", "price_krw": 110952000, "action": "HOLD" },
-      { "timestamp": "2026-04-16T08:09+09:00", "price_krw": 110379000, "action": "HOLD" }
-    ],
-    "ONDO": [
-      { "timestamp": "2026-04-14T00:27:00+09:00", "price_krw": 373, "action": "BUY" },
-      { "timestamp": "2026-04-15T03:39+09:00", "price_krw": 372, "action": "SELL" }
-    ]
-  },
-  "latest_report_file": "2026-04-16-0809.md"
+  "latest_report_file": "2026-04-16-0839.md"
 }
