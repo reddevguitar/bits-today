@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10145205.31,
+  "last_valuation_krw": 10138586.31,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T13:09+09:00",
+  "last_updated": "2026-04-15T13:39+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,7 +14,7 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 110246000,
+      "last_price_krw": 110089000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
       "strategy": "109.7M원 이탈 전까지 홀드 유지, 110.7M원 재돌파 시 강세 복원 확인"
     }
@@ -23,22 +23,22 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.0M원 재지지와 109.7M원 이탈 여부, 그리고 110.7M원 재돌파가 다음 행동의 핵심 기준"
+      "reason": "110.0M원 유지와 109.7M원 이탈 여부, 그리고 110.7M원 재돌파가 다음 행동의 핵심 기준"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "170원, +5.59%로 강하지만 이미 과열권이라 눌림 없는 추격은 비효율적"
+      "reason": "전략 상태상 핵심 후보지만 BTC 박스 상단 돌파 확인 전까지는 눌림 없는 추격 금지"
     },
     {
       "symbol": "ORDER",
       "market": "KRW-ORDER",
-      "reason": "91.9원, +2.11%로 소폭 개선됐지만 추세 전환 확정 전이라 대기"
+      "reason": "과열은 덜하지만 주도 전환 확정 전이라 재가속 확인 대기"
     },
     {
       "symbol": "HYPER",
       "market": "KRW-HYPER",
-      "reason": "149원, +5.67%로 강하지만 변동성이 커 BTC 상단 돌파 확인 전에는 관찰 우선"
+      "reason": "상대강도는 있으나 변동성이 커 BTC 강세 확인 전에는 관찰 우선"
     }
   ],
   "history": [
@@ -464,6 +464,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "110.0M원 재지지 뒤 110.246M원까지 반등했지만 110.7M원 당일 고가 재돌파가 아직 없어 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T13:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110089000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 위는 지키지만 최근 30분봉 기준 상단이 낮아지고 거래도 둔화돼 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
     }
   ]
 }
