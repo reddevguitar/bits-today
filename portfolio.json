@@ -5,15 +5,15 @@
   "cash_krw": 10106503.14,
   "realized_pnl_krw": 106490.8,
   "last_valuation_krw": 10106503.14,
-  "last_action": "SELL",
-  "last_updated": "2026-04-15T16:09+09:00",
+  "last_action": "HOLD",
+  "last_updated": "2026-04-15T16:39+09:00",
   "trade_count": 5,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.5M원 지지 이탈 후 110.0M원 재안착 여부를 다시 확인할 핵심 자산"
+      "reason": "109.5M원 재회복과 110.0M원 재안착 여부를 다시 확인할 핵심 자산"
     },
     {
       "symbol": "ZBT",
@@ -94,6 +94,15 @@
       "amount_delta": -0.04215922,
       "cash_delta_krw": 4609183.2,
       "reason": "109.5M원 핵심 지지가 실시간으로 이탈됐고 최근 30분봉이 연속 저점 하향이라 BTC 전량을 방어 매도하고 현금 비중을 100%로 올립니다."
+    },
+    {
+      "timestamp": "2026-04-15T16:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109143000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "109.5M원 재회복이 나오지 않았고 최근 30분봉도 계속 약해 이번 회차는 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
