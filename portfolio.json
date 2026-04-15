@@ -2,43 +2,33 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 5497319.94,
-  "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10116494.88,
-  "last_action": "HOLD",
-  "last_updated": "2026-04-15T15:39+09:00",
-  "trade_count": 4,
-  "positions": {
-    "BTC": {
-      "symbol": "BTC",
-      "market": "KRW-BTC",
-      "amount": 0.04215922,
-      "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 109565000,
-      "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "기존 홀드 유지, 다만 109.5M원 하향 이탈 확대 시 방어 축소 검토를 강화하고 110.0M원 재회복 시 약세 완화 확인"
-    }
-  },
+  "cash_krw": 10106503.14,
+  "realized_pnl_krw": 106490.8,
+  "last_valuation_krw": 10106503.14,
+  "last_action": "SELL",
+  "last_updated": "2026-04-15T16:09+09:00",
+  "trade_count": 5,
+  "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.5M원 지지 유지 여부와 110.0M원 재회복 여부가 다음 행동의 핵심 기준"
+      "reason": "109.5M원 지지 이탈 후 110.0M원 재안착 여부를 다시 확인할 핵심 자산"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "전략 상태상 핵심 후보지만 BTC가 110.0M원 위로 복귀하기 전까지는 추격 금지"
+      "reason": "상대강도는 유지되지만 BTC 재안정 전까지는 추격보다 눌림 확인이 우선"
     },
     {
       "symbol": "ORDER",
       "market": "KRW-ORDER",
-      "reason": "상대강도는 유지되나 BTC 약세 구간이라 재가속 확인 전까지 관찰 우선"
+      "reason": "순환매 후보이나 BTC 약세 구간에서는 후행 진입 리스크가 큼"
     },
     {
       "symbol": "HYPER",
       "market": "KRW-HYPER",
-      "reason": "상대강도는 있으나 변동성이 커 BTC 재안정 전에는 관찰 우선"
+      "reason": "고변동 후보로 관찰은 유효하지만 시장 방어가 먼저"
     }
   ],
   "history": [
@@ -95,6 +85,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "110.0M원 회복 실패와 109.5M원대 횡보가 이어져 단기 추세가 약해 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T16:09+09:00",
+      "symbol": "BTC",
+      "action": "SELL",
+      "price_krw": 109328000,
+      "amount_delta": -0.04215922,
+      "cash_delta_krw": 4609183.2,
+      "reason": "109.5M원 핵심 지지가 실시간으로 이탈됐고 최근 30분봉이 연속 저점 하향이라 BTC 전량을 방어 매도하고 현금 비중을 100%로 올립니다."
     }
   ]
 }
