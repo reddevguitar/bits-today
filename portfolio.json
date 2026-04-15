@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10156630.46,
+  "last_valuation_krw": 10134919.94,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T11:09+09:00",
+  "last_updated": "2026-04-15T11:39+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,31 +14,31 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 110517000,
+      "last_price_krw": 110002000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "110.4M원대 지지가 유지되면 홀드 지속, 110.7M원 재돌파 시 강세 복원 확인, 109.8M원 재이탈 시 다시 방어 우선"
+      "strategy": "110.0M원 부근 첫 지지가 유지되면 홀드 지속, 110.7M원 재돌파 시 강세 복원 확인, 109.7M원 재이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.4M원대 지지와 110.7M원 재돌파 여부가 다음 행동의 핵심 기준"
+      "reason": "110.0M원 첫 지지 유지와 110.7M원 재돌파 여부가 다음 행동의 핵심 기준"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "168원, +4.35%로 상대강도는 유지되지만 눌림 없는 추격은 금지"
+      "reason": "173원, +7.45%로 강세는 가장 뚜렷하지만 이미 과열 추격 구간이라 눌림 대기"
     },
     {
       "symbol": "ORDER",
       "market": "KRW-ORDER",
-      "reason": "92.9원, +3.22%지만 고점 98원 대비 눌림이 있어 조정 후 재가속 확인이 우선"
+      "reason": "92.8원, +3.11%지만 98원 고점 대비 눌림 상태라 재가속 확인이 우선"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "딥리서치 선택군이지만 현재 115원 약세라 재가속 확인 전까지 관찰 유지"
+      "reason": "115원 보합권이라 체급은 남아도 단기 실행 우선순위는 낮음"
     }
   ],
   "history": [
@@ -428,6 +428,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "110.5M원선을 회복한 뒤 짧은 박스 조정이 이어지고 있어 이번 회차도 신규 확대 없이 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T11:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110002000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.5M원 상단 안착이 다시 밀리며 110.0M원 첫 지지 테스트 구간으로 내려왔지만 109.7M원 이탈 전이라 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
     }
   ]
 }
