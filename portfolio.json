@@ -2,33 +2,43 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 10106503.14,
+  "cash_krw": 7606503.14,
   "realized_pnl_krw": 106490.8,
   "last_valuation_krw": 10106503.14,
-  "last_action": "HOLD",
-  "last_updated": "2026-04-15T21:39+09:00",
-  "trade_count": 5,
-  "positions": {},
+  "last_action": "BUY",
+  "last_updated": "2026-04-15T22:09+09:00",
+  "trade_count": 6,
+  "positions": {
+    "BTC": {
+      "market": "KRW-BTC",
+      "amount": 0.02269181,
+      "avg_buy_price_krw": 110172000,
+      "last_price_krw": 110172000,
+      "value_krw": 2500000,
+      "thesis": "110.0M원 상단 재안착 확인에 따른 보수적 재진입",
+      "strategy": "110.0M원 위 체류 시 보유, 109.95M원 아래 재이탈 시 재점검"
+    }
+  },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.0M원 상단 안착과 체류 지속 여부가 전체 리스크온 재개 판단의 핵심"
+      "reason": "110.0M원 상단 체류 지속 여부가 전체 리스크온 유지의 핵심"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "소형군 유동성 리더지만 BTC 확인 전에는 눌림 확인만 유효"
+      "reason": "소형군 유동성 리더지만 눌림 없는 추격은 비효율적"
+    },
+    {
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "reason": "강도는 가장 세지만 과열이 커 눌림 이후 재가속만 관찰"
     },
     {
       "symbol": "TRUST",
       "market": "KRW-TRUST",
-      "reason": "상승 강도는 강하지만 고변동이라 BTC 돌파 전 선진입은 부담"
-    },
-    {
-      "symbol": "ORDER",
-      "market": "KRW-ORDER",
-      "reason": "과열이 덜한 순환매 후보지만 메이저 돌파 확인 전 선진입은 보류"
+      "reason": "거래와 상승률은 좋지만 고변동이라 관찰 우선"
     }
   ],
   "history": [
@@ -193,6 +203,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 110.26M원까지 올라 110.0M원 위를 테스트 중이지만 현재 30분봉은 아직 진행 중이라 상단 안착 확정으로 보기엔 이릅니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-15T22:09+09:00",
+      "symbol": "BTC",
+      "action": "BUY",
+      "price_krw": 110172000,
+      "amount_delta": 0.02269181,
+      "cash_delta_krw": -2500000,
+      "reason": "21:30 30분봉 종가가 110.0M원 위에서 마감됐고 22:00 진행 봉도 110.0M원 부근 재테스트 후 지지 중이라 BTC 25% 비중만 보수적으로 재진입합니다."
     }
   ]
 }
