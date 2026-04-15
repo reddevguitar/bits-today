@@ -4,40 +4,40 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7599856.53,
   "realized_pnl_krw": 99844.19,
-  "last_valuation_krw": 10099856.53,
-  "last_action": "BUY",
-  "last_updated": "2026-04-16T04:39+09:00",
+  "last_valuation_krw": 10094937.0,
+  "last_action": "HOLD",
+  "last_updated": "2026-04-16T05:09+09:00",
   "trade_count": 8,
   "positions": {
     "BTC": {
       "market": "KRW-BTC",
       "amount": 0.02258647,
       "avg_buy_price_krw": 110684000,
-      "last_price_krw": 110684000,
+      "last_price_krw": 110467924.67,
       "thesis": "110.0M원 상단 재안착 30분봉 확인 뒤 follow-through 확인에 따른 보수적 재진입",
-      "strategy": "110.0M원 위 유지 시 홀드, 110.2M원 아래 재이탈 시 빠른 방어"
+      "strategy": "110.2M원 위 유지 시 홀드, 110.2M원 아래 재이탈 시 빠른 방어"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.0M원 상단 재안착이 나와 다음 봉 지지 유지 여부 확인이 핵심"
+      "reason": "110.2M원 방어와 110.5M원 재가속 여부 확인이 핵심"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "121원 강세지만 120원대 지지 재확인 전 추격 금지"
+      "reason": "강세 유지 중이지만 눌림 확인 전 추격 금지"
     },
     {
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "38.2원 급등 지속 중이라 눌림과 거래 유지 동반 시만 재검토"
+      "reason": "급등 과열이 커 눌림과 거래 유지 동반 시만 재검토"
     },
     {
       "symbol": "TRUST",
       "market": "KRW-TRUST",
-      "reason": "118원 강세지만 BTC보다 손익비가 불리해 관찰 우선"
+      "reason": "상대강도는 좋지만 BTC 대비 손익비가 불리해 관찰 우선"
     }
   ],
   "history": [
@@ -328,6 +328,15 @@
       "amount_delta": 0.02258647,
       "cash_delta_krw": -2500000,
       "reason": "04:00 30분봉 종가가 110.0M원 위에서 마감됐고 04:30 진행 봉도 110.2M원 이상에서 유지돼, BTC 25% 비중만 보수적으로 재진입합니다."
+    },
+    {
+      "timestamp": "2026-04-16T05:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110467924.67,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 상단 재안착 뒤 현재가는 110.47M원으로 소폭 눌렸지만 110.2M원 위는 유지 중이라, 이번 회차는 추가매수 없이 기존 BTC 25% 비중 홀드가 적절합니다."
     }
   ]
 }
