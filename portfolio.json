@@ -6,29 +6,29 @@
   "realized_pnl_krw": 99844.19,
   "last_valuation_krw": 10099856.53,
   "last_action": "HOLD",
-  "last_updated": "2026-04-16T03:09+09:00",
+  "last_updated": "2026-04-16T03:39+09:00",
   "trade_count": 7,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.50M원 지지와 110.0M원 30분봉 종가 회복 전까지 보수적 대기"
+      "reason": "109.50M원 지지 유지와 110.0M원 30분봉 종가 안착 확인 전까지 보수적 대기"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "121원 강세지만 120원대 지지 재확인 전 추격 금지"
+      "reason": "123원 강세지만 120원대 지지 재확인 전 추격 금지"
     },
     {
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "38원대 급등 지속 중이라 눌림과 거래 유지 동반 시만 재검토"
+      "reason": "37원대 급등 지속 중이라 눌림과 거래 유지 동반 시만 재검토"
     },
     {
       "symbol": "TRUST",
       "market": "KRW-TRUST",
-      "reason": "120원대 유지 여부 확인, BTC 약세면 추격 보류"
+      "reason": "118원 강세지만 BTC 확인 전 단기 돌파 추격 보류"
     }
   ],
   "history": [
@@ -292,6 +292,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "03:09 기준 BTC가 109.571M원으로 109.5M원 위는 지키지만 110.0M원 재안착 확인이 여전히 없습니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-16T03:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109716000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "03:39 기준 BTC가 109.716M원으로 109.5M원 위 반등은 유지했지만 110.0M원 상단 안착은 아직 확인되지 않았습니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
