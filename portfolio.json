@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10153552.83,
+  "last_valuation_krw": 10161731.72,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T09:39+09:00",
+  "last_updated": "2026-04-15T10:09+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,31 +14,31 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 110444000,
+      "last_price_krw": 110638000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "110.5M원 상단 안착 시 강세 복원 재평가, 109.8M원 재이탈 시 다시 방어 우선"
+      "strategy": "110.5M원 위 안착이 이어지면 강세 복원으로 해석하되, 109.8M원 재이탈 시 다시 방어 우선"
     }
   },
   "watchlist": [
     {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "118원으로 선택군 중 가장 강하지만 급등 직후라 눌림과 거래대금 유지 확인이 먼저"
-    },
-    {
-      "symbol": "TREE",
-      "market": "KRW-TREE",
-      "reason": "98.5원으로 아직 약해 99~100원대 재회복 전까지 관망"
-    },
-    {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.5M원 상단 안착 여부가 다음 행동의 핵심 기준"
+      "reason": "110.5M원 상단 안착 지속 여부가 다음 행동의 핵심 기준"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "164원 반등은 긍정적이지만 거래대금 동반 지속 돌파 전까지는 감시만 유지"
+      "reason": "168원, +4.35%로 선택군 중 가장 균형적인 단기 모멘텀 후보이나 눌림 확인이 먼저"
+    },
+    {
+      "symbol": "ORDER",
+      "market": "KRW-ORDER",
+      "reason": "95.6원, +6.22%로 강하지만 급등 직후라 추격보다 조정 확인이 우선"
+    },
+    {
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "reason": "117원으로 체급은 크지만 단기 상대강도는 둔화돼 감시 유지"
     }
   ],
   "history": [
@@ -401,6 +401,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "09:00봉 급반등 뒤 110.4M원대에서 눌림 없는 횡보가 이어져 구조는 나쁘지 않지만 110.5M원 상단 안착 재확인 전이라 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T10:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110638000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.5M원 상단을 재확보하며 단기 반등 구조가 조금 더 좋아졌지만 공포 심리가 극단적이라 이번 회차도 신규 확대 없이 기존 비중 홀드가 적절합니다."
     }
   ]
 }
