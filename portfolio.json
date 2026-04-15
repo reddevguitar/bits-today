@@ -6,7 +6,7 @@
   "realized_pnl_krw": 99844.19,
   "last_valuation_krw": 10099856.53,
   "last_action": "HOLD",
-  "last_updated": "2026-04-16T02:09+09:00",
+  "last_updated": "2026-04-16T02:39+09:00",
   "trade_count": 7,
   "positions": {},
   "watchlist": [
@@ -18,7 +18,7 @@
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "121원 강세지만 120원 지지 재확인 전 추격 금지"
+      "reason": "122원 강세지만 120원대 지지 재확인 전 추격 금지"
     },
     {
       "symbol": "BIO",
@@ -28,7 +28,7 @@
     {
       "symbol": "TRUST",
       "market": "KRW-TRUST",
-      "reason": "119원대 유지 여부 확인, BTC 약세면 추격 보류"
+      "reason": "120원대 유지 여부 확인, BTC 약세면 추격 보류"
     }
   ],
   "history": [
@@ -274,6 +274,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "02:00 진행 30분봉도 109.52M원 수준의 약한 반등에 그쳤고 01:30 봉이 다시 음봉 마감해 110.0M원 회복 확인이 부족합니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-16T02:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109543000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "02:30 진행 30분봉도 109.543M원 수준의 약한 반등에 그쳤고 110.0M원 회복 확인이 부족합니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
