@@ -2,17 +2,93 @@
   "project": "bit's today",
   "judgment": "bearish",
   "confidence": "medium",
-  "suggested_action": "BTC 홀드 유지하되 109.5M원 추가 이탈 시 방어 축소 적극 검토. 110.0M원 재회복 전 신규 알트 매수와 추가 매수 보류.",
-  "updated_at": "2026-04-15 14:39 KST",
-  "market_status": "BTC는 110.0M원 박스를 하향 이탈했고 109.56M원까지 저점을 낮췄습니다. 아직 패닉은 아니지만 오전 지지선이 깨져 단기 구조는 중립에서 약세 쪽으로 기울었습니다.",
+  "suggested_action": "BTC 홀드 유지. 109.5M원 재이탈 지속 시 방어 축소 검토 강화, 110.0M원 재회복 전 신규 매수와 알트 진입 보류.",
+  "updated_at": "2026-04-15 15:09 KST",
+  "market_status": "BTC는 109.5M원 저점을 찍은 뒤 109.6M원대로 소폭 반등했지만 110.0M원 재안착 실패가 이어져 단기 구조는 여전히 약세 우위입니다.",
   "fear_greed": "23 (Extreme Fear)",
-  "btc_snapshot": "109,565,000원. 당일 고가 110.717M원, 저가 109.562M원, 현재는 110.0M원 아래 약세 흐름입니다.",
+  "btc_snapshot": "109,615,000원. 당일 고가 110.717M원, 저가 109.500M원, 현재는 110.0M원 아래 약세 흐름입니다.",
   "cash_krw": "5,497,320 KRW",
   "realized_pnl_krw": "-2,681 KRW",
-  "last_valuation_krw": "10,116,495 KRW",
+  "last_valuation_krw": "10,118,605 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 1.16,
+  "return_pct": 1.19,
   "last_action": "HOLD",
   "trade_count": 4,
-  "last_updated": "2026-04-15T14:39+09:00"
+  "last_updated": "2026-04-15T15:09+09:00",
+  "summary": [
+    "단기 차트 요약: BTC는 14:00봉 하락 이후 109.6M원대 약한 반등만 나와 저점 압박이 이어집니다.",
+    "전략 상태 반영 요약: cached neutral to slightly bullish보다 실시간 차트 약세가 더 중요해 실행은 방어적 홀드입니다.",
+    "현재 보유 포트폴리오 요약: BTC 0.04215922 보유, 현금 5,497,320원, 총 평가 약 10,118,605원입니다.",
+    "코인별 대응 전략 요약: BTC는 홀드, ZBT·ORDER·HYPER는 BTC 110.0M원 회복 전 진입 보류입니다.",
+    "근거: 110.0M원 하회, 109.5M원 테스트, 약한 반등, 공포탐욕 23 때문에 공격적 대응보다 방어 우선이 효율적입니다.",
+    "가상 매매 실행 내용: 이번 회차는 신규 매매 없이 BTC만 홀드했습니다.",
+    "포트폴리오 현황: 현금 약 5.50M원, BTC 평가 약 4.62M원, 총 평가 약 10.12M원입니다.",
+    "주의사항: 실거래가 아닌 가상 기록이며, 다음 회차에서 109.5M원 재이탈 지속 여부와 110.0M원 회복 여부를 먼저 확인해야 합니다."
+  ],
+  "recent_reports": [
+    { "file": "2026-04-15-1509.md", "title": "2026-04-15-1509" },
+    { "file": "2026-04-15-1439.md", "title": "2026-04-15-1439" },
+    { "file": "2026-04-15-1409.md", "title": "2026-04-15-1409" },
+    { "file": "2026-04-15-1339.md", "title": "2026-04-15-1339" },
+    { "file": "2026-04-15-1309.md", "title": "2026-04-15-1309" },
+    { "file": "2026-04-15-1239.md", "title": "2026-04-15-1239" }
+  ],
+  "positions": [
+    {
+      "symbol": "BTC",
+      "market": "KRW-BTC",
+      "amount": 0.04215922,
+      "avg_buy_price_krw": "106,738,489 KRW",
+      "last_price_krw": "109,615,000 KRW",
+      "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
+      "strategy": "기존 홀드 유지, 다만 109.5M원 종가 기준 추가 이탈 시 방어 축소 검토를 강화하고 110.0M원 재회복 시 약세 완화 확인"
+    }
+  ],
+  "recent_trades": [
+    {
+      "timestamp": "2026-04-15T13:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110246000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 재지지 뒤 110.246M원까지 반등했지만 110.7M원 당일 고가 재돌파가 아직 없어 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T13:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110089000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 위는 지키지만 최근 30분봉 기준 상단이 낮아지고 거래도 둔화돼 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T14:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109985000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 부근 왕복이 이어지지만 최근 30분봉 종가가 조금씩 낮아져 상단 돌파 전까지는 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-15T14:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109565000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "110.0M원 박스를 하향 이탈해 109.56M원까지 저점을 낮췄지만 아직 패닉성 붕괴 전이라 이번 회차는 BTC 기존 비중 홀드로 대응합니다."
+    },
+    {
+      "timestamp": "2026-04-15T15:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109615000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "109.5M원 저점 테스트 후 109.6M원대로 소폭 반등했지만 110.0M원 재안착 실패가 이어져 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
+    }
+  ]
 }

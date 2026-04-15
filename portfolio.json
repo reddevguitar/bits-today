@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 5497319.94,
   "realized_pnl_krw": -2680.97,
-  "last_valuation_krw": 10116494.88,
+  "last_valuation_krw": 10118605.39,
   "last_action": "HOLD",
-  "last_updated": "2026-04-15T14:39+09:00",
+  "last_updated": "2026-04-15T15:09+09:00",
   "trade_count": 4,
   "positions": {
     "BTC": {
@@ -14,16 +14,16 @@
       "market": "KRW-BTC",
       "amount": 0.04215922,
       "avg_buy_price_krw": 106738488.77,
-      "last_price_krw": 109565000,
+      "last_price_krw": 109615000,
       "thesis": "극단적 공포 구간에서 나온 단기 반등 모멘텀 추종",
-      "strategy": "일단 홀드 유지, 다음 회차까지 109.5M원 추가 이탈 시 방어 축소 검토, 110.0M원 재회복 시 약세 완화 확인"
+      "strategy": "기존 홀드 유지, 다만 109.5M원 종가 기준 추가 이탈 시 방어 축소 검토를 강화하고 110.0M원 재회복 시 약세 완화 확인"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.0M원 재회복 여부와 109.5M원 추가 이탈 여부가 다음 행동의 핵심 기준"
+      "reason": "109.5M원 재이탈 지속 여부와 110.0M원 재회복 여부가 다음 행동의 핵심 기준"
     },
     {
       "symbol": "ZBT",
@@ -70,231 +70,6 @@
       "reason": "업비트 소형 알트 중 상대강도와 거래대금이 동반되는 순환매 신호로 10% 전술 진입."
     },
     {
-      "timestamp": "2026-04-14T21:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109343916,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110M원 재안착 실패가 누적됐고 109.6M원 아래 테스트가 나와 공격적 대응보다 기존 비중 홀드와 다음 회차 재확인이 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-14T21:39+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 374.04,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "374원대 박스 하단 재시험 구간이지만 아직 평균단가 위라 성급한 축소보다 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-14T22:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110078000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "109.2M원 저점 이후 110.0M원선을 회복해 단기 구조가 개선됐지만 110.5M원 돌파 전이라 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-14T22:09+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 378,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "378원으로 박스 중상단을 회복했지만 381원 안착 확인 전까지는 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-14T22:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109404247.46,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 재안착이 다시 꺾이며 109.4M원대로 밀려 단기 모멘텀이 둔화돼 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-14T22:39+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 369.43,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "369원대로 다시 밀리며 박스 하단이 흔들려 신규 확대보다 기존 비중 홀드와 368원 방어 확인이 우선입니다."
-    },
-    {
-      "timestamp": "2026-04-14T23:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111223000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111M원대 돌파와 5분봉 계단식 상승이 확인돼 기존 비중 홀드가 적절하며, 110.8M원 이상 유지 여부를 다음 기준으로 봅니다."
-    },
-    {
-      "timestamp": "2026-04-14T23:09+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 380,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "380원 회복으로 박스 상단 재시험이 진행 중이라 기존 비중 홀드가 적절하며, 381원 안착 여부를 다음 기준으로 봅니다."
-    },
-    {
-      "timestamp": "2026-04-14T23:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111246000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111.2M원대 유지와 5분봉 상승 구조가 이어져 기존 비중 홀드가 적절하며, 111.0M원 유지 여부를 다음 기준으로 봅니다."
-    },
-    {
-      "timestamp": "2026-04-14T23:39+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 381,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "381원 회복으로 박스 상단을 다시 넘겨 기존 비중 홀드가 적절하며, 381~384원 안착 여부를 다음 기준으로 봅니다."
-    },
-    {
-      "timestamp": "2026-04-15T00:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110098000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111M원 안착에 실패한 뒤 5분봉 연속 하락으로 110.0M원 초반 지지 테스트가 진행 중이어서 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T00:09+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 376,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "381~384원 안착에 실패하고 376원으로 밀렸지만 아직 374원 바로 위라 성급한 축소보다 방어선 확인이 우선입니다."
-    },
-    {
-      "timestamp": "2026-04-15T00:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111061000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.067M원 저점 이후 5분봉 반등으로 111.0M원선을 회복해 단기 구조가 다시 개선됐으므로 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T00:39+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 377,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "374원 방어 이후 377원까지 회복했지만 380~381원 재돌파 확인 전이라 성급한 확대보다 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T01:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111638000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111.3M원 재돌파를 넘어 111.6M원대로 올라 단기 상방 모멘텀이 복원됐지만 당일 고가권 저항 확인이 필요해 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T01:09+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 377,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "374원 방어는 유지됐지만 380~381원 재돌파가 아직 없어 이번 회차도 보수적으로 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T01:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111141000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111.0M원 위는 유지하지만 111.6M원대 재돌파 탄력이 둔화돼 이번 회차는 신규 확대 없이 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T01:39+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 375,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "374원 방어선 바로 위 횡보가 이어지고 있어 성급한 축소나 확대보다 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T02:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110500000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111.6M원 고점권 이후 110.5M원대로 눌리며 단기 탄력이 둔화돼 이번 회차도 신규 확대 없이 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T02:09+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 374,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "374원 방어선 재시험 구간이라 성급한 축소나 확대보다 방어선 유지 여부를 확인하며 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T02:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110039000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "최근 1시간 기준 111.13M원에서 110.05M원까지 눌리며 단기 탄력이 더 둔화됐지만 110.0M원 부근 첫 지지는 남아 있어 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T02:39+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 373,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "374원 방어선 아래 373원까지 다시 내려와 약해졌지만 아직 급락 확정 구간은 아니어서 이번 회차는 방어 우선의 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T03:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110480000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 아래 추가 붕괴 없이 110.48M원까지 소폭 반등했지만 111M원대 재돌파가 아직 없어 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T03:09+09:00",
-      "symbol": "ONDO",
-      "action": "HOLD",
-      "price_krw": 375,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "373원 재시험 뒤 375원으로 소폭 회복했지만 374원 재안착 초기 단계라 이번 회차도 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T03:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109780000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "111M원대 재돌파 실패 이후 109.8M원대 첫 지지 재시험 구간이라 이번 회차도 BTC는 기존 비중 홀드가 적절합니다."
-    },
-    {
       "timestamp": "2026-04-15T03:39+09:00",
       "symbol": "ONDO",
       "action": "SELL",
@@ -304,193 +79,13 @@
       "reason": "373~374원 핵심 방어선 아래로 다시 내려와 단기 박스 하단 이탈이 확인돼 전량 방어 매도합니다."
     },
     {
-      "timestamp": "2026-04-15T04:09+09:00",
+      "timestamp": "2026-04-15T15:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 109976000,
+      "price_krw": 109615000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "109.4M원대 급락 뒤 5분봉 저점 반등이 나왔지만 110.2M원 재돌파 전이라 이번 회차도 BTC는 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T04:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109634000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 회복 시도가 다시 꺾이며 109.6M원대 재시험이 이어져 이번 회차도 BTC는 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T05:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110045000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "109.6M원대 재시험 뒤 110.0M원선을 소폭 회복했지만 111M원대 재돌파는 아직 없어 이번 회차도 BTC는 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T06:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109970000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "109.67M원 저점 반등으로 110.0M원 재접근이 나왔지만 아직 확실한 안착은 아니라 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T06:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109795000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 안착 실패 뒤 109.8M원대로 다시 밀려 단기 모멘텀이 약해 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T07:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110027000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원선을 소폭 회복했지만 30분봉 기준 110.5M원 상단 돌파가 아직 없어 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T07:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109648000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 재안착에 다시 실패하며 109.6M원대로 밀려 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T08:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109877000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "109.4M원대 지지 뒤 30분봉 소폭 반등이 나왔지만 110.0M원 재안착 전이라 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T08:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109758000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 회복 실패가 이어지고 30분봉도 약보합으로 마감해 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T09:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110530000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원선을 회복하고 110.53M원까지 반등했지만 공포 심리가 여전히 강해 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T09:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110444000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "09:00봉 급반등 뒤 110.4M원대에서 눌림 없는 횡보가 이어져 구조는 나쁘지 않지만 110.5M원 상단 안착 재확인 전이라 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T10:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110638000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.5M원 상단을 재확보하며 단기 반등 구조가 조금 더 좋아졌지만 공포 심리가 극단적이라 이번 회차도 신규 확대 없이 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T10:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110394000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.5M원 회복 뒤 진행 봉에서 110.39M원까지 눌리며 숨고르기 중이라 이번 회차도 신규 확대 없이 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T11:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110517000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.5M원선을 회복한 뒤 짧은 박스 조정이 이어지고 있어 이번 회차도 신규 확대 없이 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T11:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110002000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.5M원 상단 안착이 다시 밀리며 110.0M원 첫 지지 테스트 구간으로 내려왔지만 109.7M원 이탈 전이라 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T12:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110093000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 부근 재지지가 확인되지만 110.7M원 재돌파가 아직 없어 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T12:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110054000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 위는 유지하지만 최근 30분봉 기준 고점이 낮아지며 상단 탄력이 둔화돼 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T13:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110246000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 재지지 뒤 110.246M원까지 반등했지만 110.7M원 당일 고가 재돌파가 아직 없어 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T13:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110089000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 위는 지키지만 최근 30분봉 기준 상단이 낮아지고 거래도 둔화돼 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T14:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109985000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 부근 왕복이 이어지지만 최근 30분봉 종가가 조금씩 낮아져 상단 돌파 전까지는 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
-    },
-    {
-      "timestamp": "2026-04-15T14:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 109565000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "110.0M원 박스를 하향 이탈해 109.56M원까지 저점을 낮췄지만 아직 패닉성 붕괴 전이라 이번 회차는 BTC 기존 비중 홀드로 대응합니다."
+      "reason": "109.5M원 저점 테스트 후 109.6M원대로 소폭 반등했지만 110.0M원 재안착 실패가 이어져 이번 회차도 BTC 기존 비중 홀드가 적절합니다."
     }
   ]
 }
