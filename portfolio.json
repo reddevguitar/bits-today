@@ -5,8 +5,8 @@
   "cash_krw": 10073300.86,
   "realized_pnl_krw": 73327.67,
   "last_valuation_krw": 10073300.86,
-  "last_action": "SELL",
-  "last_updated": "2026-04-16T23:09+09:00",
+  "last_action": "HOLD",
+  "last_updated": "2026-04-16T23:39+09:00",
   "trade_count": 9,
   "positions": {},
   "watchlist": [
@@ -652,6 +652,15 @@
       "amount_delta": -0.02258647,
       "cash_delta_krw": 2473444.33,
       "reason": "22:30 완성 30분봉이 110.632M원에서 109.355M원으로 급락 마감했고 23:00 진행 봉도 109.51M원 수준이라 110.0M원 지지 재이탈이 확인됐습니다. 기존 BTC 25% 비중을 전량 방어 매도하고 현금 비중을 100%로 올립니다."
+    },
+    {
+      "timestamp": "2026-04-16T23:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109500000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "23:30 진행 30분봉도 109.50M원 부근의 약한 반등에 그치고 있고, 직전 22:30 급락봉의 고점 회복이 전혀 없습니다. 공포탐욕 23과 cautious-neutral cached bias를 감안하면 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
