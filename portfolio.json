@@ -2,26 +2,18 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 7573300.86,
-  "realized_pnl_krw": 73327.67,
-  "last_valuation_krw": 10073300.86,
-  "last_action": "BUY",
-  "last_updated": "2026-04-17T05:09+09:00",
-  "trade_count": 10,
-  "positions": {
-    "BTC": {
-      "market": "KRW-BTC",
-      "amount": 0.02252191,
-      "avg_price_krw": 111003000,
-      "last_price_krw": 111003000,
-      "updated_at": "2026-04-17T05:09+09:00"
-    }
-  },
+  "cash_krw": 10064381.76,
+  "realized_pnl_krw": 64408.57,
+  "last_valuation_krw": 10064381.76,
+  "last_action": "SELL",
+  "last_updated": "2026-04-17T05:39+09:00",
+  "trade_count": 11,
+  "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.7M원 재지지 유지 여부와 111.0M원대 안착 지속이 핵심"
+      "reason": "110.7M원 재회복과 111.0M원대 재안착 확인 전까지 관찰"
     },
     {
       "symbol": "BIO",
@@ -31,7 +23,7 @@
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "강한 자금 유입은 확인됐지만 최근 30분봉 탄력이 둔화돼 추격 금지"
+      "reason": "강한 자금 유입은 확인됐지만 추격 금지, 눌림 확인 우선"
     },
     {
       "symbol": "WAL",
@@ -233,6 +225,15 @@
       "amount_delta": 0.02252191,
       "cash_delta_krw": -2500000,
       "reason": "최근 완성 30분봉 두 개가 모두 110.7M원 위에서 마감했고 현재가도 111.0M원대라, 저항 돌파 follow-through를 확인해 BTC 25% 비중만 보수적으로 재진입합니다."
+    },
+    {
+      "timestamp": "2026-04-17T05:39+09:00",
+      "symbol": "BTC",
+      "action": "SELL",
+      "price_krw": 110607000,
+      "amount_delta": -0.02252191,
+      "cash_delta_krw": 2491080.9,
+      "reason": "05:30 진행 30분봉이 110.8M원 시가에서 110.6M원대로 밀렸고 현재가도 110.7M원 핵심선 아래라, 직전 돌파 안착이 약해졌다고 보고 BTC 25% 비중을 전량 방어 매도합니다."
     }
   ]
 }
