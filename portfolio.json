@@ -2,18 +2,28 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 10064381.76,
+  "cash_krw": 7564381.76,
   "realized_pnl_krw": 64408.57,
   "last_valuation_krw": 10064381.76,
-  "last_action": "SELL",
-  "last_updated": "2026-04-17T05:39+09:00",
-  "trade_count": 11,
-  "positions": {},
+  "last_action": "BUY",
+  "last_updated": "2026-04-17T06:09+09:00",
+  "trade_count": 12,
+  "positions": {
+    "BTC": {
+      "symbol": "BTC",
+      "market": "KRW-BTC",
+      "amount": 0.02253842,
+      "avg_buy_price_krw": 110922000,
+      "last_price_krw": 110922000,
+      "thesis": "110.7M원 재회복과 30분봉 재안착 확인에 따른 보수적 재진입",
+      "strategy": "110.7M원 위 유지 시 홀드, 재이탈 시 빠른 방어"
+    }
+  },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.7M원 재회복과 111.0M원대 재안착 확인 전까지 관찰"
+      "reason": "110.7M원 지지 유지와 111.2M원대 안착 여부가 핵심"
     },
     {
       "symbol": "BIO",
@@ -31,9 +41,9 @@
       "reason": "2선 강세 후보지만 급등폭이 커 관찰 우선"
     },
     {
-      "symbol": "ZAMA",
-      "market": "KRW-ZAMA",
-      "reason": "상대적으로 덜 과열됐지만 단기 확인 전 관찰 우선"
+      "symbol": "XRP",
+      "market": "KRW-XRP",
+      "reason": "메이저 중 상대강도가 좋아 risk-on 확산 선행 여부 관찰 가치가 있음"
     }
   ],
   "history": [
@@ -234,6 +244,15 @@
       "amount_delta": -0.02252191,
       "cash_delta_krw": 2491080.9,
       "reason": "05:30 진행 30분봉이 110.8M원 시가에서 110.6M원대로 밀렸고 현재가도 110.7M원 핵심선 아래라, 직전 돌파 안착이 약해졌다고 보고 BTC 25% 비중을 전량 방어 매도합니다."
+    },
+    {
+      "timestamp": "2026-04-17T06:09+09:00",
+      "symbol": "BTC",
+      "action": "BUY",
+      "price_krw": 110922000,
+      "amount_delta": 0.02253842,
+      "cash_delta_krw": -2500000,
+      "reason": "BTC가 110.7M원 위를 재회복했고 최근 완성 30분봉도 75.2k달러 부근 지지를 보여, 반복 휩쏘 구간임을 감안해 BTC 25%만 보수적으로 재진입합니다."
     }
   ]
 }
