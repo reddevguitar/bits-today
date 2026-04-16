@@ -6,19 +6,19 @@
   "realized_pnl_krw": 73327.67,
   "last_valuation_krw": 10073300.86,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T00:09+09:00",
+  "last_updated": "2026-04-17T00:39+09:00",
   "trade_count": 9,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.0M원 재안착 여부와 110.7M원 저항 재돌파 확인이 핵심"
+      "reason": "110.0M원 회복 이후 110.7M원 저항 돌파 확인이 핵심"
     },
     {
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "급등 과열이 매우 커 눌림과 거래 유지 동반 시만 재검토"
+      "reason": "급등 과열이 커 눌림과 거래 유지 동반 시만 재검토"
     },
     {
       "symbol": "AXL",
@@ -675,6 +675,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "00:00 진행 30분봉에서 BTC가 109.89M원까지 반등했지만 아직 110.0M원 재안착은 확인되지 않았습니다. 급락 뒤 첫 반등 구간이라 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T00:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110400021,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.40M원까지 반등해 110.0M원은 회복했지만 110.7M원 저항 돌파가 아직 없어 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
