@@ -6,14 +6,14 @@
   "realized_pnl_krw": 54115.14,
   "last_valuation_krw": 10054088.33,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T07:09+09:00",
+  "last_updated": "2026-04-17T07:39+09:00",
   "trade_count": 13,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.7M원대 재안착과 추가 30분봉 확인 전까지 재진입 보류"
+      "reason": "110.7M원 상단 안착과 추가 30분봉 확인 전까지 재진입 보류"
     },
     {
       "symbol": "BIO",
@@ -23,17 +23,17 @@
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "강한 자금 유입은 확인됐지만 추격 금지, 눌림 확인 우선"
+      "reason": "강한 자금 유입은 확인됐지만 +47%대 급등으로 추격 금지, 눌림 확인 우선"
     },
     {
       "symbol": "WAL",
       "market": "KRW-WAL",
-      "reason": "2선 강세 후보지만 급등폭이 커 관찰 우선"
+      "reason": "2선 강세 후보지만 유동성 이탈 시 되돌림이 빨라 관찰 우선"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "메이저 중 상대강도가 좋아 risk-on 확산 선행 여부 관찰 가치가 있음"
+      "reason": "메이저 중 상대강도는 좋지만 BTC 저항 돌파 실패 구간이라 보조 관찰 대상으로 유지"
     }
   ],
   "history": [
@@ -261,6 +261,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.06M원으로 반등했지만 직전 110.7M원 부근 휩쏘가 반복된 직후라, 추가 30분봉 확인 없이 재진입하기보다 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T07:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110494000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.494M원으로 다시 110.7M원 아래에 머물고 최근 완성 30분봉도 재약세라, 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
