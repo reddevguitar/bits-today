@@ -4,16 +4,16 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7599856.53,
   "realized_pnl_krw": 99844.19,
-  "last_valuation_krw": 10093899.72,
+  "last_valuation_krw": 10094938.81,
   "last_action": "HOLD",
-  "last_updated": "2026-04-16T13:09+09:00",
+  "last_updated": "2026-04-16T13:39+09:00",
   "trade_count": 8,
   "positions": {
     "BTC": {
       "market": "KRW-BTC",
       "amount": 0.02258647,
       "avg_buy_price_krw": 110684000,
-      "last_price_krw": 110422000,
+      "last_price_krw": 110468000,
       "thesis": "110.0M원 상단 재안착 30분봉 확인 뒤 follow-through 확인에 따른 보수적 재진입",
       "strategy": "110.0M원 위 유지 시 홀드, 110.0M원 아래 재이탈 시 빠른 방어"
     }
@@ -481,6 +481,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "13:00 시작 30분봉이 현재 110.300M~110.498M 범위의 좁은 박스권이고 BTC가 110.422M원으로 110.0M원 위는 지키고 있습니다. 다만 12:30 봉이 약음봉 마감했고 110.7M원대 저항 돌파 재시도도 아직 약해 이번 회차도 기존 BTC 25% 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-16T13:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110468000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.468M원으로 110.0M원 상단을 유지한 채 13:30 진행 30분봉에서 소폭 반등 중이지만, 최근 완성 봉 대비 거래 강도가 약하고 110.7M원대 저항 재돌파도 아직 없어 이번 회차도 기존 BTC 25% 비중 홀드가 적절합니다."
     }
   ]
 }
