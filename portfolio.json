@@ -4,16 +4,16 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7599856.53,
   "realized_pnl_krw": 99844.19,
-  "last_valuation_krw": 10086559.86,
+  "last_valuation_krw": 10095706.64,
   "last_action": "HOLD",
-  "last_updated": "2026-04-16T09:09+09:00",
+  "last_updated": "2026-04-16T09:39+09:00",
   "trade_count": 8,
   "positions": {
     "BTC": {
       "market": "KRW-BTC",
       "amount": 0.02258647,
       "avg_buy_price_krw": 110684000,
-      "last_price_krw": 110097033,
+      "last_price_krw": 110502000,
       "thesis": "110.0M원 상단 재안착 30분봉 확인 뒤 follow-through 확인에 따른 보수적 재진입",
       "strategy": "110.0M원 위 유지 시 홀드, 110.0M원 아래 재이탈 시 빠른 방어"
     }
@@ -409,6 +409,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 110.097M원으로 110.0M원 지지선 바로 위까지 눌렸고 08시대 이후 모멘텀이 둔화됐습니다. 다만 아직 지지선은 유지 중이라 이번 회차도 추가매수 없이 기존 BTC 25% 비중 홀드가 적절합니다."
+    },
+    {
+      "timestamp": "2026-04-16T09:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110502000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "09:00 봉 저가가 110.042M원까지 내려왔지만 09:30 진행 봉에서 110.5M원대로 반등하며 110.0M원 상단을 회복 중입니다. 공포탐욕 23과 거래 둔화를 감안해 이번 회차도 추가매수 없이 기존 BTC 25% 비중 홀드가 적절합니다."
     }
   ]
 }
