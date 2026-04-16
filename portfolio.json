@@ -6,14 +6,14 @@
   "realized_pnl_krw": 73327.67,
   "last_valuation_krw": 10073300.86,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T01:39+09:00",
+  "last_updated": "2026-04-17T02:39+09:00",
   "trade_count": 9,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.0M원 회복 이후 110.7M원 저항 돌파 확인이 핵심"
+      "reason": "110.0M원 재안착 이후 110.7M원 저항 돌파 확인이 핵심"
     },
     {
       "symbol": "BIO",
@@ -26,9 +26,9 @@
       "reason": "강한 자금 유입은 확인됐지만 일간 급등폭이 커 추격 금지"
     },
     {
-      "symbol": "WCT",
-      "market": "KRW-WCT",
-      "reason": "이벤트성 변동성이 커 눌림 없는 추격은 금지"
+      "symbol": "WAL",
+      "market": "KRW-WAL",
+      "reason": "2선 강세 후보지만 거래 유지 여부 확인 전까지 관찰 우선"
     },
     {
       "symbol": "ZAMA",
@@ -702,6 +702,24 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "01:30 진행 30분봉이 110.141M원 시가에서 109.922M원까지 밀리며 단기 모멘텀이 다시 약해졌습니다. 110.0M원 지지가 흔들리고 110.7M원 저항 돌파도 전혀 없어 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T02:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109570000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "02:00 진행 30분봉도 109.57M원 수준의 약세 흐름이고 최근 완성 30분봉 2개가 연속 음봉이라 110.0M원 재안착 확인이 부족합니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T02:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109687000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 109.687M원으로 110.0M원 아래에 있고 110.7M원 저항 돌파가 여전히 없어 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
