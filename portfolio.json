@@ -6,7 +6,7 @@
   "realized_pnl_krw": 54115.14,
   "last_valuation_krw": 10102247.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T01:09+09:00",
+  "last_updated": "2026-04-18T01:39+09:00",
   "trade_count": 14,
   "positions": {
     "BTC": {
@@ -14,9 +14,9 @@
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 114080000,
+      "last_price_krw": 114830000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
-      "strategy": "113.7M원 아래 단기 약화 시 재점검, 113.0M원 이탈 시 경계 강화, 112.3M원 이탈 시 축소 검토"
+      "strategy": "114.2M원 아래 단기 탄력 둔화 시 재점검, 113.7M원 이탈 시 경계 강화, 113.0M원 이탈 시 축소 검토"
     }
   },
   "watchlist": [
@@ -568,6 +568,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 114.08M원으로 급등 뒤 고점권 횡보를 이어가고 있고 113.7M원 상단 체류도 유지돼 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. 공포탐욕은 여전히 21이라 신규 알트 확대보다 보유분 관리가 우선입니다."
+    },
+    {
+      "timestamp": "2026-04-18T01:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114830000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.83M원으로 01:30 진행 30분봉에서도 고점권을 유지하고 있어 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. ETH, XRP 동반 강세는 우호적이지만 공포탐욕 21과 선택형 알트 장세를 감안해 신규 확대보다 보유 관리에 집중합니다."
     }
   ]
 }
