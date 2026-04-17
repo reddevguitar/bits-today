@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10102247.29,
+  "last_valuation_krw": 10090359.87,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T01:39+09:00",
+  "last_updated": "2026-04-18T02:09+09:00",
   "trade_count": 14,
   "positions": {
     "BTC": {
@@ -14,36 +14,36 @@
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 114830000,
+      "last_price_krw": 113550960,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
-      "strategy": "114.2M원 아래 단기 탄력 둔화 시 재점검, 113.7M원 이탈 시 경계 강화, 113.0M원 이탈 시 축소 검토"
+      "strategy": "113.7M원 재회복 여부 확인, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.7M원 지지 유지와 114M원대 고점권 눌림 소화 여부 확인"
+      "reason": "113.7M원 재회복과 113.0M원 지지 유지 여부 확인"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "860~900원대 지지 유지 여부가 확인될 때만 소액 검토"
+      "reason": "900원 안착 전까지는 관찰만 유지"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "급등 강도는 강하지만 과열 직후라 눌림 없는 추격은 금지"
+      "reason": "100원 재지지 확인 전 추격 금지"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "메이저 알트 상대강도 확인용 보조 관찰 대상으로 유지"
+      "reason": "메이저 알트 상대강도 확인용 보조 관찰"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 확산 여부 확인용 보조 지표로 유지"
+      "reason": "메이저 확산 여부 확인용 보조 지표"
     }
   ],
   "history": [
@@ -264,186 +264,6 @@
       "reason": "BTC가 110.7M원 핵심선 아래로 다시 밀렸고 06:00 완성 30분봉 종가도 110.44M원으로 약해져, 직전 25% 테스트 진입분을 전량 방어 매도합니다."
     },
     {
-      "timestamp": "2026-04-17T07:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111059780,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.06M원으로 반등했지만 직전 110.7M원 부근 휩쏘가 반복된 직후라, 추가 30분봉 확인 없이 재진입하기보다 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T07:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110494000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.494M원으로 다시 110.7M원 아래에 머물고 최근 완성 30분봉도 재약세라, 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T08:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110610000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.61M원으로 소폭 반등했지만 최근 완성 30분봉 3개가 모두 110.7M원 아래에서 마감했고 08:00 진행 봉도 거래량이 얇아, 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T08:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110845000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.845M원으로 110.7M원 위를 재회복했지만 최근 같은 구간에서 휩쏘가 반복됐고 08:30 진행 30분봉 거래량도 아직 얇아, 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T09:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110670000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "08:30 완성 30분봉 종가는 110.782M원으로 회복했지만 09:00 진행 봉 초반에 다시 110.67M원으로 밀려 돌파 확인이 약해졌습니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T10:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110705000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "09:30 완성 30분봉 종가가 110.691M원으로 110.7M원 안착이 약했고 10:00 진행 봉도 110.661M원까지 밀려 follow-through가 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T10:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110442000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "10:00 완성 30분봉이 110.326M원으로 밀렸고 10:30 진행 봉 반등도 110.4M원대에 그쳐 110.7M원 회복 확인이 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T11:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110375000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "10:30 완성 30분봉 반등이 110.418M원에 그쳤고 11:00 진행 봉도 110.3M원대로 재약세라 110.7M원 저항 회복이 확인되지 않았습니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T11:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110377000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "11:00 완성 30분봉이 110.212M원으로 약했고 11:30 진행 봉도 110.3M원대 반등에 그쳐 110.7M원 저항 회복이 확인되지 않아 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T12:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110491334,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.49M원으로 저항 110.7M원 바로 아래에 머물고 있고 AXL만 선택적으로 강한 반등을 보일 뿐 시장 전반 follow-through는 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T12:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110495000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.495M원으로 여전히 110.7M원 저항 아래에 있고 최근 30분봉도 하락 후 약한 반등 수준입니다. AXL은 100원 회복에 실패했고 BIO, WAL도 약세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T13:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110494000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "13:00 완성 30분봉이 110.433M원, 13:30 진행 봉도 110.494M원 수준으로 반등은 이어지지만 거래량이 얇고 110.7M원 저항까지 거리가 남아 있습니다. BIO 51.7원, AXL 95.8원, WAL 113원, XRP 2,111원으로 알트 follow-through도 약해 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T14:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110292000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "13:30 완성 30분봉은 110.488M원으로 소폭 반등했지만 14:00 진행 봉이 다시 110.292M원까지 밀리며 110.7M원 저항 회복에 실패했습니다. BIO 51.6원, AXL 95.4원, WAL 113원으로 알트 follow-through도 약해 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T14:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110383000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.383M원으로 110.7M원 저항 아래에 있고 14:00 완성 30분봉 하락 뒤 14:30 진행 봉 반등도 약합니다. BIO 50.6원, AXL 91.4원, WAL 111원으로 알트 follow-through도 부족해 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T15:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110416000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.416M원으로 110.7M원 저항 아래에 있고 최근 완성 30분봉 두 개도 연속 약세 마감입니다. BIO 50.2원, AXL 87.7원, WAL 111원으로 알트도 동반 약세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T15:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110507000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "15:00 완성 30분봉은 반등했지만 BTC가 여전히 110.7M원 저항 아래에 있고 15:30 진행 봉 거래량도 얇습니다. BIO 49.7원, AXL 88.5원, WAL 111원으로 전략 후보 알트도 약해 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T16:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110935000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.935M원으로 110.7M원 위를 재회복했지만 오늘 같은 구간에서 돌파 실패와 재이탈이 반복됐고, IP·ZETA만 선택적으로 강한 상태라 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T16:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110849000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.849M원으로 110.7M원 위를 잠시 유지 중이지만 당일 완성봉 누적 돌파가 아직 부족하고, IP·ZETA만 선택적으로 강한 국지 장세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T17:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110998000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.998M원으로 110.7M원 위를 유지 중이지만 상승 강도와 거래량 보강이 아직 제한적이고, IP·ZETA만 선택적으로 강한 국지 장세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T17:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111177000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.177M원으로 111.0M원 위를 소폭 확장했지만 여전히 강한 거래량 확산은 부족하고, IP는 898원으로 눌림 중이며 ZETA만 과열 강세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
-    },
-    {
       "timestamp": "2026-04-17T18:09+09:00",
       "symbol": "BTC",
       "action": "BUY",
@@ -477,7 +297,7 @@
       "price_krw": 111677000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 111.677M원으로 고점 대비 숨 고르기 중이지만 여전히 111.0M원 상단에 머물고 있어 기존 25% 테스트 포지션을 홀드합니다. 다만 20:30 전후 완성봉에서 111.0M원 재이탈이 확인되면 빠르게 방어 대응합니다."
+      "reason": "BTC가 111.677M원으로 고점 대비 숨 고르기 중이지만 여전히 111.0M원 상단에 머물고 있어 기존 BTC 25% 테스트 포지션을 홀드합니다. 다만 20:30 전후 완성봉에서 111.0M원 재이탈이 확인되면 빠르게 방어 대응합니다."
     },
     {
       "timestamp": "2026-04-17T20:39+09:00",
@@ -577,6 +397,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 114.83M원으로 01:30 진행 30분봉에서도 고점권을 유지하고 있어 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. ETH, XRP 동반 강세는 우호적이지만 공포탐욕 21과 선택형 알트 장세를 감안해 신규 확대보다 보유 관리에 집중합니다."
+    },
+    {
+      "timestamp": "2026-04-18T02:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113550960,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.55M원으로 단기 기준선 113.7M원 아래로 살짝 밀렸지만 아직 113.0M원 위를 지키고 있어 기존 25% 테스트 포지션은 홀드합니다. 다만 추세 탄력은 둔화돼 113.7M원 재회복이 늦어지면 경계하고, 113.0M원 이탈 시 축소 검토를 우선합니다."
     }
   ]
 }
