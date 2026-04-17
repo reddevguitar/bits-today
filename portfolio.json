@@ -6,7 +6,7 @@
   "realized_pnl_krw": 54115.14,
   "last_valuation_krw": 10054088.33,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T12:09+09:00",
+  "last_updated": "2026-04-17T12:39+09:00",
   "trade_count": 13,
   "positions": {},
   "watchlist": [
@@ -351,6 +351,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 110.49M원으로 저항 110.7M원 바로 아래에 머물고 있고 AXL만 선택적으로 강한 반등을 보일 뿐 시장 전반 follow-through는 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T12:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110495000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.495M원으로 여전히 110.7M원 저항 아래에 있고 최근 30분봉도 하락 후 약한 반등 수준입니다. AXL은 100원 회복에 실패했고 BIO, WAL도 약세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
