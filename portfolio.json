@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10090293.4,
+  "last_valuation_krw": 10094021.54,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T03:09+09:00",
+  "last_updated": "2026-04-18T03:39+09:00",
   "trade_count": 14,
   "positions": {
     "BTC": {
@@ -14,7 +14,7 @@
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 113548000,
+      "last_price_krw": 113714000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
       "strategy": "113.7M원 재안착 여부 확인, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
@@ -23,12 +23,12 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.7M원 재안착 실패 지속 여부와 113.3M원 intraday 저점 방어 확인"
+      "reason": "113.7M원 재안착 성공 여부와 113.3M원 intraday 저점 방어 확인"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 상단 안착 실패로 눌림 뒤 재회복 여부 체크"
+      "reason": "900원 회복 뒤 안착 지속 여부 체크"
     },
     {
       "symbol": "ZETA",
@@ -47,6 +47,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T03:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113714000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 03:30 진행 30분봉에서 113.4M원대 저점 확인 후 113.7M원 부근을 재시험 중이라 기존 25% 테스트 포지션은 유지합니다. 다만 114M원 재돌파 힘은 아직 약해 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 유지합니다."
+    },
     {
       "timestamp": "2026-04-18T03:09+09:00",
       "symbol": "BTC",
@@ -127,15 +136,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 113.762M원으로 추가 상승했고 최근 30분봉 3개 연속 양봉과 거래량 확장이 확인돼 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. 다만 단기 급등 뒤 첫 눌림 가능성이 있어 113.0M원 아래 약화 시 경계하고 112.3M원 이탈 시 축소 검토를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T22:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112731000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "22:00 완성 30분봉이 112.878M원으로 강세 마감했고 22:30 진행 봉은 112.3M원 저점을 지키며 숨 고르기 중입니다. BTC 25% 테스트 포지션은 계속 홀드하되 112.1M원 아래 약화 시 경계, 111.5M원 이탈 시 축소 검토를 유지합니다."
     }
   ]
 }
