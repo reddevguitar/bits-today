@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10051715.61,
+  "last_valuation_krw": 10053399.74,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T20:39+09:00",
+  "last_updated": "2026-04-17T21:09+09:00",
   "trade_count": 14,
   "positions": {
     "BTC": {
@@ -487,6 +487,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "20:30 진행 30분봉이 시가 111.819M원 대비 소폭 양봉을 유지하고 있고 BTC가 111.83M원으로 111.0M원 상단을 지켜 기존 25% 테스트 포지션을 홀드합니다. 다만 거래량은 직전 급등 구간보다 둔화돼 111.5M원 이탈 시 방어 대응이 필요합니다."
+    },
+    {
+      "timestamp": "2026-04-17T21:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111905000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "20:30 완성 30분봉이 111.897M원으로 마감해 111.0M원 상단 안착이 이어졌고, 21:00 진행 봉도 111.9M원대에서 크게 흔들리지 않아 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. 다만 거래량은 급등 직후보다 둔화돼 111.5M원 이탈 시 방어 대응이 필요합니다."
     }
   ]
 }
