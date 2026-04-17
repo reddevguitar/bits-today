@@ -4,17 +4,17 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10102194.58,
+  "last_valuation_krw": 10100443.09,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T07:09+09:00",
-  "trade_count": 17,
+  "last_updated": "2026-04-18T07:39+09:00",
+  "trade_count": 18,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 114078000,
+      "last_price_krw": 114000000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
       "strategy": "113.7M원 위 체류 시 홀드 유지, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
@@ -38,7 +38,7 @@
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 유지 후 재가속 여부 체크"
+      "reason": "900원 재회복 뒤 안착 여부 체크"
     },
     {
       "symbol": "ZETA",
@@ -57,6 +57,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T07:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114000000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.0M원으로 113.7M원 상단 체류를 유지하고 있고 30분봉 higher low도 이어져 기존 25% 테스트 포지션을 홀드합니다. SOON은 과열, KAT는 확인 부족, IP는 900원 재회복 초기라 알트 신규 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T07:09+09:00",
       "symbol": "BTC",
@@ -137,24 +146,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 03:00 진행 30분봉에서도 113.5M원대에 머물며 113.7M원 재안착이 지연되고 있어 기존 25% 테스트 포지션은 유지하되 경계를 소폭 강화합니다. 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 우선합니다."
-    },
-    {
-      "timestamp": "2026-04-18T02:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113720000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 02:00 완성 30분봉 조정 뒤 02:30 진행봉에서 113.7M원대를 재회복해 기존 25% 테스트 포지션을 유지합니다. 다만 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 우선합니다."
-    },
-    {
-      "timestamp": "2026-04-18T02:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113550960,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.55M원으로 단기 기준선 113.7M원 아래로 살짝 밀렸지만 아직 113.0M원 위를 지키고 있어 기존 25% 테스트 포지션은 홀드합니다. 다만 추세 탄력은 둔화돼 113.7M원 재회복이 늦어지면 경계하고, 113.0M원 이탈 시 축소 검토를 우선합니다."
     }
   ]
 }
