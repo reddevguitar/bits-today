@@ -6,7 +6,7 @@
   "realized_pnl_krw": 54115.14,
   "last_valuation_krw": 10054088.33,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T15:09+09:00",
+  "last_updated": "2026-04-17T15:39+09:00",
   "trade_count": 13,
   "positions": {},
   "watchlist": [
@@ -18,17 +18,17 @@
     {
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "54원대 회복 전까지 하락 추세 진정 확인 필요"
+      "reason": "49원대로 밀려 54원대 회복 전까지 하락 추세 진정 확인 필요"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "100원 회복은커녕 80원 후반까지 밀려 추격보다 관찰 우선"
+      "reason": "88원대로 재약세라 100원 회복과 저점 안정 확인 전까지 추격 금지"
     },
     {
       "symbol": "WAL",
       "market": "KRW-WAL",
-      "reason": "111원대에서 약세 지속, 거래 증가 동반 재가속 전까지 후순위 관찰"
+      "reason": "111원대 약세 지속, 113원대 회복과 거래 증가 전까지 후순위 관찰"
     },
     {
       "symbol": "XRP",
@@ -396,6 +396,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 110.416M원으로 110.7M원 저항 아래에 있고 최근 완성 30분봉 두 개도 연속 약세 마감입니다. BIO 50.2원, AXL 87.7원, WAL 111원으로 알트도 동반 약세라 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T15:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110507000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "15:00 완성 30분봉은 반등했지만 BTC가 여전히 110.7M원 저항 아래에 있고 15:30 진행 봉 거래량도 얇습니다. BIO 49.7원, AXL 88.5원, WAL 111원으로 전략 후보 알트도 약해 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
