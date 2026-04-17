@@ -6,29 +6,29 @@
   "realized_pnl_krw": 54115.14,
   "last_valuation_krw": 10054088.33,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T09:39+09:00",
+  "last_updated": "2026-04-17T10:09+09:00",
   "trade_count": 13,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.7M원 위 완성 30분봉 추가 확인 전까지 재진입 보류"
+      "reason": "110.7M원 위 완성 30분봉 1~2개 추가 확인 전까지 재진입 보류"
     },
     {
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "대장 수급은 유지되지만 눌림과 거래 동반 확인 전 추격 금지"
+      "reason": "상대강도는 가장 좋지만 눌림과 거래 유지 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "+0.99% 반등이나 급등 후반이라 추격 금지"
+      "reason": "-4.65%로 피로가 커져 단기 반전 확인 전 관찰 우선"
     },
     {
       "symbol": "WAL",
       "market": "KRW-WAL",
-      "reason": "눌림 구간이라 재강세 확인 전까지 관찰 우선"
+      "reason": "약세 눌림이 이어져 재강세 확인 전까지 관찰"
     },
     {
       "symbol": "XRP",
@@ -306,6 +306,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "09:30 진행 30분봉에서 110.793M원까지 반등했지만 거래 강도가 약하고 110.7M원 상단 완성봉 누적 확인도 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T10:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110705000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "09:30 완성 30분봉 종가가 110.691M원으로 110.7M원 안착이 약했고 10:00 진행 봉도 110.661M원까지 밀려 follow-through가 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
