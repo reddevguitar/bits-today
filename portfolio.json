@@ -4,17 +4,17 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10100443.09,
+  "last_valuation_krw": 10098197.58,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T07:39+09:00",
-  "trade_count": 18,
+  "last_updated": "2026-04-18T08:09+09:00",
+  "trade_count": 19,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 114000000,
+      "last_price_krw": 113900000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
       "strategy": "113.7M원 위 체류 시 홀드 유지, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
@@ -23,7 +23,7 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.7M원 위 체류 지속과 114.1M원 상단 확장 여부 확인"
+      "reason": "113.7M원 위 체류 지속과 114M원 재안착 여부 확인"
     },
     {
       "symbol": "SOON",
@@ -57,6 +57,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T08:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113900000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.9M원으로 113.7M원 상단 방어를 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. SOON은 과열, KAT는 확인 부족, IP는 900원 회복 초기라 알트 신규 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T07:39+09:00",
       "symbol": "BTC",
@@ -137,15 +146,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 03:30 진행 30분봉에서 113.4M원대 저점 확인 후 113.7M원 부근을 재시험 중이라 기존 25% 테스트 포지션은 유지합니다. 다만 114M원 재돌파 힘은 아직 약해 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-18T03:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113548000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 03:00 진행 30분봉에서도 113.5M원대에 머물며 113.7M원 재안착이 지연되고 있어 기존 25% 테스트 포지션은 유지하되 경계를 소폭 강화합니다. 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 우선합니다."
     }
   ]
 }
