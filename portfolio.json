@@ -6,7 +6,7 @@
   "realized_pnl_krw": 54115.14,
   "last_valuation_krw": 10054088.33,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T09:09+09:00",
+  "last_updated": "2026-04-17T09:39+09:00",
   "trade_count": 13,
   "positions": {},
   "watchlist": [
@@ -23,7 +23,7 @@
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "+7.9% 강세 지속이나 이미 급등 후반이라 추격 금지"
+      "reason": "+0.99% 반등이나 급등 후반이라 추격 금지"
     },
     {
       "symbol": "WAL",
@@ -297,6 +297,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "08:30 완성 30분봉 종가는 110.782M원으로 회복했지만 09:00 진행 봉 초반에 다시 110.67M원으로 밀려 돌파 확인이 약해졌습니다. 이번 회차도 현금 100% 대기 전략을 유지합니다."
+    },
+    {
+      "timestamp": "2026-04-17T09:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110793000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "09:30 진행 30분봉에서 110.793M원까지 반등했지만 거래 강도가 약하고 110.7M원 상단 완성봉 누적 확인도 부족해, 이번 회차도 현금 100% 대기 전략을 유지합니다."
     }
   ]
 }
