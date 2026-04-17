@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10073227.95,
+  "last_valuation_krw": 10071947.62,
   "last_action": "HOLD",
-  "last_updated": "2026-04-17T22:09+09:00",
+  "last_updated": "2026-04-17T22:39+09:00",
   "trade_count": 14,
   "positions": {
     "BTC": {
@@ -14,7 +14,7 @@
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 112788000,
+      "last_price_krw": 112731000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
       "strategy": "112.1M원 아래 단기 약화 시 경계, 111.5M원 이탈 시 축소 검토, 111.0M원 상단 유지 시 보유, 111.0M원 재이탈 시 빠르게 청산"
     }
@@ -23,12 +23,12 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.0M원 상단 유지와 후속 완성 30분봉 follow-through가 이어지는지 확인"
+      "reason": "111.0M원 상단 유지와 112M원대 확장 뒤 눌림이 건강한지 확인"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원대 지지 유지 여부가 확인될 때만 소액 검토"
+      "reason": "860~900원대 지지 유지 여부가 확인될 때만 소액 검토"
     },
     {
       "symbol": "ZETA",
@@ -41,9 +41,9 @@
       "reason": "메이저 알트 상대강도 확인용 보조 관찰 대상으로 유지"
     },
     {
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "전략 우선순위에서 밀렸고 반등 구조 재확인 전까지 후순위 관찰"
+      "symbol": "ETH",
+      "market": "KRW-ETH",
+      "reason": "메이저 확산 여부 확인용 보조 지표로 유지"
     }
   ],
   "history": [
@@ -514,6 +514,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.788M원으로 직전 고점을 갱신했고 최근 30분봉 higher low 구조도 유지돼 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. 다만 심리 지표는 여전히 약해 112.1M원 아래 약화 시 경계하고 111.5M원 이탈 시 축소 검토가 필요합니다."
+    },
+    {
+      "timestamp": "2026-04-17T22:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112731000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "22:00 완성 30분봉이 112.878M원으로 강세 마감했고 22:30 진행 봉은 112.3M원 저점을 지키며 숨 고르기 중입니다. BTC 25% 테스트 포지션은 계속 홀드하되 112.1M원 아래 약화 시 경계, 111.5M원 이탈 시 축소 검토를 유지합니다."
     }
   ]
 }
