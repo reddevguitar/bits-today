@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10094155.67,
+  "last_valuation_krw": 10090293.4,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T02:39+09:00",
+  "last_updated": "2026-04-18T03:09+09:00",
   "trade_count": 14,
   "positions": {
     "BTC": {
@@ -14,21 +14,21 @@
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 113720000,
+      "last_price_krw": 113548000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
-      "strategy": "113.7M원 재안착 유지 여부 확인, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "strategy": "113.7M원 재안착 여부 확인, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.7M원 재안착 유지와 113.3M원 intraday 저점 방어 여부 확인"
+      "reason": "113.7M원 재안착 실패 지속 여부와 113.3M원 intraday 저점 방어 확인"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 상단 첫 회복 확인, 다음 눌림에서 지지 유지 여부 체크"
+      "reason": "900원 상단 안착 실패로 눌림 뒤 재회복 여부 체크"
     },
     {
       "symbol": "ZETA",
@@ -47,6 +47,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T03:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113548000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 03:00 진행 30분봉에서도 113.5M원대에 머물며 113.7M원 재안착이 지연되고 있어 기존 25% 테스트 포지션은 유지하되 경계를 소폭 강화합니다. 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 우선합니다."
+    },
     {
       "timestamp": "2026-04-18T02:39+09:00",
       "symbol": "BTC",
@@ -127,24 +136,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "22:00 완성 30분봉이 112.878M원으로 강세 마감했고 22:30 진행 봉은 112.3M원 저점을 지키며 숨 고르기 중입니다. BTC 25% 테스트 포지션은 계속 홀드하되 112.1M원 아래 약화 시 경계, 111.5M원 이탈 시 축소 검토를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-17T22:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112788000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.788M원으로 직전 고점을 갱신했고 최근 30분봉 higher low 구조도 유지돼 기존 BTC 25% 테스트 포지션을 계속 홀드합니다. 다만 심리 지표는 여전히 약해 112.1M원 아래 약화 시 경계하고 111.5M원 이탈 시 축소 검토가 필요합니다."
-    },
-    {
-      "timestamp": "2026-04-17T21:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111746538,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "바이낸스 30분봉 기준 직전 반등 뒤 현재 봉이 75.67k달러로 소폭 눌림을 보이지만, 최근 완성봉들이 75.5k달러 부근 higher low를 유지하고 있어 기존 BTC 25% 테스트 포지션은 계속 홀드합니다. 다만 단기 모멘텀이 둔화돼 111.5M원 이탈 시 방어, 111.0M원 재이탈 시 청산 우선입니다."
     }
   ]
 }
