@@ -6,37 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T00:39+09:00",
-  "trade_count": 42,
+  "last_updated": "2026-04-19T01:09+09:00",
+  "trade_count": 43,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113M원 재돌파는 있었지만 30분봉 종가 확장 실패라 113.1M원 이상 안착 전 재진입 금지"
+      "reason": "113.1M원 재안착 실패 후 111.6M원대로 밀려 후속 반등 확인 전 재진입 금지"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "620원대 유지 중이지만 640원 재가속 확인 전 추격 금지"
+      "reason": "611원대 강세는 유지하지만 640원 재가속 또는 600원 초반 안정적 눌림 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "100원 저항 재돌파 실패로 99원대 안착 전 관찰 우선"
+      "reason": "96원대 유지 중이나 99~100원 재돌파 전까지 관찰 우선"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 알트 회복 확인용 보조 지표"
+      "reason": "메이저 알트 회복 확인용 보조 지표, 현재 BTC보다 더 약함"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 유동성 온도계, 약세 지속 시 알트 진입 계속 보류"
+      "reason": "국내 유동성 온도계, 약세 확대 시 알트 진입 계속 보류"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T01:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111660818,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.661M원으로 113M원 재안착 실패 뒤 다시 밀렸고, ETH·XRP도 동반 약세입니다. 공포탐욕 26의 Fear 구간과 선택 알트 과열 부담을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-19T00:39+09:00",
       "symbol": "BTC",

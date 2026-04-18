@@ -319,10 +319,14 @@
 
         const strategyList = document.getElementById('strategyList');
         strategyList.innerHTML = '';
-        (status.positions || []).forEach((p) => {
-          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
-          addNode(strategyList, `<div class="strategy-title">${name}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
-        });
+        if ((status.positions || []).length) {
+          (status.positions || []).forEach((p) => {
+            const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
+            addNode(strategyList, `<div class="strategy-title">${name}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
+          });
+        } else {
+          (status.summary || []).slice(0, 4).forEach((s) => addNode(strategyList, s, 'strategy-item'));
+        }
 
         const summaryList = document.getElementById('summaryList');
         summaryList.innerHTML = '';
