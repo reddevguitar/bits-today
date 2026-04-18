@@ -6,14 +6,14 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T19:39+09:00",
-  "trade_count": 34,
+  "last_updated": "2026-04-18T20:09+09:00",
+  "trade_count": 35,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110M원 재안착과 112M원대 회복 확인 전 재진입 금지"
+      "reason": "113M원 재안착과 단기 지지 확인 전 재진입 금지"
     },
     {
       "symbol": "AXL",
@@ -52,6 +52,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T20:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112184000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.184M원으로 저점 대비 반등했지만 아직 113M원 아래입니다. ETH·XRP 동반 약세와 공포탐욕 26의 Fear 구간을 감안해 현금 100% 방어를 유지하고 재진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T19:39+09:00",
       "symbol": "BTC",
