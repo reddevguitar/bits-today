@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10107701.41,
+  "last_valuation_krw": 10100838.02,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T12:09+09:00",
+  "last_updated": "2026-04-18T12:39+09:00",
   "trade_count": 23,
   "positions": {
     "BTC": {
@@ -14,8 +14,8 @@
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 114268000,
-      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 얕게 끝나며 기존 추세 추종 포지션 유지",
+      "last_price_krw": 114048000,
+      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 얕게 이어져 기존 추세 추종 포지션 유지",
       "strategy": "114M원 위 홀드 우세, 113.9M원 재이탈 시 단기 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
@@ -23,17 +23,17 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114M원 상단 유지와 114.4M원 재돌파 여부 확인"
+      "reason": "114M원 지지 유지와 114.4M원 재돌파 여부 확인"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 지지 재확인 전 추격 금지"
+      "reason": "900원 재회복 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "급등은 강하지만 변동성 과도, 눌림 후 지지 확인 전 추격 금지"
+      "reason": "강세는 유효하지만 급등 과열, 눌림 후 지지 확인 전 추격 금지"
     },
     {
       "symbol": "SOON",
@@ -62,6 +62,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T12:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114048000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.048M원으로 아직 114M원 위를 유지하고 있어 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 IP는 900원 아래라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T12:09+09:00",
       "symbol": "BTC",
