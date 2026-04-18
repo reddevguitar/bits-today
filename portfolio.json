@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10094376.04,
+  "last_valuation_krw": 10100182.46,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T13:39+09:00",
+  "last_updated": "2026-04-18T14:09+09:00",
   "trade_count": 24,
   "positions": {
     "BTC": {
@@ -14,16 +14,16 @@
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 113841000,
-      "thesis": "114M원 재돌파는 지연됐지만 113.7M원대 상단 박스 안에서 조정 중이라 기존 추세 추종 포지션 유지",
-      "strategy": "114M원 재회복 시 홀드 우세 지속, 113.7M원 하단 재이탈 시 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "last_price_krw": 114027000,
+      "thesis": "113.7M원대 지지 확인 뒤 114M원선을 소폭 회복해 기존 추세 추종 포지션 유지",
+      "strategy": "114M원선 안착 시 홀드 우세 지속, 113.7M원 하단 재이탈 시 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114M원 재회복 여부와 113.9M원 하단 체류 시간 확인"
+      "reason": "114M원선 안착 여부와 113.7M원 하단 재이탈 여부 확인"
     },
     {
       "symbol": "AXL",
@@ -57,6 +57,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T14:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114027000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.027M원으로 113.7M원대 지지 뒤 114M원선을 소폭 회복해 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T13:39+09:00",
       "symbol": "BTC",
