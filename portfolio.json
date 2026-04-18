@@ -4,26 +4,31 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10100838.02,
+  "last_valuation_krw": 10097622.64,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T12:39+09:00",
-  "trade_count": 23,
+  "last_updated": "2026-04-18T13:09+09:00",
+  "trade_count": 24,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 114048000,
-      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 얕게 이어져 기존 추세 추종 포지션 유지",
-      "strategy": "114M원 위 홀드 우세, 113.9M원 재이탈 시 단기 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "last_price_krw": 113945000,
+      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 이어지는 구간이라 기존 추세 추종 포지션 유지",
+      "strategy": "114M원 재회복 시 홀드 우세 지속, 113.9M원 아래 체류 장기화 시 단기 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114M원 지지 유지와 114.4M원 재돌파 여부 확인"
+      "reason": "114M원 재회복 여부와 113.9M원 하단 체류 시간 확인"
+    },
+    {
+      "symbol": "AXL",
+      "market": "KRW-AXL",
+      "reason": "상대강도는 강하지만 급등 과열, 눌림 후 지지 확인 전 추격 금지"
     },
     {
       "symbol": "IP",
@@ -31,19 +36,9 @@
       "reason": "900원 재회복 전 추격 금지"
     },
     {
-      "symbol": "AXL",
-      "market": "KRW-AXL",
-      "reason": "강세는 유효하지만 급등 과열, 눌림 후 지지 확인 전 추격 금지"
-    },
-    {
       "symbol": "SOON",
       "market": "KRW-SOON",
       "reason": "과열 해소 중이라 반등 추격 금지, 안정화 전까지 관찰만"
-    },
-    {
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "14원 회복과 거래 재확대 확인 필요"
     },
     {
       "symbol": "ZETA",
@@ -53,7 +48,7 @@
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "메이저 알트 상대강도 확인용 보조 관찰"
+      "reason": "국내 메이저 알트 상대강도 확인용 보조 관찰"
     },
     {
       "symbol": "ETH",
@@ -62,6 +57,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T13:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113945000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.945M원으로 114M원 아래로 소폭 밀렸지만 30분봉이 급락 전환은 아니라 기존 BTC 보유를 홀드합니다. AXL은 과열, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T12:39+09:00",
       "symbol": "BTC",
