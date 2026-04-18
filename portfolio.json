@@ -6,8 +6,8 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T23:09+09:00",
-  "trade_count": 39,
+  "last_updated": "2026-04-18T23:39+09:00",
+  "trade_count": 40,
   "positions": {},
   "watchlist": [
     {
@@ -18,12 +18,12 @@
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "620원대 강세 유지지만 680원대 급등 후 조정 중이라 눌림 없는 추격 금지"
+      "reason": "630원대 강세 유지지만 680원대 급등 후 조정 중이라 눌림 없는 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "99원대 강세지만 100원 저항 확인 전까지는 눌림 관찰 우선"
+      "reason": "99원대 강세지만 100원 저항 안착 전까지는 눌림 관찰 우선"
     },
     {
       "symbol": "ETH",
@@ -57,6 +57,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T23:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112880000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.880M원으로 저점을 높이는 흐름은 보였지만 여전히 113M원 아래입니다. ETH·XRP 동반 약세와 공포탐욕 26의 Fear 구간을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T23:09+09:00",
       "symbol": "BTC",
@@ -137,150 +146,6 @@
       "amount_delta": -0.015608655,
       "cash_delta_krw": 1761015.28,
       "reason": "BTC가 112.823M원으로 113.0M원 핵심 지지를 명확히 이탈했고 30분봉 저점 갱신 흐름이 이어집니다. 공포탐욕 26의 Fear 구간, ETH·XRP 동반 약세, AXL 눌림 지속을 감안해 남은 BTC를 전량 정리하고 현금 비중 100%로 전환합니다."
-    },
-    {
-      "timestamp": "2026-04-18T18:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113257000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.257M원으로 114M원 아래 약세를 이어가지만 아직 113.0M원 위는 유지합니다. 공포탐욕 26의 Fear 구간과 AXL 외 알트 확산 부재를 감안해 BTC 잔여 물량만 홀드하고 신규 진입은 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T18:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113267000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.267M원으로 114M원 아래 약세를 이어가지만 아직 113.0M원 위는 유지합니다. 공포탐욕 26의 Fear 구간과 AXL 외 알트 확산 부재를 감안해 BTC 잔여 물량만 홀드하고 신규 진입은 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T17:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113249000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.249M원으로 113.0M원 위는 간신히 지키지만 30분봉이 연속 하락 마감이라 약세 압력이 남아 있습니다. 공포탐욕 26의 Fear 구간과 제한적 알트 확산을 감안해 BTC 잔여 물량만 홀드하고 신규 진입은 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T17:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113840000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.840M원으로 113.0M원 위는 지켰지만 114M원 재안착에는 실패했습니다. 공포탐욕 26의 Fear 구간과 제한적 알트 확산을 감안해 잔여 BTC만 홀드하고 신규 진입은 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T16:09+09:00",
-      "symbol": "BTC",
-      "action": "SELL",
-      "price_krw": 113119917,
-      "amount_delta": -0.015608655,
-      "cash_delta_krw": 1765649.76,
-      "reason": "BTC가 113.120M원으로 114M원과 113.3M원 하단을 모두 이탈해 기존 전략의 재점검 구간에 들어왔습니다. 아직 113.0M원은 완전히 붕괴하지 않았지만 공포탐욕 26의 Fear 구간과 제한적 알트 확산을 감안해 BTC 절반만 차익실현하고 나머지는 홀드합니다."
-    },
-    {
-      "timestamp": "2026-04-18T15:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114050000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.050M원으로 114M원선 부근 좁은 박스권을 유지해 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 ONT·ONG는 단기 테마성 가능성, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T15:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114080000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.080M원으로 113.7M원 지지 이후 114M원선을 다시 회복해 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 ONT·ONG는 단기 스파이크 가능성, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T14:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113986000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.986M원으로 113.7M원 지지 위에서 114M원 부근 박스 조정을 이어가고 있어 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 ONT·ONG는 단기 급등 성격, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T14:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114027000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.027M원으로 113.7M원대 지지 뒤 114M원선을 소폭 회복해 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T13:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113841000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.841M원으로 114M원 재돌파는 아직 없지만 113.7M원대 위 박스 조정이 유지돼 기존 BTC 보유를 홀드합니다. AXL은 강하나 과열이고 IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T13:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113945000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.945M원으로 114M원 아래로 소폭 밀렸지만 30분봉이 급락 전환은 아니라 기존 BTC 보유를 홀드합니다. AXL은 과열, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T12:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114048000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.048M원으로 아직 114M원 위를 유지하고 있어 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 IP는 900원 아래라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T12:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114268000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.268M원으로 114M원 상단을 유지하고 있어 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 IP는 900원 아래라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T11:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114310000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.310M원으로 114M원 상단을 유지한 채 오전 고점을 소폭 갱신해 기존 BTC 보유를 홀드합니다. IP는 900원 아래, AXL은 과열이라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T11:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114112000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.112M원으로 114M원 상단을 유지하고 있고 바이낸스 30분봉도 급등 후 박스 조정 성격이라 기존 BTC 보유를 홀드합니다. AXL은 과열, IP는 900원 아래라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T10:39+09:00",
-      "symbol": "BTC",
-      "action": "BUY",
-      "price_krw": 114126000,
-      "amount_delta": 0.00876225,
-      "cash_delta_krw": -1000000,
-      "reason": "BTC 10:00 30분봉이 114.197M원으로 마감하며 114M원 상단 안착을 확인해 기존 25% 테스트 포지션에 10%p만 추가했습니다. 공포탐욕은 여전히 Fear이고 알트 확산은 좁아 AXL, IP 등 알트 신규 진입은 계속 보류합니다."
     }
   ]
 }
