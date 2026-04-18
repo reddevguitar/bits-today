@@ -3,20 +3,20 @@
   "judgment": "bearish",
   "confidence": "medium",
   "suggested_action": "현금 100% 유지, BTC 113.1M원 회복 확인 전 재진입 보류, API3·AXL 눌림 없는 추격 금지.",
-  "updated_at": "2026-04-19 04:09 KST",
-  "market_status": "BTC는 2026-04-19 04:09 KST 기준 업비트에서 112.354M원으로 일중 저점권에서 소폭 반등했지만, ETH·XRP 동반 약세와 Fear 구간이 이어져 방어 우선 판단을 유지합니다.",
+  "updated_at": "2026-04-19 04:39 KST",
+  "market_status": "BTC는 2026-04-19 04:39 KST 기준 업비트에서 112.140M원으로 113M원 아래 약세 횡보를 이어가고 있습니다. ETH·XRP 동반 약세와 Fear 구간이 이어져 방어 우선 판단을 유지합니다.",
   "fear_greed": "26 (Fear)",
-  "btc_snapshot": "112,354,000원, 업비트 KRW 기준 약 -1.25%, 30분봉상 112.0M원 터치 뒤 112.3M원대로 소폭 반등했지만 113M원 회복은 아직 미확인",
+  "btc_snapshot": "112,140,000원, 업비트 KRW 기준 약 -1.44%, 30분 진행봉 저가 112.131M원 확인 후 약세 유지",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 47,
-  "last_updated": "2026-04-19T04:09+09:00",
+  "trade_count": 48,
+  "last_updated": "2026-04-19T04:39+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 30분봉상 112.0M원 부근에서 하락이 잠시 둔화됐지만 아직 명확한 반전은 아닙니다.",
+    "단기 차트 요약: BTC는 30분봉상 112.0M원 부근 지지는 보이지만 반등 고점이 낮아 아직 약세 횡보입니다.",
     "전략 상태 반영 요약: cached 전략 bias는 defensive with selective alt watch이며 현재 실행은 방어 우선입니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
     "코인별 대응 전략 요약: BTC 재진입 보류, API3·AXL 추격 금지, ETH·XRP는 약세 확인용입니다.",
@@ -27,16 +27,20 @@
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-19T04:09+09:00",
+      "timestamp": "2026-04-19T04:39+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 112354000,
+      "price_krw": 112140000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 112.354M원으로 일중 저점 112.0M원 부근에서 소폭 반등했지만 여전히 113M원 아래입니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL 급등 후 눌림을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+      "reason": "BTC가 112.140M원으로 113M원 아래 약세 횡보를 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 급등 후 높은 변동성을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-19-0439.md",
+      "title": "2026-04-19-0439"
+    },
     {
       "file": "2026-04-19-0409.md",
       "title": "2026-04-19-0409"
@@ -72,10 +76,6 @@
     {
       "file": "2026-04-19-0009.md",
       "title": "2026-04-19-0009"
-    },
-    {
-      "file": "2026-04-18-2339.md",
-      "title": "2026-04-18-2339"
     }
   ],
   "positions": []
