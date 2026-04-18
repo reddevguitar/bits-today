@@ -6,19 +6,19 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T20:39+09:00",
-  "trade_count": 35,
+  "last_updated": "2026-04-18T21:39+09:00",
+  "trade_count": 37,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113M원 재안착과 112M원대 지지 확인 전 재진입 금지"
+      "reason": "113M원 회복과 30분봉 저점 상승 전환 확인 전 재진입 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "상대강도 후보지만 BTC 약세 구간에서는 추격 금지"
+      "reason": "상대강도 유지 중이지만 BTC 약세 구간에서는 추격 금지"
     },
     {
       "symbol": "ETH",
@@ -52,6 +52,24 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T21:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112593000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.593M원으로 30분봉 기준 19:00 이후 저점 하락이 둔화됐지만 아직 113M원 회복 전입니다. ETH·XRP 동반 약세와 공포탐욕 26의 Fear 구간을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
+    {
+      "timestamp": "2026-04-18T21:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112721000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.721M원으로 112M원 저점권에서 소폭 반등했지만 아직 113M원 아래입니다. ETH·XRP 동반 약세와 공포탐욕 26의 Fear 구간을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T20:39+09:00",
       "symbol": "BTC",
