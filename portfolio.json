@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10102835.93,
+  "last_valuation_krw": 10109016.96,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T11:09+09:00",
+  "last_updated": "2026-04-18T11:39+09:00",
   "trade_count": 23,
   "positions": {
     "BTC": {
@@ -14,16 +14,16 @@
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 114112000,
-      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 진행 중이어서 기존 추세 추종 포지션 유지",
-      "strategy": "113.9M원 위 홀드 우세, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "last_price_krw": 114310000,
+      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 얕게 끝나며 기존 추세 추종 포지션 유지",
+      "strategy": "114M원 위 홀드 우세, 113.9M원 재이탈 시 단기 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114M원 상단 유지와 114.2M원 재돌파 여부 확인"
+      "reason": "114M원 상단 유지와 114.4M원 재돌파 여부 확인"
     },
     {
       "symbol": "IP",
@@ -62,6 +62,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T11:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114310000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.310M원으로 114M원 상단을 유지한 채 오전 고점을 소폭 갱신해 기존 BTC 보유를 홀드합니다. IP는 900원 아래, AXL은 과열이라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T11:09+09:00",
       "symbol": "BTC",
@@ -151,15 +160,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 113.86M원으로 114M원 재돌파는 실패했지만 아직 113.7M원 위를 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. IP는 900원 아래, ZETA는 100원 아래라 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T06:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113959000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.959M원으로 다시 113.9M원대로 회복하며 30분봉 higher low 구조를 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. 다만 114M원 안착은 아직 확인되지 않아 신규 확대와 알트 진입은 계속 보류합니다."
     }
   ]
 }
