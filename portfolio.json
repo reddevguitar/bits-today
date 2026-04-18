@@ -6,19 +6,19 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T02:39+09:00",
-  "trade_count": 45,
+  "last_updated": "2026-04-19T03:09+09:00",
+  "trade_count": 46,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.1M원 재안착 실패가 이어져 113M원 회복 확인 전 재진입 금지"
+      "reason": "113.0~113.1M원 재안착 실패가 이어져 회복 확인 전 재진입 금지"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "597원대로 식었지만 여전히 급등 잔열 구간, 640원 재가속 또는 600원 초반 안정 확인 전 추격 금지"
+      "reason": "582원으로 장중 고점 대비 식는 흐름, 600원 초반 안정 또는 640원 재가속 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
@@ -37,6 +37,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T03:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112355000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.355M원으로 113M원 회복에 다시 실패했고 30분봉도 저점을 낮추는 약세 흐름입니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL 급등 후 식는 흐름을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-19T02:39+09:00",
       "symbol": "BTC",
