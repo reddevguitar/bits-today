@@ -4,26 +4,26 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10098902.55,
+  "last_valuation_krw": 10101836.97,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T14:39+09:00",
-  "trade_count": 25,
+  "last_updated": "2026-04-18T15:09+09:00",
+  "trade_count": 26,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 113986000,
-      "thesis": "113.7M원대 지지 확인 뒤 114M원 부근 박스 조정이 이어져 기존 추세 추종 포지션 유지",
-      "strategy": "114M원선 안착 시 홀드 우세 지속, 113.7M원 하단 재이탈 시 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "last_price_krw": 114080000,
+      "thesis": "113.7M원대 지지 이후 114M원선 재안착 시도가 이어져 기존 추세 추종 포지션 유지",
+      "strategy": "114M원선 체류 시 홀드 우세 지속, 113.7M원 하단 재이탈 시 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114M원선 재안착 여부와 113.7M원 하단 재이탈 여부 확인"
+      "reason": "114M원선 체류 유지 여부와 113.7M원 하단 재이탈 여부 확인"
     },
     {
       "symbol": "AXL",
@@ -33,7 +33,7 @@
     {
       "symbol": "ONT",
       "market": "KRW-ONT",
-      "reason": "급등 반응은 강하지만 거래대금 체급과 지속성 확인 전 추격 금지"
+      "reason": "급등 반응은 남아 있지만 거래대금 체급과 지속성 확인 전 추격 금지"
     },
     {
       "symbol": "ONG",
@@ -53,7 +53,7 @@
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "85원대 약세로 100원 재지지 확인 전 추격 금지"
+      "reason": "약세 지속, 90원대 재안착 확인 전 추격 금지"
     },
     {
       "symbol": "XRP",
@@ -67,6 +67,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T15:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114080000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.080M원으로 113.7M원 지지 이후 114M원선을 다시 회복해 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 ONT·ONG는 단기 스파이크 가능성, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T14:39+09:00",
       "symbol": "BTC",
@@ -147,78 +156,6 @@
       "amount_delta": 0.00876225,
       "cash_delta_krw": -1000000,
       "reason": "BTC 10:00 30분봉이 114.197M원으로 마감하며 114M원 상단 안착을 확인해 기존 25% 테스트 포지션에 10%p만 추가했습니다. 공포탐욕은 여전히 Fear이고 알트 확산은 좁아 AXL, IP 등 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T10:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113994000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.994M원으로 114M원 바로 아래까지 회복했지만 아직 확정 돌파는 아니라 기존 25% 테스트 포지션을 홀드합니다. AXL 급등이 보이지만 알트 전반 확산은 아니고 IP도 추격 구간은 아니라 신규 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T09:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113951000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.951M원으로 113.7M원 위를 유지하고 있지만 114M원 돌파는 아직 없어 기존 25% 테스트 포지션을 홀드합니다. IP는 상대강도가 좋지만 SOON, KAT, ZETA가 약해 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T09:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113793000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.793M원으로 113.7M원대를 다시 회복해 기존 25% 테스트 포지션을 홀드합니다. 다만 114M원 재돌파는 아직 없고 SOON은 급락, KAT는 확인 부족, IP만 상대적으로 강해 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T08:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113640000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.64M원으로 114M원 재안착에는 실패했지만 아직 113.3M원 higher low 구조 위에 있어 기존 25% 테스트 포지션을 홀드합니다. SOON은 과열, KAT는 감시 가능 단계, IP는 900원 안착 확인 중이라 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T08:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113900000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.9M원으로 113.7M원 상단 방어를 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. SOON은 과열, KAT는 확인 부족, IP는 900원 회복 초기라 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T07:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114000000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.0M원으로 113.7M원 상단 체류를 유지하고 있고 30분봉 higher low도 이어져 기존 25% 테스트 포지션을 홀드합니다. SOON은 과열, KAT는 확인 부족, IP는 900원 재회복 초기라 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T07:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 114078000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114.078M원으로 113.7M원 상단 체류를 유지한 채 114M원선을 다시 시험 중이라 기존 25% 테스트 포지션을 홀드합니다. SOON은 과열, KAT는 확인 부족, IP와 ZETA는 핵심 레벨 미회복이라 알트 신규 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T06:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113860000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 113.86M원으로 114M원 재돌파는 실패했지만 아직 113.7M원 위를 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. IP는 900원 아래, ZETA는 100원 아래라 알트 진입은 계속 보류합니다."
     }
   ]
 }
