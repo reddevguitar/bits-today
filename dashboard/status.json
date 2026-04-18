@@ -3,20 +3,20 @@
   "judgment": "bearish",
   "confidence": "medium",
   "suggested_action": "현금 100% 유지, BTC 113.1M원 회복 확인 전 재진입 보류, API3·AXL 눌림 없는 추격 금지.",
-  "updated_at": "2026-04-19 01:43 KST",
-  "market_status": "BTC는 2026-04-19 01:43 KST 기준 업비트에서 112.615M원으로 직전 저점 대비 소폭 반등했지만 여전히 113M원 아래입니다. ETH·XRP 동반 약세와 Fear 구간이 이어져 방어 우선 판단을 유지합니다.",
+  "updated_at": "2026-04-19 02:09 KST",
+  "market_status": "BTC는 2026-04-19 02:09 KST 기준 업비트에서 112.355M원으로 113M원 회복에 다시 실패했습니다. ETH·XRP 동반 약세와 Fear 구간이 이어져 방어 우선 판단을 유지합니다.",
   "fear_greed": "26 (Fear)",
-  "btc_snapshot": "112,615,000원, 업비트 KRW 기준 약 -1.02%, 30분봉 저점 반등 중이나 113M원 재안착 실패 상태",
+  "btc_snapshot": "112,355,000원, 업비트 KRW 기준 약 -1.25%, 30분봉 저점과 종가가 낮아지는 약세 흐름",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 43,
-  "last_updated": "2026-04-19T01:43+09:00",
+  "trade_count": 44,
+  "last_updated": "2026-04-19T02:09+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 30분봉상 저점 반등 중이지만 여전히 113M원 아래입니다.",
+    "단기 차트 요약: BTC는 30분봉상 종가가 계속 낮아지며 113M원 아래 약세 흐름입니다.",
     "전략 상태 반영 요약: cached 전략 bias는 neutral-to-defensive with selective-alt breakouts이며 현재 실행은 방어 우선입니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
     "코인별 대응 전략 요약: BTC 재진입 보류, API3·AXL 추격 금지, ETH·XRP는 약세 확인용입니다.",
@@ -27,16 +27,20 @@
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-19T01:43+09:00",
+      "timestamp": "2026-04-19T02:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 112615000,
+      "price_krw": 112355000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 112.615M원으로 직전 111.66M원 저점권에서 소폭 반등했지만 여전히 113M원 아래이고, ETH·XRP도 동반 약세입니다. 공포탐욕 26의 Fear 구간과 API3·AXL의 급등 과열 부담을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+      "reason": "BTC가 112.355M원으로 30분봉 기준 종가가 계속 낮아지며 여전히 113M원 아래입니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL 급등 과열 부담을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-19-0209.md",
+      "title": "2026-04-19-0209"
+    },
     {
       "file": "2026-04-19-0143.md",
       "title": "2026-04-19-0143"
@@ -72,10 +76,6 @@
     {
       "file": "2026-04-18-2139.md",
       "title": "2026-04-18-2139"
-    },
-    {
-      "file": "2026-04-18-2109.md",
-      "title": "2026-04-18-2109"
     }
   ],
   "positions": []
