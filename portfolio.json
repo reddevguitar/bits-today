@@ -4,17 +4,17 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10101836.97,
+  "last_valuation_krw": 10100900.46,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T15:09+09:00",
-  "trade_count": 26,
+  "last_updated": "2026-04-18T15:39+09:00",
+  "trade_count": 27,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 114080000,
+      "last_price_krw": 114050000,
       "thesis": "113.7M원대 지지 이후 114M원선 재안착 시도가 이어져 기존 추세 추종 포지션 유지",
       "strategy": "114M원선 체류 시 홀드 우세 지속, 113.7M원 하단 재이탈 시 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
@@ -67,6 +67,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T15:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114050000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.050M원으로 114M원선 부근 좁은 박스권을 유지해 기존 BTC 보유를 홀드합니다. AXL은 강하지만 과열이고 ONT·ONG는 단기 테마성 가능성, IP·SOON·ZETA는 약세라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T15:09+09:00",
       "symbol": "BTC",
