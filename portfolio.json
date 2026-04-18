@@ -6,24 +6,24 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T07:09+09:00",
-  "trade_count": 52,
+  "last_updated": "2026-04-19T07:39+09:00",
+  "trade_count": 53,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.236M원으로 113.0~113.1M원 아래 약세 박스권이라 재안착 전 재진입 보류"
+      "reason": "112.501M원으로 113.0~113.1M원 아래 약세 박스권이라 재안착 전 재진입 보류"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "603원으로 600원대는 유지하지만 620원 이상 재가속 확인 전 추격 금지"
+      "reason": "595원으로 강세는 유지하지만 최근 30분봉 재가속이 없어 620원 이상 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "93.6원으로 반등은 유지되지만 95원 회복과 안착 전까지 관찰 우선"
+      "reason": "93.8원으로 반등은 유지되지만 95원 회복과 안착 전까지 관찰 우선"
     },
     {
       "symbol": "ETH",
@@ -37,6 +37,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T07:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112501000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.501M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 재가속 부재를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-19T07:09+09:00",
       "symbol": "BTC",
