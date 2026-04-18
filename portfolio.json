@@ -2,33 +2,33 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 7540566.25,
+  "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10100308.36,
-  "last_action": "HOLD",
-  "last_updated": "2026-04-18T10:09+09:00",
-  "trade_count": 21,
+  "last_valuation_krw": 10103272.43,
+  "last_action": "BUY",
+  "last_updated": "2026-04-18T10:39+09:00",
+  "trade_count": 22,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "amount": 0.02245506,
-      "avg_buy_price_krw": 111928000,
-      "last_price_krw": 113994000,
-      "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
-      "strategy": "113.7M원 위 홀드 우세, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "amount": 0.03121731,
+      "avg_buy_price_krw": 112544946.75,
+      "last_price_krw": 114126000,
+      "thesis": "114M원 상단 30분봉 종가 확인으로 기존 25% 테스트 포지션에 소폭 추세 추종 추가",
+      "strategy": "113.9M원 위 홀드 우세, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.7M원 유지와 114M원 안착 여부 확인"
+      "reason": "114M원 상단 유지와 114.2M원 재돌파 여부 확인"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 위 상대강도 유지 여부 확인, 추격보다 눌림 체크 우선"
+      "reason": "900원 지지 재확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
@@ -62,6 +62,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T10:39+09:00",
+      "symbol": "BTC",
+      "action": "BUY",
+      "price_krw": 114126000,
+      "amount_delta": 0.00876225,
+      "cash_delta_krw": -1000000,
+      "reason": "BTC 10:00 30분봉이 114.197M원으로 마감하며 114M원 상단 안착을 확인해 기존 25% 테스트 포지션에 10%p만 추가했습니다. 공포탐욕은 여전히 Fear이고 알트 확산은 좁아 AXL, IP 등 알트 신규 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T10:09+09:00",
       "symbol": "BTC",
@@ -142,15 +151,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 113.959M원으로 다시 113.9M원대로 회복하며 30분봉 higher low 구조를 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. 다만 114M원 안착은 아직 확인되지 않아 신규 확대와 알트 진입은 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-18T05:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113650000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 114M원 재회복 뒤 113.65M원으로 다시 113.7M원 아래에 머물러 단기 탄력이 둔화됐지만 아직 113.3M원 위 구조는 유지하고 있어 기존 25% 테스트 포지션을 홀드합니다. 신규 확대와 알트 진입은 계속 보류합니다."
     }
   ]
 }
