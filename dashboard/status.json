@@ -3,20 +3,20 @@
   "judgment": "bearish",
   "confidence": "medium",
   "suggested_action": "현금 100% 유지, BTC 113.1M원 회복 확인 전 재진입 보류, API3는 620원 이상 확인 전 대기, AXL은 95원 회복 전 추격 금지.",
-  "updated_at": "2026-04-19 07:39 KST",
-  "market_status": "BTC는 2026-04-19 07:39 KST 기준 업비트에서 112.501M원으로 113M원 회복 없이 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 Fear 구간이 유지돼 방어 우선 판단을 유지합니다.",
+  "updated_at": "2026-04-19 08:09 KST",
+  "market_status": "BTC는 2026-04-19 08:09 KST 기준 업비트에서 112.500M원으로 113M원 회복 없이 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 Fear 구간이 유지돼 방어 우선 판단을 유지합니다.",
   "fear_greed": "26 (Fear)",
-  "btc_snapshot": "112,501,000원, 업비트 KRW 기준 약 -1.12%, 30분봉 기준 112.2M원대 저점 확인 뒤 소폭 반등",
+  "btc_snapshot": "112,500,000원, 업비트 KRW 기준 약 -1.12%, 장중 114.399M원 고점 대비 눌림이 이어지며 113M원 아래 약세 지속",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 53,
-  "last_updated": "2026-04-19T07:39+09:00",
+  "trade_count": 54,
+  "last_updated": "2026-04-19T08:09+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 30분봉상 112.2M원대 저점 확인 뒤 소폭 반등했지만 113M원 저항을 아직 회복하지 못했습니다.",
+    "단기 차트 요약: BTC는 장중 114.399M원 고점 대비 밀리며 112.0M원 저점권만 지키는 약세 흐름입니다.",
     "전략 상태 반영 요약: cached 전략 bias는 defensive with selective alt watch이며 현재 실행도 방어 우선입니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
     "코인별 대응 전략 요약: BTC 재진입 보류, API3는 620원 이상 확인 전 대기, AXL은 95원 회복 전 추격 금지입니다.",
@@ -27,16 +27,20 @@
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-19T07:39+09:00",
+      "timestamp": "2026-04-19T08:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 112501000,
+      "price_krw": 112500000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 112.501M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 재가속 부재를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+      "reason": "BTC가 112.500M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 고점 대비 눌림을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-19-0809.md",
+      "title": "2026-04-19-0809"
+    },
     {
       "file": "2026-04-19-0739.md",
       "title": "2026-04-19-0739"
@@ -72,10 +76,6 @@
     {
       "file": "2026-04-19-0339.md",
       "title": "2026-04-19-0339"
-    },
-    {
-      "file": "2026-04-19-0309.md",
-      "title": "2026-04-19-0309"
     }
   ],
   "positions": []
