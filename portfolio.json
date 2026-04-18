@@ -4,31 +4,31 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 7540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10092359.26,
+  "last_valuation_krw": 10095794.89,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T08:39+09:00",
-  "trade_count": 20,
+  "last_updated": "2026-04-18T09:09+09:00",
+  "trade_count": 21,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.02245506,
       "avg_buy_price_krw": 111928000,
-      "last_price_krw": 113640000,
+      "last_price_krw": 113793000,
       "thesis": "111.0M원 상단에서 30분봉 돌파와 거래량 확장이 동시에 확인돼 단기 추세 추종 테스트 진입",
-      "strategy": "113.7M원 재회복 시 홀드 우세, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "strategy": "113.7M원 위 홀드 우세, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.3M원 higher low 유지와 113.7M원 재회복 여부 확인"
+      "reason": "113.7M원 회복 유지와 114M원 재돌파 여부 확인"
     },
     {
       "symbol": "SOON",
       "market": "KRW-SOON",
-      "reason": "과열 추세 유지 중이나 눌림 재지지 전까지 추격 금지"
+      "reason": "과열 해소 중이라 반등 추격 금지, 30분봉 안정화 전까지 관찰만"
     },
     {
       "symbol": "KAT",
@@ -38,7 +38,7 @@
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 재회복 뒤 안착 여부 체크"
+      "reason": "900원 위 안착 여부 체크, 상대강도는 개선"
     },
     {
       "symbol": "ZETA",
@@ -57,6 +57,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T09:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113793000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.793M원으로 113.7M원대를 다시 회복해 기존 25% 테스트 포지션을 홀드합니다. 다만 114M원 재돌파는 아직 없고 SOON은 급락, KAT는 확인 부족, IP만 상대적으로 강해 알트 신규 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T08:39+09:00",
       "symbol": "BTC",
@@ -137,15 +146,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 113.3M원 지지를 유지한 채 113.677M원으로 113.7M원 재안착을 다시 시도하고 있어 기존 25% 테스트 포지션을 유지합니다. 다만 114M원 재돌파는 아직 확인되지 않아 신규 확대보다 홀드 관리가 우선입니다."
-    },
-    {
-      "timestamp": "2026-04-18T04:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 113452000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 04:00 진행 30분봉에서 113.3M원 저점을 다시 확인한 뒤 113.45M원으로 소폭 반등 중이지만 113.7M원 재안착은 실패하고 있어 기존 25% 테스트 포지션만 유지합니다. 113.3M원 재이탈 시 재점검, 113.0M원 이탈 시 축소 검토를 유지합니다."
     }
   ]
 }
