@@ -6,57 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T23:39+09:00",
-  "trade_count": 40,
+  "last_updated": "2026-04-19T00:09+09:00",
+  "trade_count": 41,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113M원 회복과 30분봉 고점·저점 상승 재확인 전 재진입 금지"
+      "reason": "113M원 안착과 다음 30분봉 고점 확장 확인 전 재진입 금지"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "630원대 강세 유지지만 680원대 급등 후 조정 중이라 눌림 없는 추격 금지"
+      "reason": "620원대 조정 중이라 눌림 후 재가속 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "99원대 강세지만 100원 저항 안착 전까지는 눌림 관찰 우선"
+      "reason": "100원 저항 재돌파 전까지는 눌림 관찰 우선"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 알트 전반 약세 확인용 보조 지표"
+      "reason": "메이저 알트 전반 회복 확인용 보조 지표"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
       "reason": "국내 유동성 온도계, 약세 지속 시 알트 진입 계속 보류"
-    },
-    {
-      "symbol": "ONT",
-      "market": "KRW-ONT",
-      "reason": "지속성 확인 전 추격 금지"
-    },
-    {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "회복 확인 전 추격 금지"
-    },
-    {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "과열 해소 중이라 안정화 전까지 관찰만"
-    },
-    {
-      "symbol": "ZETA",
-      "market": "KRW-ZETA",
-      "reason": "약세 지속, 재안착 확인 전 보류"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T00:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113016000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.016M원으로 113M원을 재터치했지만 아직 30분봉 안착 확인은 부족합니다. ETH·XRP 동반 약세와 공포탐욕 26의 Fear 구간을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T23:39+09:00",
       "symbol": "BTC",
