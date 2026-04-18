@@ -2,43 +2,48 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 6540566.25,
-  "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10100900.46,
-  "last_action": "HOLD",
-  "last_updated": "2026-04-18T15:39+09:00",
-  "trade_count": 27,
+  "cash_krw": 8306216.01,
+  "realized_pnl_krw": 63089.65,
+  "last_valuation_krw": 10071865.77,
+  "last_action": "SELL",
+  "last_updated": "2026-04-18T16:09+09:00",
+  "trade_count": 28,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "amount": 0.03121731,
+      "amount": 0.015608655,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 114050000,
-      "thesis": "113.7M원대 지지 이후 114M원선 재안착 시도가 이어져 기존 추세 추종 포지션 유지",
-      "strategy": "114M원선 체류 시 홀드 우세 지속, 113.7M원 하단 재이탈 시 둔화 경계, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
+      "last_price_krw": 113119917,
+      "thesis": "114M원선 이탈로 단기 구조가 약해져 기존 BTC 포지션을 절반 축소하고 잔여 물량만 관리",
+      "strategy": "113.0M원 위에서는 잔여 물량 홀드 가능, 114M원 재안착 전 추가매수 보류, 113.0M원 이탈 시 추가 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114M원선 체류 유지 여부와 113.7M원 하단 재이탈 여부 확인"
+      "reason": "113.0M원 방어 여부와 114M원 재안착 가능성 확인"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "상대강도는 강하지만 급등 과열, 눌림 후 지지 확인 전 추격 금지"
+      "reason": "상대강도는 남아 있지만 급등 과열, 눌림 확인 전 추격 금지"
+    },
+    {
+      "symbol": "ETH",
+      "market": "KRW-ETH",
+      "reason": "메이저 알트 확산 여부 확인용 보조 지표"
+    },
+    {
+      "symbol": "XRP",
+      "market": "KRW-XRP",
+      "reason": "국내 메이저 알트 유동성 유지 여부 확인용"
     },
     {
       "symbol": "ONT",
       "market": "KRW-ONT",
-      "reason": "급등 반응은 남아 있지만 거래대금 체급과 지속성 확인 전 추격 금지"
-    },
-    {
-      "symbol": "ONG",
-      "market": "KRW-ONG",
-      "reason": "단기 스파이크 성격 가능성 있어 눌림 확인 전 추격 금지"
+      "reason": "지속성 확인 전 추격 금지"
     },
     {
       "symbol": "IP",
@@ -48,25 +53,24 @@
     {
       "symbol": "SOON",
       "market": "KRW-SOON",
-      "reason": "과열 해소 중이라 반등 추격 금지, 안정화 전까지 관찰만"
+      "reason": "과열 해소 중이라 안정화 전까지 관찰만"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "약세 지속, 90원대 재안착 확인 전 추격 금지"
-    },
-    {
-      "symbol": "XRP",
-      "market": "KRW-XRP",
-      "reason": "국내 메이저 알트 상대강도 확인용 보조 관찰"
-    },
-    {
-      "symbol": "ETH",
-      "market": "KRW-ETH",
-      "reason": "메이저 확산 여부 확인용 보조 지표"
+      "reason": "약세 지속, 재안착 확인 전 보류"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T16:09+09:00",
+      "symbol": "BTC",
+      "action": "SELL",
+      "price_krw": 113119917,
+      "amount_delta": -0.015608655,
+      "cash_delta_krw": 1765649.76,
+      "reason": "BTC가 113.120M원으로 114M원과 113.3M원 하단을 모두 이탈해 기존 전략의 재점검 구간에 들어왔습니다. 아직 113.0M원은 완전히 붕괴하지 않았지만 공포탐욕 26의 Fear 구간과 제한적 알트 확산을 감안해 BTC 절반만 차익실현하고 나머지는 홀드합니다."
+    },
     {
       "timestamp": "2026-04-18T15:39+09:00",
       "symbol": "BTC",
