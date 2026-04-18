@@ -4,18 +4,18 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 6540566.25,
   "realized_pnl_krw": 54115.14,
-  "last_valuation_krw": 10103272.43,
-  "last_action": "BUY",
-  "last_updated": "2026-04-18T10:39+09:00",
-  "trade_count": 22,
+  "last_valuation_krw": 10102835.93,
+  "last_action": "HOLD",
+  "last_updated": "2026-04-18T11:09+09:00",
+  "trade_count": 23,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.03121731,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 114126000,
-      "thesis": "114M원 상단 30분봉 종가 확인으로 기존 25% 테스트 포지션에 소폭 추세 추종 추가",
+      "last_price_krw": 114112000,
+      "thesis": "114M원 상단 확인 이후 고점 박스 조정이 진행 중이어서 기존 추세 추종 포지션 유지",
       "strategy": "113.9M원 위 홀드 우세, 113.3M원 이탈 시 재점검, 113.0M원 이탈 시 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
@@ -62,6 +62,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T11:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 114112000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 114.112M원으로 114M원 상단을 유지하고 있고 바이낸스 30분봉도 급등 후 박스 조정 성격이라 기존 BTC 보유를 홀드합니다. AXL은 과열, IP는 900원 아래라 신규 알트 진입은 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T10:39+09:00",
       "symbol": "BTC",
