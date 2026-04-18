@@ -5,20 +5,20 @@
   "cash_krw": 10067231.29,
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
-  "last_action": "SELL",
-  "last_updated": "2026-04-18T19:09+09:00",
-  "trade_count": 33,
+  "last_action": "HOLD",
+  "last_updated": "2026-04-18T19:39+09:00",
+  "trade_count": 34,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.3M원 최종 방어선 확인 전 재진입 금지, 113.3M원 회복 여부 재점검"
+      "reason": "110M원 재안착과 112M원대 회복 확인 전 재진입 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "상대강도는 유지되지만 30분봉 눌림 지속, 재가속 확인 전 추격 금지"
+      "reason": "상대강도 후보지만 BTC 안정 전 추격 금지"
     },
     {
       "symbol": "ETH",
@@ -38,7 +38,7 @@
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "900원 재회복 전 추격 금지"
+      "reason": "회복 확인 전 추격 금지"
     },
     {
       "symbol": "SOON",
@@ -52,6 +52,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T19:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109785000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "업비트 검색 스냅샷 기준 BTC가 109.785M원까지 하락해 113.0M원 붕괴 후 낙폭이 더 커졌습니다. 포트폴리오는 이미 현금 100%라 추가 매매 없이 방어 유지가 최선이며, 반등 확인 전 신규 진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T19:09+09:00",
       "symbol": "BTC",
