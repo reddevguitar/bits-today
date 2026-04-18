@@ -4,18 +4,18 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 8306216.01,
   "realized_pnl_krw": 63089.65,
-  "last_valuation_krw": 10083105.3,
+  "last_valuation_krw": 10073880.58,
   "last_action": "HOLD",
-  "last_updated": "2026-04-18T17:09+09:00",
-  "trade_count": 29,
+  "last_updated": "2026-04-18T17:39+09:00",
+  "trade_count": 30,
   "positions": {
     "BTC": {
       "symbol": "BTC",
       "market": "KRW-BTC",
       "amount": 0.015608655,
       "avg_buy_price_krw": 112544946.75,
-      "last_price_krw": 113840000,
-      "thesis": "114M원선 이탈 이후 반등은 나왔지만 아직 상단 복원은 부족해 잔여 BTC만 관리",
+      "last_price_krw": 113249000,
+      "thesis": "114M원선 이탈 뒤 30분봉 약세가 이어져 잔여 BTC만 방어적으로 관리",
       "strategy": "113.0M원 위에서는 잔여 물량 홀드 가능, 114M원 재안착 전 추가매수 보류, 113.0M원 이탈 시 추가 축소 검토, 112.3M원 이탈 시 방어 우선"
     }
   },
@@ -23,12 +23,12 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.0M원 방어 여부와 114M원 재안착 가능성 확인"
+      "reason": "113.0M원 지지 유지 여부와 114M원 재안착 가능성 확인"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "상대강도는 남아 있지만 급등 과열, 눌림 확인 전 추격 금지"
+      "reason": "상대강도는 강하지만 급등 과열, 눌림 확인 전 추격 금지"
     },
     {
       "symbol": "ETH",
@@ -62,6 +62,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-18T17:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113249000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.249M원으로 113.0M원 위는 간신히 지키지만 30분봉이 연속 하락 마감이라 약세 압력이 남아 있습니다. 공포탐욕 26의 Fear 구간과 제한적 알트 확산을 감안해 BTC 잔여 물량만 홀드하고 신규 진입은 보류합니다."
+    },
     {
       "timestamp": "2026-04-18T17:09+09:00",
       "symbol": "BTC",
