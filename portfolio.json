@@ -6,19 +6,19 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T05:09+09:00",
+  "last_updated": "2026-04-20T05:39+09:00",
   "trade_count": 92,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.545M원으로 112M원 아래 재약세라 안착 확인 전까지 관망"
+      "reason": "111.559M원으로 112M원 아래 약세 박스권, 안착 확인 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.420M원으로 BTC 대비 약세 지속, 동행 회복 확인용"
+      "reason": "3.421M원으로 BTC 대비 약세 지속, 동행 회복 확인용"
     },
     {
       "symbol": "XRP",
@@ -28,15 +28,24 @@
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "강한 상대강도 유지지만 이미 급등 후반이라 추격 금지"
+      "reason": "52.6원 급등 유지지만 최근 30분봉 흔들림 발생, 추격 금지"
     },
     {
       "symbol": "CPOOL",
       "market": "KRW-CPOOL",
-      "reason": "후속 강세 후보이나 BLUR 대비 약해 확인 전까지 관찰만 유지"
+      "reason": "후속 강세 후보이나 BLUR 확산 확인 전까지 관찰만 유지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T05:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111559000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.559M원으로 112M원 아래 약세 박스권에 머물고 ETH도 3.421M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T05:09+09:00",
       "symbol": "BTC",
