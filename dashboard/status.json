@@ -2,22 +2,22 @@
   "project": "bit's today",
   "judgment": "bearish",
   "confidence": "medium",
-  "suggested_action": "현금 100% 유지, BTC 113M원 회복과 알트 선도주 재가속 확인 전까지 신규 진입 보류.",
-  "updated_at": "2026-04-19 10:39 KST",
-  "market_status": "BTC는 2026-04-19 10:39 KST 기준 업비트에서 112.131M원으로 112.6M원 반등 실패 후 다시 밀렸습니다. ETH 3.478M원, XRP 2,123원, API3 523원, AXL 88.9원으로 메이저와 감시 알트가 모두 약세라 시장은 방어 우선입니다.",
+  "suggested_action": "현금 100% 유지, BTC 113M원 회복과 API3·AXL 재가속 확인 전까지 신규 진입 보류.",
+  "updated_at": "2026-04-19 11:09 KST",
+  "market_status": "BTC는 2026-04-19 11:09 KST 기준 업비트에서 112.109M원으로 30분봉 lower high를 이어가며 112.0M원대를 재시험 중입니다. ETH 3.478M원, XRP 2,122원, API3 520원, AXL 88.0원으로 메이저와 감시 알트가 모두 약세라 시장은 방어 우선입니다.",
   "fear_greed": "27 (Fear)",
-  "btc_snapshot": "112,131,000원, 업비트 KRW 기준 직전 종가 대비 약 -0.22%, 장중 112.600M원 반등 실패 후 112.100M원 저점 재시험 구간",
+  "btc_snapshot": "112,109,000원, 업비트 KRW 기준 직전 종가 대비 약 -0.24%, 장중 112.600M원 반등 후 112.000M원 재시험 구간",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 58,
-  "last_updated": "2026-04-19T10:39+09:00",
+  "trade_count": 59,
+  "last_updated": "2026-04-19T11:09+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 10:00 진행 30분봉에서 112.6M원 반등 실패 후 다시 112.1M원대로 밀렸습니다.",
-    "전략 상태 반영 요약: cached 전략 bias는 defensive이며 API3와 AXL의 실패로 방어 유지가 더 타당합니다.",
+    "단기 차트 요약: BTC는 30분봉 기준 112.600M원 이후 고점이 계속 낮아지며 112.0M원대를 다시 시험했습니다.",
+    "전략 상태 반영 요약: cached 전략 bias는 defensive이며 API3와 AXL 실패로 방어 유지가 더 타당합니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
     "코인별 대응 전략 요약: BTC 재진입 보류, API3는 580원대 회복 전 제외, AXL은 95원 회복 전 추격 금지입니다.",
     "근거: Fear 구간 유지, BTC 113M원 미회복, API3·AXL 급락, ETH·XRP 동반 약세가 겹칩니다.",
@@ -27,16 +27,20 @@
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-19T10:39+09:00",
+      "timestamp": "2026-04-19T11:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 112131000,
+      "price_krw": 112109000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 112.131M원으로 112.6M원 반등 실패 후 다시 밀렸습니다. 공포탐욕 27 Fear가 유지되고 API3는 523원, AXL은 88.9원으로 감시 알트까지 약세라 현금 100% 방어를 유지합니다."
+      "reason": "BTC가 112.109M원으로 30분봉 lower high를 이어가며 112.0M원대를 재시험 중입니다. 공포탐욕 27 Fear가 유지되고 API3는 520원, AXL은 88.0원으로 감시 알트까지 실패 흐름이라 현금 100% 방어를 유지합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-19-1109.md",
+      "title": "2026-04-19-1109"
+    },
     {
       "file": "2026-04-19-1039.md",
       "title": "2026-04-19-1039"
@@ -72,10 +76,6 @@
     {
       "file": "2026-04-19-0639.md",
       "title": "2026-04-19-0639"
-    },
-    {
-      "file": "2026-04-19-0609.md",
-      "title": "2026-04-19-0609"
     }
   ],
   "positions": []
