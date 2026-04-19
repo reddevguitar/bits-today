@@ -6,37 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T10:09+09:00",
-  "trade_count": 57,
+  "last_updated": "2026-04-19T10:39+09:00",
+  "trade_count": 58,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.462M원으로 113M원 아래 반등 폭이 제한적이어서 재진입을 계속 보류"
+      "reason": "112.131M원으로 112.6M원 반등 실패 후 재하락, 113M원 회복 전 재진입 보류"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "529원으로 600원대 안착 실패, 580원대 회복 전까지 추격 금지"
+      "reason": "523원으로 장중 613원 고점 후 급락, 580원대 회복 전까지 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "89.9원으로 90원선 재시험 구간, 95원 회복 전 관찰 우선"
+      "reason": "88.9원으로 장중 97.6원 고점 후 약세 전환, 95원 회복 전 관찰 우선"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3,492,000원으로 보합권이지만 메이저 알트 확산 신호는 아직 약함"
+      "reason": "3,478,000원으로 시가 대비 약세, 메이저 알트 확산 신호는 아직 부족"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,134원으로 소폭 반등했지만 전체 알트 리스크온 확인으로 보긴 이릅니다."
+      "reason": "2,123원으로 소폭 약세, 전체 알트 리스크온 확인으로 보기 어렵습니다."
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T10:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112131000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.131M원으로 112.6M원 반등 실패 후 다시 밀렸습니다. 공포탐욕 27 Fear가 유지되고 API3는 523원, AXL은 88.9원으로 감시 알트까지 약세라 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T10:09+09:00",
       "symbol": "BTC",
