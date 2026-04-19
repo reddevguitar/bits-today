@@ -1,42 +1,46 @@
 {
   "project": "bit's today",
-  "judgment": "bearish",
-  "confidence": "high",
-  "suggested_action": "현금 100% 유지, BTC가 최소 111M원 회복 후 112M원대 재진입 전까지 신규 진입 보류.",
-  "updated_at": "2026-04-19 18:09 KST",
-  "market_status": "BTC는 2026-04-19 18:09 KST 기준 110.405M원으로 111M원선을 내줬고, ETH도 3.401M원으로 -2.50% 약세입니다. 공포탐욕 27 Fear와 defensive 전략 상태를 감안하면 단기 방어 우위 해석이 더 강해졌습니다.",
+  "judgment": "neutral",
+  "confidence": "medium",
+  "suggested_action": "현금 100% 유지, BTC가 112M원대 재진입 후 지지 확인 전까지 신규 진입 보류.",
+  "updated_at": "2026-04-19 18:39 KST",
+  "market_status": "BTC는 2026-04-19 18:39 KST 기준 111.585M원으로 111.5M원 저점 반등이 나왔지만 아직 112M원 아래입니다. ETH는 3.437M원, XRP는 2,109원으로 모두 약세권이라 추세 전환 확인은 부족합니다.",
   "fear_greed": "27 (Fear)",
-  "btc_snapshot": "110,405,152원, 24시간 -1.77%, 111M원 하향 이탈 뒤 약세 지속",
+  "btc_snapshot": "111,585,000원, 24시간 -0.70%, 저점 111.5M원 반등 직후이나 112M원 미회복",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 72,
-  "last_updated": "2026-04-19T18:09+09:00",
+  "trade_count": 73,
+  "last_updated": "2026-04-19T18:39+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 30분봉 기준 lower high 이후 저점 재테스트 흐름입니다.",
+    "단기 차트 요약: BTC는 30분봉 기준 111.5M원 저점 반등이 나왔지만 아직 112M원 회복 전입니다.",
     "전략 상태 반영 요약: cached 전략 bias는 defensive이며 이번 회차도 현금 방어가 우선입니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
-    "코인별 대응 전략 요약: BTC는 111M~112M 회복 전 관망, ETH·XRP는 메이저 확산 확인 전 대기, ZETA는 감시만 유지입니다.",
-    "근거: Fear 구간 유지, BTC 111M 이탈, ETH·XRP 동반 약세, 알트 선도 부재가 겹칩니다.",
+    "코인별 대응 전략 요약: BTC는 112M원 회복 전 관망, ETH·XRP는 메이저 확산 확인 전 대기, ZETA는 감시만 유지입니다.",
+    "근거: Fear 구간 유지, BTC 112M 미회복, ETH·XRP 동반 약세, 알트 선도 부재가 겹칩니다.",
     "가상 매매 실행 내용: 이번 회차도 신규 거래 없이 HOLD로 기록했습니다.",
     "포트폴리오 현황: 현금 10,067,231.29원, 보유 코인 없음, 총 평가액 10,067,231.29원, 실현손익 67,429.69원.",
     "주의사항: 실거래가 아닌 가상 기록이며, 실제 체결 전에는 실시간 가격과 봉 마감을 다시 확인해야 합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-19T18:09+09:00",
+      "timestamp": "2026-04-19T18:39+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 110405152,
+      "price_krw": 111585000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 110.405M원으로 30분 전보다 다시 밀렸고 ETH도 3.401M원으로 -2.50% 약세입니다. 공포탐욕 27 Fear와 cached defensive 전략, 알트 선도 부재를 감안해 현금 100% 방어를 유지합니다."
+      "reason": "BTC가 111.585M원으로 111.5M원 저점에서 반등했지만 아직 112M원 아래입니다. ETH -1.49%, XRP -0.75%, 공포탐욕 27 Fear와 cached defensive 전략을 감안해 현금 100% 방어를 유지합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-19-1839.md",
+      "title": "2026-04-19-1839"
+    },
     {
       "file": "2026-04-19-1809.md",
       "title": "2026-04-19-1809"
@@ -72,10 +76,6 @@
     {
       "file": "2026-04-19-1409.md",
       "title": "2026-04-19-1409"
-    },
-    {
-      "file": "2026-04-19-1339.md",
-      "title": "2026-04-19-1339"
     }
   ],
   "positions": []
