@@ -6,14 +6,14 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T02:09+09:00",
-  "trade_count": 86,
+  "last_updated": "2026-04-20T02:39+09:00",
+  "trade_count": 87,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112M원 지지 확인이 먼저이며 113M원 재돌파 전까지는 박스 하단 점검 구간"
+      "reason": "111.8M원 약세 구간이라 112M원 회복과 113M원 재돌파 확인 전까지 관망"
     },
     {
       "symbol": "ETH",
@@ -28,7 +28,7 @@
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "강세는 유지되지만 56.6원 고점 후 48.8~50원 박스라 눌림 없는 추격 진입은 비추천"
+      "reason": "강세는 유지되지만 56.6원 고점 후 49원대 박스라 눌림 없는 추격 진입은 비추천"
     },
     {
       "symbol": "CPOOL",
@@ -37,6 +37,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T02:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111830000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.83M원으로 최근 30분봉 기준 연속 하락 흐름을 이어가고 ETH도 3.437M원으로 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T02:09+09:00",
       "symbol": "BTC",
@@ -117,15 +126,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.598M원으로 112.5M원을 소폭 상회했지만 ETH는 -0.34%로 약하고 공포탐욕 27 Fear, cached defensive 전략을 감안하면 봉 마감 안착 확인 전까지 현금 100% 방어가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-19T21:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112267000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.267M원으로 반등했지만 112.5M원 상단 안착 확인이 아직 부족하고, 공포탐욕 27 Fear와 cached defensive 전략을 감안해 현금 100% 방어를 유지합니다."
     }
   ]
 }
