@@ -219,104 +219,144 @@
     function fmtKrw(value) {
       return Math.round(Number(value || 0)).toLocaleString();
     }
-    async function load() {
-      const [statusRes, reportRes] = await Promise.all([
-        fetch('./status.json?_=' + Date.now()),
-        fetch('./latest-report.md?_=' + Date.now())
-      ]);
-      const status = await statusRes.json();
-      const report = await reportRes.text();
-
-      const initialCash = parseNumber(status.initial_cash_krw);
-      const valuation = parseNumber(status.last_valuation_krw);
-      const pnl = valuation - initialCash;
-      const pct = initialCash ? (pnl / initialCash) * 100 : 0;
-      const fear = parseFearValue(status.fear_greed);
-
-      document.getElementById('valuation').textContent = fmtKrw(valuation) + '원';
-      document.getElementById('cash').textContent = fmtKrw(status.cash_krw) + '원';
-      document.getElementById('profitValue').textContent = (pnl >= 0 ? '+' : '') + fmtKrw(pnl) + '원';
-      document.getElementById('profitValue').className = 'mid ' + (pnl >= 0 ? 'buy' : 'sell');
-      document.getElementById('returnPct').textContent = (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
-      document.getElementById('judgment').textContent = (status.judgment || '-').toUpperCase();
-      document.getElementById('judgment').className = 'mid ' + ((status.last_action || 'HOLD').toLowerCase());
-      document.getElementById('action').textContent = status.suggested_action || '-';
-      document.getElementById('marketStatus').textContent = status.market_status || '-';
-      document.getElementById('btcSnapshot').textContent = status.btc_snapshot || '-';
-      document.getElementById('confidence').textContent = `신뢰도: ${status.confidence || '-'}`;
-      document.getElementById('fearGreed').textContent = status.fear_greed || '-';
-      document.getElementById('fearNeedle').style.left = `${fear}%`;
-
-      document.getElementById('profitValue2').textContent = (pnl >= 0 ? '+' : '') + fmtKrw(pnl) + '원';
-      document.getElementById('profitValue2').className = 'money ' + (pnl >= 0 ? 'buy' : 'sell');
-      document.getElementById('returnPct2').textContent = (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
-      document.getElementById('initialCash').textContent = fmtKrw(initialCash) + '원';
-      document.getElementById('realizedPnl').textContent = fmtKrw(status.realized_pnl_krw) + '원';
-
-      const assetGrid = document.getElementById('assetGrid');
-      assetGrid.innerHTML = '';
-      const positions = Array.isArray(status.positions) ? status.positions : [];
-      if (!positions.length) {
-        addNode(assetGrid, '<div class="asset-row"><div class="asset-name">보유 코인 없음</div><div class="small">현재는 현금 100% 상태입니다.</div></div>', '');
-      } else {
-        positions.forEach(pos => {
-          const symbol = pos.symbol || '';
-          const name = NAME_MAP[symbol] || symbol;
-          addNode(assetGrid, `
-            <div class="asset-row">
-              <div class="asset-head">
-                <div>
-                  <div class="asset-name">${name}</div>
-                  <div class="asset-market">${pos.market || ''}</div>
-                </div>
-                <div class="badge ${String(pos.side || 'hold').toLowerCase()}">${(pos.side || 'HOLD').toUpperCase()}</div>
-              </div>
-              <div class="asset-values">
-                <div><div class="label">수량</div><div class="mid">${pos.amount || '-'}</div></div>
-                <div><div class="label">평가액</div><div class="mid">${pos.valuation_krw || '-'}</div></div>
-              </div>
-            </div>
-          `, '');
-        });
-      }
-
-      const strategyList = document.getElementById('strategyList');
-      strategyList.innerHTML = '';
-      (status.summary || []).slice(0, 4).forEach(item => addNode(strategyList, item, 'strategy-item'));
-
-      const summaryList = document.getElementById('summaryList');
-      summaryList.innerHTML = '';
-      (status.summary || []).forEach(item => addNode(summaryList, item));
-
-      const tradeList = document.getElementById('tradeList');
-      tradeList.innerHTML = '';
-      (status.recent_trades || []).forEach(trade => {
-        const action = String(trade.action || 'HOLD').toLowerCase();
-        addNode(tradeList, `
-          <div class="trade-log ${action}-log">
-            <div class="trade-head">
-              <div class="trade-main">${trade.symbol || '-'} ${trade.action || '-'}</div>
-              <div class="badge ${action}">${trade.action || '-'}</div>
-            </div>
-            <div class="trade-sub">${trade.timestamp || ''}</div>
-            <div class="trade-sub">가격: ${fmtKrw(trade.price_krw || 0)}원</div>
-            <div class="trade-sub">${trade.reason || ''}</div>
-          </div>
-        `, '');
-      });
-
-      document.getElementById('report').textContent = report;
-      document.getElementById('clock').textContent = (status.updated_at || '').match(/(\d{2}:\d{2})/)?.[1] || '--:--';
+    function updateClock() {
+      const d = new Date();
+      const hh = String(d.getHours()).padStart(2,'0');
+      const mm = String(d.getMinutes()).padStart(2,'0');
+      document.getElementById('clock').textContent = `${hh}:${mm}`;
     }
-    document.querySelectorAll('.tab').forEach(tab => {
-      tab.addEventListener('click', () => {
-        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
-        tab.classList.add('active');
-        document.getElementById('screen-' + tab.dataset.tab).classList.add('active');
-      });
-    });
+    function switchTab(name) {
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === name));
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+      document.getElementById('screen-' + name).classList.add('active');
+    }
+    async function load() {
+      try {
+        const [statusRes, reportRes] = await Promise.all([
+          fetch('./status.json?_=' + Date.now()),
+          fetch('./latest-report.md?_=' + Date.now())
+        ]);
+        const status = await statusRes.json();
+        const report = await reportRes.text();
+
+        const valuation = parseNumber(status.last_valuation_krw);
+        const initial = parseNumber(status.initial_cash_krw);
+        const realized = parseNumber(status.realized_pnl_krw);
+        const profit = valuation - initial;
+
+        document.getElementById('valuation').innerHTML = `₩<br>${fmtKrw(valuation)}`;
+        document.getElementById('cash').innerHTML = `₩<br>${fmtKrw(parseNumber(status.cash_krw))}`;
+        document.getElementById('profitValue').textContent = `${profit >= 0 ? '+' : '-'}${fmtKrw(Math.abs(profit))} KRW`;
+        document.getElementById('profitValue').className = 'mid ' + (profit >= 0 ? 'buy' : 'sell');
+        document.getElementById('returnPct').textContent = `수익률 ${status.return_pct ?? '-'}%`;
+        document.getElementById('returnPct').className = 'small ' + ((Number(status.return_pct || 0) >= 0) ? 'buy' : 'sell');
+        document.getElementById('judgment').textContent = status.judgment || '-';
+        document.getElementById('action').textContent = `추천 행동 ${status.suggested_action || '-'}`;
+        document.getElementById('marketStatus').textContent = status.market_status || '-';
+        document.getElementById('btcSnapshot').textContent = status.btc_snapshot || '-';
+        document.getElementById('confidence').textContent = `신뢰도 ${status.confidence || '-'} · ${status.updated_at || '-'}`;
+        document.getElementById('fearGreed').textContent = status.fear_greed || '-';
+        document.getElementById('fearNeedle').style.left = `calc(${parseFearValue(status.fear_greed)}% - 2px)`;
+
+        document.getElementById('profitValue2').textContent = `${profit >= 0 ? '+' : '-'}${fmtKrw(Math.abs(profit))} KRW`;
+        document.getElementById('profitValue2').className = 'money ' + (profit >= 0 ? 'buy' : 'sell');
+        document.getElementById('returnPct2').textContent = `${status.return_pct ?? '-'}%`;
+        document.getElementById('returnPct2').className = 'mid ' + ((Number(status.return_pct || 0) >= 0) ? 'buy' : 'sell');
+        document.getElementById('initialCash').innerHTML = `₩<br>${fmtKrw(initial)}`;
+        document.getElementById('realizedPnl').textContent = `${realized >= 0 ? '+' : '-'}${fmtKrw(Math.abs(realized))} KRW`;
+        document.getElementById('realizedPnl').className = 'mid ' + (realized >= 0 ? 'buy' : 'sell');
+
+        document.getElementById('report').textContent = report;
+
+        const assetGrid = document.getElementById('assetGrid');
+        assetGrid.innerHTML = '';
+        (status.positions || []).forEach((p) => {
+          const amount = Number(p.amount || 0);
+          const last = parseNumber(p.last_price_krw);
+          const avg = parseNumber(p.avg_buy_price_krw);
+          const evalAmount = amount * last;
+          const pnl = (last - avg) * amount;
+          const rate = avg ? (((last - avg) / avg) * 100) : 0;
+          const pnlCls = pnl >= 0 ? 'buy' : 'sell';
+          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
+          const row = document.createElement('div');
+          row.className = 'asset-row';
+          row.innerHTML = `
+            <div class="asset-head">
+              <div>
+                <div class="asset-name">${name}</div>
+                <div class="asset-market">${p.market}</div>
+              </div>
+              <div class="small">보유량 ${amount}</div>
+            </div>
+            <div class="asset-values">
+              <div>
+                <div class="label">현재가</div>
+                <div class="mid">${p.last_price_krw}</div>
+              </div>
+              <div>
+                <div class="label">평가금액</div>
+                <div class="mid">${fmtKrw(evalAmount)} KRW</div>
+              </div>
+              <div>
+                <div class="label">평가손익</div>
+                <div class="mid ${pnlCls}">${pnl >= 0 ? '+' : '-'}${fmtKrw(Math.abs(pnl))} KRW</div>
+              </div>
+              <div>
+                <div class="label">수익률</div>
+                <div class="mid ${pnlCls}">${rate.toFixed(2)}%</div>
+              </div>
+            </div>
+          `;
+          assetGrid.appendChild(row);
+        });
+        if (!(status.positions || []).length) {
+          const row = document.createElement('div');
+          row.className = 'asset-row';
+          row.innerHTML = `<div class="asset-name">보유 코인 없음</div><div class="small">현재는 현금만 보유 중</div>`;
+          assetGrid.appendChild(row);
+        }
+
+        const strategyList = document.getElementById('strategyList');
+        strategyList.innerHTML = '';
+        (status.positions || []).forEach((p) => {
+          const name = `${NAME_MAP[p.symbol] || p.symbol} (${p.symbol})`;
+          addNode(strategyList, `<div class="strategy-title">${name}</div><div>아이디어: ${p.thesis || '-'}</div><div>대응전략: ${p.strategy || '-'}</div>`, 'strategy-item');
+        });
+
+        const summaryList = document.getElementById('summaryList');
+        summaryList.innerHTML = '';
+        (status.summary || []).slice(0, 8).forEach((s) => addNode(summaryList, s));
+
+        const tradeList = document.getElementById('tradeList');
+        tradeList.innerHTML = '';
+        (status.recent_trades || []).forEach((t) => {
+          const action = String(t.action || 'HOLD').toUpperCase();
+          const cls = action.includes('BUY') ? 'buy-log' : action.includes('SELL') ? 'sell-log' : 'hold-log';
+          const badgeCls = action.includes('BUY') ? 'buy' : action.includes('SELL') ? 'sell' : 'hold';
+          const total = Math.abs(parseNumber(t.cash_delta_krw));
+          const totalText = total > 0 ? `${fmtKrw(total)} KRW` : '거래 없음';
+          const mainText = action.includes('BUY') ? `총 ${totalText} 매수` : action.includes('SELL') ? `총 ${totalText} 매도` : `${t.symbol || '코인'} 관망`;
+          const priceText = `${fmtKrw(t.price_krw)} KRW`;
+          addNode(tradeList, `
+            <div class="trade-head">
+              <div class="strategy-title">${NAME_MAP[t.symbol] || t.symbol || 'COIN'} (${t.symbol || '-'}) · ${t.timestamp || '-'}</div>
+              <div class="badge ${badgeCls}">${action}</div>
+            </div>
+            <div class="trade-main ${badgeCls}">${mainText}</div>
+            <div class="trade-sub">체결 기준가 ${priceText} · 수량 변화 ${t.amount_delta ?? 0}</div>
+            <div class="trade-sub">사유: ${t.reason || '-'}</div>
+          `, `trade-log ${cls}`);
+        });
+      } catch (e) {
+        document.getElementById('report').textContent = '대시보드 데이터를 불러오지 못했습니다.\n' + e;
+      }
+    }
+    updateClock();
+    setInterval(updateClock, 20000);
+    document.querySelectorAll('.tab').forEach(tab => tab.addEventListener('click', () => switchTab(tab.dataset.tab)));
     load();
+    setInterval(load, 60000);
   </script>
 </body>
 </html>

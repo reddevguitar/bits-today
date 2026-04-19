@@ -6,42 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T13:39+09:00",
-  "trade_count": 63,
+  "last_updated": "2026-04-19T14:09+09:00",
+  "trade_count": 64,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.200M원으로 112M원선은 지키지만 113M원 재안착 실패가 이어져 추세 전환 확인 전 재진입 보류"
+      "reason": "110.859M원으로 112M원 박스를 하향 이탈해 111.5M원 회복 전까지 관망 우선"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "84.2원으로 상대강도는 남아 있으나 85.5원 재돌파 안착 전까지는 관찰 우선"
-    },
-    {
-      "symbol": "API3",
-      "market": "KRW-API3",
-      "reason": "499원으로 500원 하회 구간이며 520원대 회복 전까지 추격 금지"
-    },
-    {
-      "symbol": "AXL",
-      "market": "KRW-AXL",
-      "reason": "88원으로 97.6원 고점 후 약세가 지속돼 90원 회복 전 관찰 우선"
+      "reason": "cached 전략상 상대강도 감시 대상이지만 단기 돌파 확인 전까지는 보수적으로 관찰"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3,468,000원으로 메이저 알트 동반 회복 신호가 아직 부족"
+      "reason": "메이저 알트 동반 회복 확인용, BTC 약세 구간에서는 추격 금지"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,120원으로 국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 부족"
+      "reason": "국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 아직 부족"
+    },
+    {
+      "symbol": "API3",
+      "market": "KRW-API3",
+      "reason": "cached 전략상 구조 훼손 상태라 반등 확인 전 제외"
+    },
+    {
+      "symbol": "AXL",
+      "market": "KRW-AXL",
+      "reason": "cached 전략상 구조 훼손 상태라 90원대 회복 전 추격 금지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T14:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110858871,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.859M원으로 직전 112M원대 박스를 하향 이탈했고 공포탐욕 27 Fear도 유지됩니다. cached 전략 상태가 defensive이며 알트 선도 신호도 부족해 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T13:39+09:00",
       "symbol": "BTC",
@@ -122,42 +131,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.235M원으로 다시 눌리고 공포탐욕 27 Fear 구간이 유지됩니다. API3만 단기 강세가 복귀했지만 AXL과 메이저 확산 확인이 부족해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-19T09:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112501000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.501M원으로 소폭 반등했지만 여전히 113M원 아래입니다. 공포탐욕 27 Fear 구간과 메이저 확산 부재, API3의 확인 부족, AXL 약세를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-19T08:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112425000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.425M원으로 30분봉 반등 뒤 다시 밀리며 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 재가속 부재를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-19T08:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112500000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.500M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 고점 대비 눌림을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-19T07:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112501000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.501M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 재가속 부재를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ]
 }
