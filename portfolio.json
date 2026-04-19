@@ -6,14 +6,14 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T17:39+09:00",
-  "trade_count": 71,
+  "last_updated": "2026-04-19T18:09+09:00",
+  "trade_count": 72,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.771M원으로 112.6M원 재돌파 실패가 이어져 113M원 재안착 전까지는 보수적 관망 우선"
+      "reason": "110.405M원으로 111M원대 초반까지 밀려 단기 반등 실패가 확인됐고 112M원대 회복 전까지는 관망 우선"
     },
     {
       "symbol": "ZETA",
@@ -42,6 +42,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T18:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110405152,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.405M원으로 30분 전보다 다시 밀렸고 ETH도 3.401M원으로 -2.50% 약세입니다. 공포탐욕 27 Fear와 cached defensive 전략, 알트 선도 부재를 감안해 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T17:39+09:00",
       "symbol": "BTC",
