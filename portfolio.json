@@ -6,29 +6,29 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T23:39+09:00",
-  "trade_count": 82,
+  "last_updated": "2026-04-20T00:09+09:00",
+  "trade_count": 83,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.656M원으로 113.3M원 고점 대비 밀렸지만 112.5M원대는 지키고 있어 113M원 재돌파 확인이 핵심"
+      "reason": "112.704M원으로 112.5M원대는 지키고 있지만 113M원 재돌파와 안착 확인이 핵심"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.472M원, 일간 -0.49%로 여전히 메이저 동행 회복 강도는 제한적"
+      "reason": "3.468M원, 일간 -0.60%로 메이저 동행 회복 강도는 아직 제한적"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,135원, 일간 +0.47%로 국내 유동성 온도계 역할 지속"
+      "reason": "2,131원, 일간 +0.28%로 국내 유동성 온도계 역할 지속"
     },
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "50.0원, 일간 +30.89% 급등으로 눌림 없는 추격 진입은 비추천"
+      "reason": "53.5원, 일간 +40.05% 급등으로 강세는 인정하지만 눌림 없는 추격 진입은 비추천"
     },
     {
       "symbol": "CPOOL",
@@ -37,6 +37,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T00:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112704000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.704M원으로 112.5M원대 위를 유지하지만 113M원 재돌파와 ETH 동행 회복이 아직 부족하고, 공포탐욕 27 Fear 및 cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-19T23:39+09:00",
       "symbol": "BTC",
@@ -126,15 +135,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.490M원으로 112M원 재돌파에 다시 실패했고 ETH도 3.431M원으로 -1.66% 약세입니다. 공포탐욕 27 Fear와 cached defensive 전략, 알트 선도 부재를 감안해 현금 100% 방어를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-19T18:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111585000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.585M원으로 111.5M원 저점에서 반등했지만 아직 112M원 아래입니다. ETH -1.49%, XRP -0.75%, 공포탐욕 27 Fear와 cached defensive 전략을 감안해 현금 100% 방어를 유지합니다."
     }
   ]
 }
