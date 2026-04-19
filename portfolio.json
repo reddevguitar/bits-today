@@ -6,37 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T22:09+09:00",
-  "trade_count": 79,
+  "last_updated": "2026-04-19T22:39+09:00",
+  "trade_count": 80,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.598M원으로 112.5M원 위를 찍었지만 아직 봉 마감 안착 확인이 필요"
+      "reason": "113.008M원으로 113M원대를 회복했지만 추가 봉 유지와 ETH 동행 확인이 필요"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.477M원, 일간 -0.34%로 메이저 동반 회복 강도는 제한적"
+      "reason": "3.480M원, 일간 -0.26%로 메이저 동행 회복 강도는 아직 제한적"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,133원, 일간 +0.38%로 국내 유동성 온도계 역할 지속"
+      "reason": "2,138원, 일간 +0.61%로 국내 유동성 온도계 역할 지속"
     },
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "46.3원, 일간 +21.20%로 강하지만 이미 많이 확장돼 추격보다 눌림 확인이 우선"
+      "reason": "46.1원, 일간 +20.68%지만 급등 후 46원대 횡보라 추격보다 눌림 확인 우선"
     },
     {
       "symbol": "CPOOL",
       "market": "KRW-CPOOL",
-      "reason": "cached 후보군이지만 이번 회차는 BTC 추세 확인 전 보조 감시만 유지"
+      "reason": "40.3원, 일간 +8.04%로 후속 후보이나 체급이 작아 보조 감시만 유지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T22:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 113008000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 113.008M원으로 113M원대를 회복했지만 ETH는 -0.26%로 아직 약하고 공포탐욕 27 Fear, cached defensive 전략을 감안하면 추격 진입보다 현금 100% 방어 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-19T22:09+09:00",
       "symbol": "BTC",
