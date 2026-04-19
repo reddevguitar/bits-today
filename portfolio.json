@@ -6,34 +6,34 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T20:09+09:00",
-  "trade_count": 76,
+  "last_updated": "2026-04-19T20:39+09:00",
+  "trade_count": 77,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.901M원으로 반등했지만 112M원 재안착 전까지는 방향 확인이 우선"
+      "reason": "112.032M원으로 112M원은 재터치했지만 종가 안착 확인 전까지는 추격보다 관망이 유리"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "84.2원, +3.06%로 상대강도는 유지하지만 메이저 확인 전에는 감시만 유지"
+      "reason": "84.3원, +3.18%로 상대강도는 유지되지만 메이저 동반 확산 전에는 감시만 유지"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.453M원, -1.03%로 BTC 대비 탄력 약해 동반 회복 전 추격 금지"
+      "reason": "3.457M원, -0.92%로 BTC 대비 탄력이 여전히 약해 확인 전 추격 금지"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,117원, -0.38%로 국내 유동성 온도계 역할은 유지하지만 리스크온 확산 신호는 부족"
+      "reason": "2,120원, -0.24%로 국내 유동성은 유지되지만 알트 확산 신호는 아직 부족"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "514원, 거래대금은 크지만 -6.20% 급락 훼손 구조라 반등 확인 전 제외 유지"
+      "reason": "512원, 거래대금은 크지만 -6.57% 급락 훼손 구조라 반등 확인 전 제외 유지"
     },
     {
       "symbol": "AXL",
@@ -42,6 +42,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T20:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112032000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.032M원으로 112M원을 재터치했지만 ETH -0.92%, XRP -0.24%, 공포탐욕 27 Fear, cached defensive 전략을 감안하면 돌파 안착 확인이 먼저라 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T20:09+09:00",
       "symbol": "BTC",
@@ -77,15 +86,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.585M원으로 111.5M원 저점에서 반등했지만 아직 112M원 아래입니다. ETH -1.49%, XRP -0.75%, 공포탐욕 27 Fear와 cached defensive 전략을 감안해 현금 100% 방어를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-19T18:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110405152,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.405M원으로 30분 전보다 다시 밀렸고 ETH도 3.401M원으로 -2.50% 약세입니다. 공포탐욕 27 Fear와 cached defensive 전략, 알트 선도 부재를 감안해 현금 100% 방어를 유지합니다."
     }
   ]
 }
