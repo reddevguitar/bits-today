@@ -6,14 +6,14 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T14:09+09:00",
-  "trade_count": 64,
+  "last_updated": "2026-04-19T14:39+09:00",
+  "trade_count": 65,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.859M원으로 112M원 박스를 하향 이탈해 111.5M원 회복 전까지 관망 우선"
+      "reason": "111.0M원 부근 약세 횡보로 111.5M원 회복 안착 전까지 관망 우선"
     },
     {
       "symbol": "ZETA",
@@ -23,12 +23,12 @@
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 알트 동반 회복 확인용, BTC 약세 구간에서는 추격 금지"
+      "reason": "메이저 알트 동반 회복 확인용, 현재 -2.9% 약세라 추격 금지"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 아직 부족"
+      "reason": "국내 유동성 온도계 역할은 유지하지만 -2.3% 약세로 리스크온 신호 부족"
     },
     {
       "symbol": "API3",
@@ -38,10 +38,19 @@
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "cached 전략상 구조 훼손 상태라 90원대 회복 전 추격 금지"
+      "reason": "cached 전략상 구조 훼손 상태라 회복 전 추격 금지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T14:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110993754,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.994M원으로 111M원 부근 약세 횡보를 이어가고 공포탐욕 27 Fear도 유지됩니다. cached 전략 상태가 defensive이며 알트 선도 후보도 비어 있어 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T14:09+09:00",
       "symbol": "BTC",
@@ -122,15 +131,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.462M원으로 소폭 반등했지만 여전히 113M원 아래입니다. 공포탐욕 27 Fear 구간이 유지되고 API3는 529원으로 급락 전환, AXL도 89.9원으로 약세라 현금 100% 방어를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-19T09:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112235000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.235M원으로 다시 눌리고 공포탐욕 27 Fear 구간이 유지됩니다. API3만 단기 강세가 복귀했지만 AXL과 메이저 확산 확인이 부족해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ]
 }
