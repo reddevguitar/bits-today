@@ -6,42 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T21:39+09:00",
-  "trade_count": 78,
+  "last_updated": "2026-04-19T22:09+09:00",
+  "trade_count": 79,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.267M원으로 단기 반등했지만 112.5M원 상단 안착 여부가 다음 방향 확인의 핵심"
-    },
-    {
-      "symbol": "XRP",
-      "market": "KRW-XRP",
-      "reason": "2,121원으로 상대강도는 유지되지만 시장 전체 리스크온 확인 전 추격은 보류"
+      "reason": "112.598M원으로 112.5M원 위를 찍었지만 아직 봉 마감 안착 확인이 필요"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.458M원으로 여전히 약세권이라 메이저 동반 회복 확인용 지표 역할"
+      "reason": "3.477M원, 일간 -0.34%로 메이저 동반 회복 강도는 제한적"
     },
     {
-      "symbol": "ZETA",
-      "market": "KRW-ZETA",
-      "reason": "+3.18% 상대강도는 긍정적이지만 단독 선도주 확정 전까지 감시만 유지"
+      "symbol": "XRP",
+      "market": "KRW-XRP",
+      "reason": "2,133원, 일간 +0.38%로 국내 유동성 온도계 역할 지속"
     },
     {
-      "symbol": "API3",
-      "market": "KRW-API3",
-      "reason": "513원으로 일중 급락 후 구조 불안이 남아 있어 관망 유지"
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "46.3원, 일간 +21.20%로 강하지만 이미 많이 확장돼 추격보다 눌림 확인이 우선"
     },
     {
-      "symbol": "AXL",
-      "market": "KRW-AXL",
-      "reason": "이전 훼손 구조와 변동성 리스크를 감안해 제외 유지"
+      "symbol": "CPOOL",
+      "market": "KRW-CPOOL",
+      "reason": "cached 후보군이지만 이번 회차는 BTC 추세 확인 전 보조 감시만 유지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T22:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112598000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.598M원으로 112.5M원을 소폭 상회했지만 ETH는 -0.34%로 약하고 공포탐욕 27 Fear, cached defensive 전략을 감안하면 봉 마감 안착 확인 전까지 현금 100% 방어가 유리합니다."
+    },
     {
       "timestamp": "2026-04-19T21:39+09:00",
       "symbol": "BTC",
