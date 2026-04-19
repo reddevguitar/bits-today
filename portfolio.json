@@ -6,37 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T12:39+09:00",
-  "trade_count": 61,
+  "last_updated": "2026-04-19T13:09+09:00",
+  "trade_count": 62,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.099M원으로 112M원선을 소폭 회복했지만 113M원 재안착 실패가 이어져 추세 전환 확인 전 재진입 보류"
+      "reason": "112.120M원으로 112M원선 위를 유지하지만 113M원 재안착 실패가 이어져 추세 전환 확인 전 재진입 보류"
+    },
+    {
+      "symbol": "ZETA",
+      "market": "KRW-ZETA",
+      "reason": "84.1원으로 상대강도는 있으나 30분봉 85.5원 돌파 안착 전까지는 관찰 우선"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "513원으로 613원 고점 이후 약세 연장이 지속돼 520원대 안착과 540원대 재가속 전까지 추격 금지"
+      "reason": "512원으로 613원 고점 이후 약세 연장이 지속돼 520원대 안착과 540원대 재가속 전까지 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "87.5원으로 97.6원 고점 후 약세가 지속돼 88원대 안정화와 90원 회복 전 관찰 우선"
+      "reason": "88.4원으로 97.6원 고점 후 약세가 지속돼 90원 회복 전 관찰 우선"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3,476,000원으로 메이저 알트 동반 회복 신호가 아직 부족"
+      "reason": "3,477,000원으로 메이저 알트 동반 회복 신호가 아직 부족"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,125원으로 국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 부족"
+      "reason": "2,123원으로 국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 부족"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T13:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112120000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.120M원으로 112M원선은 지키지만 113M원 회복 실패가 이어집니다. 공포탐욕 27 Fear가 유지되고 API3는 512원, AXL은 88.4원으로 감시 알트 구조도 미복구라 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T12:39+09:00",
       "symbol": "BTC",
