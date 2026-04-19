@@ -6,14 +6,14 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T03:09+09:00",
-  "trade_count": 88,
+  "last_updated": "2026-04-20T03:39+09:00",
+  "trade_count": 89,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.44M원 약세 구간이라 112M원 회복과 113M원 재돌파 확인 전까지 관망"
+      "reason": "111.43M원 약세 구간이라 112M원 회복과 113M원 재돌파 확인 전까지 관망"
     },
     {
       "symbol": "ETH",
@@ -28,7 +28,7 @@
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "강세는 유지되지만 56.6원 고점 후 49원대 박스라 눌림 없는 추격 진입은 비추천"
+      "reason": "51원대 재시도 중이지만 이미 급등 후 변동성이 커 추격 진입은 비추천"
     },
     {
       "symbol": "CPOOL",
@@ -37,6 +37,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T03:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111429000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.43M원으로 112M원 회복에 실패한 채 30분봉 하락 흐름을 이어가고 ETH도 3.419M원으로 더 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T03:09+09:00",
       "symbol": "BTC",
