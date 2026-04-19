@@ -6,37 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T12:09+09:00",
+  "last_updated": "2026-04-19T12:39+09:00",
   "trade_count": 61,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.934M원으로 30분봉 하락 고점 구조가 유지되고 112M원 아래 재이탈이 이어져 113M원 회복 전 재진입 보류"
+      "reason": "112.099M원으로 112M원선을 소폭 회복했지만 113M원 재안착 실패가 이어져 추세 전환 확인 전 재진입 보류"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "509원으로 613원 고점 이후 약세 연장이 지속돼 520원대 안착과 540원대 재가속 전까지 추격 금지"
+      "reason": "513원으로 613원 고점 이후 약세 연장이 지속돼 520원대 안착과 540원대 재가속 전까지 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "87.3원으로 97.6원 고점 후 약세가 지속돼 88원대 안정화와 90원 회복 전 관찰 우선"
+      "reason": "87.5원으로 97.6원 고점 후 약세가 지속돼 88원대 안정화와 90원 회복 전 관찰 우선"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3,467,000원으로 메이저 알트 동반 회복 신호가 아직 부족"
+      "reason": "3,476,000원으로 메이저 알트 동반 회복 신호가 아직 부족"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,120원으로 국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 부족"
+      "reason": "2,125원으로 국내 유동성 온도계 역할은 유지하지만 리스크온 신호는 부족"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T12:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112099000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.099M원으로 112M원선을 소폭 회복했지만 30분봉 기준 추세 반전 확인은 부족합니다. 공포탐욕 27 Fear가 유지되고 API3는 513원, AXL은 87.5원으로 감시 알트도 구조 복귀 전이라 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T12:09+09:00",
       "symbol": "BTC",
@@ -126,15 +135,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.501M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 재가속 부재를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-19T07:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112236000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.236M원으로 113M원 아래 약세 박스권을 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 급등 후 정체를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ]
 }
