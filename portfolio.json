@@ -6,42 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T20:39+09:00",
+  "last_updated": "2026-04-19T21:09+09:00",
   "trade_count": 77,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.032M원으로 112M원은 재터치했지만 종가 안착 확인 전까지는 추격보다 관망이 유리"
-    },
-    {
-      "symbol": "ZETA",
-      "market": "KRW-ZETA",
-      "reason": "84.3원, +3.18%로 상대강도는 유지되지만 메이저 동반 확산 전에는 감시만 유지"
-    },
-    {
-      "symbol": "ETH",
-      "market": "KRW-ETH",
-      "reason": "3.457M원, -0.92%로 BTC 대비 탄력이 여전히 약해 확인 전 추격 금지"
+      "reason": "111.955M원으로 다시 112M원 아래에 있어 재안착 여부가 단기 방향 확인의 핵심"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,120원, -0.24%로 국내 유동성은 유지되지만 알트 확산 신호는 아직 부족"
+      "reason": "2,178원으로 상대강도는 있으나 시장 전체 리스크온 확인 전 추격은 보류"
+    },
+    {
+      "symbol": "ETH",
+      "market": "KRW-ETH",
+      "reason": "메이저 동반 회복 확인 전까지는 확인용 지표 역할에 가깝다"
+    },
+    {
+      "symbol": "ZETA",
+      "market": "KRW-ZETA",
+      "reason": "소형주 감시 후보이지만 메이저 동행 없는 단독 진입 근거는 여전히 약함"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "512원, 거래대금은 크지만 -6.57% 급락 훼손 구조라 반등 확인 전 제외 유지"
+      "reason": "업비트 탐욕권이지만 변동성 과열 구간이라 구조 복구 전 제외 유지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "86.6원, -7.87%로 구조 복구 전까지 추격 금지"
+      "reason": "업비트 탐욕권이지만 변동성 과열과 이전 훼손 구조를 감안해 관망"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T21:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111955000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.955M원으로 다시 112M원 아래에 있고, cached defensive 전략과 상단 안착 실패 흐름을 감안해 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T20:39+09:00",
       "symbol": "BTC",
