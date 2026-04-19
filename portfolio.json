@@ -6,42 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T21:09+09:00",
-  "trade_count": 77,
+  "last_updated": "2026-04-19T21:39+09:00",
+  "trade_count": 78,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.955M원으로 다시 112M원 아래에 있어 재안착 여부가 단기 방향 확인의 핵심"
+      "reason": "112.267M원으로 단기 반등했지만 112.5M원 상단 안착 여부가 다음 방향 확인의 핵심"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,178원으로 상대강도는 있으나 시장 전체 리스크온 확인 전 추격은 보류"
+      "reason": "2,121원으로 상대강도는 유지되지만 시장 전체 리스크온 확인 전 추격은 보류"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 동반 회복 확인 전까지는 확인용 지표 역할에 가깝다"
+      "reason": "3.458M원으로 여전히 약세권이라 메이저 동반 회복 확인용 지표 역할"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "소형주 감시 후보이지만 메이저 동행 없는 단독 진입 근거는 여전히 약함"
+      "reason": "+3.18% 상대강도는 긍정적이지만 단독 선도주 확정 전까지 감시만 유지"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "업비트 탐욕권이지만 변동성 과열 구간이라 구조 복구 전 제외 유지"
+      "reason": "513원으로 일중 급락 후 구조 불안이 남아 있어 관망 유지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "업비트 탐욕권이지만 변동성 과열과 이전 훼손 구조를 감안해 관망"
+      "reason": "이전 훼손 구조와 변동성 리스크를 감안해 제외 유지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T21:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112267000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.267M원으로 반등했지만 112.5M원 상단 안착 확인이 아직 부족하고, 공포탐욕 27 Fear와 cached defensive 전략을 감안해 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T21:09+09:00",
       "symbol": "BTC",
