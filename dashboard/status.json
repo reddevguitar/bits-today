@@ -3,20 +3,20 @@
   "judgment": "bearish",
   "confidence": "medium",
   "suggested_action": "현금 100% 유지, BTC 112M원 회복과 113M원 재돌파, ETH 동행 회복 확인 전까지 HOLD.",
-  "updated_at": "2026-04-20 02:39 KST",
-  "market_status": "BTC는 2026-04-20 02:39 KST 기준 111.83M원으로 최근 30분봉 연속 하락 흐름이 이어지고 ETH 약세가 동반돼 전체 전략은 계속 방어 우위입니다.",
+  "updated_at": "2026-04-20 03:09 KST",
+  "market_status": "BTC는 2026-04-20 03:09 KST 기준 111.44M원으로 112M원 회복에 실패한 채 약세가 이어지고 ETH도 3.422M원으로 더 약해 전체 전략은 계속 방어 우위입니다.",
   "fear_greed": "27 (Fear)",
-  "btc_snapshot": "111.83M원, 24시간 -0.48%, 장중 111.30M원 저점 확인 후 111.8M원대 약세 유지",
+  "btc_snapshot": "111.44M원, 24시간 -0.84%, 장중 111.30M원 저점 확인 후 111.4M원대 약세 지속",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 87,
-  "last_updated": "2026-04-20T02:39+09:00",
+  "trade_count": 88,
+  "last_updated": "2026-04-20T03:09+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 최근 30분봉 연속 하락 마감으로 112M원 아래 약세 흐름입니다.",
+    "단기 차트 요약: BTC는 최근 30분봉 연속 하락 마감으로 111M원대 중반 약세 흐름입니다.",
     "전략 상태 반영 요약: cached 전략 bias는 defensive이며 이번 회차도 현금 방어가 우선입니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
     "코인별 대응 전략 요약: BTC는 112M원 회복과 113M원 재돌파 확인, ETH는 동행 회복 확인용, XRP는 수급 관찰, BLUR는 추격 금지입니다.",
@@ -27,16 +27,20 @@
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-20T02:39+09:00",
+      "timestamp": "2026-04-20T03:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 111830000,
+      "price_krw": 111435000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 111.83M원으로 최근 30분봉 기준 연속 하락 흐름을 이어가고 ETH도 3.437M원으로 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+      "reason": "BTC가 111.44M원으로 112M원 회복에 실패한 채 30분봉 하락 흐름을 이어가고 ETH도 3.422M원으로 더 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-20-0309.md",
+      "title": "2026-04-20-0309"
+    },
     {
       "file": "2026-04-20-0239.md",
       "title": "2026-04-20-0239"
@@ -72,10 +76,6 @@
     {
       "file": "2026-04-19-2239.md",
       "title": "2026-04-19-2239"
-    },
-    {
-      "file": "2026-04-19-2209.md",
-      "title": "2026-04-19-2209"
     }
   ],
   "positions": []
