@@ -6,42 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T14:39+09:00",
-  "trade_count": 65,
+  "last_updated": "2026-04-19T15:09+09:00",
+  "trade_count": 66,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.0M원 부근 약세 횡보로 111.5M원 회복 안착 전까지 관망 우선"
+      "reason": "112.1M원 반등은 나왔지만 113M원 재안착 전까지는 관망 우선"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "cached 전략상 상대강도 감시 대상이지만 단기 돌파 확인 전까지는 보수적으로 관찰"
+      "reason": "상대강도는 유지되나 확정 돌파와 추세 지속성 확인 전까지는 보수적 감시"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 알트 동반 회복 확인용, 현재 -2.9% 약세라 추격 금지"
+      "reason": "메이저 알트 동반 회복 확인용, 현재 -0.77%로 추격 금지"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 유동성 온도계 역할은 유지하지만 -2.3% 약세로 리스크온 신호 부족"
+      "reason": "국내 유동성 온도계 역할은 유지하지만 -0.24%로 리스크온 신호 부족"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "cached 전략상 구조 훼손 상태라 반등 확인 전 제외"
+      "reason": "-9.85% 급락 구조로 반등 확인 전 제외 유지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "cached 전략상 구조 훼손 상태라 회복 전 추격 금지"
+      "reason": "-8.51% 급락 구조로 회복 전 추격 금지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T15:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112098000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.098M원으로 저점권에서 소폭 반등했지만 113M원 재안착은 실패 중입니다. 공포탐욕 27 Fear, defensive cached 전략, 알트 선도 부재를 감안해 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T14:39+09:00",
       "symbol": "BTC",
