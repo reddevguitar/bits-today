@@ -6,19 +6,19 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T07:39+09:00",
-  "trade_count": 93,
+  "last_updated": "2026-04-20T08:09+09:00",
+  "trade_count": 94,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.498M원으로 111M원 아래 유지, 최소 111M원 재회복과 112M원 안착 확인 전까지 관망"
+      "reason": "110.144M원으로 111M원 아래 유지, 최소 111M원 재회복과 112M원 안착 확인 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.389M원으로 BTC보다 더 약세, 메이저 동행 회복 확인용"
+      "reason": "3.370M원으로 BTC보다 더 약세, 메이저 동행 회복 확인용"
     },
     {
       "symbol": "XRP",
@@ -28,7 +28,7 @@
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "49.1원으로 상대강도는 있으나 최근 6개 30분봉이 하락 추세라 추격 금지"
+      "reason": "49.2원으로 상대강도는 있으나 최근 6개 30분봉 기준 하락 추세라 추격 금지"
     },
     {
       "symbol": "CPOOL",
@@ -42,6 +42,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T08:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110144000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.144M원으로 111M원 아래 약세를 이어가고 ETH도 3.370M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T07:39+09:00",
       "symbol": "BTC",
@@ -122,24 +131,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.43M원으로 112M원 회복에 실패한 채 30분봉 하락 흐름을 이어가고 ETH도 3.419M원으로 더 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T03:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111435000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.44M원으로 112M원 회복에 실패한 채 30분봉 하락 흐름을 이어가고 ETH도 3.422M원으로 더 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T02:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111830000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.83M원으로 최근 30분봉 기준 연속 하락 흐름을 이어가고 ETH도 3.437M원으로 약해 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
     }
   ]
 }
