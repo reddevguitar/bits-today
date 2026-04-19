@@ -6,42 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T15:09+09:00",
-  "trade_count": 66,
+  "last_updated": "2026-04-19T15:39+09:00",
+  "trade_count": 67,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.1M원 반등은 나왔지만 113M원 재안착 전까지는 관망 우선"
+      "reason": "110.7M원대로 재차 밀려 111M원대 회복 전까지는 관망 우선"
     },
     {
       "symbol": "ZETA",
       "market": "KRW-ZETA",
-      "reason": "상대강도는 유지되나 확정 돌파와 추세 지속성 확인 전까지는 보수적 감시"
+      "reason": "전략 감시 후보지만 시장 전체 약세라 돌파 확인 전까지 보수적 감시"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 알트 동반 회복 확인용, 현재 -0.77%로 추격 금지"
+      "reason": "메이저 알트 동반 회복 확인용, 현재 약세 폭이 더 커 추격 금지"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 유동성 온도계 역할은 유지하지만 -0.24%로 리스크온 신호 부족"
+      "reason": "국내 유동성 온도계 역할은 유지하지만 리스크온 확산 신호 부족"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "-9.85% 급락 구조로 반등 확인 전 제외 유지"
+      "reason": "급락 훼손 구조 지속으로 반등 확인 전 제외 유지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "-8.51% 급락 구조로 회복 전 추격 금지"
+      "reason": "급락 훼손 구조 지속으로 회복 전 추격 금지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T15:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110744143,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.744M원으로 직전 반등분을 반납했고 공포탐욕 27 Fear도 유지됩니다. cached 전략 상태가 defensive이며 알트 선도 후보도 비어 있어 현금 100% 방어를 유지합니다."
+    },
     {
       "timestamp": "2026-04-19T15:09+09:00",
       "symbol": "BTC",
@@ -122,24 +131,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.109M원으로 30분봉 lower high를 이어가며 112.0M원대를 재시험 중입니다. 공포탐욕 27 Fear가 유지되고 API3는 520원, AXL은 88.0원으로 감시 알트까지 실패 흐름이라 현금 100% 방어를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-19T10:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112131000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.131M원으로 112.6M원 반등 실패 후 다시 밀렸습니다. 공포탐욕 27 Fear가 유지되고 API3는 523원, AXL은 88.9원으로 감시 알트까지 약세라 현금 100% 방어를 유지합니다."
-    },
-    {
-      "timestamp": "2026-04-19T10:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112462000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.462M원으로 소폭 반등했지만 여전히 113M원 아래입니다. 공포탐욕 27 Fear 구간이 유지되고 API3는 529원으로 급락 전환, AXL도 89.9원으로 약세라 현금 100% 방어를 유지합니다."
     }
   ]
 }
