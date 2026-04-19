@@ -6,24 +6,24 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T09:09+09:00",
-  "trade_count": 56,
+  "last_updated": "2026-04-19T09:39+09:00",
+  "trade_count": 57,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.501M원으로 단기 반등 중이지만 113.1M원 회복 전까지 재진입 보류"
+      "reason": "112.235M원으로 재차 눌리며 113.1M원 회복 전까지 재진입 보류"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "562원 반등이 나왔지만 580원대 안착과 600원 재돌파 확인 전 추격 금지"
+      "reason": "603원으로 600원 재돌파는 긍정적이지만 590원대 지지 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "92.2원으로 최근 30분봉 구조가 약해 95원 회복 전 관찰 우선"
+      "reason": "92.6원으로 구조가 약해 95원 회복 전 관찰 우선"
     },
     {
       "symbol": "ETH",
@@ -33,10 +33,19 @@
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 유동성 온도계, 2,130원대 혼조라 알트 확대 진입 계속 보류"
+      "reason": "국내 유동성 온도계, 2,123원대로 알트 확대 진입 계속 보류"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T09:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112235000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.235M원으로 다시 눌리고 공포탐욕 27 Fear 구간이 유지됩니다. API3만 단기 강세가 복귀했지만 AXL과 메이저 확산 확인이 부족해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-19T09:09+09:00",
       "symbol": "BTC",
