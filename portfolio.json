@@ -6,37 +6,46 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-19T08:39+09:00",
-  "trade_count": 55,
+  "last_updated": "2026-04-19T09:09+09:00",
+  "trade_count": 56,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.425M원으로 113.1M원 회복 실패가 이어져 재진입 보류"
+      "reason": "112.501M원으로 단기 반등 중이지만 113.1M원 회복 전까지 재진입 보류"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "552원으로 강세 잔존하지만 최근 30분봉 하락이 이어져 620원 이상 재가속 확인 전 추격 금지"
+      "reason": "562원 반등이 나왔지만 580원대 안착과 600원 재돌파 확인 전 추격 금지"
     },
     {
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "reason": "93.0원으로 상대강도는 남았지만 95원 회복과 유지 전까지 관찰 우선"
+      "reason": "92.2원으로 최근 30분봉 구조가 약해 95원 회복 전 관찰 우선"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "메이저 알트 회복 확인용 보조 지표, 현재 BTC보다 약함"
+      "reason": "메이저 알트 회복 확인용 보조 지표, 아직 강한 확산 신호 부족"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 유동성 온도계, 2130원대 약세 지속 시 알트 진입 계속 보류"
+      "reason": "국내 유동성 온도계, 2,130원대 혼조라 알트 확대 진입 계속 보류"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-19T09:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 112501000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.501M원으로 소폭 반등했지만 여전히 113M원 아래입니다. 공포탐욕 27 Fear 구간과 메이저 확산 부재, API3의 확인 부족, AXL 약세를 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
+    },
     {
       "timestamp": "2026-04-19T08:39+09:00",
       "symbol": "BTC",
@@ -126,15 +135,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 112.354M원으로 일중 저점 112.0M원 부근에서 소폭 반등했지만 여전히 113M원 아래입니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL 급등 후 눌림을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
-    },
-    {
-      "timestamp": "2026-04-19T03:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 112062000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 112.062M원으로 추가 하락하며 113M원 아래 약세 구조를 이어가고 있습니다. ETH·XRP 동반 약세와 공포탐욕 26 Fear 구간, API3·AXL의 고점 대비 되밀림을 감안해 현금 100% 방어를 유지하고 재진입을 계속 보류합니다."
     }
   ]
 }
