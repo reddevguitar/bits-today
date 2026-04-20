@@ -16,7 +16,10 @@
       "last_price_krw": 207.0,
       "value_krw": 1950000.0,
       "thesis": "업비트 최강 추세형",
-      "strategy": "breakout momentum core"
+      "strategy": "breakout momentum core",
+      "role": "momentum core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14
     },
     "CHZ": {
       "market": "KRW-CHZ",
@@ -25,7 +28,10 @@
       "last_price_krw": 66.3,
       "value_krw": 1852794.56,
       "thesis": "거래대금 동반 2차 순환",
-      "strategy": "momentum follow"
+      "strategy": "momentum follow",
+      "role": "rotation follow",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     },
     "PIEVERSE": {
       "market": "KRW-PIEVERSE",
@@ -34,7 +40,10 @@
       "last_price_krw": 1384.0,
       "value_krw": 1800000.0,
       "thesis": "거래대금 1위 반전 시도",
-      "strategy": "high-liquidity reversal"
+      "strategy": "high-liquidity reversal",
+      "role": "liquidity reversal",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     },
     "DOGE": {
       "market": "KRW-DOGE",
@@ -43,7 +52,10 @@
       "last_price_krw": 140.0,
       "value_krw": 1687943.26,
       "thesis": "리테일 베타 노출",
-      "strategy": "beta trend"
+      "strategy": "beta trend",
+      "role": "beta amplifier",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 13
     },
     "BLUR": {
       "market": "KRW-BLUR",
@@ -52,7 +64,10 @@
       "last_price_krw": 48.2,
       "value_krw": 1503118.5,
       "thesis": "눌림 반등 실험",
-      "strategy": "rebound probe"
+      "strategy": "rebound probe",
+      "role": "rebound probe",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [

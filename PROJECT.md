@@ -9,6 +9,7 @@ Every 6 hours, the agent runs a full strategy cycle:
 - excludes the top 4 largest Upbit majors from alt-pick selection
 - compares candidate coins using price action, turnover, news, community attention, and internal judgment
 - maintains a constantly refreshed list of 5 preferred buy candidates
+- assigns candidate roles, paper allocations, and invalidation triggers
 - updates a paper portfolio with active, diversified, aggressive positioning
 - writes a concise Korean report and upgrades the dashboard/UI when useful
 
@@ -48,3 +49,4 @@ The dashboard should evolve toward a compact portal experience:
 - at-a-glance strategy state
 - easy comparison of 5 preferred picks
 - visible notes on what improved this cycle
+- compact scorecard, risk-plan, and rotation-bucket visibility

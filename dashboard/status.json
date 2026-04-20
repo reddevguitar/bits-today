@@ -160,9 +160,9 @@
       "last_price_krw": "207 KRW",
       "thesis": "업비트 최강 추세형",
       "strategy": "breakout momentum core",
-      "role": "-",
-      "risk_limit_pct": null,
-      "profit_take_pct": null
+      "role": "momentum core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14
     },
     {
       "icon": "⚽",
@@ -173,9 +173,9 @@
       "last_price_krw": "66 KRW",
       "thesis": "거래대금 동반 2차 순환",
       "strategy": "momentum follow",
-      "role": "-",
-      "risk_limit_pct": null,
-      "profit_take_pct": null
+      "role": "rotation follow",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     },
     {
       "icon": "🥧",
@@ -186,9 +186,9 @@
       "last_price_krw": "1,384 KRW",
       "thesis": "거래대금 1위 반전 시도",
       "strategy": "high-liquidity reversal",
-      "role": "-",
-      "risk_limit_pct": null,
-      "profit_take_pct": null
+      "role": "liquidity reversal",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     },
     {
       "icon": "🐕",
@@ -199,9 +199,9 @@
       "last_price_krw": "140 KRW",
       "thesis": "리테일 베타 노출",
       "strategy": "beta trend",
-      "role": "-",
-      "risk_limit_pct": null,
-      "profit_take_pct": null
+      "role": "beta amplifier",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 13
     },
     {
       "icon": "🌫️",
@@ -212,9 +212,9 @@
       "last_price_krw": "48 KRW",
       "thesis": "눌림 반등 실험",
       "strategy": "rebound probe",
-      "role": "-",
-      "risk_limit_pct": null,
-      "profit_take_pct": null
+      "role": "rebound probe",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
     }
   ],
   "chart_series": {
