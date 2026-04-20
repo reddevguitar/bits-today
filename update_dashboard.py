@@ -34,6 +34,20 @@ def icon_for(symbol):
     return ICONS.get(symbol, '🪙')
 
 
+def parse_report_sections(text):
+    sections = {}
+    current = None
+    for raw in text.splitlines():
+        line = raw.rstrip()
+        if line.startswith('## '):
+            current = line.replace('## ', '').strip()
+            sections[current] = []
+            continue
+        if current:
+            sections[current].append(line)
+    return {k: [line for line in v if line.strip()] for k, v in sections.items()}
+
+
 reports = sorted(REPORTS.glob('*.md'))
 latest_report = reports[-1] if reports else None
 portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
@@ -43,6 +57,11 @@ history = portfolio.get('history', []) or []
 preferred = strategy.get('preferred_buy_candidates') or []
 watchlist = portfolio.get('watchlist', []) or strategy.get('watchlist', []) or []
 improvements = strategy.get('improvement_log', []) or []
+risk_plan = strategy.get('risk_plan', {}) or {}
+scorecard = strategy.get('scorecard', {}) or {}
+rotation_map = strategy.get('rotation_map', []) or []
+self_evaluation = strategy.get('self_evaluation', {}) or {}
+sections = {}
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -75,7 +94,10 @@ status = {
             'reason': item.get('reason', '-'),
             'score': item.get('score'),
             'community': item.get('community'),
-            'risk': item.get('risk')
+            'risk': item.get('risk'),
+            'allocation_krw': item.get('allocation_krw'),
+            'role': item.get('role'),
+            'invalidated_if': item.get('invalidated_if')
         }
         for item in preferred[:5]
     ],
@@ -91,6 +113,11 @@ status = {
     'cycle_improvements': improvements[:5],
     'top_line': strategy.get('top_line', '6시간 단위 자율 전략 개선 루프 실행 중'),
     'ui_version': strategy.get('ui_version', 'v2'),
+    'risk_plan': risk_plan,
+    'scorecard': scorecard,
+    'rotation_map': rotation_map,
+    'self_evaluation': self_evaluation,
+    'report_sections': sections,
 }
 
 for symbol, pos in positions.items():
@@ -103,6 +130,9 @@ for symbol, pos in positions.items():
         'last_price_krw': fmt_krw(pos.get('last_price_krw', 0)),
         'thesis': pos.get('thesis', '-'),
         'strategy': pos.get('strategy', '-'),
+        'role': pos.get('role', '-'),
+        'risk_limit_pct': pos.get('risk_limit_pct'),
+        'profit_take_pct': pos.get('profit_take_pct')
     })
 
 for item in history[-30:]:
@@ -115,6 +145,8 @@ for item in history[-30:]:
 
 if latest_report and latest_report.exists():
     text = latest_report.read_text()
+    sections = parse_report_sections(text)
+    status['report_sections'] = sections
     (DASH / 'latest-report.md').write_text(text)
     lines = text.splitlines()
     for line in lines:

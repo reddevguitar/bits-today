@@ -4,9 +4,9 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 1267231.29,
   "realized_pnl_krw": 67429.69,
-  "last_valuation_krw": 10067231.29,
-  "last_action": "BUY_DIVERSIFIED",
-  "last_updated": "2026-04-21T02:00:00+09:00",
+  "last_valuation_krw": 10061087.62,
+  "last_action": "HOLD_POSITIONS",
+  "last_updated": "2026-04-21T02:05:00+09:00",
   "trade_count": 128,
   "positions": {
     "SUPER": {
@@ -22,8 +22,8 @@
       "market": "KRW-CHZ",
       "amount": 27945.61933535,
       "avg_buy_price_krw": 66.2,
-      "last_price_krw": 66.2,
-      "value_krw": 1850000.0,
+      "last_price_krw": 66.3,
+      "value_krw": 1852794.56,
       "thesis": "거래대금 동반 2차 순환",
       "strategy": "momentum follow"
     },
@@ -40,8 +40,8 @@
       "market": "KRW-DOGE",
       "amount": 12056.73758865,
       "avg_buy_price_krw": 141.0,
-      "last_price_krw": 141.0,
-      "value_krw": 1700000.0,
+      "last_price_krw": 140.0,
+      "value_krw": 1687943.26,
       "thesis": "리테일 베타 노출",
       "strategy": "beta trend"
     },
@@ -49,8 +49,8 @@
       "market": "KRW-BLUR",
       "amount": 31185.03118503,
       "avg_buy_price_krw": 48.1,
-      "last_price_krw": 48.1,
-      "value_krw": 1500000.0,
+      "last_price_krw": 48.2,
+      "value_krw": 1503118.5,
       "thesis": "눌림 반등 실험",
       "strategy": "rebound probe"
     }
@@ -59,12 +59,12 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.633M원, 메이저 지지 확인용"
+      "reason": "111.712M원, 메이저 지지 확인용"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.411M원, 대형주 체력 확인용"
+      "reason": "3.415M원, 대형주 체력 확인용"
     },
     {
       "symbol": "XRP",
@@ -83,6 +83,15 @@
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-21T02:05:00+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 10061087.62,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "직전 5종 분산 진입 뒤 5분 재점검에서 메이저 강보합과 업비트 상위 거래대금 구성이 유지돼 신규 교체 없이 보유 지속"
+    },
     {
       "timestamp": "2026-04-21T02:00:00+09:00",
       "symbol": "SUPER",
@@ -163,24 +172,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 110.917M원으로 23시 반등분을 반납했고 111M원선 아래로 재차 밀려 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T23:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111834000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.834M원으로 직전 약세 뒤 반등했지만 112.0M원대 저항 안착이 없고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T23:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111455000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.455M원으로 112.208M원 저항 돌파에 다시 실패했고 최근 30분봉도 낮아지는 고점 흐름이라 이번 회차도 현금 100% 유지가 유리합니다."
     }
   ]
 }
