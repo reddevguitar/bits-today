@@ -1,53 +1,50 @@
 # bit's today
 
 ## Goal
-Build a simple Bitcoin monitoring and decision-support agent.
+Build an aggressive Upbit-centered crypto decision-support and paper-trading agent.
 
 ## What it does
-Every 2 hours, the agent checks:
-- Bitcoin price status and recent movement
-- Major Bitcoin-related news
-- Market chart context / trend clues
-- Notable public-figure investment news when relevant
-  - Example: Trump family / Trump-linked crypto or Bitcoin investment news
-  - Skip this section when there is no meaningful fresh news
-
-Then it produces:
-- a short market summary
-- a tentative investment judgment
-- a confidence note
-- clear reasons
+Every 6 hours, the agent runs a full strategy cycle:
+- scans Upbit market leaders and fast-moving altcoins
+- excludes the top 4 largest Upbit majors from alt-pick selection
+- compares candidate coins using price action, turnover, news, community attention, and internal judgment
+- maintains a constantly refreshed list of 5 preferred buy candidates
+- updates a paper portfolio with active, diversified, aggressive positioning
+- writes a concise Korean report and upgrades the dashboard/UI when useful
 
 ## Important boundary
-This is decision support plus paper trading.
+This is still decision support plus paper trading.
 Actual exchange execution remains manual. The agent may simulate trades in a virtual portfolio, but must not place real trades.
 
 ## Virtual portfolio
 - Starting capital: 10,000,000 KRW
-- The agent updates a paper portfolio whenever a new report is generated
-- Each report must include the simulated action and portfolio status
+- The agent updates a paper portfolio whenever a new 6-hour cycle is generated
+- Each report must include simulated action and portfolio status
+- The strategy should avoid passive all-cash behavior unless the market is clearly broken
 
 ## Cadence
-- Run every 2 hours
+- Single major strategy cycle every 6 hours
 - Save each report to `reports/`
+- Each cycle should also propose and apply at least one improvement to analysis quality, selection logic, dashboard clarity, or presentation when feasible
 
-## First version output format
-Each run should produce:
-1. Timestamp
-2. BTC price snapshot
-3. Trend summary
-4. News summary
-5. Notable investor / public figure note if any
-6. Judgment: bullish / bearish / neutral
-7. Confidence: low / medium / high
-8. Reasoning bullets
-9. Suggested action: buy small / hold / wait / reduce risk
-10. Virtual trade action
-11. Portfolio snapshot
+## Output priorities
+1. Convenient, easy-to-scan new information
+2. Simple strategy and direction updates
+3. Aggressive and diversified investing, not passive waiting
+4. Continuous learning from market data, news, search, and community flow
+5. Honest self-evaluation and continuous program improvement
 
-## Next steps
-- Create reporting prompt / workflow
-- Set up recurring 2-hour job
-- Decide data sources
-- Add simple scoring logic
-- Track paper portfolio performance over time
+## Core selection rules
+- Always maintain 5 preferred buy candidates
+- Focus on Upbit-listed altcoins
+- Exclude the top 4 largest Upbit majors from the preferred alt-buy list
+- Keep majors visible as reference signals, but not as alt picks
+- Use community/news/search inputs when they materially help
+- Prefer fresh, comparative judgment over static watchlists
+
+## Dashboard direction
+The dashboard should evolve toward a compact portal experience:
+- icon-rich candidate list
+- at-a-glance strategy state
+- easy comparison of 5 preferred picks
+- visible notes on what improved this cycle

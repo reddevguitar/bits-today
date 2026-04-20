@@ -6,6 +6,20 @@ BASE = Path('/Users/reddevguitar/.openclaw/workspace/bits-today')
 REPORTS = BASE / 'reports'
 DASH = BASE / 'dashboard'
 PORTFOLIO = BASE / 'portfolio.json'
+STRATEGY = BASE / 'strategy-state.json'
+
+ICONS = {
+    'BTC': '₿',
+    'ETH': '◆',
+    'XRP': '💧',
+    'SOL': '☀️',
+    'DOGE': '🐕',
+    'SUPER': '🦸',
+    'CHZ': '⚽',
+    'BLUR': '🌫️',
+    'CFG': '🏗️',
+    'PIVERSE': '🪐'
+}
 
 
 def fmt_krw(value):
@@ -13,21 +27,30 @@ def fmt_krw(value):
         return f"{value:,.0f} KRW"
     return str(value)
 
+
+def icon_for(symbol):
+    return ICONS.get(symbol, '🪙')
+
+
 reports = sorted(REPORTS.glob('*.md'))
 latest_report = reports[-1] if reports else None
 portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
+strategy = json.loads(STRATEGY.read_text()) if STRATEGY.exists() else {}
 positions = portfolio.get('positions', {}) or {}
 history = portfolio.get('history', []) or []
+preferred = strategy.get('preferred_buy_candidates') or []
+watchlist = portfolio.get('watchlist', []) or strategy.get('watchlist', []) or []
+improvements = strategy.get('improvement_log', []) or []
 
 status = {
     'project': portfolio.get('project', "bit's today"),
-    'judgment': 'unknown',
-    'confidence': 'unknown',
-    'suggested_action': 'unknown',
+    'judgment': strategy.get('overall_bias', 'unknown'),
+    'confidence': strategy.get('confidence', 'unknown'),
+    'suggested_action': 'aggressive diversified paper trading with refreshed alt focus',
     'updated_at': None,
-    'market_status': '데이터 없음',
-    'fear_greed': '데이터 없음',
-    'btc_snapshot': '데이터 없음',
+    'market_status': strategy.get('major_coin_summary', '데이터 없음'),
+    'fear_greed': strategy.get('fear_greed', '데이터 없음'),
+    'btc_snapshot': strategy.get('btc_reference', '데이터 없음'),
     'cash_krw': fmt_krw(portfolio.get('cash_krw', 0)),
     'realized_pnl_krw': fmt_krw(portfolio.get('realized_pnl_krw', 0)),
     'last_valuation_krw': fmt_krw(portfolio.get('last_valuation_krw', 0)),
@@ -42,10 +65,35 @@ status = {
     'positions': [],
     'chart_series': {},
     'latest_report_file': latest_report.name if latest_report else None,
+    'preferred_buy_candidates': [
+        {
+            'icon': icon_for(item.get('symbol', '')),
+            'symbol': item.get('symbol', '-'),
+            'market': item.get('market', '-'),
+            'reason': item.get('reason', '-'),
+            'score': item.get('score'),
+            'community': item.get('community'),
+            'risk': item.get('risk')
+        }
+        for item in preferred[:5]
+    ],
+    'reference_watchlist': [
+        {
+            'icon': icon_for(item.get('symbol', '')),
+            'symbol': item.get('symbol', '-'),
+            'market': item.get('market', '-'),
+            'reason': item.get('reason', '-')
+        }
+        for item in watchlist[:8]
+    ],
+    'cycle_improvements': improvements[:5],
+    'top_line': strategy.get('top_line', '6시간 단위 자율 전략 개선 루프 실행 중'),
+    'ui_version': strategy.get('ui_version', 'v2'),
 }
 
 for symbol, pos in positions.items():
     status['positions'].append({
+        'icon': icon_for(symbol),
         'symbol': symbol,
         'market': pos.get('market', '-'),
         'amount': pos.get('amount', 0),
@@ -70,12 +118,14 @@ if latest_report and latest_report.exists():
     for line in lines:
         if line.startswith('- 시각: '):
             status['updated_at'] = line.replace('- 시각: ', '').strip()
-        elif line.startswith('- BTC 스냅샷: '):
-            status['btc_snapshot'] = line.replace('- BTC 스냅샷: ', '').strip()
-        elif line.startswith('- 현재 시황: '):
-            status['market_status'] = line.replace('- 현재 시황: ', '').strip()
+        elif line.startswith('- 기준 한줄: '):
+            status['top_line'] = line.replace('- 기준 한줄: ', '').strip()
+        elif line.startswith('- 시장 한줄 요약: '):
+            status['market_status'] = line.replace('- 시장 한줄 요약: ', '').strip()
         elif line.startswith('- 공포탐욕지수: '):
             status['fear_greed'] = line.replace('- 공포탐욕지수: ', '').strip()
+        elif line.startswith('- BTC 참고: '):
+            status['btc_snapshot'] = line.replace('- BTC 참고: ', '').strip()
         elif line.startswith('- 판단: '):
             status['judgment'] = line.replace('- 판단: ', '').strip()
         elif line.startswith('- 신뢰도: '):
@@ -86,4 +136,7 @@ if latest_report and latest_report.exists():
             status['summary'].append(line[2:])
 
 (DASH / 'status.json').write_text(json.dumps(status, ensure_ascii=False, indent=2))
+(BASE / 'status.json').write_text(json.dumps(status, ensure_ascii=False, indent=2))
+if latest_report and latest_report.exists():
+    (BASE / 'latest-report.md').write_text(latest_report.read_text())
 print('dashboard updated')
