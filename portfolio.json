@@ -6,57 +6,66 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T10:39+09:00",
+  "last_updated": "2026-04-20T11:09+09:00",
   "trade_count": 98,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.072M원으로 111M원 재돌파 실패, 확인 전까지 관망"
+      "reason": "111.019M원 재회복 중이나 30분봉 안착 확인 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.379M원으로 3.40M원 회복 실패, BTC 동행 확인용"
+      "reason": "3.400M원 회복으로 BTC 동행 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,079.9원으로 국내 유동성 온도계 역할 지속"
+      "reason": "2,096원으로 국내 유동성 온도계 역할 지속"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "cached 후보 유지 가능하지만 실시간 돌파 확인 전 추격 보류"
+      "reason": "후보 유지 가능하나 최근 30분봉 2개 조정이라 추격 금지"
     },
     {
       "symbol": "MOVE",
       "market": "KRW-MOVE",
-      "reason": "체급은 크지만 단기 가속 재확인 전까지 관찰만"
+      "reason": "반등 탄력 약해 관찰 우선"
     },
     {
       "symbol": "SOON",
       "market": "KRW-SOON",
-      "reason": "고변동성 후보, 신뢰도 낮아 보수적 접근 필요"
+      "reason": "단기 하락 전환으로 보수적 관찰만"
     },
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "약세 지속 가정, 반등 확인 전 배제 우선"
+      "reason": "약세 지속, 반등 확인 전 배제 우선"
     },
     {
       "symbol": "CPOOL",
       "market": "KRW-CPOOL",
-      "reason": "추가 거래 집중 확인 전까지 대기"
+      "reason": "저가권 반등은 있으나 주도 전환 확인 전 대기"
     },
     {
       "symbol": "CFG",
       "market": "KRW-CFG",
-      "reason": "전고점 재도전 확인 전까지 관찰"
+      "reason": "강하지만 소형 변동성 커 확인 없는 추격 금지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T11:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111019000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.019M원으로 111M원을 다시 회복했지만 아직 11:00 30분봉 초반이라 돌파 확정으로 보기 이르고, 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T10:39+09:00",
       "symbol": "BTC",
