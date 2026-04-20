@@ -6,19 +6,19 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T18:39+09:00",
-  "trade_count": 111,
+  "last_updated": "2026-04-20T19:09+09:00",
+  "trade_count": 112,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.591M원, 112.208M원 재돌파 안착 전까지는 관망"
+      "reason": "111.764M원, 112.208M원 재돌파 및 안착 확인 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.432M원으로 동행 반등 중이나 BTC 돌파 확인이 먼저 필요"
+      "reason": "3.437M원으로 동행 반등 중이나 BTC 돌파 확인이 먼저 필요"
     },
     {
       "symbol": "XRP",
@@ -26,22 +26,31 @@
       "reason": "국내 거래대금 강세 지속 여부 확인용 보조 지표"
     },
     {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "전략상 최우선 알트 감시, 446원 재돌파 전 추격 금지"
-    },
-    {
       "symbol": "SUPER",
       "market": "KRW-SUPER",
-      "reason": "216원까지 급등했지만 눌림 없는 추격 보류"
+      "reason": "208원 수준, 강한 모멘텀이지만 눌림 없는 추격 금지"
+    },
+    {
+      "symbol": "PIVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "전략 상태상 유동성 집중 후보, 단기 눌림 뒤 재가속 여부 관찰"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "178원, 순환 자금 잔존 여부만 관찰"
+      "reason": "순환 자금 잔존 여부만 관찰"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T19:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111764000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.764M원으로 완만한 반등을 이어가지만 112.208M원 재돌파 안착은 아직 없고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T18:39+09:00",
       "symbol": "BTC",
@@ -86,15 +95,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.388M원, ETH가 3.420M원으로 메이저 반등이 강화됐지만 공포탐욕 29 Fear와 BTC의 112.2M원 재돌파 미확인 상태를 감안해 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T16:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111101000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.101M원으로 111M원선을 회복했지만 ETH가 3.397M원으로 아직 3.40M원 아래입니다. 공포탐욕 29 Fear와 cached cautious neutral bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
     }
   ]
 }
