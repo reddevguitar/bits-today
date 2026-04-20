@@ -2,21 +2,21 @@
   "project": "bit's today",
   "judgment": "neutral",
   "confidence": "medium",
-  "suggested_action": "HOLD. 현금 100% 유지. BTC가 112.2M원 위로 재돌파 후 30분봉 안착하거나, SUPER가 눌림 뒤 거래대금 동반 재가속을 보일 때만 소액 진입 검토.",
-  "updated_at": "2026-04-20 22:39 KST",
-  "market_status": "메이저는 완만한 강세를 유지하지만 BTC가 112.2M원 위로 안착하지 못하고 다시 눌려 단기 추격 매수보다 관망이 유리합니다.",
+  "suggested_action": "HOLD. 현금 100% 유지. BTC가 112.2M원 위로 재돌파 후 30분봉 안착하거나, 알트가 눌림 뒤 거래대금 동반 재가속을 보일 때만 소액 진입 검토.",
+  "updated_at": "2026-04-20 23:09 KST",
+  "market_status": "메이저는 플러스권을 유지하지만 BTC가 112.2M원 저항 아래에서 다시 밀려 단기 추격 매수보다 관망이 유리합니다.",
   "fear_greed": "29 (Fear)",
-  "btc_snapshot": "111.713M원, +1.54%, 고가 112.208M원 아래",
+  "btc_snapshot": "111.455M원, +1.30%, 고가 112.208M원 아래",
   "cash_krw": "10,067,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
   "last_action": "HOLD",
-  "trade_count": 117,
-  "last_updated": "2026-04-20T22:39+09:00",
+  "trade_count": 118,
+  "last_updated": "2026-04-20T23:09+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 110.0M원 저점 대비 반등을 유지했지만 112.208M원 저항 안착에는 다시 실패했습니다.",
+    "단기 차트 요약: BTC는 최근 30분봉에서 낮아지는 고점 흐름을 보이며 112.208M원 저항 돌파에 다시 실패했습니다.",
     "전략 상태 반영 요약: cached 전략 bias는 cautious neutral to slightly constructive이며, 메이저 우위와 선별적 알트 순환 해석을 유지합니다.",
     "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
     "코인별 대응 전략 요약: BTC 재돌파 확인 전 관망, ETH는 동행 확인용, SUPER는 눌림 재가속 전 추격 금지, PIVERSE와 CHZ는 감시 유지입니다.",
@@ -26,6 +26,15 @@
     "주의사항: 실거래가 아닌 가상 기록이며, 실제 체결 전에는 실시간 가격과 30분봉 마감 상태를 다시 확인해야 합니다."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-20T23:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111455000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.455M원으로 112.208M원 저항 돌파에 다시 실패했고 최근 30분봉도 낮아지는 고점 흐름이라 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T22:39+09:00",
       "symbol": "BTC",
@@ -61,18 +70,13 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.800M원으로 소폭 회복했지만 112.208M원 재돌파 안착이 없고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T20:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111650000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.650M원으로 완만한 반등은 이어가지만 112.208M원 재돌파 안착이 없고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-20-2309.md",
+      "title": "2026-04-20-2309"
+    },
     {
       "file": "2026-04-20-2239.md",
       "title": "2026-04-20-2239"
@@ -108,10 +112,6 @@
     {
       "file": "2026-04-20-1839.md",
       "title": "2026-04-20-1839"
-    },
-    {
-      "file": "2026-04-20-1809.md",
-      "title": "2026-04-20-1809"
     }
   ],
   "positions": []
