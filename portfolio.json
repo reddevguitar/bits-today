@@ -6,8 +6,8 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T14:09+09:00",
-  "trade_count": 103,
+  "last_updated": "2026-04-20T14:39+09:00",
+  "trade_count": 104,
   "positions": {},
   "watchlist": [
     {
@@ -23,25 +23,34 @@
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "상대강도는 약화, 시장 확산 확인 전 온도계로만 활용"
+      "reason": "상대강도는 유지되나 확산장 확인 전 온도계로만 활용"
     },
     {
       "symbol": "CFG",
       "market": "KRW-CFG",
-      "reason": "430원대 지지와 446원 돌파 동시 확인 전 추격 금지"
+      "reason": "430원대 지지 재확인과 446원 돌파 동시 확인 전 추격 금지"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "cached 후보지만 short-term 확인 부족, 추격 금지"
+      "reason": "상대강도는 있으나 short-term 돌파 확인 부족, 감시만 유지"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "강세 이력은 있으나 변동성 과대, 보수적 관찰만"
+      "reason": "단기 탄력은 있으나 변동성 과대, 보수적 관찰만"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T14:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110333000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.333M원으로 14시 이후 다시 눌리며 110.8M원 저항 아래에 있고 ETH도 3.373M원으로 3.40M원 아래입니다. 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T14:09+09:00",
       "symbol": "BTC",
@@ -86,15 +95,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111M원 재돌파에 실패한 뒤 110.5M원대로 다시 밀렸고 ETH도 3.40M원 회복에 실패해 메이저 동행 강도가 약합니다. 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T11:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110809000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111M원 돌파를 잠시 시도했지만 110.809M원으로 다시 밀렸고, ETH와 XRP 동행도 강한 추세 전환 수준은 아니며 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
     }
   ]
 }
