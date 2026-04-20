@@ -6,42 +6,51 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T23:39+09:00",
-  "trade_count": 119,
+  "last_updated": "2026-04-21T00:09+09:00",
+  "trade_count": 120,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.834M원, 112.0M원대 재돌파와 30분봉 안착 전까지 관망"
+      "reason": "110.917M원, 111.3M원 회복과 112.0M원대 재도전 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.419M원, 메이저 동행 강세는 유지되나 BTC 확인이 먼저 필요"
+      "reason": "3.387M원, 메이저 동행 강세는 유지되나 BTC 재확인 전 추격 보류"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,115원, 국내 거래대금 강세 지속 여부 확인용"
+      "reason": "2,094원, 국내 거래대금 강세 지속 여부 확인용"
     },
     {
       "symbol": "SUPER",
       "market": "KRW-SUPER",
-      "reason": "211원, 급등 상태 지속이라 눌림 뒤 거래 재가속 전 추격 금지"
+      "reason": "202원, 급등 상태는 유지되지만 고점 대비 흔들림이 커 눌림 없는 추격 금지"
     },
     {
       "symbol": "PIVERSE",
       "market": "KRW-PIEVERSE",
-      "reason": "1,453원, 장중 1,800원 고점 후 되밀림이 커 변동성 안정 확인 전 관찰 우선"
+      "reason": "1,377원, 장중 1,800원 고점 후 음전 전환으로 안정화 확인 전 관찰 우선"
     },
     {
       "symbol": "CHZ",
       "market": "KRW-CHZ",
-      "reason": "66.3원, 보조 순환 후보이나 메이저 확정 신호 전 소액 후보 수준"
+      "reason": "65.7원, 보조 순환 후보이나 메이저 확정 신호 전 소액 후보 수준"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-21T00:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110917000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 110.917M원으로 23시 반등분을 반납했고 111M원선 아래로 재차 밀려 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T23:39+09:00",
       "symbol": "BTC",
