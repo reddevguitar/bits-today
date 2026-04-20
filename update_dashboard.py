@@ -18,7 +18,9 @@ ICONS = {
     'CHZ': '⚽',
     'BLUR': '🌫️',
     'CFG': '🏗️',
-    'PIVERSE': '🪐'
+    'PIEVERSE': '🥧',
+    'SOON': '🔜',
+    'AAVE': '🏦'
 }
 
 

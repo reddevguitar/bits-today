@@ -1,48 +1,61 @@
 {
   "project": "bit's today",
-  "judgment": "neutral",
-  "confidence": "medium",
-  "suggested_action": "HOLD. 현금 100% 유지. BTC가 112.1M원 위에서 30분봉 안착하거나, 알트가 눌림 뒤 거래대금 동반 재상승할 때만 소액 진입 검토.",
-  "updated_at": "2026-04-21 00:39 KST",
-  "market_status": "BTC가 00:00 봉에서 112.1M원까지 반등한 뒤 00:30 진행 봉에서 111.95M원대로 소폭 눌리고 있습니다. 메이저는 견조하지만 상단 돌파 추격보다 112.1M원대 재안착 확인이 우선입니다.",
+  "judgment": "aggressive selective risk-on",
+  "confidence": "medium-high",
+  "suggested_action": "메이저가 무너지지 않는 한 현재 5종 분산 포지션 유지, 다음 회차에서는 SUPER·CHZ 지속 여부와 PIEVERSE·BLUR 반등 실패 여부를 우선 검증",
+  "updated_at": "2026-04-21 02:00 KST",
+  "market_status": "글로벌 시총 2.62조달러, 공포탐욕 29 Fear지만 업비트 내부에서는 SUPER·CHZ 중심의 알트 순환매가 실제로 돌고 있습니다.",
   "fear_greed": "29 (Fear)",
-  "btc_snapshot": "111.957M원, +1.76%, 30분봉 고가 112.101M원 후 소폭 되밀림",
-  "cash_krw": "10,067,231 KRW",
+  "btc_snapshot": "BTC 111.633M원(+1.47%), BTC dominance 57.56%, 메이저는 강보합 유지",
+  "cash_krw": "1,267,231 KRW",
   "realized_pnl_krw": "67,430 KRW",
   "last_valuation_krw": "10,067,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
   "return_pct": 0.67,
-  "last_action": "HOLD",
-  "trade_count": 121,
-  "last_updated": "2026-04-21T00:39+09:00",
+  "last_action": "BUY_DIVERSIFIED",
+  "trade_count": 128,
+  "last_updated": "2026-04-21T02:00:00+09:00",
   "summary": [
-    "단기 차트 요약: BTC는 00:00 봉에서 111.126M원 시가, 112.100M원 종가로 강하게 반등했고 00:30 진행 봉은 111.957M원 수준에서 숨고르기 중입니다.",
-    "전략 상태 반영 요약: cached 전략 bias는 cautious neutral to slightly constructive이며, 메이저 우위와 선별적 알트 순환 해석을 유지합니다.",
-    "현재 보유 포트폴리오 요약: 보유 코인 없이 현금 100% 상태를 유지했습니다.",
-    "코인별 대응 전략 요약: BTC 재안착 전 관망, ETH와 XRP는 보조 확인용, SUPER는 추격 금지, PIVERSE는 안정화 확인, CHZ는 감시 유지입니다.",
-    "근거: 공포탐욕 29 Fear, BTC 상단 안착 미확정, SUPER 과열 부담, PIVERSE 약세 지속으로 손익비가 아직 불리합니다.",
-    "가상 매매 실행 내용: 이번 회차도 신규 거래 없이 HOLD로 기록했습니다.",
-    "포트폴리오 현황: 현금 10,067,231.29원, 보유 코인 없음, 총 평가액 10,067,231.29원, 실현손익 67,429.69원.",
-    "주의사항: 실거래가 아닌 가상 기록이며, 실제 체결 전에는 실시간 가격과 30분봉 마감 상태를 다시 확인해야 합니다."
+    "₿ BTC: 111.633M원, +1.47%, 메이저 지지선 유지",
+    "◆ ETH: 3.411M원, +1.10%, 대형주 체력 유지",
+    "💧 XRP: 2,110원, +1.54%, 국내 유동성 계속 강함",
+    "☀️ SOL: 126,400원, +1.53%, top4 major 참고 전용",
+    "현금 12.6%, 투자 87.4%",
+    "추세형 2개(SUPER, CHZ) + 유동성 반전형 2개(PIEVERSE, BLUR) + 베타형 1개(DOGE)",
+    "한 종목 몰빵 금지, 단기 약세 확인 시 다음 회차 교체 빠르게 진행",
+    "BUY SUPER 195만원",
+    "BUY CHZ 185만원",
+    "BUY PIEVERSE 180만원",
+    "BUY DOGE 170만원",
+    "BUY BLUR 150만원",
+    "총 880만원 신규 진입, 현금 126.7만원 보유",
+    "현금: 1,267,231원",
+    "SUPER: 9,420.28985507개 @ 207원",
+    "CHZ: 27,945.61933535개 @ 66.2원",
+    "PIEVERSE: 1,300.57803468개 @ 1,384원",
+    "DOGE: 12,056.73758865개 @ 141원",
+    "BLUR: 31,185.03118503개 @ 48.1원",
+    "총 평가액: 10,067,231원",
+    "실현손익: +67,430원",
+    "누적 수익률: +0.67%",
+    "이전 회차들은 시장이 완전히 붕괴하지 않았는데도 HOLD를 너무 오래 반복했습니다.",
+    "이번 회차는 프로젝트 목표에 맞게 실제 거래대금이 붙은 5종으로 강제 분산 진입한 점이 개선입니다.",
+    "다만 PIEVERSE, BLUR는 역추세 성격이 있으니 다음 회차 검증이 꼭 필요합니다.",
+    "현금 100% 루프 종료",
+    "preferred buy 5종을 정확히 유지",
+    "후보별 score/community/risk 필드 추가",
+    "대시보드 아이콘 매핑 확장 예정 반영",
+    "리스크 메모: Fear 29 구간이라 급등주 흔들림이 크고, 트럼프 발언 등 헤드라인이 메이저를 흔들면 알트 낙폭이 더 커질 수 있음"
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-21T00:39+09:00",
+      "timestamp": "2026-04-20T23:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 111957000,
+      "price_krw": 111455000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 00:00 봉에서 112.1M원까지 반등했지만 00:30 진행 봉은 아직 112.1M원 상단 안착을 확정하지 못해 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-21T00:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110917000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.917M원으로 23시 반등분을 반납했고 111M원선 아래로 재차 밀려 이번 회차도 현금 100% 유지가 유리합니다."
+      "reason": "BTC가 111.455M원으로 112.208M원 저항 돌파에 다시 실패했고 최근 30분봉도 낮아지는 고점 흐름이라 이번 회차도 현금 100% 유지가 유리합니다."
     },
     {
       "timestamp": "2026-04-20T23:39+09:00",
@@ -54,25 +67,73 @@
       "reason": "BTC가 111.834M원으로 직전 약세 뒤 반등했지만 112.0M원대 저항 안착이 없고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
     },
     {
-      "timestamp": "2026-04-20T23:09+09:00",
+      "timestamp": "2026-04-21T00:09+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 111455000,
+      "price_krw": 110917000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 111.455M원으로 112.208M원 저항 돌파에 다시 실패했고 최근 30분봉도 낮아지는 고점 흐름이라 이번 회차도 현금 100% 유지가 유리합니다."
+      "reason": "BTC가 110.917M원으로 23시 반등분을 반납했고 111M원선 아래로 재차 밀려 이번 회차도 현금 100% 유지가 유리합니다."
     },
     {
-      "timestamp": "2026-04-20T22:39+09:00",
+      "timestamp": "2026-04-21T00:39+09:00",
       "symbol": "BTC",
       "action": "HOLD",
-      "price_krw": 111713000,
+      "price_krw": 111957000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 111.713M원으로 반등 흐름을 유지했지만 112.208M원 저항 안착이 없고 공포탐욕 29 Fear가 이어져 이번 회차도 현금 100% 유지가 유리합니다."
+      "reason": "BTC가 00:00 봉에서 112.1M원까지 반등했지만 00:30 진행 봉은 아직 112.1M원 상단 안착을 확정하지 못해 이번 회차도 현금 100% 유지가 유리합니다."
+    },
+    {
+      "timestamp": "2026-04-21T01:09+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111771000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 112.1M원 부근 반등 뒤 01:00 진행 봉에서 111.8M원대로 숨고르기 중이라 이번 회차도 현금 100% 유지가 유리합니다."
+    },
+    {
+      "timestamp": "2026-04-21T01:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111594000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 01:30 진행 30분봉에서도 111.6M원대 횡보를 보이며 112.1M원 재안착을 확인하지 못해 이번 회차도 현금 100% 유지가 유리합니다."
+    },
+    {
+      "timestamp": "2026-04-21T02:00:00+09:00",
+      "symbol": "BLUR",
+      "action": "BUY",
+      "price_krw": 48.1,
+      "amount_delta": 31185.03118503,
+      "cash_delta_krw": -1500000.0,
+      "reason": "가격은 -2.04%로 눌렸지만 거래대금 약 446억원이라 반등 실패 여부가 빨리 드러나는 고유동성 실험 포지션"
+    },
+    {
+      "timestamp": "2026-04-21T02:00:00+09:00",
+      "symbol": "DOGE",
+      "action": "BUY",
+      "price_krw": 141.0,
+      "amount_delta": 12056.73758865,
+      "cash_delta_krw": -1700000.0,
+      "reason": "메이저보다 가볍고 거래대금 약 247억원이 유지돼 공격 포트폴리오의 베타 자산으로 채택"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-21-0200.md",
+      "title": "2026-04-21-0200"
+    },
+    {
+      "file": "2026-04-21-0139.md",
+      "title": "2026-04-21-0139"
+    },
+    {
+      "file": "2026-04-21-0109.md",
+      "title": "2026-04-21-0109"
+    },
     {
       "file": "2026-04-21-0039.md",
       "title": "2026-04-21-0039"
@@ -92,27 +153,215 @@
     {
       "file": "2026-04-20-2239.md",
       "title": "2026-04-20-2239"
-    },
-    {
-      "file": "2026-04-20-2209.md",
-      "title": "2026-04-20-2209"
-    },
-    {
-      "file": "2026-04-20-2139.md",
-      "title": "2026-04-20-2139"
-    },
-    {
-      "file": "2026-04-20-2109.md",
-      "title": "2026-04-20-2109"
-    },
-    {
-      "file": "2026-04-20-2039.md",
-      "title": "2026-04-20-2039"
-    },
-    {
-      "file": "2026-04-20-2009.md",
-      "title": "2026-04-20-2009"
     }
   ],
-  "positions": []
+  "positions": [
+    {
+      "icon": "🦸",
+      "symbol": "SUPER",
+      "market": "KRW-SUPER",
+      "amount": 9420.28985507,
+      "avg_buy_price_krw": "207 KRW",
+      "last_price_krw": "207 KRW",
+      "thesis": "업비트 최강 추세형",
+      "strategy": "breakout momentum core"
+    },
+    {
+      "icon": "⚽",
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "amount": 27945.61933535,
+      "avg_buy_price_krw": "66 KRW",
+      "last_price_krw": "66 KRW",
+      "thesis": "거래대금 동반 2차 순환",
+      "strategy": "momentum follow"
+    },
+    {
+      "icon": "🥧",
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "amount": 1300.57803468,
+      "avg_buy_price_krw": "1,384 KRW",
+      "last_price_krw": "1,384 KRW",
+      "thesis": "거래대금 1위 반전 시도",
+      "strategy": "high-liquidity reversal"
+    },
+    {
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "amount": 12056.73758865,
+      "avg_buy_price_krw": "141 KRW",
+      "last_price_krw": "141 KRW",
+      "thesis": "리테일 베타 노출",
+      "strategy": "beta trend"
+    },
+    {
+      "icon": "🌫️",
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "amount": 31185.03118503,
+      "avg_buy_price_krw": "48 KRW",
+      "last_price_krw": "48 KRW",
+      "thesis": "눌림 반등 실험",
+      "strategy": "rebound probe"
+    }
+  ],
+  "chart_series": {
+    "SUPER": [
+      {
+        "timestamp": "2026-04-21T02:00:00+09:00",
+        "price_krw": 207.0,
+        "action": "BUY"
+      }
+    ],
+    "CHZ": [
+      {
+        "timestamp": "2026-04-21T02:00:00+09:00",
+        "price_krw": 66.2,
+        "action": "BUY"
+      }
+    ],
+    "PIEVERSE": [
+      {
+        "timestamp": "2026-04-21T02:00:00+09:00",
+        "price_krw": 1384.0,
+        "action": "BUY"
+      }
+    ],
+    "DOGE": [
+      {
+        "timestamp": "2026-04-21T02:00:00+09:00",
+        "price_krw": 141.0,
+        "action": "BUY"
+      }
+    ],
+    "BLUR": [
+      {
+        "timestamp": "2026-04-21T02:00:00+09:00",
+        "price_krw": 48.1,
+        "action": "BUY"
+      }
+    ],
+    "BTC": [
+      {
+        "timestamp": "2026-04-21T01:39+09:00",
+        "price_krw": 111594000,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-21T01:09+09:00",
+        "price_krw": 111771000,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-21T00:39+09:00",
+        "price_krw": 111957000,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-21T00:09+09:00",
+        "price_krw": 110917000,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-20T23:39+09:00",
+        "price_krw": 111834000,
+        "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-04-20T23:09+09:00",
+        "price_krw": 111455000,
+        "action": "HOLD"
+      }
+    ]
+  },
+  "latest_report_file": "2026-04-21-0200.md",
+  "preferred_buy_candidates": [
+    {
+      "icon": "🦸",
+      "symbol": "SUPER",
+      "market": "KRW-SUPER",
+      "reason": "상승률 +18.29%와 거래대금 약 605억원이 동시에 확인된 이번 회차 최우선 추세 후보",
+      "score": 9.2,
+      "community": "upbit momentum leader",
+      "risk": "급등 직후라 변동성 큼"
+    },
+    {
+      "icon": "⚽",
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "상승률 +10.33%와 거래대금 약 203억원이 붙어 SUPER 다음 순환매 핵심 후보",
+      "score": 8.7,
+      "community": "sports narrative rotation",
+      "risk": "단기 과열 후 되밀림 가능"
+    },
+    {
+      "icon": "🥧",
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "24시간 거래대금 약 2529억원으로 업비트 최상단 유동성을 보유해 반전 매매 가치가 높다",
+      "score": 8.3,
+      "community": "highest turnover on upbit",
+      "risk": "강한 거래대금에도 음전 상태"
+    },
+    {
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "메이저보다 가볍고 거래대금 약 247억원으로 추세 지속 시 베타 노출에 적합하다",
+      "score": 7.8,
+      "community": "retail beta leader",
+      "risk": "밈코인 변동성"
+    },
+    {
+      "icon": "🌫️",
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "가격은 눌렸지만 거래대금 약 446억원으로 단기 반등 실패 여부가 빠르게 드러나는 유동성 후보",
+      "score": 7.5,
+      "community": "high-turnover rebound watch",
+      "risk": "약세 지속 시 손절 필요"
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "₿",
+      "symbol": "BTC",
+      "market": "KRW-BTC",
+      "reason": "111.633M원, 메이저 지지 확인용"
+    },
+    {
+      "icon": "◆",
+      "symbol": "ETH",
+      "market": "KRW-ETH",
+      "reason": "3.411M원, 대형주 체력 확인용"
+    },
+    {
+      "icon": "💧",
+      "symbol": "XRP",
+      "market": "KRW-XRP",
+      "reason": "2,110원, 국내 유동성 온도계"
+    },
+    {
+      "icon": "🦸",
+      "symbol": "SUPER",
+      "market": "KRW-SUPER",
+      "reason": "추세 1순위"
+    },
+    {
+      "icon": "⚽",
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "순환매 2순위"
+    }
+  ],
+  "cycle_improvements": [
+    "현금 100% 관망 루프를 종료하고 5종 분산 매수 시뮬레이션으로 전략을 공격적으로 전환했다",
+    "preferred_buy_candidates를 정확히 5개로 재구성하고 각 후보에 score/community/risk 필드를 추가했다",
+    "업비트 실거래대금 기준으로 리포트와 전략 상태를 다시 정렬했다",
+    "대시보드 아이콘 매핑을 확장해 PIEVERSE 등 신규 후보 가독성을 개선했다"
+  ],
+  "top_line": "업비트는 메이저 체력 유지 속 알트 순환매가 살아 있어, 상위 거래대금+상승률이 겹친 5종에 공격 분산하는 회차입니다.",
+  "ui_version": "v2.2"
 }

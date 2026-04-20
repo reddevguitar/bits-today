@@ -1,0 +1,158 @@
+{
+  "updated_at": "2026-04-21T02:00:00+09:00",
+  "top_line": "업비트는 메이저 체력 유지 속 알트 순환매가 살아 있어, 상위 거래대금+상승률이 겹친 5종에 공격 분산하는 회차입니다.",
+  "macro_summary": "2026-04-21 02:00 KST 기준 글로벌 크립토 시가총액은 CoinGecko 기준 약 2.62조달러로 유지되고, 비트코인 점유율은 57.56%로 높다. 메이저 자금 쏠림이 계속되지만 업비트 KRW 시장에서는 일부 알트로 순환매가 확산 중이다. 거시적으로는 완전한 광기장이 아니라 메이저 지지 + 알트 단기 테마성 확산 구간으로 해석한다.",
+  "news_summary": "CoinDesk 마켓면 기준 비트코인은 트럼프 발언 민감도와 단기 유동성 압박 이슈가 같이 거론되고 있다. 즉 메이저는 견조하지만 헤드라인에 흔들릴 수 있는 장세다. 이번 회차는 거시 낙관 올인보다 업비트 내부 수급이 실제 붙은 종목을 우선한다.",
+  "community_summary": "업비트 24시간 거래대금 기준 PIEVERSE 약 2529억원, SUPER 약 605억원, BLUR 약 446억원, DOGE 약 247억원, CHZ 약 203억원이 두드러졌다. 상승률은 SUPER +18.29%, CHZ +10.33%, DOGE +1.44%로 좋고, PIEVERSE와 BLUR는 각각 -1.14%, -2.04%로 눌림 상태지만 거래대금이 매우 커 단기 재순환 후보 가치가 있다. 이번 회차는 거래대금과 가격탄력이 동시에 확인된 코인 중심으로 공격적으로 분산한다.",
+  "public_figure_summary": "CoinDesk 마켓 기사에는 트럼프 발언이 비트코인 가격 변동을 키울 수 있다는 지적이 실렸다. 개별 알트 재료보다 전체 위험선호를 흔드는 매크로형 인물 변수로 보는 편이 맞다. 이번 회차의 해석은 공인물 추종보다 업비트 실제 체결 강도 우선이다.",
+  "major_coin_summary": "업비트 기준 BTC 111.633M원(+1.47%), ETH 3.411M원(+1.10%), XRP 2,110원(+1.54%), SOL 126,400원(+1.53%)으로 top4 majors는 전반적으로 강보합이다. 메이저가 무너지지 않으면서 알트 순환매를 허용하는 배경이 형성됐다. 따라서 메이저는 참고 신호로 유지하되 알트 실행 비중을 늘리는 것이 유리하다.",
+  "altcoin_selection_summary": "preferred buy는 SUPER, CHZ, PIEVERSE, DOGE, BLUR 5종으로 구성한다. SUPER와 CHZ는 상승률과 거래대금이 같이 붙은 추세형 후보, PIEVERSE와 BLUR는 업비트 내 압도적 유동성을 이용한 재순환/반등형 후보, DOGE는 중간 강도의 추세 지속형 후보다. top4 majors(BTC, ETH, XRP, SOL)는 제외했고, 정확히 5개를 유지했다.",
+  "overall_bias": "aggressive selective risk-on",
+  "confidence": "medium-high",
+  "preferred_buy_candidates": [
+    {
+      "symbol": "SUPER",
+      "market": "KRW-SUPER",
+      "price_krw": 207.0,
+      "change_pct_24h": 18.29,
+      "turnover_krw_24h": 60530818197,
+      "score": 9.2,
+      "community": "upbit momentum leader",
+      "risk": "급등 직후라 변동성 큼",
+      "reason": "상승률 +18.29%와 거래대금 약 605억원이 동시에 확인된 이번 회차 최우선 추세 후보"
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "price_krw": 66.2,
+      "change_pct_24h": 10.33,
+      "turnover_krw_24h": 20284781061,
+      "score": 8.7,
+      "community": "sports narrative rotation",
+      "risk": "단기 과열 후 되밀림 가능",
+      "reason": "상승률 +10.33%와 거래대금 약 203억원이 붙어 SUPER 다음 순환매 핵심 후보"
+    },
+    {
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "price_krw": 1384.0,
+      "change_pct_24h": -1.14,
+      "turnover_krw_24h": 252927010163,
+      "score": 8.3,
+      "community": "highest turnover on upbit",
+      "risk": "강한 거래대금에도 음전 상태",
+      "reason": "24시간 거래대금 약 2529억원으로 업비트 최상단 유동성을 보유해 반전 매매 가치가 높다"
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "price_krw": 141.0,
+      "change_pct_24h": 1.44,
+      "turnover_krw_24h": 24745990866,
+      "score": 7.8,
+      "community": "retail beta leader",
+      "risk": "밈코인 변동성",
+      "reason": "메이저보다 가볍고 거래대금 약 247억원으로 추세 지속 시 베타 노출에 적합하다"
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "price_krw": 48.1,
+      "change_pct_24h": -2.04,
+      "turnover_krw_24h": 44633697549,
+      "score": 7.5,
+      "community": "high-turnover rebound watch",
+      "risk": "약세 지속 시 손절 필요",
+      "reason": "가격은 눌렸지만 거래대금 약 446억원으로 단기 반등 실패 여부가 빠르게 드러나는 유동성 후보"
+    }
+  ],
+  "selected_altcoins": [
+    {
+      "symbol": "SUPER",
+      "market": "KRW-SUPER",
+      "reason": "강한 추세형 1순위"
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "상승률과 거래대금 동행"
+    },
+    {
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "업비트 최상위 유동성 반전 후보"
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "리테일 베타 노출"
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "눌림 반등 실험 후보"
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "BTC",
+      "market": "KRW-BTC",
+      "reason": "111.633M원, 메이저 지지 지속 여부 확인용"
+    },
+    {
+      "symbol": "ETH",
+      "market": "KRW-ETH",
+      "reason": "3.411M원, 대형주 체력 확인용"
+    },
+    {
+      "symbol": "XRP",
+      "market": "KRW-XRP",
+      "reason": "2,110원, 국내 유동성 온도계"
+    },
+    {
+      "symbol": "SOL",
+      "market": "KRW-SOL",
+      "reason": "126,400원, top4 major 참고 신호"
+    },
+    {
+      "symbol": "SUPER",
+      "market": "KRW-SUPER",
+      "reason": "1순위 추세 지속 여부"
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "2순위 순환매 유지 여부"
+    },
+    {
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "거래대금 1위 유지 속 반전 여부"
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "유동성 높은 눌림 반등 확인용"
+    }
+  ],
+  "risk_notes": [
+    "공포탐욕지수는 29 Fear로 심리 회복이 아직 약하다",
+    "SUPER와 CHZ는 강하지만 급등 후 흔들림이 빠를 수 있다",
+    "PIEVERSE와 BLUR는 거래대금은 강하나 가격은 음수라 손절 기준이 필요하다",
+    "트럼프 발언 등 헤드라인이 비트코인 변동성을 키우면 알트가 더 크게 흔들릴 수 있다",
+    "메이저가 강보합인 동안만 공격 분산 전략을 유지하는 것이 낫다"
+  ],
+  "fear_greed": "29 (Fear)",
+  "btc_reference": "BTC 111.633M원, +1.47%, global dominance 57.56%",
+  "improvement_log": [
+    "현금 100% 관망 루프를 종료하고 5종 분산 매수 시뮬레이션으로 전략을 공격적으로 전환했다",
+    "preferred_buy_candidates를 정확히 5개로 재구성하고 각 후보에 score/community/risk 필드를 추가했다",
+    "업비트 실거래대금 기준으로 리포트와 전략 상태를 다시 정렬했다",
+    "대시보드 아이콘 매핑을 확장해 PIEVERSE 등 신규 후보 가독성을 개선했다"
+  ],
+  "self_evaluation": {
+    "score": 7.4,
+    "summary": "직전 회차들은 시장이 완전히 무너지지 않았는데도 HOLD를 과도하게 반복했다. 이번 회차는 fear 환경을 인정하면서도 실제 업비트 수급이 붙은 5종에 분산 배치해 프로젝트 목표에 더 맞게 수정했다. 다만 PIEVERSE와 BLUR는 역추세 성격이 있어 다음 회차 검증이 필요하다."
+  },
+  "ui_version": "v2.2"
+}
