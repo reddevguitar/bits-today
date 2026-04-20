@@ -6,19 +6,19 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T21:09+09:00",
-  "trade_count": 114,
+  "last_updated": "2026-04-20T21:39+09:00",
+  "trade_count": 115,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.800M원, 112.208M원 재돌파 및 30분봉 안착 전까지 관망"
+      "reason": "111.681M원, 112.208M원 재돌파 및 30분봉 안착 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.433M원으로 메이저 동행 반등은 유지되나 BTC 확인이 먼저 필요"
+      "reason": "3.427M원으로 메이저 동행 강세는 유지되나 BTC 확인이 먼저 필요"
     },
     {
       "symbol": "XRP",
@@ -28,20 +28,29 @@
     {
       "symbol": "SUPER",
       "market": "KRW-SUPER",
-      "reason": "221원 수준, 급등 지속 중이라 눌림 및 거래 재가속 전 추격 금지"
+      "reason": "218원 수준, 급등 후 횡보 구간이라 눌림 뒤 거래 재가속 전 추격 금지"
     },
     {
       "symbol": "PIVERSE",
       "market": "KRW-PIEVERSE",
-      "reason": "전략 후보 유지, 강세 종목이지만 신고가권 과열이라 눌림 확인 전 관찰 우선"
+      "reason": "1,508원, 1,600원대에서 눌림이 깊어져 변동성 확인 전 관찰 우선"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "전략 후보 유지, 과열 강도는 낮아 순환 자금 재유입 여부만 관찰"
+      "reason": "171원, 약세 횡보라 순환 자금 재유입 확인 전 감시 유지"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T21:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 111681000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111.681M원으로 112.208M원 재돌파를 다시 시도했지만 현재 봉에서 밀렸고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T21:09+09:00",
       "symbol": "BTC",
@@ -77,24 +86,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.608M원으로 일간 반등은 유지하지만 19:15 이후 단기 탄력이 둔화됐고 112.208M원 재돌파 안착도 없어 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T19:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111764000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.764M원으로 완만한 반등을 이어가지만 112.208M원 재돌파 안착은 아직 없고 공포탐욕 29 Fear가 유지돼 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T18:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111591000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.591M원으로 일간 강세는 유지하지만 112.208M원 재돌파 안착에 실패했고 공포탐욕 29 Fear가 이어져 이번 회차도 현금 100% 유지가 유리합니다."
     }
   ]
 }
