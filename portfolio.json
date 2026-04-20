@@ -6,8 +6,8 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T13:09+09:00",
-  "trade_count": 101,
+  "last_updated": "2026-04-20T13:39+09:00",
+  "trade_count": 102,
   "positions": {},
   "watchlist": [
     {
@@ -23,25 +23,34 @@
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "상대강도는 있으나 시장 확산 확인 전 온도계로만 활용"
+      "reason": "상대강도는 약화, 시장 확산 확인 전 온도계로만 활용"
     },
     {
       "symbol": "CFG",
       "market": "KRW-CFG",
-      "reason": "446원 고점 후 435원대 횡보, 430원대 지지 확인 없는 추격 금지"
+      "reason": "433.91원으로 눌림 확대, 430원대 지지 확인 없는 추격 금지"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "97원 반등이지만 주도성 부족, 추격 금지"
+      "reason": "cached 후보지만 short-term 확인 부족, 추격 금지"
     },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "184원으로 강하지만 변동성 과대, 보수적 관찰만"
+      "reason": "강세 이력은 있으나 변동성 과대, 보수적 관찰만"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T13:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 109958604,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 109.959M원으로 110M원선을 다시 이탈했고 ETH도 3.366M원으로 3.40M원 아래 약세입니다. 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T13:09+09:00",
       "symbol": "BTC",
@@ -77,60 +86,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111M원 돌파를 잠시 시도했지만 110.809M원으로 다시 밀렸고, ETH와 XRP 동행도 강한 추세 전환 수준은 아니며 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T11:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111019000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.019M원으로 111M원을 다시 회복했지만 아직 11:00 30분봉 초반이라 돌파 확정으로 보기 이르고, 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T10:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110071843,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.072M원으로 111M원 재돌파에 실패했고 ETH 3.379M원, XRP 2,079.9원도 동반 약세이며 공포탐욕 29 Fear와 cached defensive 전략을 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T10:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110812000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.812M원으로 저점 대비 3개 30분봉 연속 반등했지만 아직 111M원 돌파 확정이 아니고 공포탐욕 29 Fear, cached neutral-to-defensive 전략을 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T09:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110478000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.478M원으로 저점 대비 반등했지만 여전히 111M원 아래이고 ETH도 3.390M원으로 추세 전환 강도가 약하며 공포탐욕 29 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T09:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110355000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.355M원으로 반등했지만 여전히 111M원 아래이고 ETH도 3.384M원으로 강한 동행 회복이 아니며 공포탐욕 29 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T08:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 110101000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 110.101M원으로 111M원 아래 약세를 이어가고 ETH도 3.380M원으로 더 약하며 공포탐욕 27 Fear와 cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
     }
   ]
 }
