@@ -6,29 +6,29 @@
   "realized_pnl_krw": 67429.69,
   "last_valuation_krw": 10067231.29,
   "last_action": "HOLD",
-  "last_updated": "2026-04-20T11:09+09:00",
+  "last_updated": "2026-04-20T11:39+09:00",
   "trade_count": 98,
   "positions": {},
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "111.019M원 재회복 중이나 30분봉 안착 확인 전까지 관망"
+      "reason": "111M원 재돌파 실패 후 110.8M원대 재테스트, 30분봉 안착 전까지 관망"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.400M원 회복으로 BTC 동행 확인용"
+      "reason": "3.39M원으로 버티지만 3.40M원 회복 지속 여부 확인 필요"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,096원으로 국내 유동성 온도계 역할 지속"
+      "reason": "2,093원으로 국내 유동성 온도계 역할 지속"
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "후보 유지 가능하나 최근 30분봉 2개 조정이라 추격 금지"
+      "reason": "강세 후보였지만 최근 30분봉 조정 뒤 횡보라 추격 금지"
     },
     {
       "symbol": "MOVE",
@@ -38,25 +38,34 @@
     {
       "symbol": "SOON",
       "market": "KRW-SOON",
-      "reason": "단기 하락 전환으로 보수적 관찰만"
-    },
-    {
-      "symbol": "BLUR",
-      "market": "KRW-BLUR",
-      "reason": "약세 지속, 반등 확인 전 배제 우선"
-    },
-    {
-      "symbol": "CPOOL",
-      "market": "KRW-CPOOL",
-      "reason": "저가권 반등은 있으나 주도 전환 확인 전 대기"
+      "reason": "단기 반등은 있으나 구조적으로는 약해 보수적 관찰만"
     },
     {
       "symbol": "CFG",
       "market": "KRW-CFG",
-      "reason": "강하지만 소형 변동성 커 확인 없는 추격 금지"
+      "reason": "상대강도는 가장 좋지만 변동성 커 확인 없는 추격 금지"
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "반등 중이지만 주도 회복 확인 전 배제 우선"
+    },
+    {
+      "symbol": "CPOOL",
+      "market": "KRW-CPOOL",
+      "reason": "저가 반등은 있으나 주도 전환 확인 전 대기"
     }
   ],
   "history": [
+    {
+      "timestamp": "2026-04-20T11:39+09:00",
+      "symbol": "BTC",
+      "action": "HOLD",
+      "price_krw": 110809000,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "BTC가 111M원 돌파를 잠시 시도했지만 110.809M원으로 다시 밀렸고, ETH와 XRP 동행도 강한 추세 전환 수준은 아니며 공포탐욕 29 Fear와 cached defensive bias를 감안하면 이번 회차도 현금 100% 유지가 유리합니다."
+    },
     {
       "timestamp": "2026-04-20T11:09+09:00",
       "symbol": "BTC",
@@ -109,7 +118,7 @@
       "price_krw": 110101000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 110.101M원으로 111M원 아래 약세를 이어가고 ETH도 3.380M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+      "reason": "BTC가 110.101M원으로 111M원 아래 약세를 이어가고 ETH도 3.380M원으로 더 약하며 공포탐욕 27 Fear와 cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
     },
     {
       "timestamp": "2026-04-20T08:09+09:00",
@@ -118,7 +127,7 @@
       "price_krw": 110144000,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "BTC가 110.144M원으로 111M원 아래 약세를 이어가고 ETH도 3.370M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
+      "reason": "BTC가 110.144M원으로 111M원 아래 약세를 이어가고 ETH도 3.370M원으로 더 약하며 공포탐욕 27 Fear와 cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
     },
     {
       "timestamp": "2026-04-20T07:39+09:00",
@@ -146,24 +155,6 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "BTC가 111.392M원으로 112M원 아래 약세 횡보를 이어가고 ETH도 3.409M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T06:09+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111407000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.407M원으로 112M원 아래 약세 박스권을 유지하고 ETH도 3.403M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
-    },
-    {
-      "timestamp": "2026-04-20T05:39+09:00",
-      "symbol": "BTC",
-      "action": "HOLD",
-      "price_krw": 111559000,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "BTC가 111.559M원으로 112M원 아래 약세 박스권에 머물고 ETH도 3.421M원으로 더 약하며 공포탐욕 27 Fear, cached defensive 전략을 감안하면 이번 회차도 현금 100% 방어 유지가 유리합니다."
     }
   ]
 }
