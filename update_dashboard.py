@@ -20,7 +20,12 @@ ICONS = {
     'CFG': '🏗️',
     'PIEVERSE': '🥧',
     'SOON': '🔜',
-    'AAVE': '🏦'
+    'AAVE': '🏦',
+    'BIO': '🧬',
+    'NEWT': '🆕',
+    'SENT': '📡',
+    'IP': '🪪',
+    'AXL': '🛰️'
 }
 
 

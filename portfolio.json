@@ -2,31 +2,19 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 41609.849160278216,
+  "cash_krw": 0.0,
   "realized_pnl_krw": -8191.75,
-  "last_valuation_krw": 10279390.79,
-  "last_action": "ROTATE_TO_AXL_IP_AAVE",
-  "last_updated": "2026-04-21T14:00:00+09:00",
-  "trade_count": 136,
+  "last_valuation_krw": 9940013.56869885,
+  "last_action": "ROTATE_TO_BIO_NEWT",
+  "last_updated": "2026-04-21T20:00:00+09:00",
+  "trade_count": 140,
   "positions": {
-    "CHZ": {
-      "market": "KRW-CHZ",
-      "amount": 35255.560855817836,
-      "avg_buy_price_krw": 66.6562,
-      "last_price_krw": 68.4,
-      "value_krw": 2411480.36,
-      "thesis": "거래대금 동반 2차 순환",
-      "strategy": "momentum follow",
-      "role": "rotation follow",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12
-    },
     "PIEVERSE": {
       "market": "KRW-PIEVERSE",
       "amount": 1685.6871489290372,
       "avg_buy_price_krw": 1423.7517,
-      "last_price_krw": 1558.0,
-      "value_krw": 2626300.58,
+      "last_price_krw": 1414.0,
+      "value_krw": 2383561.6285856585,
       "thesis": "거래대금 1위 반전 시도",
       "strategy": "high-liquidity reversal",
       "role": "liquidity reversal",
@@ -37,79 +25,91 @@
       "market": "KRW-AXL",
       "amount": 21689.497716894977,
       "avg_buy_price_krw": 87.6,
-      "last_price_krw": 87.6,
-      "value_krw": 1900000.0,
+      "last_price_krw": 84.1,
+      "value_krw": 1824086.7579908674,
       "thesis": "상승률과 거래대금이 같이 붙은 신규 강세 축",
       "strategy": "momentum breakout rotation",
       "role": "breakout attacker",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "IP": {
-      "market": "KRW-IP",
-      "amount": 2199.223803363519,
-      "avg_buy_price_krw": 773.0,
-      "last_price_krw": 773.0,
-      "value_krw": 1700000.0,
-      "thesis": "양전환 유지 속 중상위 유동성 확보",
-      "strategy": "steady rotation follow",
-      "role": "steady attacker",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
-    },
     "AAVE": {
       "market": "KRW-AAVE",
       "amount": 11.653313911143481,
       "avg_buy_price_krw": 137300.0,
-      "last_price_krw": 137300.0,
-      "value_krw": 1600000.0,
+      "last_price_krw": 137900.0,
+      "value_krw": 1606991.9883466861,
       "thesis": "상대강도 유지되는 품질 알트",
       "strategy": "quality strength carry",
       "role": "quality attacker",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
+    },
+    "BIO": {
+      "market": "KRW-BIO",
+      "amount": 50691.244239631334,
+      "avg_buy_price_krw": 43.4,
+      "last_price_krw": 43.4,
+      "value_krw": 2200000.0,
+      "thesis": "고대금 동반 저가 알트 순환매",
+      "strategy": "retail momentum rotation",
+      "role": "retail momentum core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14
+    },
+    "NEWT": {
+      "market": "KRW-NEWT",
+      "amount": 14053.81893266889,
+      "avg_buy_price_krw": 137.0,
+      "last_price_krw": 137.0,
+      "value_krw": 1925373.193775638,
+      "thesis": "당일 최상위 돌파 탄력",
+      "strategy": "high beta breakout chase",
+      "role": "high-beta breakout",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 15
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.151M원, 메이저 붕괴 여부 확인용"
+      "reason": "113.401M원, 반등 지속 여부 확인용"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.426M원, 대형주 체력 확인용"
+      "reason": "3.445M원, 알트 지지력 참고"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,112원, 국내 유동성 온도계"
+      "reason": "2,134원, 국내 유동성 온도계"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "126,400원, 위험선호 참고"
+      "reason": "127,300원, 위험선호 확인용"
     },
     {
-      "symbol": "SUPER",
-      "market": "KRW-SUPER",
-      "reason": "실패한 돌파가 재반전되는지 확인"
+      "symbol": "SENT",
+      "market": "KRW-SENT",
+      "reason": "+6.77%, 대금 약 125억원으로 후보 대기"
     },
     {
-      "symbol": "BLUR",
-      "market": "KRW-BLUR",
-      "reason": "고대금 약세 반전 여부 확인"
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "+5.45%, 상대강도 보강 여부 확인"
     },
     {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "대금 유지 속 낙폭 축소 여부"
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "+5.21%, 중형 돌파형 확인"
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "리테일 베타 재점화 여부 확인"
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "reason": "+4.98%, 후속 대금 유입 감시"
     }
   ],
   "history": [
@@ -274,6 +274,42 @@
       "amount_delta": 7309.94152047,
       "cash_delta_krw": -500000,
       "reason": "오전 급등 후 눌림이지만 거래대금 약 247억원이 유지돼 재확대 매수"
+    },
+    {
+      "timestamp": "2026-04-21T20:00:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 68.3,
+      "amount_delta": -35255.560855817836,
+      "cash_delta_krw": 2407954.806452358,
+      "reason": "거래대금은 남아도 가격 모멘텀이 BIO·NEWT 대비 약해 공격 자금 재배치"
+    },
+    {
+      "timestamp": "2026-04-21T20:00:00+09:00",
+      "symbol": "IP",
+      "action": "SELL",
+      "price_krw": 762.0,
+      "amount_delta": -2199.223803363519,
+      "cash_delta_krw": 1675808.5381630014,
+      "reason": "양전환은 유지됐지만 당일 주도력 부족으로 더 강한 돌파형에 자리 양보"
+    },
+    {
+      "timestamp": "2026-04-21T20:00:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 43.4,
+      "amount_delta": 50691.244239631334,
+      "cash_delta_krw": -2200000.0,
+      "reason": "24시간 거래대금 약 364억원과 +6.37% 강세가 동행해 신규 편입"
+    },
+    {
+      "timestamp": "2026-04-21T20:00:00+09:00",
+      "symbol": "NEWT",
+      "action": "BUY",
+      "price_krw": 137.0,
+      "amount_delta": 14053.81893266889,
+      "cash_delta_krw": -1925373.193775638,
+      "reason": "당일 +21.24% 최상위 돌파형으로 고베타 공격축 편입"
     }
   ]
 }
