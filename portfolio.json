@@ -4,17 +4,17 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0018174550496041775,
   "realized_pnl_krw": -105645.79213841516,
-  "last_valuation_krw": 9831153.162045958,
-  "last_action": "ROTATE_TO_CHIP_FLOCK",
-  "last_updated": "2026-04-22T02:00:00+09:00",
+  "last_valuation_krw": 9780364.636844806,
+  "last_action": "HOLD_HIGH_MOMENTUM_BASKET",
+  "last_updated": "2026-04-22T08:00:00+09:00",
   "trade_count": 144,
   "positions": {
     "AXL": {
       "market": "KRW-AXL",
       "amount": 21689.497716894977,
       "avg_buy_price_krw": 87.6,
-      "last_price_krw": 83.0,
-      "value_krw": 1800228.310502283,
+      "last_price_krw": 81.5,
+      "value_krw": 1767694.0639269406,
       "thesis": "상승률과 거래대금이 같이 붙은 신규 강세 축",
       "strategy": "momentum breakout rotation",
       "role": "breakout attacker",
@@ -25,8 +25,8 @@
       "market": "KRW-BIO",
       "amount": 50691.244239631334,
       "avg_buy_price_krw": 43.4,
-      "last_price_krw": 45.4,
-      "value_krw": 2301382.4884792627,
+      "last_price_krw": 44.3,
+      "value_krw": 2245622.119815668,
       "thesis": "고대금 동반 저가 알트 순환매",
       "strategy": "retail momentum rotation",
       "role": "retail momentum core",
@@ -37,8 +37,8 @@
       "market": "KRW-NEWT",
       "amount": 14053.81893266889,
       "avg_buy_price_krw": 137.0,
-      "last_price_krw": 130.0,
-      "value_krw": 1826996.4612469557,
+      "last_price_krw": 124.0,
+      "value_krw": 1742673.5476509423,
       "thesis": "당일 최상위 돌파 탄력",
       "strategy": "high beta breakout chase",
       "role": "high-beta breakout",
@@ -49,8 +49,8 @@
       "market": "KRW-CHIP",
       "amount": 25235.862702078524,
       "avg_buy_price_krw": 86.6,
-      "last_price_krw": 86.6,
-      "value_krw": 2185425.71,
+      "last_price_krw": 91.5,
+      "value_krw": 2309081.4372401848,
       "thesis": "업비트 상위 거래대금과 양전환 지속",
       "strategy": "turnover momentum rotation",
       "role": "turnover leader",
@@ -61,8 +61,8 @@
       "market": "KRW-FLOCK",
       "amount": 18267.236063829787,
       "avg_buy_price_krw": 94.0,
-      "last_price_krw": 94.0,
-      "value_krw": 1717120.19,
+      "last_price_krw": 93.9,
+      "value_krw": 1715293.466393617,
       "thesis": "중형 알트 후속 모멘텀 지속",
       "strategy": "follow-through breakout rotation",
       "role": "mid-cap momentum",
@@ -74,42 +74,42 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.507M원, 방향성 기준축"
+      "reason": "112.42M원, 112M 지지 확인 필요"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.426M원, 알트 지지력 참고"
+      "reason": "3.436M원, 알트 확산 지속성 참고"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,118원, 국내 유동성 온도계"
+      "reason": "2,115원, 국내 유동성 체온계"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "127,200원, 위험선호 참고"
+      "reason": "126,900원, risk-on 유지 여부 참고"
     },
     {
       "symbol": "PIEVERSE",
       "market": "KRW-PIEVERSE",
-      "reason": "거래대금 1위지만 -3.57%라 재강세 확인 전 관찰"
+      "reason": "대금 1위지만 -5.88%, 약세 리더로 경계"
     },
     {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "reason": "품질형이지만 상승 탄력 둔화"
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "+1.59%, 대금 유지되는 차순위 후보"
     },
     {
       "symbol": "SENT",
       "market": "KRW-SENT",
-      "reason": "+4.38%, 후속 대금 유입 감시"
+      "reason": "+4.38%, 후속 강세 확인 시 교체 후보"
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "+8.47%, 중형 돌파 후보"
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "+2.33%, 메이저 외 품질형 보조 후보"
     }
   ],
   "history": [
@@ -346,6 +346,15 @@
       "amount_delta": 18267.236063829787,
       "cash_delta_krw": -1717120.19,
       "reason": "상승률 +6.33%와 24h 대금 약 169억원으로 후속 모멘텀 자금 배치"
+    },
+    {
+      "timestamp": "2026-04-22T08:00:00+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 9780364.64,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "CHIP·BIO·NEWT·AXL·FLOCK 5종이 모두 업비트 상위 대금과 양의 모멘텀을 유지해, 이번 회차는 교체보다 보유 지속이 기대값이 높다고 판단"
     }
   ]
 }
