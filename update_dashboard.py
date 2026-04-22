@@ -77,6 +77,9 @@ scorecard = strategy.get('scorecard', {}) or {}
 rotation_map = strategy.get('rotation_map', []) or []
 self_evaluation = strategy.get('self_evaluation', {}) or {}
 sections = {}
+recent_history = history[-40:]
+recent_buys = sum(1 for item in recent_history if item.get('action') == 'BUY')
+recent_sells = sum(1 for item in recent_history if item.get('action') == 'SELL')
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -95,6 +98,12 @@ status = {
     'last_action': portfolio.get('last_action', '-'),
     'trade_count': portfolio.get('trade_count', 0),
     'last_updated': portfolio.get('last_updated', '-'),
+    'position_count': len(positions),
+    'rotation_footprint': {
+        'recent_buy_count': recent_buys,
+        'recent_sell_count': recent_sells,
+        'recent_rotation_count': min(recent_buys, recent_sells)
+    },
     'summary': [],
     'recent_trades': history[-8:][::-1],
     'recent_reports': [{'file': p.name, 'title': p.stem} for p in reports[-8:][::-1]],

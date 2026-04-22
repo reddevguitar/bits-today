@@ -3,18 +3,18 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": -552885.6523159195,
-  "last_valuation_krw": 10449736.355067555,
-  "last_action": "ROTATE_TO_CHIP_PIEVERSE_MET2_CPOOL_AVNT",
-  "last_updated": "2026-04-22T20:00:00+09:00",
-  "trade_count": 154,
+  "realized_pnl_krw": -617459.6433473097,
+  "last_valuation_krw": 11351489.519095097,
+  "last_action": "ROTATE_CPOOL_TO_FLUID",
+  "last_updated": "2026-04-23T02:00:00+09:00",
+  "trade_count": 156,
   "positions": {
     "CHIP": {
       "market": "KRW-CHIP",
       "amount": 25235.862702078524,
       "avg_buy_price_krw": 86.6,
-      "last_price_krw": 125.0,
-      "value_krw": 3154482.8377598156,
+      "last_price_krw": 158.0,
+      "value_krw": 3987266.306928407,
       "thesis": "업비트 최상위 거래대금과 폭발적 상대강도가 동행하는 메인 리더",
       "strategy": "turnover breakout core",
       "role": "primary leader",
@@ -25,8 +25,8 @@
       "market": "KRW-PIEVERSE",
       "amount": 1747.9970866715223,
       "avg_buy_price_krw": 1373.0,
-      "last_price_krw": 1373.0,
-      "value_krw": 2400000,
+      "last_price_krw": 1447.0,
+      "value_krw": 2529351.784413693,
       "thesis": "함정 유동성에서 벗어나 양전환과 대금 회복이 동시에 확인된 재상승 후보",
       "strategy": "liquidity rebound rotation",
       "role": "liquidity rebound",
@@ -37,79 +37,79 @@
       "market": "KRW-MET2",
       "amount": 5161.619704670499,
       "avg_buy_price_krw": 280.0,
-      "last_price_krw": 280.0,
-      "value_krw": 1445253.5173077397,
+      "last_price_krw": 275.0,
+      "value_krw": 1419445.4187843872,
       "thesis": "중형 알트 순환매가 확산되는 구간의 대금 리더",
       "strategy": "mid-cap momentum rotation",
       "role": "mid-cap rotation leader",
       "risk_limit_pct": 6,
       "profit_take_pct": 13
     },
-    "CPOOL": {
-      "market": "KRW-CPOOL",
-      "amount": 40358.744394618836,
-      "avg_buy_price_krw": 44.6,
-      "last_price_krw": 44.6,
-      "value_krw": 1800000,
-      "thesis": "+10%대 추세와 거래대금이 동시에 붙는 신규 돌파형",
-      "strategy": "breakout attacker",
-      "role": "breakout attacker",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 16
-    },
     "AVNT": {
       "market": "KRW-AVNT",
       "amount": 7500,
       "avg_buy_price_krw": 220.0,
-      "last_price_krw": 220.0,
-      "value_krw": 1650000,
+      "last_price_krw": 224.0,
+      "value_krw": 1680000.0,
       "thesis": "후속 리테일 추격이 확인되는 저녁 신규 공격축",
       "strategy": "secondary momentum rotation",
       "role": "secondary momentum",
       "risk_limit_pct": 7,
       "profit_take_pct": 15
+    },
+    "FLUID": {
+      "market": "KRW-FLUID",
+      "amount": 602.1603084554511,
+      "avg_buy_price_krw": 2882.0,
+      "last_price_krw": 2882.0,
+      "value_krw": 1735426.0089686099,
+      "thesis": "업비트 신규 강세축 중 상승률과 거래대금이 동시에 가장 선명한 새벽 돌파 리더",
+      "strategy": "fresh breakout rotation",
+      "role": "fresh momentum leader",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 16
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.49M원, 알트 확산 유지의 최상위 기준"
+      "reason": "116.57M원, 알트 확산 지속의 최상위 기준"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.529M원, 메이저 동반 강세 확인"
+      "reason": "3.535M원, 메이저 동반 강세 유지 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,145원, 국내 유동성 체온계"
+      "reason": "2,142원, 국내 리테일 온도 유지 확인용"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "130,600원, risk-on 지속 참고"
+      "reason": "129,700원, risk-on 바탕 유지 참고"
+    },
+    {
+      "symbol": "CPOOL",
+      "market": "KRW-CPOOL",
+      "reason": "+6.97%, 대금 331억원으로 밀리진 않았지만 FLUID 대비 우선순위 한 단계 하락"
     },
     {
       "symbol": "SEI",
       "market": "KRW-SEI",
-      "reason": "+7.63%, 차기 교체 경쟁 후보"
+      "reason": "+9.62%, 대금 182억원으로 차기 교체 후보 유지"
+    },
+    {
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "reason": "+5.28%, 대금 212억원으로 안정형 순환 후보"
     },
     {
       "symbol": "PENGU",
       "market": "KRW-PENGU",
-      "reason": "+14.78%, 고베타 후보"
-    },
-    {
-      "symbol": "SENT",
-      "market": "KRW-SENT",
-      "reason": "주도력 약화, 재강세 전 관찰"
-    },
-    {
-      "symbol": "FLOCK",
-      "market": "KRW-FLOCK",
-      "reason": "-2.21%, 제외 유지"
+      "reason": "+8.70%, 대금 165억원 고베타 추격 후보"
     }
   ],
   "history": [
@@ -445,6 +445,24 @@
       "amount_delta": 7500,
       "cash_delta_krw": -1650000,
       "reason": "+10.0%와 258억원대 거래대금으로 후속 리테일 추격이 확인돼 신규 편입"
+    },
+    {
+      "timestamp": "2026-04-23T02:00:00+09:00",
+      "symbol": "CPOOL",
+      "action": "SELL",
+      "price_krw": 43.0,
+      "amount_delta": -40358.744394618836,
+      "cash_delta_krw": 1735426.0089686099,
+      "reason": "강세는 유지됐지만 새벽에는 FLUID가 더 높은 상승률과 더 큰 거래대금으로 주도권을 가져가 전량 교체"
+    },
+    {
+      "timestamp": "2026-04-23T02:00:00+09:00",
+      "symbol": "FLUID",
+      "action": "BUY",
+      "price_krw": 2882.0,
+      "amount_delta": 602.1603084554511,
+      "cash_delta_krw": -1735426.0089686099,
+      "reason": "+19.73%와 24시간 거래대금 약 383억원이 동행해 새벽 신규 돌파 리더로 편입"
     }
   ]
 }
