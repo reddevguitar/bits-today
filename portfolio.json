@@ -2,19 +2,19 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 0.0018174550496041775,
-  "realized_pnl_krw": -105645.79213841516,
-  "last_valuation_krw": 9780364.636844806,
-  "last_action": "HOLD_HIGH_MOMENTUM_BASKET",
-  "last_updated": "2026-04-22T08:00:00+09:00",
-  "trade_count": 144,
+  "cash_krw": 0,
+  "realized_pnl_krw": -127566.4754150109,
+  "last_valuation_krw": 9674609.373579,
+  "last_action": "ROTATE_FLOCK_TO_SENT",
+  "last_updated": "2026-04-22T14:00:00+09:00",
+  "trade_count": 146,
   "positions": {
     "AXL": {
       "market": "KRW-AXL",
       "amount": 21689.497716894977,
       "avg_buy_price_krw": 87.6,
-      "last_price_krw": 81.5,
-      "value_krw": 1767694.0639269406,
+      "last_price_krw": 82.3,
+      "value_krw": 1785045.6621004567,
       "thesis": "상승률과 거래대금이 같이 붙은 신규 강세 축",
       "strategy": "momentum breakout rotation",
       "role": "breakout attacker",
@@ -25,8 +25,8 @@
       "market": "KRW-BIO",
       "amount": 50691.244239631334,
       "avg_buy_price_krw": 43.4,
-      "last_price_krw": 44.3,
-      "value_krw": 2245622.119815668,
+      "last_price_krw": 43,
+      "value_krw": 2179723.5023041475,
       "thesis": "고대금 동반 저가 알트 순환매",
       "strategy": "retail momentum rotation",
       "role": "retail momentum core",
@@ -36,9 +36,9 @@
     "NEWT": {
       "market": "KRW-NEWT",
       "amount": 14053.81893266889,
-      "avg_buy_price_krw": 137.0,
-      "last_price_krw": 124.0,
-      "value_krw": 1742673.5476509423,
+      "avg_buy_price_krw": 137,
+      "last_price_krw": 121,
+      "value_krw": 1700512.0908529358,
       "thesis": "당일 최상위 돌파 탄력",
       "strategy": "high beta breakout chase",
       "role": "high-beta breakout",
@@ -49,67 +49,67 @@
       "market": "KRW-CHIP",
       "amount": 25235.862702078524,
       "avg_buy_price_krw": 86.6,
-      "last_price_krw": 91.5,
-      "value_krw": 2309081.4372401848,
+      "last_price_krw": 91.7,
+      "value_krw": 2314128.6097806008,
       "thesis": "업비트 상위 거래대금과 양전환 지속",
       "strategy": "turnover momentum rotation",
       "role": "turnover leader",
       "risk_limit_pct": 6,
       "profit_take_pct": 14
     },
-    "FLOCK": {
-      "market": "KRW-FLOCK",
-      "amount": 18267.236063829787,
-      "avg_buy_price_krw": 94.0,
-      "last_price_krw": 93.9,
-      "value_krw": 1715293.466393617,
-      "thesis": "중형 알트 후속 모멘텀 지속",
-      "strategy": "follow-through breakout rotation",
-      "role": "mid-cap momentum",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 13
+    "SENT": {
+      "market": "KRW-SENT",
+      "amount": 62323.51134341394,
+      "avg_buy_price_krw": 27.2,
+      "last_price_krw": 27.2,
+      "value_krw": 1695199.5085408592,
+      "thesis": "저가 알트 신규 상대강도와 유동성 유입",
+      "strategy": "fresh momentum replacement",
+      "role": "replacement attacker",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 16
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.42M원, 112M 지지 확인 필요"
+      "reason": "114.51M원, 반등 지속 여부 확인 필요"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.436M원, 알트 확산 지속성 참고"
+      "reason": "3.490M원, 알트 확산 강도 참고"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,115원, 국내 유동성 체온계"
+      "reason": "2,134원, 국내 유동성 체온계"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "126,900원, risk-on 유지 여부 참고"
+      "reason": "128,600원, risk-on 유지 여부 참고"
     },
     {
       "symbol": "PIEVERSE",
       "market": "KRW-PIEVERSE",
-      "reason": "대금 1위지만 -5.88%, 약세 리더로 경계"
+      "reason": "대금은 크지만 -2.31%, 약세 리더 경계"
+    },
+    {
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "reason": "-2.32%, 재강세 복귀 전까지 제외"
     },
     {
       "symbol": "IP",
       "market": "KRW-IP",
-      "reason": "+1.59%, 대금 유지되는 차순위 후보"
-    },
-    {
-      "symbol": "SENT",
-      "market": "KRW-SENT",
-      "reason": "+4.38%, 후속 강세 확인 시 교체 후보"
+      "reason": "거의 보합, 차기 교체 후보"
     },
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "+2.33%, 메이저 외 품질형 보조 후보"
+      "reason": "+0.38%, 품질형 대안 후보"
     }
   ],
   "history": [
@@ -126,9 +126,9 @@
       "timestamp": "2026-04-21T02:00:00+09:00",
       "symbol": "SUPER",
       "action": "BUY",
-      "price_krw": 207.0,
+      "price_krw": 207,
       "amount_delta": 9420.28985507,
-      "cash_delta_krw": -1950000.0,
+      "cash_delta_krw": -1950000,
       "reason": "업비트 알트 중 상승률 +18.29%와 거래대금 약 605억원이 동시에 확인돼 1순위 추세 코어로 편입"
     },
     {
@@ -137,25 +137,25 @@
       "action": "BUY",
       "price_krw": 66.2,
       "amount_delta": 27945.61933535,
-      "cash_delta_krw": -1850000.0,
+      "cash_delta_krw": -1850000,
       "reason": "상승률 +10.33%, 거래대금 약 203억원으로 2차 순환매 핵심 후보라 분산 편입"
     },
     {
       "timestamp": "2026-04-21T02:00:00+09:00",
       "symbol": "PIEVERSE",
       "action": "BUY",
-      "price_krw": 1384.0,
+      "price_krw": 1384,
       "amount_delta": 1300.57803468,
-      "cash_delta_krw": -1800000.0,
+      "cash_delta_krw": -1800000,
       "reason": "24시간 거래대금 약 2529억원으로 업비트 전체 1위라 재반등 가능성을 노린 유동성 베팅"
     },
     {
       "timestamp": "2026-04-21T02:00:00+09:00",
       "symbol": "DOGE",
       "action": "BUY",
-      "price_krw": 141.0,
+      "price_krw": 141,
       "amount_delta": 12056.73758865,
-      "cash_delta_krw": -1700000.0,
+      "cash_delta_krw": -1700000,
       "reason": "메이저보다 가볍고 거래대금 약 247억원이 유지돼 공격 포트폴리오의 베타 자산으로 채택"
     },
     {
@@ -164,7 +164,7 @@
       "action": "BUY",
       "price_krw": 48.1,
       "amount_delta": 31185.03118503,
-      "cash_delta_krw": -1500000.0,
+      "cash_delta_krw": -1500000,
       "reason": "가격은 -2.04%로 눌렸지만 거래대금 약 446억원이라 반등 실패 여부가 빨리 드러나는 고유동성 실험 포지션"
     },
     {
@@ -207,7 +207,7 @@
       "timestamp": "2026-04-21T14:00:00+09:00",
       "symbol": "SUPER",
       "action": "SELL",
-      "price_krw": 195.0,
+      "price_krw": 195,
       "amount_delta": -9420.28985507,
       "cash_delta_krw": 1836956.52,
       "reason": "급등 직후 +18% 리더에서 -4.4% 역전으로 바뀌어 추세 실패 리스크가 커져 교체"
@@ -216,9 +216,9 @@
       "timestamp": "2026-04-21T14:00:00+09:00",
       "symbol": "DOGE",
       "action": "SELL",
-      "price_krw": 141.0,
+      "price_krw": 141,
       "amount_delta": -12056.73758865,
-      "cash_delta_krw": 1700000.0,
+      "cash_delta_krw": 1700000,
       "reason": "거래대금과 변동성 모두 후보군 대비 둔해져 더 강한 업비트 알트로 자금 재배치"
     },
     {
@@ -243,7 +243,7 @@
       "timestamp": "2026-04-21T14:00:00+09:00",
       "symbol": "IP",
       "action": "BUY",
-      "price_krw": 773.0,
+      "price_krw": 773,
       "amount_delta": 2199.22380336,
       "cash_delta_krw": -1700000,
       "reason": "상승률 +2.66%와 거래대금 약 197억원으로 조용한 강세가 유지돼 신규 편입"
@@ -252,7 +252,7 @@
       "timestamp": "2026-04-21T14:00:00+09:00",
       "symbol": "AAVE",
       "action": "BUY",
-      "price_krw": 137300.0,
+      "price_krw": 137300,
       "amount_delta": 11.65331391,
       "cash_delta_krw": -1600000,
       "reason": "상승률 +2.16%와 거래대금 약 137억원으로 품질형 상대강도가 유지돼 편입"
@@ -261,7 +261,7 @@
       "timestamp": "2026-04-21T14:00:00+09:00",
       "symbol": "PIEVERSE",
       "action": "BUY",
-      "price_krw": 1558.0,
+      "price_krw": 1558,
       "amount_delta": 385.10911425,
       "cash_delta_krw": -600000,
       "reason": "업비트 최상위 거래대금과 +9.1% 강세가 동시 확인돼 비중 확대"
@@ -288,7 +288,7 @@
       "timestamp": "2026-04-21T20:00:00+09:00",
       "symbol": "IP",
       "action": "SELL",
-      "price_krw": 762.0,
+      "price_krw": 762,
       "amount_delta": -2199.223803363519,
       "cash_delta_krw": 1675808.5381630014,
       "reason": "양전환은 유지됐지만 당일 주도력 부족으로 더 강한 돌파형에 자리 양보"
@@ -299,14 +299,14 @@
       "action": "BUY",
       "price_krw": 43.4,
       "amount_delta": 50691.244239631334,
-      "cash_delta_krw": -2200000.0,
+      "cash_delta_krw": -2200000,
       "reason": "24시간 거래대금 약 364억원과 +6.37% 강세가 동행해 신규 편입"
     },
     {
       "timestamp": "2026-04-21T20:00:00+09:00",
       "symbol": "NEWT",
       "action": "BUY",
-      "price_krw": 137.0,
+      "price_krw": 137,
       "amount_delta": 14053.81893266889,
       "cash_delta_krw": -1925373.193775638,
       "reason": "당일 +21.24% 최상위 돌파형으로 고베타 공격축 편입"
@@ -315,7 +315,7 @@
       "timestamp": "2026-04-22T02:00:00+09:00",
       "symbol": "PIEVERSE",
       "action": "SELL",
-      "price_krw": 1377.0,
+      "price_krw": 1377,
       "amount_delta": -1685.6871489290372,
       "cash_delta_krw": 2321191.2040752843,
       "reason": "압도적 대금은 유지되지만 -3.57%로 약세 전환이 깊어져 더 강한 알트로 교체"
@@ -324,7 +324,7 @@
       "timestamp": "2026-04-22T02:00:00+09:00",
       "symbol": "AAVE",
       "action": "SELL",
-      "price_krw": 135700.0,
+      "price_krw": 135700,
       "amount_delta": -11.653313911143481,
       "cash_delta_krw": 1581354.6977421704,
       "reason": "품질형 방어는 가능하지만 현재 회차는 CHIP·FLOCK 대비 공격 탄력이 약해 교체"
@@ -342,7 +342,7 @@
       "timestamp": "2026-04-22T02:00:00+09:00",
       "symbol": "FLOCK",
       "action": "BUY",
-      "price_krw": 94.0,
+      "price_krw": 94,
       "amount_delta": 18267.236063829787,
       "cash_delta_krw": -1717120.19,
       "reason": "상승률 +6.33%와 24h 대금 약 169억원으로 후속 모멘텀 자금 배치"
@@ -355,6 +355,24 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "CHIP·BIO·NEWT·AXL·FLOCK 5종이 모두 업비트 상위 대금과 양의 모멘텀을 유지해, 이번 회차는 교체보다 보유 지속이 기대값이 높다고 판단"
+    },
+    {
+      "timestamp": "2026-04-22T14:00:00+09:00",
+      "symbol": "FLOCK",
+      "action": "SELL",
+      "price_krw": 92.8,
+      "amount_delta": -18267.236063829787,
+      "cash_delta_krw": 1695199.5067234042,
+      "reason": "오전 대비 상대강도와 대금 질이 약해졌고 -2.32%로 밀려 신규 강세 SENT로 교체"
+    },
+    {
+      "timestamp": "2026-04-22T14:00:00+09:00",
+      "symbol": "SENT",
+      "action": "BUY",
+      "price_krw": 27.2,
+      "amount_delta": 62323.51134341394,
+      "cash_delta_krw": -1695199.5067234042,
+      "reason": "+3.82%와 24시간 거래대금 약 165억원이 동행해 FLOCK 대체 공격축으로 신규 편입"
     }
   ]
 }
