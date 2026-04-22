@@ -4,17 +4,17 @@
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
   "realized_pnl_krw": -617459.6433473097,
-  "last_valuation_krw": 11351489.519095097,
-  "last_action": "ROTATE_CPOOL_TO_FLUID",
-  "last_updated": "2026-04-23T02:00:00+09:00",
+  "last_valuation_krw": 11427556.094104305,
+  "last_action": "HOLD_TOP5_AGGRESSIVE",
+  "last_updated": "2026-04-23T08:00:00+09:00",
   "trade_count": 156,
   "positions": {
     "CHIP": {
       "market": "KRW-CHIP",
       "amount": 25235.862702078524,
       "avg_buy_price_krw": 86.6,
-      "last_price_krw": 158.0,
-      "value_krw": 3987266.306928407,
+      "last_price_krw": 160.0,
+      "value_krw": 4037738.032332564,
       "thesis": "업비트 최상위 거래대금과 폭발적 상대강도가 동행하는 메인 리더",
       "strategy": "turnover breakout core",
       "role": "primary leader",
@@ -25,8 +25,8 @@
       "market": "KRW-PIEVERSE",
       "amount": 1747.9970866715223,
       "avg_buy_price_krw": 1373.0,
-      "last_price_krw": 1447.0,
-      "value_krw": 2529351.784413693,
+      "last_price_krw": 1476.0,
+      "value_krw": 2580043.699927167,
       "thesis": "함정 유동성에서 벗어나 양전환과 대금 회복이 동시에 확인된 재상승 후보",
       "strategy": "liquidity rebound rotation",
       "role": "liquidity rebound",
@@ -37,8 +37,8 @@
       "market": "KRW-MET2",
       "amount": 5161.619704670499,
       "avg_buy_price_krw": 280.0,
-      "last_price_krw": 275.0,
-      "value_krw": 1419445.4187843872,
+      "last_price_krw": 277.0,
+      "value_krw": 1429768.6581937282,
       "thesis": "중형 알트 순환매가 확산되는 구간의 대금 리더",
       "strategy": "mid-cap momentum rotation",
       "role": "mid-cap rotation leader",
@@ -49,8 +49,8 @@
       "market": "KRW-AVNT",
       "amount": 7500,
       "avg_buy_price_krw": 220.0,
-      "last_price_krw": 224.0,
-      "value_krw": 1680000.0,
+      "last_price_krw": 218.0,
+      "value_krw": 1635000.0,
       "thesis": "후속 리테일 추격이 확인되는 저녁 신규 공격축",
       "strategy": "secondary momentum rotation",
       "role": "secondary momentum",
@@ -61,8 +61,8 @@
       "market": "KRW-FLUID",
       "amount": 602.1603084554511,
       "avg_buy_price_krw": 2882.0,
-      "last_price_krw": 2882.0,
-      "value_krw": 1735426.0089686099,
+      "last_price_krw": 2856.0,
+      "value_krw": 1719769.8409487682,
       "thesis": "업비트 신규 강세축 중 상승률과 거래대금이 동시에 가장 선명한 새벽 돌파 리더",
       "strategy": "fresh breakout rotation",
       "role": "fresh momentum leader",
@@ -74,42 +74,42 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "116.57M원, 알트 확산 지속의 최상위 기준"
+      "reason": "116.443M원, 알트 확산 지속의 최상위 기준"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.535M원, 메이저 동반 강세 유지 확인용"
+      "reason": "3.550M원, 메이저 동반 강세 유지 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,142원, 국내 리테일 온도 유지 확인용"
+      "reason": "2,130원, 국내 리테일 온도 확인용"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "129,700원, risk-on 바탕 유지 참고"
+      "reason": "129,500원, risk-on 바탕 유지 참고"
     },
     {
       "symbol": "CPOOL",
       "market": "KRW-CPOOL",
-      "reason": "+6.97%, 대금 331억원으로 밀리진 않았지만 FLUID 대비 우선순위 한 단계 하락"
-    },
-    {
-      "symbol": "SEI",
-      "market": "KRW-SEI",
-      "reason": "+9.62%, 대금 182억원으로 차기 교체 후보 유지"
+      "reason": "+8.46%, 대금 337억원으로 재편입 대기 1순위"
     },
     {
       "symbol": "SOON",
       "market": "KRW-SOON",
-      "reason": "+5.28%, 대금 212억원으로 안정형 순환 후보"
+      "reason": "+7.72%, 대금 217억원으로 중형 순환 보조축 감시"
     },
     {
-      "symbol": "PENGU",
-      "market": "KRW-PENGU",
-      "reason": "+8.70%, 대금 165억원 고베타 추격 후보"
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "reason": "+6.69%, 대금 192억원으로 차기 교체 후보 유지"
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "+12.23%로 강하지만 대금 172억원 수준이라 AVNT 아래"
     }
   ],
   "history": [
@@ -463,6 +463,15 @@
       "amount_delta": 602.1603084554511,
       "cash_delta_krw": -1735426.0089686099,
       "reason": "+19.73%와 24시간 거래대금 약 383억원이 동행해 새벽 신규 돌파 리더로 편입"
+    },
+    {
+      "timestamp": "2026-04-23T08:00:00+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 11427556.094104305,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "CHIP·PIEVERSE·MET2·FLUID·AVNT 5종이 모두 플러스 수익률과 업비트 상위 거래대금을 유지해, 이번 오전 회차는 무리한 교체보다 공격 분산 보유 지속의 기대값이 높다고 판단"
     }
   ]
 }

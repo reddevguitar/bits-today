@@ -33,6 +33,7 @@ ICONS = {
     'MET2': '🧱',
     'CPOOL': '🌊',
     'AVNT': '🚀',
+    'FLUID': '💧',
     'SEI': '🟥',
     'CARV': '🕹️',
     'PENGU': '🐧'
@@ -80,6 +81,16 @@ sections = {}
 recent_history = history[-40:]
 recent_buys = sum(1 for item in recent_history if item.get('action') == 'BUY')
 recent_sells = sum(1 for item in recent_history if item.get('action') == 'SELL')
+preferred_changes = [item.get('change_pct_24h', 0) or 0 for item in preferred[:5]]
+preferred_turnovers = [item.get('turnover_krw_24h', 0) or 0 for item in preferred[:5]]
+total_preferred_turnover = sum(preferred_turnovers)
+leader_turnover_share = round((max(preferred_turnovers) / total_preferred_turnover) * 100, 2) if total_preferred_turnover else 0
+market_breadth = {
+    'preferred_avg_change_pct_24h': round(sum(preferred_changes) / len(preferred_changes), 2) if preferred_changes else 0,
+    'preferred_positive_count': sum(1 for x in preferred_changes if x > 0),
+    'preferred_turnover_total_krw_24h': total_preferred_turnover,
+    'leader_turnover_share_pct': leader_turnover_share
+}
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -144,6 +155,7 @@ status = {
     'scorecard': scorecard,
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
+    'market_breadth': market_breadth,
     'report_sections': sections,
 }
 
