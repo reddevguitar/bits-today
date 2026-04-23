@@ -3,18 +3,18 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": 346074.3162912645,
-  "last_valuation_krw": 10379639.195914924,
-  "last_action": "ROTATE_TO_RELATIVE_STRENGTH",
-  "last_updated": "2026-04-23T14:00:00+09:00",
-  "trade_count": 164,
+  "realized_pnl_krw": 206597.91459615756,
+  "last_valuation_krw": 10708592.868276224,
+  "last_action": "ROTATE_BLUR_TO_SPK",
+  "last_updated": "2026-04-23T20:00:00+09:00",
+  "trade_count": 166,
   "positions": {
     "CHIP": {
       "market": "KRW-CHIP",
       "amount": 19875.904843241347,
       "avg_buy_price_krw": 141.0,
-      "last_price_krw": 141.0,
-      "value_krw": 2802502.58289703,
+      "last_price_krw": 158.0,
+      "value_krw": 3140392.965232133,
       "thesis": "업비트 최대 거래대금이 유지되는 급락 후 반등 후보",
       "strategy": "turnover flush rebound",
       "role": "turnover rebound core",
@@ -25,8 +25,8 @@
       "market": "KRW-BIO",
       "amount": 48074.11838107965,
       "avg_buy_price_krw": 47.5,
-      "last_price_krw": 47.5,
-      "value_krw": 2283520.6231012833,
+      "last_price_krw": 47.8,
+      "value_krw": 2297942.858615607,
       "thesis": "당일 플러스 전환과 강한 거래대금이 동행한 오후 리더",
       "strategy": "fresh positive rotation",
       "role": "fresh positive leader",
@@ -37,8 +37,8 @@
       "market": "KRW-SOON",
       "amount": 6971.399459942859,
       "avg_buy_price_krw": 268.0,
-      "last_price_krw": 268.0,
-      "value_krw": 1868335.0552646862,
+      "last_price_krw": 275.0,
+      "value_krw": 1917134.8514842861,
       "thesis": "업비트 상장 후 관심이 남아 있는 이벤트형 모멘텀 자산",
       "strategy": "listing momentum rotation",
       "role": "listing momentum support",
@@ -49,67 +49,67 @@
       "market": "KRW-AXL",
       "amount": 20399.290905266327,
       "avg_buy_price_krw": 86.5,
-      "last_price_krw": 86.5,
-      "value_krw": 1764538.6633055373,
+      "last_price_krw": 89.8,
+      "value_krw": 1831856.3232929162,
       "thesis": "중형 알트 재상승이 다시 붙는 회복형 후보",
       "strategy": "mid-cap recovery rotation",
       "role": "mid-cap recovery",
       "risk_limit_pct": 6,
       "profit_take_pct": 11
     },
-    "BLUR": {
-      "market": "KRW-BLUR",
-      "amount": 32436.372487234137,
-      "avg_buy_price_krw": 51.2,
-      "last_price_krw": 51.2,
-      "value_krw": 1660742.271346388,
-      "thesis": "대금은 얕지만 양전환 탄성이 살아 있는 가벼운 공격 슬롯",
-      "strategy": "light momentum rotation",
-      "role": "light momentum tail",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 10
+    "SPK": {
+      "market": "KRW-SPK",
+      "amount": 16589.595088890743,
+      "avg_buy_price_krw": 91.7,
+      "last_price_krw": 91.7,
+      "value_krw": 1521265.8696512813,
+      "thesis": "업비트 신규 관심이 급증하며 거래대금 2위권과 두 자릿수 상승률이 동시에 붙은 초강세 리더",
+      "strategy": "listing momentum breakout",
+      "role": "high-beta leader",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 15
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.789M원, 메이저가 쉬는 구간이라 알트 추격 강도 체크 필요"
+      "reason": "115.2M원, 메이저 약세 지속이라 알트 추격 강도 과열 여부 체크"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.489M원, 메이저 전반 숨고르기 확인용"
+      "reason": "3.445M원, 메이저 위험선 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,106원, 국내 리테일 온도 약화 여부 확인용"
+      "reason": "2,098원, 국내 리테일 온도 약화 여부 확인용"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "127,800원, risk-on 유지력 점검용"
+      "reason": "127,100원, risk-on 유지력 점검용"
+    },
+    {
+      "symbol": "KAT",
+      "market": "KRW-KAT",
+      "reason": "+14.29%, 202억원대 대금으로 SPK 다음 교체 후보"
     },
     {
       "symbol": "PIEVERSE",
       "market": "KRW-PIEVERSE",
-      "reason": "대금은 크지만 1330원대로 무너져 반등 확인 전까지 관망"
-    },
-    {
-      "symbol": "CPOOL",
-      "market": "KRW-CPOOL",
-      "reason": "43원, 대금 410억원 수준이라 BLUR 교체 후보 1순위"
-    },
-    {
-      "symbol": "SPK",
-      "market": "KRW-SPK",
-      "reason": "대금 983억원으로 크지만 음봉이라 코어 제외, 반전 시 즉시 재검토"
+      "reason": "2140억원대 대금은 크지만 -7.68%라 반등 확인 전 제외 유지"
     },
     {
       "symbol": "PENGU",
       "market": "KRW-PENGU",
-      "reason": "+4.10%, 대금 180억원으로 후속 강세 감시"
+      "reason": "+0.82%, 158억원대 대금으로 저가 후속 순환 감시"
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "+0.71%, 293억원대 대금이지만 메이저성 베타라 코어 제외"
     }
   ],
   "history": [
@@ -544,6 +544,24 @@
       "amount_delta": 32436.372487234137,
       "cash_delta_krw": -1660742.271346388,
       "reason": "대금은 얕지만 양전환 탄성이 좋아 5번째 공격 슬롯으로 채택"
+    },
+    {
+      "timestamp": "2026-04-23T20:00:00+09:00",
+      "symbol": "BLUR",
+      "action": "SELL",
+      "price_krw": 46.9,
+      "amount_delta": -32436.372487234137,
+      "cash_delta_krw": 1521265.869651281,
+      "reason": "24시간 -6.01% 약세와 153억원대 대금 둔화로, 같은 고변동 슬롯을 더 강한 SPK로 교체"
+    },
+    {
+      "timestamp": "2026-04-23T20:00:00+09:00",
+      "symbol": "SPK",
+      "action": "BUY",
+      "price_krw": 91.7,
+      "amount_delta": 16589.595088890743,
+      "cash_delta_krw": -1521265.869651281,
+      "reason": "업비트 24시간 거래대금 2위권과 +14.62% 강세가 동행해 BLUR 대체 최우선 공격축으로 편입"
     }
   ]
 }

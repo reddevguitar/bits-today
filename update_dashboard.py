@@ -36,7 +36,10 @@ ICONS = {
     'FLUID': '💧',
     'SEI': '🟥',
     'CARV': '🕹️',
-    'PENGU': '🐧'
+    'PENGU': '🐧',
+    'SPK': '⚡',
+    'KAT': '🐱',
+    'ZAMA': '🛡️'
 }
 
 
