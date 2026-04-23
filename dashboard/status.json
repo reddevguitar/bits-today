@@ -1,69 +1,106 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive rotation into upbit leaders",
-  "confidence": "high",
+  "judgment": "aggressive rotation with hard invalidation discipline",
+  "confidence": "medium-high",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-04-23 20:00 KST",
-  "market_status": "메이저 4종은 모두 약세지만 업비트 알트는 SPK·BIO·AXL 중심으로 강세가 살아 있어, 지금은 메이저 추종보다 국내 주도 알트 회전이 우선입니다.",
-  "fear_greed": "46 (Fear, alternative.me API)",
-  "btc_snapshot": "BTC 115.2M원(-0.60%), ETH 3.445M원(-2.10%), XRP 2,098원(-1.08%), SOL 127,100원(-1.32%)",
+  "updated_at": "2026-04-24 02:00 KST",
+  "market_status": "메이저는 힘이 약하지만 업비트 알트는 KAT·BIO·SOON 중심으로 살아 있어, 지금은 대금 크기보다 가격이 안 깨지는 강세 종목으로 더 빠르게 갈아타야 합니다.",
+  "fear_greed": "46 (Fear, 외부 참고치)",
+  "btc_snapshot": "BTC 115.0M원대, ETH 3.38M원대, XRP 2,080원대, SOL 125.5K원대",
   "cash_krw": "0 KRW",
   "realized_pnl_krw": "206,598 KRW",
-  "last_valuation_krw": "10,708,593 KRW",
+  "last_valuation_krw": "10,083,878 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": 7.09,
-  "last_action": "ROTATE_BLUR_TO_SPK",
-  "trade_count": 166,
-  "last_updated": "2026-04-23T20:00:00+09:00",
+  "return_pct": 0.84,
+  "last_action": "ROTATE_CHIP_SPK_TO_KAT_FLOCK",
+  "trade_count": 170,
+  "last_updated": "2026-04-24T02:00:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 20,
-    "recent_sell_count": 18,
-    "recent_rotation_count": 18
+    "recent_buy_count": 21,
+    "recent_sell_count": 17,
+    "recent_rotation_count": 17
   },
   "summary": [
-    "₿ BTC: 115.2M원, -0.60%, 메이저 약세 지속",
-    "◆ ETH: 3.445M원, -2.10%, 알트 추격엔 역풍",
-    "💧 XRP: 2,098원, -1.08%, 국내 리테일 온도 둔화",
-    "☀️ SOL: 127,100원, -1.32%, risk-on 체력 확인용",
+    "₿ BTC: 115.0M원대, 방향성 약함",
+    "◆ ETH: 3.38M원대, 메이저 체력 둔화",
+    "💧 XRP: 2,080원대, 국내 온도 확인용",
+    "☀️ SOL: 125.5K원대, risk-on 지속 체크용",
     "현금 0%, 5종 공격 분산 유지",
-    "BLUR 약세 슬롯 제거, SPK 초강세 슬롯 추가",
-    "CHIP은 대금 코어, SPK는 고베타 리더, BIO·SOON·AXL은 추세 분산축",
-    "지금 장은 약한 보유보다 강한 교체가 유리",
-    "SELL 🌫️ BLUR",
-    "BUY ⚡ SPK",
-    "HOLD 🧩 CHIP",
+    "CHIP·SPK처럼 무효화가 실제 나온 종목은 대금이 커도 교체",
+    "KAT는 폭발형 리더, BIO·SOON·AXL은 추세 분산축, FLOCK은 후속 돌파 보조축",
+    "이번 회차 핵심은 대금 추종이 아니라 실패 인정 속도",
+    "SELL 🧩 CHIP",
+    "SELL ⚡ SPK",
+    "BUY 🐱 KAT",
+    "BUY 🐦 FLOCK",
     "HOLD 🧬 BIO",
     "HOLD 🔜 SOON",
     "HOLD 🛰️ AXL",
     "현금: 0원",
-    "🧩 CHIP: 19875.90484324개 @ 평균 141원, 현재 158원",
-    "⚡ SPK: 16589.59508889개 @ 평균 91.7원, 현재 91.7원",
-    "🧬 BIO: 48074.11838108개 @ 평균 47.5원, 현재 47.8원",
-    "🔜 SOON: 6971.39945994개 @ 평균 268원, 현재 275원",
-    "🛰️ AXL: 20399.29090527개 @ 평균 86.5원, 현재 89.8원",
-    "총 평가액: 10,708,593원",
+    "🐱 KAT: 107880.82355769개 @ 평균 20.8원, 현재 20.8원",
+    "🧬 BIO: 48074.11838108개 @ 평균 47.5원, 현재 47.1원",
+    "🔜 SOON: 6971.39945994개 @ 평균 268원, 현재 285원",
+    "🛰️ AXL: 20399.29090527개 @ 평균 86.5원, 현재 89.5원",
+    "🐦 FLOCK: 17456.24633663개 @ 평균 101원, 현재 101원",
+    "총 평가액: 10,083,878원",
     "실현손익: 206,598원",
-    "누적 수익률: +7.09%",
-    "14시 회차의 BIO·SOON·AXL 유지 판단은 맞았습니다.",
-    "BLUR를 오래 끌지 않고 SPK로 교체한 점은 이번 회차의 핵심 개선입니다.",
-    "CHIP 보유는 여전히 대금 의존이 강해서, 다음 회차엔 가격 훼손 시 더 냉정해야 합니다.",
-    "신규 초강세 리더 SPK를 바로 반영하도록 교체 속도를 높였습니다.",
-    "김치프리미엄 축소 데이터를 넣어 거시 과열 완화와 알트 선별 장세를 함께 설명했습니다.",
-    "dashboard 아이콘에 SPK·KAT·ZAMA를 추가해 신규 후보 가독성을 높였습니다.",
-    "보고서를 더 짧고 강하게 압축해 한눈에 읽히게 다듬었습니다.",
-    "aggressive rotation into upbit leaders",
-    "high",
-    "CHIP 151원, SPK 88원, BIO 46.5원, SOON 266원, AXL 86.8원 하향 시 즉시 재평가",
-    "KAT는 차기 교체 후보 1순위로 유지",
-    "메이저 약세가 깊어지면 고베타 종목부터 교체 속도를 더 높일 것",
-    "SPK는 가장 강하지만 상장 초기형 변동성이 매우 큽니다.",
-    "CHIP은 대금 절대우위가 꺾이면 음수 종목으로 빠르게 재분류해야 합니다.",
-    "BIO는 좋지만 48원 안착 실패 시 되돌림이 커질 수 있습니다.",
-    "메이저 4종 약세가 심해지면 알트 상대강도도 빠르게 꺾일 수 있습니다.",
-    "PIEVERSE·KAT는 대금이 충분해 다음 회차에 재편입 후보가 될 수 있습니다."
+    "누적 수익률: +0.84%",
+    "CHIP과 SPK는 대금이 커도 무효화가 실제 발생했는데, 이전 회차에서 너무 관대했습니다.",
+    "이번 회차에선 그 실수를 인정하고 바로 KAT·FLOCK으로 교체한 점은 좋았습니다.",
+    "다음 회차엔 KAT 급등 피로와 FLOCK 대금 지속성을 더 냉정하게 봐야 합니다.",
+    "무효화 가격 위반 시 대금 1위 종목도 예외 없이 교체하도록 판단 기준을 강화했습니다.",
+    "dashboard status에 selection_checks를 추가해 후보 5개 유지와 메이저 제외 규칙을 즉시 보이게 개선했습니다.",
+    "보고서에 이번 회차 실패 사례를 직접 적어 자기 피드백 가독성을 높였습니다.",
+    "종목별 무효화 가격 표기를 한 줄 형식으로 통일했습니다.",
+    "aggressive rotation with hard invalidation discipline",
+    "medium-high",
+    "KAT 19.8원, BIO 46.0원, SOON 276원, AXL 87.0원, FLOCK 96원 하향 시 즉시 재평가",
+    "CHIP은 151원 재안착 전까지 관찰만",
+    "SPK는 88원 재돌파 전까지 제외 유지",
+    "PIEVERSE·ZBT는 차기 교체 후보로 감시",
+    "KAT는 최강이지만 급등 피로가 매우 큽니다.",
+    "FLOCK은 상승률은 좋지만 대금이 후보군 중 가장 약합니다.",
+    "BIO·SOON·AXL은 상대적으로 안정적이지만 메이저 급락 시 함께 흔들릴 수 있습니다.",
+    "메이저 4종 약세가 깊어지면 알트 순환도 한 번에 꺾일 수 있습니다."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-04-24T02:00:00+09:00",
+      "symbol": "FLOCK",
+      "action": "BUY",
+      "price_krw": 101.0,
+      "amount_delta": 17456.246336633663,
+      "cash_delta_krw": -1763080.88,
+      "reason": "+10.02% 재점화와 양의 모멘텀이 확인돼 SPK 약세 슬롯 대체용으로 편입"
+    },
+    {
+      "timestamp": "2026-04-24T02:00:00+09:00",
+      "symbol": "KAT",
+      "action": "BUY",
+      "price_krw": 20.8,
+      "amount_delta": 107880.8235576923,
+      "cash_delta_krw": -2243921.13,
+      "reason": "+48.57%와 904억원대 거래대금이 동행해 새벽 최우선 공격 코어로 편입"
+    },
+    {
+      "timestamp": "2026-04-24T02:00:00+09:00",
+      "symbol": "SPK",
+      "action": "SELL",
+      "price_krw": 76.2,
+      "amount_delta": -16589.595088890743,
+      "cash_delta_krw": 1264127.1457734746,
+      "reason": "88원 무효화 하향이 확인돼 상장 초기형 급랭으로 판단, 전량 교체"
+    },
+    {
+      "timestamp": "2026-04-24T02:00:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 138.0,
+      "amount_delta": -19875.904843241347,
+      "cash_delta_krw": 2742874.868367306,
+      "reason": "151원 무효화 가격을 크게 하회해 대금보다 가격 훼손을 우선시하고 전량 교체"
+    },
     {
       "timestamp": "2026-04-23T20:00:00+09:00",
       "symbol": "SPK",
@@ -99,45 +136,13 @@
       "amount_delta": 20399.290905266327,
       "cash_delta_krw": -1764538.6633055373,
       "reason": "플러스 전환과 300억원대 대금이 함께 살아나 회복형 공격축으로 재편입"
-    },
-    {
-      "timestamp": "2026-04-23T14:00:00+09:00",
-      "symbol": "SOON",
-      "action": "BUY",
-      "price_krw": 268.0,
-      "amount_delta": 6971.399459942859,
-      "cash_delta_krw": -1868335.0552646862,
-      "reason": "상장 후 모멘텀이 아직 남아 있고 364억원대 대금 속 양전환을 유지해 편입"
-    },
-    {
-      "timestamp": "2026-04-23T14:00:00+09:00",
-      "symbol": "BIO",
-      "action": "BUY",
-      "price_krw": 47.5,
-      "amount_delta": 48074.11838107965,
-      "cash_delta_krw": -2283520.6231012833,
-      "reason": "+10.47%와 643억원대 대금이 동행해 오후 최우선 강세축으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-04-23T14:00:00+09:00",
-      "symbol": "AVNT",
-      "action": "SELL",
-      "price_krw": 212.0,
-      "amount_delta": -7500,
-      "cash_delta_krw": 1590000.0,
-      "reason": "214원 하회로 후속 공격축 가정이 무효화돼 BLUR로 교체"
-    },
-    {
-      "timestamp": "2026-04-23T14:00:00+09:00",
-      "symbol": "FLUID",
-      "action": "SELL",
-      "price_krw": 2621.0,
-      "amount_delta": -602.1603084554511,
-      "cash_delta_krw": 1578262.1684617372,
-      "reason": "2820원 아래 이탈이 깊어져 신규 돌파 리더 지위가 꺾였다고 판단"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-24-0200.md",
+      "title": "2026-04-24-0200"
+    },
     {
       "file": "2026-04-23-2000.md",
       "title": "2026-04-23-2000"
@@ -165,33 +170,16 @@
     {
       "file": "2026-04-22-0800.md",
       "title": "2026-04-22-0800"
-    },
-    {
-      "file": "2026-04-22-0200.md",
-      "title": "2026-04-22-0200"
     }
   ],
   "positions": [
-    {
-      "icon": "🧩",
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "amount": 19875.904843241347,
-      "avg_buy_price_krw": "141 KRW",
-      "last_price_krw": "158 KRW",
-      "thesis": "업비트 최대 거래대금이 유지되는 급락 후 반등 후보",
-      "strategy": "turnover flush rebound",
-      "role": "turnover rebound core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 12
-    },
     {
       "icon": "🧬",
       "symbol": "BIO",
       "market": "KRW-BIO",
       "amount": 48074.11838107965,
       "avg_buy_price_krw": "48 KRW",
-      "last_price_krw": "48 KRW",
+      "last_price_krw": "47 KRW",
       "thesis": "당일 플러스 전환과 강한 거래대금이 동행한 오후 리더",
       "strategy": "fresh positive rotation",
       "role": "fresh positive leader",
@@ -204,7 +192,7 @@
       "market": "KRW-SOON",
       "amount": 6971.399459942859,
       "avg_buy_price_krw": "268 KRW",
-      "last_price_krw": "275 KRW",
+      "last_price_krw": "285 KRW",
       "thesis": "업비트 상장 후 관심이 남아 있는 이벤트형 모멘텀 자산",
       "strategy": "listing momentum rotation",
       "role": "listing momentum support",
@@ -225,78 +213,43 @@
       "profit_take_pct": 11
     },
     {
-      "icon": "⚡",
-      "symbol": "SPK",
-      "market": "KRW-SPK",
-      "amount": 16589.595088890743,
-      "avg_buy_price_krw": "92 KRW",
-      "last_price_krw": "92 KRW",
-      "thesis": "업비트 신규 관심이 급증하며 거래대금 2위권과 두 자릿수 상승률이 동시에 붙은 초강세 리더",
-      "strategy": "listing momentum breakout",
-      "role": "high-beta leader",
+      "icon": "🐱",
+      "symbol": "KAT",
+      "market": "KRW-KAT",
+      "amount": 107880.8235576923,
+      "avg_buy_price_krw": "21 KRW",
+      "last_price_krw": "21 KRW",
+      "thesis": "업비트 새벽 최강 상승률과 대금이 동시에 붙은 포물선형 돌파 리더",
+      "strategy": "parabolic breakout rotation",
+      "role": "parabolic breakout leader",
       "risk_limit_pct": 8,
-      "profit_take_pct": 15
+      "profit_take_pct": 18
+    },
+    {
+      "icon": "🐦",
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "amount": 17456.246336633663,
+      "avg_buy_price_krw": "101 KRW",
+      "last_price_krw": "101 KRW",
+      "thesis": "새벽 재점화된 10%대 돌파 흐름을 가진 후속 공격 자산",
+      "strategy": "secondary breakout rotation",
+      "role": "secondary breakout",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 12
     }
   ],
   "chart_series": {
-    "BIO": [
-      {
-        "timestamp": "2026-04-21T20:00:00+09:00",
-        "price_krw": 43.4,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-22T20:00:00+09:00",
-        "price_krw": 43.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-04-23T14:00:00+09:00",
-        "price_krw": 47.5,
-        "action": "BUY"
-      }
-    ],
-    "NEWT": [
-      {
-        "timestamp": "2026-04-21T20:00:00+09:00",
-        "price_krw": 137,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-22T20:00:00+09:00",
-        "price_krw": 119.0,
-        "action": "SELL"
-      }
-    ],
-    "PIEVERSE": [
-      {
-        "timestamp": "2026-04-22T02:00:00+09:00",
-        "price_krw": 1377,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-04-22T20:00:00+09:00",
-        "price_krw": 1373.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-23T14:00:00+09:00",
-        "price_krw": 1331.0,
-        "action": "SELL"
-      }
-    ],
-    "AAVE": [
-      {
-        "timestamp": "2026-04-22T02:00:00+09:00",
-        "price_krw": 135700,
-        "action": "SELL"
-      }
-    ],
     "CHIP": [
       {
         "timestamp": "2026-04-22T02:00:00+09:00",
         "price_krw": 86.6,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-24T02:00:00+09:00",
+        "price_krw": 138.0,
+        "action": "SELL"
       }
     ],
     "FLOCK": [
@@ -309,6 +262,11 @@
         "timestamp": "2026-04-22T14:00:00+09:00",
         "price_krw": 92.8,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-04-24T02:00:00+09:00",
+        "price_krw": 101.0,
+        "action": "BUY"
       }
     ],
     "PORTFOLIO": [
@@ -345,6 +303,37 @@
         "timestamp": "2026-04-23T14:00:00+09:00",
         "price_krw": 86.5,
         "action": "BUY"
+      }
+    ],
+    "BIO": [
+      {
+        "timestamp": "2026-04-22T20:00:00+09:00",
+        "price_krw": 43.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-04-23T14:00:00+09:00",
+        "price_krw": 47.5,
+        "action": "BUY"
+      }
+    ],
+    "NEWT": [
+      {
+        "timestamp": "2026-04-22T20:00:00+09:00",
+        "price_krw": 119.0,
+        "action": "SELL"
+      }
+    ],
+    "PIEVERSE": [
+      {
+        "timestamp": "2026-04-22T20:00:00+09:00",
+        "price_krw": 1373.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-23T14:00:00+09:00",
+        "price_krw": 1331.0,
+        "action": "SELL"
       }
     ],
     "MET2": [
@@ -419,85 +408,97 @@
         "timestamp": "2026-04-23T20:00:00+09:00",
         "price_krw": 91.7,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-24T02:00:00+09:00",
+        "price_krw": 76.2,
+        "action": "SELL"
+      }
+    ],
+    "KAT": [
+      {
+        "timestamp": "2026-04-24T02:00:00+09:00",
+        "price_krw": 20.8,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-04-23-2000.md",
+  "latest_report_file": "2026-04-24-0200.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🧩",
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "price_krw": 158.0,
-      "change_pct_24h": -5.95,
-      "turnover_krw_24h": 975841297936.0,
-      "reason": "24시간 대금 1위가 압도적이고 최근 1시간 반등이 살아 있어 반등 코어 자격 유지",
-      "score": 8.8,
-      "community": "극단적 변동성에도 업비트 자금 집중이 계속됨",
-      "risk": "160원 재안착 실패 후 151원 하회 시 급랭 위험",
-      "allocation_krw": 3140392.965232133,
-      "role": "turnover rebound core",
-      "invalidated_if": "151원 하회와 대금 급감 동시 발생 시"
-    },
-    {
-      "icon": "⚡",
-      "symbol": "SPK",
-      "market": "KRW-SPK",
-      "price_krw": 91.7,
-      "change_pct_24h": 14.62,
-      "turnover_krw_24h": 252183012707.0,
-      "reason": "업비트 거래대금 2위권과 두 자릿수 상승률이 동행한 현 시점 최강 공격 리더",
-      "score": 9.4,
-      "community": "신규 상장 관심과 국내 추격 매수세가 가장 강함",
-      "risk": "상장 첫날형 변동성이라 88원 하회 시 급속 냉각 가능",
-      "allocation_krw": 1521265.8696512813,
-      "role": "high-beta leader",
-      "invalidated_if": "88원 하회 시"
+      "icon": "🐱",
+      "symbol": "KAT",
+      "market": "KRW-KAT",
+      "price_krw": 20.8,
+      "change_pct_24h": 48.57,
+      "turnover_krw_24h": 90374242005.0,
+      "reason": "거래대금 약 904억원과 +48.57% 폭발력이 동시에 확인돼 이번 회차 최우선 공격 코어",
+      "score": 9.6,
+      "community": "업비트 내 새벽 최강 리테일 추격이 집중된 초강세 1순위",
+      "risk": "급등 피로가 큰 종목이라 19.8원 하회 시 추격 실패 가능성 급증",
+      "allocation_krw": 2243921.13,
+      "role": "parabolic breakout leader",
+      "invalidated_if": "19.8원 하회 시"
     },
     {
       "icon": "🧬",
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "price_krw": 47.8,
-      "change_pct_24h": 11.16,
-      "turnover_krw_24h": 72424012923.0,
-      "reason": "+11.16%와 724억원대 대금이 동시에 유지돼 오후에도 선명한 강세축",
-      "score": 9.0,
-      "community": "리테일 추격이 꾸준히 붙는 바이오 테마 리더",
-      "risk": "48원 안착 실패 후 46.5원 하회 시 되돌림 확대 가능",
-      "allocation_krw": 2297942.858615607,
-      "role": "fresh positive leader",
-      "invalidated_if": "46.5원 하회 시"
+      "price_krw": 47.1,
+      "change_pct_24h": 9.53,
+      "turnover_krw_24h": 77367148313.0,
+      "reason": "+9.53%와 773억원대 대금이 동행해 새벽에도 강세 연속성이 가장 선명하다",
+      "score": 9.1,
+      "community": "전 회차부터 이어진 추세 매수세가 아직 살아 있음",
+      "risk": "46.0원 하회 시 오후 강세 연장 가정이 약해짐",
+      "allocation_krw": 2264290.9757488514,
+      "role": "persistent trend leader",
+      "invalidated_if": "46.0원 하회 시"
     },
     {
       "icon": "🔜",
       "symbol": "SOON",
       "market": "KRW-SOON",
-      "price_krw": 275.0,
-      "change_pct_24h": 4.96,
-      "turnover_krw_24h": 38084716345.0,
-      "reason": "4%대 상승과 연속 1시간 양봉으로 모멘텀 유지력이 확인된다",
-      "score": 8.6,
-      "community": "상장 후 관심이 아직 식지 않았고 체결 흐름이 안정적",
-      "risk": "이벤트 소멸 시 대금 감소 속도가 빠를 수 있음",
-      "allocation_krw": 1917134.8514842861,
+      "price_krw": 285.0,
+      "change_pct_24h": 8.78,
+      "turnover_krw_24h": 32493666923.0,
+      "reason": "상장 후속 모멘텀이 유지되고 8%대 상승이 재확인돼 계속 보유할 가치가 높다",
+      "score": 8.8,
+      "community": "상장 후 관심이 아직 식지 않았고 눌림 뒤 재가속 흐름이 깔끔함",
+      "risk": "276원 하회 시 상장 후속 모멘텀 둔화 가능",
+      "allocation_krw": 1986848.8460837149,
       "role": "listing follow-through",
-      "invalidated_if": "266원 하회 시"
+      "invalidated_if": "276원 하회 시"
     },
     {
       "icon": "🛰️",
       "symbol": "AXL",
       "market": "KRW-AXL",
-      "price_krw": 89.8,
-      "change_pct_24h": 7.42,
-      "turnover_krw_24h": 31993366065.0,
-      "reason": "7%대 강세와 320억원대 대금으로 회복형 순환매가 가장 깔끔하다",
-      "score": 8.5,
-      "community": "중형 알트 순환매 수요가 다시 붙는 모습",
-      "risk": "90원 실패 후 86.8원 하회 시 보조축으로 후퇴 가능",
-      "allocation_krw": 1831856.3232929162,
+      "price_krw": 89.5,
+      "change_pct_24h": 7.06,
+      "turnover_krw_24h": 33295564951.0,
+      "reason": "7%대 상승과 333억원대 대금으로 중형 회복축 역할이 여전히 유효하다",
+      "score": 8.6,
+      "community": "중형 알트 순환매 수요가 비교적 안정적으로 붙는 구간",
+      "risk": "87.0원 하회 시 회복형 가설 훼손",
+      "allocation_krw": 1825736.5360213362,
       "role": "mid-cap recovery",
-      "invalidated_if": "86.8원 하회 시"
+      "invalidated_if": "87.0원 하회 시"
+    },
+    {
+      "icon": "🐦",
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "price_krw": 101.0,
+      "change_pct_24h": 10.02,
+      "turnover_krw_24h": 14204842418.0,
+      "reason": "+10.02%로 다시 살아난 후속 돌파형이라 CHIP 약세 슬롯 대체용으로 적합하다",
+      "score": 8.2,
+      "community": "초대형은 아니지만 재점화된 추세 추종 수요가 붙고 있음",
+      "risk": "96원 하회 시 거래대금 우위가 부족해 빠른 실패 가능",
+      "allocation_krw": 1763080.88,
+      "role": "secondary breakout",
+      "invalidated_if": "96원 하회 시"
     }
   ],
   "reference_watchlist": [
@@ -505,162 +506,174 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.2M원, 메이저 약세 지속이라 알트 추격 강도 과열 여부 체크"
+      "reason": "115.0M원대, 메이저 지지선 붕괴 여부 확인용"
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.445M원, 메이저 위험선 확인용"
+      "reason": "3.38M원대, 알트 전반 리스크온 유지력 확인용"
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,098원, 국내 리테일 온도 약화 여부 확인용"
+      "reason": "2,080원대, 국내 리테일 온도 체크용"
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "127,100원, risk-on 유지력 점검용"
+      "reason": "125.5K원대, risk-on 확대 여부 확인용"
     },
     {
-      "icon": "🐱",
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "+14.29%, 202억원대 대금으로 SPK 다음 교체 후보"
+      "icon": "🧩",
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "대금은 1위지만 151원 무효화 붕괴로 재안착 전 관찰 전환"
+    },
+    {
+      "icon": "⚡",
+      "symbol": "SPK",
+      "market": "KRW-SPK",
+      "reason": "88원 무효화 하회 후 급랭, 재돌파 전 제외 유지"
     },
     {
       "icon": "🥧",
       "symbol": "PIEVERSE",
       "market": "KRW-PIEVERSE",
-      "reason": "2140억원대 대금은 크지만 -7.68%라 반등 확인 전 제외 유지"
-    },
-    {
-      "icon": "🐧",
-      "symbol": "PENGU",
-      "market": "KRW-PENGU",
-      "reason": "+0.82%, 158억원대 대금으로 저가 후속 순환 감시"
+      "reason": "대금은 충분하지만 -11.79%라 반등 확인 전 제외"
     },
     {
       "icon": "🐕",
       "symbol": "DOGE",
       "market": "KRW-DOGE",
-      "reason": "+0.71%, 293억원대 대금이지만 메이저성 베타라 코어 제외"
+      "reason": "+2.13%이나 메이저성 베타에 가까워 코어 제외"
     }
   ],
   "cycle_improvements": [
-    "이번 회차는 신규 초강세 리더를 더 빠르게 반영하도록 BLUR 저강도 슬롯을 SPK로 즉시 교체했다",
-    "김치프리미엄 축소 데이터를 뉴스 요약에 넣어 국내 과열 완화와 알트 선별 장세를 함께 설명했다",
-    "dashboard 아이콘 사전에 SPK·KAT·ZAMA를 추가해 신규 후보 가독성을 높였다",
-    "보고서에서 유지 종목과 교체 종목의 이유를 더 짧고 강하게 보이도록 압축했다"
+    "이번 회차는 대금 절대우위보다 무효화 가격 준수 여부를 더 강하게 반영해 CHIP·SPK를 즉시 교체했다",
+    "후보 선정 문구를 더 짧게 압축하고 각 종목마다 무효화 가격을 한 줄로 통일했다",
+    "dashboard status에 selection_checks를 추가해 후보 5개 유지와 메이저 제외 규칙을 바로 확인할 수 있게 개선했다",
+    "보고서에서 이번 회차 실제 실패 사례(CHIP·SPK)를 명시해 자기 피드백을 더 직접적으로 드러냈다"
   ],
-  "top_line": "업비트 20시 회차는 BLUR를 버리고 SPK를 편입해 CHIP·SPK·BIO·SOON·AXL 5종으로 더 공격적으로 가는 편이 낫습니다.",
-  "ui_version": "v3.3",
+  "top_line": "업비트 02시 회차는 무효화가 나온 CHIP·SPK를 정리하고 KAT·FLOCK으로 교체해 KAT·BIO·SOON·AXL·FLOCK 5종으로 다시 공격 재편하는 편이 낫습니다.",
+  "ui_version": "v3.4",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 114.5M원 이탈, CHIP 151원 하향, SPK 88원 하향, BIO 46.5원 하향, SOON 266원 하향, AXL 86.8원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 114.0M원 이탈, KAT 19.8원 하향, BIO 46.0원 하향, SOON 276원 하향, AXL 87.0원 하향, FLOCK 96원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
       "5개 후보 정확히 유지",
-      "신규 상장 초강세는 대금 2위권 이상이면 우선 반영",
-      "일간 음수 종목은 대금 절대우위가 아닐 경우 코어 제외"
+      "무효화 가격 붕괴 종목은 대금이 커도 즉시 교체 우선",
+      "급등 리더는 최소 1개, 지속형 추세는 최소 2개 유지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "very high",
-    "momentum_discipline": "faster leader replacement",
-    "diversification": "5-way aggressive with one new listing leader",
+    "turnover_focus": "high but no longer dominant over price invalidation",
+    "momentum_discipline": "stricter invalidation enforcement",
+    "diversification": "5-way aggressive with KAT breakout plus BIO/SOON/AXL trend base",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "rotation_map": [
     {
-      "out": "BLUR",
-      "in": "SPK",
-      "why": "BLUR 약세와 저대금 지속으로, 업비트 신규 초강세 리더 SPK로 교체"
+      "out": "CHIP",
+      "in": "KAT",
+      "why": "대금 1위라도 151원 무효화 붕괴가 확인돼 KAT 폭발형 리더로 교체"
+    },
+    {
+      "out": "SPK",
+      "in": "FLOCK",
+      "why": "88원 하향으로 추세 실패가 확인돼 더 안정적인 후속 양전환 FLOCK으로 교체"
     }
   ],
   "self_evaluation": {
-    "score": 9.1,
-    "summary": "14시 회차의 BIO·SOON·AXL 선택은 유지 가치가 있었고, 20시엔 BLUR 약화를 오래 끌지 않고 SPK로 교체한 점이 좋았다. 다만 CHIP 보유는 여전히 대금 의존이 강하므로 다음 회차엔 가격 훼손을 더 냉정하게 봐야 한다."
+    "score": 8.9,
+    "summary": "이전 회차에서 SPK와 CHIP을 너무 오래 강세 후보로 유지한 점은 아쉬웠다. 다만 이번 회차에는 무효화 위반을 인정하고 바로 KAT·FLOCK으로 교체해 판단 복구 속도는 괜찮았다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 6.44,
-    "preferred_positive_count": 4,
-    "preferred_negative_count": 1,
-    "preferred_turnover_total_krw_24h": 1370526405976.0,
-    "leader_turnover_share_pct": 71.2,
-    "leader_symbol": "CHIP"
+    "preferred_avg_change_pct_24h": 16.79,
+    "preferred_positive_count": 5,
+    "preferred_negative_count": 0,
+    "preferred_turnover_total_krw_24h": 247735464610.0,
+    "leader_turnover_share_pct": 36.48,
+    "leader_symbol": "KAT"
+  },
+  "selection_checks": {
+    "preferred_count": 5,
+    "has_exactly_five": true,
+    "excluded_majors_present": [],
+    "majors_rule_ok": true
   },
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🧩 CHIP, 158원, -5.95%, 24h 대금 약 9,758억원, 대금 절대우위 반등 코어",
-      "2. ⚡ SPK, 91.7원, +14.62%, 24h 대금 약 2,522억원, 신규 초강세 리더",
-      "3. 🧬 BIO, 47.8원, +11.16%, 24h 대금 약 724억원, 선명한 양봉 리더",
-      "4. 🔜 SOON, 275원, +4.96%, 24h 대금 약 381억원, 상장 후속 강세",
-      "5. 🛰️ AXL, 89.8원, +7.42%, 24h 대금 약 320억원, 중형 회복형 순환매"
+      "1. 🐱 KAT, 20.8원, +48.57%, 24h 대금 약 904억원, 새벽 최강 포물선 리더",
+      "2. 🧬 BIO, 47.1원, +9.53%, 24h 대금 약 774억원, 지속형 추세 코어",
+      "3. 🔜 SOON, 285원, +8.78%, 24h 대금 약 325억원, 상장 후속 강세 유지",
+      "4. 🛰️ AXL, 89.5원, +7.06%, 24h 대금 약 333억원, 중형 회복형 순환매",
+      "5. 🐦 FLOCK, 101원, +10.02%, 24h 대금 약 142억원, 후속 돌파 보조축"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: 115.2M원, -0.60%, 메이저 약세 지속",
-      "- ◆ ETH: 3.445M원, -2.10%, 알트 추격엔 역풍",
-      "- 💧 XRP: 2,098원, -1.08%, 국내 리테일 온도 둔화",
-      "- ☀️ SOL: 127,100원, -1.32%, risk-on 체력 확인용"
+      "- ₿ BTC: 115.0M원대, 방향성 약함",
+      "- ◆ ETH: 3.38M원대, 메이저 체력 둔화",
+      "- 💧 XRP: 2,080원대, 국내 온도 확인용",
+      "- ☀️ SOL: 125.5K원대, risk-on 지속 체크용"
     ],
     "🚀 공격 포트폴리오 전략": [
       "- 현금 0%, 5종 공격 분산 유지",
-      "- BLUR 약세 슬롯 제거, SPK 초강세 슬롯 추가",
-      "- CHIP은 대금 코어, SPK는 고베타 리더, BIO·SOON·AXL은 추세 분산축",
-      "- 지금 장은 약한 보유보다 강한 교체가 유리"
+      "- CHIP·SPK처럼 무효화가 실제 나온 종목은 대금이 커도 교체",
+      "- KAT는 폭발형 리더, BIO·SOON·AXL은 추세 분산축, FLOCK은 후속 돌파 보조축",
+      "- 이번 회차 핵심은 대금 추종이 아니라 실패 인정 속도"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL 🌫️ BLUR",
-      "- BUY ⚡ SPK",
-      "- HOLD 🧩 CHIP",
+      "- SELL 🧩 CHIP",
+      "- SELL ⚡ SPK",
+      "- BUY 🐱 KAT",
+      "- BUY 🐦 FLOCK",
       "- HOLD 🧬 BIO",
       "- HOLD 🔜 SOON",
       "- HOLD 🛰️ AXL"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🧩 CHIP: 19875.90484324개 @ 평균 141원, 현재 158원",
-      "- ⚡ SPK: 16589.59508889개 @ 평균 91.7원, 현재 91.7원",
-      "- 🧬 BIO: 48074.11838108개 @ 평균 47.5원, 현재 47.8원",
-      "- 🔜 SOON: 6971.39945994개 @ 평균 268원, 현재 275원",
-      "- 🛰️ AXL: 20399.29090527개 @ 평균 86.5원, 현재 89.8원",
-      "- 총 평가액: 10,708,593원",
+      "- 🐱 KAT: 107880.82355769개 @ 평균 20.8원, 현재 20.8원",
+      "- 🧬 BIO: 48074.11838108개 @ 평균 47.5원, 현재 47.1원",
+      "- 🔜 SOON: 6971.39945994개 @ 평균 268원, 현재 285원",
+      "- 🛰️ AXL: 20399.29090527개 @ 평균 86.5원, 현재 89.5원",
+      "- 🐦 FLOCK: 17456.24633663개 @ 평균 101원, 현재 101원",
+      "- 총 평가액: 10,083,878원",
       "- 실현손익: 206,598원",
-      "- 누적 수익률: +7.09%"
+      "- 누적 수익률: +0.84%"
     ],
     "🧠 자기 평가": [
-      "- 14시 회차의 BIO·SOON·AXL 유지 판단은 맞았습니다.",
-      "- BLUR를 오래 끌지 않고 SPK로 교체한 점은 이번 회차의 핵심 개선입니다.",
-      "- CHIP 보유는 여전히 대금 의존이 강해서, 다음 회차엔 가격 훼손 시 더 냉정해야 합니다."
+      "- CHIP과 SPK는 대금이 커도 무효화가 실제 발생했는데, 이전 회차에서 너무 관대했습니다.",
+      "- 이번 회차에선 그 실수를 인정하고 바로 KAT·FLOCK으로 교체한 점은 좋았습니다.",
+      "- 다음 회차엔 KAT 급등 피로와 FLOCK 대금 지속성을 더 냉정하게 봐야 합니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- 신규 초강세 리더 SPK를 바로 반영하도록 교체 속도를 높였습니다.",
-      "- 김치프리미엄 축소 데이터를 넣어 거시 과열 완화와 알트 선별 장세를 함께 설명했습니다.",
-      "- dashboard 아이콘에 SPK·KAT·ZAMA를 추가해 신규 후보 가독성을 높였습니다.",
-      "- 보고서를 더 짧고 강하게 압축해 한눈에 읽히게 다듬었습니다."
+      "- 무효화 가격 위반 시 대금 1위 종목도 예외 없이 교체하도록 판단 기준을 강화했습니다.",
+      "- dashboard status에 selection_checks를 추가해 후보 5개 유지와 메이저 제외 규칙을 즉시 보이게 개선했습니다.",
+      "- 보고서에 이번 회차 실패 사례를 직접 적어 자기 피드백 가독성을 높였습니다.",
+      "- 종목별 무효화 가격 표기를 한 줄 형식으로 통일했습니다."
     ],
     "🧾 판단": [
-      "- aggressive rotation into upbit leaders"
+      "- aggressive rotation with hard invalidation discipline"
     ],
     "🎯 신뢰도": [
-      "- high"
+      "- medium-high"
     ],
     "👉 추천 행동": [
-      "- CHIP 151원, SPK 88원, BIO 46.5원, SOON 266원, AXL 86.8원 하향 시 즉시 재평가",
-      "- KAT는 차기 교체 후보 1순위로 유지",
-      "- 메이저 약세가 깊어지면 고베타 종목부터 교체 속도를 더 높일 것"
+      "- KAT 19.8원, BIO 46.0원, SOON 276원, AXL 87.0원, FLOCK 96원 하향 시 즉시 재평가",
+      "- CHIP은 151원 재안착 전까지 관찰만",
+      "- SPK는 88원 재돌파 전까지 제외 유지",
+      "- PIEVERSE·ZBT는 차기 교체 후보로 감시"
     ],
     "⚠️ 리스크 메모": [
-      "- SPK는 가장 강하지만 상장 초기형 변동성이 매우 큽니다.",
-      "- CHIP은 대금 절대우위가 꺾이면 음수 종목으로 빠르게 재분류해야 합니다.",
-      "- BIO는 좋지만 48원 안착 실패 시 되돌림이 커질 수 있습니다.",
-      "- 메이저 4종 약세가 심해지면 알트 상대강도도 빠르게 꺾일 수 있습니다.",
-      "- PIEVERSE·KAT는 대금이 충분해 다음 회차에 재편입 후보가 될 수 있습니다."
+      "- KAT는 최강이지만 급등 피로가 매우 큽니다.",
+      "- FLOCK은 상승률은 좋지만 대금이 후보군 중 가장 약합니다.",
+      "- BIO·SOON·AXL은 상대적으로 안정적이지만 메이저 급락 시 함께 흔들릴 수 있습니다.",
+      "- 메이저 4종 약세가 깊어지면 알트 순환도 한 번에 꺾일 수 있습니다."
     ]
   }
 }

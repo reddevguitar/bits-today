@@ -82,6 +82,14 @@ rotation_map = strategy.get('rotation_map', []) or []
 self_evaluation = strategy.get('self_evaluation', {}) or {}
 sections = {}
 recent_history = history[-40:]
+excluded_majors = {'BTC', 'ETH', 'XRP', 'SOL'}
+preferred_symbols = [item.get('symbol') for item in preferred[:5]]
+selection_checks = {
+    'preferred_count': len(preferred[:5]),
+    'has_exactly_five': len(preferred[:5]) == 5,
+    'excluded_majors_present': [sym for sym in preferred_symbols if sym in excluded_majors],
+    'majors_rule_ok': not any(sym in excluded_majors for sym in preferred_symbols)
+}
 recent_buys = sum(1 for item in recent_history if item.get('action') == 'BUY')
 recent_sells = sum(1 for item in recent_history if item.get('action') == 'SELL')
 preferred_changes = [item.get('change_pct_24h', 0) or 0 for item in preferred[:5]]
@@ -162,6 +170,7 @@ status = {
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
     'market_breadth': market_breadth,
+    'selection_checks': selection_checks,
     'report_sections': sections,
 }
 
