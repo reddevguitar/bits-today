@@ -1,203 +1,220 @@
 {
-  "updated_at": "2026-04-23T08:00:00+09:00",
-  "top_line": "업비트 오전 자금은 CHIP 독주를 유지하면서도 PIEVERSE·FLUID·AVNT로 확산이 이어져, 08시 회차는 교체보다 기존 5종 공격 보유가 더 유리합니다.",
-  "macro_summary": "2026-04-23 08:00 KST 기준 업비트 메이저는 BTC 116.443M원(+3.00%), ETH 3.550M원(+2.93%), XRP 2,130원(+0.33%), SOL 129,500원(+1.57%)로 전부 플러스다. 메이저가 꺾이지 않아 알트 순환매를 계속 허용하는 risk-on 바탕이 유지된다.",
-  "news_summary": "CoinDesk는 4월 22일 BTC가 수주 박스권을 상향 돌파해 모멘텀 트레이더의 진입 신호가 나왔다고 정리했다. 지정학 긴장 완화 기대가 위험자산 선호를 돕는 흐름이지만, 4월 보안사고 관련 불신은 남아 있어 실제 대금이 붙는 업비트 강세 알트에만 공격적으로 집중하는 편이 낫다.",
-  "community_summary": "업비트 KRW 시장 체결은 CHIP 약 7,548억원으로 압도적 1위, PIEVERSE 약 1,993억원, MET2 약 588억원, FLUID 약 419억원, AVNT 약 327억원 순이다. 후보 5개 모두 24시간 상승률이 플러스라 국내 리테일 추격 에너지가 아직 살아 있다.",
-  "public_figure_summary": "외부 거시 헤드라인은 위험선호 회복 쪽이 우세하다. 다만 신뢰가 약한 소형 알트는 뉴스보다 실제 거래대금과 체결 지속성이 더 중요하므로, 이번도 유명 인사 코멘트보다 업비트 실시간 자금흐름을 우선한다.",
-  "major_coin_summary": "업비트 기준 BTC 116.443M원(+3.00%), ETH 3.550M원(+2.93%), XRP 2,130원(+0.33%), SOL 129,500원(+1.57%)다. top4 majors는 후보 제외 유지지만, 알트 공격 포지션 유지 근거로는 충분히 우호적이다.",
-  "altcoin_selection_summary": "preferred buy는 CHIP, PIEVERSE, MET2, FLUID, AVNT 유지다. CHIP은 절대 주도주, PIEVERSE는 대형 유동성 복귀 강화, MET2는 중형 순환 중심, FLUID는 고속 돌파 지속, AVNT는 거래대금 우위가 남은 후속 공격축이다. BLUR는 상승률이 강하지만 대금이 AVNT보다 얕아 watchlist 우선이다.",
-  "overall_bias": "aggressive risk-on hold",
-  "confidence": "high",
+  "updated_at": "2026-04-23T14:00:00+09:00",
+  "top_line": "업비트 오후장은 오전 강세 톱5가 무너졌고, 14시 회차는 CHIP 축소 유지 + BIO·SOON·AXL·BLUR로 공격 재편하는 쪽이 더 낫습니다.",
+  "macro_summary": "2026-04-23 14:00 KST 기준 BTC 115.789M원(-0.10%), ETH 3.489M원(-0.85%), XRP 2,106원(-0.71%), SOL 127,800원(-0.78%)로 메이저 4종이 모두 숨고르기다. 메이저는 약하지만 급락은 아니어서 알트는 전체 risk-off보다 종목 선별 장세로 보는 편이 맞다.",
+  "news_summary": "외부 검색상 비트코인 유동성 랠리와 단기 차익실현 경계가 동시에 언급된다. 또 SOON은 최근 업비트 상장 모멘텀이 아직 커뮤니티 관심을 유지하고 있어, 현 시점은 메이저 추세 추종보다 업비트 내 실제 대금이 붙는 개별 알트 선별이 우선이다.",
+  "community_summary": "업비트 KRW 시장 24시간 대금은 CHIP 약 9,738억원으로 여전히 압도적이고, PIEVERSE 약 2,335억원도 크지만 가격은 급히 꺾였다. 오후에는 BIO(+10.47%), SOON(+2.29%), AXL(+3.47%), BLUR(+2.61%)처럼 양전환을 지킨 종목이 더 읽기 쉽다.",
+  "public_figure_summary": "이번 회차는 거물 코멘트보다 업비트 체결과 상장/대금 신호가 더 유효하다. SOON의 상장 후 관심 지속과 BIO의 재강세가 실제 국내 자금 흐름에서 더 의미 있었다.",
+  "major_coin_summary": "BTC 115.789M원(-0.10%), ETH 3.489M원(-0.85%), XRP 2,106원(-0.71%), SOL 127,800원(-0.78%). 메이저 4종은 후보에서 제외 유지, 다만 모두 음수라 알트도 추격보다 교체 속도가 중요하다.",
+  "altcoin_selection_summary": "preferred buy는 CHIP, BIO, SOON, AXL, BLUR다. CHIP은 급락에도 압도적 대금 때문에 완전 제외보다 비중 축소 유지가 낫고, BIO는 가장 선명한 양봉 리더, SOON은 상장 모멘텀 지속, AXL은 재상승 복귀형, BLUR는 얕지만 깨끗한 양전환으로 5번째 슬롯을 차지했다.",
+  "overall_bias": "aggressive rotation buy-the-relative-strength",
+  "confidence": "medium-high",
   "preferred_buy_candidates": [
     {
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "price_krw": 160.0,
-      "change_pct_24h": 75.63,
-      "turnover_krw_24h": 754757503652.0,
-      "score": 9.9,
-      "community": "domestic turnover king and runaway leader",
-      "risk": "단기 과열이 극단적이라 150원 하회 시 흔들림 확대 가능",
-      "reason": "업비트 전체 자금의 중심이 계속 CHIP에 몰려 있어 공격 포트폴리오의 절대 코어 유지",
-      "allocation_krw": 4062973.8950346424,
-      "role": "primary leader",
-      "invalidated_if": "150원 하회와 거래대금 둔화 동시 발생 시"
+      "price_krw": 141.0,
+      "change_pct_24h": -16.07,
+      "turnover_krw_24h": 973811802097.255,
+      "score": 8.8,
+      "community": "still dominant domestic turnover despite sharp flush",
+      "risk": "변동성 과열이 매우 커 135원 붕괴 시 재차 급락 위험",
+      "reason": "급락했지만 업비트 압도적 거래대금 1위라 반등 리더 후보 자격은 아직 유지",
+      "allocation_krw": 2802502.58289703,
+      "role": "turnover rebound core",
+      "invalidated_if": "135원 하회와 대금 급감 동시 발생 시"
     },
     {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "price_krw": 1476.0,
-      "change_pct_24h": 9.9,
-      "turnover_krw_24h": 199307912821.0,
-      "score": 9.3,
-      "community": "liquidity rebound now strengthening",
-      "risk": "1460원 아래로 밀리면 단기 추세 재확인 필요",
-      "reason": "1900억원대 후반 거래대금과 +9.9%가 함께 붙어 유동성 복귀가 더 강해졌다",
-      "allocation_krw": 2580043.699927167,
-      "role": "liquidity rebound",
-      "invalidated_if": "1460원 하회 시"
-    },
-    {
-      "symbol": "MET2",
-      "market": "KRW-MET2",
-      "price_krw": 277.0,
-      "change_pct_24h": 3.36,
-      "turnover_krw_24h": 58782341668.0,
-      "score": 8.6,
-      "community": "mid-cap rotation still healthy",
-      "risk": "277원 안착 실패 시 SOON·SEI 대비 매력 약화 가능",
-      "reason": "500억원대 후반 거래대금이 유지돼 중형 순환매 핵심축 자리를 지켰다",
-      "allocation_krw": 1429768.6581937282,
-      "role": "mid-cap rotation leader",
-      "invalidated_if": "272원 하회 시"
-    },
-    {
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "price_krw": 2856.0,
-      "change_pct_24h": 18.65,
-      "turnover_krw_24h": 41920504588.0,
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "price_krw": 47.5,
+      "change_pct_24h": 10.47,
+      "turnover_krw_24h": 64330000000.0,
       "score": 9.1,
-      "community": "fresh breakout still being chased",
-      "risk": "신규 돌파형이라 2820원 아래 첫 이탈은 매수 피로 신호일 수 있다",
-      "reason": "+18.65%와 419억원대 거래대금이 유지돼 새벽 돌파가 아직 죽지 않았다",
-      "allocation_krw": 1719769.8409487682,
-      "role": "fresh momentum leader",
-      "invalidated_if": "2820원 하회 시"
+      "community": "positive comeback with strong retail chase",
+      "risk": "48원대 안착 실패 시 재돌림 가능",
+      "reason": "+10.47% 양봉과 643억원대 거래대금이 동행해 현재 시점 가장 선명한 대체 강세축",
+      "allocation_krw": 2283520.6231012833,
+      "role": "fresh positive leader",
+      "invalidated_if": "45.8원 하회 시"
     },
     {
-      "symbol": "AVNT",
-      "market": "KRW-AVNT",
-      "price_krw": 218.0,
-      "change_pct_24h": 9.0,
-      "turnover_krw_24h": 32707214015.0,
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "price_krw": 268.0,
+      "change_pct_24h": 2.29,
+      "turnover_krw_24h": 36349992567.97075,
       "score": 8.7,
-      "community": "secondary momentum still alive",
-      "risk": "218원 재이탈이 길어지면 BLUR·CPOOL 대비 우위가 약해질 수 있다",
-      "reason": "상승률은 BLUR보다 낮지만 거래대금 우위가 커서 여전히 더 믿기 좋은 후속 공격축이다",
-      "allocation_krw": 1635000.0,
-      "role": "secondary momentum",
-      "invalidated_if": "214원 하회 시"
+      "community": "listing-driven attention remains alive",
+      "risk": "상장 모멘텀 소멸 시 순식간에 거래대금 감소 가능",
+      "reason": "업비트 상장 후 관심이 식지 않았고 300억원대 중반 대금 속 플러스 유지가 좋다",
+      "allocation_krw": 1868335.0552646862,
+      "role": "listing momentum support",
+      "invalidated_if": "258원 하회 시"
+    },
+    {
+      "symbol": "AXL",
+      "market": "KRW-AXL",
+      "price_krw": 86.5,
+      "change_pct_24h": 3.47,
+      "turnover_krw_24h": 30030000000.0,
+      "score": 8.5,
+      "community": "steady mid-cap bid returning",
+      "risk": "87원 안착 실패 시 다시 보조축으로 후퇴할 수 있음",
+      "reason": "플러스 전환과 300억원대 거래대금이 함께 살아나 재편입 가치가 생겼다",
+      "allocation_krw": 1764538.6633055373,
+      "role": "mid-cap recovery",
+      "invalidated_if": "83.5원 하회 시"
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "price_krw": 51.2,
+      "change_pct_24h": 2.61,
+      "turnover_krw_24h": 16100135401.254704,
+      "score": 8.1,
+      "community": "lighter but clean positive momentum",
+      "risk": "대금이 얕아 체결 약화 시 교체 우선순위가 높다",
+      "reason": "대금은 상대적으로 얕지만 양전환 유지와 가격 탄성이 좋아 5번째 공격 슬롯으로 적합",
+      "allocation_krw": 1660742.271346388,
+      "role": "light momentum tail",
+      "invalidated_if": "49.8원 하회 시"
     }
   ],
   "selected_altcoins": [
     {
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "reason": "업비트 전체 대금 중심이자 압도적 상대강도라 코어 유지"
+      "reason": "급락했지만 업비트 압도적 거래대금 1위라 반등 리더 후보 자격은 아직 유지"
     },
     {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "대형 유동성과 상승률이 함께 강화돼 재상승 지속 기대"
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "reason": "+10.47% 양봉과 643억원대 거래대금이 동행해 현재 시점 가장 선명한 대체 강세축"
     },
     {
-      "symbol": "MET2",
-      "market": "KRW-MET2",
-      "reason": "중형 알트 순환매에서 가장 안정적으로 대금이 남아 있는 축"
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "reason": "업비트 상장 후 관심이 식지 않았고 300억원대 중반 대금 속 플러스 유지가 좋다"
     },
     {
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "reason": "새벽 돌파 이후에도 높은 상승률과 대금이 유지되는 신규 리더"
+      "symbol": "AXL",
+      "market": "KRW-AXL",
+      "reason": "플러스 전환과 300억원대 거래대금이 함께 살아나 재편입 가치가 생겼다"
     },
     {
-      "symbol": "AVNT",
-      "market": "KRW-AVNT",
-      "reason": "BLUR보다 대금 우위가 커 후속 모멘텀 지속 확률이 더 높다"
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "대금은 상대적으로 얕지만 양전환 유지와 가격 탄성이 좋아 5번째 공격 슬롯으로 적합"
     }
   ],
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "116.443M원, 알트 확산 지속의 최상위 기준"
+      "reason": "115.789M원, 메이저가 쉬는 구간이라 알트 추격 강도 체크 필요"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.550M원, 메이저 동반 강세 유지 확인용"
+      "reason": "3.489M원, 메이저 전반 숨고르기 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,130원, 국내 리테일 온도 확인용"
+      "reason": "2,106원, 국내 리테일 온도 약화 여부 확인용"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "129,500원, risk-on 바탕 유지 참고"
+      "reason": "127,800원, risk-on 유지력 점검용"
+    },
+    {
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "대금은 크지만 1330원대로 무너져 반등 확인 전까지 관망"
     },
     {
       "symbol": "CPOOL",
       "market": "KRW-CPOOL",
-      "reason": "+8.46%, 대금 337억원으로 재편입 대기 1순위"
+      "reason": "43원, 대금 410억원 수준이라 BLUR 교체 후보 1순위"
     },
     {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "+7.72%, 대금 217억원으로 중형 순환 보조축 감시"
+      "symbol": "SPK",
+      "market": "KRW-SPK",
+      "reason": "대금 983억원으로 크지만 음봉이라 코어 제외, 반전 시 즉시 재검토"
     },
     {
-      "symbol": "SEI",
-      "market": "KRW-SEI",
-      "reason": "+6.69%, 대금 192억원으로 차기 교체 후보 유지"
-    },
-    {
-      "symbol": "BLUR",
-      "market": "KRW-BLUR",
-      "reason": "+12.23%로 강하지만 대금 172억원 수준이라 AVNT 아래"
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "+4.10%, 대금 180억원으로 후속 강세 감시"
     }
   ],
   "risk_notes": [
-    "CHIP은 가장 강하지만 과열도 가장 심해 150원 하회 시 과열 해소 압력이 급격히 커질 수 있다",
-    "FLUID는 신규 돌파형이라 2820원 아래 첫 이탈이 나오면 교체 속도를 높여야 한다",
-    "AVNT는 거래대금 우위가 약해지면 BLUR나 CPOOL에 자리를 내줄 수 있다",
-    "PIEVERSE는 1460원 아래로 밀리면 유동성 복귀형에서 재차 함정 유동성 논쟁이 커질 수 있다",
-    "BTC가 116M원 아래로 밀리면 오전 알트 확산 속도도 둔화될 가능성이 크다"
+    "CHIP은 대금은 압도적이지만 변동성도 극단적이라 135원 하회 시 추가 축소가 맞다",
+    "BIO는 가장 좋아 보이지만 재편입 직후라 45.8원 아래면 함정 돌파일 수 있다",
+    "SOON은 상장 이벤트 소멸형이라 대금 감소가 빠르면 교체 우선순위를 높여야 한다",
+    "BLUR는 대금이 161억원대로 가장 얕아 가장 먼저 교체될 수 있는 슬롯이다",
+    "메이저 4종이 모두 음수라 오후장은 보유보다 회전이 중요한 장이다"
   ],
-  "fear_greed": "32 (Fear, MacroMicro search reference)",
-  "btc_reference": "BTC 116.443M원(+3.00%), ETH 3.550M원(+2.93%), XRP 2,130원(+0.33%), SOL 129,500원(+1.57%)",
+  "fear_greed": "33 (Fear, MacroMicro search reference)",
+  "btc_reference": "BTC 115.789M원(-0.10%), ETH 3.489M원(-0.85%), XRP 2,106원(-0.71%), SOL 127,800원(-0.78%)",
   "improvement_log": [
-    "후보 5개의 평균 상승률과 주도주 대금 집중도를 status에 추가해 breadth 판단 속도를 높였다",
-    "BLUR와 AVNT처럼 상승률과 거래대금이 엇갈리는 후보를 분리 비교해 교체 기준을 더 명확히 했다",
-    "08시 회차는 무리한 교체 대신 유지 판단을 기록해 HOLD도 명확한 전략 행동으로 남기게 했다",
-    "리포트에서 watchlist를 재편입 대기 1순위 중심으로 재정렬해 다음 교체 후보를 더 빨리 읽히게 정리했다"
+    "이번 회차부터 기존 후보의 무효화 가격 도달 여부를 실제 교체 판단에 직접 반영했다",
+    "양전환 후보와 음전환 고대금 후보를 분리해 오후장 재편 우선순위를 더 빠르게 읽히게 정리했다",
+    "dashboard용 시장 breadth에 preferred_negative_count와 leader_symbol을 추가하도록 업데이트했다",
+    "리포트에 무효화된 기존 보유 4종을 명시해 왜 교체했는지 한눈에 보이게 개선했다"
   ],
   "self_evaluation": {
-    "score": 9.2,
-    "summary": "이번 회차는 새 코인을 억지로 넣지 않고 현재 5종의 대금 우위를 확인한 뒤 유지 판단을 내린 점이 좋았다. 다만 CHIP 비중 쏠림이 큰 만큼 다음 회차엔 주도주 집중 리스크를 더 엄격히 봐야 한다."
+    "score": 8.9,
+    "summary": "08시 HOLD는 당시엔 타당했지만, 14시에는 무효화 가격 이탈 종목을 빠르게 정리한 점이 좋았다. 다만 CHIP을 여전히 남기는 결정은 반등 기대가 섞여 있으므로 다음 회차엔 거래대금 유지 여부를 더 냉정하게 봐야 한다."
   },
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 116M원 이탈, CHIP 150원 하향, PIEVERSE 1460원 하향, MET2 272원 하향, FLUID 2820원 하향, AVNT 214원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 115.2M원 이탈, CHIP 135원 하향, BIO 45.8원 하향, SOON 258원 하향, AXL 83.5원 하향, BLUR 49.8원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
       "5개 후보 정확히 유지",
-      "거래대금 상위라도 음수 지속 종목은 코어 후보에서 제외",
-      "상승률만 높고 대금이 얕은 종목보다 상승률과 대금이 함께 강한 종목을 우선 채택"
+      "거래대금이 커도 음수 지속 종목은 비중 축소 또는 제외",
+      "오후장에는 무효화 가격 이탈 종목을 HOLD하지 않기"
     ]
   },
   "scorecard": {
-    "turnover_focus": "very high",
-    "momentum_discipline": "strong but selective hold",
-    "diversification": "5-way aggressive",
+    "turnover_focus": "high",
+    "momentum_discipline": "faster invalidation-based rotation",
+    "diversification": "5-way aggressive rebalanced",
     "cash_usage": "100%",
-    "rotation_speed": "disciplined"
+    "rotation_speed": "high"
   },
   "rotation_map": [
     {
-      "out": "NONE",
-      "in": "NONE",
-      "why": "후보 5개 모두 플러스 수익률과 상위 거래대금을 유지해 이번 08시 회차는 교체보다 보유 지속이 우세"
+      "out": "PIEVERSE",
+      "in": "BIO",
+      "why": "대금은 컸지만 1330원대로 무너져 양봉 리더 BIO로 교체"
+    },
+    {
+      "out": "MET2",
+      "in": "SOON",
+      "why": "MET2가 272원 트리거를 하회해 상장 모멘텀 유지 중인 SOON으로 교체"
+    },
+    {
+      "out": "FLUID",
+      "in": "AXL",
+      "why": "FLUID가 2820원 하회 후 음봉이 깊어져 재상승형 AXL로 교체"
+    },
+    {
+      "out": "AVNT",
+      "in": "BLUR",
+      "why": "AVNT가 214원 아래로 밀려 BLUR의 양전환 탄력으로 교체"
     }
   ],
-  "ui_version": "v3.1",
+  "ui_version": "v3.2",
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 23.31,
-    "preferred_positive_count": 5,
-    "preferred_turnover_total_krw_24h": 1077118436744.0,
-    "leader_turnover_share_pct": 70.07
+    "preferred_avg_change_pct_24h": 0.55,
+    "preferred_positive_count": 4,
+    "preferred_negative_count": 1,
+    "preferred_turnover_total_krw_24h": 1119223873432.4805,
+    "leader_turnover_share_pct": 87.01,
+    "leader_symbol": "CHIP"
   }
 }

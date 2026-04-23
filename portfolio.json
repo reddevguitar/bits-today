@@ -3,113 +3,113 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": -617459.6433473097,
-  "last_valuation_krw": 11427556.094104305,
-  "last_action": "HOLD_TOP5_AGGRESSIVE",
-  "last_updated": "2026-04-23T08:00:00+09:00",
-  "trade_count": 156,
+  "realized_pnl_krw": 346074.3162912645,
+  "last_valuation_krw": 10379639.195914924,
+  "last_action": "ROTATE_TO_RELATIVE_STRENGTH",
+  "last_updated": "2026-04-23T14:00:00+09:00",
+  "trade_count": 164,
   "positions": {
     "CHIP": {
       "market": "KRW-CHIP",
-      "amount": 25235.862702078524,
-      "avg_buy_price_krw": 86.6,
-      "last_price_krw": 160.0,
-      "value_krw": 4037738.032332564,
-      "thesis": "업비트 최상위 거래대금과 폭발적 상대강도가 동행하는 메인 리더",
-      "strategy": "turnover breakout core",
-      "role": "primary leader",
+      "amount": 19875.904843241347,
+      "avg_buy_price_krw": 141.0,
+      "last_price_krw": 141.0,
+      "value_krw": 2802502.58289703,
+      "thesis": "업비트 최대 거래대금이 유지되는 급락 후 반등 후보",
+      "strategy": "turnover flush rebound",
+      "role": "turnover rebound core",
       "risk_limit_pct": 7,
-      "profit_take_pct": 18
+      "profit_take_pct": 12
     },
-    "PIEVERSE": {
-      "market": "KRW-PIEVERSE",
-      "amount": 1747.9970866715223,
-      "avg_buy_price_krw": 1373.0,
-      "last_price_krw": 1476.0,
-      "value_krw": 2580043.699927167,
-      "thesis": "함정 유동성에서 벗어나 양전환과 대금 회복이 동시에 확인된 재상승 후보",
-      "strategy": "liquidity rebound rotation",
-      "role": "liquidity rebound",
+    "BIO": {
+      "market": "KRW-BIO",
+      "amount": 48074.11838107965,
+      "avg_buy_price_krw": 47.5,
+      "last_price_krw": 47.5,
+      "value_krw": 2283520.6231012833,
+      "thesis": "당일 플러스 전환과 강한 거래대금이 동행한 오후 리더",
+      "strategy": "fresh positive rotation",
+      "role": "fresh positive leader",
       "risk_limit_pct": 6,
-      "profit_take_pct": 14
+      "profit_take_pct": 12
     },
-    "MET2": {
-      "market": "KRW-MET2",
-      "amount": 5161.619704670499,
-      "avg_buy_price_krw": 280.0,
-      "last_price_krw": 277.0,
-      "value_krw": 1429768.6581937282,
-      "thesis": "중형 알트 순환매가 확산되는 구간의 대금 리더",
-      "strategy": "mid-cap momentum rotation",
-      "role": "mid-cap rotation leader",
-      "risk_limit_pct": 6,
+    "SOON": {
+      "market": "KRW-SOON",
+      "amount": 6971.399459942859,
+      "avg_buy_price_krw": 268.0,
+      "last_price_krw": 268.0,
+      "value_krw": 1868335.0552646862,
+      "thesis": "업비트 상장 후 관심이 남아 있는 이벤트형 모멘텀 자산",
+      "strategy": "listing momentum rotation",
+      "role": "listing momentum support",
+      "risk_limit_pct": 7,
       "profit_take_pct": 13
     },
-    "AVNT": {
-      "market": "KRW-AVNT",
-      "amount": 7500,
-      "avg_buy_price_krw": 220.0,
-      "last_price_krw": 218.0,
-      "value_krw": 1635000.0,
-      "thesis": "후속 리테일 추격이 확인되는 저녁 신규 공격축",
-      "strategy": "secondary momentum rotation",
-      "role": "secondary momentum",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 15
+    "AXL": {
+      "market": "KRW-AXL",
+      "amount": 20399.290905266327,
+      "avg_buy_price_krw": 86.5,
+      "last_price_krw": 86.5,
+      "value_krw": 1764538.6633055373,
+      "thesis": "중형 알트 재상승이 다시 붙는 회복형 후보",
+      "strategy": "mid-cap recovery rotation",
+      "role": "mid-cap recovery",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 11
     },
-    "FLUID": {
-      "market": "KRW-FLUID",
-      "amount": 602.1603084554511,
-      "avg_buy_price_krw": 2882.0,
-      "last_price_krw": 2856.0,
-      "value_krw": 1719769.8409487682,
-      "thesis": "업비트 신규 강세축 중 상승률과 거래대금이 동시에 가장 선명한 새벽 돌파 리더",
-      "strategy": "fresh breakout rotation",
-      "role": "fresh momentum leader",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 16
+    "BLUR": {
+      "market": "KRW-BLUR",
+      "amount": 32436.372487234137,
+      "avg_buy_price_krw": 51.2,
+      "last_price_krw": 51.2,
+      "value_krw": 1660742.271346388,
+      "thesis": "대금은 얕지만 양전환 탄성이 살아 있는 가벼운 공격 슬롯",
+      "strategy": "light momentum rotation",
+      "role": "light momentum tail",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "116.443M원, 알트 확산 지속의 최상위 기준"
+      "reason": "115.789M원, 메이저가 쉬는 구간이라 알트 추격 강도 체크 필요"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.550M원, 메이저 동반 강세 유지 확인용"
+      "reason": "3.489M원, 메이저 전반 숨고르기 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,130원, 국내 리테일 온도 확인용"
+      "reason": "2,106원, 국내 리테일 온도 약화 여부 확인용"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "129,500원, risk-on 바탕 유지 참고"
+      "reason": "127,800원, risk-on 유지력 점검용"
+    },
+    {
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "대금은 크지만 1330원대로 무너져 반등 확인 전까지 관망"
     },
     {
       "symbol": "CPOOL",
       "market": "KRW-CPOOL",
-      "reason": "+8.46%, 대금 337억원으로 재편입 대기 1순위"
+      "reason": "43원, 대금 410억원 수준이라 BLUR 교체 후보 1순위"
     },
     {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "+7.72%, 대금 217억원으로 중형 순환 보조축 감시"
+      "symbol": "SPK",
+      "market": "KRW-SPK",
+      "reason": "대금 983억원으로 크지만 음봉이라 코어 제외, 반전 시 즉시 재검토"
     },
     {
-      "symbol": "SEI",
-      "market": "KRW-SEI",
-      "reason": "+6.69%, 대금 192억원으로 차기 교체 후보 유지"
-    },
-    {
-      "symbol": "BLUR",
-      "market": "KRW-BLUR",
-      "reason": "+12.23%로 강하지만 대금 172억원 수준이라 AVNT 아래"
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "+4.10%, 대금 180억원으로 후속 강세 감시"
     }
   ],
   "history": [
@@ -472,6 +472,78 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "CHIP·PIEVERSE·MET2·FLUID·AVNT 5종이 모두 플러스 수익률과 업비트 상위 거래대금을 유지해, 이번 오전 회차는 무리한 교체보다 공격 분산 보유 지속의 기대값이 높다고 판단"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "PIEVERSE",
+      "action": "SELL",
+      "price_krw": 1331.0,
+      "amount_delta": -1747.9970866715223,
+      "cash_delta_krw": 2326584.1223597964,
+      "reason": "1460원 무효화 구간을 크게 하회해 대금보다 가격 훼손이 더 심해 전량 교체"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "MET2",
+      "action": "SELL",
+      "price_krw": 257.0,
+      "amount_delta": -5161.619704670499,
+      "cash_delta_krw": 1326536.2641003183,
+      "reason": "272원 무효화 기준을 깨며 중형 순환 리더 지위를 상실해 교체"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "FLUID",
+      "action": "SELL",
+      "price_krw": 2621.0,
+      "amount_delta": -602.1603084554511,
+      "cash_delta_krw": 1578262.1684617372,
+      "reason": "2820원 아래 이탈이 깊어져 신규 돌파 리더 지위가 꺾였다고 판단"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "AVNT",
+      "action": "SELL",
+      "price_krw": 212.0,
+      "amount_delta": -7500,
+      "cash_delta_krw": 1590000.0,
+      "reason": "214원 하회로 후속 공격축 가정이 무효화돼 BLUR로 교체"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 47.5,
+      "amount_delta": 48074.11838107965,
+      "cash_delta_krw": -2283520.6231012833,
+      "reason": "+10.47%와 643억원대 대금이 동행해 오후 최우선 강세축으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "SOON",
+      "action": "BUY",
+      "price_krw": 268.0,
+      "amount_delta": 6971.399459942859,
+      "cash_delta_krw": -1868335.0552646862,
+      "reason": "상장 후 모멘텀이 아직 남아 있고 364억원대 대금 속 양전환을 유지해 편입"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "AXL",
+      "action": "BUY",
+      "price_krw": 86.5,
+      "amount_delta": 20399.290905266327,
+      "cash_delta_krw": -1764538.6633055373,
+      "reason": "플러스 전환과 300억원대 대금이 함께 살아나 회복형 공격축으로 재편입"
+    },
+    {
+      "timestamp": "2026-04-23T14:00:00+09:00",
+      "symbol": "BLUR",
+      "action": "BUY",
+      "price_krw": 51.2,
+      "amount_delta": 32436.372487234137,
+      "cash_delta_krw": -1660742.271346388,
+      "reason": "대금은 얕지만 양전환 탄성이 좋아 5번째 공격 슬롯으로 채택"
     }
   ]
 }
