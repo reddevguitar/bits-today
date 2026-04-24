@@ -45,7 +45,9 @@ ICONS = {
     'RED': '🟥',
     'ENSO': '🌀',
     'ESP': '☕',
-    'ZKP': '🔐'
+    'ZKP': '🔐',
+    'ZBT': '🧨',
+    'API3': '📡'
 }
 
 
@@ -84,7 +86,7 @@ watchlist = portfolio.get('watchlist', []) or strategy.get('watchlist', []) or [
 improvements = strategy.get('improvement_log', []) or []
 risk_plan = strategy.get('risk_plan', {}) or {}
 scorecard = strategy.get('scorecard', {}) or {}
-rotation_map = strategy.get('rotation_map', []) or []
+rotation_map_raw = strategy.get('rotation_map', []) or []
 self_evaluation = strategy.get('self_evaluation', {}) or {}
 sections = {}
 recent_history = history[-40:]
@@ -111,6 +113,18 @@ market_breadth = {
     'leader_turnover_share_pct': leader_turnover_share,
     'leader_symbol': preferred[leader_symbol].get('symbol') if leader_symbol is not None and preferred else None
 }
+risk_exit_rules = []
+if risk_plan.get('review_trigger'):
+    risk_exit_rules.append(risk_plan['review_trigger'])
+risk_exit_rules.extend(risk_plan.get('hard_rules', []))
+rotation_map = [
+    {
+        'bucket': f"{item.get('out', '-')} → {item.get('in', '-')}",
+        'symbols': [item.get('out', '-'), item.get('in', '-')],
+        'note': item.get('why', '-')
+    }
+    for item in rotation_map_raw
+]
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -171,7 +185,7 @@ status = {
     'cycle_improvements': improvements[:5],
     'top_line': strategy.get('top_line', '6시간 단위 자율 전략 개선 루프 실행 중'),
     'ui_version': strategy.get('ui_version', 'v2'),
-    'risk_plan': risk_plan,
+    'risk_plan': {**risk_plan, 'exit_rules': risk_exit_rules},
     'scorecard': scorecard,
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
