@@ -3,113 +3,113 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": 206597.91459615756,
-  "last_valuation_krw": 10083878.367853902,
-  "last_action": "ROTATE_CHIP_SPK_TO_KAT_FLOCK",
-  "last_updated": "2026-04-24T02:00:00+09:00",
-  "trade_count": 170,
+  "realized_pnl_krw": 355251.2296720764,
+  "last_valuation_krw": 11291217.350069243,
+  "last_action": "ROTATE_SOON_AXL_FLOCK_TO_SKR_ZAMA_TREE",
+  "last_updated": "2026-04-25T00:51:00+09:00",
+  "trade_count": 176,
   "positions": {
-    "BIO": {
-      "market": "KRW-BIO",
-      "amount": 48074.11838107965,
-      "avg_buy_price_krw": 47.5,
-      "last_price_krw": 47.1,
-      "value_krw": 2264290.9757488514,
-      "thesis": "당일 플러스 전환과 강한 거래대금이 동행한 오후 리더",
-      "strategy": "fresh positive rotation",
-      "role": "fresh positive leader",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12
-    },
-    "SOON": {
-      "market": "KRW-SOON",
-      "amount": 6971.399459942859,
-      "avg_buy_price_krw": 268.0,
-      "last_price_krw": 285.0,
-      "value_krw": 1986848.8460837149,
-      "thesis": "업비트 상장 후 관심이 남아 있는 이벤트형 모멘텀 자산",
-      "strategy": "listing momentum rotation",
-      "role": "listing momentum support",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 13
-    },
-    "AXL": {
-      "market": "KRW-AXL",
-      "amount": 20399.290905266327,
-      "avg_buy_price_krw": 86.5,
-      "last_price_krw": 89.5,
-      "value_krw": 1825736.5360213362,
-      "thesis": "중형 알트 재상승이 다시 붙는 회복형 후보",
-      "strategy": "mid-cap recovery rotation",
-      "role": "mid-cap recovery",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 11
-    },
     "KAT": {
       "market": "KRW-KAT",
       "amount": 107880.8235576923,
       "avg_buy_price_krw": 20.8,
-      "last_price_krw": 20.8,
-      "value_krw": 2243921.13,
-      "thesis": "업비트 새벽 최강 상승률과 대금이 동시에 붙은 포물선형 돌파 리더",
-      "strategy": "parabolic breakout rotation",
+      "last_price_krw": 31.7,
+      "value_krw": 3419822.106778846,
+      "thesis": "업비트 신규상장 후속 자금이 계속 유입되는 포물선형 최강 리더",
+      "strategy": "parabolic breakout hold",
       "role": "parabolic breakout leader",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 18
+      "risk_limit_pct": 11,
+      "profit_take_pct": 25
     },
-    "FLOCK": {
-      "market": "KRW-FLOCK",
-      "amount": 17456.246336633663,
-      "avg_buy_price_krw": 101.0,
-      "last_price_krw": 101.0,
-      "value_krw": 1763080.88,
-      "thesis": "새벽 재점화된 10%대 돌파 흐름을 가진 후속 공격 자산",
-      "strategy": "secondary breakout rotation",
-      "role": "secondary breakout",
+    "BIO": {
+      "market": "KRW-BIO",
+      "amount": 48074.11838107965,
+      "avg_buy_price_krw": 47.5,
+      "last_price_krw": 48.4,
+      "value_krw": 2326787.329644255,
+      "thesis": "폭발형 리더들 사이에서 거래대금이 남아 있는 지속형 추세 코어",
+      "strategy": "persistent trend hold",
+      "role": "persistent trend base",
       "risk_limit_pct": 6,
       "profit_take_pct": 12
+    },
+    "SKR": {
+      "market": "KRW-SKR",
+      "amount": 68593.08759149867,
+      "avg_buy_price_krw": 29.1,
+      "last_price_krw": 29.1,
+      "value_krw": 1996058.8489126111,
+      "thesis": "상장/신규 관심이 이어지며 1000억원대 거래대금과 20%대 급등이 동행하는 국내 추격 리더",
+      "strategy": "fresh listing momentum rotation",
+      "role": "fresh listing leader",
+      "risk_limit_pct": 9,
+      "profit_take_pct": 18
+    },
+    "ZAMA": {
+      "market": "KRW-ZAMA",
+      "amount": 40941.197674602314,
+      "avg_buy_price_krw": 47.4,
+      "last_price_krw": 47.4,
+      "value_krw": 1940612.7697761497,
+      "thesis": "업비트 상장 관심 뒤에도 600억원대 대금이 유지되는 프라이버시/FHE 테마 강세축",
+      "strategy": "listing follow-through rotation",
+      "role": "high-liquidity continuation",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 15
+    },
+    "TREE": {
+      "market": "KRW-TREE",
+      "amount": 13399.469124644842,
+      "avg_buy_price_krw": 120.0,
+      "last_price_krw": 120.0,
+      "value_krw": 1607936.294957381,
+      "thesis": "중형 순환매에서 10%대 상승과 200억원대 대금이 붙는 후속 탄력 자산",
+      "strategy": "mid-cap momentum rotation",
+      "role": "mid-cap momentum kicker",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 16
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.0M원대, 메이저 지지선 붕괴 여부 확인용"
+      "reason": "116.1M원대, 메이저 방향성 둔화 여부 확인용"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.38M원대, 알트 전반 리스크온 유지력 확인용"
+      "reason": "3.45M원대, 알트 리스크온 지속력 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,080원대, 국내 리테일 온도 체크용"
+      "reason": "2,148원대, 국내 리테일 온도 체크용"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "125.5K원대, risk-on 확대 여부 확인용"
+      "reason": "128.5K원대, 메이저 베타 회복 여부 확인용"
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "대금은 1위지만 151원 무효화 붕괴로 재안착 전 관찰 전환"
+      "symbol": "RED",
+      "market": "KRW-RED",
+      "reason": "466억원대 대금과 +7%대 강세로 차순위 교체 후보"
     },
     {
-      "symbol": "SPK",
-      "market": "KRW-SPK",
-      "reason": "88원 무효화 하회 후 급랭, 재돌파 전 제외 유지"
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "reason": "238억원대 대금과 +6%대 상승, 눌림 뒤 재가속 감시"
     },
     {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "대금은 충분하지만 -11.79%라 반등 확인 전 제외"
+      "symbol": "ESP",
+      "market": "KRW-ESP",
+      "reason": "신규상장 관심은 남아 있으나 SKR 대비 주도력이 약해 대기"
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "+2.13%이나 메이저성 베타에 가까워 코어 제외"
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "10%대 상승이지만 절대 대금이 톱5 대비 약해 보조 감시"
     }
   ],
   "history": [
@@ -598,6 +598,60 @@
       "amount_delta": 17456.246336633663,
       "cash_delta_krw": -1763080.88,
       "reason": "+10.02% 재점화와 양의 모멘텀이 확인돼 SPK 약세 슬롯 대체용으로 편입"
+    },
+    {
+      "timestamp": "2026-04-25T00:51:00+09:00",
+      "symbol": "SOON",
+      "action": "SELL",
+      "price_krw": 277.0,
+      "amount_delta": -6971.399459942859,
+      "cash_delta_krw": 1931077.6504041718,
+      "reason": "상장 후속 모멘텀이 -5%대로 식고 KAT·SKR 쪽으로 자금이 이동해 전량 교체"
+    },
+    {
+      "timestamp": "2026-04-25T00:51:00+09:00",
+      "symbol": "AXL",
+      "action": "SELL",
+      "price_krw": 89.0,
+      "amount_delta": -20399.290905266327,
+      "cash_delta_krw": 1815536.8905687032,
+      "reason": "중형 회복축 역할은 했지만 현재 회차 주도력은 TREE·ZAMA보다 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-04-25T00:51:00+09:00",
+      "symbol": "FLOCK",
+      "action": "SELL",
+      "price_krw": 103.0,
+      "amount_delta": -17456.246336633663,
+      "cash_delta_krw": 1797993.3726732673,
+      "reason": "저대금 보조 돌파형에서 주도주로 확장되지 못해 신규 상장 강세축으로 이동"
+    },
+    {
+      "timestamp": "2026-04-25T00:51:00+09:00",
+      "symbol": "SKR",
+      "action": "BUY",
+      "price_krw": 29.1,
+      "amount_delta": 68593.08759149867,
+      "cash_delta_krw": -1996058.8489126111,
+      "reason": "27%대 상승과 1100억원대 거래대금이 동행한 이번 회차 최우선 신규 리더라 편입"
+    },
+    {
+      "timestamp": "2026-04-25T00:51:00+09:00",
+      "symbol": "ZAMA",
+      "action": "BUY",
+      "price_krw": 47.4,
+      "amount_delta": 40941.197674602314,
+      "cash_delta_krw": -1940612.7697761497,
+      "reason": "업비트 상장 후속 관심과 640억원대 거래대금이 유지돼 공격 분산축으로 편입"
+    },
+    {
+      "timestamp": "2026-04-25T00:51:00+09:00",
+      "symbol": "TREE",
+      "action": "BUY",
+      "price_krw": 120.0,
+      "amount_delta": 13399.469124644842,
+      "cash_delta_krw": -1607936.294957381,
+      "reason": "16%대 상승과 259억원대 대금이 동행하는 중형 순환매 리더라 편입"
     }
   ]
 }
