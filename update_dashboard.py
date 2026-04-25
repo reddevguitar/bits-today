@@ -47,7 +47,8 @@ ICONS = {
     'ESP': '☕',
     'ZKP': '🔐',
     'ZBT': '🧨',
-    'API3': '📡'
+    'API3': '📡',
+    'RVN': '🪶'
 }
 
 
@@ -109,6 +110,7 @@ market_breadth = {
     'preferred_avg_change_pct_24h': round(sum(preferred_changes) / len(preferred_changes), 2) if preferred_changes else 0,
     'preferred_positive_count': sum(1 for x in preferred_changes if x > 0),
     'preferred_negative_count': sum(1 for x in preferred_changes if x < 0),
+    'preferred_positive_ratio_pct': round((sum(1 for x in preferred_changes if x > 0) / len(preferred_changes)) * 100, 2) if preferred_changes else 0,
     'preferred_turnover_total_krw_24h': total_preferred_turnover,
     'leader_turnover_share_pct': leader_turnover_share,
     'leader_symbol': preferred[leader_symbol].get('symbol') if leader_symbol is not None and preferred else None
