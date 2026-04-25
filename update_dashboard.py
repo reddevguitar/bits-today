@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import re
 from pathlib import Path
 
 BASE = Path('/Users/reddevguitar/.openclaw/workspace/bits-today')
@@ -50,7 +51,10 @@ ICONS = {
     'ZBT': '🧨',
     'API3': '📡',
     'RVN': '🪶',
-    'SAFE': '🛟'
+    'SAFE': '🛟',
+    'HYPER': '⚛️',
+    'ORCA': '🐋',
+    'SAHARA': '🏜️'
 }
 
 
@@ -62,6 +66,13 @@ def fmt_krw(value):
 
 def icon_for(symbol):
     return ICONS.get(symbol, '🪙')
+
+
+def extract_threshold_krw(text):
+    if not text:
+        return None
+    match = re.search(r'(\d+(?:\.\d+)?)\s*원', str(text))
+    return float(match.group(1)) if match else None
 
 
 def parse_report_sections(text):
@@ -103,6 +114,7 @@ selection_checks = {
 }
 recent_buys = sum(1 for item in recent_history if item.get('action') == 'BUY')
 recent_sells = sum(1 for item in recent_history if item.get('action') == 'SELL')
+latest_cycle_day = str(portfolio.get('last_updated', ''))[:10]
 preferred_changes = [item.get('change_pct_24h', 0) or 0 for item in preferred[:5]]
 preferred_turnovers = [item.get('turnover_krw_24h', 0) or 0 for item in preferred[:5]]
 total_preferred_turnover = sum(preferred_turnovers)
@@ -129,6 +141,24 @@ rotation_map = [
     }
     for item in rotation_map_raw
 ]
+discipline_alerts = []
+for item in preferred[:5]:
+    symbol = item.get('symbol')
+    pos = positions.get(symbol, {}) or {}
+    threshold = extract_threshold_krw(item.get('invalidated_if') or item.get('risk'))
+    last_price = pos.get('last_price_krw')
+    if threshold is not None and isinstance(last_price, (int, float)) and last_price < threshold:
+        discipline_alerts.append({
+            'symbol': symbol,
+            'last_price_krw': last_price,
+            'threshold_krw': threshold,
+            'message': f"{symbol} 가격이 무효화 기준 {threshold:,.1f}원 아래"
+        })
+portfolio_health = {
+    'discipline_alert_count': len(discipline_alerts),
+    'green_position_count': sum(1 for symbol, pos in positions.items() if (pos.get('last_price_krw', 0) or 0) >= (pos.get('avg_buy_price_krw', 0) or 0)),
+    'red_position_count': sum(1 for symbol, pos in positions.items() if (pos.get('last_price_krw', 0) or 0) < (pos.get('avg_buy_price_krw', 0) or 0))
+}
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -152,7 +182,7 @@ status = {
         'recent_buy_count': recent_buys,
         'recent_sell_count': recent_sells,
         'recent_rotation_count': min(recent_buys, recent_sells),
-        'recent_trade_actions_24h': sum(1 for item in history if str(item.get('timestamp', '')).startswith('2026-04-25'))
+        'recent_trade_actions_24h': sum(1 for item in history if latest_cycle_day and str(item.get('timestamp', '')).startswith(latest_cycle_day))
     },
     'summary': [],
     'recent_trades': history[-8:][::-1],
@@ -196,6 +226,8 @@ status = {
     'self_evaluation': self_evaluation,
     'market_breadth': market_breadth,
     'selection_checks': selection_checks,
+    'discipline_alerts': discipline_alerts,
+    'portfolio_health': portfolio_health,
     'report_sections': sections,
 }
 
