@@ -3,113 +3,118 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": 121339.1553624486,
-  "last_valuation_krw": 11212502.001785923,
-  "last_action": "ROTATE_RED_TREE_TO_API3_SOON",
-  "last_updated": "2026-04-25T12:51:00+09:00",
-  "trade_count": 182,
+  "realized_pnl_krw": -220982.3179541545,
+  "last_valuation_krw": 10274344.442726167,
+  "last_action": "ROTATE_SKR_ZAMA_TO_AXS_ZBT",
+  "last_updated": "2026-04-25T18:51:00+09:00",
+  "trade_count": 186,
   "positions": {
     "KAT": {
       "market": "KRW-KAT",
       "amount": 107880.8235576923,
       "avg_buy_price_krw": 20.8,
-      "last_price_krw": 35.8,
-      "value_krw": 3862133.4833653844,
-      "thesis": "업비트 내 최대 거래대금을 유지하는 잔존 유동성 코어",
-      "strategy": "liquidity anchor hold",
-      "role": "liquidity anchor core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 28
-    },
-    "SKR": {
-      "market": "KRW-SKR",
-      "amount": 68593.08759149867,
-      "avg_buy_price_krw": 29.1,
-      "last_price_krw": 26.5,
-      "value_krw": 1817716.8211747147,
-      "thesis": "큰 조정에도 1000억원대 거래대금이 남아 있는 상장 후속 유동성 축",
-      "strategy": "listing pullback hold",
-      "role": "listing follow-through pullback",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 14
-    },
-    "ZAMA": {
-      "market": "KRW-ZAMA",
-      "amount": 40941.197674602314,
-      "avg_buy_price_krw": 47.4,
-      "last_price_krw": 45.8,
-      "value_krw": 1875106.853496786,
-      "thesis": "국내 상장 후속 테마는 식지 않았고 700억원대 거래대금이 유지되는 고유동성 축",
-      "strategy": "high-liquidity pullback continuation",
-      "role": "high-liquidity pullback continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 14
+      "last_price_krw": 32.1,
+      "value_krw": 3462974.436201923,
+      "thesis": "업비트 최대 거래대금이 유지돼 급락 뒤에도 반등 자금이 재유입되는 유동성 코어",
+      "strategy": "liquidity rebound hold",
+      "role": "liquidity rebound core",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 18
     },
     "API3": {
       "market": "KRW-API3",
       "amount": 3057.264423634016,
       "avg_buy_price_krw": 723,
-      "last_price_krw": 723,
-      "value_krw": 2210402.1782873934,
-      "thesis": "이번 회차 +34%와 1000억원대 대금이 동행한 신규 돌파 리더",
-      "strategy": "fresh breakout rotation",
+      "last_price_krw": 611,
+      "value_krw": 1867988.5628403837,
+      "thesis": "오전 급등 뒤에도 1600억원대 대금이 남아 있는 오라클 돌파 리더",
+      "strategy": "fresh breakout hold",
       "role": "fresh breakout leader",
       "risk_limit_pct": 6,
-      "profit_take_pct": 18
+      "profit_take_pct": 16
+    },
+    "AXS": {
+      "market": "KRW-AXS",
+      "amount": 911.9601328903655,
+      "avg_buy_price_krw": 2408,
+      "last_price_krw": 2408,
+      "value_krw": 2196000.0,
+      "thesis": "GameFi 순환매 속 +42%와 1200억원대 대금이 동시에 확인된 신규 모멘텀 리더",
+      "strategy": "new momentum rotation buy",
+      "role": "new momentum leader",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 20
     },
     "SOON": {
       "market": "KRW-SOON",
       "amount": 4087.973631247579,
       "avg_buy_price_krw": 354,
-      "last_price_krw": 354,
-      "value_krw": 1447142.665461643,
-      "thesis": "TREE를 대체할 만한 재가속 상장 후속 강세가 확인된 신규 베타 슬롯",
-      "strategy": "re-acceleration breakout buy",
+      "last_price_krw": 330,
+      "value_krw": 1349031.298311701,
+      "thesis": "상장 후속 리테일 자금이 아직 강하게 남아 있는 재가속 베타 리더",
+      "strategy": "re-acceleration breakout hold",
       "role": "re-acceleration breakout",
       "risk_limit_pct": 6,
-      "profit_take_pct": 18
+      "profit_take_pct": 16
+    },
+    "ZBT": {
+      "market": "KRW-ZBT",
+      "amount": 6565.024156676798,
+      "avg_buy_price_krw": 213,
+      "last_price_krw": 213,
+      "value_krw": 1398350.145372158,
+      "thesis": "상위권 대금 중 드물게 플러스를 유지해 음봉 후보를 대체할 만한 보조 공격축",
+      "strategy": "green high-turnover support buy",
+      "role": "green high-turnover support",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.629M원대 유지 여부가 알트 공격성 지속의 최우선 조건"
+      "reason": "115.5M원대 유지 여부가 알트 공격성 지속의 핵심 조건"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.451M원대, 메이저 리스크온 체온 확인용"
+      "reason": "3.457M원대, 메이저 리스크온 체온 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,138원대, 국내 리테일 온도계"
+      "reason": "2,137원대, 국내 리테일 온도계"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "128.6K원대, 메이저 베타 유지 확인용"
+      "reason": "129.0K원대, 메이저 베타 유지 확인용"
     },
     {
       "symbol": "SPK",
       "market": "KRW-SPK",
-      "reason": "1239억원대 대금은 크지만 저점 갱신 중이라 반등 성공 시에만 재진입 검토"
+      "reason": "대금은 1000억원대지만 음봉이라 반등 확인 시에만 복귀 검토"
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "868억원대 대금에도 하락이 깊어 추세 복구 확인 전 배제"
+      "symbol": "SKR",
+      "market": "KRW-SKR",
+      "reason": "900억원대 대금은 남아 있으나 26원대 방어 실패 시 완전 이탈 후보"
+    },
+    {
+      "symbol": "ZAMA",
+      "market": "KRW-ZAMA",
+      "reason": "44.5원 아래라 일단 제외, 46원 회복 시에만 재평가"
+    },
+    {
+      "symbol": "SAFE",
+      "market": "KRW-SAFE",
+      "reason": "+24.09%지만 대금이 얕아 다음 회차 급확대 여부 확인 필요"
     },
     {
       "symbol": "RVN",
       "market": "KRW-RVN",
-      "reason": "+4.27%와 양의 흐름이 살아 있는 보조 후보"
-    },
-    {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "약 557억원대 거래대금과 고변동성이 있어 급반전 시 교체 후보"
+      "reason": "+2.81%와 양의 흐름이 살아 있는 보조 후보"
     }
   ],
   "history": [
@@ -706,6 +711,42 @@
       "amount_delta": 4087.973631247579,
       "cash_delta_krw": -1447142.665461643,
       "reason": "+34.09%와 약 743억원 거래대금이 확인돼 TREE 대신 재가속 베타 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-04-25T18:51:00+09:00",
+      "symbol": "SKR",
+      "action": "SELL",
+      "price_krw": 25.9,
+      "amount_delta": -68593.08759149867,
+      "cash_delta_krw": 1776560.9686198153,
+      "reason": "25.9원으로 눌리며 상장 후속 리더 지위를 잃었고, 같은 자금을 더 강한 AXS 돌파로 재배치"
+    },
+    {
+      "timestamp": "2026-04-25T18:51:00+09:00",
+      "symbol": "ZAMA",
+      "action": "SELL",
+      "price_krw": 44.4,
+      "amount_delta": -40941.197674602314,
+      "cash_delta_krw": 1817789.1767523426,
+      "reason": "44.5원 무효화 구간을 실제로 하향해 보유 명분이 약해졌고, 플러스를 지키는 ZBT로 교체"
+    },
+    {
+      "timestamp": "2026-04-25T18:51:00+09:00",
+      "symbol": "AXS",
+      "action": "BUY",
+      "price_krw": 2408,
+      "amount_delta": 911.9601328903655,
+      "cash_delta_krw": -2196000.0,
+      "reason": "+42.74%와 약 1279억원 거래대금이 동행한 신규 모멘텀 리더라 SKR 대체 1순위로 편입"
+    },
+    {
+      "timestamp": "2026-04-25T18:51:00+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 213,
+      "amount_delta": 6565.024156676798,
+      "cash_delta_krw": -1398350.145372158,
+      "reason": "500억원대 대금과 플러스 수익률을 지켜 ZAMA보다 방어적이지 않으면서도 더 건강한 분산 슬롯으로 판단"
     }
   ]
 }

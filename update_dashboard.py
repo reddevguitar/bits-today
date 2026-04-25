@@ -26,6 +26,7 @@ ICONS = {
     'SENT': '📡',
     'IP': '🪪',
     'AXL': '🛰️',
+    'AXS': '🎮',
     'CHIP': '🧩',
     'FLOCK': '🐦',
     'OPEN': '📬',
@@ -48,7 +49,8 @@ ICONS = {
     'ZKP': '🔐',
     'ZBT': '🧨',
     'API3': '📡',
-    'RVN': '🪶'
+    'RVN': '🪶',
+    'SAFE': '🛟'
 }
 
 
@@ -149,7 +151,8 @@ status = {
     'rotation_footprint': {
         'recent_buy_count': recent_buys,
         'recent_sell_count': recent_sells,
-        'recent_rotation_count': min(recent_buys, recent_sells)
+        'recent_rotation_count': min(recent_buys, recent_sells),
+        'recent_trade_actions_24h': sum(1 for item in history if str(item.get('timestamp', '')).startswith('2026-04-25'))
     },
     'summary': [],
     'recent_trades': history[-8:][::-1],
@@ -197,18 +200,25 @@ status = {
 }
 
 for symbol, pos in positions.items():
+    amount = pos.get('amount', 0) or 0
+    avg_buy = pos.get('avg_buy_price_krw', 0) or 0
+    last_price = pos.get('last_price_krw', 0) or 0
+    pnl_krw = (last_price - avg_buy) * amount
+    pnl_pct = round(((last_price - avg_buy) / avg_buy) * 100, 2) if avg_buy else 0
     status['positions'].append({
         'icon': icon_for(symbol),
         'symbol': symbol,
         'market': pos.get('market', '-'),
-        'amount': pos.get('amount', 0),
-        'avg_buy_price_krw': fmt_krw(pos.get('avg_buy_price_krw', 0)),
-        'last_price_krw': fmt_krw(pos.get('last_price_krw', 0)),
+        'amount': amount,
+        'avg_buy_price_krw': fmt_krw(avg_buy),
+        'last_price_krw': fmt_krw(last_price),
         'thesis': pos.get('thesis', '-'),
         'strategy': pos.get('strategy', '-'),
         'role': pos.get('role', '-'),
         'risk_limit_pct': pos.get('risk_limit_pct'),
-        'profit_take_pct': pos.get('profit_take_pct')
+        'profit_take_pct': pos.get('profit_take_pct'),
+        'pnl_krw': fmt_krw(pnl_krw),
+        'pnl_pct': pnl_pct
     })
 
 for item in history[-30:]:
