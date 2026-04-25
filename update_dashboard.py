@@ -89,6 +89,17 @@ def parse_report_sections(text):
     return {k: [line for line in v if line.strip()] for k, v in sections.items()}
 
 
+def classify_candidate_health(last_price, threshold):
+    if threshold is None or not isinstance(last_price, (int, float)):
+        return 'unknown', None
+    distance_pct = round(((last_price - threshold) / threshold) * 100, 2) if threshold else None
+    if last_price < threshold:
+        return 'broken', distance_pct
+    if distance_pct is not None and distance_pct <= 5:
+        return 'near', distance_pct
+    return 'healthy', distance_pct
+
+
 reports = sorted(REPORTS.glob('*.md'))
 latest_report = reports[-1] if reports else None
 portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
@@ -142,11 +153,21 @@ rotation_map = [
     for item in rotation_map_raw
 ]
 discipline_alerts = []
+candidate_health = []
 for item in preferred[:5]:
     symbol = item.get('symbol')
     pos = positions.get(symbol, {}) or {}
     threshold = extract_threshold_krw(item.get('invalidated_if') or item.get('risk'))
-    last_price = pos.get('last_price_krw')
+    last_price = pos.get('last_price_krw', item.get('price_krw'))
+    health, distance_pct = classify_candidate_health(last_price, threshold)
+    candidate_health.append({
+        'icon': icon_for(symbol),
+        'symbol': symbol,
+        'last_price_krw': last_price,
+        'threshold_krw': threshold,
+        'distance_to_invalidation_pct': distance_pct,
+        'status': health
+    })
     if threshold is not None and isinstance(last_price, (int, float)) and last_price < threshold:
         discipline_alerts.append({
             'symbol': symbol,
@@ -227,6 +248,7 @@ status = {
     'market_breadth': market_breadth,
     'selection_checks': selection_checks,
     'discipline_alerts': discipline_alerts,
+    'candidate_health': candidate_health,
     'portfolio_health': portfolio_health,
     'report_sections': sections,
 }

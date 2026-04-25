@@ -3,19 +3,19 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": -359551.1818580791,
-  "last_valuation_krw": 9037300.577804144,
-  "last_action": "ROTATE_KAT_API3_TO_HYPER_ORCA",
-  "last_updated": "2026-04-26T00:51:00+09:00",
-  "trade_count": 190,
+  "realized_pnl_krw": -652943.8967418108,
+  "last_valuation_krw": 8984437.23200085,
+  "last_action": "ROTATE_ORCA_TO_SAHARA",
+  "last_updated": "2026-04-26T06:51:00+09:00",
+  "trade_count": 192,
   "positions": {
     "AXS": {
       "market": "KRW-AXS",
       "amount": 911.9601328903655,
       "avg_buy_price_krw": 2408,
-      "last_price_krw": 2265.0,
-      "value_krw": 2065589.7009966779,
-      "thesis": "업비트 최상위 거래대금과 +34%대 강세가 동행하는 GameFi 주력 리더",
+      "last_price_krw": 2328,
+      "value_krw": 2123043.189368771,
+      "thesis": "업비트 최상위 거래대금과 +38%대 강세가 동행하는 GameFi 주력 리더",
       "strategy": "primary momentum core hold",
       "role": "primary momentum core",
       "risk_limit_pct": 7,
@@ -25,8 +25,8 @@
       "market": "KRW-SOON",
       "amount": 4087.973631247579,
       "avg_buy_price_krw": 354,
-      "last_price_krw": 298.0,
-      "value_krw": 1218216.1421117785,
+      "last_price_krw": 293,
+      "value_krw": 1197776.2739555405,
       "thesis": "상장 후속주 중 아직 양전과 1200억원대 거래대금을 함께 유지하는 재가속 베타",
       "strategy": "re-acceleration beta hold",
       "role": "re-acceleration beta",
@@ -37,84 +37,89 @@
       "market": "KRW-ZBT",
       "amount": 6565.024156676798,
       "avg_buy_price_krw": 213,
-      "last_price_krw": 219.0,
-      "value_krw": 1437740.2903122187,
-      "thesis": "상위권 대금군에서 플러스를 유지하는 분산용 보조 공격축",
+      "last_price_krw": 250,
+      "value_krw": 1641256.0391691995,
+      "thesis": "상위권 대금군에서 플러스를 유지하던 보조축이 이번 회차에는 강한 녹색 유지로 승격",
       "strategy": "green turnover support hold",
       "role": "green turnover support",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12
+      "risk_limit_pct": 6,
+      "profit_take_pct": 15
     },
     "HYPER": {
       "market": "KRW-HYPER",
       "amount": 8976.769244317615,
-      "avg_buy_price_krw": 250.0,
-      "last_price_krw": 250.0,
+      "avg_buy_price_krw": 250,
+      "last_price_krw": 250,
       "value_krw": 2244192.311079404,
-      "thesis": "이번 회차 +71%와 1200억원대 거래대금이 동행한 신규 베타 확장 리더",
-      "strategy": "fresh breakout leader buy",
+      "thesis": "이번 회차 +71%와 1500억원대 거래대금이 동행한 신규 베타 확장 리더",
+      "strategy": "fresh breakout leader hold",
       "role": "fresh breakout leader",
       "risk_limit_pct": 8,
       "profit_take_pct": 22
     },
-    "ORCA": {
-      "market": "KRW-ORCA",
-      "amount": 1047.8311245847572,
-      "avg_buy_price_krw": 1977.0,
-      "last_price_krw": 1977.0,
-      "value_krw": 2071562.133304065,
-      "thesis": "강한 양봉과 600억원대 거래대금이 동시에 살아난 DEX 후속 돌파 리더",
-      "strategy": "secondary breakout leader buy",
-      "role": "secondary breakout leader",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 18
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 50516.17665966856,
+      "avg_buy_price_krw": 35.2,
+      "last_price_krw": 35.2,
+      "value_krw": 1778169.4184203332,
+      "thesis": "ORCA 이탈 자리를 대신하는 다음 녹색 대금 순환 후보",
+      "strategy": "replacement rotation leader buy",
+      "role": "replacement rotation leader",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.2M원 유지 여부가 알트 공격성 지속의 핵심 조건"
+      "reason": "115.3M원 유지 여부가 알트 공격성 지속의 핵심 조건"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.447M원대, 메이저 리스크온 체온 확인용"
+      "reason": "3.45M원대, 메이저 리스크온 체온 확인용"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,131원대, 국내 리테일 온도계"
+      "reason": "2,124원대, 국내 리테일 온도계"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "128.7K원대, 메이저 베타 유지 확인용"
+      "reason": "128.1K원대, 메이저 베타 유지 확인용"
     },
     {
       "symbol": "KAT",
       "market": "KRW-KAT",
-      "reason": "대금 1위지만 -32% 붕괴라 27원 재탈환 전에는 후보 제외"
+      "reason": "대금은 2500억원대지만 -35% 붕괴라 27원 재탈환 전 후보 제외"
     },
     {
       "symbol": "API3",
       "market": "KRW-API3",
-      "reason": "대금은 크지만 580원 무효화 하향 상태라 재상향 확인 전까지 보류"
+      "reason": "대금은 1700억원대지만 580원 무효화 아래라 회복 전 보류"
+    },
+    {
+      "symbol": "ORCA",
+      "market": "KRW-ORCA",
+      "reason": "1880원 무효화 재안착 전까지 감시만 유지"
     },
     {
       "symbol": "SPK",
       "market": "KRW-SPK",
-      "reason": "대금은 900억원대지만 저가 갱신 음봉이라 반등 확인 전 편입 금지"
+      "reason": "900억원대 대금에도 저가 갱신 음봉이라 반등 확인 전 편입 금지"
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "+6.46%와 700억원대 대금으로 보조 후보, 다음 회차 확장 여부 확인"
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "reason": "+13.43%와 436억원대 대금으로 SAHARA 다음 교체 후보"
     },
     {
       "symbol": "SAFE",
       "market": "KRW-SAFE",
-      "reason": "+8.18%지만 대금이 상대적으로 얕아 2차 후보"
+      "reason": "+6.82%지만 306억원대 대금으로 2차 후보"
     }
   ],
   "history": [
@@ -736,7 +741,7 @@
       "action": "BUY",
       "price_krw": 2408,
       "amount_delta": 911.9601328903655,
-      "cash_delta_krw": -2196000.0,
+      "cash_delta_krw": -2196000,
       "reason": "+42.74%와 약 1279억원 거래대금이 동행한 신규 모멘텀 리더라 SKR 대체 1순위로 편입"
     },
     {
@@ -761,7 +766,7 @@
       "timestamp": "2026-04-26T00:51:00+09:00",
       "symbol": "API3",
       "action": "SELL",
-      "price_krw": 533.0,
+      "price_krw": 533,
       "amount_delta": -3057.264423634016,
       "cash_delta_krw": 1629521.9377969305,
       "reason": "580원 무효화 아래에서 회복이 없고 더 강한 녹색 돌파주 대비 주도력이 약해 전량 교체"
@@ -770,7 +775,7 @@
       "timestamp": "2026-04-26T00:51:00+09:00",
       "symbol": "HYPER",
       "action": "BUY",
-      "price_krw": 250.0,
+      "price_krw": 250,
       "amount_delta": 8976.769244317615,
       "cash_delta_krw": -2244192.311079404,
       "reason": "+71.23%와 약 1299억원 거래대금이 동행한 이번 회차 최강 신규 돌파주라 KAT 대체 1순위로 편입"
@@ -779,10 +784,28 @@
       "timestamp": "2026-04-26T00:51:00+09:00",
       "symbol": "ORCA",
       "action": "BUY",
-      "price_krw": 1977.0,
+      "price_krw": 1977,
       "amount_delta": 1047.8311245847572,
       "cash_delta_krw": -2071562.133304065,
       "reason": "+41.52%와 약 660억원 거래대금이 살아 있어 무효화된 API3 대신 고베타 돌파 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-04-26T06:51:00+09:00",
+      "symbol": "ORCA",
+      "action": "SELL",
+      "price_krw": 1697,
+      "amount_delta": -1047.8311245847572,
+      "cash_delta_krw": 1778169.4184203332,
+      "reason": "1880원 무효화 기준 아래 체류가 확인돼 플러스 수익률 구간이어도 보유 명분을 철회하고 SAHARA로 교체"
+    },
+    {
+      "timestamp": "2026-04-26T06:51:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 35.2,
+      "amount_delta": 50516.17665966856,
+      "cash_delta_krw": -1778169.4184203332,
+      "reason": "+8.31%와 약 726억원 거래대금이 유지돼 ORCA 이탈 자리를 메우는 다음 녹색 대금 리더로 신규 편입"
     }
   ]
 }
