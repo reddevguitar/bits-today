@@ -57,7 +57,9 @@ ICONS = {
     'SAHARA': '🏜️',
     'RAY': '🎯',
     'SOMI': '🎵',
-    'TRUMP': '🧢'
+    'TRUMP': '🧢',
+    'MIRA': '🪞',
+    'SONIC': '🦔'
 }
 
 
