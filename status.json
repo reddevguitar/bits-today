@@ -1,142 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive diversified hold with one stop-trigger rotation from broken breakout to still-green turnover leader",
-  "confidence": "medium-high",
+  "judgment": "aggressive diversified rotation into fresh green leaders after morning leadership breakdown",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-04-26 06:51 KST",
-  "market_status": "메이저는 조용하지만 업비트 알트는 여전히 살아 있는 녹색 대금 종목으로만 재집중되는 선택형 순환장입니다.",
-  "fear_greed": "31 (Fear, 외부 지수는 약하지만 업비트 내부는 살아 있는 녹색 종목으로만 탐욕 집중)",
-  "btc_snapshot": "BTC 115.552M원대, ETH 3.451M원대, XRP 2,124원대, SOL 128.1K원대",
+  "updated_at": "2026-04-26 12:51 KST",
+  "market_status": "메이저는 약보합이지만 업비트 알트는 살아 있는 녹색 재점화 종목만 빠르게 선택받는 재선별 장입니다.",
+  "fear_greed": "33 (Fear, 외부 지수는 약하지만 업비트 내부는 녹색 재점화 종목에만 자금 집중)",
+  "btc_snapshot": "BTC 115.339M원대, ETH 3.441M원대, XRP 2,114원대, SOL 127.9K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-652,944 KRW",
-  "last_valuation_krw": "8,984,437 KRW",
+  "realized_pnl_krw": "-1,828,908 KRW",
+  "last_valuation_krw": "8,127,362 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -10.16,
-  "last_action": "ROTATE_ORCA_TO_SAHARA",
-  "trade_count": 192,
-  "last_updated": "2026-04-26T06:51:00+09:00",
+  "return_pct": -18.73,
+  "last_action": "ROTATE_BROKEN_LEADERS_TO_ORCA_RAY_SOMI_ENSO",
+  "trade_count": 200,
+  "last_updated": "2026-04-26T12:51:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 20,
-    "recent_sell_count": 19,
-    "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 6
+    "recent_buy_count": 22,
+    "recent_sell_count": 18,
+    "recent_rotation_count": 18,
+    "recent_trade_actions_24h": 14
   },
   "summary": [
-    "₿ BTC: 115.552M원, +0.08%, 알트 공격 허용",
-    "◆ ETH: 3.451M원, +0.06%, 메이저 중립",
-    "💧 XRP: 2,124원, -0.52%, 국내 리테일 체온 소폭 둔화",
-    "☀️ SOL: 128.1K원, -0.23%, 베타 붕괴는 아님",
+    "₿ BTC: 115.339M원, -0.31%, 급락은 아니지만 알트 추격 속도는 늦춰야 함",
+    "◆ ETH: 3.441M원, -0.41%, 메이저 중립 이하",
+    "💧 XRP: 2,114원, -0.42%, 국내 리테일 온도 소폭 둔화",
+    "☀️ SOL: 127.9K원, -0.39%, 솔라나 계열 순환은 유지",
     "현금 0%, 5종 공격 분산 유지",
-    "AXS·HYPER는 breakout, SOON은 re-acceleration, ZBT는 support, SAHARA는 replacement 슬롯",
-    "무효화 깨진 종목은 수익 여부와 무관하게 교체",
-    "KAT·API3·SPK·ORCA는 대금보다 구조 훼손이 더 중요",
-    "SELL 🐋 ORCA",
-    "BUY 🏜️ SAHARA",
-    "HOLD 🎮 AXS",
-    "HOLD ⚛️ HYPER",
-    "HOLD 🔜 SOON",
+    "ORCA·RAY·SOMI는 fresh green leader, ZBT는 survivor, ENSO는 resilient slot",
+    "오전 리더였어도 무효화 깨지면 즉시 교체",
+    "이번 회차는 대금보다 녹색 유지 여부를 더 우선",
+    "SELL 🎮 AXS",
+    "SELL ⚛️ HYPER",
+    "SELL 🔜 SOON",
+    "SELL 🏜️ SAHARA",
+    "BUY 🐋 ORCA",
+    "BUY 🎯 RAY",
+    "BUY 🎵 SOMI",
+    "BUY 🌀 ENSO",
     "HOLD 🧨 ZBT",
     "현금: 0원",
-    "🎮 AXS: 911.96013289개 @ 평균 2,408원, 현재 2,328원",
-    "⚛️ HYPER: 8976.76924432개 @ 평균 250원, 현재 250원",
-    "🔜 SOON: 4087.97363125개 @ 평균 354원, 현재 293원",
-    "🧨 ZBT: 6565.02415668개 @ 평균 213원, 현재 250원",
-    "🏜️ SAHARA: 50516.17665967개 @ 평균 35.2원, 현재 35.2원",
-    "총 평가액: 8,984,437원",
-    "실현손익: -652,944원",
-    "누적 수익률: -10.16%",
-    "ORCA가 아직 양봉이어도 1,880원 무효화 이탈을 이유로 바로 잘라낸 점은 좋았습니다.",
-    "직전 실수였던 \"대금이 크니 더 본다\"를 반복하지 않았습니다.",
-    "다만 SOON·AXS의 손익 악화 구간은 더 날카롭게 추적해야 합니다.",
-    "ORCA stop-trigger를 실제 매매에 반영해 SAHARA로 교체했습니다.",
-    "dashboard에 candidate_health를 추가해 후보별 무효화 거리와 상태를 바로 보이게 했습니다.",
-    "추천 행동 문구를 더 짧게 줄여 스캔 속도를 높였습니다.",
-    "aggressive diversified hold with one stop-trigger rotation from broken breakout to still-green turnover leader",
-    "medium-high",
-    "AXS 2230원, HYPER 232원, SOON 286원, ZBT 228원, SAHARA 33원 하향 시 즉시 재평가",
-    "ORCA는 1880원 재안착 전까지 복귀 보류",
-    "ENSO는 차순위, API3·KAT·SPK는 감시만 유지",
-    "HYPER·AXS·ZBT는 급등 구간이라 되돌림 속도가 빠를 수 있습니다.",
-    "SOON은 286원 이탈 시 상장 후속 피로가 커질 수 있습니다.",
-    "SAHARA는 대금은 충분하지만 돌파 강도는 상대적으로 약합니다.",
-    "BTC가 115.3M원 아래로 밀리면 현재 알트 순환도 빠르게 식을 수 있습니다."
+    "🐋 ORCA: 691.96289717개 @ 평균 2,341원, 현재 2,341원",
+    "🎯 RAY: 1303.20526322개 @ 평균 1,243원, 현재 1,243원",
+    "🎵 SOMI: 5142.49251802개 @ 평균 315원, 현재 315원",
+    "🧨 ZBT: 6565.02415668개 @ 평균 213원, 현재 251원",
+    "🌀 ENSO: 1225.32915520개 @ 평균 1,322원, 현재 1,322원",
+    "총 평가액: 8,127,362원",
+    "실현손익: -1,828,908원",
+    "누적 수익률: -18.73%",
+    "오전에 손절했던 ORCA를 재안착 확인 뒤 다시 담은 점은 좋았습니다.",
+    "손절 후 재진입을 두려워하지 않은 건 강점이지만, 같은 날 whipsaw가 반복된 건 반성 포인트입니다.",
+    "다음엔 장중 변동성 큰 종목의 무효화 폭을 조금 더 탄력적으로 잡아야 합니다.",
+    "Upbit ticker/all KRW 스냅샷을 직접 반영해 RAY·SOMI 신규 리더를 빠르게 포착했습니다.",
+    "dashboard 아이콘 세트에 RAY·SOMI·TRUMP를 추가했습니다.",
+    "후보 설명을 더 짧게 압축해 스캔 속도를 높였습니다.",
+    "aggressive diversified rotation into fresh green leaders after morning leadership breakdown",
+    "medium",
+    "ORCA 2180원, RAY 1160원, SOMI 286원, ZBT 240원, ENSO 1265원 하향 시 즉시 재평가",
+    "AXS·HYPER·SAHARA는 반등보다 구조 회복 확인이 먼저",
+    "TRUMP는 관심 유지, KAT·API3는 감시만",
+    "ORCA는 재진입 종목이라 whipsaw 재발 가능성이 큽니다.",
+    "RAY·SOMI는 추격 구간이라 눌림이 깊으면 손실 속도가 빠를 수 있습니다.",
+    "ENSO는 녹색 전환이 아니라 낙폭 관리 슬롯입니다.",
+    "BTC가 115.2M원 아래로 밀리면 현재 낮 시간대 알트 재점화도 약해질 수 있습니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-26T06:51:00+09:00",
+      "timestamp": "2026-04-26T12:51:00+09:00",
+      "symbol": "ENSO",
+      "action": "BUY",
+      "price_krw": 1322,
+      "amount_delta": 1225.3291552019723,
+      "cash_delta_krw": -1619885.143177207,
+      "reason": "-1.27%지만 약 541억원 대금과 얕은 낙폭으로 SOON보다 구조가 나아 5번째 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-04-26T12:51:00+09:00",
+      "symbol": "SOMI",
+      "action": "BUY",
+      "price_krw": 315,
+      "amount_delta": 5142.492518022879,
+      "cash_delta_krw": -1619885.143177207,
+      "reason": "+17.10%와 약 639억원 거래대금이 동행한 낮 시간대 신규 리더라 HYPER 대체축으로 편입"
+    },
+    {
+      "timestamp": "2026-04-26T12:51:00+09:00",
+      "symbol": "RAY",
+      "action": "BUY",
+      "price_krw": 1243,
+      "amount_delta": 1303.2052632157738,
+      "cash_delta_krw": -1619885.143177207,
+      "reason": "+21.39%와 약 753억원 거래대금으로 새 녹색 주도력이 확인돼 AXS 대체축으로 편입"
+    },
+    {
+      "timestamp": "2026-04-26T12:51:00+09:00",
+      "symbol": "ORCA",
+      "action": "BUY",
+      "price_krw": 2341,
+      "amount_delta": 691.9628971718108,
+      "cash_delta_krw": -1619885.143177207,
+      "reason": "+41.02%와 약 1935억원 거래대금이 동행한 재점화 리더라 SAHARA 대체 1순위로 재편입"
+    },
+    {
+      "timestamp": "2026-04-26T12:51:00+09:00",
       "symbol": "SAHARA",
-      "action": "BUY",
-      "price_krw": 35.2,
-      "amount_delta": 50516.17665966856,
-      "cash_delta_krw": -1778169.4184203332,
-      "reason": "+8.31%와 약 726억원 거래대금이 유지돼 ORCA 이탈 자리를 메우는 다음 녹색 대금 리더로 신규 편입"
-    },
-    {
-      "timestamp": "2026-04-26T06:51:00+09:00",
-      "symbol": "ORCA",
       "action": "SELL",
-      "price_krw": 1697,
-      "amount_delta": -1047.8311245847572,
-      "cash_delta_krw": 1778169.4184203332,
-      "reason": "1880원 무효화 기준 아래 체류가 확인돼 플러스 수익률 구간이어도 보유 명분을 철회하고 SAHARA로 교체"
+      "price_krw": 33.2,
+      "amount_delta": -50516.17665966856,
+      "cash_delta_krw": 1677137.065100996,
+      "reason": "33원대 테스트로 방어력이 약해져 ORCA 재점화 리더에 자리 양보"
     },
     {
-      "timestamp": "2026-04-26T00:51:00+09:00",
-      "symbol": "ORCA",
-      "action": "BUY",
-      "price_krw": 1977,
-      "amount_delta": 1047.8311245847572,
-      "cash_delta_krw": -2071562.133304065,
-      "reason": "+41.52%와 약 660억원 거래대금이 살아 있어 무효화된 API3 대신 고베타 돌파 슬롯으로 편입"
+      "timestamp": "2026-04-26T12:51:00+09:00",
+      "symbol": "SOON",
+      "action": "SELL",
+      "price_krw": 277,
+      "amount_delta": -4087.973631247579,
+      "cash_delta_krw": 1132368.6958555793,
+      "reason": "286원 아래 체류와 상장 후속 피로가 겹쳐 ENSO로 교체"
     },
     {
-      "timestamp": "2026-04-26T00:51:00+09:00",
+      "timestamp": "2026-04-26T12:51:00+09:00",
       "symbol": "HYPER",
-      "action": "BUY",
-      "price_krw": 250,
-      "amount_delta": 8976.769244317615,
-      "cash_delta_krw": -2244192.311079404,
-      "reason": "+71.23%와 약 1299억원 거래대금이 동행한 이번 회차 최강 신규 돌파주라 KAT 대체 1순위로 편입"
-    },
-    {
-      "timestamp": "2026-04-26T00:51:00+09:00",
-      "symbol": "API3",
       "action": "SELL",
-      "price_krw": 533,
-      "amount_delta": -3057.264423634016,
-      "cash_delta_krw": 1629521.9377969305,
-      "reason": "580원 무효화 아래에서 회복이 없고 더 강한 녹색 돌파주 대비 주도력이 약해 전량 교체"
+      "price_krw": 196,
+      "amount_delta": -8976.769244317615,
+      "cash_delta_krw": 1759446.7718862523,
+      "reason": "232원 무효화 아래와 -17.30% 급락으로 과열 리더 붕괴가 확인돼 전량 교체"
     },
     {
-      "timestamp": "2026-04-26T00:51:00+09:00",
-      "symbol": "KAT",
-      "action": "SELL",
-      "price_krw": 24.9,
-      "amount_delta": -107880.8235576923,
-      "cash_delta_krw": 2686232.506586538,
-      "reason": "31원 무효화 아래로 크게 무너진 상태가 지속돼 대금 1위라도 반등 코어 가정을 철회"
-    },
-    {
-      "timestamp": "2026-04-25T18:51:00+09:00",
-      "symbol": "ZBT",
-      "action": "BUY",
-      "price_krw": 213,
-      "amount_delta": 6565.024156676798,
-      "cash_delta_krw": -1398350.145372158,
-      "reason": "500억원대 대금과 플러스 수익률을 지켜 ZAMA보다 방어적이지 않으면서도 더 건강한 분산 슬롯으로 판단"
-    },
-    {
-      "timestamp": "2026-04-25T18:51:00+09:00",
+      "timestamp": "2026-04-26T12:51:00+09:00",
       "symbol": "AXS",
-      "action": "BUY",
-      "price_krw": 2408,
-      "amount_delta": 911.9601328903655,
-      "cash_delta_krw": -2196000,
-      "reason": "+42.74%와 약 1279억원 거래대금이 동행한 신규 모멘텀 리더라 SKR 대체 1순위로 편입"
+      "action": "SELL",
+      "price_krw": 2106,
+      "amount_delta": -911.9601328903655,
+      "cash_delta_krw": 1920588.0398661098,
+      "reason": "2230원 아래 체류와 -10.76% 약세가 동시에 확인돼 최대 대금이어도 오전 리더 가정을 철회"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-04-26-1251.md",
+      "title": "2026-04-26-1251"
+    },
     {
       "file": "2026-04-26-0651.md",
       "title": "2026-04-26-0651"
@@ -164,42 +171,53 @@
     {
       "file": "2026-04-24-0200.md",
       "title": "2026-04-24-0200"
-    },
-    {
-      "file": "2026-04-23-2000.md",
-      "title": "2026-04-23-2000"
     }
   ],
   "positions": [
     {
-      "icon": "🎮",
-      "symbol": "AXS",
-      "market": "KRW-AXS",
-      "amount": 911.9601328903655,
-      "avg_buy_price_krw": "2,408 KRW",
-      "last_price_krw": "2,328 KRW",
-      "thesis": "업비트 최상위 거래대금과 +38%대 강세가 동행하는 GameFi 주력 리더",
-      "strategy": "primary momentum core hold",
-      "role": "primary momentum core",
+      "icon": "🐋",
+      "symbol": "ORCA",
+      "market": "KRW-ORCA",
+      "amount": 691.9628971718108,
+      "avg_buy_price_krw": "2,341 KRW",
+      "last_price_krw": "2,341 KRW",
+      "thesis": "오전 손절 뒤 재돌파와 대금 재집중이 동시에 확인된 최강 재점화 리더",
+      "strategy": "reclaimed breakout leader buy",
+      "role": "reclaimed breakout leader",
       "risk_limit_pct": 7,
       "profit_take_pct": 20,
-      "pnl_krw": "-72,957 KRW",
-      "pnl_pct": -3.32
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🔜",
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "amount": 4087.973631247579,
-      "avg_buy_price_krw": "354 KRW",
-      "last_price_krw": "293 KRW",
-      "thesis": "상장 후속주 중 아직 양전과 1200억원대 거래대금을 함께 유지하는 재가속 베타",
-      "strategy": "re-acceleration beta hold",
-      "role": "re-acceleration beta",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 16,
-      "pnl_krw": "-249,366 KRW",
-      "pnl_pct": -17.23
+      "icon": "🎯",
+      "symbol": "RAY",
+      "market": "KRW-RAY",
+      "amount": 1303.2052632157738,
+      "avg_buy_price_krw": "1,243 KRW",
+      "last_price_krw": "1,243 KRW",
+      "thesis": "솔라나 계열 순환매 중 가장 선명한 녹색 대금 주도주",
+      "strategy": "secondary momentum leader buy",
+      "role": "secondary momentum leader",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 18,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🎵",
+      "symbol": "SOMI",
+      "market": "KRW-SOMI",
+      "amount": 5142.492518022879,
+      "avg_buy_price_krw": "315 KRW",
+      "last_price_krw": "315 KRW",
+      "thesis": "낮 시간대 새로 붙은 중형 리테일 순환매의 중심",
+      "strategy": "fresh attention beta buy",
+      "role": "fresh attention beta",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 18,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
       "icon": "🧨",
@@ -207,114 +225,32 @@
       "market": "KRW-ZBT",
       "amount": 6565.024156676798,
       "avg_buy_price_krw": "213 KRW",
-      "last_price_krw": "250 KRW",
-      "thesis": "상위권 대금군에서 플러스를 유지하던 보조축이 이번 회차에는 강한 녹색 유지로 승격",
-      "strategy": "green turnover support hold",
-      "role": "green turnover support",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 15,
-      "pnl_krw": "242,906 KRW",
-      "pnl_pct": 17.37
-    },
-    {
-      "icon": "⚛️",
-      "symbol": "HYPER",
-      "market": "KRW-HYPER",
-      "amount": 8976.769244317615,
-      "avg_buy_price_krw": "250 KRW",
-      "last_price_krw": "250 KRW",
-      "thesis": "이번 회차 +71%와 1500억원대 거래대금이 동행한 신규 베타 확장 리더",
-      "strategy": "fresh breakout leader hold",
-      "role": "fresh breakout leader",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 22,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "amount": 50516.17665966856,
-      "avg_buy_price_krw": "35 KRW",
-      "last_price_krw": "35 KRW",
-      "thesis": "ORCA 이탈 자리를 대신하는 다음 녹색 대금 순환 후보",
-      "strategy": "replacement rotation leader buy",
-      "role": "replacement rotation leader",
-      "risk_limit_pct": 6,
+      "last_price_krw": "251 KRW",
+      "thesis": "상승분을 거의 반납하지 않고 버티는 잔존 상대강도 슬롯",
+      "strategy": "relative-strength anchor hold",
+      "role": "relative-strength anchor",
+      "risk_limit_pct": 5,
       "profit_take_pct": 14,
+      "pnl_krw": "249,471 KRW",
+      "pnl_pct": 17.84
+    },
+    {
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "amount": 1225.3291552019723,
+      "avg_buy_price_krw": "1,322 KRW",
+      "last_price_krw": "1,322 KRW",
+      "thesis": "붉은 장에서도 낙폭을 얕게 묶는 회전 예비 주도주",
+      "strategy": "resilient rotation slot buy",
+      "role": "resilient rotation slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "AXL": [
-      {
-        "timestamp": "2026-04-23T14:00:00+09:00",
-        "price_krw": 86.5,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-25T00:51:00+09:00",
-        "price_krw": 89,
-        "action": "SELL"
-      }
-    ],
-    "BLUR": [
-      {
-        "timestamp": "2026-04-23T14:00:00+09:00",
-        "price_krw": 51.2,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-23T20:00:00+09:00",
-        "price_krw": 46.9,
-        "action": "SELL"
-      }
-    ],
-    "SPK": [
-      {
-        "timestamp": "2026-04-23T20:00:00+09:00",
-        "price_krw": 91.7,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-24T02:00:00+09:00",
-        "price_krw": 76.2,
-        "action": "SELL"
-      }
-    ],
-    "CHIP": [
-      {
-        "timestamp": "2026-04-24T02:00:00+09:00",
-        "price_krw": 138,
-        "action": "SELL"
-      }
-    ],
-    "KAT": [
-      {
-        "timestamp": "2026-04-24T02:00:00+09:00",
-        "price_krw": 20.8,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-26T00:51:00+09:00",
-        "price_krw": 24.9,
-        "action": "SELL"
-      }
-    ],
-    "FLOCK": [
-      {
-        "timestamp": "2026-04-24T02:00:00+09:00",
-        "price_krw": 101,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-25T00:51:00+09:00",
-        "price_krw": 103,
-        "action": "SELL"
-      }
-    ],
     "SOON": [
       {
         "timestamp": "2026-04-25T00:51:00+09:00",
@@ -325,6 +261,25 @@
         "timestamp": "2026-04-25T12:51:00+09:00",
         "price_krw": 354,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 277,
+        "action": "SELL"
+      }
+    ],
+    "AXL": [
+      {
+        "timestamp": "2026-04-25T00:51:00+09:00",
+        "price_krw": 89,
+        "action": "SELL"
+      }
+    ],
+    "FLOCK": [
+      {
+        "timestamp": "2026-04-25T00:51:00+09:00",
+        "price_krw": 103,
+        "action": "SELL"
       }
     ],
     "SKR": [
@@ -399,6 +354,11 @@
         "timestamp": "2026-04-25T18:51:00+09:00",
         "price_krw": 2408,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 2106,
+        "action": "SELL"
       }
     ],
     "ZBT": [
@@ -408,11 +368,23 @@
         "action": "BUY"
       }
     ],
+    "KAT": [
+      {
+        "timestamp": "2026-04-26T00:51:00+09:00",
+        "price_krw": 24.9,
+        "action": "SELL"
+      }
+    ],
     "HYPER": [
       {
         "timestamp": "2026-04-26T00:51:00+09:00",
         "price_krw": 250,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 196,
+        "action": "SELL"
       }
     ],
     "ORCA": [
@@ -425,6 +397,11 @@
         "timestamp": "2026-04-26T06:51:00+09:00",
         "price_krw": 1697,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 2341,
+        "action": "BUY"
       }
     ],
     "SAHARA": [
@@ -432,85 +409,111 @@
         "timestamp": "2026-04-26T06:51:00+09:00",
         "price_krw": 35.2,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 33.2,
+        "action": "SELL"
+      }
+    ],
+    "RAY": [
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 1243,
+        "action": "BUY"
+      }
+    ],
+    "SOMI": [
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 315,
+        "action": "BUY"
+      }
+    ],
+    "ENSO": [
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 1322,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-04-26-0651.md",
+  "latest_report_file": "2026-04-26-1251.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🎮",
-      "symbol": "AXS",
-      "market": "KRW-AXS",
-      "price_krw": 2328,
-      "change_pct_24h": 38.0,
-      "turnover_krw_24h": 288098563254.3655,
-      "reason": "+38.0%와 약 2881억원 대금이 동행해 이번 회차 최상위 주도주 지위를 유지한다.",
-      "score": 9.6,
-      "community": "업비트 리테일 추격이 가장 두껍게 붙는 핵심 GameFi 리더",
-      "risk": "2230원 하회 시 급등 피로 반영",
-      "allocation_krw": 2123043.189368771,
-      "role": "primary momentum core",
-      "invalidated_if": "2230원 하회 시"
+      "icon": "🐋",
+      "symbol": "ORCA",
+      "market": "KRW-ORCA",
+      "price_krw": 2341,
+      "change_pct_24h": 41.02,
+      "turnover_krw_24h": 193489178597.54333,
+      "reason": "+41.02%와 약 1935억원 대금이 동행해 오전 손절 후에도 다시 따라붙을 가치가 생겼다.",
+      "score": 9.7,
+      "community": "오전 whipsaw 뒤 재안착에 리테일 자금이 다시 몰리는 최강 재점화 축",
+      "risk": "2180원 하회 시 재돌파 실패 경계",
+      "allocation_krw": 1619885.143177207,
+      "role": "reclaimed breakout leader",
+      "invalidated_if": "2180원 하회 시"
     },
     {
-      "icon": "⚛️",
-      "symbol": "HYPER",
-      "market": "KRW-HYPER",
-      "price_krw": 250,
-      "change_pct_24h": 71.23,
-      "turnover_krw_24h": 151092690203.77753,
-      "reason": "+71.23%와 약 1511억원 대금이 유지돼 이번 회차 최고 베타 확장 후보 지위를 지킨다.",
-      "score": 9.5,
-      "community": "가장 공격적인 신규 돌파 슬롯으로 시선이 계속 몰리는 종목",
-      "risk": "232원 하회 시 과열 되돌림 경계",
-      "allocation_krw": 2244192.311079404,
-      "role": "fresh breakout leader",
-      "invalidated_if": "232원 하회 시"
+      "icon": "🎯",
+      "symbol": "RAY",
+      "market": "KRW-RAY",
+      "price_krw": 1243,
+      "change_pct_24h": 21.39,
+      "turnover_krw_24h": 75314739438.41385,
+      "reason": "+21.39%와 약 753억원 대금으로 기존 적색 리더보다 질 좋은 녹색 추세를 보여준다.",
+      "score": 9.1,
+      "community": "ORCA 다음으로 주목받는 솔라나 DEX 순환매 수혜주",
+      "risk": "1160원 하회 시 돌파 약화",
+      "allocation_krw": 1619885.143177207,
+      "role": "secondary momentum leader",
+      "invalidated_if": "1160원 하회 시"
     },
     {
-      "icon": "🔜",
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "price_krw": 293,
-      "change_pct_24h": 10.98,
-      "turnover_krw_24h": 127084789965.38078,
-      "reason": "+10.98%와 약 1271억원 대금이 유지돼 약해진 후속주보다 질이 낫다.",
-      "score": 8.8,
-      "community": "상장 후속주 중 아직 양전과 두꺼운 대금을 같이 유지하는 재가속 축",
-      "risk": "286원 하회 시 재가속 실패 가능성 확대",
-      "allocation_krw": 1197776.2739555405,
-      "role": "re-acceleration beta",
+      "icon": "🎵",
+      "symbol": "SOMI",
+      "market": "KRW-SOMI",
+      "price_krw": 315,
+      "change_pct_24h": 17.1,
+      "turnover_krw_24h": 63864163848.051506,
+      "reason": "+17.10%와 약 639억원 대금이 새 리더십 형성을 보여줘 신규 편입 가치가 높다.",
+      "score": 8.9,
+      "community": "낮 시간대 새로 붙은 중형 리테일 순환매의 중심",
+      "risk": "286원 하회 시 과열 되돌림 경계",
+      "allocation_krw": 1619885.143177207,
+      "role": "fresh attention beta",
       "invalidated_if": "286원 하회 시"
     },
     {
       "icon": "🧨",
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "price_krw": 250,
-      "change_pct_24h": 19.05,
-      "turnover_krw_24h": 56549427577.79819,
-      "reason": "+19.05%와 약 565억원 대금이 동시에 살아나 분산 슬롯 중 질이 크게 개선됐다.",
-      "score": 8.6,
-      "community": "폭발력과 유지력이 함께 살아난 보조 공격축",
-      "risk": "228원 하회 시 저강도 추세 가설 무효",
-      "allocation_krw": 1641256.0391691995,
-      "role": "green turnover support",
-      "invalidated_if": "228원 하회 시"
+      "price_krw": 251,
+      "change_pct_24h": 0.0,
+      "turnover_krw_24h": 38590280168.86797,
+      "reason": "24시간 보합과 약 386억원 대금으로 현재 보유군 중 구조가 가장 덜 훼손됐다.",
+      "score": 8.1,
+      "community": "기존 강세분을 거의 반납하지 않고 버티는 잔존 상대강도 슬롯",
+      "risk": "240원 하회 시 상대강도 붕괴",
+      "allocation_krw": 1647821.0633258761,
+      "role": "relative-strength anchor",
+      "invalidated_if": "240원 하회 시"
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "price_krw": 35.2,
-      "change_pct_24h": 8.31,
-      "turnover_krw_24h": 72555294983.23135,
-      "reason": "ORCA가 무효화 이탈한 자리에서 +8.31%와 약 726억원 대금이 유지돼 교체 1순위가 된다.",
-      "score": 8.4,
-      "community": "상위 대금군에서 조용히 녹색을 지키는 다음 순환 후보",
-      "risk": "33원 하회 시 재상승 가설 약화",
-      "allocation_krw": 1778169.4184203332,
-      "role": "replacement rotation leader",
-      "invalidated_if": "33원 하회 시"
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "price_krw": 1322,
+      "change_pct_24h": -1.27,
+      "turnover_krw_24h": 54063433350.63148,
+      "reason": "-1.27%지만 약 541억원 대금과 얕은 낙폭으로 적색 급락주보다 채택 우선순위가 높다.",
+      "score": 7.9,
+      "community": "붉은 장에서도 낙폭을 얕게 묶는 회전 예비 주도주",
+      "risk": "1265원 하회 시 방어력 상실",
+      "allocation_krw": 1619885.143177207,
+      "role": "resilient rotation slot",
+      "invalidated_if": "1265원 하회 시"
     }
   ],
   "reference_watchlist": [
@@ -518,109 +521,132 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.3M원 유지 여부가 알트 공격성 지속의 핵심 조건"
+      "reason": "115.2M원 유지 여부가 공격 포지션 지속의 핵심 조건"
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.45M원대, 메이저 리스크온 체온 확인용"
+      "reason": "3.44M원대, 메이저 리스크온 체온 확인용"
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,124원대, 국내 리테일 온도계"
+      "reason": "2,114원대, 국내 리테일 온도계"
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "128.1K원대, 메이저 베타 유지 확인용"
+      "reason": "127.9K원대, 알트 베타 유지 확인용"
+    },
+    {
+      "icon": "🎮",
+      "symbol": "AXS",
+      "market": "KRW-AXS",
+      "reason": "대금은 최대지만 2230원 아래 체류라 재탈환 전 복귀 금지"
+    },
+    {
+      "icon": "⚛️",
+      "symbol": "HYPER",
+      "market": "KRW-HYPER",
+      "reason": "232원 하회 상태라 과열 리더 붕괴 여부 확인 필요"
+    },
+    {
+      "icon": "🏜️",
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "33원대 테스트 중이라 방어 실패 시 감시만 유지"
     },
     {
       "icon": "🐱",
       "symbol": "KAT",
       "market": "KRW-KAT",
-      "reason": "대금은 2500억원대지만 -35% 붕괴라 27원 재탈환 전 후보 제외"
-    },
-    {
-      "icon": "📡",
-      "symbol": "API3",
-      "market": "KRW-API3",
-      "reason": "대금은 1700억원대지만 580원 무효화 아래라 회복 전 보류"
-    },
-    {
-      "icon": "🐋",
-      "symbol": "ORCA",
-      "market": "KRW-ORCA",
-      "reason": "1880원 무효화 재안착 전까지 감시만 유지"
-    },
-    {
-      "icon": "⚡",
-      "symbol": "SPK",
-      "market": "KRW-SPK",
-      "reason": "900억원대 대금에도 저가 갱신 음봉이라 반등 확인 전 편입 금지"
+      "reason": "대금 1900억원대지만 구조 훼손이 심해 반등 확인 전 제외"
     }
   ],
   "cycle_improvements": [
-    "ORCA가 1880원 무효화 아래로 내려오자 바로 SAHARA로 교체해 stop-trigger 회전을 실제로 실행했다.",
-    "dashboard가 preferred 후보별 무효화 거리와 health 상태를 바로 보여주도록 candidate_health 필드를 추가했다.",
-    "선정 로직에서 단순 상승률보다 '무효화 유지 여부 + 대금' 우선순위를 더 분명히 반영했다.",
-    "보고서 추천 행동 문구를 더 짧게 줄여 스캔 속도를 높였다."
+    "Upbit ticker/all KRW 스냅샷을 직접 반영해 AXS·HYPER 같은 오전 리더 대신 RAY·SOMI 신규 리더를 즉시 포착했다.",
+    "dashboard 아이콘 세트에 RAY·SOMI·TRUMP를 추가해 신규 주도주 가독성을 높였다.",
+    "보고서 후보 설명을 더 짧게 압축해 왜 교체했는지 한 줄로 바로 읽히게 다듬었다."
   ],
-  "top_line": "업비트 06시51분 회차는 ORCA의 무효화 이탈을 인정하고 AXS·HYPER·SOON·ZBT·SAHARA 5종으로 다시 공격 분산하는 쪽이 낫습니다.",
-  "ui_version": "v4.0",
+  "top_line": "업비트 12시51분 회차는 오전 리더 붕괴를 인정하고 ORCA·RAY·SOMI·ZBT·ENSO 5종으로 공격 재편하는 쪽이 낫습니다.",
+  "ui_version": "v4.1",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 115.3M원 이탈, AXS 2230원 하향, HYPER 232원 하향, SOON 286원 하향, ZBT 228원 하향, SAHARA 33원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 115.2M원 이탈, ORCA 2180원 하향, RAY 1160원 하향, SOMI 286원 하향, ZBT 240원 하향, ENSO 1265원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
       "5개 후보 정확히 유지",
-      "무효화 구간을 깬 종목은 거래대금이 커도 즉시 교체 검토",
-      "양전 중인 대금 리더 최소 4개 유지",
+      "무효화 하향 종목은 거래대금이 커도 보유 고집 금지",
+      "실시간 녹색 유지 종목 최소 3개 확보",
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지",
-      "당일 고점 대비 구조 훼손이 큰 종목은 플러스 수익률이어도 예외를 두지 않음"
+      "같은 날 재진입 종목은 더 짧은 손절 규율 적용"
     ],
     "exit_rules": [
-      "BTC 115.3M원 이탈, AXS 2230원 하향, HYPER 232원 하향, SOON 286원 하향, ZBT 228원 하향, SAHARA 33원 하향 시 즉시 재평가",
+      "BTC 115.2M원 이탈, ORCA 2180원 하향, RAY 1160원 하향, SOMI 286원 하향, ZBT 240원 하향, ENSO 1265원 하향 시 즉시 재평가",
       "top4 majors는 후보 제외 유지",
       "5개 후보 정확히 유지",
-      "무효화 구간을 깬 종목은 거래대금이 커도 즉시 교체 검토",
-      "양전 중인 대금 리더 최소 4개 유지",
+      "무효화 하향 종목은 거래대금이 커도 보유 고집 금지",
+      "실시간 녹색 유지 종목 최소 3개 확보",
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지",
-      "당일 고점 대비 구조 훼손이 큰 종목은 플러스 수익률이어도 예외를 두지 않음"
+      "같은 날 재진입 종목은 더 짧은 손절 규율 적용"
     ]
   },
   "scorecard": {
-    "turnover_focus": "very high with explicit invalidation filter",
-    "momentum_discipline": "strict stop-trigger rotation into still-green leaders",
-    "diversification": "5-way aggressive with two primary breakouts, one re-acceleration, one support leader, one replacement rotation slot",
+    "turnover_focus": "high with all-KRW ticker ranking refresh",
+    "momentum_discipline": "fast cut on broken leaders plus fast re-entry on reclaimed strength",
+    "diversification": "5-way aggressive with three fresh leaders, one survivor, one resilient slot",
     "cash_usage": "100%",
-    "rotation_speed": "high"
+    "rotation_speed": "very high"
   },
   "rotation_map": [
     {
-      "bucket": "ORCA → SAHARA",
+      "bucket": "SAHARA → ORCA",
       "symbols": [
-        "ORCA",
-        "SAHARA"
+        "SAHARA",
+        "ORCA"
       ],
-      "note": "1880원 무효화 이탈이 확인된 돌파주 대신 아직 녹색과 700억원대 대금을 지키는 후보로 교체"
+      "note": "33원대 재약세 슬롯을 +41% 재점화 리더로 교체"
+    },
+    {
+      "bucket": "AXS → RAY",
+      "symbols": [
+        "AXS",
+        "RAY"
+      ],
+      "note": "최대 대금이지만 붕괴한 오전 리더 대신 새 녹색 솔라나 리더 채택"
+    },
+    {
+      "bucket": "HYPER → SOMI",
+      "symbols": [
+        "HYPER",
+        "SOMI"
+      ],
+      "note": "고점 대비 꺾인 과열 리더를 새 중형 강세로 대체"
+    },
+    {
+      "bucket": "SOON → ENSO",
+      "symbols": [
+        "SOON",
+        "ENSO"
+      ],
+      "note": "상장 후속 피로 슬롯을 낙폭 관리가 더 나은 후보로 교체"
     }
   ],
   "self_evaluation": {
-    "score": 9.0,
-    "summary": "이번 회차는 ORCA가 아직 플러스 수익률 구간이어도 무효화 이탈을 이유로 기계적으로 교체한 점이 좋았다. 직전 회차의 가장 큰 실수였던 '대금이 크니 조금 더 본다'를 반복하지 않았다. 다만 SOON과 AXS 같은 기존 보유 종목의 손익 악화를 더 빨리 추적해야 하므로 다음부터는 후보 건강도를 시각적으로 더 강하게 반영할 필요가 있다."
+    "score": 8.9,
+    "summary": "이번 회차는 오전에 손절한 ORCA를 다시 재편입한 점이 핵심이다. 손절 자체는 맞았고, 재안착이 나오자 고집 없이 다시 따라붙은 것도 좋았다. 다만 같은 날 whipsaw가 두 번 나온 만큼 무효화 폭을 장중 변동성에 맞게 조금 더 탄력적으로 잡을 필요가 있다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 29.51,
-    "preferred_positive_count": 5,
-    "preferred_negative_count": 0,
-    "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 695380765984.5533,
-    "leader_turnover_share_pct": 41.43,
-    "leader_symbol": "AXS"
+    "preferred_avg_change_pct_24h": 15.65,
+    "preferred_positive_count": 3,
+    "preferred_negative_count": 1,
+    "preferred_positive_ratio_pct": 60.0,
+    "preferred_turnover_total_krw_24h": 425321795403.5081,
+    "leader_turnover_share_pct": 45.49,
+    "leader_symbol": "ORCA"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -631,116 +657,119 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🎮",
-      "symbol": "AXS",
-      "last_price_krw": 2328,
-      "threshold_krw": 2230.0,
-      "distance_to_invalidation_pct": 4.39,
-      "status": "near"
-    },
-    {
-      "icon": "⚛️",
-      "symbol": "HYPER",
-      "last_price_krw": 250,
-      "threshold_krw": 232.0,
-      "distance_to_invalidation_pct": 7.76,
+      "icon": "🐋",
+      "symbol": "ORCA",
+      "last_price_krw": 2341,
+      "threshold_krw": 2180.0,
+      "distance_to_invalidation_pct": 7.39,
       "status": "healthy"
     },
     {
-      "icon": "🔜",
-      "symbol": "SOON",
-      "last_price_krw": 293,
+      "icon": "🎯",
+      "symbol": "RAY",
+      "last_price_krw": 1243,
+      "threshold_krw": 1160.0,
+      "distance_to_invalidation_pct": 7.16,
+      "status": "healthy"
+    },
+    {
+      "icon": "🎵",
+      "symbol": "SOMI",
+      "last_price_krw": 315,
       "threshold_krw": 286.0,
-      "distance_to_invalidation_pct": 2.45,
-      "status": "near"
+      "distance_to_invalidation_pct": 10.14,
+      "status": "healthy"
     },
     {
       "icon": "🧨",
       "symbol": "ZBT",
-      "last_price_krw": 250,
-      "threshold_krw": 228.0,
-      "distance_to_invalidation_pct": 9.65,
-      "status": "healthy"
+      "last_price_krw": 251,
+      "threshold_krw": 240.0,
+      "distance_to_invalidation_pct": 4.58,
+      "status": "near"
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "last_price_krw": 35.2,
-      "threshold_krw": 33.0,
-      "distance_to_invalidation_pct": 6.67,
-      "status": "healthy"
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "last_price_krw": 1322,
+      "threshold_krw": 1265.0,
+      "distance_to_invalidation_pct": 4.51,
+      "status": "near"
     }
   ],
   "portfolio_health": {
     "discipline_alert_count": 0,
-    "green_position_count": 3,
-    "red_position_count": 2
+    "green_position_count": 5,
+    "red_position_count": 0
   },
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🎮 AXS, 2,328원, +38.00%, 24h 대금 약 2,881억원, 주력 모멘텀 코어",
-      "2. ⚛️ HYPER, 250원, +71.23%, 24h 대금 약 1,511억원, 최강 신규 돌파 리더",
-      "3. 🔜 SOON, 293원, +10.98%, 24h 대금 약 1,271억원, 상장 후속 재가속 축",
-      "4. 🧨 ZBT, 250원, +19.05%, 24h 대금 약 565억원, 녹색 유지 강화 슬롯",
-      "5. 🏜️ SAHARA, 35.2원, +8.31%, 24h 대금 약 726억원, ORCA 대체 순환 리더"
+      "1. 🐋 ORCA, 2,341원, +41.02%, 24h 대금 약 1,935억원, 재점화 1순위",
+      "2. 🎯 RAY, 1,243원, +21.39%, 24h 대금 약 753억원, 솔라나 순환 리더",
+      "3. 🎵 SOMI, 315원, +17.10%, 24h 대금 약 639억원, 신규 관심 베타",
+      "4. 🧨 ZBT, 251원, 0.00%, 24h 대금 약 386억원, 생존 상대강도 슬롯",
+      "5. 🌀 ENSO, 1,322원, -1.27%, 24h 대금 약 541억원, 낙폭 관리형 분산 슬롯"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: 115.552M원, +0.08%, 알트 공격 허용",
-      "- ◆ ETH: 3.451M원, +0.06%, 메이저 중립",
-      "- 💧 XRP: 2,124원, -0.52%, 국내 리테일 체온 소폭 둔화",
-      "- ☀️ SOL: 128.1K원, -0.23%, 베타 붕괴는 아님"
+      "- ₿ BTC: 115.339M원, -0.31%, 급락은 아니지만 알트 추격 속도는 늦춰야 함",
+      "- ◆ ETH: 3.441M원, -0.41%, 메이저 중립 이하",
+      "- 💧 XRP: 2,114원, -0.42%, 국내 리테일 온도 소폭 둔화",
+      "- ☀️ SOL: 127.9K원, -0.39%, 솔라나 계열 순환은 유지"
     ],
     "🚀 공격 포트폴리오 전략": [
       "- 현금 0%, 5종 공격 분산 유지",
-      "- AXS·HYPER는 breakout, SOON은 re-acceleration, ZBT는 support, SAHARA는 replacement 슬롯",
-      "- 무효화 깨진 종목은 수익 여부와 무관하게 교체",
-      "- KAT·API3·SPK·ORCA는 대금보다 구조 훼손이 더 중요"
+      "- ORCA·RAY·SOMI는 fresh green leader, ZBT는 survivor, ENSO는 resilient slot",
+      "- 오전 리더였어도 무효화 깨지면 즉시 교체",
+      "- 이번 회차는 대금보다 녹색 유지 여부를 더 우선"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL 🐋 ORCA",
-      "- BUY 🏜️ SAHARA",
-      "- HOLD 🎮 AXS",
-      "- HOLD ⚛️ HYPER",
-      "- HOLD 🔜 SOON",
+      "- SELL 🎮 AXS",
+      "- SELL ⚛️ HYPER",
+      "- SELL 🔜 SOON",
+      "- SELL 🏜️ SAHARA",
+      "- BUY 🐋 ORCA",
+      "- BUY 🎯 RAY",
+      "- BUY 🎵 SOMI",
+      "- BUY 🌀 ENSO",
       "- HOLD 🧨 ZBT"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🎮 AXS: 911.96013289개 @ 평균 2,408원, 현재 2,328원",
-      "- ⚛️ HYPER: 8976.76924432개 @ 평균 250원, 현재 250원",
-      "- 🔜 SOON: 4087.97363125개 @ 평균 354원, 현재 293원",
-      "- 🧨 ZBT: 6565.02415668개 @ 평균 213원, 현재 250원",
-      "- 🏜️ SAHARA: 50516.17665967개 @ 평균 35.2원, 현재 35.2원",
-      "- 총 평가액: 8,984,437원",
-      "- 실현손익: -652,944원",
-      "- 누적 수익률: -10.16%"
+      "- 🐋 ORCA: 691.96289717개 @ 평균 2,341원, 현재 2,341원",
+      "- 🎯 RAY: 1303.20526322개 @ 평균 1,243원, 현재 1,243원",
+      "- 🎵 SOMI: 5142.49251802개 @ 평균 315원, 현재 315원",
+      "- 🧨 ZBT: 6565.02415668개 @ 평균 213원, 현재 251원",
+      "- 🌀 ENSO: 1225.32915520개 @ 평균 1,322원, 현재 1,322원",
+      "- 총 평가액: 8,127,362원",
+      "- 실현손익: -1,828,908원",
+      "- 누적 수익률: -18.73%"
     ],
     "🧠 자기 평가": [
-      "- ORCA가 아직 양봉이어도 1,880원 무효화 이탈을 이유로 바로 잘라낸 점은 좋았습니다.",
-      "- 직전 실수였던 \"대금이 크니 더 본다\"를 반복하지 않았습니다.",
-      "- 다만 SOON·AXS의 손익 악화 구간은 더 날카롭게 추적해야 합니다."
+      "- 오전에 손절했던 ORCA를 재안착 확인 뒤 다시 담은 점은 좋았습니다.",
+      "- 손절 후 재진입을 두려워하지 않은 건 강점이지만, 같은 날 whipsaw가 반복된 건 반성 포인트입니다.",
+      "- 다음엔 장중 변동성 큰 종목의 무효화 폭을 조금 더 탄력적으로 잡아야 합니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- ORCA stop-trigger를 실제 매매에 반영해 SAHARA로 교체했습니다.",
-      "- dashboard에 candidate_health를 추가해 후보별 무효화 거리와 상태를 바로 보이게 했습니다.",
-      "- 추천 행동 문구를 더 짧게 줄여 스캔 속도를 높였습니다."
+      "- Upbit ticker/all KRW 스냅샷을 직접 반영해 RAY·SOMI 신규 리더를 빠르게 포착했습니다.",
+      "- dashboard 아이콘 세트에 RAY·SOMI·TRUMP를 추가했습니다.",
+      "- 후보 설명을 더 짧게 압축해 스캔 속도를 높였습니다."
     ],
     "🧾 판단": [
-      "- aggressive diversified hold with one stop-trigger rotation from broken breakout to still-green turnover leader"
+      "- aggressive diversified rotation into fresh green leaders after morning leadership breakdown"
     ],
     "🎯 신뢰도": [
-      "- medium-high"
+      "- medium"
     ],
     "👉 추천 행동": [
-      "- AXS 2230원, HYPER 232원, SOON 286원, ZBT 228원, SAHARA 33원 하향 시 즉시 재평가",
-      "- ORCA는 1880원 재안착 전까지 복귀 보류",
-      "- ENSO는 차순위, API3·KAT·SPK는 감시만 유지"
+      "- ORCA 2180원, RAY 1160원, SOMI 286원, ZBT 240원, ENSO 1265원 하향 시 즉시 재평가",
+      "- AXS·HYPER·SAHARA는 반등보다 구조 회복 확인이 먼저",
+      "- TRUMP는 관심 유지, KAT·API3는 감시만"
     ],
     "⚠️ 리스크 메모": [
-      "- HYPER·AXS·ZBT는 급등 구간이라 되돌림 속도가 빠를 수 있습니다.",
-      "- SOON은 286원 이탈 시 상장 후속 피로가 커질 수 있습니다.",
-      "- SAHARA는 대금은 충분하지만 돌파 강도는 상대적으로 약합니다.",
-      "- BTC가 115.3M원 아래로 밀리면 현재 알트 순환도 빠르게 식을 수 있습니다."
+      "- ORCA는 재진입 종목이라 whipsaw 재발 가능성이 큽니다.",
+      "- RAY·SOMI는 추격 구간이라 눌림이 깊으면 손실 속도가 빠를 수 있습니다.",
+      "- ENSO는 녹색 전환이 아니라 낙폭 관리 슬롯입니다.",
+      "- BTC가 115.2M원 아래로 밀리면 현재 낮 시간대 알트 재점화도 약해질 수 있습니다."
     ]
   }
 }
