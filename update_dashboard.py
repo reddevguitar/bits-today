@@ -59,6 +59,7 @@ ICONS = {
     'SOMI': '🎵',
     'TRUMP': '🧢',
     'MIRA': '🪞',
+    'MASK': '🎭',
     'SONIC': '🦔'
 }
 

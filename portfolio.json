@@ -3,71 +3,71 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0,
-  "realized_pnl_krw": -2135517.854260505,
-  "last_valuation_krw": 8446952.784649059,
-  "last_action": "ROTATE_BROKEN_RAY_SOMI_TO_SAHARA_MIRA",
-  "last_updated": "2026-04-26T18:51:00+09:00",
-  "trade_count": 204,
+  "realized_pnl_krw": -2346382.208919806,
+  "last_valuation_krw": 8034281.846289471,
+  "last_action": "ROTATE_BROKEN_ORCA_SAHARA_TO_MASK_SONIC",
+  "last_updated": "2026-04-27T00:51:00+09:00",
+  "trade_count": 208,
   "positions": {
-    "ORCA": {
-      "market": "KRW-ORCA",
-      "amount": 691.9628971718108,
-      "avg_buy_price_krw": 2341,
-      "last_price_krw": 2623,
-      "value_krw": 1815018.6792816597,
-      "thesis": "압도적 대금과 급등률이 동시에 유지되는 최우선 코어",
-      "strategy": "dominant momentum core hold",
-      "role": "dominant momentum core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 20
-    },
     "ENSO": {
       "market": "KRW-ENSO",
       "amount": 1225.3291552019723,
       "avg_buy_price_krw": 1322,
-      "last_price_krw": 1572,
-      "value_krw": 1926217.4319775004,
-      "thesis": "방어형 슬롯에서 실제 주도주로 승격",
-      "strategy": "promotion leader hold",
-      "role": "promotion leader",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 16
-    },
-    "SAHARA": {
-      "market": "KRW-SAHARA",
-      "amount": 37034.85039251467,
-      "avg_buy_price_krw": 39.6,
-      "last_price_krw": 39.6,
-      "value_krw": 1466580.075543581,
-      "thesis": "33원대 흔들림 뒤 39원대 회복으로 재가속 확인",
-      "strategy": "reclaimed rebound beta buy",
-      "role": "reclaimed rebound beta",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 15
+      "last_price_krw": 1452,
+      "value_krw": 1779177.933353264,
+      "thesis": "2차 방어에 성공하면 재확장 가능한 고유동성 코어",
+      "strategy": "defended liquidity core hold",
+      "role": "defended liquidity core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 13
     },
     "ZBT": {
       "market": "KRW-ZBT",
       "amount": 6565.024156676798,
       "avg_buy_price_krw": 213,
-      "last_price_krw": 270,
-      "value_krw": 1772556.5223027354,
-      "thesis": "과열 리더 붕괴 속에서도 살아남은 잔존 상대강도",
-      "strategy": "relative-strength survivor hold",
-      "role": "relative-strength survivor",
+      "last_price_krw": 298,
+      "value_krw": 1956377.198689686,
+      "thesis": "가장 건강하게 살아남은 상대강도 리더",
+      "strategy": "relative-strength leader hold",
+      "role": "relative-strength leader",
       "risk_limit_pct": 6,
-      "profit_take_pct": 14
+      "profit_take_pct": 16
     },
     "MIRA": {
       "market": "KRW-MIRA",
       "amount": 10863.556115137637,
       "avg_buy_price_krw": 135,
-      "last_price_krw": 135,
-      "value_krw": 1466580.075543581,
-      "thesis": "중형 순환매 중 상승 탄력과 구조가 가장 깔끔한 신규 슬롯",
-      "strategy": "fresh mid-cap breakout buy",
-      "role": "fresh mid-cap breakout",
+      "last_price_krw": 131,
+      "value_krw": 1423125.8510830305,
+      "thesis": "신규 상장 직후 유동성이 남아 있는 초기 지속성 슬롯",
+      "strategy": "new listing persistence hold",
+      "role": "new listing persistence slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
+    },
+    "MASK": {
+      "market": "KRW-MASK",
+      "amount": 1650.7467641581454,
+      "avg_buy_price_krw": 871,
+      "last_price_krw": 871,
+      "value_krw": 1437800.4315817447,
+      "thesis": "+10%대 상승과 696억원대 대금이 동행하는 새벽 순환매 리더",
+      "strategy": "fresh liquidity rotation buy",
+      "role": "fresh liquidity rotation",
       "risk_limit_pct": 6,
       "profit_take_pct": 12
+    },
+    "SONIC": {
+      "market": "KRW-SONIC",
+      "amount": 25136.37118149903,
+      "avg_buy_price_krw": 57.2,
+      "last_price_krw": 57.2,
+      "value_krw": 1437800.4315817447,
+      "thesis": "대금이 남아 있고 SAHARA보다 구조가 덜 깨진 보조 모멘텀 축",
+      "strategy": "steady secondary momentum buy",
+      "role": "steady secondary momentum",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
@@ -79,52 +79,52 @@
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.46M원대 유지 시 메이저 리스크온 온도 확인"
+      "reason": "3.48M원대 유지 시 메이저 리스크온 확인"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,124원대, 국내 리테일 체온계"
+      "reason": "2,123원대, 국내 리테일 체온계"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "128.6K원대, 솔라나 계열 베타 유지 확인용"
+      "reason": "128.5K원대, 솔라나 베타 유지 확인용"
+    },
+    {
+      "symbol": "ORCA",
+      "market": "KRW-ORCA",
+      "reason": "2,350원 재안착 전까지는 과열 후 붕괴 반등만 감시"
+    },
+    {
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "36.5원 재탈환 전까지는 재진입 금지"
     },
     {
       "symbol": "RAY",
       "market": "KRW-RAY",
-      "reason": "1,160원 재탈환 전까지는 무효화 이탈 반등 감시만"
+      "reason": "1,160원 회복 전까지는 대금이 커도 제외"
     },
     {
       "symbol": "SOMI",
       "market": "KRW-SOMI",
-      "reason": "286원 회복 전까지는 추격 금지"
-    },
-    {
-      "symbol": "SONIC",
-      "market": "KRW-SONIC",
-      "reason": "+2.16%와 645억원대 대금, MIRA 대체 후보 1순위"
+      "reason": "286원 재탈환 전까지는 추격 금지"
     },
     {
       "symbol": "TRUMP",
       "market": "KRW-TRUMP",
-      "reason": "+3.70%와 458억원대 대금으로 인물 서사 관심 유지"
+      "reason": "+3.13%와 308억원대 대금으로 인물 서사 체온 유지"
     },
     {
-      "symbol": "AXS",
-      "market": "KRW-AXS",
-      "reason": "2300억원대 대금이어도 2230원 재탈환 전 복귀 금지"
+      "symbol": "AERO",
+      "market": "KRW-AERO",
+      "reason": "+9.79%지만 대금이 얕아 차순위 감시"
     },
     {
-      "symbol": "HYPER",
-      "market": "KRW-HYPER",
-      "reason": "190원대, 과열 붕괴 후 회복 확인 전 제외"
-    },
-    {
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "1400억원대 대금이어도 20원대 재안정 전 감시만"
+      "symbol": "AVNT",
+      "market": "KRW-AVNT",
+      "reason": "+7.21%와 186억원대 대금으로 후순위 후보"
     }
   ],
   "history": [
@@ -890,7 +890,7 @@
       "action": "SELL",
       "price_krw": 1134,
       "amount_delta": -1303.2052632157738,
-      "cash_delta_krw": 1477834.7684866873,
+      "cash_delta_krw": 1477834.7684866872,
       "reason": "1,160원 무효화 아래로 내려와 대금이 남아도 보유 명분을 철회하고 SAHARA로 교체"
     },
     {
@@ -919,6 +919,42 @@
       "amount_delta": 10863.556115137637,
       "cash_delta_krw": -1466580.075543581,
       "reason": "+5.47%와 약 512억원 대금으로 SONIC·TRUMP보다 깔끔한 중형 돌파 구조가 확인돼 신규 편입"
+    },
+    {
+      "timestamp": "2026-04-27T00:51:00+09:00",
+      "symbol": "ORCA",
+      "action": "SELL",
+      "price_krw": 2245,
+      "amount_delta": -691.9628971718108,
+      "cash_delta_krw": 1553456.7041507154,
+      "reason": "2,440원 무효화 아래로 크게 밀린 상태에서 고점 대비 되밀림이 커져 대금 1위라도 보유 명분을 철회"
+    },
+    {
+      "timestamp": "2026-04-27T00:51:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 35.7,
+      "amount_delta": -37034.85039251467,
+      "cash_delta_krw": 1322144.159012774,
+      "reason": "36.5원 아래 재이탈이 확인돼 같은 날 재가속 복귀 가정을 취소하고 더 건강한 순환주로 교체"
+    },
+    {
+      "timestamp": "2026-04-27T00:51:00+09:00",
+      "symbol": "MASK",
+      "action": "BUY",
+      "price_krw": 871,
+      "amount_delta": 1650.7467641581454,
+      "cash_delta_krw": -1437800.4315817447,
+      "reason": "+10.67%와 약 696억원 거래대금으로 새벽 자금이 새로 붙는 중형 순환매 리더라 ORCA 이탈 자금 대체 1순위로 편입"
+    },
+    {
+      "timestamp": "2026-04-27T00:51:00+09:00",
+      "symbol": "SONIC",
+      "action": "BUY",
+      "price_krw": 57.2,
+      "amount_delta": 25136.37118149903,
+      "cash_delta_krw": -1437800.4315817447,
+      "reason": "+3.06%지만 약 586억원 대금이 유지되고 SAHARA보다 구조가 덜 깨져 보조 공격축으로 신규 편입"
     }
   ]
 }
