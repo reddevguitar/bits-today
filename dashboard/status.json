@@ -1,143 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive rotation away from broken parabolic leaders into healthier secondary liquidity winners",
+  "judgment": "aggressive but selective rotation into isolated Upbit alt leaders despite weak majors",
   "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-04-27 00:51 KST",
-  "market_status": "메이저 4종은 버티고 있지만 알트 내부는 순환전이라, 대금보다 구조 보존 여부를 더 세게 봐야 합니다.",
-  "fear_greed": "33 (Fear, 외부 심리는 차갑지만 업비트 내부 순환매는 계속됨)",
-  "btc_snapshot": "BTC 115.947M원대, ETH 3.484M원대, XRP 2,123원대, SOL 128.5K원대",
+  "updated_at": "2026-05-08 01:37 KST",
+  "market_status": "메이저는 약하지만 업비트 알트는 JTO 중심으로 개별 강세가 살아 있어, 전체 회피보다 선별 공격이 유리합니다.",
+  "fear_greed": "47 (Neutral, 외부 심리는 공포 구간에서 중립으로 회복)",
+  "btc_snapshot": "BTC 117.546M원대, ETH 3.377M원대, XRP 2,044원대, SOL 130.0K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-2,346,382 KRW",
-  "last_valuation_krw": "8,034,282 KRW",
+  "realized_pnl_krw": "-2,297,602 KRW",
+  "last_valuation_krw": "7,441,874 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -19.66,
-  "last_action": "ROTATE_BROKEN_ORCA_SAHARA_TO_MASK_SONIC",
-  "trade_count": 208,
-  "last_updated": "2026-04-27T00:51:00+09:00",
+  "return_pct": -25.58,
+  "last_action": "ROTATE_ENSO_ZBT_MIRA_MASK_TO_JTO_ONDO_CFG_FLOCK",
+  "trade_count": 217,
+  "last_updated": "2026-05-08T01:37:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 21,
     "recent_sell_count": 19,
     "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 4
+    "recent_trade_actions_24h": 9
   },
   "summary": [
-    "₿ BTC: 115.947M원, +0.22%, 115.5M원 위면 공격 유지 가능",
-    "◆ ETH: 3.484M원, +0.84%, 메이저 체온은 소폭 개선",
-    "💧 XRP: 2,123원, 보합, 국내 리테일 중립",
-    "☀️ SOL: 128.5K원, +0.08%, 솔라나 베타는 아직 꺼지지 않음",
-    "현금 0%, 5종 공격 분산 유지",
-    "ENSO는 유동성 코어, ZBT는 강도 리더, MASK·SONIC은 신규/대체 순환축, MIRA는 상장 지속성 슬롯",
-    "ORCA·SAHARA처럼 고점 대비 크게 꺾인 리더는 대금이 커도 즉시 정리",
-    "재진입은 ORCA 2,350원, SAHARA 36.5원, RAY 1,160원 회복 확인 전 금지",
-    "SELL 🐋 ORCA",
-    "SELL 🏜️ SAHARA",
-    "BUY 🎭 MASK",
-    "BUY 🦔 SONIC",
-    "HOLD 🌀 ENSO",
-    "HOLD 🧨 ZBT",
-    "HOLD 🪞 MIRA",
+    "₿ BTC: 117.546M원, -1.55%, 일중 저점권이라 공격 강도는 과열 금지",
+    "◆ ETH: 3.377M원, -2.17%, 메이저 체온은 아직 차갑다",
+    "💧 XRP: 2,044원, -2.15%, 국내 리테일 온도도 둔함",
+    "☀️ SOL: 130.0K원, -0.54%, 알트 베타 기반은 완전히 죽진 않음",
+    "🧊 B3: 24h 대금 약 1419억원이지만 -12.89%, 일중 저점권이라 제외",
+    "🐋 ORCA: 24h 대금 약 701억원이지만 2,350원 재안착 전까지는 관망",
+    "현금 0%, 5종 균등 공격 분산 유지",
+    "JTO는 돌파 코어, ONDO·CFG는 추세 지속, FLOCK은 고베타 확장, SONIC은 구조 보존 슬롯",
+    "메이저가 약해도 업비트 내부 강한 5종은 유지하되, 음수 수익률+저점권 종목은 대금이 커도 제외",
+    "SELL 🌀 ENSO",
+    "SELL 🧨 ZBT",
+    "SELL 🪞 MIRA",
+    "SELL 🎭 MASK",
+    "BUY 🪂 JTO",
+    "BUY 🌐 ONDO",
+    "BUY 🏗️ CFG",
+    "BUY 🐦 FLOCK",
+    "BUY 🦔 SONIC 소폭 증액",
     "현금: 0원",
-    "🌀 ENSO: 1225.32915520개 @ 평균 1,322원, 현재 1,452원",
-    "🧨 ZBT: 6565.02415668개 @ 평균 213원, 현재 298원",
-    "🪞 MIRA: 10863.55611514개 @ 평균 135원, 현재 131원",
-    "🎭 MASK: 1650.74676416개 @ 평균 871원, 현재 871원",
-    "🦔 SONIC: 25136.37118150개 @ 평균 57.2원, 현재 57.2원",
-    "총 평가액: 8,034,282원",
-    "실현손익: -2,346,382원",
-    "누적 수익률: -19.66%",
-    "직전 회차는 ORCA 재점화와 SAHARA 재가속을 조금 오래 믿었습니다.",
-    "이번엔 대금보다 고점 이탈과 무효화 재이탈을 우선해 손실 확산을 줄이는 쪽으로 수정했습니다.",
-    "다만 ENSO를 남긴 판단은 1,410원 방어 확인이 아직 필요합니다.",
-    "대금 1위라도 고점 대비 급이탈이면 즉시 강등하는 규칙을 명문화했습니다.",
-    "dashboard 아이콘에 🎭 MASK를 추가했습니다.",
-    "추천 행동에 재진입 조건을 따로 적어 반등 추격 금지선을 더 선명하게 만들었습니다.",
-    "aggressive rotation away from broken parabolic leaders into healthier secondary liquidity winners",
+    "🪂 JTO: 1806.28014652개 @ 평균 824원, 현재 824원",
+    "🌐 ONDO: 2862.25930910개 @ 평균 520원, 현재 520원",
+    "🏗️ CFG: 3461.33683891개 @ 평균 430원, 현재 430원",
+    "🐦 FLOCK: 13530.68037028개 @ 평균 110원, 현재 110원",
+    "🦔 SONIC: 25442.30496977개 @ 평균 57.22원, 현재 58.5원",
+    "총 평가액: 7,441,874원",
+    "실현손익: -2,297,602원",
+    "누적 수익률: -25.58%",
+    "직전 회차는 ENSO·ZBT 잔존 강세를 너무 오래 믿어 리더 전환 대응이 늦었습니다.",
+    "이번엔 대금뿐 아니라 일중 위치(range position)까지 같이 보도록 고쳐 대금 착시를 줄였습니다.",
+    "SONIC만 유지하고 나머지 4종을 바로 교체한 점은 늦었지만 필요한 수정입니다.",
+    "range-position 필터를 추가해 B3처럼 대금만 큰 음수 종목을 제외했습니다.",
+    "dashboard 아이콘에 🪂 JTO, 🌐 ONDO, ⚙️ WLFI, 🧊 B3를 추가했습니다.",
+    "후보 데이터에 일중 위치와 고점 이격 정보를 싣도록 대시보드 스키마를 확장했습니다.",
+    "aggressive but selective rotation into isolated Upbit alt leaders despite weak majors",
     "medium",
-    "ENSO 1,410원, ZBT 284원, MASK 830원, SONIC 55원, MIRA 128원 하향 시 즉시 재평가",
-    "ORCA 2,350원, SAHARA 36.5원, RAY 1,160원 재탈환 전까지는 반등 추격 금지",
-    "TRUMP는 인물 서사 체온 유지용 참고만, AERO·AVNT는 차순위 대체 후보",
-    "ENSO는 대금이 크지만 방어 실패 시 낙폭 확장이 빠를 수 있습니다.",
-    "ZBT는 가장 건강하지만 284원 하향 시 상대강도 프리미엄이 사라집니다.",
-    "MASK·SONIC·MIRA는 중형/신규 상장 슬롯이라 회전 속도가 빠릅니다.",
-    "BTC가 115.5M원 아래로 밀리면 알트 공격 강도 자체를 한 단계 낮춰야 합니다."
+    "JTO 782원, ONDO 500원, CFG 412원, FLOCK 102원, SONIC 56.5원 하향 시 즉시 재평가",
+    "ORCA 2,350원 재안착 전까지는 관망, B3는 음전+저점권 해소 전까지 추격 금지",
+    "WLFI·TRUMP는 공인 서사 참고만, CHIP·XPL은 차순위 대체 후보",
+    "메이저 4종이 모두 약세라 알트 개별 강세가 갑자기 꺼질 수 있습니다.",
+    "JTO·FLOCK은 급등주라 되돌림 속도가 빠를 수 있습니다.",
+    "SONIC은 5번째 슬롯일 뿐이라 56.5원 이탈 시 가장 먼저 교체해야 합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-04-27T00:51:00+09:00",
+      "timestamp": "2026-05-08T01:37:00+09:00",
+      "symbol": "FLOCK",
+      "action": "BUY",
+      "price_krw": 110.0,
+      "amount_delta": 13530.680370284153,
+      "cash_delta_krw": -1488374.8407312569,
+      "reason": "+13.40%와 356억원대 대금으로 2차 확장 여지가 있는 고베타 순환축"
+    },
+    {
+      "timestamp": "2026-05-08T01:37:00+09:00",
+      "symbol": "CFG",
+      "action": "BUY",
+      "price_krw": 430.0,
+      "amount_delta": 3461.3368389098996,
+      "cash_delta_krw": -1488374.8407312569,
+      "reason": "52주 신고가권 테스트와 385억원대 대금이 겹친 깔끔한 추세 슬롯"
+    },
+    {
+      "timestamp": "2026-05-08T01:37:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 520.0,
+      "amount_delta": 2862.259309098571,
+      "cash_delta_krw": -1488374.8407312569,
+      "reason": "+9.47%와 560억원대 대금이 동행하는 고유동성 추세 지속축"
+    },
+    {
+      "timestamp": "2026-05-08T01:37:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 824.0,
+      "amount_delta": 1806.2801465185157,
+      "cash_delta_krw": -1488374.8407312569,
+      "reason": "+33%와 755억원대 대금, 일중 고가권 마감으로 현재 보드 최강 돌파 코어"
+    },
+    {
+      "timestamp": "2026-05-08T01:37:00+09:00",
       "symbol": "SONIC",
       "action": "BUY",
-      "price_krw": 57.2,
-      "amount_delta": 25136.37118149903,
-      "cash_delta_krw": -1437800.4315817447,
-      "reason": "+3.06%지만 약 586억원 대금이 유지되고 SAHARA보다 구조가 덜 깨져 보조 공격축으로 신규 편입"
+      "price_krw": 58.5,
+      "amount_delta": 305.93378826604487,
+      "cash_delta_krw": -17897.126613563625,
+      "reason": "기존 보유를 유지하되 5종 균등 공격 분산을 맞추기 위해 소폭 증액"
     },
     {
-      "timestamp": "2026-04-27T00:51:00+09:00",
+      "timestamp": "2026-05-08T01:37:00+09:00",
       "symbol": "MASK",
-      "action": "BUY",
-      "price_krw": 871,
-      "amount_delta": 1650.7467641581454,
-      "cash_delta_krw": -1437800.4315817447,
-      "reason": "+10.67%와 약 696억원 거래대금으로 새벽 자금이 새로 붙는 중형 순환매 리더라 ORCA 이탈 자금 대체 1순위로 편입"
-    },
-    {
-      "timestamp": "2026-04-27T00:51:00+09:00",
-      "symbol": "SAHARA",
       "action": "SELL",
-      "price_krw": 35.7,
-      "amount_delta": -37034.85039251467,
-      "cash_delta_krw": 1322144.159012774,
-      "reason": "36.5원 아래 재이탈이 확인돼 같은 날 재가속 복귀 가정을 취소하고 더 건강한 순환주로 교체"
+      "price_krw": 760.0,
+      "amount_delta": -1650.7467641581454,
+      "cash_delta_krw": 1254567.5407601905,
+      "reason": "대금과 추세가 모두 식어 더 강한 새벽 리더 JTO·CFG·FLOCK 쪽으로 자금 재배치"
     },
     {
-      "timestamp": "2026-04-27T00:51:00+09:00",
-      "symbol": "ORCA",
-      "action": "SELL",
-      "price_krw": 2245,
-      "amount_delta": -691.9628971718108,
-      "cash_delta_krw": 1553456.7041507154,
-      "reason": "2,440원 무효화 아래로 크게 밀린 상태에서 고점 대비 되밀림이 커져 대금 1위라도 보유 명분을 철회"
-    },
-    {
-      "timestamp": "2026-04-26T18:51:00+09:00",
+      "timestamp": "2026-05-08T01:37:00+09:00",
       "symbol": "MIRA",
-      "action": "BUY",
-      "price_krw": 135,
-      "amount_delta": 10863.556115137637,
-      "cash_delta_krw": -1466580.075543581,
-      "reason": "+5.47%와 약 512억원 대금으로 SONIC·TRUMP보다 깔끔한 중형 돌파 구조가 확인돼 신규 편입"
-    },
-    {
-      "timestamp": "2026-04-26T18:51:00+09:00",
-      "symbol": "SAHARA",
-      "action": "BUY",
-      "price_krw": 39.6,
-      "amount_delta": 37034.85039251467,
-      "cash_delta_krw": -1466580.075543581,
-      "reason": "+13.14%와 약 1166억원 대금으로 33원대 재약세를 뒤집고 다시 주도권 경쟁에 복귀"
-    },
-    {
-      "timestamp": "2026-04-26T18:51:00+09:00",
-      "symbol": "SOMI",
       "action": "SELL",
-      "price_krw": 283,
-      "amount_delta": -5142.492518022879,
-      "cash_delta_krw": 1455325.3826004746,
-      "reason": "286원 하향으로 추격 실패가 확인돼 더 건강한 MIRA 돌파 슬롯으로 이동"
+      "price_krw": 122.0,
+      "amount_delta": -10863.556115137637,
+      "cash_delta_krw": 1325353.8460467916,
+      "reason": "대금이 8억원대까지 식어 상장 지속성 슬롯 명분이 약해져 교체"
     },
     {
-      "timestamp": "2026-04-26T18:51:00+09:00",
-      "symbol": "RAY",
+      "timestamp": "2026-05-08T01:37:00+09:00",
+      "symbol": "ZBT",
       "action": "SELL",
-      "price_krw": 1134,
-      "amount_delta": -1303.2052632157738,
-      "cash_delta_krw": 1477834.7684866872,
-      "reason": "1,160원 무효화 아래로 내려와 대금이 남아도 보유 명분을 철회하고 SAHARA로 교체"
+      "price_krw": 265.0,
+      "amount_delta": -6565.024156676798,
+      "cash_delta_krw": 1739731.4015193514,
+      "reason": "265원으로 284원 기준 아래에 머물며 직전 상대강도 리더 지위가 붕괴"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-08-0137.md",
+      "title": "2026-05-08-0137"
+    },
     {
       "file": "2026-04-27-0051.md",
       "title": "2026-04-27-0051"
@@ -165,68 +171,64 @@
     {
       "file": "2026-04-25-1251.md",
       "title": "2026-04-25-1251"
-    },
-    {
-      "file": "2026-04-25-0651.md",
-      "title": "2026-04-25-0651"
     }
   ],
   "positions": [
     {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "amount": 1225.3291552019723,
-      "avg_buy_price_krw": "1,322 KRW",
-      "last_price_krw": "1,452 KRW",
-      "thesis": "2차 방어에 성공하면 재확장 가능한 고유동성 코어",
-      "strategy": "defended liquidity core hold",
-      "role": "defended liquidity core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 13,
-      "pnl_krw": "159,293 KRW",
-      "pnl_pct": 9.83
-    },
-    {
-      "icon": "🧨",
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "amount": 6565.024156676798,
-      "avg_buy_price_krw": "213 KRW",
-      "last_price_krw": "298 KRW",
-      "thesis": "가장 건강하게 살아남은 상대강도 리더",
-      "strategy": "relative-strength leader hold",
-      "role": "relative-strength leader",
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "amount": 1806.2801465185157,
+      "avg_buy_price_krw": "824 KRW",
+      "last_price_krw": "824 KRW",
+      "thesis": "상위 거래대금과 일중 고가권 유지가 동시에 확인된 최강 돌파 코어",
+      "strategy": "breakout leadership buy",
+      "role": "breakout core",
       "risk_limit_pct": 6,
-      "profit_take_pct": 16,
-      "pnl_krw": "558,027 KRW",
-      "pnl_pct": 39.91
+      "profit_take_pct": 14,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🪞",
-      "symbol": "MIRA",
-      "market": "KRW-MIRA",
-      "amount": 10863.556115137637,
-      "avg_buy_price_krw": "135 KRW",
-      "last_price_krw": "131 KRW",
-      "thesis": "신규 상장 직후 유동성이 남아 있는 초기 지속성 슬롯",
-      "strategy": "new listing persistence hold",
-      "role": "new listing persistence slot",
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "amount": 2862.259309098571,
+      "avg_buy_price_krw": "520 KRW",
+      "last_price_krw": "520 KRW",
+      "thesis": "메이저 약세 속에서도 자금이 붙는 고유동성 상대강도 축",
+      "strategy": "liquidity trend buy",
+      "role": "liquidity continuation",
       "risk_limit_pct": 5,
-      "profit_take_pct": 10,
-      "pnl_krw": "-43,454 KRW",
-      "pnl_pct": -2.96
+      "profit_take_pct": 12,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🎭",
-      "symbol": "MASK",
-      "market": "KRW-MASK",
-      "amount": 1650.7467641581454,
-      "avg_buy_price_krw": "871 KRW",
-      "last_price_krw": "871 KRW",
-      "thesis": "+10%대 상승과 696억원대 대금이 동행하는 새벽 순환매 리더",
-      "strategy": "fresh liquidity rotation buy",
-      "role": "fresh liquidity rotation",
+      "icon": "🏗️",
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "amount": 3461.3368389098996,
+      "avg_buy_price_krw": "430 KRW",
+      "last_price_krw": "430 KRW",
+      "thesis": "신고가권 테스트가 나온 깔끔한 중형 추세주",
+      "strategy": "clean trend continuation buy",
+      "role": "clean trend slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🐦",
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "amount": 13530.680370284153,
+      "avg_buy_price_krw": "110 KRW",
+      "last_price_krw": "110 KRW",
+      "thesis": "거래대금이 따라붙는 고베타 2차 확장 후보",
+      "strategy": "beta continuation buy",
+      "role": "beta rotation slot",
       "risk_limit_pct": 6,
       "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
@@ -236,94 +238,23 @@
       "icon": "🦔",
       "symbol": "SONIC",
       "market": "KRW-SONIC",
-      "amount": 25136.37118149903,
+      "amount": 25442.304969765075,
       "avg_buy_price_krw": "57 KRW",
-      "last_price_krw": "57 KRW",
-      "thesis": "대금이 남아 있고 SAHARA보다 구조가 덜 깨진 보조 모멘텀 축",
-      "strategy": "steady secondary momentum buy",
-      "role": "steady secondary momentum",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "last_price_krw": "58 KRW",
+      "thesis": "대금은 줄었지만 아직 양전환과 구조 보존이 남은 보조 지속성 축",
+      "strategy": "steady continuation hold",
+      "role": "steady support slot",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9,
+      "pnl_krw": "32,677 KRW",
+      "pnl_pct": 2.24
     }
   ],
   "chart_series": {
-    "RED": [
-      {
-        "timestamp": "2026-04-25T12:51:00+09:00",
-        "price_krw": 202,
-        "action": "SELL"
-      }
-    ],
-    "TREE": [
-      {
-        "timestamp": "2026-04-25T12:51:00+09:00",
-        "price_krw": 108,
-        "action": "SELL"
-      }
-    ],
     "API3": [
-      {
-        "timestamp": "2026-04-25T12:51:00+09:00",
-        "price_krw": 723,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-04-26T00:51:00+09:00",
         "price_krw": 533,
-        "action": "SELL"
-      }
-    ],
-    "SOON": [
-      {
-        "timestamp": "2026-04-25T12:51:00+09:00",
-        "price_krw": 354,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-26T12:51:00+09:00",
-        "price_krw": 277,
-        "action": "SELL"
-      }
-    ],
-    "SKR": [
-      {
-        "timestamp": "2026-04-25T18:51:00+09:00",
-        "price_krw": 25.9,
-        "action": "SELL"
-      }
-    ],
-    "ZAMA": [
-      {
-        "timestamp": "2026-04-25T18:51:00+09:00",
-        "price_krw": 44.4,
-        "action": "SELL"
-      }
-    ],
-    "AXS": [
-      {
-        "timestamp": "2026-04-25T18:51:00+09:00",
-        "price_krw": 2408,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-26T12:51:00+09:00",
-        "price_krw": 2106,
-        "action": "SELL"
-      }
-    ],
-    "ZBT": [
-      {
-        "timestamp": "2026-04-25T18:51:00+09:00",
-        "price_krw": 213,
-        "action": "BUY"
-      }
-    ],
-    "KAT": [
-      {
-        "timestamp": "2026-04-26T00:51:00+09:00",
-        "price_krw": 24.9,
         "action": "SELL"
       }
     ],
@@ -383,6 +314,20 @@
         "action": "SELL"
       }
     ],
+    "AXS": [
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 2106,
+        "action": "SELL"
+      }
+    ],
+    "SOON": [
+      {
+        "timestamp": "2026-04-26T12:51:00+09:00",
+        "price_krw": 277,
+        "action": "SELL"
+      }
+    ],
     "RAY": [
       {
         "timestamp": "2026-04-26T12:51:00+09:00",
@@ -412,6 +357,11 @@
         "timestamp": "2026-04-26T12:51:00+09:00",
         "price_krw": 1322,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 1348.0,
+        "action": "SELL"
       }
     ],
     "MIRA": [
@@ -419,6 +369,11 @@
         "timestamp": "2026-04-26T18:51:00+09:00",
         "price_krw": 135,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 122.0,
+        "action": "SELL"
       }
     ],
     "MASK": [
@@ -426,6 +381,11 @@
         "timestamp": "2026-04-27T00:51:00+09:00",
         "price_krw": 871,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 760.0,
+        "action": "SELL"
       }
     ],
     "SONIC": [
@@ -433,85 +393,135 @@
         "timestamp": "2026-04-27T00:51:00+09:00",
         "price_krw": 57.2,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 58.5,
+        "action": "BUY"
+      }
+    ],
+    "ZBT": [
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 265.0,
+        "action": "SELL"
+      }
+    ],
+    "JTO": [
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 824.0,
+        "action": "BUY"
+      }
+    ],
+    "ONDO": [
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 520.0,
+        "action": "BUY"
+      }
+    ],
+    "CFG": [
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 430.0,
+        "action": "BUY"
+      }
+    ],
+    "FLOCK": [
+      {
+        "timestamp": "2026-05-08T01:37:00+09:00",
+        "price_krw": 110.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-04-27-0051.md",
+  "latest_report_file": "2026-05-08-0137.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "price_krw": 1452,
-      "change_pct_24h": 8.43913368,
-      "turnover_krw_24h": 214919898762.79733,
-      "reason": "+8.44%와 약 2,149억원 대금으로 아직 상단 재도전 자격이 있는 고유동성 코어다.",
-      "score": 9.2,
-      "community": "대금 2위급 유동성으로 아직 복구 시나리오가 남은 핵심 축",
-      "risk": "1,410원 하회 시 방어 실패 경계",
-      "allocation_krw": 1779177.933353264,
-      "role": "defended liquidity core",
-      "invalidated_if": "1,410원 하회 시"
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "price_krw": 824.0,
+      "change_pct_24h": 33.11793215,
+      "turnover_krw_24h": 75542202339.25002,
+      "reason": "+33.12%와 755억원대 대금, 일중 고가권 유지가 동시에 확인된 최강 리더다.",
+      "score": 9.6,
+      "community": "현재 업비트 추격 수요가 가장 강하게 몰리는 돌파 코어",
+      "risk": "782원 하회 시 돌파 실패 경계",
+      "allocation_krw": 1488374.8407312569,
+      "role": "breakout core",
+      "invalidated_if": "782원 하회 시",
+      "range_position_pct": 99.1,
+      "day_high_gap_pct": -0.24
     },
     {
-      "icon": "🧨",
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "price_krw": 298,
-      "change_pct_24h": 18.7250996,
-      "turnover_krw_24h": 101296141832.7705,
-      "reason": "+18.73%와 약 1,013억원 대금이 동행해 현재 보드에서 가장 건강한 잔존 강세주다.",
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "price_krw": 520.0,
+      "change_pct_24h": 9.47368421,
+      "turnover_krw_24h": 56086566506.065315,
+      "reason": "+9.47%와 560억원대 대금이 같이 살아 있는 대형 순환매 리더다.",
       "score": 9.0,
-      "community": "과열 붕괴 구간에서도 가장 깔끔하게 살아남은 상대강도 리더",
-      "risk": "284원 하회 시 탄력 둔화",
-      "allocation_krw": 1956377.198689686,
-      "role": "relative-strength leader",
-      "invalidated_if": "284원 하회 시"
+      "community": "메이저 약세에도 자금이 붙는 고유동성 지속 강세축",
+      "risk": "500원 하회 시 추세 둔화",
+      "allocation_krw": 1488374.8407312569,
+      "role": "liquidity continuation",
+      "invalidated_if": "500원 하회 시",
+      "range_position_pct": 61.5,
+      "day_high_gap_pct": -6.31
     },
     {
-      "icon": "🎭",
-      "symbol": "MASK",
-      "market": "KRW-MASK",
-      "price_krw": 871,
-      "change_pct_24h": 10.67344346,
-      "turnover_krw_24h": 69588578573.50906,
-      "reason": "+10.67%와 약 696억원 대금으로 ORCA 이탈 자금이 향한 새 유동성 축이다.",
-      "score": 8.7,
-      "community": "새벽 자금이 새로 붙는 중형 순환매 리더",
-      "risk": "830원 하회 시 신규 탄력 약화",
-      "allocation_krw": 1437800.4315817447,
-      "role": "fresh liquidity rotation",
-      "invalidated_if": "830원 하회 시"
+      "icon": "🏗️",
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "price_krw": 430.0,
+      "change_pct_24h": 7.2319202,
+      "turnover_krw_24h": 38550792381.67553,
+      "reason": "52주 고점 459원 근처까지 붙은 상태에서 385억원대 대금이 유지된다.",
+      "score": 8.8,
+      "community": "신고가권 테스트가 확인돼 체감이 좋은 추세형 중형주",
+      "risk": "412원 하회 시 신고가 시도 실패 경계",
+      "allocation_krw": 1488374.8407312569,
+      "role": "clean trend slot",
+      "invalidated_if": "412원 하회 시",
+      "range_position_pct": 65.1,
+      "day_high_gap_pct": -6.32
+    },
+    {
+      "icon": "🐦",
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "price_krw": 110.0,
+      "change_pct_24h": 13.40206186,
+      "turnover_krw_24h": 35687997791.803444,
+      "reason": "+13.40%와 356억원대 대금으로 추세 2차 확장 가능성이 높다.",
+      "score": 8.6,
+      "community": "2차 확장 기대가 붙는 고베타 순환축",
+      "risk": "102원 하회 시 탄력 둔화",
+      "allocation_krw": 1488374.8407312569,
+      "role": "beta rotation slot",
+      "invalidated_if": "102원 하회 시",
+      "range_position_pct": 52.4,
+      "day_high_gap_pct": -12.0
     },
     {
       "icon": "🦔",
       "symbol": "SONIC",
       "market": "KRW-SONIC",
-      "price_krw": 57.2,
-      "change_pct_24h": 3.06306306,
-      "turnover_krw_24h": 58591873230.54662,
-      "reason": "+3.06%와 약 586억원 대금으로 급락주보다 덜 망가진 구조를 보여준다.",
-      "score": 8.3,
-      "community": "SAHARA 대체용으로 선택된 잔존 유동성 보조축",
-      "risk": "55원 하회 시 보조 모멘텀 붕괴",
-      "allocation_krw": 1437800.4315817447,
-      "role": "steady secondary momentum",
-      "invalidated_if": "55원 하회 시"
-    },
-    {
-      "icon": "🪞",
-      "symbol": "MIRA",
-      "market": "KRW-MIRA",
-      "price_krw": 131,
-      "change_pct_24h": 2.34375,
-      "turnover_krw_24h": 46845583823.303116,
-      "reason": "신규 상장 첫날 468억원대 대금과 131원 가격대 유지로 초기 유동성 잔존이 확인된다.",
-      "score": 8.0,
-      "community": "신규 상장 직후에도 유동성이 남아 있는 초기 지속성 슬롯",
-      "risk": "128원 하회 시 신규 상장 프리미엄 약화",
-      "allocation_krw": 1423125.8510830305,
-      "role": "new listing persistence slot",
-      "invalidated_if": "128원 하회 시"
+      "price_krw": 58.5,
+      "change_pct_24h": 2.81195079,
+      "turnover_krw_24h": 17137538724.948734,
+      "reason": "대금은 줄었지만 아직 양전환과 56.5원 저점 방어가 유지된다.",
+      "score": 8.1,
+      "community": "완전히 터지진 않았지만 구조 보존으로 살아남은 잔존 슬롯",
+      "risk": "56.5원 하회 시 잔존 구조 붕괴",
+      "allocation_krw": 1488374.8407312569,
+      "role": "steady support slot",
+      "invalidated_if": "56.5원 하회 시",
+      "range_position_pct": 41.7,
+      "day_high_gap_pct": -4.57
     }
   ],
   "reference_watchlist": [
@@ -519,116 +529,132 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.5M원 유지 여부가 공격 포지션 지속의 핵심 조건"
+      "reason": "117.5M원 붕괴 여부가 알트 공격 지속의 1차 필터"
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.48M원대 유지 시 메이저 리스크온 확인"
+      "reason": "3.37M원대 약세라 메이저 체온은 아직 차갑다"
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,123원대, 국내 리테일 체온계"
+      "reason": "2,044원대, 국내 리테일 온도 저하 확인용"
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "128.5K원대, 솔라나 베타 유지 확인용"
+      "reason": "130K원선 유지 실패 시 알트 베타 축소 경계"
     },
     {
       "icon": "🐋",
       "symbol": "ORCA",
       "market": "KRW-ORCA",
-      "reason": "2,350원 재안착 전까지는 과열 후 붕괴 반등만 감시"
+      "reason": "701억원대 대금은 강하지만 2,350원 재안착 전까지는 추격 금지"
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "36.5원 재탈환 전까지는 재진입 금지"
+      "icon": "🧊",
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "1419억원대 대금에도 -12.9%라 손절성 과열 가능성 경계"
     },
     {
-      "icon": "🎯",
-      "symbol": "RAY",
-      "market": "KRW-RAY",
-      "reason": "1,160원 회복 전까지는 대금이 커도 제외"
+      "icon": "⚙️",
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "+11.0%와 99억원대 대금으로 정치테마 체온 유지"
     },
     {
-      "icon": "🎵",
-      "symbol": "SOMI",
-      "market": "KRW-SOMI",
-      "reason": "286원 재탈환 전까지는 추격 금지"
+      "icon": "🧢",
+      "symbol": "TRUMP",
+      "market": "KRW-TRUMP",
+      "reason": "+0.83%와 52억원대 대금, 공인 서사 참고용"
     }
   ],
   "cycle_improvements": [
-    "대금 1위라도 고점 대비 급이탈이면 후보에서 즉시 강등하는 규칙을 명문화해 ORCA·SAHARA를 정리했다.",
-    "dashboard 아이콘에 🎭 MASK를 추가해 새벽 교체 후보 가독성을 높였다.",
-    "보고서 추천 행동에 재진입 조건을 분리해 ORCA·SAHARA·RAY 반등 추격 금지선을 더 명확히 표시했다."
+    "대금만 크고 일중 저점권인 종목(B3형)을 제외하기 위해 range-position 필터를 전략 판단에 추가했다.",
+    "dashboard 아이콘에 🪂 JTO, 🌐 ONDO, ⚙️ WLFI, 🧊 B3를 추가하고 후보에 range_position/day_high_gap 필드를 실어 가독성을 높였다.",
+    "보고서에서 왜 ORCA를 보류하고 B3를 제외했는지 명시해 추격 금지 기준을 더 분명하게 적었다."
   ],
-  "top_line": "업비트 00시51분 회차는 ORCA·SAHARA 과열 이탈을 정리하고 ENSO·ZBT·MASK·SONIC·MIRA 5분산으로 재편하는 편이 낫습니다.",
-  "ui_version": "v4.3",
+  "top_line": "업비트 01시37분 회차는 ENSO·ZBT·MIRA·MASK를 정리하고 JTO·ONDO·CFG·FLOCK·SONIC 5분산으로 공격 재편하는 편이 낫습니다.",
+  "ui_version": "v4.4",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 115.5M원 이탈, ENSO 1410원 하향, ZBT 284원 하향, MASK 830원 하향, SONIC 55원 하향, MIRA 128원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 117.0M원 이탈, JTO 782원 하향, ONDO 500원 하향, CFG 412원 하향, FLOCK 102원 하향, SONIC 56.5원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
       "5개 후보 정확히 유지",
-      "고점 대비 큰 되밀림이 나온 당일 리더는 거래대금 1위라도 보유 고집 금지",
-      "실시간 녹색 유지 종목 최소 4개 확보",
+      "대금 1위라도 음수 수익률+저점권이면 후보에서 제외",
+      "후보 5개 중 최소 4개는 당일 양전환 종목으로 유지",
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지",
-      "신규 상장 종목은 첫 지지선 이탈 시 미련 없이 교체"
+      "신규 리더는 일중 고점 대비 이격이 과도하면 추격 대신 보류"
     ],
     "exit_rules": [
-      "BTC 115.5M원 이탈, ENSO 1410원 하향, ZBT 284원 하향, MASK 830원 하향, SONIC 55원 하향, MIRA 128원 하향 시 즉시 재평가",
+      "BTC 117.0M원 이탈, JTO 782원 하향, ONDO 500원 하향, CFG 412원 하향, FLOCK 102원 하향, SONIC 56.5원 하향 시 즉시 재평가",
       "top4 majors는 후보 제외 유지",
       "5개 후보 정확히 유지",
-      "고점 대비 큰 되밀림이 나온 당일 리더는 거래대금 1위라도 보유 고집 금지",
-      "실시간 녹색 유지 종목 최소 4개 확보",
+      "대금 1위라도 음수 수익률+저점권이면 후보에서 제외",
+      "후보 5개 중 최소 4개는 당일 양전환 종목으로 유지",
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지",
-      "신규 상장 종목은 첫 지지선 이탈 시 미련 없이 교체"
+      "신규 리더는 일중 고점 대비 이격이 과도하면 추격 대신 보류"
     ]
   },
   "scorecard": {
-    "turnover_focus": "high but filtered by post-spike damage",
-    "momentum_discipline": "strict on broken ORCA and SAHARA, flexible only for still-liquid ENSO",
-    "diversification": "5-way aggressive with one liquidity core, one strength leader, two fresh rotations, one new-listing slot",
+    "turnover_focus": "high with intraday range-position filter",
+    "momentum_discipline": "reject turnover-only losers like B3, prefer green leaders near daily highs",
+    "diversification": "5-way aggressive with one breakout core, two liquidity/trend continuations, one beta slot, one steady support slot",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "rotation_map": [
     {
-      "bucket": "ORCA → MASK",
+      "bucket": "ENSO → JTO",
       "symbols": [
-        "ORCA",
-        "MASK"
+        "ENSO",
+        "JTO"
       ],
-      "note": "대금 1위 과열 이탈주를 새 유동성 순환매 리더로 교체"
+      "note": "약해진 옛 상장 테마를 현재 최강 돌파 코어로 교체"
     },
     {
-      "bucket": "SAHARA → SONIC",
+      "bucket": "ZBT → ONDO",
       "symbols": [
-        "SAHARA",
-        "SONIC"
+        "ZBT",
+        "ONDO"
       ],
-      "note": "36.5원 재이탈 종목을 구조가 덜 깨진 보조 모멘텀 축으로 교체"
+      "note": "무효화 이탈 리더를 고유동성 지속 강세축으로 교체"
+    },
+    {
+      "bucket": "MIRA → CFG",
+      "symbols": [
+        "MIRA",
+        "CFG"
+      ],
+      "note": "대금이 식은 상장 지속성 슬롯을 신고가권 추세주로 교체"
+    },
+    {
+      "bucket": "MASK → FLOCK",
+      "symbols": [
+        "MASK",
+        "FLOCK"
+      ],
+      "note": "둔화된 중형 순환주를 2차 확장형 고베타 축으로 교체"
     }
   ],
   "self_evaluation": {
-    "score": 8.8,
-    "summary": "직전 회차는 ORCA 재점화와 SAHARA 재가속을 조금 오래 믿어 drawdown을 키웠다. 이번 회차는 거래대금보다 고점 이탈과 무효화 재이탈을 우선해 손실 확산을 줄이는 쪽으로 수정했다. 다만 ENSO를 남긴 판단은 1,410원 방어 확인이 아직 필요하다."
+    "score": 6.7,
+    "summary": "직전 회차는 ENSO·ZBT 잔존 강세를 너무 오래 믿어 현재 리더 전환을 늦게 반영했다. 다행히 SONIC은 유지 명분이 남았지만, 나머지 4종은 유동성 저하를 더 빨리 버렸어야 했다. 이번엔 거래대금과 함께 일중 위치(range position)를 같이 보도록 고쳐 대금 착시를 줄였다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 8.65,
+    "preferred_avg_change_pct_24h": 13.21,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 491242076222.92664,
-    "leader_turnover_share_pct": 43.75,
-    "leader_symbol": "ENSO"
+    "preferred_turnover_total_krw_24h": 223005097743.74304,
+    "leader_turnover_share_pct": 33.87,
+    "leader_symbol": "JTO"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -639,117 +665,121 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "last_price_krw": 1452,
-      "threshold_krw": 410.0,
-      "distance_to_invalidation_pct": 254.15,
+      "icon": "🪂",
+      "symbol": "JTO",
+      "last_price_krw": 824.0,
+      "threshold_krw": 782.0,
+      "distance_to_invalidation_pct": 5.37,
       "status": "healthy"
     },
     {
-      "icon": "🧨",
-      "symbol": "ZBT",
-      "last_price_krw": 298,
-      "threshold_krw": 284.0,
-      "distance_to_invalidation_pct": 4.93,
-      "status": "near"
-    },
-    {
-      "icon": "🎭",
-      "symbol": "MASK",
-      "last_price_krw": 871,
-      "threshold_krw": 830.0,
-      "distance_to_invalidation_pct": 4.94,
-      "status": "near"
-    },
-    {
-      "icon": "🦔",
-      "symbol": "SONIC",
-      "last_price_krw": 57.2,
-      "threshold_krw": 55.0,
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "last_price_krw": 520.0,
+      "threshold_krw": 500.0,
       "distance_to_invalidation_pct": 4.0,
       "status": "near"
     },
     {
-      "icon": "🪞",
-      "symbol": "MIRA",
-      "last_price_krw": 131,
-      "threshold_krw": 128.0,
-      "distance_to_invalidation_pct": 2.34,
+      "icon": "🏗️",
+      "symbol": "CFG",
+      "last_price_krw": 430.0,
+      "threshold_krw": 412.0,
+      "distance_to_invalidation_pct": 4.37,
+      "status": "near"
+    },
+    {
+      "icon": "🐦",
+      "symbol": "FLOCK",
+      "last_price_krw": 110.0,
+      "threshold_krw": 102.0,
+      "distance_to_invalidation_pct": 7.84,
+      "status": "healthy"
+    },
+    {
+      "icon": "🦔",
+      "symbol": "SONIC",
+      "last_price_krw": 58.5,
+      "threshold_krw": 56.5,
+      "distance_to_invalidation_pct": 3.54,
       "status": "near"
     }
   ],
   "portfolio_health": {
     "discipline_alert_count": 0,
-    "green_position_count": 4,
-    "red_position_count": 1
+    "green_position_count": 5,
+    "red_position_count": 0
   },
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🌀 ENSO, 1,452원, +8.44%, 24h 대금 약 2,149억원, 고유동성 코어",
-      "2. 🧨 ZBT, 298원, +18.73%, 24h 대금 약 1,013억원, 잔존 상대강도 1위",
-      "3. 🎭 MASK, 871원, +10.67%, 24h 대금 약 696억원, 새벽 순환매 리더",
-      "4. 🦔 SONIC, 57.2원, +3.06%, 24h 대금 약 586억원, 구조가 덜 깨진 보조축",
-      "5. 🪞 MIRA, 131원, +2.34%, 24h 대금 약 468억원, 신규 상장 지속성 슬롯"
+      "1. 🪂 JTO, 824원, +33.12%, 24h 대금 약 755억원, 일중 고가권 돌파 코어",
+      "2. 🌐 ONDO, 520원, +9.47%, 24h 대금 약 560억원, 고유동성 지속 강세축",
+      "3. 🏗️ CFG, 430원, +7.23%, 24h 대금 약 385억원, 신고가권 추세 슬롯",
+      "4. 🐦 FLOCK, 110원, +13.40%, 24h 대금 약 356억원, 2차 확장 베타 슬롯",
+      "5. 🦔 SONIC, 58.5원, +2.81%, 24h 대금 약 171억원, 구조 보존형 보조 슬롯"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: 115.947M원, +0.22%, 115.5M원 위면 공격 유지 가능",
-      "- ◆ ETH: 3.484M원, +0.84%, 메이저 체온은 소폭 개선",
-      "- 💧 XRP: 2,123원, 보합, 국내 리테일 중립",
-      "- ☀️ SOL: 128.5K원, +0.08%, 솔라나 베타는 아직 꺼지지 않음"
+      "- ₿ BTC: 117.546M원, -1.55%, 일중 저점권이라 공격 강도는 과열 금지",
+      "- ◆ ETH: 3.377M원, -2.17%, 메이저 체온은 아직 차갑다",
+      "- 💧 XRP: 2,044원, -2.15%, 국내 리테일 온도도 둔함",
+      "- ☀️ SOL: 130.0K원, -0.54%, 알트 베타 기반은 완전히 죽진 않음"
+    ],
+    "🚫 이번 회차에서 뺀 강한 대금 종목": [
+      "- 🧊 B3: 24h 대금 약 1419억원이지만 -12.89%, 일중 저점권이라 제외",
+      "- 🐋 ORCA: 24h 대금 약 701억원이지만 2,350원 재안착 전까지는 관망"
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 0%, 5종 공격 분산 유지",
-      "- ENSO는 유동성 코어, ZBT는 강도 리더, MASK·SONIC은 신규/대체 순환축, MIRA는 상장 지속성 슬롯",
-      "- ORCA·SAHARA처럼 고점 대비 크게 꺾인 리더는 대금이 커도 즉시 정리",
-      "- 재진입은 ORCA 2,350원, SAHARA 36.5원, RAY 1,160원 회복 확인 전 금지"
+      "- 현금 0%, 5종 균등 공격 분산 유지",
+      "- JTO는 돌파 코어, ONDO·CFG는 추세 지속, FLOCK은 고베타 확장, SONIC은 구조 보존 슬롯",
+      "- 메이저가 약해도 업비트 내부 강한 5종은 유지하되, 음수 수익률+저점권 종목은 대금이 커도 제외"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL 🐋 ORCA",
-      "- SELL 🏜️ SAHARA",
-      "- BUY 🎭 MASK",
-      "- BUY 🦔 SONIC",
-      "- HOLD 🌀 ENSO",
-      "- HOLD 🧨 ZBT",
-      "- HOLD 🪞 MIRA"
+      "- SELL 🌀 ENSO",
+      "- SELL 🧨 ZBT",
+      "- SELL 🪞 MIRA",
+      "- SELL 🎭 MASK",
+      "- BUY 🪂 JTO",
+      "- BUY 🌐 ONDO",
+      "- BUY 🏗️ CFG",
+      "- BUY 🐦 FLOCK",
+      "- BUY 🦔 SONIC 소폭 증액"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🌀 ENSO: 1225.32915520개 @ 평균 1,322원, 현재 1,452원",
-      "- 🧨 ZBT: 6565.02415668개 @ 평균 213원, 현재 298원",
-      "- 🪞 MIRA: 10863.55611514개 @ 평균 135원, 현재 131원",
-      "- 🎭 MASK: 1650.74676416개 @ 평균 871원, 현재 871원",
-      "- 🦔 SONIC: 25136.37118150개 @ 평균 57.2원, 현재 57.2원",
-      "- 총 평가액: 8,034,282원",
-      "- 실현손익: -2,346,382원",
-      "- 누적 수익률: -19.66%"
+      "- 🪂 JTO: 1806.28014652개 @ 평균 824원, 현재 824원",
+      "- 🌐 ONDO: 2862.25930910개 @ 평균 520원, 현재 520원",
+      "- 🏗️ CFG: 3461.33683891개 @ 평균 430원, 현재 430원",
+      "- 🐦 FLOCK: 13530.68037028개 @ 평균 110원, 현재 110원",
+      "- 🦔 SONIC: 25442.30496977개 @ 평균 57.22원, 현재 58.5원",
+      "- 총 평가액: 7,441,874원",
+      "- 실현손익: -2,297,602원",
+      "- 누적 수익률: -25.58%"
     ],
     "🧠 자기 평가": [
-      "- 직전 회차는 ORCA 재점화와 SAHARA 재가속을 조금 오래 믿었습니다.",
-      "- 이번엔 대금보다 고점 이탈과 무효화 재이탈을 우선해 손실 확산을 줄이는 쪽으로 수정했습니다.",
-      "- 다만 ENSO를 남긴 판단은 1,410원 방어 확인이 아직 필요합니다."
+      "- 직전 회차는 ENSO·ZBT 잔존 강세를 너무 오래 믿어 리더 전환 대응이 늦었습니다.",
+      "- 이번엔 대금뿐 아니라 일중 위치(range position)까지 같이 보도록 고쳐 대금 착시를 줄였습니다.",
+      "- SONIC만 유지하고 나머지 4종을 바로 교체한 점은 늦었지만 필요한 수정입니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- 대금 1위라도 고점 대비 급이탈이면 즉시 강등하는 규칙을 명문화했습니다.",
-      "- dashboard 아이콘에 🎭 MASK를 추가했습니다.",
-      "- 추천 행동에 재진입 조건을 따로 적어 반등 추격 금지선을 더 선명하게 만들었습니다."
+      "- range-position 필터를 추가해 B3처럼 대금만 큰 음수 종목을 제외했습니다.",
+      "- dashboard 아이콘에 🪂 JTO, 🌐 ONDO, ⚙️ WLFI, 🧊 B3를 추가했습니다.",
+      "- 후보 데이터에 일중 위치와 고점 이격 정보를 싣도록 대시보드 스키마를 확장했습니다."
     ],
     "🧾 판단": [
-      "- aggressive rotation away from broken parabolic leaders into healthier secondary liquidity winners"
+      "- aggressive but selective rotation into isolated Upbit alt leaders despite weak majors"
     ],
     "🎯 신뢰도": [
       "- medium"
     ],
     "👉 추천 행동": [
-      "- ENSO 1,410원, ZBT 284원, MASK 830원, SONIC 55원, MIRA 128원 하향 시 즉시 재평가",
-      "- ORCA 2,350원, SAHARA 36.5원, RAY 1,160원 재탈환 전까지는 반등 추격 금지",
-      "- TRUMP는 인물 서사 체온 유지용 참고만, AERO·AVNT는 차순위 대체 후보"
+      "- JTO 782원, ONDO 500원, CFG 412원, FLOCK 102원, SONIC 56.5원 하향 시 즉시 재평가",
+      "- ORCA 2,350원 재안착 전까지는 관망, B3는 음전+저점권 해소 전까지 추격 금지",
+      "- WLFI·TRUMP는 공인 서사 참고만, CHIP·XPL은 차순위 대체 후보"
     ],
     "⚠️ 리스크 메모": [
-      "- ENSO는 대금이 크지만 방어 실패 시 낙폭 확장이 빠를 수 있습니다.",
-      "- ZBT는 가장 건강하지만 284원 하향 시 상대강도 프리미엄이 사라집니다.",
-      "- MASK·SONIC·MIRA는 중형/신규 상장 슬롯이라 회전 속도가 빠릅니다.",
-      "- BTC가 115.5M원 아래로 밀리면 알트 공격 강도 자체를 한 단계 낮춰야 합니다."
+      "- 메이저 4종이 모두 약세라 알트 개별 강세가 갑자기 꺼질 수 있습니다.",
+      "- JTO·FLOCK은 급등주라 되돌림 속도가 빠를 수 있습니다.",
+      "- SONIC은 5번째 슬롯일 뿐이라 56.5원 이탈 시 가장 먼저 교체해야 합니다."
     ]
   }
 }

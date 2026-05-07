@@ -60,7 +60,11 @@ ICONS = {
     'TRUMP': '🧢',
     'MIRA': '🪞',
     'MASK': '🎭',
-    'SONIC': '🦔'
+    'SONIC': '🦔',
+    'JTO': '🪂',
+    'ONDO': '🌐',
+    'WLFI': '⚙️',
+    'B3': '🧊'
 }
 
 
@@ -231,7 +235,9 @@ status = {
             'risk': item.get('risk'),
             'allocation_krw': item.get('allocation_krw'),
             'role': item.get('role'),
-            'invalidated_if': item.get('invalidated_if')
+            'invalidated_if': item.get('invalidated_if'),
+            'range_position_pct': item.get('range_position_pct'),
+            'day_high_gap_pct': item.get('day_high_gap_pct')
         }
         for item in preferred[:5]
     ],
