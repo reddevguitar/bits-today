@@ -1,145 +1,150 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive but selective rotation into isolated Upbit alt leaders despite weak majors",
+  "judgment": "aggressive selective rotation into positive Upbit alt leaders while rejecting high-turnover losers",
   "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-05-08 01:37 KST",
-  "market_status": "메이저는 약하지만 업비트 알트는 JTO 중심으로 개별 강세가 살아 있어, 전체 회피보다 선별 공격이 유리합니다.",
-  "fear_greed": "47 (Neutral, 외부 심리는 공포 구간에서 중립으로 회복)",
-  "btc_snapshot": "BTC 117.546M원대, ETH 3.377M원대, XRP 2,044원대, SOL 130.0K원대",
+  "updated_at": "2026-05-11 22:09 KST",
+  "market_status": "메이저는 쉬어가지만 업비트 내부에서는 SONIC·MOVE·MBL 쪽 개별 강세가 더 선명해, 고거래대금 음수 종목보다 양전환 리더를 추격하는 편이 낫습니다.",
+  "fear_greed": "48 (Neutral, 중립이지만 과열 직전은 아님)",
+  "btc_snapshot": "BTC 119.700M원대, ETH 3.437M원대, XRP 2,153원대, SOL 140.4K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-2,297,602 KRW",
-  "last_valuation_krw": "7,441,874 KRW",
+  "realized_pnl_krw": "-2,259,164 KRW",
+  "last_valuation_krw": "8,009,301 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -25.58,
-  "last_action": "ROTATE_ENSO_ZBT_MIRA_MASK_TO_JTO_ONDO_CFG_FLOCK",
-  "trade_count": 217,
-  "last_updated": "2026-05-08T01:37:00+09:00",
+  "return_pct": -19.91,
+  "last_action": "ROTATE_JTO_CFG_FLOCK_TO_MOVE_MBL_SEI_TRIM_ONDO_SONIC",
+  "trade_count": 225,
+  "last_updated": "2026-05-11T22:09:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 21,
-    "recent_sell_count": 19,
-    "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 9
+    "recent_buy_count": 20,
+    "recent_sell_count": 20,
+    "recent_rotation_count": 20,
+    "recent_trade_actions_24h": 8
   },
   "summary": [
-    "₿ BTC: 117.546M원, -1.55%, 일중 저점권이라 공격 강도는 과열 금지",
-    "◆ ETH: 3.377M원, -2.17%, 메이저 체온은 아직 차갑다",
-    "💧 XRP: 2,044원, -2.15%, 국내 리테일 온도도 둔함",
-    "☀️ SOL: 130.0K원, -0.54%, 알트 베타 기반은 완전히 죽진 않음",
-    "🧊 B3: 24h 대금 약 1419억원이지만 -12.89%, 일중 저점권이라 제외",
-    "🐋 ORCA: 24h 대금 약 701억원이지만 2,350원 재안착 전까지는 관망",
+    "₿ BTC: 119.700M원, -0.61%, 방향성은 약하지만 패닉은 아님",
+    "◆ ETH: 3.437M원, -1.07%, 메이저 체온은 아직 낮다",
+    "💧 XRP: 2,153원, -0.23%, 국내 리테일 온도는 무너지지 않았지만 뜨겁지도 않다",
+    "☀️ SOL: 140.4K원, -0.71%, 알트 베타 기반은 살아 있으나 확신은 부족",
+    "🌊 SUI: 24h 대금 약 1733억원이지만 -3.07%, 일중 위치 36.4%라 제외",
+    "🧊 B3: 24h 대금 약 167억원이지만 -4.15%, 일중 위치 23.1%라 제외",
+    "🪂 JTO: 24h 대금 약 63억원, 일중 위치 17.0%로 리더 지위 상실",
+    "🏗️ CFG: 24h 대금 약 134억원, -1.99%와 14.6% 위치로 명분 약화",
     "현금 0%, 5종 균등 공격 분산 유지",
-    "JTO는 돌파 코어, ONDO·CFG는 추세 지속, FLOCK은 고베타 확장, SONIC은 구조 보존 슬롯",
-    "메이저가 약해도 업비트 내부 강한 5종은 유지하되, 음수 수익률+저점권 종목은 대금이 커도 제외",
-    "SELL 🌀 ENSO",
-    "SELL 🧨 ZBT",
-    "SELL 🪞 MIRA",
-    "SELL 🎭 MASK",
-    "BUY 🪂 JTO",
-    "BUY 🌐 ONDO",
-    "BUY 🏗️ CFG",
-    "BUY 🐦 FLOCK",
-    "BUY 🦔 SONIC 소폭 증액",
+    "SONIC은 코어, MOVE는 베타, MBL은 돌파, SEI는 지속, ONDO는 유동성 앵커 역할",
+    "고거래대금이라도 24시간 음수 + 일중 위치 40% 미만이면 추격 금지",
+    "SELL 🪂 JTO 전량",
+    "SELL 🏗️ CFG 전량",
+    "SELL 🐦 FLOCK 전량",
+    "SELL 🌐 ONDO 일부 트림",
+    "SELL 🦔 SONIC 일부 트림",
+    "BUY 🏃 MOVE",
+    "BUY 🎬 MBL",
+    "BUY 🟥 SEI",
     "현금: 0원",
-    "🪂 JTO: 1806.28014652개 @ 평균 824원, 현재 824원",
-    "🌐 ONDO: 2862.25930910개 @ 평균 520원, 현재 520원",
-    "🏗️ CFG: 3461.33683891개 @ 평균 430원, 현재 430원",
-    "🐦 FLOCK: 13530.68037028개 @ 평균 110원, 현재 110원",
-    "🦔 SONIC: 25442.30496977개 @ 평균 57.22원, 현재 58.5원",
-    "총 평가액: 7,441,874원",
-    "실현손익: -2,297,602원",
-    "누적 수익률: -25.58%",
-    "직전 회차는 ENSO·ZBT 잔존 강세를 너무 오래 믿어 리더 전환 대응이 늦었습니다.",
-    "이번엔 대금뿐 아니라 일중 위치(range position)까지 같이 보도록 고쳐 대금 착시를 줄였습니다.",
-    "SONIC만 유지하고 나머지 4종을 바로 교체한 점은 늦었지만 필요한 수정입니다.",
-    "range-position 필터를 추가해 B3처럼 대금만 큰 음수 종목을 제외했습니다.",
-    "dashboard 아이콘에 🪂 JTO, 🌐 ONDO, ⚙️ WLFI, 🧊 B3를 추가했습니다.",
-    "후보 데이터에 일중 위치와 고점 이격 정보를 싣도록 대시보드 스키마를 확장했습니다.",
-    "aggressive but selective rotation into isolated Upbit alt leaders despite weak majors",
+    "🦔 SONIC: 22,883.71612466개 @ 평균 57.22원, 현재 70원",
+    "🌐 ONDO: 2,562.97620596개 @ 평균 520원, 현재 625원",
+    "🏃 MOVE: 51,672.90737826개 @ 평균 31원, 현재 31원",
+    "🎬 MBL: 875,333.40367539개 @ 평균 1.83원, 현재 1.83원",
+    "🟥 SEI: 14,175.75335156개 @ 평균 113원, 현재 113원",
+    "총 평가액: 8,009,301원",
+    "실현손익: -2,259,164원",
+    "누적 수익률: -19.91%",
+    "직전 회차는 SONIC·ONDO를 남긴 판단은 괜찮았지만 JTO·CFG·FLOCK 정리가 늦었습니다.",
+    "이번엔 대금 크기만 보지 않고 음수/저점권을 분리해 버리는 기준을 더 분명하게 적용했습니다.",
+    "생존 종목을 전량 재매수하지 않고 일부 트림만 한 점도 불필요한 왕복을 줄이는 개선입니다.",
+    "rejected_candidates 버킷을 추가해 SUI·B3 같은 대금 착시 종목을 별도로 표시했습니다.",
+    "dashboard/status.json에도 rejected_candidates가 실리도록 스크립트를 확장했습니다.",
+    "생존 종목은 부분 트림으로만 균등 비중을 맞추는 리밸런싱 규칙을 도입했습니다.",
+    "aggressive selective rotation into positive Upbit alt leaders while rejecting high-turnover losers",
     "medium",
-    "JTO 782원, ONDO 500원, CFG 412원, FLOCK 102원, SONIC 56.5원 하향 시 즉시 재평가",
-    "ORCA 2,350원 재안착 전까지는 관망, B3는 음전+저점권 해소 전까지 추격 금지",
-    "WLFI·TRUMP는 공인 서사 참고만, CHIP·XPL은 차순위 대체 후보",
-    "메이저 4종이 모두 약세라 알트 개별 강세가 갑자기 꺼질 수 있습니다.",
-    "JTO·FLOCK은 급등주라 되돌림 속도가 빠를 수 있습니다.",
-    "SONIC은 5번째 슬롯일 뿐이라 56.5원 이탈 시 가장 먼저 교체해야 합니다."
+    "SONIC 66원, MOVE 29.5원, MBL 1.72원, SEI 111원, ONDO 610원 하향 시 즉시 재평가",
+    "ICP는 ONDO 대체 1순위, ORCA는 2,500원 재안착 전까지 보류",
+    "SUI·LAYER·B3처럼 대금만 크고 음수인 종목은 이번 회차 추격 금지",
+    "메이저 4종이 강세 전환을 못 하면 알트 개별 강세가 오래 못 갈 수 있습니다.",
+    "MBL은 초저가 급등주라 되돌림 속도가 가장 빠를 수 있습니다.",
+    "ONDO는 대금은 가장 크지만 일중 위치가 낮아 유동성 앵커 명분이 빠르게 훼손될 수 있습니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "FLOCK",
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "SEI",
       "action": "BUY",
-      "price_krw": 110.0,
-      "amount_delta": 13530.680370284153,
-      "cash_delta_krw": -1488374.8407312569,
-      "reason": "+13.40%와 356억원대 대금으로 2차 확장 여지가 있는 고베타 순환축"
+      "price_krw": 113.0,
+      "amount_delta": 14175.75335155714,
+      "cash_delta_krw": -1601860.1287259567,
+      "reason": "상승률은 얕지만 고가권 유지와 165억원대 대금이 좋아 신규 편입"
     },
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "CFG",
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "MBL",
       "action": "BUY",
-      "price_krw": 430.0,
-      "amount_delta": 3461.3368389098996,
-      "cash_delta_krw": -1488374.8407312569,
-      "reason": "52주 신고가권 테스트와 385억원대 대금이 겹친 깔끔한 추세 슬롯"
+      "price_krw": 1.83,
+      "amount_delta": 875333.4036753862,
+      "cash_delta_krw": -1601860.1287259567,
+      "reason": "+28.87%와 95%대 일중 위치가 확인된 초저가 돌파형이라 신규 편입"
     },
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "ONDO",
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "MOVE",
       "action": "BUY",
-      "price_krw": 520.0,
-      "amount_delta": 2862.259309098571,
-      "cash_delta_krw": -1488374.8407312569,
-      "reason": "+9.47%와 560억원대 대금이 동행하는 고유동성 추세 지속축"
+      "price_krw": 31.0,
+      "amount_delta": 51672.90737825667,
+      "cash_delta_krw": -1601860.1287259567,
+      "reason": "+7.64%와 446억원대 대금이 동행하는 저가 회전 리더라 신규 편입"
     },
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "JTO",
-      "action": "BUY",
-      "price_krw": 824.0,
-      "amount_delta": 1806.2801465185157,
-      "cash_delta_krw": -1488374.8407312569,
-      "reason": "+33%와 755억원대 대금, 일중 고가권 마감으로 현재 보드 최강 돌파 코어"
-    },
-    {
-      "timestamp": "2026-05-08T01:37:00+09:00",
+      "timestamp": "2026-05-11T22:09:00+09:00",
       "symbol": "SONIC",
-      "action": "BUY",
-      "price_krw": 58.5,
-      "amount_delta": 305.93378826604487,
-      "cash_delta_krw": -17897.126613563625,
-      "reason": "기존 보유를 유지하되 5종 균등 공격 분산을 맞추기 위해 소폭 증액"
+      "action": "SELL",
+      "price_krw": 70.0,
+      "amount_delta": -2558.588845108552,
+      "cash_delta_krw": 179101.21915759862,
+      "reason": "핵심 코어는 유지하되 5종 균등 공격 분산을 맞추기 위해 일부 트림"
     },
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "MASK",
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "ONDO",
       "action": "SELL",
-      "price_krw": 760.0,
-      "amount_delta": -1650.7467641581454,
-      "cash_delta_krw": 1254567.5407601905,
-      "reason": "대금과 추세가 모두 식어 더 강한 새벽 리더 JTO·CFG·FLOCK 쪽으로 자금 재배치"
+      "price_krw": 625.0,
+      "amount_delta": -299.2831031370406,
+      "cash_delta_krw": 187051.93946065038,
+      "reason": "유동성 앵커는 유지하되 5종 균등 공격 분산을 맞추기 위해 일부 트림"
     },
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "MIRA",
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "FLOCK",
       "action": "SELL",
-      "price_krw": 122.0,
-      "amount_delta": -10863.556115137637,
-      "cash_delta_krw": 1325353.8460467916,
-      "reason": "대금이 8억원대까지 식어 상장 지속성 슬롯 명분이 약해져 교체"
+      "price_krw": 116.0,
+      "amount_delta": -13530.680370284153,
+      "cash_delta_krw": 1569558.9229529619,
+      "reason": "양전환은 했지만 주도권이 SONIC·MOVE보다 약해 SEI로 교체"
     },
     {
-      "timestamp": "2026-05-08T01:37:00+09:00",
-      "symbol": "ZBT",
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "CFG",
       "action": "SELL",
-      "price_krw": 265.0,
-      "amount_delta": -6565.024156676798,
-      "cash_delta_krw": 1739731.4015193514,
-      "reason": "265원으로 284원 기준 아래에 머물며 직전 상대강도 리더 지위가 붕괴"
+      "price_krw": 444.0,
+      "amount_delta": -3461.3368389098996,
+      "cash_delta_krw": 1536833.5564759953,
+      "reason": "134억원대 대금은 남았지만 -1.99%와 14.6% 위치로 추세주 명분이 약해져 MBL로 교체"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 738.0,
+      "amount_delta": -1806.2801465185157,
+      "cash_delta_krw": 1333034.7481306647,
+      "reason": "63억원대 대금과 17%대 일중 위치로 돌파 코어 지위를 상실해 MOVE로 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-11-2209.md",
+      "title": "2026-05-11-2209"
+    },
     {
       "file": "2026-05-08-0137.md",
       "title": "2026-05-08-0137"
@@ -167,137 +172,87 @@
     {
       "file": "2026-04-25-1851.md",
       "title": "2026-04-25-1851"
-    },
-    {
-      "file": "2026-04-25-1251.md",
-      "title": "2026-04-25-1251"
     }
   ],
   "positions": [
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "amount": 1806.2801465185157,
-      "avg_buy_price_krw": "824 KRW",
-      "last_price_krw": "824 KRW",
-      "thesis": "상위 거래대금과 일중 고가권 유지가 동시에 확인된 최강 돌파 코어",
-      "strategy": "breakout leadership buy",
-      "role": "breakout core",
+      "icon": "🦔",
+      "symbol": "SONIC",
+      "market": "KRW-SONIC",
+      "amount": 22883.716124656527,
+      "avg_buy_price_krw": "57 KRW",
+      "last_price_krw": "70 KRW",
+      "thesis": "대금 2위권과 두 자릿수 상승률이 겹친 업비트 실전 코어",
+      "strategy": "liquidity momentum hold",
+      "role": "liquidity momentum core",
       "risk_limit_pct": 6,
       "profit_take_pct": 14,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "pnl_krw": "292,554 KRW",
+      "pnl_pct": 22.34
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "amount": 2862.259309098571,
+      "amount": 2562.9762059615305,
       "avg_buy_price_krw": "520 KRW",
-      "last_price_krw": "520 KRW",
-      "thesis": "메이저 약세 속에서도 자금이 붙는 고유동성 상대강도 축",
-      "strategy": "liquidity trend buy",
-      "role": "liquidity continuation",
+      "last_price_krw": "625 KRW",
+      "thesis": "일중 위치는 낮아도 압도적 거래대금과 서사 잔존이 있는 유동성 앵커",
+      "strategy": "liquidity anchor hold",
+      "role": "liquidity anchor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10,
+      "pnl_krw": "269,113 KRW",
+      "pnl_pct": 20.19
+    },
+    {
+      "icon": "🪙",
+      "symbol": "MOVE",
+      "market": "KRW-MOVE",
+      "amount": 51672.90737825667,
+      "avg_buy_price_krw": "31 KRW",
+      "last_price_krw": "31 KRW",
+      "thesis": "446억원대 대금이 붙는 저가 회전 리더",
+      "strategy": "rotation beta buy",
+      "role": "rotation beta leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "amount": 3461.3368389098996,
-      "avg_buy_price_krw": "430 KRW",
-      "last_price_krw": "430 KRW",
-      "thesis": "신고가권 테스트가 나온 깔끔한 중형 추세주",
-      "strategy": "clean trend continuation buy",
-      "role": "clean trend slot",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11,
+      "icon": "🪙",
+      "symbol": "MBL",
+      "market": "KRW-MBL",
+      "amount": 875333.4036753862,
+      "avg_buy_price_krw": "2 KRW",
+      "last_price_krw": "2 KRW",
+      "thesis": "95%대 일중 위치를 기록한 초저가 돌파형 모멘텀",
+      "strategy": "late breakout buy",
+      "role": "late breakout slot",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 15,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🐦",
-      "symbol": "FLOCK",
-      "market": "KRW-FLOCK",
-      "amount": 13530.680370284153,
-      "avg_buy_price_krw": "110 KRW",
-      "last_price_krw": "110 KRW",
-      "thesis": "거래대금이 따라붙는 고베타 2차 확장 후보",
-      "strategy": "beta continuation buy",
-      "role": "beta rotation slot",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🦔",
-      "symbol": "SONIC",
-      "market": "KRW-SONIC",
-      "amount": 25442.304969765075,
-      "avg_buy_price_krw": "57 KRW",
-      "last_price_krw": "58 KRW",
-      "thesis": "대금은 줄었지만 아직 양전환과 구조 보존이 남은 보조 지속성 축",
-      "strategy": "steady continuation hold",
-      "role": "steady support slot",
+      "icon": "🟥",
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "amount": 14175.75335155714,
+      "avg_buy_price_krw": "113 KRW",
+      "last_price_krw": "113 KRW",
+      "thesis": "고가권 유지와 안정적 대금이 확인되는 지속 슬롯",
+      "strategy": "tight continuation buy",
+      "role": "tight continuation slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 9,
-      "pnl_krw": "32,677 KRW",
-      "pnl_pct": 2.24
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "API3": [
-      {
-        "timestamp": "2026-04-26T00:51:00+09:00",
-        "price_krw": 533,
-        "action": "SELL"
-      }
-    ],
-    "HYPER": [
-      {
-        "timestamp": "2026-04-26T00:51:00+09:00",
-        "price_krw": 250,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-26T12:51:00+09:00",
-        "price_krw": 196,
-        "action": "SELL"
-      }
-    ],
-    "ORCA": [
-      {
-        "timestamp": "2026-04-26T00:51:00+09:00",
-        "price_krw": 1977,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-26T06:51:00+09:00",
-        "price_krw": 1697,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-04-26T12:51:00+09:00",
-        "price_krw": 2341,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-04-27T00:51:00+09:00",
-        "price_krw": 2245,
-        "action": "SELL"
-      }
-    ],
     "SAHARA": [
-      {
-        "timestamp": "2026-04-26T06:51:00+09:00",
-        "price_krw": 35.2,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-04-26T12:51:00+09:00",
         "price_krw": 33.2,
@@ -314,17 +269,15 @@
         "action": "SELL"
       }
     ],
-    "AXS": [
+    "ORCA": [
       {
         "timestamp": "2026-04-26T12:51:00+09:00",
-        "price_krw": 2106,
-        "action": "SELL"
-      }
-    ],
-    "SOON": [
+        "price_krw": 2341,
+        "action": "BUY"
+      },
       {
-        "timestamp": "2026-04-26T12:51:00+09:00",
-        "price_krw": 277,
+        "timestamp": "2026-04-27T00:51:00+09:00",
+        "price_krw": 2245,
         "action": "SELL"
       }
     ],
@@ -398,6 +351,11 @@
         "timestamp": "2026-05-08T01:37:00+09:00",
         "price_krw": 58.5,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 70.0,
+        "action": "SELL"
       }
     ],
     "ZBT": [
@@ -412,6 +370,11 @@
         "timestamp": "2026-05-08T01:37:00+09:00",
         "price_krw": 824.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 738.0,
+        "action": "SELL"
       }
     ],
     "ONDO": [
@@ -419,6 +382,11 @@
         "timestamp": "2026-05-08T01:37:00+09:00",
         "price_krw": 520.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 625.0,
+        "action": "SELL"
       }
     ],
     "CFG": [
@@ -426,6 +394,11 @@
         "timestamp": "2026-05-08T01:37:00+09:00",
         "price_krw": 430.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 444.0,
+        "action": "SELL"
       }
     ],
     "FLOCK": [
@@ -433,95 +406,121 @@
         "timestamp": "2026-05-08T01:37:00+09:00",
         "price_krw": 110.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 116.0,
+        "action": "SELL"
+      }
+    ],
+    "MOVE": [
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 31.0,
+        "action": "BUY"
+      }
+    ],
+    "MBL": [
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 1.83,
+        "action": "BUY"
+      }
+    ],
+    "SEI": [
+      {
+        "timestamp": "2026-05-11T22:09:00+09:00",
+        "price_krw": 113.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-05-08-0137.md",
+  "latest_report_file": "2026-05-11-2209.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "price_krw": 824.0,
-      "change_pct_24h": 33.11793215,
-      "turnover_krw_24h": 75542202339.25002,
-      "reason": "+33.12%와 755억원대 대금, 일중 고가권 유지가 동시에 확인된 최강 리더다.",
-      "score": 9.6,
-      "community": "현재 업비트 추격 수요가 가장 강하게 몰리는 돌파 코어",
-      "risk": "782원 하회 시 돌파 실패 경계",
-      "allocation_krw": 1488374.8407312569,
-      "role": "breakout core",
-      "invalidated_if": "782원 하회 시",
-      "range_position_pct": 99.1,
-      "day_high_gap_pct": -0.24
+      "icon": "🦔",
+      "symbol": "SONIC",
+      "market": "KRW-SONIC",
+      "price_krw": 70.0,
+      "change_pct_24h": 10.23622047,
+      "turnover_krw_24h": 78660000000.0,
+      "reason": "+10.24%와 786억원대 대금이 동시에 살아 있는 현재 업비트 보드의 실전 코어다.",
+      "score": 9.4,
+      "community": "대금 2위권과 두 자릿수 상승이 겹쳐 추격 수요가 가장 강한 중심축",
+      "risk": "66원 하회 시 탄력 둔화",
+      "allocation_krw": 1601860.1287259567,
+      "role": "liquidity momentum core",
+      "invalidated_if": "66원 하회 시",
+      "range_position_pct": 53.8,
+      "day_high_gap_pct": -7.89
+    },
+    {
+      "icon": "🪙",
+      "symbol": "MOVE",
+      "market": "KRW-MOVE",
+      "price_krw": 31.0,
+      "change_pct_24h": 7.63888889,
+      "turnover_krw_24h": 44632000000.0,
+      "reason": "+7.64%와 446억원대 대금으로 저가 코인 순환매의 가장 깔끔한 강세축이다.",
+      "score": 9.0,
+      "community": "상장/대형거래소 인지도 이후 업비트 내 회전 자금이 다시 붙는 베타 슬롯",
+      "risk": "29.5원 하회 시 회전 실패",
+      "allocation_krw": 1601860.1287259567,
+      "role": "rotation beta leader",
+      "invalidated_if": "29.5원 하회 시",
+      "range_position_pct": 44.8,
+      "day_high_gap_pct": -9.36
+    },
+    {
+      "icon": "🪙",
+      "symbol": "MBL",
+      "market": "KRW-MBL",
+      "price_krw": 1.83,
+      "change_pct_24h": 28.87323944,
+      "turnover_krw_24h": 17624000000.0,
+      "reason": "+28.87%, 일중 위치 95%대로 마감 직전 돌파 구조가 가장 선명하다.",
+      "score": 8.9,
+      "community": "종가권 고점 추격이 붙는 초저가 돌파형으로 체감이 가장 뜨겁다",
+      "risk": "1.72원 하회 시 과열 이탈",
+      "allocation_krw": 1601860.1287259567,
+      "role": "late breakout slot",
+      "invalidated_if": "1.72원 하회 시",
+      "range_position_pct": 95.2,
+      "day_high_gap_pct": -1.08
+    },
+    {
+      "icon": "🟥",
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "price_krw": 113.0,
+      "change_pct_24h": 0.89285714,
+      "turnover_krw_24h": 16507000000.0,
+      "reason": "24시간 상승률은 얕아도 일중 위치 85.7%와 165억원대 대금이 안정적이다.",
+      "score": 8.5,
+      "community": "상승폭은 크지 않지만 고가권 유지가 좋아 눌림 추세 슬롯으로 보기 쉽다",
+      "risk": "111원 하회 시 고가권 보존 실패",
+      "allocation_krw": 1601860.1287259567,
+      "role": "tight continuation slot",
+      "invalidated_if": "111원 하회 시",
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -0.88
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "price_krw": 520.0,
-      "change_pct_24h": 9.47368421,
-      "turnover_krw_24h": 56086566506.065315,
-      "reason": "+9.47%와 560억원대 대금이 같이 살아 있는 대형 순환매 리더다.",
-      "score": 9.0,
-      "community": "메이저 약세에도 자금이 붙는 고유동성 지속 강세축",
-      "risk": "500원 하회 시 추세 둔화",
-      "allocation_krw": 1488374.8407312569,
-      "role": "liquidity continuation",
-      "invalidated_if": "500원 하회 시",
-      "range_position_pct": 61.5,
-      "day_high_gap_pct": -6.31
-    },
-    {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "price_krw": 430.0,
-      "change_pct_24h": 7.2319202,
-      "turnover_krw_24h": 38550792381.67553,
-      "reason": "52주 고점 459원 근처까지 붙은 상태에서 385억원대 대금이 유지된다.",
-      "score": 8.8,
-      "community": "신고가권 테스트가 확인돼 체감이 좋은 추세형 중형주",
-      "risk": "412원 하회 시 신고가 시도 실패 경계",
-      "allocation_krw": 1488374.8407312569,
-      "role": "clean trend slot",
-      "invalidated_if": "412원 하회 시",
-      "range_position_pct": 65.1,
-      "day_high_gap_pct": -6.32
-    },
-    {
-      "icon": "🐦",
-      "symbol": "FLOCK",
-      "market": "KRW-FLOCK",
-      "price_krw": 110.0,
-      "change_pct_24h": 13.40206186,
-      "turnover_krw_24h": 35687997791.803444,
-      "reason": "+13.40%와 356억원대 대금으로 추세 2차 확장 가능성이 높다.",
-      "score": 8.6,
-      "community": "2차 확장 기대가 붙는 고베타 순환축",
-      "risk": "102원 하회 시 탄력 둔화",
-      "allocation_krw": 1488374.8407312569,
-      "role": "beta rotation slot",
-      "invalidated_if": "102원 하회 시",
-      "range_position_pct": 52.4,
-      "day_high_gap_pct": -12.0
-    },
-    {
-      "icon": "🦔",
-      "symbol": "SONIC",
-      "market": "KRW-SONIC",
-      "price_krw": 58.5,
-      "change_pct_24h": 2.81195079,
-      "turnover_krw_24h": 17137538724.948734,
-      "reason": "대금은 줄었지만 아직 양전환과 56.5원 저점 방어가 유지된다.",
-      "score": 8.1,
-      "community": "완전히 터지진 않았지만 구조 보존으로 살아남은 잔존 슬롯",
-      "risk": "56.5원 하회 시 잔존 구조 붕괴",
-      "allocation_krw": 1488374.8407312569,
-      "role": "steady support slot",
-      "invalidated_if": "56.5원 하회 시",
-      "range_position_pct": 41.7,
-      "day_high_gap_pct": -4.57
+      "price_krw": 625.0,
+      "change_pct_24h": 0.80645161,
+      "turnover_krw_24h": 91459000000.0,
+      "reason": "일중 위치는 낮지만 914억원대 압도적 대금과 ONDO 체인/WLFI 서사 잔존으로 5번째 자리를 지킨다.",
+      "score": 8.3,
+      "community": "체감은 식었지만 업비트 최대급 실수요가 남아 있어 무시하기 어려운 유동성 축",
+      "risk": "610원 하회 시 유동성 앵커 명분 약화",
+      "allocation_krw": 1601860.1287259567,
+      "role": "liquidity anchor",
+      "invalidated_if": "610원 하회 시",
+      "range_position_pct": 18.8,
+      "day_high_gap_pct": -8.22
     }
   ],
   "reference_watchlist": [
@@ -529,132 +528,146 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "117.5M원 붕괴 여부가 알트 공격 지속의 1차 필터"
+      "reason": "119.0M원 이탈 시 알트 공격 강도 축소"
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.37M원대 약세라 메이저 체온은 아직 차갑다"
+      "reason": "3.40M원 회복 실패 시 메이저 체온 부진 지속"
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,044원대, 국내 리테일 온도 저하 확인용"
+      "reason": "국내 리테일 온도 확인용 기준선"
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "130K원선 유지 실패 시 알트 베타 축소 경계"
+      "reason": "140K원대 유지 실패 시 알트 베타 약화 가능성"
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ICP",
+      "market": "KRW-ICP",
+      "reason": "+6.74%와 고가권 유지로 ONDO 대체 1순위"
     },
     {
       "icon": "🐋",
       "symbol": "ORCA",
       "market": "KRW-ORCA",
-      "reason": "701억원대 대금은 강하지만 2,350원 재안착 전까지는 추격 금지"
+      "reason": "200억원대 대금은 남아 있지만 2,500원 재안착 전까지는 보류"
     },
     {
-      "icon": "🧊",
-      "symbol": "B3",
-      "market": "KRW-B3",
-      "reason": "1419억원대 대금에도 -12.9%라 손절성 과열 가능성 경계"
+      "icon": "🪙",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "1733억원대 대금에도 -3.07%라 대금 착시 경계"
     },
     {
-      "icon": "⚙️",
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "+11.0%와 99억원대 대금으로 정치테마 체온 유지"
-    },
-    {
-      "icon": "🧢",
-      "symbol": "TRUMP",
-      "market": "KRW-TRUMP",
-      "reason": "+0.83%와 52억원대 대금, 공인 서사 참고용"
+      "icon": "🪙",
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "200억원대 대금이 있지만 일중 위치가 낮아 차순위"
     }
   ],
   "cycle_improvements": [
-    "대금만 크고 일중 저점권인 종목(B3형)을 제외하기 위해 range-position 필터를 전략 판단에 추가했다.",
-    "dashboard 아이콘에 🪂 JTO, 🌐 ONDO, ⚙️ WLFI, 🧊 B3를 추가하고 후보에 range_position/day_high_gap 필드를 실어 가독성을 높였다.",
-    "보고서에서 왜 ORCA를 보류하고 B3를 제외했는지 명시해 추격 금지 기준을 더 분명하게 적었다."
+    "대금은 크지만 음수·저점권인 종목을 별도로 적는 rejected_candidates 버킷을 전략 상태에 추가했다.",
+    "dashboard/status.json에도 rejected_candidates를 노출하도록 update_dashboard.py를 확장했다.",
+    "생존 종목은 전량 청산 대신 부분 트림으로 균등 비중만 맞추는 리밸런싱 규칙을 이번 회차부터 반영했다."
   ],
-  "top_line": "업비트 01시37분 회차는 ENSO·ZBT·MIRA·MASK를 정리하고 JTO·ONDO·CFG·FLOCK·SONIC 5분산으로 공격 재편하는 편이 낫습니다.",
-  "ui_version": "v4.4",
+  "rejected_candidates": [
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "알트 최대 거래대금이지만 -3.07%와 36.4% 일중 위치라 제외"
+    },
+    {
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "-2.73%와 13.8% 일중 위치로 하단 체류"
+    },
+    {
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "-4.15%와 23.1% 일중 위치라 거래대금이 커도 추격 금지"
+    },
+    {
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "reason": "134억원대 대금은 남았지만 -1.99%와 14.6% 위치로 기존 리더 명분 상실"
+    }
+  ],
+  "top_line": "업비트 22시09분 회차는 JTO·CFG·FLOCK을 정리하고 SONIC·ONDO 유지 + MOVE·MBL·SEI로 공격 재편하는 편이 낫습니다.",
+  "ui_version": "v4.5",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 117.0M원 이탈, JTO 782원 하향, ONDO 500원 하향, CFG 412원 하향, FLOCK 102원 하향, SONIC 56.5원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 119.0M원 이탈, SONIC 66원 하향, MOVE 29.5원 하향, MBL 1.72원 하향, SEI 111원 하향, ONDO 610원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
-      "5개 후보 정확히 유지",
-      "대금 1위라도 음수 수익률+저점권이면 후보에서 제외",
-      "후보 5개 중 최소 4개는 당일 양전환 종목으로 유지",
+      "preferred 후보는 정확히 5개 유지",
+      "고거래대금이라도 24시간 음수이면서 일중 위치 40% 미만이면 후보에서 제외",
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지",
-      "신규 리더는 일중 고점 대비 이격이 과도하면 추격 대신 보류"
+      "생존 종목은 필요 시 부분 트림으로만 균등 비중 조정 가능",
+      "후보 5개 중 최소 4개는 당일 양전환 종목으로 유지"
     ],
     "exit_rules": [
-      "BTC 117.0M원 이탈, JTO 782원 하향, ONDO 500원 하향, CFG 412원 하향, FLOCK 102원 하향, SONIC 56.5원 하향 시 즉시 재평가",
+      "BTC 119.0M원 이탈, SONIC 66원 하향, MOVE 29.5원 하향, MBL 1.72원 하향, SEI 111원 하향, ONDO 610원 하향 시 즉시 재평가",
       "top4 majors는 후보 제외 유지",
-      "5개 후보 정확히 유지",
-      "대금 1위라도 음수 수익률+저점권이면 후보에서 제외",
-      "후보 5개 중 최소 4개는 당일 양전환 종목으로 유지",
+      "preferred 후보는 정확히 5개 유지",
+      "고거래대금이라도 24시간 음수이면서 일중 위치 40% 미만이면 후보에서 제외",
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지",
-      "신규 리더는 일중 고점 대비 이격이 과도하면 추격 대신 보류"
+      "생존 종목은 필요 시 부분 트림으로만 균등 비중 조정 가능",
+      "후보 5개 중 최소 4개는 당일 양전환 종목으로 유지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "high with intraday range-position filter",
-    "momentum_discipline": "reject turnover-only losers like B3, prefer green leaders near daily highs",
-    "diversification": "5-way aggressive with one breakout core, two liquidity/trend continuations, one beta slot, one steady support slot",
+    "turnover_focus": "high with explicit loser-rejection bucket",
+    "momentum_discipline": "prefer positive coins with acceptable range position; reject SUI/LAYER/B3 type turnover traps",
+    "diversification": "5-way aggressive with one momentum core, one liquidity anchor, one beta leader, one breakout microcap, and one tight continuation",
     "cash_usage": "100%",
-    "rotation_speed": "high"
+    "rotation_speed": "medium-high with partial rebalance"
   },
   "rotation_map": [
     {
-      "bucket": "ENSO → JTO",
+      "bucket": "JTO → MOVE",
       "symbols": [
-        "ENSO",
-        "JTO"
+        "JTO",
+        "MOVE"
       ],
-      "note": "약해진 옛 상장 테마를 현재 최강 돌파 코어로 교체"
+      "note": "무너진 돌파 코어를 살아 있는 저가 회전 리더로 교체"
     },
     {
-      "bucket": "ZBT → ONDO",
+      "bucket": "CFG → MBL",
       "symbols": [
-        "ZBT",
-        "ONDO"
+        "CFG",
+        "MBL"
       ],
-      "note": "무효화 이탈 리더를 고유동성 지속 강세축으로 교체"
+      "note": "낮은 위치의 옛 추세주를 고가권 종가형 급등주로 교체"
     },
     {
-      "bucket": "MIRA → CFG",
+      "bucket": "FLOCK → SEI",
       "symbols": [
-        "MIRA",
-        "CFG"
+        "FLOCK",
+        "SEI"
       ],
-      "note": "대금이 식은 상장 지속성 슬롯을 신고가권 추세주로 교체"
-    },
-    {
-      "bucket": "MASK → FLOCK",
-      "symbols": [
-        "MASK",
-        "FLOCK"
-      ],
-      "note": "둔화된 중형 순환주를 2차 확장형 고베타 축으로 교체"
+      "note": "보조 베타 슬롯을 고가권 유지형 지속 슬롯으로 교체"
     }
   ],
   "self_evaluation": {
-    "score": 6.7,
-    "summary": "직전 회차는 ENSO·ZBT 잔존 강세를 너무 오래 믿어 현재 리더 전환을 늦게 반영했다. 다행히 SONIC은 유지 명분이 남았지만, 나머지 4종은 유동성 저하를 더 빨리 버렸어야 했다. 이번엔 거래대금과 함께 일중 위치(range position)를 같이 보도록 고쳐 대금 착시를 줄였다."
+    "score": 7.1,
+    "summary": "직전 회차는 SONIC·ONDO를 잡은 점은 괜찮았지만 JTO·CFG·FLOCK의 리더십 약화를 너무 늦게 정리했다. 이번에는 고점 대비 위치가 낮은 기존 보유를 빠르게 제외하고, 생존 종목은 부분 트림으로만 조정해 불필요한 왕복을 줄였다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 13.21,
+    "preferred_avg_change_pct_24h": 9.69,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 223005097743.74304,
-    "leader_turnover_share_pct": 33.87,
-    "leader_symbol": "JTO"
+    "preferred_turnover_total_krw_24h": 248882000000.0,
+    "leader_turnover_share_pct": 36.75,
+    "leader_symbol": "ONDO"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -665,43 +678,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "last_price_krw": 824.0,
-      "threshold_krw": 782.0,
-      "distance_to_invalidation_pct": 5.37,
+      "icon": "🦔",
+      "symbol": "SONIC",
+      "last_price_krw": 70.0,
+      "threshold_krw": 66.0,
+      "distance_to_invalidation_pct": 6.06,
       "status": "healthy"
+    },
+    {
+      "icon": "🪙",
+      "symbol": "MOVE",
+      "last_price_krw": 31.0,
+      "threshold_krw": 29.5,
+      "distance_to_invalidation_pct": 5.08,
+      "status": "healthy"
+    },
+    {
+      "icon": "🪙",
+      "symbol": "MBL",
+      "last_price_krw": 1.83,
+      "threshold_krw": 1.72,
+      "distance_to_invalidation_pct": 6.4,
+      "status": "healthy"
+    },
+    {
+      "icon": "🟥",
+      "symbol": "SEI",
+      "last_price_krw": 113.0,
+      "threshold_krw": 111.0,
+      "distance_to_invalidation_pct": 1.8,
+      "status": "near"
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
-      "last_price_krw": 520.0,
-      "threshold_krw": 500.0,
-      "distance_to_invalidation_pct": 4.0,
-      "status": "near"
-    },
-    {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "last_price_krw": 430.0,
-      "threshold_krw": 412.0,
-      "distance_to_invalidation_pct": 4.37,
-      "status": "near"
-    },
-    {
-      "icon": "🐦",
-      "symbol": "FLOCK",
-      "last_price_krw": 110.0,
-      "threshold_krw": 102.0,
-      "distance_to_invalidation_pct": 7.84,
-      "status": "healthy"
-    },
-    {
-      "icon": "🦔",
-      "symbol": "SONIC",
-      "last_price_krw": 58.5,
-      "threshold_krw": 56.5,
-      "distance_to_invalidation_pct": 3.54,
+      "last_price_krw": 625.0,
+      "threshold_krw": 610.0,
+      "distance_to_invalidation_pct": 2.46,
       "status": "near"
     }
   ],
@@ -712,74 +725,75 @@
   },
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🪂 JTO, 824원, +33.12%, 24h 대금 약 755억원, 일중 고가권 돌파 코어",
-      "2. 🌐 ONDO, 520원, +9.47%, 24h 대금 약 560억원, 고유동성 지속 강세축",
-      "3. 🏗️ CFG, 430원, +7.23%, 24h 대금 약 385억원, 신고가권 추세 슬롯",
-      "4. 🐦 FLOCK, 110원, +13.40%, 24h 대금 약 356억원, 2차 확장 베타 슬롯",
-      "5. 🦔 SONIC, 58.5원, +2.81%, 24h 대금 약 171억원, 구조 보존형 보조 슬롯"
+      "1. 🦔 SONIC, 70원, +10.24%, 24h 대금 약 787억원, 이번 회차 실전 코어",
+      "2. 🏃 MOVE, 31원, +7.64%, 24h 대금 약 446억원, 저가 회전 베타 리더",
+      "3. 🎬 MBL, 1.83원, +28.87%, 24h 대금 약 176억원, 종가권 돌파 슬롯",
+      "4. 🟥 SEI, 113원, +0.89%, 24h 대금 약 165억원, 고가권 유지 지속 슬롯",
+      "5. 🌐 ONDO, 625원, +0.81%, 24h 대금 약 915억원, 낮은 위치지만 남아 있는 유동성 앵커"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: 117.546M원, -1.55%, 일중 저점권이라 공격 강도는 과열 금지",
-      "- ◆ ETH: 3.377M원, -2.17%, 메이저 체온은 아직 차갑다",
-      "- 💧 XRP: 2,044원, -2.15%, 국내 리테일 온도도 둔함",
-      "- ☀️ SOL: 130.0K원, -0.54%, 알트 베타 기반은 완전히 죽진 않음"
+      "- ₿ BTC: 119.700M원, -0.61%, 방향성은 약하지만 패닉은 아님",
+      "- ◆ ETH: 3.437M원, -1.07%, 메이저 체온은 아직 낮다",
+      "- 💧 XRP: 2,153원, -0.23%, 국내 리테일 온도는 무너지지 않았지만 뜨겁지도 않다",
+      "- ☀️ SOL: 140.4K원, -0.71%, 알트 베타 기반은 살아 있으나 확신은 부족"
     ],
-    "🚫 이번 회차에서 뺀 강한 대금 종목": [
-      "- 🧊 B3: 24h 대금 약 1419억원이지만 -12.89%, 일중 저점권이라 제외",
-      "- 🐋 ORCA: 24h 대금 약 701억원이지만 2,350원 재안착 전까지는 관망"
+    "🚫 대금은 큰데 이번엔 뺀 종목": [
+      "- 🌊 SUI: 24h 대금 약 1733억원이지만 -3.07%, 일중 위치 36.4%라 제외",
+      "- 🧊 B3: 24h 대금 약 167억원이지만 -4.15%, 일중 위치 23.1%라 제외",
+      "- 🪂 JTO: 24h 대금 약 63억원, 일중 위치 17.0%로 리더 지위 상실",
+      "- 🏗️ CFG: 24h 대금 약 134억원, -1.99%와 14.6% 위치로 명분 약화"
     ],
     "🚀 공격 포트폴리오 전략": [
       "- 현금 0%, 5종 균등 공격 분산 유지",
-      "- JTO는 돌파 코어, ONDO·CFG는 추세 지속, FLOCK은 고베타 확장, SONIC은 구조 보존 슬롯",
-      "- 메이저가 약해도 업비트 내부 강한 5종은 유지하되, 음수 수익률+저점권 종목은 대금이 커도 제외"
+      "- SONIC은 코어, MOVE는 베타, MBL은 돌파, SEI는 지속, ONDO는 유동성 앵커 역할",
+      "- 고거래대금이라도 24시간 음수 + 일중 위치 40% 미만이면 추격 금지"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL 🌀 ENSO",
-      "- SELL 🧨 ZBT",
-      "- SELL 🪞 MIRA",
-      "- SELL 🎭 MASK",
-      "- BUY 🪂 JTO",
-      "- BUY 🌐 ONDO",
-      "- BUY 🏗️ CFG",
-      "- BUY 🐦 FLOCK",
-      "- BUY 🦔 SONIC 소폭 증액"
+      "- SELL 🪂 JTO 전량",
+      "- SELL 🏗️ CFG 전량",
+      "- SELL 🐦 FLOCK 전량",
+      "- SELL 🌐 ONDO 일부 트림",
+      "- SELL 🦔 SONIC 일부 트림",
+      "- BUY 🏃 MOVE",
+      "- BUY 🎬 MBL",
+      "- BUY 🟥 SEI"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🪂 JTO: 1806.28014652개 @ 평균 824원, 현재 824원",
-      "- 🌐 ONDO: 2862.25930910개 @ 평균 520원, 현재 520원",
-      "- 🏗️ CFG: 3461.33683891개 @ 평균 430원, 현재 430원",
-      "- 🐦 FLOCK: 13530.68037028개 @ 평균 110원, 현재 110원",
-      "- 🦔 SONIC: 25442.30496977개 @ 평균 57.22원, 현재 58.5원",
-      "- 총 평가액: 7,441,874원",
-      "- 실현손익: -2,297,602원",
-      "- 누적 수익률: -25.58%"
+      "- 🦔 SONIC: 22,883.71612466개 @ 평균 57.22원, 현재 70원",
+      "- 🌐 ONDO: 2,562.97620596개 @ 평균 520원, 현재 625원",
+      "- 🏃 MOVE: 51,672.90737826개 @ 평균 31원, 현재 31원",
+      "- 🎬 MBL: 875,333.40367539개 @ 평균 1.83원, 현재 1.83원",
+      "- 🟥 SEI: 14,175.75335156개 @ 평균 113원, 현재 113원",
+      "- 총 평가액: 8,009,301원",
+      "- 실현손익: -2,259,164원",
+      "- 누적 수익률: -19.91%"
     ],
     "🧠 자기 평가": [
-      "- 직전 회차는 ENSO·ZBT 잔존 강세를 너무 오래 믿어 리더 전환 대응이 늦었습니다.",
-      "- 이번엔 대금뿐 아니라 일중 위치(range position)까지 같이 보도록 고쳐 대금 착시를 줄였습니다.",
-      "- SONIC만 유지하고 나머지 4종을 바로 교체한 점은 늦었지만 필요한 수정입니다."
+      "- 직전 회차는 SONIC·ONDO를 남긴 판단은 괜찮았지만 JTO·CFG·FLOCK 정리가 늦었습니다.",
+      "- 이번엔 대금 크기만 보지 않고 음수/저점권을 분리해 버리는 기준을 더 분명하게 적용했습니다.",
+      "- 생존 종목을 전량 재매수하지 않고 일부 트림만 한 점도 불필요한 왕복을 줄이는 개선입니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- range-position 필터를 추가해 B3처럼 대금만 큰 음수 종목을 제외했습니다.",
-      "- dashboard 아이콘에 🪂 JTO, 🌐 ONDO, ⚙️ WLFI, 🧊 B3를 추가했습니다.",
-      "- 후보 데이터에 일중 위치와 고점 이격 정보를 싣도록 대시보드 스키마를 확장했습니다."
+      "- rejected_candidates 버킷을 추가해 SUI·B3 같은 대금 착시 종목을 별도로 표시했습니다.",
+      "- dashboard/status.json에도 rejected_candidates가 실리도록 스크립트를 확장했습니다.",
+      "- 생존 종목은 부분 트림으로만 균등 비중을 맞추는 리밸런싱 규칙을 도입했습니다."
     ],
     "🧾 판단": [
-      "- aggressive but selective rotation into isolated Upbit alt leaders despite weak majors"
+      "- aggressive selective rotation into positive Upbit alt leaders while rejecting high-turnover losers"
     ],
     "🎯 신뢰도": [
       "- medium"
     ],
     "👉 추천 행동": [
-      "- JTO 782원, ONDO 500원, CFG 412원, FLOCK 102원, SONIC 56.5원 하향 시 즉시 재평가",
-      "- ORCA 2,350원 재안착 전까지는 관망, B3는 음전+저점권 해소 전까지 추격 금지",
-      "- WLFI·TRUMP는 공인 서사 참고만, CHIP·XPL은 차순위 대체 후보"
+      "- SONIC 66원, MOVE 29.5원, MBL 1.72원, SEI 111원, ONDO 610원 하향 시 즉시 재평가",
+      "- ICP는 ONDO 대체 1순위, ORCA는 2,500원 재안착 전까지 보류",
+      "- SUI·LAYER·B3처럼 대금만 크고 음수인 종목은 이번 회차 추격 금지"
     ],
     "⚠️ 리스크 메모": [
-      "- 메이저 4종이 모두 약세라 알트 개별 강세가 갑자기 꺼질 수 있습니다.",
-      "- JTO·FLOCK은 급등주라 되돌림 속도가 빠를 수 있습니다.",
-      "- SONIC은 5번째 슬롯일 뿐이라 56.5원 이탈 시 가장 먼저 교체해야 합니다."
+      "- 메이저 4종이 강세 전환을 못 하면 알트 개별 강세가 오래 못 갈 수 있습니다.",
+      "- MBL은 초저가 급등주라 되돌림 속도가 가장 빠를 수 있습니다.",
+      "- ONDO는 대금은 가장 크지만 일중 위치가 낮아 유동성 앵커 명분이 빠르게 훼손될 수 있습니다."
     ]
   }
 }

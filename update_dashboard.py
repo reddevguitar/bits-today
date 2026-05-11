@@ -251,6 +251,7 @@ status = {
         for item in watchlist[:8]
     ],
     'cycle_improvements': improvements[:5],
+    'rejected_candidates': strategy.get('rejected_candidates', [])[:6],
     'top_line': strategy.get('top_line', '6시간 단위 자율 전략 개선 루프 실행 중'),
     'ui_version': strategy.get('ui_version', 'v2'),
     'risk_plan': {**risk_plan, 'exit_rules': risk_exit_rules},

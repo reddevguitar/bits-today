@@ -3,69 +3,69 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -2297601.515055705,
-  "last_valuation_krw": 7441874.203656284,
-  "last_action": "ROTATE_ENSO_ZBT_MIRA_MASK_TO_JTO_ONDO_CFG_FLOCK",
-  "last_updated": "2026-05-08T01:37:00+09:00",
-  "trade_count": 217,
+  "realized_pnl_krw": -2259164.142485142,
+  "last_valuation_krw": 8009300.643629784,
+  "last_action": "ROTATE_JTO_CFG_FLOCK_TO_MOVE_MBL_SEI_TRIM_ONDO_SONIC",
+  "last_updated": "2026-05-11T22:09:00+09:00",
+  "trade_count": 225,
   "positions": {
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 1806.2801465185157,
-      "avg_buy_price_krw": 824.0,
-      "last_price_krw": 824.0,
-      "value_krw": 1488374.8407312569,
-      "thesis": "상위 거래대금과 일중 고가권 유지가 동시에 확인된 최강 돌파 코어",
-      "strategy": "breakout leadership buy",
-      "role": "breakout core",
+    "SONIC": {
+      "market": "KRW-SONIC",
+      "amount": 22883.716124656527,
+      "avg_buy_price_krw": 57.215631992668065,
+      "last_price_krw": 70.0,
+      "value_krw": 1601860.1287259567,
+      "thesis": "대금 2위권과 두 자릿수 상승률이 겹친 업비트 실전 코어",
+      "strategy": "liquidity momentum hold",
+      "role": "liquidity momentum core",
       "risk_limit_pct": 6,
       "profit_take_pct": 14
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 2862.259309098571,
+      "amount": 2562.9762059615305,
       "avg_buy_price_krw": 520.0,
-      "last_price_krw": 520.0,
-      "value_krw": 1488374.8407312569,
-      "thesis": "메이저 약세 속에서도 자금이 붙는 고유동성 상대강도 축",
-      "strategy": "liquidity trend buy",
-      "role": "liquidity continuation",
+      "last_price_krw": 625.0,
+      "value_krw": 1601860.1287259567,
+      "thesis": "일중 위치는 낮아도 압도적 거래대금과 서사 잔존이 있는 유동성 앵커",
+      "strategy": "liquidity anchor hold",
+      "role": "liquidity anchor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
+    },
+    "MOVE": {
+      "market": "KRW-MOVE",
+      "amount": 51672.90737825667,
+      "avg_buy_price_krw": 31.0,
+      "last_price_krw": 31.0,
+      "value_krw": 1601860.1287259567,
+      "thesis": "446억원대 대금이 붙는 저가 회전 리더",
+      "strategy": "rotation beta buy",
+      "role": "rotation beta leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "CFG": {
-      "market": "KRW-CFG",
-      "amount": 3461.3368389098996,
-      "avg_buy_price_krw": 430.0,
-      "last_price_krw": 430.0,
-      "value_krw": 1488374.8407312569,
-      "thesis": "신고가권 테스트가 나온 깔끔한 중형 추세주",
-      "strategy": "clean trend continuation buy",
-      "role": "clean trend slot",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
+    "MBL": {
+      "market": "KRW-MBL",
+      "amount": 875333.4036753862,
+      "avg_buy_price_krw": 1.83,
+      "last_price_krw": 1.83,
+      "value_krw": 1601860.1287259567,
+      "thesis": "95%대 일중 위치를 기록한 초저가 돌파형 모멘텀",
+      "strategy": "late breakout buy",
+      "role": "late breakout slot",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 15
     },
-    "FLOCK": {
-      "market": "KRW-FLOCK",
-      "amount": 13530.680370284153,
-      "avg_buy_price_krw": 110.0,
-      "last_price_krw": 110.0,
-      "value_krw": 1488374.8407312569,
-      "thesis": "거래대금이 따라붙는 고베타 2차 확장 후보",
-      "strategy": "beta continuation buy",
-      "role": "beta rotation slot",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12
-    },
-    "SONIC": {
-      "market": "KRW-SONIC",
-      "amount": 25442.304969765075,
-      "avg_buy_price_krw": 57.215631992668065,
-      "last_price_krw": 58.5,
-      "value_krw": 1488374.8407312569,
-      "thesis": "대금은 줄었지만 아직 양전환과 구조 보존이 남은 보조 지속성 축",
-      "strategy": "steady continuation hold",
-      "role": "steady support slot",
+    "SEI": {
+      "market": "KRW-SEI",
+      "amount": 14175.75335155714,
+      "avg_buy_price_krw": 113.0,
+      "last_price_krw": 113.0,
+      "value_krw": 1601860.1287259567,
+      "thesis": "고가권 유지와 안정적 대금이 확인되는 지속 슬롯",
+      "strategy": "tight continuation buy",
+      "role": "tight continuation slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
     }
@@ -74,52 +74,52 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "117.5M원 붕괴 여부가 알트 공격 지속의 1차 필터"
+      "reason": "119.0M원 이탈 시 알트 공격 강도 축소"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.37M원대 약세라 메이저 체온은 아직 차갑다"
+      "reason": "3.40M원 회복 실패 시 메이저 체온 부진 지속"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,044원대, 국내 리테일 온도 저하 확인용"
+      "reason": "국내 리테일 온도 확인용 기준선"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "130K원선 유지 실패 시 알트 베타 축소 경계"
+      "reason": "140K원대 유지 실패 시 알트 베타 약화 가능성"
+    },
+    {
+      "symbol": "ICP",
+      "market": "KRW-ICP",
+      "reason": "+6.74%와 고가권 유지로 ONDO 대체 1순위"
     },
     {
       "symbol": "ORCA",
       "market": "KRW-ORCA",
-      "reason": "701억원대 대금은 강하지만 2,350원 재안착 전까지는 추격 금지"
+      "reason": "200억원대 대금은 남아 있지만 2,500원 재안착 전까지는 보류"
     },
     {
-      "symbol": "B3",
-      "market": "KRW-B3",
-      "reason": "1419억원대 대금에도 -12.9%라 손절성 과열 가능성 경계"
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "1733억원대 대금에도 -3.07%라 대금 착시 경계"
     },
     {
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "+11.0%와 99억원대 대금으로 정치테마 체온 유지"
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "200억원대 대금이 있지만 일중 위치가 낮아 차순위"
     },
     {
-      "symbol": "TRUMP",
-      "market": "KRW-TRUMP",
-      "reason": "+0.83%와 52억원대 대금, 공인 서사 참고용"
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "reason": "양전환은 했지만 주도권은 SONIC·MOVE보다 약함"
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "110억원대 대금과 일중 고가권 마감으로 차순위 대체 후보"
-    },
-    {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "109억원대 대금과 +4.1%로 보조 순환 후보"
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "63억원대 대금과 17%대 일중 위치로 리더 지위 상실"
     }
   ],
   "history": [
@@ -1031,6 +1031,78 @@
       "amount_delta": 13530.680370284153,
       "cash_delta_krw": -1488374.8407312569,
       "reason": "+13.40%와 356억원대 대금으로 2차 확장 여지가 있는 고베타 순환축"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 738.0,
+      "amount_delta": -1806.2801465185157,
+      "cash_delta_krw": 1333034.7481306647,
+      "reason": "63억원대 대금과 17%대 일중 위치로 돌파 코어 지위를 상실해 MOVE로 교체"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "CFG",
+      "action": "SELL",
+      "price_krw": 444.0,
+      "amount_delta": -3461.3368389098996,
+      "cash_delta_krw": 1536833.5564759953,
+      "reason": "134억원대 대금은 남았지만 -1.99%와 14.6% 위치로 추세주 명분이 약해져 MBL로 교체"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "FLOCK",
+      "action": "SELL",
+      "price_krw": 116.0,
+      "amount_delta": -13530.680370284153,
+      "cash_delta_krw": 1569558.9229529619,
+      "reason": "양전환은 했지만 주도권이 SONIC·MOVE보다 약해 SEI로 교체"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 625.0,
+      "amount_delta": -299.2831031370406,
+      "cash_delta_krw": 187051.93946065038,
+      "reason": "유동성 앵커는 유지하되 5종 균등 공격 분산을 맞추기 위해 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "SONIC",
+      "action": "SELL",
+      "price_krw": 70.0,
+      "amount_delta": -2558.588845108552,
+      "cash_delta_krw": 179101.21915759862,
+      "reason": "핵심 코어는 유지하되 5종 균등 공격 분산을 맞추기 위해 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "MOVE",
+      "action": "BUY",
+      "price_krw": 31.0,
+      "amount_delta": 51672.90737825667,
+      "cash_delta_krw": -1601860.1287259567,
+      "reason": "+7.64%와 446억원대 대금이 동행하는 저가 회전 리더라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "MBL",
+      "action": "BUY",
+      "price_krw": 1.83,
+      "amount_delta": 875333.4036753862,
+      "cash_delta_krw": -1601860.1287259567,
+      "reason": "+28.87%와 95%대 일중 위치가 확인된 초저가 돌파형이라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-11T22:09:00+09:00",
+      "symbol": "SEI",
+      "action": "BUY",
+      "price_krw": 113.0,
+      "amount_delta": 14175.75335155714,
+      "cash_delta_krw": -1601860.1287259567,
+      "reason": "상승률은 얕지만 고가권 유지와 165억원대 대금이 좋아 신규 편입"
     }
   ]
 }
