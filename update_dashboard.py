@@ -88,8 +88,10 @@ def icon_for(symbol):
 def extract_threshold_krw(text):
     if not text:
         return None
-    match = re.search(r'(\d+(?:\.\d+)?)\s*원', str(text))
-    return float(match.group(1)) if match else None
+    match = re.search(r'([\d,]+(?:\.\d+)?)\s*원', str(text))
+    if not match:
+        return None
+    return float(match.group(1).replace(',', ''))
 
 
 def parse_report_sections(text):
