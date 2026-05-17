@@ -2,69 +2,69 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 0.0,
-  "realized_pnl_krw": -3181742.394473514,
-  "last_valuation_krw": 6595421.357913807,
-  "last_action": "SELL_META_ADD_ORCA_REBALANCE_ONDO_OPEN_VVV_SUI",
-  "last_updated": "2026-05-18T00:09:00+09:00",
-  "trade_count": 240,
+  "cash_krw": -0.0,
+  "realized_pnl_krw": -3180106.6516462886,
+  "last_valuation_krw": 6653957.166478876,
+  "last_action": "REBALANCE_OPEN_VVV_TO_ONDO_SUI_ORCA",
+  "last_updated": "2026-05-18T06:08:00+09:00",
+  "trade_count": 245,
   "positions": {
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 2517.336396150308,
+      "amount": 2534.840825325286,
       "avg_buy_price_krw": 520.0,
-      "last_price_krw": 524.0,
-      "value_krw": 1319084.2715827613,
+      "last_price_krw": 525.0,
+      "value_krw": 1330791.4332957752,
       "thesis": "200억원대 거래대금이 유지되고 500원대 초반 지지를 지키는 RWA 유동성 앵커",
-      "strategy": "liquidity anchor rebalance hold",
+      "strategy": "liquidity anchor rebalance add",
       "role": "liquidity anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
     },
     "OPEN": {
       "market": "KRW-OPEN",
-      "amount": 4762.037081526214,
+      "amount": 4685.885328506251,
       "avg_buy_price_krw": 267.0,
-      "last_price_krw": 277.0,
-      "value_krw": 1319084.2715827613,
+      "last_price_krw": 284.0,
+      "value_krw": 1330791.4332957754,
       "thesis": "16%대 상승과 91% 일중 위치가 겹친 업비트 최강 추세 지속 슬롯",
-      "strategy": "breakout continuation rebalance hold",
+      "strategy": "breakout continuation trimmed to target",
       "role": "breakout continuation core",
       "risk_limit_pct": 6,
       "profit_take_pct": 15
     },
     "VVV": {
       "market": "KRW-VVV",
-      "amount": 61.87074444572051,
+      "amount": 61.38336869445457,
       "avg_buy_price_krw": 20980.0,
-      "last_price_krw": 21320.0,
-      "value_krw": 1319084.2715827613,
+      "last_price_krw": 21680.0,
+      "value_krw": 1330791.433295775,
       "thesis": "업비트 상장 후 AI 관심과 높은 거래대금이 아직 유지되는 상장 잔열 모멘텀 슬롯",
-      "strategy": "post-listing AI momentum rebalance hold",
+      "strategy": "post-listing AI momentum trimmed to target",
       "role": "listing momentum slot",
       "risk_limit_pct": 7,
       "profit_take_pct": 16
     },
     "SUI": {
       "market": "KRW-SUI",
-      "amount": 830.6576017523686,
+      "amount": 835.9242671455875,
       "avg_buy_price_krw": 1598.0,
-      "last_price_krw": 1588.0,
-      "value_krw": 1319084.2715827613,
+      "last_price_krw": 1592.0,
+      "value_krw": 1330791.4332957752,
       "thesis": "상승 폭은 크지 않지만 135억원대 거래대금으로 포트폴리오 체급 균형을 잡는 대형 슬롯",
-      "strategy": "liquid beta rebalance hold",
+      "strategy": "liquid beta rebalance add",
       "role": "liquid beta anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
     },
     "ORCA": {
       "market": "KRW-ORCA",
-      "amount": 582.3771618466938,
+      "amount": 588.8457669450332,
       "avg_buy_price_krw": 2265.0,
-      "last_price_krw": 2265.0,
-      "value_krw": 1319084.2715827613,
+      "last_price_krw": 2260.0,
+      "value_krw": 1330791.4332957752,
       "thesis": "243억원대 거래대금으로 음수권을 벗어나 재양전환한 공격 회전 슬롯",
-      "strategy": "turnover recovery buy",
+      "strategy": "turnover recovery rebalance add",
       "role": "turnover recovery slot",
       "risk_limit_pct": 7,
       "profit_take_pct": 14
@@ -92,34 +92,34 @@
       "reason": "127.8K원 하회 시 업비트 알트 추세 둔화 가능성"
     },
     {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "대금은 강하지만 메이저성 밈 베타로 참조만 유지"
+    },
+    {
       "symbol": "META",
       "market": "KRW-META",
-      "reason": "15.8원 회복 전까지는 규율상 관찰만"
+      "reason": "15.8원 재탈환은 했지만 무효화 후 1회차 쿨다운 규율로 관찰만"
     },
     {
       "symbol": "CHZ",
       "market": "KRW-CHZ",
-      "reason": "110억원대 대금의 후속 순환 후보"
+      "reason": "87억원대 대금의 후속 순환 후보"
     },
     {
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "reason": "13%대 상승과 89% 위치의 저대금 가속 후보"
+      "reason": "8.6% 상승의 저대금 AI 가속 후보"
     },
     {
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "reason": "음전환과 10%대 위치로 밀려 대체 2순위로 후퇴"
+      "reason": "대금은 있으나 음수권이라 대체 2순위"
     },
     {
       "symbol": "IRYS",
       "market": "KRW-IRYS",
-      "reason": "최대 대금이지만 -11.7%와 1% 위치라 추격 금지"
-    },
-    {
-      "symbol": "PROS",
-      "market": "KRW-PROS",
-      "reason": "146억원대 대금에도 -6.3%, 7.6% 위치라 제외"
+      "reason": "최대 대금이지만 -13.7%와 9.5% 위치라 추격 금지"
     }
   ],
   "history": [
@@ -1238,6 +1238,51 @@
       "amount_delta": 582.3771618466938,
       "cash_delta_krw": -1319084.2715827613,
       "reason": "243억원대 거래대금과 재양전환을 확인해 META 이탈 자리를 대체하는 공격 회전 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-18T06:08:00+09:00",
+      "symbol": "OPEN",
+      "action": "SELL",
+      "price_krw": 284.0,
+      "amount_delta": -76.1517530199629,
+      "cash_delta_krw": 21627.09785766946,
+      "reason": "OPEN 급등으로 목표 비중을 초과해 ORCA·ONDO·SUI 보강용 일부 차익 실현"
+    },
+    {
+      "timestamp": "2026-05-18T06:08:00+09:00",
+      "symbol": "VVV",
+      "action": "SELL",
+      "price_krw": 21680.0,
+      "amount_delta": -0.4873757512659407,
+      "cash_delta_krw": 10566.306287445594,
+      "reason": "VVV 상장 잔열은 유지하지만 균등 공격 분산을 위해 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-18T06:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 525.0,
+      "amount_delta": 17.504429174978284,
+      "cash_delta_krw": -9189.8253168636,
+      "reason": "거래대금 205억원대와 51% 중단 위치를 반영해 유동성 앵커를 목표 비중으로 복원"
+    },
+    {
+      "timestamp": "2026-05-18T06:08:00+09:00",
+      "symbol": "SUI",
+      "action": "BUY",
+      "price_krw": 1592.0,
+      "amount_delta": 5.266665393218834,
+      "cash_delta_krw": -8384.531306004385,
+      "reason": "메이저 제외 대형 알트 균형축을 5종 균등 기준으로 소폭 보강"
+    },
+    {
+      "timestamp": "2026-05-18T06:08:00+09:00",
+      "symbol": "ORCA",
+      "action": "BUY",
+      "price_krw": 2260.0,
+      "amount_delta": 6.4686050983395145,
+      "cash_delta_krw": -14619.047522247303,
+      "reason": "34% 위치지만 248억원대 대금이 유지돼 회전 공격 슬롯을 균등 비중으로 복원"
     }
   ]
 }
