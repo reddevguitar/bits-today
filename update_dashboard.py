@@ -161,6 +161,15 @@ preferred_turnovers = [item.get('turnover_krw_24h', 0) or 0 for item in preferre
 total_preferred_turnover = sum(preferred_turnovers)
 leader_turnover_share = round((max(preferred_turnovers) / total_preferred_turnover) * 100, 2) if total_preferred_turnover else 0
 leader_symbol = preferred_turnovers.index(max(preferred_turnovers)) if preferred_turnovers else None
+preferred_range_positions = [item.get('range_position_pct', 0) or 0 for item in preferred[:5]]
+preferred_day_high_gaps = [item.get('day_high_gap_pct', 0) or 0 for item in preferred[:5]]
+preferred_setup_quality = {
+    'avg_range_position_pct': round(sum(preferred_range_positions) / len(preferred_range_positions), 2) if preferred_range_positions else 0,
+    'avg_day_high_gap_pct': round(sum(preferred_day_high_gaps) / len(preferred_day_high_gaps), 2) if preferred_day_high_gaps else 0,
+    'above_80_range_count': sum(1 for x in preferred_range_positions if x >= 80),
+    'summary': f"고위치(80%+) 후보 {sum(1 for x in preferred_range_positions if x >= 80)}개 / 평균 위치 {round(sum(preferred_range_positions) / len(preferred_range_positions), 2) if preferred_range_positions else 0}%"
+}
+
 market_breadth = {
     'preferred_avg_change_pct_24h': round(sum(preferred_changes) / len(preferred_changes), 2) if preferred_changes else 0,
     'preferred_positive_count': sum(1 for x in preferred_changes if x > 0),
@@ -298,6 +307,7 @@ status = {
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
     'market_breadth': market_breadth,
+    'preferred_setup_quality': preferred_setup_quality,
     'selection_checks': selection_checks,
     'discipline_alerts': discipline_alerts,
     'candidate_health': candidate_health,
