@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3262896.455597461,
-  "last_valuation_krw": 6490256.831310425,
-  "last_action": "ROTATE_ONDO_ORCA_TO_BIO_CHZ_EQUALIZE",
-  "last_updated": "2026-05-18T12:11:00+09:00",
-  "trade_count": 252,
+  "realized_pnl_krw": -3626037.8436198337,
+  "last_valuation_krw": 6276832.260767368,
+  "last_action": "ROTATE_TRAC_HYPER_TO_KITE_CFG_EQUALIZE",
+  "last_updated": "2026-05-19T00:09:00+09:00",
+  "trade_count": 150,
   "positions": {
     "OPEN": {
       "market": "KRW-OPEN",
-      "amount": 4619.399879936246,
+      "amount": 4049.5692004950756,
       "avg_buy_price_krw": 267.0,
-      "last_price_krw": 281.0,
-      "value_krw": 1298051.3662620853,
-      "thesis": "양수 수익률과 업비트 최상위권 거래대금이 동행하는 핵심 돌파 지속 슬롯",
-      "strategy": "breakout continuation trimmed to target",
+      "last_price_krw": 310.0,
+      "value_krw": 1255366.4521534734,
+      "thesis": "업비트 상장 이후에도 24시간 대금과 고가권 체류가 동시에 살아 있는 최우선 지속 코어",
+      "strategy": "breakout continuation core trimmed to equal target",
       "role": "breakout continuation core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
+    },
+    "KITE": {
+      "market": "KRW-KITE",
+      "amount": 3556.2789012846274,
+      "avg_buy_price_krw": 353.0,
+      "last_price_krw": 353.0,
+      "value_krw": 1255366.4521534734,
+      "thesis": "84.6% 일중 위치와 121억원대 대금이 붙은 신규 고신뢰 확장축",
+      "strategy": "fresh high-conviction breakout new buy",
+      "role": "high-conviction breakout slot",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 13
+    },
+    "CFG": {
+      "market": "KRW-CFG",
+      "amount": 3032.2861163127377,
+      "avg_buy_price_krw": 414.0,
+      "last_price_krw": 414.0,
+      "value_krw": 1255366.4521534734,
+      "thesis": "73.5% 위치와 110억원대 대금이 겹친 중형 추세 지속 슬롯",
+      "strategy": "trend continuation new buy",
+      "role": "trend continuation slot",
       "risk_limit_pct": 6,
       "profit_take_pct": 12
     },
     "VVV": {
       "market": "KRW-VVV",
-      "amount": 61.63586734387868,
+      "amount": 59.38346509713687,
       "avg_buy_price_krw": 20980.327729499466,
-      "last_price_krw": 21060.0,
-      "value_krw": 1298051.366262085,
-      "thesis": "업비트 상장 잔열과 AI 관심이 이어지는 상장 모멘텀 슬롯",
-      "strategy": "listing momentum trimmed to target",
+      "last_price_krw": 21140.0,
+      "value_krw": 1255366.4521534734,
+      "thesis": "업비트 상장 잔열과 AI/프라이버시 서사가 아직 남아 있는 보조 공격축",
+      "strategy": "listing momentum trimmed to equal target",
       "role": "listing momentum slot",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 14
-    },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 826.7843097210732,
-      "avg_buy_price_krw": 1598.0,
-      "last_price_krw": 1570.0,
-      "value_krw": 1298051.366262085,
-      "thesis": "대형 알트 중 가장 높은 일중 위치와 유동성을 동시에 확보한 체급 리더",
-      "strategy": "liquid beta leader trimmed to target",
-      "role": "liquid beta leader",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9
-    },
-    "BIO": {
-      "market": "KRW-BIO",
-      "amount": 22188.912243796327,
-      "avg_buy_price_krw": 58.5,
-      "last_price_krw": 58.5,
-      "value_krw": 1298051.366262085,
-      "thesis": "7%대 강세와 고가권 체류가 겹친 신규 확장 코어",
-      "strategy": "high-momentum expansion new buy",
-      "role": "high-momentum expansion slot",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 15
+      "risk_limit_pct": 6,
+      "profit_take_pct": 12
     },
     "CHZ": {
       "market": "KRW-CHZ",
-      "amount": 18703.910176687103,
+      "amount": 17908.223283216455,
       "avg_buy_price_krw": 69.4,
-      "last_price_krw": 69.4,
-      "value_krw": 1298051.366262085,
-      "thesis": "국내 리테일 친숙도와 양전환 흐름이 살아 있는 회전 슬롯",
-      "strategy": "retail attention rotation new buy",
-      "role": "retail attention rotation slot",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
+      "last_price_krw": 70.1,
+      "value_krw": 1255366.4521534734,
+      "thesis": "신규 상장주 과열 사이에서 상대적으로 안정적인 리테일 회전 수급을 주는 완충축",
+      "strategy": "retail rotation trimmed to equal target",
+      "role": "retail rotation slot",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.2M원 재이탈 시 알트 베타 한 단계 축소"
+      "reason": "113.3M원 저점 재이탈 시 업비트 알트 전반 추가 압축 가능성"
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.128M원 하회 시 메이저 체온 냉각 심화"
+      "reason": "3.12M원 지지 실패 시 메이저 체온 추가 하락"
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,062원 저점 재시험 여부로 국내 리테일 온도 확인"
+      "reason": "2040원 붕괴 시 국내 리테일 위험선호 약화 심화"
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "126.0K원 하회 시 업비트 알트 추세 약화 경계"
+      "reason": "124.5K원 하회 시 알트 베타 축소 가능성"
+    },
+    {
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "637원 현재가는 반등 감시만; 700원 재탈환 전 재진입 금지"
+    },
+    {
+      "symbol": "HYPER",
+      "market": "KRW-HYPER",
+      "reason": "171원 현재가는 구조 약화; 178원 회복 전 관찰만"
+    },
+    {
+      "symbol": "FLOCK",
+      "market": "KRW-FLOCK",
+      "reason": "101원·74.6% 위치 유지 시 CHZ 대체 후보"
+    },
+    {
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "reason": "양수지만 30% 위치라 대금 대비 질이 낮아 관찰만"
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "515원 재회복 전까지는 관찰만, 재양전환 확인 필요"
+      "reason": "29억원대 대금에도 아직 테이프가 둔해 관찰만"
     },
     {
-      "symbol": "ORCA",
-      "market": "KRW-ORCA",
-      "reason": "2210원 재탈환 전까지는 대금 함정 후보로 취급"
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "100% 일중 위치를 유지해 CHZ 약화 시 대체 1순위"
-    },
-    {
-      "symbol": "PROS",
-      "market": "KRW-PROS",
-      "reason": "1080원대 유지와 100억원대 대금이 이어지면 교체 후보"
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "5.6억원대 대금과 91% 위치로 저소음 대체 후보"
-    },
-    {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "96% 위치가 유지되면 후속 AI 순환 후보"
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "713원 부근 저소음 강세 지속 시 VVV 대체 후보"
     }
   ],
   "history": [
@@ -1346,6 +1346,132 @@
       "amount_delta": 18703.910176687103,
       "cash_delta_krw": -1298051.366262085,
       "reason": "양전환과 78.3% 위치, 89억원대 대금이 확인돼 ORCA 대체 회전 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1530.0,
+      "amount_delta": -826.7843097210732,
+      "cash_delta_krw": 1264979.993873242,
+      "reason": "1545원 무효화 기준을 실제 하향했고 16시 이후 거래대금 대비 위치가 4.5%까지 붕괴해 TRAC로 교체"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "BIO",
+      "action": "SELL",
+      "price_krw": 54.6,
+      "amount_delta": -22188.912243796327,
+      "cash_delta_krw": 1211514.6085112796,
+      "reason": "오전 강세가 완전히 식어 0%·15% 위치로 밀렸고 HYPER 대비 확장성이 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "OPEN",
+      "action": "SELL",
+      "price_krw": 287.0,
+      "amount_delta": -125.22498332074065,
+      "cash_delta_krw": 35939.57021305257,
+      "reason": "핵심 코어는 유지하되 TRAC·HYPER 신규 편입 자금을 마련하기 위해 목표 비중까지 트림"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "VVV",
+      "action": "SELL",
+      "price_krw": 21550.0,
+      "amount_delta": -1.783050855310229,
+      "cash_delta_krw": 38424.74593193544,
+      "reason": "상장 잔열은 유지하지만 5종 균등 공격 분산을 위해 일부 차익 실현"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 70.5,
+      "amount_delta": -408.4747819544755,
+      "cash_delta_krw": 28797.47212779052,
+      "reason": "상대강도는 양호해 보유하되 새 리더 2종 편입을 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "TRAC",
+      "action": "BUY",
+      "price_krw": 731.0,
+      "amount_delta": 1764.4708554427498,
+      "cash_delta_krw": -1289828.19532865,
+      "reason": "업비트 신규 상장 효과로 24시간 대금 385억원·상승률 64.6%가 붙은 회차 최우선 리스팅 모멘텀이라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-18T18:08:00+09:00",
+      "symbol": "HYPER",
+      "action": "BUY",
+      "price_krw": 182.0,
+      "amount_delta": 7086.968106201374,
+      "cash_delta_krw": -1289828.19532865,
+      "reason": "16.7% 상승과 78.4% 위치, 133억원대 대금이 동행해 BIO 이탈 자리를 메우는 신규 고베타 축으로 편입"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "TRAC",
+      "action": "SELL",
+      "price_krw": 637.0,
+      "amount_delta": -1764.4708554427498,
+      "cash_delta_krw": 1123967.9349170316,
+      "reason": "931원 고점 대비 -31.6% 되밀림과 690원 무효화 하향이 확인돼 리스팅 모멘텀 코어 가정을 철회"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "HYPER",
+      "action": "SELL",
+      "price_krw": 171.0,
+      "amount_delta": -7086.968106201374,
+      "cash_delta_krw": 1211871.5461604348,
+      "reason": "174원 기준 이탈과 48.6% 위치 후퇴가 겹쳐 고베타 확장축 지위를 상실"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "OPEN",
+      "action": "SELL",
+      "price_krw": 310.0,
+      "amount_delta": -444.60569612042974,
+      "cash_delta_krw": 137827.7657973332,
+      "reason": "핵심 코어는 유지하되 KITE·CFG 신규 편입을 위해 목표 비중까지 트림"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "VVV",
+      "action": "SELL",
+      "price_krw": 21140.0,
+      "amount_delta": -0.46935139143157706,
+      "cash_delta_krw": 9922.08841486354,
+      "reason": "상장 잔열은 유지하지만 균등 공격 분산 복원을 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 70.1,
+      "amount_delta": -387.212111516172,
+      "cash_delta_krw": 27143.56901728366,
+      "reason": "상대강도는 유지하되 신규 추세주 2종 편입 자금을 마련하기 위해 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 353.0,
+      "amount_delta": 3556.2789012846274,
+      "cash_delta_krw": -1255366.4521534734,
+      "reason": "84.6% 위치와 121억원대 대금이 동행하는 회차 최우선 신규 강세축이라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-19T00:09:00+09:00",
+      "symbol": "CFG",
+      "action": "BUY",
+      "price_krw": 414.0,
+      "amount_delta": 3032.2861163127377,
+      "cash_delta_krw": -1255366.4521534734,
+      "reason": "73.5% 위치와 110억원대 대금이 겹친 중형 추세 지속축이라 신규 편입"
     }
   ]
 }

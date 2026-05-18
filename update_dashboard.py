@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import re
+from datetime import datetime, timedelta
 from pathlib import Path
 
 BASE = Path('/Users/reddevguitar/.openclaw/workspace/bits-today')
@@ -67,11 +68,11 @@ ICONS = {
     'B3': '🧊',
     'META': '🏛️',
     'VVV': '🕶️',
-    'OPEN': '📬',
     'SUI': '🌊',
-    'SAHARA': '🏜️',
     'IRYS': '🪻',
-    'PROS': '🧱'
+    'PROS': '🧱',
+    'TRAC': '🧭',
+    'KITE': '🪁'
 }
 
 
@@ -119,6 +120,15 @@ def classify_candidate_health(last_price, threshold):
     return 'healthy', distance_pct
 
 
+def parse_ts(value):
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(str(value))
+    except ValueError:
+        return None
+
+
 reports = sorted(REPORTS.glob('*.md'))
 latest_report = reports[-1] if reports else None
 portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
@@ -130,6 +140,7 @@ watchlist = portfolio.get('watchlist', []) or strategy.get('watchlist', []) or [
 improvements = strategy.get('improvement_log', []) or []
 risk_plan = strategy.get('risk_plan', {}) or {}
 scorecard = strategy.get('scorecard', {}) or {}
+signal_balance = strategy.get('signal_balance', {}) or {}
 rotation_map_raw = strategy.get('rotation_map', []) or []
 self_evaluation = strategy.get('self_evaluation', {}) or {}
 sections = {}
@@ -199,6 +210,20 @@ portfolio_health = {
     'green_position_count': sum(1 for symbol, pos in positions.items() if (pos.get('last_price_krw', 0) or 0) >= (pos.get('avg_buy_price_krw', 0) or 0)),
     'red_position_count': sum(1 for symbol, pos in positions.items() if (pos.get('last_price_krw', 0) or 0) < (pos.get('avg_buy_price_krw', 0) or 0))
 }
+latest_ts = parse_ts(portfolio.get('last_updated')) or max((parse_ts(item.get('timestamp')) for item in history), default=None)
+window_start = latest_ts - timedelta(hours=24) if latest_ts else None
+recent_24h_trades = []
+if window_start:
+    for item in history:
+        ts = parse_ts(item.get('timestamp'))
+        if ts and ts >= window_start:
+            recent_24h_trades.append(item)
+recent_24h_buys = sum(1 for item in recent_24h_trades if item.get('action') == 'BUY')
+recent_24h_sells = sum(1 for item in recent_24h_trades if item.get('action') == 'SELL')
+slot_base = max(len(positions), len(preferred[:5]), 1)
+replacement_count_24h = min(recent_24h_buys, recent_24h_sells)
+portfolio_churn_24h_pct = round((replacement_count_24h / slot_base) * 100, 2)
+recent_rotation_log_24h = recent_24h_trades[-10:][::-1]
 
 status = {
     'project': portfolio.get('project', "bit's today"),
@@ -222,7 +247,11 @@ status = {
         'recent_buy_count': recent_buys,
         'recent_sell_count': recent_sells,
         'recent_rotation_count': min(recent_buys, recent_sells),
-        'recent_trade_actions_24h': sum(1 for item in history if latest_cycle_day and str(item.get('timestamp', '')).startswith(latest_cycle_day))
+        'recent_trade_actions_24h': sum(1 for item in history if latest_cycle_day and str(item.get('timestamp', '')).startswith(latest_cycle_day)),
+        'recent_24h_buy_count': recent_24h_buys,
+        'recent_24h_sell_count': recent_24h_sells,
+        'recent_24h_replacement_count': replacement_count_24h,
+        'portfolio_churn_24h_pct': portfolio_churn_24h_pct
     },
     'summary': [],
     'recent_trades': history[-8:][::-1],
@@ -265,6 +294,7 @@ status = {
     'ui_version': strategy.get('ui_version', 'v2'),
     'risk_plan': {**risk_plan, 'exit_rules': risk_exit_rules},
     'scorecard': scorecard,
+    'signal_balance': signal_balance,
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
     'market_breadth': market_breadth,
@@ -272,6 +302,7 @@ status = {
     'discipline_alerts': discipline_alerts,
     'candidate_health': candidate_health,
     'portfolio_health': portfolio_health,
+    'recent_rotation_log_24h': recent_rotation_log_24h,
     'report_sections': sections,
 }
 
