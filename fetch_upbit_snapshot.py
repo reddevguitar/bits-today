@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import json
-import math
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -11,6 +10,9 @@ OUT.mkdir(exist_ok=True)
 
 TOP4_MAJORS = {'BTC', 'ETH', 'XRP', 'SOL'}
 STABLES = {'USDT', 'USDC', 'USDS', 'USDE', 'USD1'}
+HIGH_CONVICTION_MIN_TURNOVER = 5_000_000_000
+TURNOVER_TRAP_MIN_TURNOVER = 8_000_000_000
+TURNOVER_TRAP_MAX_RANGE_POSITION = 35
 
 
 def get_json(url: str):
@@ -26,7 +28,7 @@ market_codes = [m['market'] for m in krw]
 
 all_tickers = []
 for i in range(0, len(market_codes), 80):
-    chunk = market_codes[i:i+80]
+    chunk = market_codes[i:i + 80]
     all_tickers.extend(get_json('https://api.upbit.com/v1/ticker?markets=' + ','.join(chunk)))
 
 rows = []
@@ -42,7 +44,7 @@ for t in all_tickers:
     day_high_gap_pct = None
     if high:
         day_high_gap_pct = round(((price - high) / high) * 100, 2)
-    row = {
+    rows.append({
         'market': market,
         'symbol': symbol,
         'korean_name': krw_map[market]['korean_name'],
@@ -55,13 +57,23 @@ for t in all_tickers:
         'low_price': low,
         'range_position_pct': range_position_pct,
         'day_high_gap_pct': day_high_gap_pct,
-    }
-    rows.append(row)
+    })
 
 rows.sort(key=lambda x: x['turnover_krw_24h'], reverse=True)
 majors = [r for r in rows if r['symbol'] in TOP4_MAJORS]
 leaders = [r for r in rows if r['symbol'] not in TOP4_MAJORS and r['symbol'] not in STABLES]
 positive = [r for r in leaders if r['change_pct_24h'] > 0]
+high_conviction_positive = [
+    r for r in positive
+    if (r['range_position_pct'] is not None and r['range_position_pct'] >= 70)
+    and r['turnover_krw_24h'] >= HIGH_CONVICTION_MIN_TURNOVER
+]
+turnover_traps = [
+    r for r in leaders
+    if r['turnover_krw_24h'] >= TURNOVER_TRAP_MIN_TURNOVER
+    and r['change_pct_24h'] < 0
+    and (r['range_position_pct'] is not None and r['range_position_pct'] <= TURNOVER_TRAP_MAX_RANGE_POSITION)
+]
 
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
@@ -69,6 +81,8 @@ snapshot = {
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:30],
     'top_positive_alts_by_turnover': positive[:30],
+    'high_conviction_positive_alts': high_conviction_positive[:20],
+    'turnover_trap_alts': turnover_traps[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
@@ -78,4 +92,6 @@ print(json.dumps({
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:15],
     'top_positive_alts_by_turnover': positive[:15],
+    'high_conviction_positive_alts': high_conviction_positive[:10],
+    'turnover_trap_alts': turnover_traps[:10],
 }, ensure_ascii=False, indent=2))
