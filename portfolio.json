@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3307364.491649571,
-  "last_valuation_krw": 6322198.487452228,
-  "last_action": "ROTATE_CFG_ONDO_CHZ_TO_SUI_NEAR_LINK_KEEP_ONT_POLYX",
-  "last_updated": "2026-05-19T18:08:00+09:00",
-  "trade_count": 173,
+  "realized_pnl_krw": -3359728.5933827413,
+  "last_valuation_krw": 6260286.333592073,
+  "last_action": "ROTATE_SUI_NEAR_LINK_TO_SAHARA_HYPER_STORJ_KEEP_ONT_POLYX",
+  "last_updated": "2026-05-20T00:08:00+09:00",
+  "trade_count": 181,
   "positions": {
     "ONT": {
       "market": "KRW-ONT",
-      "amount": 13157.5410769037,
-      "avg_buy_price_krw": 100.87073962540671,
-      "last_price_krw": 96.1,
-      "value_krw": 1264439.6974904456,
-      "thesis": "오후에도 24시간 287억원대 대금과 두 자릿수 상승률을 유지한 업비트 잔존 리더",
-      "strategy": "residual headline leader rebalanced up",
-      "role": "residual headline leader",
+      "amount": 13263.318503373033,
+      "avg_buy_price_krw": 100.81913427605508,
+      "last_price_krw": 94.4,
+      "value_krw": 1252057.2667184144,
+      "thesis": "업비트 최대 대금 잔존 리더로 완전히 꺾이지 않은 코어",
+      "strategy": "residual turnover leader rebalanced up",
+      "role": "residual turnover leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
     "POLYX": {
       "market": "KRW-POLYX",
-      "amount": 15985.331194569477,
+      "amount": 15670.303713622206,
       "avg_buy_price_krw": 80.0,
-      "last_price_krw": 79.1,
-      "value_krw": 1264439.6974904456,
+      "last_price_krw": 79.9,
+      "value_krw": 1252057.2667184144,
       "thesis": "과열 없이 62.5% 위치와 +2.33%를 유지하는 품질형 중형 알트",
       "strategy": "quality continuation kept and equalized",
       "role": "quality continuation slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
     },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 792.7521614360161,
-      "avg_buy_price_krw": 1595.0,
-      "last_price_krw": 1595.0,
-      "value_krw": 1264439.6974904456,
-      "thesis": "메이저 회복 구간에서 가장 큰 유동성을 가진 대형 알트 대안 축",
-      "strategy": "liquidity anchor new buy",
-      "role": "liquidity anchor",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 8
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 22723.362372385014,
+      "avg_buy_price_krw": 55.1,
+      "last_price_krw": 55.1,
+      "value_krw": 1252057.2667184144,
+      "thesis": "AI 테마와 업비트 고점권 체결이 동시에 붙은 새벽 최우선 모멘텀 리더",
+      "strategy": "headline momentum new buy",
+      "role": "headline momentum leader",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 516.9418223591356,
-      "avg_buy_price_krw": 2446.0,
-      "last_price_krw": 2446.0,
-      "value_krw": 1264439.6974904456,
-      "thesis": "69% 위치와 71억원대 대금이 동행하는 품질형 베타 회복주",
-      "strategy": "quality beta new buy",
-      "role": "quality beta slot",
+    "HYPER": {
+      "market": "KRW-HYPER",
+      "amount": 7279.402713479153,
+      "avg_buy_price_krw": 172.0,
+      "last_price_krw": 172.0,
+      "value_krw": 1252057.2667184144,
+      "thesis": "100% 일중 위치를 유지하는 드문 새벽 돌파주",
+      "strategy": "late-session breakout new buy",
+      "role": "late-session breakout slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
+    },
+    "STORJ": {
+      "market": "KRW-STORJ",
+      "amount": 7073.769868465618,
+      "avg_buy_price_krw": 177.0,
+      "last_price_krw": 177.0,
+      "value_krw": 1252057.2667184144,
+      "thesis": "대금 체급이 큰 반등형 슬롯으로 SAHARA·HYPER보다 느리지만 유동성이 충분",
+      "strategy": "high-turnover rebound new buy",
+      "role": "high-turnover rebound slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
-    },
-    "LINK": {
-      "market": "KRW-LINK",
-      "amount": 87.3231835283457,
-      "avg_buy_price_krw": 14480.0,
-      "last_price_krw": 14480.0,
-      "value_krw": 1264439.6974904456,
-      "thesis": "체인 인프라 대표 알트 중 60% 위치와 +1.40%를 지키는 안정적 상대강도",
-      "strategy": "infrastructure strength new buy",
-      "role": "infrastructure strength slot",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 8
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.2M원 아래로 재하락하면 오후 메이저 반등이 실패할 수 있다."
+      "reason": "114.0M원 아래로 밀리면 새벽 선별 강세도 빠르게 약해질 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.16M원 이탈 시 대형 알트 품질 회전 논리가 약해진다."
+      "reason": "3.13M원 이탈 시 알트 전반 위험회피가 재확대될 수 있다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,048원 재이탈 시 국내 리테일 온도 회복이 다시 꺾일 수 있다."
+      "reason": "2,040원선이 무너지면 국내 리테일 온도가 더 식을 수 있다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "126.0K원 하회 시 알트 베타 자체가 다시 눌릴 수 있다."
-    },
-    {
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "reason": "891억원대 대금에도 -10.2%, 19.3% 위치라 여전히 대표적 대금 함정이다."
+      "reason": "125.0K원 하회 시 고베타 슬롯 유지 명분이 약해진다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "610억원대 대금이 있어도 음전환과 24.2% 위치라 추격 금지."
+      "reason": "635억원대 대금에도 5.2% 위치라 대표적 대금 함정이다."
     },
     {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "437원, 35.7% 위치로 오후 추세 유지에 실패했다."
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "262억원대 대금에도 -10.8%, 28.6% 위치라 재추격 금지."
     },
     {
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "reason": "72.7원, 37.5% 위치로 회전은 남아도 최상위 슬롯은 아니다."
+      "symbol": "IRYS",
+      "market": "KRW-IRYS",
+      "reason": "288억원대 대금에도 5.7% 위치로 붕괴형 함정이다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "182억원대 대금은 좋지만 42.1% 위치라 재가속 확인이 더 필요하다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "대금은 크지만 28.2% 위치라 체급만으로 버티는지 추가 확인이 필요하다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "219원 보합권이지만 220원대 회복 시 LINK 대체 후보가 될 수 있다."
+      "symbol": "ONG",
+      "market": "KRW-ONG",
+      "reason": "ONT 연동 관심은 남았지만 43.7% 위치라 톱5 직전 대기 후보다."
+    },
+    {
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "71.4% 위치가 깔끔해 STORJ 대체용 품질 후보로 관찰할 만하다."
     }
   ],
   "history": [
@@ -1679,6 +1679,78 @@
       "amount_delta": 87.3231835283457,
       "cash_delta_krw": -1264439.6974904456,
       "reason": "과열되지 않은 +1.40% 양전환과 66억원대 대금으로 5번째 품질 슬롯 적합"
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1584.0,
+      "amount_delta": -792.7521614360161,
+      "cash_delta_krw": 1255719.4237146494,
+      "reason": "양수는 간신히 지켰지만 28.2% 위치까지 밀려 새벽 리더 슬롯에서 제외"
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 2414.0,
+      "amount_delta": -516.9418223591356,
+      "cash_delta_krw": 1247897.5591749533,
+      "reason": "45.5% 위치와 약보합으로 둔화돼 더 강한 녹색 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "LINK",
+      "action": "SELL",
+      "price_krw": 14170.0,
+      "amount_delta": -87.3231835283457,
+      "cash_delta_krw": 1237369.5105966586,
+      "reason": "17.5% 위치와 음전환으로 무효화 성격이 강해져 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "POLYX",
+      "action": "SELL",
+      "price_krw": 79.9,
+      "amount_delta": -315.02748094726985,
+      "cash_delta_krw": 25170.695727686863,
+      "reason": "품질 축은 유지하되 5종 균등 공격 분산을 위해 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "ONT",
+      "action": "BUY",
+      "price_krw": 94.4,
+      "amount_delta": 105.77742646933213,
+      "cash_delta_krw": -9985.389058704954,
+      "reason": "잔존 리더 비중을 5종 균등 기준으로 소폭 증액"
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 55.1,
+      "amount_delta": 22723.362372385014,
+      "cash_delta_krw": -1252057.2667184144,
+      "reason": "13.37% 상승과 279억원대 대금, 92.2% 위치가 겹친 이번 회차 최우선 AI 모멘텀 리더다."
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "HYPER",
+      "action": "BUY",
+      "price_krw": 172.0,
+      "amount_delta": 7279.402713479153,
+      "cash_delta_krw": -1252057.2667184144,
+      "reason": "+3.61%와 100% 위치, 55억원대 대금이 확인돼 새벽 드문 고위치 돌파 슬롯이다."
+    },
+    {
+      "timestamp": "2026-05-20T00:08:00+09:00",
+      "symbol": "STORJ",
+      "action": "BUY",
+      "price_krw": 177.0,
+      "amount_delta": 7073.769868465618,
+      "cash_delta_krw": -1252057.2667184144,
+      "reason": "129억원대 대금과 +6.63% 회복이 겹쳐 약한 메이저 대신 잡을 수 있는 5번째 고유동성 슬롯이다."
     }
   ]
 }

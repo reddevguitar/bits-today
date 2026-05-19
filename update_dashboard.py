@@ -75,7 +75,12 @@ ICONS = {
     'KITE': '🪁',
     'ONT': '🧠',
     'POLYX': '🧪',
-    'FF': '🦅'
+    'FF': '🦅',
+    'NEAR': '🌉',
+    'LINK': '🔗',
+    'ONG': '⛽',
+    'STORJ': '🗄️',
+    'LAYER': '🧱'
 }
 
 
