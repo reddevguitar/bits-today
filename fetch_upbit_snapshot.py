@@ -13,6 +13,8 @@ STABLES = {'USDT', 'USDC', 'USDS', 'USDE', 'USD1'}
 HIGH_CONVICTION_MIN_TURNOVER = 5_000_000_000
 TURNOVER_TRAP_MIN_TURNOVER = 8_000_000_000
 TURNOVER_TRAP_MAX_RANGE_POSITION = 35
+RESILIENT_POSITIVE_MIN_TURNOVER = 6_000_000_000
+RESILIENT_POSITIVE_MIN_RANGE_POSITION = 55
 
 
 def get_json(url: str):
@@ -68,6 +70,11 @@ high_conviction_positive = [
     if (r['range_position_pct'] is not None and r['range_position_pct'] >= 70)
     and r['turnover_krw_24h'] >= HIGH_CONVICTION_MIN_TURNOVER
 ]
+resilient_positive = [
+    r for r in positive
+    if (r['range_position_pct'] is not None and r['range_position_pct'] >= RESILIENT_POSITIVE_MIN_RANGE_POSITION)
+    and r['turnover_krw_24h'] >= RESILIENT_POSITIVE_MIN_TURNOVER
+]
 turnover_traps = [
     r for r in leaders
     if r['turnover_krw_24h'] >= TURNOVER_TRAP_MIN_TURNOVER
@@ -82,6 +89,7 @@ snapshot = {
     'top_alt_leaders_by_turnover': leaders[:30],
     'top_positive_alts_by_turnover': positive[:30],
     'high_conviction_positive_alts': high_conviction_positive[:20],
+    'resilient_positive_alts': resilient_positive[:20],
     'turnover_trap_alts': turnover_traps[:20],
 }
 
@@ -93,5 +101,6 @@ print(json.dumps({
     'top_alt_leaders_by_turnover': leaders[:15],
     'top_positive_alts_by_turnover': positive[:15],
     'high_conviction_positive_alts': high_conviction_positive[:10],
+    'resilient_positive_alts': resilient_positive[:10],
     'turnover_trap_alts': turnover_traps[:10],
 }, ensure_ascii=False, indent=2))
