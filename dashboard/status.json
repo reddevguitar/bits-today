@@ -1,79 +1,131 @@
 {
   "project": "bit's today",
-  "judgment": "selective aggressive into isolated Upbit green leaders while majors stay soft",
-  "confidence": "medium-low",
+  "judgment": "aggressive selective into high-range Upbit continuations while BTC stabilizes and XRP stays weak",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-05-20 00:08 KST",
-  "market_status": "메이저는 다시 약해졌고, 업비트 알트는 SAHARA·ONT·HYPER 같은 소수 녹색 리더만 살아남는 매우 좁은 장세입니다.",
+  "updated_at": "2026-05-20 06:08 KST",
+  "market_status": "BTC는 회복했지만 XRP는 여전히 약해, 장 전체 추격보다 고위치 지속 알트만 공격하는 혼조 회복 장세입니다.",
   "fear_greed": "25 (Extreme Fear, alternative.me 기준)",
-  "btc_snapshot": "BTC 114.09M원대, ETH 3.144M원대, XRP 2,042원대, SOL 125.6K원대",
+  "btc_snapshot": "BTC 114.784M원대, ETH 3.159M원대, XRP 2,032원대, SOL 126.0K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-3,359,729 KRW",
-  "last_valuation_krw": "6,260,286 KRW",
+  "realized_pnl_krw": "-3,372,679 KRW",
+  "last_valuation_krw": "6,310,146 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -37.4,
-  "last_action": "ROTATE_SUI_NEAR_LINK_TO_SAHARA_HYPER_STORJ_KEEP_ONT_POLYX",
-  "trade_count": 181,
-  "last_updated": "2026-05-20T00:08:00+09:00",
+  "return_pct": -36.9,
+  "last_action": "ROTATE_STORJ_TO_OPEN_REBALANCE_ONT_POLYX_SAHARA_HYPER",
+  "trade_count": 187,
+  "last_updated": "2026-05-20T06:08:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 19,
-    "recent_sell_count": 21,
-    "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 8,
-    "recent_24h_buy_count": 17,
-    "recent_24h_sell_count": 21,
-    "recent_24h_replacement_count": 17,
-    "portfolio_churn_24h_pct": 340.0
+    "recent_buy_count": 20,
+    "recent_sell_count": 20,
+    "recent_rotation_count": 20,
+    "recent_trade_actions_24h": 14,
+    "recent_24h_buy_count": 18,
+    "recent_24h_sell_count": 19,
+    "recent_24h_replacement_count": 18,
+    "portfolio_churn_24h_pct": 360.0
   },
   "summary": [
-    "₿ BTC: -0.23%, 위치 30.8%",
-    "◆ ETH: -0.54%, 위치 28.4%",
-    "💧 XRP: -1.02%, 위치 21.4%",
-    "☀️ SOL: -0.87%, 위치 23.1%",
-    "해석: 메이저 4종이 모두 중단 아래라 broad 알트 추격은 불리합니다.",
-    "🌐 ONDO: 635억원대 대금에도 -6.10%, 5.2% 위치",
-    "🧭 TRAC: 262억원대 대금에도 -10.83%, 28.6% 위치",
-    "🪻 IRYS: 288억원대 대금에도 -7.21%, 5.7% 위치",
-    "🌊 SUI: 대금은 크지만 28.2% 위치라 톱5 탈락",
-    "🌉 NEAR: 약보합·45.5% 위치로 둔화",
-    "🔗 LINK: 17.5% 위치·음전환으로 무효화 성격",
+    "₿ BTC: +0.40%, 위치 80.2%",
+    "◆ ETH: -0.06%, 위치 50.7%",
+    "💧 XRP: -1.60%, 위치 15.7%",
+    "☀️ SOL: -0.55%, 위치 38.5%",
+    "해석: BTC는 살아났지만 XRP·SOL이 약해 broad 알트 추격은 아직 이릅니다.",
+    "🗄️ STORJ: +5.42%지만 37.0% 위치로 구조 둔화",
+    "🌐 ONDO: 644억원대 대금에도 -5.75%, 8.6% 위치",
+    "🪻 IRYS: 257억원대 대금에도 -6.84%, 25.0% 위치",
+    "🧭 TRAC: 174억원대 대금에도 -11.62%, 23.8% 위치",
+    "🌊 SUI: 216억원대 대금은 좋지만 33.3% 위치라 톱5 탈락",
+    "🕶️ VVV: 강하지만 최근 상장 과열 잔재로 추격 대신 watchlist 상단 유지",
     "현금 0%, 5종 균등 공격 분산 유지",
-    "broad quality basket 대신 실제 녹색 유지 종목만 남김",
-    "SAHARA·HYPER는 공격축, ONT·POLYX는 잔존/품질축, STORJ는 반등 유동성축",
-    "SELL 🌊 SUI 전량",
-    "SELL 🌉 NEAR 전량",
-    "SELL 🔗 LINK 전량",
-    "SELL 🧪 POLYX 일부 트림",
+    "반등형보다 고위치 지속형 비중 확대",
+    "SAHARA·HYPER는 공격축, ONT는 대금 코어, OPEN·POLYX는 지속/품질축",
+    "SELL 🗄️ STORJ 전량",
+    "SELL 🏜️ SAHARA 일부 차익 실현",
+    "SELL ⚛️ HYPER 일부 트림",
     "BUY 🧠 ONT 소폭 증액",
-    "BUY 🏜️ SAHARA 신규 편입",
-    "BUY ⚛️ HYPER 신규 편입",
-    "BUY 🗄️ STORJ 신규 편입",
+    "BUY 🧪 POLYX 소폭 증액",
+    "BUY 📬 OPEN 신규 편입",
     "현금: 0원",
-    "🧠 ONT: 13,263.31850337개 @ 평균 100.82원, 현재 94.4원",
-    "🧪 POLYX: 15,670.30371362개 @ 평균 80원, 현재 79.9원",
-    "🏜️ SAHARA: 22,723.36237239개 @ 평균 55.1원, 현재 55.1원",
-    "⚛️ HYPER: 7,279.40271348개 @ 평균 172원, 현재 172원",
-    "🗄️ STORJ: 7,073.76986847개 @ 평균 177원, 현재 177원",
-    "총 평가액: 6,260,286원",
-    "실현손익: -3,359,729원",
-    "누적 수익률: -37.40%",
-    "18시 품질형 전환은 맞았지만 메이저 재약세가 오자 SUI·NEAR·LINK를 더 빨리 줄였어야 했습니다.",
-    "이번엔 broad quality보다 실제 녹색 유지 여부를 우선해 대응 속도를 높였습니다.",
-    "`fetch_upbit_snapshot.py`에 `quality_recovery_alts` 버킷을 추가해 고확신 후보가 적은 장에서도 2차 후보를 바로 보이게 했습니다.",
-    "대시보드 아이콘 매핑에 NEAR·LINK·ONG·STORJ·LAYER를 추가해 가독성을 높였습니다.",
-    "메이저 4종이 모두 중단 아래일 때 음수·저위치 대금주를 더 강하게 배제하도록 규율을 강화했습니다.",
-    "selective aggressive into isolated Upbit green leaders while majors stay soft",
-    "medium-low",
-    "SAHARA 53.6원, ONT 92.0원, POLYX 78.2원, HYPER 168원, STORJ 172원 하향 시 즉시 재평가",
-    "BTC 114.0M원 이탈 시 포트폴리오 전반 재점검",
-    "ONDO·TRAC·IRYS는 대금이 커도 저위치 음수면 재추격 금지",
-    "메이저 4종이 모두 약해 follow-through 실패 가능성이 큽니다.",
-    "SAHARA·HYPER는 이미 고점권이라 되밀림 속도도 빠를 수 있습니다.",
-    "ONT는 대금은 가장 크지만 고점 대비 눌림이 큰 잔존 리더입니다.",
-    "STORJ는 5번째 슬롯 중 가장 약해 가장 먼저 교체될 수 있습니다."
+    "🧠 ONT: 13440.13974519개 @ 평균 100.73원, 현재 93.9원",
+    "🧪 POLYX: 15736.02396601개 @ 평균 80.0008원, 현재 80.2원",
+    "🏜️ SAHARA: 22376.40287365개 @ 평균 55.1원, 현재 56.4원",
+    "⚛️ HYPER: 7130.10803432개 @ 평균 172원, 현재 177원",
+    "📬 OPEN: 3824.33067295개 @ 평균 330원, 현재 330원",
+    "총 평가액: 6,310,146원",
+    "실현손익: -3,372,679원",
+    "누적 수익률: -36.90%",
+    "00시 회차에서 STORJ를 너무 오래 둔 것은 아쉬웠습니다.",
+    "이번에는 BTC 회복을 반영해 반등형 대신 OPEN 지속형으로 교체하며 대응 속도를 높였습니다.",
+    "대시보드에 `scenario_view`를 추가해 메이저 체력 vs 알트 지속 구간을 한눈에 보이게 했습니다.",
+    "BTC 고위치 회복 시 반등형보다 고위치 지속형을 우선하는 규율을 명문화했습니다.",
+    "VVV 같은 과열 잔재 후보를 watchlist 상단으로 분리해 FOMO 진입을 줄였습니다.",
+    "aggressive selective into high-range Upbit continuations while BTC stabilizes and XRP stays weak",
+    "medium",
+    "SAHARA 54.8원, ONT 91.8원, OPEN 322원, POLYX 79.0원, HYPER 173원 하향 시 즉시 재평가",
+    "BTC 114.2M원 이탈 시 이번 지속형 바스켓 전체 재점검",
+    "ONDO·IRYS·TRAC은 대금이 커도 저위치 음수면 재추격 금지",
+    "BTC만 강하고 XRP가 약해 장 전체 확산은 아직 약합니다.",
+    "SAHARA·OPEN·HYPER는 고위치라 좋은 대신 되밀림 속도도 빠를 수 있습니다.",
+    "ONT는 최대 대금 코어지만 고점 대비 눌림이 커서 실패 시 흔들림이 클 수 있습니다.",
+    "VVV는 강하지만 상장 잔열 과열이 남아 있어 추격보다 대체 후보로 보는 편이 낫습니다."
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "OPEN",
+      "action": "BUY",
+      "price_krw": 330.0,
+      "amount_delta": 3824.33067295093,
+      "cash_delta_krw": -1262029.1220738068,
+      "reason": "4.43% 상승과 82.9% 위치, 88억원대 대금이 겹쳐 STORJ 대체 최우선 지속형 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "POLYX",
+      "action": "BUY",
+      "price_krw": 80.2,
+      "amount_delta": 65.72025238536878,
+      "cash_delta_krw": -5270.764241306577,
+      "reason": "품질 지속축을 5종 균등 기준으로 소폭 증액"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "ONT",
+      "action": "BUY",
+      "price_krw": 93.9,
+      "amount_delta": 176.82124182193354,
+      "cash_delta_krw": -16603.51460707956,
+      "reason": "최대 양전환 대금 코어를 5종 균등 공격 분산 기준까지 소폭 보강"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "HYPER",
+      "action": "SELL",
+      "price_krw": 177.0,
+      "amount_delta": -149.2946791638565,
+      "cash_delta_krw": 26425.1582120026,
+      "reason": "돌파 슬롯은 유지하되 OPEN 신규 편입 자금을 위해 목표 비중까지 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 56.4,
+      "amount_delta": -346.95949873594316,
+      "cash_delta_krw": 19568.515728707192,
+      "reason": "최강 모멘텀은 유지하되 OPEN 편입과 5종 균등 공격 분산을 위해 일부 차익 실현"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "STORJ",
+      "action": "SELL",
+      "price_krw": 175.0,
+      "amount_delta": -7073.769868465618,
+      "cash_delta_krw": 1237909.7269814832,
+      "reason": "135억원대 대금은 남았지만 37% 위치로 구조가 둔해 더 강한 지속형 OPEN으로 전량 교체"
+    },
     {
       "timestamp": "2026-05-20T00:08:00+09:00",
       "symbol": "STORJ",
@@ -91,63 +143,13 @@
       "amount_delta": 7279.402713479153,
       "cash_delta_krw": -1252057.2667184144,
       "reason": "+3.61%와 100% 위치, 55억원대 대금이 확인돼 새벽 드문 고위치 돌파 슬롯이다."
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "SAHARA",
-      "action": "BUY",
-      "price_krw": 55.1,
-      "amount_delta": 22723.362372385014,
-      "cash_delta_krw": -1252057.2667184144,
-      "reason": "13.37% 상승과 279억원대 대금, 92.2% 위치가 겹친 이번 회차 최우선 AI 모멘텀 리더다."
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "ONT",
-      "action": "BUY",
-      "price_krw": 94.4,
-      "amount_delta": 105.77742646933213,
-      "cash_delta_krw": -9985.389058704954,
-      "reason": "잔존 리더 비중을 5종 균등 기준으로 소폭 증액"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "POLYX",
-      "action": "SELL",
-      "price_krw": 79.9,
-      "amount_delta": -315.02748094726985,
-      "cash_delta_krw": 25170.695727686863,
-      "reason": "품질 축은 유지하되 5종 균등 공격 분산을 위해 일부 트림"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "LINK",
-      "action": "SELL",
-      "price_krw": 14170.0,
-      "amount_delta": -87.3231835283457,
-      "cash_delta_krw": 1237369.5105966586,
-      "reason": "17.5% 위치와 음전환으로 무효화 성격이 강해져 전량 교체"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "NEAR",
-      "action": "SELL",
-      "price_krw": 2414.0,
-      "amount_delta": -516.9418223591356,
-      "cash_delta_krw": 1247897.5591749533,
-      "reason": "45.5% 위치와 약보합으로 둔화돼 더 강한 녹색 슬롯으로 교체"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "SUI",
-      "action": "SELL",
-      "price_krw": 1584.0,
-      "amount_delta": -792.7521614360161,
-      "cash_delta_krw": 1255719.4237146494,
-      "reason": "양수는 간신히 지켰지만 28.2% 위치까지 밀려 새벽 리더 슬롯에서 제외"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-20-0608.md",
+      "title": "2026-05-20-0608"
+    },
     {
       "file": "2026-05-20-0008.md",
       "title": "2026-05-20-0008"
@@ -175,10 +177,6 @@
     {
       "file": "2026-05-18-1211.md",
       "title": "2026-05-18-1211"
-    },
-    {
-      "file": "2026-05-18-0608.md",
-      "title": "2026-05-18-0608"
     }
   ],
   "positions": [
@@ -186,72 +184,72 @@
       "icon": "🧠",
       "symbol": "ONT",
       "market": "KRW-ONT",
-      "amount": 13263.318503373033,
+      "amount": 13440.139745194967,
       "avg_buy_price_krw": "101 KRW",
       "last_price_krw": "94 KRW",
-      "thesis": "업비트 최대 대금 잔존 리더로 완전히 꺾이지 않은 코어",
-      "strategy": "residual turnover leader rebalanced up",
+      "thesis": "업비트 최대 양전환 대금주지만 고점 대비 눌림이 커서 잔존 리더 여부를 계속 검증해야 하는 코어",
+      "strategy": "residual turnover leader topped up",
       "role": "residual turnover leader",
       "risk_limit_pct": 5,
-      "profit_take_pct": 12,
-      "pnl_krw": "-85,139 KRW",
-      "pnl_pct": -6.37
+      "profit_take_pct": 11,
+      "pnl_krw": "-91,771 KRW",
+      "pnl_pct": -6.78
     },
     {
       "icon": "🧪",
       "symbol": "POLYX",
       "market": "KRW-POLYX",
-      "amount": 15670.303713622206,
+      "amount": 15736.023966007575,
       "avg_buy_price_krw": "80 KRW",
       "last_price_krw": "80 KRW",
-      "thesis": "과열 없이 62.5% 위치와 +2.33%를 유지하는 품질형 중형 알트",
-      "strategy": "quality continuation kept and equalized",
+      "thesis": "과열 없이 76.6% 위치를 지키는 품질형 지속 슬롯",
+      "strategy": "quality continuation topped up",
       "role": "quality continuation slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 9,
-      "pnl_krw": "-1,567 KRW",
-      "pnl_pct": -0.12
+      "pnl_krw": "3,134 KRW",
+      "pnl_pct": 0.25
     },
     {
       "icon": "🏜️",
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "amount": 22723.362372385014,
+      "amount": 22376.402873649073,
       "avg_buy_price_krw": "55 KRW",
-      "last_price_krw": "55 KRW",
-      "thesis": "AI 테마와 업비트 고점권 체결이 동시에 붙은 새벽 최우선 모멘텀 리더",
-      "strategy": "headline momentum new buy",
+      "last_price_krw": "56 KRW",
+      "thesis": "AI 서사와 업비트 고점권 체결이 동시에 붙은 최우선 모멘텀 리더",
+      "strategy": "headline momentum trimmed to equalize",
       "role": "headline momentum leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 12,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "pnl_krw": "29,089 KRW",
+      "pnl_pct": 2.36
     },
     {
       "icon": "⚛️",
       "symbol": "HYPER",
       "market": "KRW-HYPER",
-      "amount": 7279.402713479153,
+      "amount": 7130.108034315296,
       "avg_buy_price_krw": "172 KRW",
-      "last_price_krw": "172 KRW",
-      "thesis": "100% 일중 위치를 유지하는 드문 새벽 돌파주",
-      "strategy": "late-session breakout new buy",
+      "last_price_krw": "177 KRW",
+      "thesis": "88%대 위치를 유지하는 드문 새벽-아침 연속 돌파주",
+      "strategy": "late-session breakout trimmed to equalize",
       "role": "late-session breakout slot",
       "risk_limit_pct": 5,
       "profit_take_pct": 11,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "pnl_krw": "35,651 KRW",
+      "pnl_pct": 2.91
     },
     {
-      "icon": "🗄️",
-      "symbol": "STORJ",
-      "market": "KRW-STORJ",
-      "amount": 7073.769868465618,
-      "avg_buy_price_krw": "177 KRW",
-      "last_price_krw": "177 KRW",
-      "thesis": "대금 체급이 큰 반등형 슬롯으로 SAHARA·HYPER보다 느리지만 유동성이 충분",
-      "strategy": "high-turnover rebound new buy",
-      "role": "high-turnover rebound slot",
+      "icon": "📬",
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "amount": 3824.33067295093,
+      "avg_buy_price_krw": "330 KRW",
+      "last_price_krw": "330 KRW",
+      "thesis": "82.9% 위치와 88억원대 대금이 동시에 남아 있는 깔끔한 지속형 구조",
+      "strategy": "high-range continuation new buy",
+      "role": "clean continuation slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 10,
       "pnl_krw": "0 KRW",
@@ -259,24 +257,33 @@
     }
   ],
   "chart_series": {
-    "KITE": [
+    "OPEN": [
       {
-        "timestamp": "2026-05-19T06:08:00+09:00",
-        "price_krw": 355.0,
-        "action": "BUY"
+        "timestamp": "2026-05-19T12:08:00+09:00",
+        "price_krw": 304.0,
+        "action": "SELL"
       },
+      {
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 330.0,
+        "action": "BUY"
+      }
+    ],
+    "KITE": [
       {
         "timestamp": "2026-05-19T12:08:00+09:00",
         "price_krw": 339.0,
         "action": "SELL"
       }
     ],
-    "CFG": [
+    "FLOCK": [
       {
-        "timestamp": "2026-05-19T06:08:00+09:00",
-        "price_krw": 419.0,
-        "action": "BUY"
-      },
+        "timestamp": "2026-05-19T12:08:00+09:00",
+        "price_krw": 101.0,
+        "action": "SELL"
+      }
+    ],
+    "CFG": [
       {
         "timestamp": "2026-05-19T12:08:00+09:00",
         "price_krw": 447.0,
@@ -288,48 +295,7 @@
         "action": "SELL"
       }
     ],
-    "VVV": [
-      {
-        "timestamp": "2026-05-19T06:08:00+09:00",
-        "price_krw": 21480.0,
-        "action": "SELL"
-      }
-    ],
-    "CHZ": [
-      {
-        "timestamp": "2026-05-19T06:08:00+09:00",
-        "price_krw": 72.1,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-19T12:08:00+09:00",
-        "price_krw": 73.5,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-19T18:08:00+09:00",
-        "price_krw": 72.7,
-        "action": "SELL"
-      }
-    ],
-    "FLOCK": [
-      {
-        "timestamp": "2026-05-19T06:08:00+09:00",
-        "price_krw": 104.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-19T12:08:00+09:00",
-        "price_krw": 101.0,
-        "action": "SELL"
-      }
-    ],
     "ONDO": [
-      {
-        "timestamp": "2026-05-19T06:08:00+09:00",
-        "price_krw": 522.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-19T12:08:00+09:00",
         "price_krw": 581.0,
@@ -338,13 +304,6 @@
       {
         "timestamp": "2026-05-19T18:08:00+09:00",
         "price_krw": 569.0,
-        "action": "SELL"
-      }
-    ],
-    "OPEN": [
-      {
-        "timestamp": "2026-05-19T12:08:00+09:00",
-        "price_krw": 304.0,
         "action": "SELL"
       }
     ],
@@ -363,6 +322,23 @@
         "timestamp": "2026-05-20T00:08:00+09:00",
         "price_krw": 94.4,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 93.9,
+        "action": "BUY"
+      }
+    ],
+    "CHZ": [
+      {
+        "timestamp": "2026-05-19T12:08:00+09:00",
+        "price_krw": 73.5,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-19T18:08:00+09:00",
+        "price_krw": 72.7,
+        "action": "SELL"
       }
     ],
     "POLYX": [
@@ -380,6 +356,11 @@
         "timestamp": "2026-05-20T00:08:00+09:00",
         "price_krw": 79.9,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 80.2,
+        "action": "BUY"
       }
     ],
     "SUI": [
@@ -423,6 +404,11 @@
         "timestamp": "2026-05-20T00:08:00+09:00",
         "price_krw": 55.1,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 56.4,
+        "action": "SELL"
       }
     ],
     "HYPER": [
@@ -430,6 +416,11 @@
         "timestamp": "2026-05-20T00:08:00+09:00",
         "price_krw": 172.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 177.0,
+        "action": "SELL"
       }
     ],
     "STORJ": [
@@ -437,95 +428,100 @@
         "timestamp": "2026-05-20T00:08:00+09:00",
         "price_krw": 177.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 175.0,
+        "action": "SELL"
       }
     ]
   },
-  "latest_report_file": "2026-05-20-0008.md",
+  "latest_report_file": "2026-05-20-0608.md",
   "preferred_buy_candidates": [
     {
       "icon": "🏜️",
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "price_krw": 55.1,
-      "change_pct_24h": 13.3744856,
-      "turnover_krw_24h": 27895248234.431786,
-      "reason": "13.37% 상승과 279억원대 대금, 92.2% 위치가 겹친 이번 회차 최우선 AI 모멘텀 리더다.",
-      "score": 9.4,
-      "community": "업비트 보드에서 가장 깔끔한 고점권 유지와 AI 테마 관심이 동시에 붙어 있다",
-      "risk": "53.6원 하회 시 고점권 유지 가정 약화",
-      "allocation_krw": 1252057.2667184144,
+      "price_krw": 56.4,
+      "change_pct_24h": 16.04938272,
+      "turnover_krw_24h": 31051505650.5511,
+      "reason": "16.05% 상승과 311억원대 대금, 95.5% 위치가 겹친 이번 회차 최우선 모멘텀 리더다.",
+      "score": 9.6,
+      "community": "업비트 보드에서 가장 강한 AI 리더로 95.5% 고위치와 대금 확대가 동시에 유지된다",
+      "risk": "54.8원 하회 시 고점 유지 실패",
+      "allocation_krw": 1262029.1220738075,
       "role": "headline momentum leader",
-      "invalidated_if": "53.6원 하회 시",
-      "range_position_pct": 92.2,
-      "day_high_gap_pct": -1.08
+      "invalidated_if": "54.8원 하회 시",
+      "range_position_pct": 95.5,
+      "day_high_gap_pct": -0.7
     },
     {
       "icon": "🧠",
       "symbol": "ONT",
       "market": "KRW-ONT",
-      "price_krw": 94.4,
-      "change_pct_24h": 9.51276102,
-      "turnover_krw_24h": 42476818265.67077,
-      "reason": "424억원대 최대 대금을 유지한 채 +9.51%를 지켜 완전히 죽지 않은 잔존 리더다.",
-      "score": 8.9,
-      "community": "오후 되밀림 뒤에도 대금이 가장 많이 남아 있는 잔존 리더라 관심이 계속 이어진다",
-      "risk": "92.0원 하회 시 잔존 리더 논리 훼손",
-      "allocation_krw": 1252057.2667184144,
+      "price_krw": 93.9,
+      "change_pct_24h": 8.93271462,
+      "turnover_krw_24h": 44958990065.12734,
+      "reason": "449억원대 최대 양전환 대금을 유지해 눌림이 커도 코어 슬롯을 유지할 이유가 있다.",
+      "score": 9.0,
+      "community": "여전히 업비트 양전환 대금 1위권이라 커뮤니티 주목이 가장 크다",
+      "risk": "91.8원 하회 시 잔존 리더 논리 훼손",
+      "allocation_krw": 1262029.1220738075,
       "role": "residual turnover leader",
-      "invalidated_if": "92.0원 하회 시",
-      "range_position_pct": 45.1,
-      "day_high_gap_pct": -9.23
+      "invalidated_if": "91.8원 하회 시",
+      "range_position_pct": 42.3,
+      "day_high_gap_pct": -9.71
+    },
+    {
+      "icon": "📬",
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "price_krw": 330.0,
+      "change_pct_24h": 4.43037975,
+      "turnover_krw_24h": 8875996914.834867,
+      "reason": "4.43% 상승과 82.9% 위치, 88억원대 대금이 겹쳐 STORJ보다 더 건강한 지속형 교체 대상이다.",
+      "score": 8.9,
+      "community": "최근 약했던 슬롯보다 OPEN 쪽으로 관심이 재집중되며 깔끔한 지속형 선호가 보인다",
+      "risk": "322원 하회 시 지속형 구조 약화",
+      "allocation_krw": 1262029.1220738075,
+      "role": "clean continuation slot",
+      "invalidated_if": "322원 하회 시",
+      "range_position_pct": 82.9,
+      "day_high_gap_pct": -1.79
     },
     {
       "icon": "🧪",
       "symbol": "POLYX",
       "market": "KRW-POLYX",
-      "price_krw": 79.9,
-      "change_pct_24h": 3.36351876,
-      "turnover_krw_24h": 7879667060.925972,
-      "reason": "+3.36%와 70.2% 위치, 79억원대 대금이 남아 있어 새벽 품질 지속축으로 가장 안정적이다.",
+      "price_krw": 80.2,
+      "change_pct_24h": 3.75161708,
+      "turnover_krw_24h": 8046342761.123484,
+      "reason": "3.75% 상승과 76.6% 위치, 80억원대 대금이 남아 있어 흔들림 속 품질 지속축으로 적합하다.",
       "score": 8.8,
-      "community": "조용하지만 70%대 위치를 지켜 품질형 선호 자금의 잔류가 보인다",
-      "risk": "78.2원 하회 시 품질 지속 구조 약화",
-      "allocation_krw": 1252057.2667184144,
+      "community": "무리한 과열 없이 조용히 76.6% 위치를 유지해 품질 선호 자금이 남아 있다",
+      "risk": "79.0원 하회 시 품질 지속 약화",
+      "allocation_krw": 1262029.1220738075,
       "role": "quality continuation slot",
-      "invalidated_if": "78.2원 하회 시",
-      "range_position_pct": 70.2,
-      "day_high_gap_pct": -1.72
+      "invalidated_if": "79.0원 하회 시",
+      "range_position_pct": 76.6,
+      "day_high_gap_pct": -1.35
     },
     {
       "icon": "⚛️",
       "symbol": "HYPER",
       "market": "KRW-HYPER",
-      "price_krw": 172.0,
-      "change_pct_24h": 3.61445783,
-      "turnover_krw_24h": 5522588422.979847,
-      "reason": "+3.61%와 100% 위치, 55억원대 대금이 확인돼 새벽 드문 고위치 돌파 슬롯이다.",
-      "score": 8.6,
-      "community": "새벽 들어 드문 100% 위치 종목이라 짧은 추격 자금이 붙는 구조다",
-      "risk": "168원 하회 시 돌파 유지 실패",
-      "allocation_krw": 1252057.2667184144,
-      "role": "late-session breakout slot",
-      "invalidated_if": "168원 하회 시",
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0
-    },
-    {
-      "icon": "🗄️",
-      "symbol": "STORJ",
-      "market": "KRW-STORJ",
       "price_krw": 177.0,
       "change_pct_24h": 6.62650602,
-      "turnover_krw_24h": 12930748987.268602,
-      "reason": "129억원대 대금과 +6.63% 회복이 겹쳐 약한 메이저 대신 잡을 수 있는 5번째 고유동성 슬롯이다.",
-      "score": 8.1,
-      "community": "고점 대비 되밀림은 크지만 대금 체급이 커서 반등 재시도 관심이 유지된다",
-      "risk": "172원 하회 시 반등 슬롯 철회",
-      "allocation_krw": 1252057.2667184144,
-      "role": "high-turnover rebound slot",
-      "invalidated_if": "172원 하회 시",
-      "range_position_pct": 44.4,
-      "day_high_gap_pct": -7.81
+      "turnover_krw_24h": 5144777928.429716,
+      "reason": "6.63% 상승과 88.2% 위치, 51억원대 대금이 확인돼 돌파 슬롯을 유지할 가치가 있다.",
+      "score": 8.7,
+      "community": "고점 부근 체결이 이어져 짧은 추격 자금이 계속 붙는 구조다",
+      "risk": "173원 하회 시 돌파 유지 실패",
+      "allocation_krw": 1262029.1220738075,
+      "role": "late-session breakout slot",
+      "invalidated_if": "173원 하회 시",
+      "range_position_pct": 88.2,
+      "day_high_gap_pct": -1.12
     }
   ],
   "reference_watchlist": [
@@ -533,93 +529,93 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.0M원 아래로 밀리면 새벽 선별 강세도 빠르게 약해질 수 있다."
+      "reason": "114.2M원 아래로 밀리면 이번 고위치 지속 가정이 빠르게 약해질 수 있다."
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.13M원 이탈 시 알트 전반 위험회피가 재확대될 수 있다."
+      "reason": "3.14M원 하회 시 알트 follow-through가 둔화될 수 있다."
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,040원선이 무너지면 국내 리테일 온도가 더 식을 수 있다."
+      "reason": "15.7% 위치에 불과해 국내 리테일 온도는 아직 완전히 회복되지 않았다."
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "125.0K원 하회 시 고베타 슬롯 유지 명분이 약해진다."
+      "reason": "126K원선 재이탈 시 고베타 슬롯 신뢰도가 다시 약해진다."
     },
     {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "635억원대 대금에도 5.2% 위치라 대표적 대금 함정이다."
+      "icon": "🕶️",
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "13.4%와 78.8% 위치로 강하지만 최근 상장 과열 잔재가 있어 OPEN 직후 대체 1순위로 관찰."
     },
     {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "reason": "262억원대 대금에도 -10.8%, 28.6% 위치라 재추격 금지."
-    },
-    {
-      "icon": "🪻",
-      "symbol": "IRYS",
-      "market": "KRW-IRYS",
-      "reason": "288억원대 대금에도 5.7% 위치로 붕괴형 함정이다."
+      "icon": "🗄️",
+      "symbol": "STORJ",
+      "market": "KRW-STORJ",
+      "reason": "대금은 크지만 37% 위치라 이번 회차에는 지속형 기준에서 밀렸다."
     },
     {
       "icon": "🌊",
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "대금은 크지만 28.2% 위치라 체급만으로 버티는지 추가 확인이 필요하다."
+      "reason": "216억원대 대금은 좋지만 33.3% 위치라 체급 대비 체력이 약하다."
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "음수지만 89.5% 위치라 양전환만 확인되면 재편입 후보가 될 수 있다."
     }
   ],
   "cycle_improvements": [
-    "fetch_upbit_snapshot.py에 quality_recovery_alts 버킷을 추가해 high-conviction이 적은 장에서도 2차 후보를 더 빠르게 보이게 했다.",
-    "update_dashboard.py 아이콘 매핑에 NEAR·LINK·ONG·STORJ·LAYER를 추가해 보고서와 대시보드 가독성을 높였다.",
-    "메이저 4종이 모두 중단 아래일 때는 broad quality basket보다 실제 녹색 유지 종목 위주로 좁히는 규율을 강화했다."
+    "update_dashboard.py에 scenario_view를 추가해 메이저 체력과 알트 지속 구간을 한눈에 보이게 했다.",
+    "BTC 고위치 회복 시 반등형보다 고위치 지속형을 우선하는 선택 규율을 강화했다.",
+    "VVV처럼 강하지만 과열 잔재가 있는 후보를 watchlist 상단에 분리해 FOMO 진입을 줄이도록 정리했다."
   ],
   "rejected_candidates": [
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "635억원대 대금에도 -6.10%, 5.2% 위치라 대표적 함정이다."
+      "reason": "644억원대 대금에도 -5.75%, 8.6% 위치라 함정 성격이 더 강하다."
     },
     {
       "symbol": "IRYS",
       "market": "KRW-IRYS",
-      "reason": "288억원대 대금에도 -7.21%, 5.7% 위치라 붕괴형이다."
+      "reason": "257억원대 대금에도 -6.84%, 25.0% 위치라 붕괴형이다."
     },
     {
       "symbol": "TRAC",
       "market": "KRW-TRAC",
-      "reason": "262억원대 대금에도 -10.83%, 28.6% 위치라 재진입 금지."
+      "reason": "174억원대 대금에도 -11.62%, 23.8% 위치라 재진입 금지."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "대금은 크지만 28.2% 위치라 새벽 톱5 선호도에서 밀렸다."
+      "symbol": "STORJ",
+      "market": "KRW-STORJ",
+      "reason": "+5.42%는 유지했지만 37.0% 위치로 OPEN보다 구조가 둔하다."
     },
     {
       "symbol": "CFG",
       "market": "KRW-CFG",
-      "reason": "-5.29%와 6.5% 위치로 완전히 붕괴했다."
+      "reason": "-5.75%와 4.3% 위치로 완전히 붕괴했다."
     },
     {
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "reason": "-1.80%와 11.4% 위치라 리테일 회전축 명분이 사라졌다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "대금은 크지만 -1.28%, 25.0% 위치라 반등 명분이 약하다."
     }
   ],
-  "top_line": "업비트 00시08분 회차는 SUI·NEAR·LINK를 내리고 SAHARA·ONT·POLYX·HYPER·STORJ 5종 선별 공격으로 좁히는 편이 낫습니다.",
-  "ui_version": "v5.5",
+  "top_line": "업비트 06시08분 회차는 STORJ를 OPEN으로 교체하고 SAHARA·ONT·OPEN·POLYX·HYPER 5종 고위치 지속형으로 다시 공격하는 편이 낫습니다.",
+  "ui_version": "v5.6",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 114.0M원 이탈, SAHARA 53.6원 하향, ONT 92.0원 하향, POLYX 78.2원 하향, HYPER 168원 하향, STORJ 172원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 114.2M원 이탈, SAHARA 54.8원 하향, ONT 91.8원 하향, OPEN 322원 하향, POLYX 79.0원 하향, HYPER 173원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
       "preferred 후보는 정확히 5개 유지",
@@ -628,7 +624,7 @@
       "포트폴리오 현금은 시장 붕괴가 아니면 0% 유지"
     ],
     "exit_rules": [
-      "BTC 114.0M원 이탈, SAHARA 53.6원 하향, ONT 92.0원 하향, POLYX 78.2원 하향, HYPER 168원 하향, STORJ 172원 하향 시 즉시 재평가",
+      "BTC 114.2M원 이탈, SAHARA 54.8원 하향, ONT 91.8원 하향, OPEN 322원 하향, POLYX 79.0원 하향, HYPER 173원 하향 시 즉시 재평가",
       "top4 majors는 후보 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "메이저 4종 평균 range_position_pct가 35 미만이면 음수 후보 신규 편입 금지",
@@ -637,68 +633,67 @@
     ]
   },
   "scorecard": {
-    "turnover_focus": "high with refreshed 00:08 KST Upbit snapshot and new quality-recovery bucket",
-    "momentum_discipline": "cut LINK/NEAR and narrowed the basket to actual green survivors as majors rolled over again",
-    "diversification": "5-way aggressive with AI, residual leader, quality, breakout, and rebound slots",
+    "turnover_focus": "high with refreshed 06:08 KST Upbit snapshot and continuation tilt",
+    "momentum_discipline": "replaced low-position STORJ with cleaner OPEN continuation as BTC recovered",
+    "diversification": "5-way aggressive across AI, residual turnover, continuation, quality, and breakout slots",
     "cash_usage": "100%",
-    "rotation_speed": "medium-high with three full exits, one trim, one top-up, and three fresh buys in one cycle"
+    "rotation_speed": "medium with one full exit, two trims, two top-ups, and one fresh buy in one cycle"
   },
   "signal_balance": {
-    "high_conviction_positive_count": 3,
-    "resilient_positive_count": 2,
-    "quality_recovery_count": 4,
-    "turnover_trap_count": 8,
+    "high_conviction_positive_count": 5,
+    "resilient_positive_count": 4,
+    "quality_recovery_count": 10,
+    "turnover_trap_count": 5,
     "high_conviction_symbols": [
       "SAHARA",
+      "VVV",
+      "OPEN",
       "POLYX",
       "HYPER"
     ],
     "resilient_positive_symbols": [
       "SAHARA",
+      "VVV",
+      "OPEN",
       "POLYX"
     ],
     "quality_recovery_symbols": [
-      "ONT",
       "SAHARA",
+      "VVV",
+      "OPEN",
       "POLYX",
-      "HYPER"
+      "HYPER",
+      "PENGU",
+      "ONG",
+      "ZBT",
+      "TRX",
+      "KERNEL"
     ],
     "turnover_trap_symbols": [
       "ONDO",
       "IRYS",
       "DOGE",
       "TRAC",
-      "CFG",
-      "OPEN",
-      "CHZ",
-      "BIO"
+      "CFG"
     ],
-    "summary": "녹색 생존자는 소수이고 함정 대금주는 많아, 후보 선택을 더 좁고 공격적으로 해야 하는 구조다."
+    "summary": "고위치 양전환 후보 수가 다시 늘었지만 대금 함정도 여전해, 지속형만 공격적으로 선택하는 편이 좋다."
   },
   "rotation_map": [
     {
-      "bucket": "SUI → SAHARA",
+      "bucket": "STORJ → OPEN",
       "symbols": [
-        "SUI",
-        "SAHARA"
+        "STORJ",
+        "OPEN"
       ],
-      "note": "체급 앵커보다 실제 새벽 주도 AI 리더가 더 강함"
+      "note": "반등형보다 82.9% 위치 지속형이 더 건강하다."
     },
     {
-      "bucket": "NEAR → HYPER",
+      "bucket": "SAHARA/HYPER → SAHARA/HYPER",
       "symbols": [
-        "NEAR",
-        "HYPER"
+        "SAHARA/HYPER",
+        "SAHARA/HYPER"
       ],
-      "note": "보합 품질 베타를 100% 위치 돌파 슬롯으로 교체"
-    },
-    {
-      "bucket": "LINK → STORJ",
-      "symbols": [
-        "LINK",
-        "STORJ"
-      ],
-      "note": "무효화된 인프라 슬롯을 더 큰 반등 대금 슬롯으로 교체"
+      "note": "강세는 유지하되 과대 비중만 줄여 5종 균등으로 재정렬."
     },
     {
       "bucket": "ONT/POLYX → ONT/POLYX",
@@ -706,27 +701,35 @@
         "ONT/POLYX",
         "ONT/POLYX"
       ],
-      "note": "살아남은 2종은 유지하되 5종 균등으로 재정렬"
+      "note": "코어는 유지하고 부족 비중만 보강."
     }
   ],
   "self_evaluation": {
-    "score": 7.4,
-    "summary": "18시의 품질형 전환은 고베타 함정을 피하는 데 도움이 됐지만, 메이저 재약세가 나오자 SUI·NEAR·LINK를 더 빨리 줄였어야 했다. 이번 회차는 broad quality보다 실제 녹색 유지 종목만 남기며 대응 속도를 조금 더 올렸다."
+    "score": 7.8,
+    "summary": "00시 회차의 STORJ 편입은 대금 측면에서는 나쁘지 않았지만 구조가 둔한 종목을 오래 잡은 점은 아쉬웠다. 이번에는 BTC 회복 신호를 반영해 지속형 OPEN으로 더 빠르게 갈아탄 것이 개선점이다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 7.3,
+    "preferred_avg_change_pct_24h": 7.96,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 96705070971.27698,
-    "leader_turnover_share_pct": 43.92,
+    "preferred_turnover_total_krw_24h": 98077613320.06651,
+    "leader_turnover_share_pct": 45.84,
     "leader_symbol": "ONT"
   },
+  "scenario_view": {
+    "regime": "btc_stabilizing_alt_continuation",
+    "btc_range_position_pct": 80.2,
+    "major_avg_range_position_pct": 46.27,
+    "preferred_avg_change_pct_24h": 7.96,
+    "preferred_high_range_count": 3,
+    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
+  },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 70.38,
-    "avg_day_high_gap_pct": -3.97,
-    "above_80_range_count": 2,
-    "summary": "고위치(80%+) 후보 2개 / 평균 위치 70.38%"
+    "avg_range_position_pct": 77.1,
+    "avg_day_high_gap_pct": -2.93,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 77.1%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -739,50 +742,104 @@
     {
       "icon": "🏜️",
       "symbol": "SAHARA",
-      "last_price_krw": 55.1,
-      "threshold_krw": 53.6,
-      "distance_to_invalidation_pct": 2.8,
+      "last_price_krw": 56.4,
+      "threshold_krw": 54.8,
+      "distance_to_invalidation_pct": 2.92,
       "status": "near"
     },
     {
       "icon": "🧠",
       "symbol": "ONT",
-      "last_price_krw": 94.4,
-      "threshold_krw": 92.0,
-      "distance_to_invalidation_pct": 2.61,
+      "last_price_krw": 93.9,
+      "threshold_krw": 91.8,
+      "distance_to_invalidation_pct": 2.29,
+      "status": "near"
+    },
+    {
+      "icon": "📬",
+      "symbol": "OPEN",
+      "last_price_krw": 330.0,
+      "threshold_krw": 322.0,
+      "distance_to_invalidation_pct": 2.48,
       "status": "near"
     },
     {
       "icon": "🧪",
       "symbol": "POLYX",
-      "last_price_krw": 79.9,
-      "threshold_krw": 78.2,
-      "distance_to_invalidation_pct": 2.17,
+      "last_price_krw": 80.2,
+      "threshold_krw": 79.0,
+      "distance_to_invalidation_pct": 1.52,
       "status": "near"
     },
     {
       "icon": "⚛️",
       "symbol": "HYPER",
-      "last_price_krw": 172.0,
-      "threshold_krw": 168.0,
-      "distance_to_invalidation_pct": 2.38,
-      "status": "near"
-    },
-    {
-      "icon": "🗄️",
-      "symbol": "STORJ",
       "last_price_krw": 177.0,
-      "threshold_krw": 172.0,
-      "distance_to_invalidation_pct": 2.91,
+      "threshold_krw": 173.0,
+      "distance_to_invalidation_pct": 2.31,
       "status": "near"
     }
   ],
   "portfolio_health": {
     "discipline_alert_count": 0,
-    "green_position_count": 3,
-    "red_position_count": 2
+    "green_position_count": 4,
+    "red_position_count": 1
   },
   "recent_rotation_log_24h": [
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "OPEN",
+      "action": "BUY",
+      "price_krw": 330.0,
+      "amount_delta": 3824.33067295093,
+      "cash_delta_krw": -1262029.1220738068,
+      "reason": "4.43% 상승과 82.9% 위치, 88억원대 대금이 겹쳐 STORJ 대체 최우선 지속형 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "POLYX",
+      "action": "BUY",
+      "price_krw": 80.2,
+      "amount_delta": 65.72025238536878,
+      "cash_delta_krw": -5270.764241306577,
+      "reason": "품질 지속축을 5종 균등 기준으로 소폭 증액"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "ONT",
+      "action": "BUY",
+      "price_krw": 93.9,
+      "amount_delta": 176.82124182193354,
+      "cash_delta_krw": -16603.51460707956,
+      "reason": "최대 양전환 대금 코어를 5종 균등 공격 분산 기준까지 소폭 보강"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "HYPER",
+      "action": "SELL",
+      "price_krw": 177.0,
+      "amount_delta": -149.2946791638565,
+      "cash_delta_krw": 26425.1582120026,
+      "reason": "돌파 슬롯은 유지하되 OPEN 신규 편입 자금을 위해 목표 비중까지 일부 트림"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 56.4,
+      "amount_delta": -346.95949873594316,
+      "cash_delta_krw": 19568.515728707192,
+      "reason": "최강 모멘텀은 유지하되 OPEN 편입과 5종 균등 공격 분산을 위해 일부 차익 실현"
+    },
+    {
+      "timestamp": "2026-05-20T06:08:00+09:00",
+      "symbol": "STORJ",
+      "action": "SELL",
+      "price_krw": 175.0,
+      "amount_delta": -7073.769868465618,
+      "cash_delta_krw": 1237909.7269814832,
+      "reason": "135억원대 대금은 남았지만 37% 위치로 구조가 둔해 더 강한 지속형 OPEN으로 전량 교체"
+    },
     {
       "timestamp": "2026-05-20T00:08:00+09:00",
       "symbol": "STORJ",
@@ -818,136 +875,80 @@
       "amount_delta": 105.77742646933213,
       "cash_delta_krw": -9985.389058704954,
       "reason": "잔존 리더 비중을 5종 균등 기준으로 소폭 증액"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "POLYX",
-      "action": "SELL",
-      "price_krw": 79.9,
-      "amount_delta": -315.02748094726985,
-      "cash_delta_krw": 25170.695727686863,
-      "reason": "품질 축은 유지하되 5종 균등 공격 분산을 위해 일부 트림"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "LINK",
-      "action": "SELL",
-      "price_krw": 14170.0,
-      "amount_delta": -87.3231835283457,
-      "cash_delta_krw": 1237369.5105966586,
-      "reason": "17.5% 위치와 음전환으로 무효화 성격이 강해져 전량 교체"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "NEAR",
-      "action": "SELL",
-      "price_krw": 2414.0,
-      "amount_delta": -516.9418223591356,
-      "cash_delta_krw": 1247897.5591749533,
-      "reason": "45.5% 위치와 약보합으로 둔화돼 더 강한 녹색 슬롯으로 교체"
-    },
-    {
-      "timestamp": "2026-05-20T00:08:00+09:00",
-      "symbol": "SUI",
-      "action": "SELL",
-      "price_krw": 1584.0,
-      "amount_delta": -792.7521614360161,
-      "cash_delta_krw": 1255719.4237146494,
-      "reason": "양수는 간신히 지켰지만 28.2% 위치까지 밀려 새벽 리더 슬롯에서 제외"
-    },
-    {
-      "timestamp": "2026-05-19T18:08:00+09:00",
-      "symbol": "LINK",
-      "action": "BUY",
-      "price_krw": 14480.0,
-      "amount_delta": 87.3231835283457,
-      "cash_delta_krw": -1264439.6974904456,
-      "reason": "과열되지 않은 +1.40% 양전환과 66억원대 대금으로 5번째 품질 슬롯 적합"
-    },
-    {
-      "timestamp": "2026-05-19T18:08:00+09:00",
-      "symbol": "NEAR",
-      "action": "BUY",
-      "price_krw": 2446.0,
-      "amount_delta": 516.9418223591356,
-      "cash_delta_krw": -1264439.6974904456,
-      "reason": "고위치에 가까운 회복 구조와 충분한 대금으로 late-cycle 대안 중 가장 균형이 좋음"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🏜️ SAHARA, 55.1원, +13.37%, 24h 대금 약 279억원, 92.2% 위치, AI 모멘텀 리더",
-      "2. 🧠 ONT, 94.4원, +9.51%, 24h 대금 약 425억원, 45.1% 위치, 잔존 대금 리더",
-      "3. 🧪 POLYX, 79.9원, +3.36%, 24h 대금 약 79억원, 70.2% 위치, 품질 지속축",
-      "4. ⚛️ HYPER, 172원, +3.61%, 24h 대금 약 55억원, 100% 위치, 새벽 돌파 슬롯",
-      "5. 🗄️ STORJ, 177원, +6.63%, 24h 대금 약 129억원, 44.4% 위치, 고유동성 반등 슬롯"
+      "1. 🏜️ SAHARA, 56.4원, +16.05%, 24h 대금 약 311억원, 95.5% 위치, AI 모멘텀 코어",
+      "2. 🧠 ONT, 93.9원, +8.93%, 24h 대금 약 450억원, 42.3% 위치, 최대 양전환 대금 코어",
+      "3. 📬 OPEN, 330원, +4.43%, 24h 대금 약 89억원, 82.9% 위치, 새 지속형 교체 슬롯",
+      "4. 🧪 POLYX, 80.2원, +3.75%, 24h 대금 약 80억원, 76.6% 위치, 품질 지속축",
+      "5. ⚛️ HYPER, 177원, +6.63%, 24h 대금 약 51억원, 88.2% 위치, 돌파 지속 슬롯"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: -0.23%, 위치 30.8%",
-      "- ◆ ETH: -0.54%, 위치 28.4%",
-      "- 💧 XRP: -1.02%, 위치 21.4%",
-      "- ☀️ SOL: -0.87%, 위치 23.1%",
-      "- 해석: 메이저 4종이 모두 중단 아래라 broad 알트 추격은 불리합니다."
+      "- ₿ BTC: +0.40%, 위치 80.2%",
+      "- ◆ ETH: -0.06%, 위치 50.7%",
+      "- 💧 XRP: -1.60%, 위치 15.7%",
+      "- ☀️ SOL: -0.55%, 위치 38.5%",
+      "- 해석: BTC는 살아났지만 XRP·SOL이 약해 broad 알트 추격은 아직 이릅니다."
     ],
     "🚫 이번 회차 제외/강등": [
-      "- 🌐 ONDO: 635억원대 대금에도 -6.10%, 5.2% 위치",
-      "- 🧭 TRAC: 262억원대 대금에도 -10.83%, 28.6% 위치",
-      "- 🪻 IRYS: 288억원대 대금에도 -7.21%, 5.7% 위치",
-      "- 🌊 SUI: 대금은 크지만 28.2% 위치라 톱5 탈락",
-      "- 🌉 NEAR: 약보합·45.5% 위치로 둔화",
-      "- 🔗 LINK: 17.5% 위치·음전환으로 무효화 성격"
+      "- 🗄️ STORJ: +5.42%지만 37.0% 위치로 구조 둔화",
+      "- 🌐 ONDO: 644억원대 대금에도 -5.75%, 8.6% 위치",
+      "- 🪻 IRYS: 257억원대 대금에도 -6.84%, 25.0% 위치",
+      "- 🧭 TRAC: 174억원대 대금에도 -11.62%, 23.8% 위치",
+      "- 🌊 SUI: 216억원대 대금은 좋지만 33.3% 위치라 톱5 탈락",
+      "- 🕶️ VVV: 강하지만 최근 상장 과열 잔재로 추격 대신 watchlist 상단 유지"
     ],
     "🚀 공격 포트폴리오 전략": [
       "- 현금 0%, 5종 균등 공격 분산 유지",
-      "- broad quality basket 대신 실제 녹색 유지 종목만 남김",
-      "- SAHARA·HYPER는 공격축, ONT·POLYX는 잔존/품질축, STORJ는 반등 유동성축"
+      "- 반등형보다 고위치 지속형 비중 확대",
+      "- SAHARA·HYPER는 공격축, ONT는 대금 코어, OPEN·POLYX는 지속/품질축"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL 🌊 SUI 전량",
-      "- SELL 🌉 NEAR 전량",
-      "- SELL 🔗 LINK 전량",
-      "- SELL 🧪 POLYX 일부 트림",
+      "- SELL 🗄️ STORJ 전량",
+      "- SELL 🏜️ SAHARA 일부 차익 실현",
+      "- SELL ⚛️ HYPER 일부 트림",
       "- BUY 🧠 ONT 소폭 증액",
-      "- BUY 🏜️ SAHARA 신규 편입",
-      "- BUY ⚛️ HYPER 신규 편입",
-      "- BUY 🗄️ STORJ 신규 편입"
+      "- BUY 🧪 POLYX 소폭 증액",
+      "- BUY 📬 OPEN 신규 편입"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🧠 ONT: 13,263.31850337개 @ 평균 100.82원, 현재 94.4원",
-      "- 🧪 POLYX: 15,670.30371362개 @ 평균 80원, 현재 79.9원",
-      "- 🏜️ SAHARA: 22,723.36237239개 @ 평균 55.1원, 현재 55.1원",
-      "- ⚛️ HYPER: 7,279.40271348개 @ 평균 172원, 현재 172원",
-      "- 🗄️ STORJ: 7,073.76986847개 @ 평균 177원, 현재 177원",
-      "- 총 평가액: 6,260,286원",
-      "- 실현손익: -3,359,729원",
-      "- 누적 수익률: -37.40%"
+      "- 🧠 ONT: 13440.13974519개 @ 평균 100.73원, 현재 93.9원",
+      "- 🧪 POLYX: 15736.02396601개 @ 평균 80.0008원, 현재 80.2원",
+      "- 🏜️ SAHARA: 22376.40287365개 @ 평균 55.1원, 현재 56.4원",
+      "- ⚛️ HYPER: 7130.10803432개 @ 평균 172원, 현재 177원",
+      "- 📬 OPEN: 3824.33067295개 @ 평균 330원, 현재 330원",
+      "- 총 평가액: 6,310,146원",
+      "- 실현손익: -3,372,679원",
+      "- 누적 수익률: -36.90%"
     ],
     "🧠 자기 평가": [
-      "- 18시 품질형 전환은 맞았지만 메이저 재약세가 오자 SUI·NEAR·LINK를 더 빨리 줄였어야 했습니다.",
-      "- 이번엔 broad quality보다 실제 녹색 유지 여부를 우선해 대응 속도를 높였습니다."
+      "- 00시 회차에서 STORJ를 너무 오래 둔 것은 아쉬웠습니다.",
+      "- 이번에는 BTC 회복을 반영해 반등형 대신 OPEN 지속형으로 교체하며 대응 속도를 높였습니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- `fetch_upbit_snapshot.py`에 `quality_recovery_alts` 버킷을 추가해 고확신 후보가 적은 장에서도 2차 후보를 바로 보이게 했습니다.",
-      "- 대시보드 아이콘 매핑에 NEAR·LINK·ONG·STORJ·LAYER를 추가해 가독성을 높였습니다.",
-      "- 메이저 4종이 모두 중단 아래일 때 음수·저위치 대금주를 더 강하게 배제하도록 규율을 강화했습니다."
+      "- 대시보드에 `scenario_view`를 추가해 메이저 체력 vs 알트 지속 구간을 한눈에 보이게 했습니다.",
+      "- BTC 고위치 회복 시 반등형보다 고위치 지속형을 우선하는 규율을 명문화했습니다.",
+      "- VVV 같은 과열 잔재 후보를 watchlist 상단으로 분리해 FOMO 진입을 줄였습니다."
     ],
     "🧾 판단": [
-      "- selective aggressive into isolated Upbit green leaders while majors stay soft"
+      "- aggressive selective into high-range Upbit continuations while BTC stabilizes and XRP stays weak"
     ],
     "🎯 신뢰도": [
-      "- medium-low"
+      "- medium"
     ],
     "👉 추천 행동": [
-      "- SAHARA 53.6원, ONT 92.0원, POLYX 78.2원, HYPER 168원, STORJ 172원 하향 시 즉시 재평가",
-      "- BTC 114.0M원 이탈 시 포트폴리오 전반 재점검",
-      "- ONDO·TRAC·IRYS는 대금이 커도 저위치 음수면 재추격 금지"
+      "- SAHARA 54.8원, ONT 91.8원, OPEN 322원, POLYX 79.0원, HYPER 173원 하향 시 즉시 재평가",
+      "- BTC 114.2M원 이탈 시 이번 지속형 바스켓 전체 재점검",
+      "- ONDO·IRYS·TRAC은 대금이 커도 저위치 음수면 재추격 금지"
     ],
     "⚠️ 리스크 메모": [
-      "- 메이저 4종이 모두 약해 follow-through 실패 가능성이 큽니다.",
-      "- SAHARA·HYPER는 이미 고점권이라 되밀림 속도도 빠를 수 있습니다.",
-      "- ONT는 대금은 가장 크지만 고점 대비 눌림이 큰 잔존 리더입니다.",
-      "- STORJ는 5번째 슬롯 중 가장 약해 가장 먼저 교체될 수 있습니다."
+      "- BTC만 강하고 XRP가 약해 장 전체 확산은 아직 약합니다.",
+      "- SAHARA·OPEN·HYPER는 고위치라 좋은 대신 되밀림 속도도 빠를 수 있습니다.",
+      "- ONT는 최대 대금 코어지만 고점 대비 눌림이 커서 실패 시 흔들림이 클 수 있습니다.",
+      "- VVV는 강하지만 상장 잔열 과열이 남아 있어 추격보다 대체 후보로 보는 편이 낫습니다."
     ]
   }
 }
