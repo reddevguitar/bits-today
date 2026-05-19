@@ -72,7 +72,10 @@ ICONS = {
     'IRYS': '🪻',
     'PROS': '🧱',
     'TRAC': '🧭',
-    'KITE': '🪁'
+    'KITE': '🪁',
+    'ONT': '🧠',
+    'POLYX': '🧪',
+    'FF': '🦅'
 }
 
 
