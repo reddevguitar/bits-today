@@ -11,10 +11,10 @@
 - [x] Add self-evaluation score for recent trading decisions
 - [x] Add candidate-level allocation and invalidation triggers
 - [x] Add scorecard/risk-plan fields for the next 6-hour review
+- [x] Surface rolling 24h replacement log and portfolio churn rate
+- [x] Add scenario view for majors breakdown vs alt continuation
 
 ## Later
 - [ ] Track pick hit-rate and replacement quality over time
 - [ ] Add lightweight local caching for repeated Upbit comparison data
-- [ ] Surface rolling 24h replacement log and portfolio churn rate
-- [ ] Add scenario view for majors breakdown vs alt continuation
 - [ ] Consider exchange integration only after validation

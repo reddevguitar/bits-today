@@ -3,18 +3,18 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3683206.4258786836,
-  "last_valuation_krw": 6023514.553886728,
-  "last_action": "FULL_ROTATE_TO_ONDO_TRAC_CFG_BIO_CHIP",
-  "last_updated": "2026-05-20T12:08:00+09:00",
-  "trade_count": 197,
+  "realized_pnl_krw": -3671532.9480610737,
+  "last_valuation_krw": 6295266.144758076,
+  "last_action": "ROTATE_BIO_TO_IRYS",
+  "last_updated": "2026-05-20T18:08:00+09:00",
+  "trade_count": 199,
   "positions": {
     "ONDO": {
       "market": "KRW-ONDO",
       "amount": 2166.731853916089,
       "avg_buy_price_krw": 556.0,
-      "last_price_krw": 556.0,
-      "value_krw": 1204702.9107773455,
+      "last_price_krw": 559.0,
+      "value_krw": 1211203.1063390938,
       "thesis": "최대 KRW 대금과 중단 이상 회복이 동시에 확인된 유동성 앵커",
       "strategy": "liquidity recovery anchor new buy",
       "role": "liquidity recovery anchor",
@@ -25,8 +25,8 @@
       "market": "KRW-TRAC",
       "amount": 2017.9278237476474,
       "avg_buy_price_krw": 597.0,
-      "last_price_krw": 597.0,
-      "value_krw": 1204702.9107773455,
+      "last_price_krw": 693.0,
+      "value_krw": 1398423.9818571196,
       "thesis": "리스팅 급락 뒤 다시 78% 위치까지 회복한 반격형 리더",
       "strategy": "high-beta rebound leader new buy",
       "role": "high-beta rebound leader",
@@ -37,35 +37,35 @@
       "market": "KRW-CFG",
       "amount": 2888.975805221452,
       "avg_buy_price_krw": 417.0,
-      "last_price_krw": 417.0,
-      "value_krw": 1204702.9107773455,
+      "last_price_krw": 418.0,
+      "value_krw": 1207591.886582567,
       "thesis": "고점 바로 아래 91%대 체류가 이어지는 품질형 지속 축",
       "strategy": "quality continuation leader new buy",
       "role": "quality continuation leader",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
     },
-    "BIO": {
-      "market": "KRW-BIO",
-      "amount": 23346.955635219874,
-      "avg_buy_price_krw": 51.6,
-      "last_price_krw": 51.6,
-      "value_krw": 1204702.9107773455,
-      "thesis": "중형 대금 회복과 64% 위치가 동행하는 순환매 슬롯",
-      "strategy": "mid-cap continuation slot new buy",
-      "role": "mid-cap continuation slot",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
-    },
     "CHIP": {
       "market": "KRW-CHIP",
       "amount": 16755.25606088102,
       "avg_buy_price_krw": 71.9,
-      "last_price_krw": 71.9,
-      "value_krw": 1204702.9107773455,
+      "last_price_krw": 75.3,
+      "value_krw": 1261670.7813843407,
       "thesis": "57억원대 대금 대비 위치가 매우 높은 소형 고베타 지속형",
       "strategy": "small-cap continuation slot new buy",
       "role": "small-cap continuation slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
+    },
+    "IRYS": {
+      "market": "KRW-IRYS",
+      "amount": 22196.649426915246,
+      "avg_buy_price_krw": 54.8,
+      "last_price_krw": 54.8,
+      "value_krw": 1216376.3885949554,
+      "thesis": "430억원대 거래대금과 중단 회복이 겹친 대금 승격형 후보",
+      "strategy": "turnover-driven promotion slot new buy",
+      "role": "turnover-driven promotion slot",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     }
@@ -74,52 +74,52 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.936M원 저점 재이탈 시 알트 선별매도 급격히 약해질 수 있다."
+      "reason": "114.47M원 시가 부근을 재하향하면 이번 risk-on 전환의 신뢰도가 급격히 낮아질 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.131M원 부근 저점이 깨지면 중형 알트 follow-through가 더 나빠질 수 있다."
+      "reason": "3.145M원 시가 이탈 시 중형 알트 follow-through가 둔해질 수 있다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "22.2% 위치에 그쳐 국내 리테일 온도가 아직 약하다."
+      "reason": "2,028원 시가 재이탈 시 국내 리테일 온도 복귀가 약해질 수 있다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "124.7K원 저점 재확인 시 고베타 추격 심리가 다시 꺾일 수 있다."
+      "reason": "126.0K원 안착 실패 시 고베타 알트 추격 심리가 식을 수 있다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "거래대금은 여전히 크지만 0% 위치로 무너져 즉시 재추격 금지."
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "reason": "양수 구조는 유지하지만 IRYS 대비 체급과 속도가 밀려 일단 후보 6위권으로 후퇴했다."
     },
     {
-      "symbol": "ONT",
-      "market": "KRW-ONT",
-      "reason": "서사는 남지만 5.5% 위치까지 붕괴해 재양전환 전까지 보류."
+      "symbol": "UP2",
+      "market": "KRW-UP2",
+      "reason": "+14.44%와 79.4% 위치가 좋지만 71억원대 대금 체급을 한 번 더 확인하고 싶다."
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "322원선 테스트 중이라 반등 확인 전까지 5위권 복귀 보류."
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "143억원대 대금과 76.4% 위치는 양호하지만 상위 5종보다 리더십이 약하다."
     },
     {
-      "symbol": "IRYS",
-      "market": "KRW-IRYS",
-      "reason": "293억원대 대금은 좋지만 25.6% 위치라 아직 함정 가능성이 남아 있다."
-    },
-    {
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "reason": "130억원대 대금에도 26.7% 위치라 추세 확인이 더 필요하다."
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "86억원대 대금은 있으나 47.4% 위치라 아직 중간권 순환주 성격이 더 강하다."
     },
     {
       "symbol": "DOGE",
       "market": "KRW-DOGE",
-      "reason": "247억원대 대금과 66.7% 위치는 좋지만 오늘은 비메이저 알트 5종보다 공격성이 덜하다."
+      "reason": "대금은 충분하지만 0% 수익률이라 이번 회차 공격 코어로는 덜 선명하다."
+    },
+    {
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "양전환은 했지만 41억원대 수준으로 대금 체급이 확 줄어 재편입 우선순위가 낮다."
     }
   ],
   "history": [
@@ -1895,6 +1895,24 @@
       "amount_delta": 16755.25606088102,
       "cash_delta_krw": -1204702.9107773455,
       "reason": "57.5억원대 대금과 88.5% 위치가 동행하는 소형 고베타 지속형이라 5번째 공격 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-05-20T18:08:00+09:00",
+      "symbol": "BIO",
+      "action": "SELL",
+      "price_krw": 52.1,
+      "amount_delta": -23346.955635219874,
+      "cash_delta_krw": 1216376.3885949554,
+      "reason": "양수 구조는 유지됐지만 IRYS의 430억원대 대금 재가속이 더 강해 후보 승격 규칙에 따라 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-20T18:08:00+09:00",
+      "symbol": "IRYS",
+      "action": "BUY",
+      "price_krw": 54.8,
+      "amount_delta": 22196.649426915246,
+      "cash_delta_krw": -1216376.3885949554,
+      "reason": "430억원대 거래대금과 +5.38% 상승, 58.5% 위치가 겹쳐 BIO 대체 승격 슬롯으로 신규 편입"
     }
   ]
 }
