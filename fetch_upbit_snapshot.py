@@ -20,6 +20,9 @@ QUALITY_RECOVERY_MIN_RANGE_POSITION = 45
 CONTINUATION_MIN_TURNOVER = 8_000_000_000
 CONTINUATION_MIN_RANGE_POSITION = 60
 CONTINUATION_MAX_DAY_HIGH_GAP = -5
+FADING_LEADER_MIN_TURNOVER = 10_000_000_000
+FADING_LEADER_MAX_RANGE_POSITION = 55
+FADING_LEADER_MAX_DAY_HIGH_GAP = -7
 
 
 def get_json(url: str):
@@ -97,6 +100,12 @@ turnover_traps = [
     and r['change_pct_24h'] < 0
     and (r['range_position_pct'] is not None and r['range_position_pct'] <= TURNOVER_TRAP_MAX_RANGE_POSITION)
 ]
+fading_positive_leaders = [
+    r for r in positive
+    if r['turnover_krw_24h'] >= FADING_LEADER_MIN_TURNOVER
+    and (r['range_position_pct'] is not None and r['range_position_pct'] <= FADING_LEADER_MAX_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] <= FADING_LEADER_MAX_DAY_HIGH_GAP)
+]
 
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
@@ -109,6 +118,7 @@ snapshot = {
     'quality_recovery_alts': quality_recovery[:20],
     'continuation_positive_alts': continuation_positive[:20],
     'turnover_trap_alts': turnover_traps[:20],
+    'fading_positive_leaders': fading_positive_leaders[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
@@ -123,4 +133,5 @@ print(json.dumps({
     'quality_recovery_alts': quality_recovery[:10],
     'continuation_positive_alts': continuation_positive[:10],
     'turnover_trap_alts': turnover_traps[:10],
+    'fading_positive_leaders': fading_positive_leaders[:10],
 }, ensure_ascii=False, indent=2))

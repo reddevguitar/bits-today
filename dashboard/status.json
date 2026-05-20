@@ -1,147 +1,157 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive diversified long on Upbit alt leaders with one rotation toward higher-attention continuation",
-  "confidence": "medium-high",
+  "judgment": "aggressive diversified long on healthy Upbit continuation leaders while cutting fading high-turnover names",
+  "confidence": "high",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-05-21 00:10 KST",
-  "market_status": "메이저는 완만한 risk-on 유지, 업비트 알트는 TRAC·IRYS·ONDO 대금 3강 위에 VVV·CHIP 같은 고가권 지속형이 붙는 구조입니다.",
+  "updated_at": "2026-05-21 06:09 KST",
+  "market_status": "메이저는 다시 위쪽으로 올라왔고, 업비트 알트는 TRAC 같은 fading 대금주보다 ONDO·JTO·CFG·BIO·SAHARA 같은 고가 유지형이 더 강합니다.",
   "fear_greed": "27 (Fear, alternative.me 기준)",
-  "btc_snapshot": "BTC 114.886M원대, ETH 3.163M원대, XRP 2,034원대, SOL 127.0K원대",
+  "btc_snapshot": "BTC 115.271M원대, ETH 3.169M원대, XRP 2,033원대, SOL 128.0K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-3,654,199 KRW",
-  "last_valuation_krw": "6,299,003 KRW",
+  "realized_pnl_krw": "-3,612,515 KRW",
+  "last_valuation_krw": "6,179,078 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -37.01,
-  "last_action": "ROTATE_CFG_TO_VVV",
-  "trade_count": 201,
-  "last_updated": "2026-05-21T00:10:00+09:00",
+  "return_pct": -38.21,
+  "last_action": "ROTATE_TO_ONDO_SAHARA_JTO_CFG_BIO",
+  "trade_count": 210,
+  "last_updated": "2026-05-21T06:09:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 21,
     "recent_sell_count": 19,
     "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 2,
-    "recent_24h_buy_count": 10,
-    "recent_24h_sell_count": 10,
-    "recent_24h_replacement_count": 10,
-    "portfolio_churn_24h_pct": 200.0
+    "recent_trade_actions_24h": 11,
+    "recent_24h_buy_count": 11,
+    "recent_24h_sell_count": 12,
+    "recent_24h_replacement_count": 11,
+    "portfolio_churn_24h_pct": 220.0
   },
   "summary": [
-    "₿ BTC: +0.36%, 위치 57.6%",
-    "◆ ETH: +0.60%, 위치 64.0%",
-    "💧 XRP: +0.30%, 위치 70.7%",
-    "☀️ SOL: +1.11%, 위치 71.9%",
-    "해석: 완전한 위험회피장은 아니고, 메이저가 시가만 잃지 않으면 알트 공격 분산 유지 가능.",
-    "🏗️ CFG: +4.96%로 나쁘지 않지만 VVV보다 대금·주의 환기 강도가 약해 6위권 후퇴",
-    "🏜️ SAHARA: 234억원대 대금에도 음전환",
-    "🪁 KITE: 149억원대 대금에도 17.1% 위치",
-    "🧠 ONT: 124억원대 대금에도 30.1% 위치",
-    "🐕 DOGE: 대금은 충분하지만 0% 수익률",
-    "⬆️ UP2: +8.89%지만 아직 47.2% 위치",
-    "현금 0%, 5종 공격 분산 유지",
-    "TRAC은 리스팅 모멘텀, ONDO는 체급 앵커, IRYS는 대금 승격, CHIP은 고베타, VVV는 attention 지속 슬롯",
-    "day_high_gap이 너무 깊은 강세주는 추격 강도를 낮추고, continuation 유지형을 우선",
-    "SELL 🏗️ CFG 전량 @ 423원",
-    "BUY 🕶️ VVV 신규 편입 @ 26,550원",
+    "₿ BTC: +0.70%, 위치 80.1%",
+    "◆ ETH: +0.86%, 위치 72.7%",
+    "💧 XRP: +0.25%, 위치 65.1%",
+    "☀️ SOL: +1.83%, 위치 72.7%",
+    "해석: 메이저 4종 평균 위치 72.3%라 알트 공격 분산을 막을 상황은 아닙니다.",
+    "🧭 TRAC: 664억원대 최대 대금에도 44.7% 위치·-17.33% gap → fading leader",
+    "🪻 IRYS: 460억원대 대금이지만 49.2% 위치로 고가 유지력 부족",
+    "🧩 CHIP: +8%대여도 49.2% 위치·-7.48% gap",
+    "🕶️ VVV: 207억원대 대금에도 39.9% 위치·-7.72% gap",
+    "🪁 KITE: 음수 전환·34.3% 위치 turnover trap",
+    "🌊 SUI: 품질은 좋지만 이번 회차는 BIO/JTO보다 공격성이 낮아 예비 1순위",
+    "현금 0%, ONDO·SAHARA·JTO·CFG·BIO 5종 균등 공격 분산",
+    "ONDO는 유동성 앵커, SAHARA는 AI 지속형, JTO는 신선한 돌파형, CFG는 continuation 코어, BIO는 중형 승격형",
+    "fading_positive_leaders(TRAC·CHIP·VVV·UP2)는 대금이 커도 재추격 금지",
+    "SELL 🌐 ONDO 일부 @ 597원",
+    "SELL 🧭 TRAC 전량 @ 620원",
+    "SELL 🪻 IRYS 전량 @ 54.2원",
+    "SELL 🧩 CHIP 전량 @ 75.5원",
+    "SELL 🕶️ VVV 전량 @ 25,340원",
+    "BUY 🏜️ SAHARA 신규 편입 @ 55.7원",
+    "BUY 🪂 JTO 신규 편입 @ 785원",
+    "BUY 🏗️ CFG 신규 편입 @ 440원",
+    "BUY 🧬 BIO 신규 편입 @ 55.1원",
     "현금: 0원",
-    "🧭 TRAC: 2017.928개 @ 평균 597원, 현재 645원",
-    "🌐 ONDO: 2166.732개 @ 평균 556원, 현재 582원",
-    "🪻 IRYS: 22196.649개 @ 평균 54.8원, 현재 54.7원",
-    "🧩 CHIP: 16755.256개 @ 평균 71.9원, 현재 77.6원",
-    "🕶️ VVV: 46.028개 @ 평균 26,550원, 현재 26,550원",
-    "총 평가액: 6,299,003원",
-    "실현손익: -3,654,199원",
-    "누적 수익률: -37.01%",
-    "18시 회차의 IRYS 승격은 맞았고, 메이저 반등 속 공격 유지 판단도 유효했습니다.",
-    "다만 continuation 필터 없이 보면 CFG를 과하게 오래 들고 갈 수 있었고, 이번엔 그 약점을 바로 보강했습니다.",
-    "fetch_upbit_snapshot.py에 continuation_positive_alts 버킷을 추가했습니다.",
-    "후보 판단에 day_high_gap을 더 직접 반영해 고대금 양수주 중 진짜 지속형을 더 빨리 분리했습니다.",
-    "보고서 회전 사유를 더 짧고 직접적으로 정리했습니다.",
-    "aggressive diversified long on Upbit alt leaders with one rotation toward higher-attention continuation",
-    "medium-high",
-    "TRAC 620원, ONDO 572원, IRYS 53.6원, CHIP 75.0원, VVV 25,500원 하향 시 즉시 재평가",
-    "BTC 114.47M원 재이탈 시 공격 강도 축소 검토",
-    "SAHARA·KITE·ONT 같은 고대금 약세주 재추격 금지",
-    "TRAC은 가장 강하지만 고점 대비 되밀림 폭이 커 눌림 변동성이 큽니다.",
-    "ONDO·IRYS가 동시에 흔들리면 대금 코어가 약해질 수 있습니다.",
-    "CHIP·VVV는 둘 다 공격 슬롯이라 야간 체감 변동성이 큽니다.",
-    "공포탐욕 27은 여전히 낮아 메이저 시가 이탈 시 분위기가 급변할 수 있습니다."
+    "🌐 ONDO: 2070.043개 @ 평균 556원, 현재 597원",
+    "🏜️ SAHARA: 22186.993개 @ 평균 55.7원, 현재 55.7원",
+    "🪂 JTO: 1574.287개 @ 평균 785원, 현재 785원",
+    "🏗️ CFG: 2808.672개 @ 평균 440원, 현재 440원",
+    "🧬 BIO: 22428.594개 @ 평균 55.1원, 현재 55.1원",
+    "총 평가액: 6,179,078원",
+    "실현손익: -3,612,515원",
+    "누적 수익률: -38.21%",
+    "00시 회차 바스켓은 초반 근거가 있었지만 새벽엔 TRAC·VVV 쪽이 빨리 약해졌습니다.",
+    "이번엔 약해진 슬롯을 버티지 않고 바로 교체했고, fading 리더 탐지 버킷도 추가해 같은 실수를 줄였습니다.",
+    "fetch_upbit_snapshot.py에 fading_positive_leaders 버킷 추가",
+    "continuation 후보와 fade 후보를 동시에 비교하도록 판단 기준 정리",
+    "보고서에서 “건강한 지속형 vs 대금 함정/페이드”를 더 직접적으로 표기",
+    "aggressive diversified long on healthy Upbit continuation leaders while cutting fading high-turnover names",
+    "high",
+    "ONDO 586원, SAHARA 54.8원, JTO 760원, CFG 430원, BIO 53.8원 하향 시 즉시 재평가",
+    "BTC 115.0M원 재이탈 시 공격 강도 축소 검토",
+    "TRAC·CHIP·VVV는 반등만으로 재추격하지 말고 range_position 60% 회복을 확인",
+    "JTO는 신선한 돌파형이라 변동성이 가장 큽니다.",
+    "SAHARA·BIO는 리테일 attention 성격이 강해 intraday 흔들림이 큽니다.",
+    "공포탐욕 27은 아직 낮아 메이저 시가 이탈 시 분위기가 급변할 수 있습니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-05-21T00:10:00+09:00",
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 55.1,
+      "amount_delta": 22428.59378226413,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "9.54% 상승과 89.5% 위치가 동행하며 중형 회복주에서 지속형으로 승격된 공격 슬롯"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "CFG",
+      "action": "BUY",
+      "price_krw": 440.0,
+      "amount_delta": 2808.671630460804,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "RWA 연계 중형축 중 가장 깔끔한 93.8% 위치와 11.5B 대금을 유지하는 지속형"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 785.0,
+      "amount_delta": 1574.2872833156098,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "JTX 출시 이슈와 Solana 강세가 겹치며 28.7% 상승·87.0% 위치를 동시에 만든 신규 돌파 리더"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 55.7,
+      "amount_delta": 22186.993131108684,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "AI 내러티브와 한국 리테일 관심이 겹치면서 24.8B 대금 대비 77.5% 고위치를 지키는 지속형"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
       "symbol": "VVV",
-      "action": "BUY",
-      "price_krw": 26550.0,
-      "amount_delta": 46.027750117087535,
-      "cash_delta_krw": -1222036.7656086741,
-      "reason": "+8.23%, 251억원대 대금, 74.2% 위치가 동시에 확인돼 CFG 대체 최우선 attention-driven 지속형으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-21T00:10:00+09:00",
-      "symbol": "CFG",
       "action": "SELL",
-      "price_krw": 423.0,
-      "amount_delta": -2888.975805221452,
-      "cash_delta_krw": 1222036.7656086741,
-      "reason": "구조는 양호했지만 VVV가 더 큰 거래대금과 더 강한 주목도 지속성을 보여 공격 슬롯을 상향 교체"
+      "price_krw": 25340.0,
+      "amount_delta": -46.027750117087535,
+      "cash_delta_krw": 1166343.1879669982,
+      "reason": "20.7B 대금에도 39.9% 위치와 -7.72% gap로 attention 지속 슬롯이 무너져 전량 교체"
     },
     {
-      "timestamp": "2026-05-20T18:08:00+09:00",
-      "symbol": "IRYS",
-      "action": "BUY",
-      "price_krw": 54.8,
-      "amount_delta": 22196.649426915246,
-      "cash_delta_krw": -1216376.3885949554,
-      "reason": "430억원대 거래대금과 +5.38% 상승, 58.5% 위치가 겹쳐 BIO 대체 승격 슬롯으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-20T18:08:00+09:00",
-      "symbol": "BIO",
-      "action": "SELL",
-      "price_krw": 52.1,
-      "amount_delta": -23346.955635219874,
-      "cash_delta_krw": 1216376.3885949554,
-      "reason": "양수 구조는 유지됐지만 IRYS의 430억원대 대금 재가속이 더 강해 후보 승격 규칙에 따라 전량 교체"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
+      "timestamp": "2026-05-21T06:09:00+09:00",
       "symbol": "CHIP",
-      "action": "BUY",
-      "price_krw": 71.9,
-      "amount_delta": 16755.25606088102,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "57.5억원대 대금과 88.5% 위치가 동행하는 소형 고베타 지속형이라 5번째 공격 슬롯으로 편입"
+      "action": "SELL",
+      "price_krw": 75.5,
+      "amount_delta": -16755.25606088102,
+      "cash_delta_krw": 1265021.832596517,
+      "reason": "상승률은 남았어도 49.2% 위치와 -7.48% gap가 겹쳐 고베타 지속형 명분이 약화"
     },
     {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "BIO",
-      "action": "BUY",
-      "price_krw": 51.6,
-      "amount_delta": 23346.955635219874,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "76.8억원대 대금과 64% 위치가 겹친 중형 회복 슬롯으로 편입"
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "IRYS",
+      "action": "SELL",
+      "price_krw": 54.2,
+      "amount_delta": -22196.649426915246,
+      "cash_delta_krw": 1203058.3989388065,
+      "reason": "대금은 크지만 49.2% 위치와 -5.74% gap로 고가 유지력이 약해 더 강한 continuation 군으로 이동"
     },
     {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "CFG",
-      "action": "BUY",
-      "price_krw": 417.0,
-      "amount_delta": 2888.975805221452,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "91.7% 고위치와 88억원대 대금이 확인된 가장 깔끔한 지속형이라 편입"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
+      "timestamp": "2026-05-21T06:09:00+09:00",
       "symbol": "TRAC",
-      "action": "BUY",
-      "price_krw": 597.0,
-      "amount_delta": 2017.9278237476474,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "10.56% 상승과 189억원대 대금, 78.8% 위치가 겹친 최강 반격형으로 편입"
+      "action": "SELL",
+      "price_krw": 620.0,
+      "amount_delta": -2017.9278237476474,
+      "cash_delta_krw": 1251115.2507235415,
+      "reason": "대금 1위는 유지했지만 44.7% 위치와 -17.33% day_high_gap로 fading leader 신호가 강해 전량 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-21-0609.md",
+      "title": "2026-05-21-0609"
+    },
     {
       "file": "2026-05-21-0010.md",
       "title": "2026-05-21-0010"
@@ -169,10 +179,6 @@
     {
       "file": "2026-05-19-1208.md",
       "title": "2026-05-19-1208"
-    },
-    {
-      "file": "2026-05-19-0608.md",
-      "title": "2026-05-19-0608"
     }
   ],
   "positions": [
@@ -180,150 +186,92 @@
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "amount": 2166.731853916089,
+      "amount": 2070.0427427181803,
       "avg_buy_price_krw": "556 KRW",
-      "last_price_krw": "582 KRW",
-      "thesis": "최대 KRW 대금과 중단 이상 회복이 동시에 확인된 유동성 앵커",
-      "strategy": "liquidity recovery anchor new buy",
-      "role": "liquidity recovery anchor",
+      "last_price_krw": "597 KRW",
+      "thesis": "RWA 대표주 중 업비트 최대급 대금과 고가권 체류가 동시에 유지되는 유동성 앵커",
+      "strategy": "liquidity anchor continuation trimmed hold",
+      "role": "liquidity anchor continuation",
       "risk_limit_pct": 4,
-      "profit_take_pct": 9,
-      "pnl_krw": "56,335 KRW",
-      "pnl_pct": 4.68
+      "profit_take_pct": 10,
+      "pnl_krw": "84,872 KRW",
+      "pnl_pct": 7.37
     },
     {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "amount": 2017.9278237476474,
-      "avg_buy_price_krw": "597 KRW",
-      "last_price_krw": "645 KRW",
-      "thesis": "리스팅 급락 뒤 다시 78% 위치까지 회복한 반격형 리더",
-      "strategy": "high-beta rebound leader new buy",
-      "role": "high-beta rebound leader",
+      "icon": "🏜️",
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "amount": 22186.993131108684,
+      "avg_buy_price_krw": "56 KRW",
+      "last_price_krw": "56 KRW",
+      "thesis": "AI 내러티브와 한국 리테일 관심이 겹치면서 24.8B 대금 대비 77.5% 고위치를 지키는 지속형",
+      "strategy": "ai continuation leader new buy",
+      "role": "ai attention continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 11,
-      "pnl_krw": "96,861 KRW",
-      "pnl_pct": 8.04
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🧩",
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "amount": 16755.25606088102,
-      "avg_buy_price_krw": "72 KRW",
-      "last_price_krw": "78 KRW",
-      "thesis": "57억원대 대금 대비 위치가 매우 높은 소형 고베타 지속형",
-      "strategy": "small-cap continuation slot new buy",
-      "role": "small-cap continuation slot",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12,
-      "pnl_krw": "95,505 KRW",
-      "pnl_pct": 7.93
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "amount": 1574.2872833156098,
+      "avg_buy_price_krw": "785 KRW",
+      "last_price_krw": "785 KRW",
+      "thesis": "JTX 출시 이슈와 Solana 강세가 겹치며 28.7% 상승·87.0% 위치를 동시에 만든 신규 돌파 리더",
+      "strategy": "solana breakout catalyst new buy",
+      "role": "fresh breakout catalyst",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🪻",
-      "symbol": "IRYS",
-      "market": "KRW-IRYS",
-      "amount": 22196.649426915246,
+      "icon": "🏗️",
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "amount": 2808.671630460804,
+      "avg_buy_price_krw": "440 KRW",
+      "last_price_krw": "440 KRW",
+      "thesis": "RWA 연계 중형축 중 가장 깔끔한 93.8% 위치와 11.5B 대금을 유지하는 지속형",
+      "strategy": "high-range continuation core new buy",
+      "role": "clean continuation core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🧬",
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "amount": 22428.59378226413,
       "avg_buy_price_krw": "55 KRW",
       "last_price_krw": "55 KRW",
-      "thesis": "430억원대 거래대금과 중단 회복이 겹친 대금 승격형 후보",
-      "strategy": "turnover-driven promotion slot new buy",
-      "role": "turnover-driven promotion slot",
+      "thesis": "9.54% 상승과 89.5% 위치가 동행하며 중형 회복주에서 지속형으로 승격된 공격 슬롯",
+      "strategy": "mid-cap continuation promotion new buy",
+      "role": "mid-cap continuation slot",
       "risk_limit_pct": 5,
       "profit_take_pct": 12,
-      "pnl_krw": "-2,220 KRW",
-      "pnl_pct": -0.18
-    },
-    {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "amount": 46.027750117087535,
-      "avg_buy_price_krw": "26,550 KRW",
-      "last_price_krw": "26,550 KRW",
-      "thesis": "최근 상장 잔열과 AI 프라이버시 서사가 동시에 살아난 주목도 지속형 코어",
-      "strategy": "attention-driven continuation slot new buy",
-      "role": "attention-driven continuation slot",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "NEAR": [
-      {
-        "timestamp": "2026-05-19T18:08:00+09:00",
-        "price_krw": 2446.0,
-        "action": "BUY"
-      },
+    "STORJ": [
       {
         "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 2414.0,
-        "action": "SELL"
-      }
-    ],
-    "LINK": [
-      {
-        "timestamp": "2026-05-19T18:08:00+09:00",
-        "price_krw": 14480.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 14170.0,
-        "action": "SELL"
-      }
-    ],
-    "SUI": [
-      {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 1584.0,
-        "action": "SELL"
-      }
-    ],
-    "POLYX": [
-      {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 79.9,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-20T06:08:00+09:00",
-        "price_krw": 80.2,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-20T12:08:00+09:00",
-        "price_krw": 77.8,
-        "action": "SELL"
-      }
-    ],
-    "ONT": [
-      {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 94.4,
+        "price_krw": 177.0,
         "action": "BUY"
       },
       {
         "timestamp": "2026-05-20T06:08:00+09:00",
-        "price_krw": 93.9,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-20T12:08:00+09:00",
-        "price_krw": 87.7,
+        "price_krw": 175.0,
         "action": "SELL"
       }
     ],
     "SAHARA": [
-      {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 55.1,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-20T06:08:00+09:00",
         "price_krw": 56.4,
@@ -333,14 +281,14 @@
         "timestamp": "2026-05-20T12:08:00+09:00",
         "price_krw": 52.6,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 55.7,
+        "action": "BUY"
       }
     ],
     "HYPER": [
-      {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 172.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-20T06:08:00+09:00",
         "price_krw": 177.0,
@@ -352,15 +300,27 @@
         "action": "SELL"
       }
     ],
-    "STORJ": [
+    "ONT": [
       {
-        "timestamp": "2026-05-20T00:08:00+09:00",
-        "price_krw": 177.0,
+        "timestamp": "2026-05-20T06:08:00+09:00",
+        "price_krw": 93.9,
         "action": "BUY"
       },
       {
+        "timestamp": "2026-05-20T12:08:00+09:00",
+        "price_krw": 87.7,
+        "action": "SELL"
+      }
+    ],
+    "POLYX": [
+      {
         "timestamp": "2026-05-20T06:08:00+09:00",
-        "price_krw": 175.0,
+        "price_krw": 80.2,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-20T12:08:00+09:00",
+        "price_krw": 77.8,
         "action": "SELL"
       }
     ],
@@ -381,6 +341,11 @@
         "timestamp": "2026-05-20T12:08:00+09:00",
         "price_krw": 556.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 597.0,
+        "action": "SELL"
       }
     ],
     "TRAC": [
@@ -388,6 +353,11 @@
         "timestamp": "2026-05-20T12:08:00+09:00",
         "price_krw": 597.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 620.0,
+        "action": "SELL"
       }
     ],
     "CFG": [
@@ -400,6 +370,11 @@
         "timestamp": "2026-05-21T00:10:00+09:00",
         "price_krw": 423.0,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 440.0,
+        "action": "BUY"
       }
     ],
     "BIO": [
@@ -412,6 +387,11 @@
         "timestamp": "2026-05-20T18:08:00+09:00",
         "price_krw": 52.1,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 55.1,
+        "action": "BUY"
       }
     ],
     "CHIP": [
@@ -419,6 +399,11 @@
         "timestamp": "2026-05-20T12:08:00+09:00",
         "price_krw": 71.9,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 75.5,
+        "action": "SELL"
       }
     ],
     "IRYS": [
@@ -426,6 +411,11 @@
         "timestamp": "2026-05-20T18:08:00+09:00",
         "price_krw": 54.8,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 54.2,
+        "action": "SELL"
       }
     ],
     "VVV": [
@@ -433,95 +423,107 @@
         "timestamp": "2026-05-21T00:10:00+09:00",
         "price_krw": 26550.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 25340.0,
+        "action": "SELL"
+      }
+    ],
+    "JTO": [
+      {
+        "timestamp": "2026-05-21T06:09:00+09:00",
+        "price_krw": 785.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-05-21-0010.md",
+  "latest_report_file": "2026-05-21-0609.md",
   "preferred_buy_candidates": [
-    {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "price_krw": 645.0,
-      "change_pct_24h": 19.44444444,
-      "turnover_krw_24h": 63434653411.278404,
-      "reason": "634억원대 최대 거래대금과 +19.44% 상승이 유지돼 이번 회차도 최우선 공격 코어다.",
-      "score": 9.4,
-      "community": "업비트 신규 상장 잔열이 식지 않았고 거래대금 1위를 다시 굳히는 중이다",
-      "risk": "620원 하회 시 리스팅 후속 모멘텀 둔화",
-      "allocation_krw": 1259800.5489763403,
-      "role": "high-beta listing momentum core",
-      "invalidated_if": "620원 하회 시",
-      "range_position_pct": 55.3,
-      "day_high_gap_pct": -14.0
-    },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "price_krw": 582.0,
-      "change_pct_24h": 6.01092896,
-      "turnover_krw_24h": 45148012738.88166,
-      "reason": "451억원대 대금과 78.8% 위치가 겹쳐 바스켓의 가장 안정적인 유동성 앵커다.",
-      "score": 9.2,
-      "community": "RWA 대표주 중 업비트 체급이 가장 크고 고가권 체류가 선명하다",
-      "risk": "572원 하회 시 유동성 앵커 약화",
-      "allocation_krw": 1259800.5489763403,
+      "price_krw": 597.0,
+      "change_pct_24h": 8.7431694,
+      "turnover_krw_24h": 52647145008.38127,
+      "reason": "526억원대 대금과 86.2% 위치가 동시에 유지돼 이번 회차 바스켓의 최우선 유동성 코어다.",
+      "score": 9.6,
+      "community": "RWA 대표주 중 업비트 체감 유동성이 가장 크고 86.2% 고위치가 선명하다",
+      "risk": "586원 하회 시 유동성 앵커 약화",
+      "allocation_krw": 1235815.5174027537,
       "role": "liquidity anchor continuation",
-      "invalidated_if": "572원 하회 시",
-      "range_position_pct": 78.8,
-      "day_high_gap_pct": -1.85
+      "invalidated_if": "586원 하회 시",
+      "range_position_pct": 86.2,
+      "day_high_gap_pct": -1.49
     },
     {
-      "icon": "🪻",
-      "symbol": "IRYS",
-      "market": "KRW-IRYS",
-      "price_krw": 54.7,
-      "change_pct_24h": 5.19230769,
-      "turnover_krw_24h": 46708207653.59848,
-      "reason": "467억원대 대금이 유지되는 동안 56.9% 위치를 지켜 여전히 승격형 코어로 볼 수 있다.",
-      "score": 8.9,
-      "community": "IRYS 상장 후속 관심이 아직 남아 있고 거래대금 2위권이 유지된다",
-      "risk": "53.6원 하회 시 승격 논리 약화",
-      "allocation_krw": 1259800.5489763403,
-      "role": "turnover promotion core",
-      "invalidated_if": "53.6원 하회 시",
-      "range_position_pct": 56.9,
-      "day_high_gap_pct": -4.87
+      "icon": "🏜️",
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "price_krw": 55.7,
+      "change_pct_24h": 1.27272727,
+      "turnover_krw_24h": 24823664148.839317,
+      "reason": "248억원대 대금과 77.5% 위치로 AI 서사 중 가장 체감이 강한 지속형이라 공격 슬롯으로 적합하다.",
+      "score": 9.1,
+      "community": "AI 테마와 한국 리테일 관심이 겹치며 눌림 뒤 다시 상단 회복이 붙는다",
+      "risk": "54.8원 하회 시 AI 추세 슬롯 약화",
+      "allocation_krw": 1235815.5174027537,
+      "role": "ai attention continuation",
+      "invalidated_if": "54.8원 하회 시",
+      "range_position_pct": 77.5,
+      "day_high_gap_pct": -2.79
     },
     {
-      "icon": "🧩",
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "price_krw": 77.6,
-      "change_pct_24h": 11.01573677,
-      "turnover_krw_24h": 27355095238.434017,
-      "reason": "+11.02%와 274억원대 대금이 동행하는 소형 고베타 지속형이라 공격 슬롯 유지가 타당하다.",
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "price_krw": 785.0,
+      "change_pct_24h": 28.68852459,
+      "turnover_krw_24h": 13349764143.548794,
+      "reason": "28.69% 급등과 133억원대 대금, 87.0% 위치가 겹쳐 이번 회차의 가장 공격적인 신규 돌파 코어다.",
+      "score": 9.4,
+      "community": "JTX 이슈와 Solana 강세가 겹치며 새벽 국내 추격 자금이 크게 붙는 모습이다",
+      "risk": "760원 하회 시 신규 돌파 리더 명분 약화",
+      "allocation_krw": 1235815.5174027537,
+      "role": "fresh breakout catalyst",
+      "invalidated_if": "760원 하회 시",
+      "range_position_pct": 87.0,
+      "day_high_gap_pct": -3.33
+    },
+    {
+      "icon": "🏗️",
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "price_krw": 440.0,
+      "change_pct_24h": 9.18114144,
+      "turnover_krw_24h": 11485317957.553637,
+      "reason": "11.5B 대금과 93.8% 위치가 동행해 이번 회차에는 VVV보다 훨씬 건강한 지속형 코어다.",
+      "score": 9.0,
+      "community": "중형 알트 중 가장 깔끔한 고가 유지형으로 재평가되고 있다",
+      "risk": "430원 하회 시 continuation 구조 훼손",
+      "allocation_krw": 1235815.5174027537,
+      "role": "clean continuation core",
+      "invalidated_if": "430원 하회 시",
+      "range_position_pct": 93.8,
+      "day_high_gap_pct": -0.68
+    },
+    {
+      "icon": "🧬",
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "price_krw": 55.1,
+      "change_pct_24h": 9.54274354,
+      "turnover_krw_24h": 9802354952.491901,
+      "reason": "9.54% 상승과 89.5% 위치가 함께 나와 SUI보다 더 공격적인 5번째 슬롯으로 채택한다.",
       "score": 8.8,
-      "community": "소형 체급인데도 대금과 상승률이 동시에 살아 있어 리테일 추격이 강하다",
-      "risk": "75.0원 하회 시 고베타 지속성 훼손",
-      "allocation_krw": 1259800.5489763403,
-      "role": "small-cap continuation leader",
-      "invalidated_if": "75.0원 하회 시",
-      "range_position_pct": 66.7,
-      "day_high_gap_pct": -4.9
-    },
-    {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "price_krw": 26550.0,
-      "change_pct_24h": 8.23481451,
-      "turnover_krw_24h": 25069641785.022293,
-      "reason": "+8.23%, 251억원대 대금, 74.2% 위치가 동시에 확인돼 CFG보다 더 공격적인 5번째 슬롯으로 승격한다.",
-      "score": 8.7,
-      "community": "최근 업비트 상장 잔열과 AI 프라이버시 서사가 다시 거래대금 상위권으로 복귀했다",
-      "risk": "25,500원 하회 시 고가권 유지 실패",
-      "allocation_krw": 1259800.5489763403,
-      "role": "attention-driven continuation slot",
-      "invalidated_if": "25,500원 하회 시",
-      "range_position_pct": 74.2,
-      "day_high_gap_pct": -3.31
+      "community": "중형 대금주 중 후행이 아니라 실제 고가권 유지가 살아 있어 재평가가 빠르다",
+      "risk": "53.8원 하회 시 승격 논리 약화",
+      "allocation_krw": 1235815.5174027537,
+      "role": "mid-cap continuation slot",
+      "invalidated_if": "53.8원 하회 시",
+      "range_position_pct": 89.5,
+      "day_high_gap_pct": -1.08
     }
   ],
   "reference_watchlist": [
@@ -529,207 +531,245 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.47M원 시가 재이탈 시 이번 risk-on 지속성에 바로 경고가 켜진다."
+      "reason": "115.0M원대 재이탈 여부가 이번 알트 공격 지속의 최우선 거시 트리거다."
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.145M원 시가 위 유지가 중형 알트 follow-through에 중요하다."
+      "reason": "3.145M원 시가 위 유지가 중형 알트 follow-through를 받쳐준다."
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,028원 시가 위 안착이 국내 리테일 온도 유지의 핵심이다."
+      "reason": "2,028원 시가 위 유지가 국내 리테일 온도 유지에 중요하다."
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "127K원대 고위치 유지가 고베타 알트 추격 심리를 받쳐준다."
-    },
-    {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "구조는 나쁘지 않지만 VVV보다 체급·주의 환기 강도가 약해 후보 6위권으로 후퇴했다."
+      "reason": "128K원대 고위치가 JTO 같은 Solana 계열 모멘텀 지속성에 직결된다."
     },
     {
       "icon": "🌊",
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "174억원대 대금과 83.1% 위치가 좋아 품질형 대체 후보로 유효하다."
+      "reason": "19.4B 대금·85.1% 위치의 품질형 대체 1순위다."
     },
     {
-      "icon": "🧬",
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "79.4% 위치는 좋지만 85억원대 대금 체급이 VVV·CHIP보다 약해 보류."
+      "icon": "🧭",
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "대금은 압도적이지만 44.7% 위치까지 밀려 fade 해소 전 재추격 금지."
     },
     {
-      "icon": "🪙",
-      "symbol": "UP2",
-      "market": "KRW-UP2",
-      "reason": "+8.89%는 좋지만 47.2% 위치라 한 번 더 고위치 확인이 필요하다."
+      "icon": "🪻",
+      "symbol": "IRYS",
+      "market": "KRW-IRYS",
+      "reason": "46B 대금이 남아 rebound 가능성은 있지만 55원 회복 전까지는 관망."
+    },
+    {
+      "icon": "🧩",
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "고베타는 여전하나 76원대 복귀 전엔 함부로 재진입하지 않는다."
     }
   ],
   "cycle_improvements": [
-    "fetch_upbit_snapshot.py에 continuation_positive_alts 버킷을 추가해 고대금 양수 종목 중 고가권 유지형을 더 빨리 식별하도록 개선했다.",
-    "후보 선별에서 단순 상승률보다 day_high_gap과 고가권 유지력을 더 직접 반영해 CFG 대신 VVV 교체 결정을 명확히 했다.",
-    "보고서에 회전 사유를 한 줄로 바로 보이게 정리해 후보 교체 판단 속도를 높였다."
+    "fetch_upbit_snapshot.py에 fading_positive_leaders 버킷을 추가해 대금은 크지만 고가 유지가 무너진 종목을 별도로 즉시 식별하도록 개선했다.",
+    "후보 선정에서 continuation_positive와 fading_positive_leaders를 함께 비교해 TRAC·CHIP·VVV 같은 약화 리더를 더 빨리 배제했다.",
+    "보고서에 건강한 continuation 군과 fade 군을 더 선명하게 구분해 교체 이유를 한눈에 읽히게 정리했다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "234억원대 대금에도 음전환으로 돌아서 이번 회차 재추격 금지."
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "664억원대 최대 대금에도 44.7% 위치·-17.33% gap라 fading leader로 분류."
+    },
+    {
+      "symbol": "IRYS",
+      "market": "KRW-IRYS",
+      "reason": "460억원대 대금은 크지만 49.2% 위치와 -5.74% gap로 continuation 경쟁에서 밀림."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "292억원대 대금과 +8% 상승에도 49.2% 위치·-7.48% gap로 고베타 지속형 명분 약화."
+    },
+    {
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "207억원대 대금에도 39.9% 위치와 -7.72% gap로 attention 지속 슬롯 붕괴."
     },
     {
       "symbol": "KITE",
       "market": "KRW-KITE",
-      "reason": "149억원대 대금에도 17.1% 위치라 대금 함정 성격이 강하다."
-    },
-    {
-      "symbol": "ONT",
-      "market": "KRW-ONT",
-      "reason": "124억원대 대금에도 30.1% 위치와 음수 수익률로 회복 실패."
+      "reason": "137억원대 대금인데도 음수 전환과 34.3% 위치라 turnover trap 경계."
     },
     {
       "symbol": "DOGE",
       "market": "KRW-DOGE",
       "reason": "대금은 충분하지만 0% 수익률이라 공격 코어 우선순위가 낮다."
-    },
-    {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "상승 구조는 유지되지만 현재 회차는 VVV 대비 주목도와 대금 확장성이 약하다."
-    },
-    {
-      "symbol": "UP2",
-      "market": "KRW-UP2",
-      "reason": "수익률은 좋지만 50% 아래 위치라 아직 보조 회복주에 가깝다."
     }
   ],
-  "top_line": "업비트 00시10분 회차는 메이저 4종이 중상단을 지키는 동안 TRAC·ONDO·IRYS·CHIP·VVV 5종으로 재정렬하고 CFG는 VVV로 교체하는 편이 더 공격적입니다.",
-  "ui_version": "v5.9",
+  "top_line": "업비트 06시09분 회차는 메이저 4종이 다시 상단으로 올라온 가운데 TRAC·IRYS·CHIP·VVV 대신 ONDO·SAHARA·JTO·CFG·BIO 5종으로 더 공격적으로 재편하는 편이 낫습니다.",
+  "ui_version": "v6.0",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 114.47M원 재이탈, TRAC 620원 하향, ONDO 572원 하향, IRYS 53.6원 하향, CHIP 75.0원 하향, VVV 25,500원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 115.0M원 재이탈, ONDO 586원 하향, SAHARA 54.8원 하향, JTO 760원 하향, CFG 430원 하향, BIO 53.8원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 후보 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "메이저 4종 평균 range_position_pct가 35 미만으로 재하락하면 음수 종목 신규 편입 금지",
-      "고대금 양수 종목도 day_high_gap_pct가 -7%보다 깊고 range_position_pct가 50 미만이면 추격 비중을 낮춘다",
+      "메이저 4종 평균 range_position_pct가 40 미만으로 떨어지면 신규 공격 슬롯 수를 줄인다",
+      "fading_positive_leaders 버킷에 들어간 종목은 range_position_pct 60 재돌파 전 재추격 금지",
       "시장 붕괴가 아니라면 현금 0% 유지하되 더 강한 continuation 후보가 나오면 즉시 한 슬롯 교체"
     ],
     "exit_rules": [
-      "BTC 114.47M원 재이탈, TRAC 620원 하향, ONDO 572원 하향, IRYS 53.6원 하향, CHIP 75.0원 하향, VVV 25,500원 하향 시 즉시 재평가",
+      "BTC 115.0M원 재이탈, ONDO 586원 하향, SAHARA 54.8원 하향, JTO 760원 하향, CFG 430원 하향, BIO 53.8원 하향 시 즉시 재평가",
       "top4 majors는 후보 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "메이저 4종 평균 range_position_pct가 35 미만으로 재하락하면 음수 종목 신규 편입 금지",
-      "고대금 양수 종목도 day_high_gap_pct가 -7%보다 깊고 range_position_pct가 50 미만이면 추격 비중을 낮춘다",
+      "메이저 4종 평균 range_position_pct가 40 미만으로 떨어지면 신규 공격 슬롯 수를 줄인다",
+      "fading_positive_leaders 버킷에 들어간 종목은 range_position_pct 60 재돌파 전 재추격 금지",
       "시장 붕괴가 아니라면 현금 0% 유지하되 더 강한 continuation 후보가 나오면 즉시 한 슬롯 교체"
     ]
   },
   "scorecard": {
-    "turnover_focus": "TRAC·IRYS·ONDO 3강 대금 중심 유지",
-    "momentum_discipline": "continuation 필터로 고가권 유지형을 우선하고 대금 함정주는 배제",
-    "diversification": "리스팅 모멘텀·유동성 앵커·승격형·소형 지속형·주목도 지속형 5분산",
+    "turnover_focus": "ONDO·SAHARA·JTO 상위 대금과 CFG·BIO 보조 대금의 조합",
+    "momentum_discipline": "고가 유지 continuation 우선, fading leader는 대금이 커도 배제",
+    "diversification": "RWA 앵커·AI 지속형·신규 돌파형·중형 continuation·중형 승격형 5분산",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "high_conviction_positive_count": 8,
-    "resilient_positive_count": 7,
-    "quality_recovery_count": 14,
-    "turnover_trap_count": 2,
+    "high_conviction_positive_count": 9,
+    "resilient_positive_count": 8,
+    "quality_recovery_count": 20,
     "continuation_positive_count": 6,
+    "turnover_trap_count": 1,
+    "fading_positive_leader_count": 4,
     "high_conviction_symbols": [
       "ONDO",
-      "VVV",
+      "SAHARA",
       "SUI",
+      "JTO",
+      "CFG",
       "BIO",
-      "NEAR",
       "PROS",
-      "PENGU",
+      "NEAR",
       "VIRTUAL"
     ],
     "resilient_positive_symbols": [
-      "IRYS",
       "ONDO",
-      "CHIP",
-      "VVV",
+      "SAHARA",
       "SUI",
-      "CFG",
-      "BIO"
-    ],
-    "quality_recovery_symbols": [
-      "TRAC",
-      "IRYS",
-      "ONDO",
-      "CHIP",
-      "VVV",
-      "SUI",
-      "UP2",
+      "JTO",
       "CFG",
       "BIO",
-      "NEAR",
       "PROS",
+      "NEAR"
+    ],
+    "quality_recovery_symbols": [
+      "ONDO",
+      "IRYS",
+      "CHIP",
+      "SAHARA",
+      "SUI",
+      "JTO",
+      "CFG",
+      "BIO",
+      "B3",
       "PENGU",
+      "PROS",
+      "NEAR",
       "VIRTUAL",
-      "LINK"
+      "LINK",
+      "ADA",
+      "ORCA",
+      "PYTH",
+      "WLD",
+      "SHIB",
+      "HYPER"
     ],
     "continuation_positive_symbols": [
       "ONDO",
-      "CHIP",
-      "VVV",
+      "SAHARA",
       "SUI",
+      "JTO",
       "CFG",
       "BIO"
     ],
     "turnover_trap_symbols": [
-      "KITE",
-      "ONT"
+      "KITE"
     ],
-    "summary": "강한 양수 대금주와 함정 대금주 분화가 분명하다. 이번 회차는 continuation 상위권 쪽으로 바스켓을 더 기울인다."
+    "fading_positive_leader_symbols": [
+      "TRAC",
+      "CHIP",
+      "VVV",
+      "UP2"
+    ],
+    "summary": "건강한 continuation 6종과 fading leader 4종의 분화가 뚜렷하다. 이번 회차는 대금 크기보다 고가 유지력이 더 중요하다."
   },
   "rotation_map": [
     {
-      "bucket": "CFG → VVV",
+      "bucket": "TRAC → JTO",
       "symbols": [
-        "CFG",
-        "VVV"
+        "TRAC",
+        "JTO"
       ],
-      "note": "둘 다 양수 지속형이지만 VVV가 거래대금·주목도 확장에서 우위라 공격 슬롯을 상향 교체."
+      "note": "상장 후속 대금 리더보다 신선한 제품 촉매와 고위치 유지가 더 강한 JTO로 교체."
+    },
+    {
+      "bucket": "IRYS → SAHARA",
+      "symbols": [
+        "IRYS",
+        "SAHARA"
+      ],
+      "note": "대금은 비슷한 급이지만 SAHARA가 77.5% 고위치로 더 건강한 AI 지속형이다."
+    },
+    {
+      "bucket": "CHIP → BIO",
+      "symbols": [
+        "CHIP",
+        "BIO"
+      ],
+      "note": "고베타 소형 지속형보다 중형 고위치 지속형이 더 깔끔해 BIO로 상향."
+    },
+    {
+      "bucket": "VVV → CFG",
+      "symbols": [
+        "VVV",
+        "CFG"
+      ],
+      "note": "attention 슬롯이 무너진 VVV 대신 93.8% 위치의 continuation 코어 CFG를 복귀 편입."
     }
   ],
   "self_evaluation": {
-    "score": 8.1,
-    "summary": "18시 회차의 IRYS 승격은 적절했고 메이저 반등을 계속 공격적으로 활용한 점도 좋았다. 다만 continuation 필터가 없었다면 CFG를 너무 오래 붙들 수 있었기에 이번에 체계 보강과 VVV 교체까지 같이 반영했다."
+    "score": 8.4,
+    "summary": "00시 회차의 VVV 승격은 당시 근거가 있었지만 새벽에는 JTO·CFG·BIO 쪽 고가 유지력이 더 강해졌다. 좋은 점은 약해진 슬롯을 오래 버티지 않고, 이번 회차에 fading 리더 식별 로직까지 바로 추가해 체계를 보강했다는 점이다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 9.98,
+    "preferred_avg_change_pct_24h": 11.49,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 207715610827.21484,
-    "leader_turnover_share_pct": 30.54,
-    "leader_symbol": "TRAC"
+    "preferred_turnover_total_krw_24h": 112108246210.81491,
+    "leader_turnover_share_pct": 46.96,
+    "leader_symbol": "ONDO"
   },
   "scenario_view": {
-    "regime": "mixed_selective_rotation",
-    "btc_range_position_pct": 57.6,
-    "major_avg_range_position_pct": 66.05,
-    "preferred_avg_change_pct_24h": 9.98,
-    "preferred_high_range_count": 0,
-    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
+    "regime": "btc_stabilizing_alt_continuation",
+    "btc_range_position_pct": 80.1,
+    "major_avg_range_position_pct": 72.32,
+    "preferred_avg_change_pct_24h": 11.49,
+    "preferred_high_range_count": 4,
+    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 66.38,
-    "avg_day_high_gap_pct": -5.79,
-    "above_80_range_count": 0,
-    "summary": "고위치(80%+) 후보 0개 / 평균 위치 66.38%"
+    "avg_range_position_pct": 86.8,
+    "avg_day_high_gap_pct": -1.87,
+    "above_80_range_count": 4,
+    "summary": "고위치(80%+) 후보 4개 / 평균 위치 86.8%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -740,52 +780,133 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "last_price_krw": 645.0,
-      "threshold_krw": 620.0,
-      "distance_to_invalidation_pct": 4.03,
-      "status": "near"
-    },
-    {
       "icon": "🌐",
       "symbol": "ONDO",
-      "last_price_krw": 582.0,
-      "threshold_krw": 572.0,
-      "distance_to_invalidation_pct": 1.75,
+      "last_price_krw": 597.0,
+      "threshold_krw": 586.0,
+      "distance_to_invalidation_pct": 1.88,
       "status": "near"
     },
     {
-      "icon": "🪻",
-      "symbol": "IRYS",
-      "last_price_krw": 54.7,
-      "threshold_krw": 53.6,
-      "distance_to_invalidation_pct": 2.05,
+      "icon": "🏜️",
+      "symbol": "SAHARA",
+      "last_price_krw": 55.7,
+      "threshold_krw": 54.8,
+      "distance_to_invalidation_pct": 1.64,
       "status": "near"
     },
     {
-      "icon": "🧩",
-      "symbol": "CHIP",
-      "last_price_krw": 77.6,
-      "threshold_krw": 75.0,
-      "distance_to_invalidation_pct": 3.47,
+      "icon": "🪂",
+      "symbol": "JTO",
+      "last_price_krw": 785.0,
+      "threshold_krw": 760.0,
+      "distance_to_invalidation_pct": 3.29,
       "status": "near"
     },
     {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "last_price_krw": 26550.0,
-      "threshold_krw": 25500.0,
-      "distance_to_invalidation_pct": 4.12,
+      "icon": "🏗️",
+      "symbol": "CFG",
+      "last_price_krw": 440.0,
+      "threshold_krw": 430.0,
+      "distance_to_invalidation_pct": 2.33,
+      "status": "near"
+    },
+    {
+      "icon": "🧬",
+      "symbol": "BIO",
+      "last_price_krw": 55.1,
+      "threshold_krw": 53.8,
+      "distance_to_invalidation_pct": 2.42,
       "status": "near"
     }
   ],
   "portfolio_health": {
     "discipline_alert_count": 0,
-    "green_position_count": 4,
-    "red_position_count": 1
+    "green_position_count": 5,
+    "red_position_count": 0
   },
   "recent_rotation_log_24h": [
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 55.1,
+      "amount_delta": 22428.59378226413,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "9.54% 상승과 89.5% 위치가 동행하며 중형 회복주에서 지속형으로 승격된 공격 슬롯"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "CFG",
+      "action": "BUY",
+      "price_krw": 440.0,
+      "amount_delta": 2808.671630460804,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "RWA 연계 중형축 중 가장 깔끔한 93.8% 위치와 11.5B 대금을 유지하는 지속형"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 785.0,
+      "amount_delta": 1574.2872833156098,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "JTX 출시 이슈와 Solana 강세가 겹치며 28.7% 상승·87.0% 위치를 동시에 만든 신규 돌파 리더"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 55.7,
+      "amount_delta": 22186.993131108684,
+      "cash_delta_krw": -1235815.5174027537,
+      "reason": "AI 내러티브와 한국 리테일 관심이 겹치면서 24.8B 대금 대비 77.5% 고위치를 지키는 지속형"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "VVV",
+      "action": "SELL",
+      "price_krw": 25340.0,
+      "amount_delta": -46.027750117087535,
+      "cash_delta_krw": 1166343.1879669982,
+      "reason": "20.7B 대금에도 39.9% 위치와 -7.72% gap로 attention 지속 슬롯이 무너져 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 75.5,
+      "amount_delta": -16755.25606088102,
+      "cash_delta_krw": 1265021.832596517,
+      "reason": "상승률은 남았어도 49.2% 위치와 -7.48% gap가 겹쳐 고베타 지속형 명분이 약화"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "IRYS",
+      "action": "SELL",
+      "price_krw": 54.2,
+      "amount_delta": -22196.649426915246,
+      "cash_delta_krw": 1203058.3989388065,
+      "reason": "대금은 크지만 49.2% 위치와 -5.74% gap로 고가 유지력이 약해 더 강한 continuation 군으로 이동"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "TRAC",
+      "action": "SELL",
+      "price_krw": 620.0,
+      "amount_delta": -2017.9278237476474,
+      "cash_delta_krw": 1251115.2507235415,
+      "reason": "대금 1위는 유지했지만 44.7% 위치와 -17.33% day_high_gap로 fading leader 신호가 강해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-21T06:09:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 597.0,
+      "amount_delta": -96.68911119790891,
+      "cash_delta_krw": 57723.39938515162,
+      "reason": "유동성 앵커는 유지하되 5종 균등 공격 분산을 맞추기 위해 소폭 트림"
+    },
     {
       "timestamp": "2026-05-21T00:10:00+09:00",
       "symbol": "VVV",
@@ -794,157 +915,82 @@
       "amount_delta": 46.027750117087535,
       "cash_delta_krw": -1222036.7656086741,
       "reason": "+8.23%, 251억원대 대금, 74.2% 위치가 동시에 확인돼 CFG 대체 최우선 attention-driven 지속형으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-21T00:10:00+09:00",
-      "symbol": "CFG",
-      "action": "SELL",
-      "price_krw": 423.0,
-      "amount_delta": -2888.975805221452,
-      "cash_delta_krw": 1222036.7656086741,
-      "reason": "구조는 양호했지만 VVV가 더 큰 거래대금과 더 강한 주목도 지속성을 보여 공격 슬롯을 상향 교체"
-    },
-    {
-      "timestamp": "2026-05-20T18:08:00+09:00",
-      "symbol": "IRYS",
-      "action": "BUY",
-      "price_krw": 54.8,
-      "amount_delta": 22196.649426915246,
-      "cash_delta_krw": -1216376.3885949554,
-      "reason": "430억원대 거래대금과 +5.38% 상승, 58.5% 위치가 겹쳐 BIO 대체 승격 슬롯으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-20T18:08:00+09:00",
-      "symbol": "BIO",
-      "action": "SELL",
-      "price_krw": 52.1,
-      "amount_delta": -23346.955635219874,
-      "cash_delta_krw": 1216376.3885949554,
-      "reason": "양수 구조는 유지됐지만 IRYS의 430억원대 대금 재가속이 더 강해 후보 승격 규칙에 따라 전량 교체"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "CHIP",
-      "action": "BUY",
-      "price_krw": 71.9,
-      "amount_delta": 16755.25606088102,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "57.5억원대 대금과 88.5% 위치가 동행하는 소형 고베타 지속형이라 5번째 공격 슬롯으로 편입"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "BIO",
-      "action": "BUY",
-      "price_krw": 51.6,
-      "amount_delta": 23346.955635219874,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "76.8억원대 대금과 64% 위치가 겹친 중형 회복 슬롯으로 편입"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "CFG",
-      "action": "BUY",
-      "price_krw": 417.0,
-      "amount_delta": 2888.975805221452,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "91.7% 고위치와 88억원대 대금이 확인된 가장 깔끔한 지속형이라 편입"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "TRAC",
-      "action": "BUY",
-      "price_krw": 597.0,
-      "amount_delta": 2017.9278237476474,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "10.56% 상승과 189억원대 대금, 78.8% 위치가 겹친 최강 반격형으로 편입"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "ONDO",
-      "action": "BUY",
-      "price_krw": 556.0,
-      "amount_delta": 2166.731853916089,
-      "cash_delta_krw": -1204702.9107773455,
-      "reason": "437억원대 최대 대금과 65.2% 위치를 동시에 회복해 이번 회차 유동성 앵커 1순위로 편입"
-    },
-    {
-      "timestamp": "2026-05-20T12:08:00+09:00",
-      "symbol": "OPEN",
-      "action": "SELL",
-      "price_krw": 322.0,
-      "amount_delta": -3824.33067295093,
-      "cash_delta_krw": 1231434.4766901995,
-      "reason": "322원선 테스트와 25% 위치, 50억원대 대금으로 톱5 우선순위에서 밀려 전량 교체"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🧭 TRAC, 645원, +19.44%, 24h 대금 약 634억원, 55.3% 위치, 리스팅 모멘텀 코어",
-      "2. 🌐 ONDO, 582원, +6.01%, 24h 대금 약 451억원, 78.8% 위치, 유동성 앵커",
-      "3. 🪻 IRYS, 54.7원, +5.19%, 24h 대금 약 467억원, 56.9% 위치, 대금 승격 코어",
-      "4. 🧩 CHIP, 77.6원, +11.02%, 24h 대금 약 274억원, 66.7% 위치, 소형 고베타 지속형",
-      "5. 🕶️ VVV, 26,550원, +8.23%, 24h 대금 약 251억원, 74.2% 위치, 주목도 지속형"
+      "1. 🌐 ONDO, 597원, +8.74%, 24h 대금 약 526.5억원, 86.2% 위치, 유동성 앵커",
+      "2. 🏜️ SAHARA, 55.7원, +1.27%, 24h 대금 약 248.2억원, 77.5% 위치, AI 지속형",
+      "3. 🪂 JTO, 785원, +28.69%, 24h 대금 약 133.5억원, 87.0% 위치, 신규 돌파 코어",
+      "4. 🏗️ CFG, 440원, +9.18%, 24h 대금 약 114.9억원, 93.8% 위치, continuation 코어",
+      "5. 🧬 BIO, 55.1원, +9.54%, 24h 대금 약 98.0억원, 89.5% 위치, 중형 승격형"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: +0.36%, 위치 57.6%",
-      "- ◆ ETH: +0.60%, 위치 64.0%",
-      "- 💧 XRP: +0.30%, 위치 70.7%",
-      "- ☀️ SOL: +1.11%, 위치 71.9%",
-      "- 해석: 완전한 위험회피장은 아니고, 메이저가 시가만 잃지 않으면 알트 공격 분산 유지 가능."
+      "- ₿ BTC: +0.70%, 위치 80.1%",
+      "- ◆ ETH: +0.86%, 위치 72.7%",
+      "- 💧 XRP: +0.25%, 위치 65.1%",
+      "- ☀️ SOL: +1.83%, 위치 72.7%",
+      "- 해석: 메이저 4종 평균 위치 72.3%라 알트 공격 분산을 막을 상황은 아닙니다."
     ],
     "🚫 이번 회차 제외/강등": [
-      "- 🏗️ CFG: +4.96%로 나쁘지 않지만 VVV보다 대금·주의 환기 강도가 약해 6위권 후퇴",
-      "- 🏜️ SAHARA: 234억원대 대금에도 음전환",
-      "- 🪁 KITE: 149억원대 대금에도 17.1% 위치",
-      "- 🧠 ONT: 124억원대 대금에도 30.1% 위치",
-      "- 🐕 DOGE: 대금은 충분하지만 0% 수익률",
-      "- ⬆️ UP2: +8.89%지만 아직 47.2% 위치"
+      "- 🧭 TRAC: 664억원대 최대 대금에도 44.7% 위치·-17.33% gap → fading leader",
+      "- 🪻 IRYS: 460억원대 대금이지만 49.2% 위치로 고가 유지력 부족",
+      "- 🧩 CHIP: +8%대여도 49.2% 위치·-7.48% gap",
+      "- 🕶️ VVV: 207억원대 대금에도 39.9% 위치·-7.72% gap",
+      "- 🪁 KITE: 음수 전환·34.3% 위치 turnover trap",
+      "- 🌊 SUI: 품질은 좋지만 이번 회차는 BIO/JTO보다 공격성이 낮아 예비 1순위"
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 0%, 5종 공격 분산 유지",
-      "- TRAC은 리스팅 모멘텀, ONDO는 체급 앵커, IRYS는 대금 승격, CHIP은 고베타, VVV는 attention 지속 슬롯",
-      "- day_high_gap이 너무 깊은 강세주는 추격 강도를 낮추고, continuation 유지형을 우선"
+      "- 현금 0%, ONDO·SAHARA·JTO·CFG·BIO 5종 균등 공격 분산",
+      "- ONDO는 유동성 앵커, SAHARA는 AI 지속형, JTO는 신선한 돌파형, CFG는 continuation 코어, BIO는 중형 승격형",
+      "- fading_positive_leaders(TRAC·CHIP·VVV·UP2)는 대금이 커도 재추격 금지"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL 🏗️ CFG 전량 @ 423원",
-      "- BUY 🕶️ VVV 신규 편입 @ 26,550원"
+      "- SELL 🌐 ONDO 일부 @ 597원",
+      "- SELL 🧭 TRAC 전량 @ 620원",
+      "- SELL 🪻 IRYS 전량 @ 54.2원",
+      "- SELL 🧩 CHIP 전량 @ 75.5원",
+      "- SELL 🕶️ VVV 전량 @ 25,340원",
+      "- BUY 🏜️ SAHARA 신규 편입 @ 55.7원",
+      "- BUY 🪂 JTO 신규 편입 @ 785원",
+      "- BUY 🏗️ CFG 신규 편입 @ 440원",
+      "- BUY 🧬 BIO 신규 편입 @ 55.1원"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🧭 TRAC: 2017.928개 @ 평균 597원, 현재 645원",
-      "- 🌐 ONDO: 2166.732개 @ 평균 556원, 현재 582원",
-      "- 🪻 IRYS: 22196.649개 @ 평균 54.8원, 현재 54.7원",
-      "- 🧩 CHIP: 16755.256개 @ 평균 71.9원, 현재 77.6원",
-      "- 🕶️ VVV: 46.028개 @ 평균 26,550원, 현재 26,550원",
-      "- 총 평가액: 6,299,003원",
-      "- 실현손익: -3,654,199원",
-      "- 누적 수익률: -37.01%"
+      "- 🌐 ONDO: 2070.043개 @ 평균 556원, 현재 597원",
+      "- 🏜️ SAHARA: 22186.993개 @ 평균 55.7원, 현재 55.7원",
+      "- 🪂 JTO: 1574.287개 @ 평균 785원, 현재 785원",
+      "- 🏗️ CFG: 2808.672개 @ 평균 440원, 현재 440원",
+      "- 🧬 BIO: 22428.594개 @ 평균 55.1원, 현재 55.1원",
+      "- 총 평가액: 6,179,078원",
+      "- 실현손익: -3,612,515원",
+      "- 누적 수익률: -38.21%"
     ],
     "🧠 자기 평가": [
-      "- 18시 회차의 IRYS 승격은 맞았고, 메이저 반등 속 공격 유지 판단도 유효했습니다.",
-      "- 다만 continuation 필터 없이 보면 CFG를 과하게 오래 들고 갈 수 있었고, 이번엔 그 약점을 바로 보강했습니다."
+      "- 00시 회차 바스켓은 초반 근거가 있었지만 새벽엔 TRAC·VVV 쪽이 빨리 약해졌습니다.",
+      "- 이번엔 약해진 슬롯을 버티지 않고 바로 교체했고, fading 리더 탐지 버킷도 추가해 같은 실수를 줄였습니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- fetch_upbit_snapshot.py에 continuation_positive_alts 버킷을 추가했습니다.",
-      "- 후보 판단에 day_high_gap을 더 직접 반영해 고대금 양수주 중 진짜 지속형을 더 빨리 분리했습니다.",
-      "- 보고서 회전 사유를 더 짧고 직접적으로 정리했습니다."
+      "- fetch_upbit_snapshot.py에 fading_positive_leaders 버킷 추가",
+      "- continuation 후보와 fade 후보를 동시에 비교하도록 판단 기준 정리",
+      "- 보고서에서 “건강한 지속형 vs 대금 함정/페이드”를 더 직접적으로 표기"
     ],
     "🧾 판단": [
-      "- aggressive diversified long on Upbit alt leaders with one rotation toward higher-attention continuation"
+      "- aggressive diversified long on healthy Upbit continuation leaders while cutting fading high-turnover names"
     ],
     "🎯 신뢰도": [
-      "- medium-high"
+      "- high"
     ],
     "👉 추천 행동": [
-      "- TRAC 620원, ONDO 572원, IRYS 53.6원, CHIP 75.0원, VVV 25,500원 하향 시 즉시 재평가",
-      "- BTC 114.47M원 재이탈 시 공격 강도 축소 검토",
-      "- SAHARA·KITE·ONT 같은 고대금 약세주 재추격 금지"
+      "- ONDO 586원, SAHARA 54.8원, JTO 760원, CFG 430원, BIO 53.8원 하향 시 즉시 재평가",
+      "- BTC 115.0M원 재이탈 시 공격 강도 축소 검토",
+      "- TRAC·CHIP·VVV는 반등만으로 재추격하지 말고 range_position 60% 회복을 확인"
     ],
     "⚠️ 리스크 메모": [
-      "- TRAC은 가장 강하지만 고점 대비 되밀림 폭이 커 눌림 변동성이 큽니다.",
-      "- ONDO·IRYS가 동시에 흔들리면 대금 코어가 약해질 수 있습니다.",
-      "- CHIP·VVV는 둘 다 공격 슬롯이라 야간 체감 변동성이 큽니다.",
-      "- 공포탐욕 27은 여전히 낮아 메이저 시가 이탈 시 분위기가 급변할 수 있습니다."
+      "- JTO는 신선한 돌파형이라 변동성이 가장 큽니다.",
+      "- SAHARA·BIO는 리테일 attention 성격이 강해 intraday 흔들림이 큽니다.",
+      "- 공포탐욕 27은 아직 낮아 메이저 시가 이탈 시 분위기가 급변할 수 있습니다."
     ]
   }
 }
