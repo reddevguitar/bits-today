@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3372678.6123754964,
-  "last_valuation_krw": 6310145.610369038,
-  "last_action": "ROTATE_STORJ_TO_OPEN_REBALANCE_ONT_POLYX_SAHARA_HYPER",
-  "last_updated": "2026-05-20T06:08:00+09:00",
-  "trade_count": 187,
+  "realized_pnl_krw": -3683206.4258786836,
+  "last_valuation_krw": 6023514.553886728,
+  "last_action": "FULL_ROTATE_TO_ONDO_TRAC_CFG_BIO_CHIP",
+  "last_updated": "2026-05-20T12:08:00+09:00",
+  "trade_count": 197,
   "positions": {
-    "ONT": {
-      "market": "KRW-ONT",
-      "amount": 13440.139745194967,
-      "avg_buy_price_krw": 100.72810472292396,
-      "last_price_krw": 93.9,
-      "value_krw": 1262029.1220738075,
-      "thesis": "업비트 최대 양전환 대금주지만 고점 대비 눌림이 커서 잔존 리더 여부를 계속 검증해야 하는 코어",
-      "strategy": "residual turnover leader topped up",
-      "role": "residual turnover leader",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
-    },
-    "POLYX": {
-      "market": "KRW-POLYX",
-      "amount": 15736.023966007575,
-      "avg_buy_price_krw": 80.00083528409117,
-      "last_price_krw": 80.2,
-      "value_krw": 1262029.1220738075,
-      "thesis": "과열 없이 76.6% 위치를 지키는 품질형 지속 슬롯",
-      "strategy": "quality continuation topped up",
-      "role": "quality continuation slot",
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 2166.731853916089,
+      "avg_buy_price_krw": 556.0,
+      "last_price_krw": 556.0,
+      "value_krw": 1204702.9107773455,
+      "thesis": "최대 KRW 대금과 중단 이상 회복이 동시에 확인된 유동성 앵커",
+      "strategy": "liquidity recovery anchor new buy",
+      "role": "liquidity recovery anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
     },
-    "SAHARA": {
-      "market": "KRW-SAHARA",
-      "amount": 22376.402873649073,
-      "avg_buy_price_krw": 55.1,
-      "last_price_krw": 56.4,
-      "value_krw": 1262029.1220738075,
-      "thesis": "AI 서사와 업비트 고점권 체결이 동시에 붙은 최우선 모멘텀 리더",
-      "strategy": "headline momentum trimmed to equalize",
-      "role": "headline momentum leader",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12
-    },
-    "HYPER": {
-      "market": "KRW-HYPER",
-      "amount": 7130.108034315296,
-      "avg_buy_price_krw": 172.0,
-      "last_price_krw": 177.0,
-      "value_krw": 1262029.1220738075,
-      "thesis": "88%대 위치를 유지하는 드문 새벽-아침 연속 돌파주",
-      "strategy": "late-session breakout trimmed to equalize",
-      "role": "late-session breakout slot",
+    "TRAC": {
+      "market": "KRW-TRAC",
+      "amount": 2017.9278237476474,
+      "avg_buy_price_krw": 597.0,
+      "last_price_krw": 597.0,
+      "value_krw": 1204702.9107773455,
+      "thesis": "리스팅 급락 뒤 다시 78% 위치까지 회복한 반격형 리더",
+      "strategy": "high-beta rebound leader new buy",
+      "role": "high-beta rebound leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 11
     },
-    "OPEN": {
-      "market": "KRW-OPEN",
-      "amount": 3824.33067295093,
-      "avg_buy_price_krw": 330.0,
-      "last_price_krw": 330.0,
-      "value_krw": 1262029.1220738075,
-      "thesis": "82.9% 위치와 88억원대 대금이 동시에 남아 있는 깔끔한 지속형 구조",
-      "strategy": "high-range continuation new buy",
-      "role": "clean continuation slot",
+    "CFG": {
+      "market": "KRW-CFG",
+      "amount": 2888.975805221452,
+      "avg_buy_price_krw": 417.0,
+      "last_price_krw": 417.0,
+      "value_krw": 1204702.9107773455,
+      "thesis": "고점 바로 아래 91%대 체류가 이어지는 품질형 지속 축",
+      "strategy": "quality continuation leader new buy",
+      "role": "quality continuation leader",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9
+    },
+    "BIO": {
+      "market": "KRW-BIO",
+      "amount": 23346.955635219874,
+      "avg_buy_price_krw": 51.6,
+      "last_price_krw": 51.6,
+      "value_krw": 1204702.9107773455,
+      "thesis": "중형 대금 회복과 64% 위치가 동행하는 순환매 슬롯",
+      "strategy": "mid-cap continuation slot new buy",
+      "role": "mid-cap continuation slot",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
+    },
+    "CHIP": {
+      "market": "KRW-CHIP",
+      "amount": 16755.25606088102,
+      "avg_buy_price_krw": 71.9,
+      "last_price_krw": 71.9,
+      "value_krw": 1204702.9107773455,
+      "thesis": "57억원대 대금 대비 위치가 매우 높은 소형 고베타 지속형",
+      "strategy": "small-cap continuation slot new buy",
+      "role": "small-cap continuation slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.2M원 아래로 밀리면 이번 고위치 지속 가정이 빠르게 약해질 수 있다."
+      "reason": "113.936M원 저점 재이탈 시 알트 선별매도 급격히 약해질 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.14M원 하회 시 알트 follow-through가 둔화될 수 있다."
+      "reason": "3.131M원 부근 저점이 깨지면 중형 알트 follow-through가 더 나빠질 수 있다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "15.7% 위치에 불과해 국내 리테일 온도는 아직 완전히 회복되지 않았다."
+      "reason": "22.2% 위치에 그쳐 국내 리테일 온도가 아직 약하다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "126K원선 재이탈 시 고베타 슬롯 신뢰도가 다시 약해진다."
+      "reason": "124.7K원 저점 재확인 시 고베타 추격 심리가 다시 꺾일 수 있다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "13.4%와 78.8% 위치로 강하지만 최근 상장 과열 잔재가 있어 OPEN 직후 대체 1순위로 관찰."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "거래대금은 여전히 크지만 0% 위치로 무너져 즉시 재추격 금지."
     },
     {
-      "symbol": "STORJ",
-      "market": "KRW-STORJ",
-      "reason": "대금은 크지만 37% 위치라 이번 회차에는 지속형 기준에서 밀렸다."
+      "symbol": "ONT",
+      "market": "KRW-ONT",
+      "reason": "서사는 남지만 5.5% 위치까지 붕괴해 재양전환 전까지 보류."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "216억원대 대금은 좋지만 33.3% 위치라 체급 대비 체력이 약하다."
-    },
-    {
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "reason": "음수지만 89.5% 위치라 양전환만 확인되면 재편입 후보가 될 수 있다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "644억원대 대금에도 8.6% 위치라 대표적 대금 함정이다."
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "322원선 테스트 중이라 반등 확인 전까지 5위권 복귀 보류."
     },
     {
       "symbol": "IRYS",
       "market": "KRW-IRYS",
-      "reason": "257억원대 대금에도 25% 위치에 머물러 재추격 금지."
+      "reason": "293억원대 대금은 좋지만 25.6% 위치라 아직 함정 가능성이 남아 있다."
+    },
+    {
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "130억원대 대금에도 26.7% 위치라 추세 확인이 더 필요하다."
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "247억원대 대금과 66.7% 위치는 좋지만 오늘은 비메이저 알트 5종보다 공격성이 덜하다."
     }
   ],
   "history": [
@@ -1805,6 +1805,96 @@
       "amount_delta": 3824.33067295093,
       "cash_delta_krw": -1262029.1220738068,
       "reason": "4.43% 상승과 82.9% 위치, 88억원대 대금이 겹쳐 STORJ 대체 최우선 지속형 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "ONT",
+      "action": "SELL",
+      "price_krw": 87.7,
+      "amount_delta": -13440.139745194967,
+      "cash_delta_krw": 1178700.2556535986,
+      "reason": "91.8원 무효화 기준을 실제 하향했고 5.5% 위치까지 붕괴해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "POLYX",
+      "action": "SELL",
+      "price_krw": 77.8,
+      "amount_delta": -15736.023966007575,
+      "cash_delta_krw": 1224262.6645553892,
+      "reason": "79.0원 기준을 하향했고 25% 위치로 밀려 품질 지속 슬롯 명분이 약해짐"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 52.6,
+      "amount_delta": -22376.402873649073,
+      "cash_delta_krw": 1176998.7911539413,
+      "reason": "거래대금은 남아도 54.8원 하회와 0% 위치 붕괴가 동시에 확인돼 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "HYPER",
+      "action": "SELL",
+      "price_krw": 170.0,
+      "amount_delta": -7130.108034315296,
+      "cash_delta_krw": 1212118.3658336003,
+      "reason": "173원 기준 이탈과 0% 위치 후퇴로 돌파 유지 실패가 명확해짐"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "OPEN",
+      "action": "SELL",
+      "price_krw": 322.0,
+      "amount_delta": -3824.33067295093,
+      "cash_delta_krw": 1231434.4766901995,
+      "reason": "322원선 테스트와 25% 위치, 50억원대 대금으로 톱5 우선순위에서 밀려 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 556.0,
+      "amount_delta": 2166.731853916089,
+      "cash_delta_krw": -1204702.9107773455,
+      "reason": "437억원대 최대 대금과 65.2% 위치를 동시에 회복해 이번 회차 유동성 앵커 1순위로 편입"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "TRAC",
+      "action": "BUY",
+      "price_krw": 597.0,
+      "amount_delta": 2017.9278237476474,
+      "cash_delta_krw": -1204702.9107773455,
+      "reason": "10.56% 상승과 189억원대 대금, 78.8% 위치가 겹친 최강 반격형으로 편입"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "CFG",
+      "action": "BUY",
+      "price_krw": 417.0,
+      "amount_delta": 2888.975805221452,
+      "cash_delta_krw": -1204702.9107773455,
+      "reason": "91.7% 고위치와 88억원대 대금이 확인된 가장 깔끔한 지속형이라 편입"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 51.6,
+      "amount_delta": 23346.955635219874,
+      "cash_delta_krw": -1204702.9107773455,
+      "reason": "76.8억원대 대금과 64% 위치가 겹친 중형 회복 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-05-20T12:08:00+09:00",
+      "symbol": "CHIP",
+      "action": "BUY",
+      "price_krw": 71.9,
+      "amount_delta": 16755.25606088102,
+      "cash_delta_krw": -1204702.9107773455,
+      "reason": "57.5억원대 대금과 88.5% 위치가 동행하는 소형 고베타 지속형이라 5번째 공격 슬롯으로 편입"
     }
   ]
 }

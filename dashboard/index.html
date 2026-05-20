@@ -84,6 +84,8 @@
         <div class="section-title">선호 후보 TOP 5</div>
         <div class="candidate-list" id="candidateList"></div>
       </div>
+      <div class="section-title">시나리오 / 후보 상태</div>
+      <div class="grid2" id="scenarioGrid"></div>
       <div class="section-title">시장 스코어카드</div>
       <div class="grid2" id="scoreGrid"></div>
       <div class="section-title">리스크 플랜</div>
@@ -151,8 +153,15 @@
           <div class="pill">무효화: ${c.invalidated_if || '-'}</div>
         </div>`);
 
+      const scenarioItems = [
+        {k:'regime', v: status.scenario_view?.regime || '-'},
+        {k:'scenario', v: status.scenario_view?.summary || '-'},
+        {k:'major avg pos', v: `${status.scenario_view?.major_avg_range_position_pct ?? '-'}%`},
+        {k:'candidate health', v: (status.candidate_health || []).map(c => `${c.symbol}:${c.status}`).join(' · ') || '-'}
+      ];
+      setList('scenarioGrid', scenarioItems, (s) => `<div class="metric"><div class="label">${s.k}</div><div class="value" style="font-size:13px">${s.v}</div></div>`);
       const scoreItems = Object.entries(status.scorecard || {}).map(([k,v]) => ({k,v}));
-      setList('scoreGrid', scoreItems, (s) => `<div class="metric"><div class="label">${s.k}</div><div class="value">${s.v}/10</div></div>`);
+      setList('scoreGrid', scoreItems, (s) => `<div class="metric"><div class="label">${s.k}</div><div class="value" style="font-size:13px">${s.v}</div></div>`);
       setList('riskList', (status.risk_plan?.exit_rules || []).map((text, i) => ({text, i})), (r) => `<div><strong>${r.i + 1}.</strong> ${r.text}</div>`);
       setList('improvementList', status.cycle_improvements || [], (text) => `<div>${text}</div>`);
       setList('positionList', status.positions || [], (p) => `
