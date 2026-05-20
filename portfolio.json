@@ -3,18 +3,18 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3671532.9480610737,
-  "last_valuation_krw": 6295266.144758076,
-  "last_action": "ROTATE_BIO_TO_IRYS",
-  "last_updated": "2026-05-20T18:08:00+09:00",
-  "trade_count": 199,
+  "realized_pnl_krw": -3654199.093229745,
+  "last_valuation_krw": 6299002.744881702,
+  "last_action": "ROTATE_CFG_TO_VVV",
+  "last_updated": "2026-05-21T00:10:00+09:00",
+  "trade_count": 201,
   "positions": {
     "ONDO": {
       "market": "KRW-ONDO",
       "amount": 2166.731853916089,
       "avg_buy_price_krw": 556.0,
-      "last_price_krw": 559.0,
-      "value_krw": 1211203.1063390938,
+      "last_price_krw": 582.0,
+      "value_krw": 1261037.938979164,
       "thesis": "최대 KRW 대금과 중단 이상 회복이 동시에 확인된 유동성 앵커",
       "strategy": "liquidity recovery anchor new buy",
       "role": "liquidity recovery anchor",
@@ -25,32 +25,20 @@
       "market": "KRW-TRAC",
       "amount": 2017.9278237476474,
       "avg_buy_price_krw": 597.0,
-      "last_price_krw": 693.0,
-      "value_krw": 1398423.9818571196,
+      "last_price_krw": 645.0,
+      "value_krw": 1301563.4463172324,
       "thesis": "리스팅 급락 뒤 다시 78% 위치까지 회복한 반격형 리더",
       "strategy": "high-beta rebound leader new buy",
       "role": "high-beta rebound leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 11
     },
-    "CFG": {
-      "market": "KRW-CFG",
-      "amount": 2888.975805221452,
-      "avg_buy_price_krw": 417.0,
-      "last_price_krw": 418.0,
-      "value_krw": 1207591.886582567,
-      "thesis": "고점 바로 아래 91%대 체류가 이어지는 품질형 지속 축",
-      "strategy": "quality continuation leader new buy",
-      "role": "quality continuation leader",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9
-    },
     "CHIP": {
       "market": "KRW-CHIP",
       "amount": 16755.25606088102,
       "avg_buy_price_krw": 71.9,
-      "last_price_krw": 75.3,
-      "value_krw": 1261670.7813843407,
+      "last_price_krw": 77.6,
+      "value_krw": 1300207.870324367,
       "thesis": "57억원대 대금 대비 위치가 매우 높은 소형 고베타 지속형",
       "strategy": "small-cap continuation slot new buy",
       "role": "small-cap continuation slot",
@@ -61,65 +49,77 @@
       "market": "KRW-IRYS",
       "amount": 22196.649426915246,
       "avg_buy_price_krw": 54.8,
-      "last_price_krw": 54.8,
-      "value_krw": 1216376.3885949554,
+      "last_price_krw": 54.7,
+      "value_krw": 1214156.723652264,
       "thesis": "430억원대 거래대금과 중단 회복이 겹친 대금 승격형 후보",
       "strategy": "turnover-driven promotion slot new buy",
       "role": "turnover-driven promotion slot",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
+    },
+    "VVV": {
+      "market": "KRW-VVV",
+      "amount": 46.027750117087535,
+      "avg_buy_price_krw": 26550.0,
+      "last_price_krw": 26550.0,
+      "value_krw": 1222036.7656086741,
+      "thesis": "최근 상장 잔열과 AI 프라이버시 서사가 동시에 살아난 주목도 지속형 코어",
+      "strategy": "attention-driven continuation slot new buy",
+      "role": "attention-driven continuation slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.47M원 시가 부근을 재하향하면 이번 risk-on 전환의 신뢰도가 급격히 낮아질 수 있다."
+      "reason": "114.47M원 시가 재이탈 시 이번 risk-on 지속성에 바로 경고가 켜진다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.145M원 시가 이탈 시 중형 알트 follow-through가 둔해질 수 있다."
+      "reason": "3.145M원 시가 위 유지가 중형 알트 follow-through에 중요하다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,028원 시가 재이탈 시 국내 리테일 온도 복귀가 약해질 수 있다."
+      "reason": "2,028원 시가 위 안착이 국내 리테일 온도 유지의 핵심이다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "126.0K원 안착 실패 시 고베타 알트 추격 심리가 식을 수 있다."
+      "reason": "127K원대 고위치 유지가 고베타 알트 추격 심리를 받쳐준다."
+    },
+    {
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "reason": "구조는 나쁘지 않지만 VVV보다 체급·주의 환기 강도가 약해 후보 6위권으로 후퇴했다."
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "174억원대 대금과 83.1% 위치가 좋아 품질형 대체 후보로 유효하다."
     },
     {
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "양수 구조는 유지하지만 IRYS 대비 체급과 속도가 밀려 일단 후보 6위권으로 후퇴했다."
+      "reason": "79.4% 위치는 좋지만 85억원대 대금 체급이 VVV·CHIP보다 약해 보류."
     },
     {
       "symbol": "UP2",
       "market": "KRW-UP2",
-      "reason": "+14.44%와 79.4% 위치가 좋지만 71억원대 대금 체급을 한 번 더 확인하고 싶다."
+      "reason": "+8.89%는 좋지만 47.2% 위치라 한 번 더 고위치 확인이 필요하다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "143억원대 대금과 76.4% 위치는 양호하지만 상위 5종보다 리더십이 약하다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "98.1% 위치가 돋보이지만 59억원대 대금이라 상위 5종보다 체급이 약하다."
     },
     {
-      "symbol": "B3",
-      "market": "KRW-B3",
-      "reason": "86억원대 대금은 있으나 47.4% 위치라 아직 중간권 순환주 성격이 더 강하다."
-    },
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "대금은 충분하지만 0% 수익률이라 이번 회차 공격 코어로는 덜 선명하다."
-    },
-    {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "양전환은 했지만 41억원대 수준으로 대금 체급이 확 줄어 재편입 우선순위가 낮다."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "76.3% 위치와 59억원대 대금은 양호하나 아직 메인 리더군보단 한 단계 아래다."
     }
   ],
   "history": [
@@ -1913,6 +1913,24 @@
       "amount_delta": 22196.649426915246,
       "cash_delta_krw": -1216376.3885949554,
       "reason": "430억원대 거래대금과 +5.38% 상승, 58.5% 위치가 겹쳐 BIO 대체 승격 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-21T00:10:00+09:00",
+      "symbol": "CFG",
+      "action": "SELL",
+      "price_krw": 423.0,
+      "amount_delta": -2888.975805221452,
+      "cash_delta_krw": 1222036.7656086741,
+      "reason": "구조는 양호했지만 VVV가 더 큰 거래대금과 더 강한 주목도 지속성을 보여 공격 슬롯을 상향 교체"
+    },
+    {
+      "timestamp": "2026-05-21T00:10:00+09:00",
+      "symbol": "VVV",
+      "action": "BUY",
+      "price_krw": 26550.0,
+      "amount_delta": 46.027750117087535,
+      "cash_delta_krw": -1222036.7656086741,
+      "reason": "+8.23%, 251억원대 대금, 74.2% 위치가 동시에 확인돼 CFG 대체 최우선 attention-driven 지속형으로 신규 편입"
     }
   ]
 }

@@ -17,6 +17,9 @@ RESILIENT_POSITIVE_MIN_TURNOVER = 6_000_000_000
 RESILIENT_POSITIVE_MIN_RANGE_POSITION = 55
 QUALITY_RECOVERY_MIN_TURNOVER = 3_000_000_000
 QUALITY_RECOVERY_MIN_RANGE_POSITION = 45
+CONTINUATION_MIN_TURNOVER = 8_000_000_000
+CONTINUATION_MIN_RANGE_POSITION = 60
+CONTINUATION_MAX_DAY_HIGH_GAP = -5
 
 
 def get_json(url: str):
@@ -82,6 +85,12 @@ quality_recovery = [
     if (r['range_position_pct'] is not None and r['range_position_pct'] >= QUALITY_RECOVERY_MIN_RANGE_POSITION)
     and r['turnover_krw_24h'] >= QUALITY_RECOVERY_MIN_TURNOVER
 ]
+continuation_positive = [
+    r for r in positive
+    if (r['range_position_pct'] is not None and r['range_position_pct'] >= CONTINUATION_MIN_RANGE_POSITION)
+    and r['turnover_krw_24h'] >= CONTINUATION_MIN_TURNOVER
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= CONTINUATION_MAX_DAY_HIGH_GAP)
+]
 turnover_traps = [
     r for r in leaders
     if r['turnover_krw_24h'] >= TURNOVER_TRAP_MIN_TURNOVER
@@ -98,6 +107,7 @@ snapshot = {
     'high_conviction_positive_alts': high_conviction_positive[:20],
     'resilient_positive_alts': resilient_positive[:20],
     'quality_recovery_alts': quality_recovery[:20],
+    'continuation_positive_alts': continuation_positive[:20],
     'turnover_trap_alts': turnover_traps[:20],
 }
 
@@ -111,5 +121,6 @@ print(json.dumps({
     'high_conviction_positive_alts': high_conviction_positive[:10],
     'resilient_positive_alts': resilient_positive[:10],
     'quality_recovery_alts': quality_recovery[:10],
+    'continuation_positive_alts': continuation_positive[:10],
     'turnover_trap_alts': turnover_traps[:10],
 }, ensure_ascii=False, indent=2))
