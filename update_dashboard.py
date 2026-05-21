@@ -80,7 +80,10 @@ ICONS = {
     'LINK': '🔗',
     'ONG': '⛽',
     'STORJ': '🗄️',
-    'LAYER': '🧱'
+    'LAYER': '🧱',
+    'PROVE': '🧪',
+    'WLD': '🌍',
+    '2Z': '🧊'
 }
 
 
