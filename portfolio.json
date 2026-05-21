@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3582458.8090613177,
-  "last_valuation_krw": 6259790.641533498,
-  "last_action": "ROTATE_TO_TRAC_ONDO_CHIP_JTO_PROS",
-  "last_updated": "2026-05-21T12:08:00+09:00",
-  "trade_count": 218,
+  "realized_pnl_krw": -3793617.414192795,
+  "last_valuation_krw": 6039535.056283873,
+  "last_action": "ROTATE_TO_ONDO_PROVE_SUI_VVV_NEAR",
+  "last_updated": "2026-05-21T18:08:00+09:00",
+  "trade_count": 227,
   "positions": {
-    "TRAC": {
-      "market": "KRW-TRAC",
-      "amount": 1830.348140799268,
-      "avg_buy_price_krw": 684.0,
-      "last_price_krw": 684.0,
-      "value_krw": 1251958.1283066995,
-      "thesis": "업비트 최대급 거래대금과 77.2% 위치 회복이 동시에 나온 재강화 상장 모멘텀 리더",
-      "strategy": "reclaimed listing momentum new buy",
-      "role": "reclaimed listing momentum leader",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12
-    },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 2069.3522781928914,
+      "amount": 1945.0998570962552,
       "avg_buy_price_krw": 556.0,
-      "last_price_krw": 605.0,
-      "value_krw": 1251958.1283066995,
-      "thesis": "RWA 대표주 중 업비트 최대급 유동성과 68% 위치를 동시에 지키는 유동성 앵커",
-      "strategy": "liquidity anchor continuation trimmed hold",
-      "role": "liquidity anchor continuation",
+      "last_price_krw": 621.0,
+      "value_krw": 1207907.0112567744,
+      "thesis": "RWA 대표 유동성 코어이면서 24시간 고가를 찍고 마감 중인 late-session 앵커",
+      "strategy": "fresh breakout anchor trimmed hold",
+      "role": "liquidity anchor fresh breakout",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
     },
-    "CHIP": {
-      "market": "KRW-CHIP",
-      "amount": 16494.837000088264,
-      "avg_buy_price_krw": 75.9,
-      "last_price_krw": 75.9,
-      "value_krw": 1251958.1283066995,
-      "thesis": "아침 fade 의심 구간을 뒤집고 313억원대 대금과 60.7% 위치를 회복한 고베타 reclaim 리더",
-      "strategy": "reclaimed high-beta continuation new buy",
-      "role": "reclaimed high-beta continuation",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 13
+    "PROVE": {
+      "market": "KRW-PROVE",
+      "amount": 2232.7301501973648,
+      "avg_buy_price_krw": 541.0,
+      "last_price_krw": 541.0,
+      "value_krw": 1207907.0112567744,
+      "thesis": "57%대 상승과 473억원대 대금, 93.8% 위치가 겹친 이번 저녁 최강 신규 돌파 코어",
+      "strategy": "fresh breakout new buy",
+      "role": "fresh zero-knowledge breakout",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 16
     },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 1551.3731453614614,
-      "avg_buy_price_krw": 785.0,
-      "last_price_krw": 807.0,
-      "value_krw": 1251958.1283066995,
-      "thesis": "JTX 출시 서사와 솔라나 강세를 바탕으로 76.2% 위치를 유지하는 촉매 지속형",
-      "strategy": "solana catalyst continuation trimmed hold",
-      "role": "solana catalyst continuation",
+    "SUI": {
+      "market": "KRW-SUI",
+      "amount": 725.90565580335,
+      "avg_buy_price_krw": 1664.0,
+      "last_price_krw": 1664.0,
+      "value_krw": 1207907.0112567744,
+      "thesis": "체급형 알트 중 383억원대 대금과 60%대 재강화를 동시에 보인 회복형 핵심 축",
+      "strategy": "reclaimed large-cap continuation new buy",
+      "role": "large-cap reclaim continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "PROS": {
-      "market": "KRW-PROS",
-      "amount": 1213.137721227422,
-      "avg_buy_price_krw": 1032.0,
-      "last_price_krw": 1032.0,
-      "value_krw": 1251958.1283066995,
-      "thesis": "10% 상승과 86.3% 위치가 겹친 신규 승격 돌파형으로 정오의 가장 읽기 쉬운 후속 확장주",
-      "strategy": "fresh breakout promotion new buy",
-      "role": "fresh breakout promotion",
+    "VVV": {
+      "market": "KRW-VVV",
+      "amount": 48.510321737219854,
+      "avg_buy_price_krw": 24900.0,
+      "last_price_krw": 24900.0,
+      "value_krw": 1207907.0112567744,
+      "thesis": "223억원대 대금과 60% 위치를 되찾아 attention 회복이 실제 거래로 이어진 재강화 슬롯",
+      "strategy": "attention reclaim new buy",
+      "role": "attention reclaim continuation",
       "risk_limit_pct": 6,
-      "profit_take_pct": 14
+      "profit_take_pct": 13
+    },
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 457.71391104841774,
+      "avg_buy_price_krw": 2639.0,
+      "last_price_krw": 2639.0,
+      "value_krw": 1207907.0112567744,
+      "thesis": "91억원대 대금 대비 96.8% 위치를 지키는 고품질 late-session 신고가권 지속형",
+      "strategy": "quality breakout new buy",
+      "role": "quality high-range continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.0M원 위 유지 여부가 알트 공격 지속의 최우선 거시 트리거다."
+      "reason": "115.2M원 위 유지 여부가 알트 공격 지속의 최우선 거시 기준이다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.15M원 시가 위 체류가 중형 알트 추세 지속을 받쳐준다."
+      "reason": "3.15M원대 회복력은 대형 알트 확장 지속의 보조 확인선이다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 리테일 온도계 성격이 강해 2,030원대 유지 여부를 본다."
+      "reason": "국내 리테일 온도계 역할이 강해 2,040원대 유지 여부를 본다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "JTO follow-through의 핵심 배경이라 128K원대 고위치 유지가 중요하다."
+      "reason": "129K원대 고위치가 무너지지 않아야 전반적 알트 베타가 유지된다."
     },
     {
-      "symbol": "IRYS",
-      "market": "KRW-IRYS",
-      "reason": "373.6억원 대금과 67.9% 위치라 후보 재진입 직전 단계다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "reclaimed_positive_leaders 버킷에 들어온 체급형 대안이라 차기 승격 가능성이 높다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "7.88% 상승과 93.8% 위치라 NEAR와 함께 차기 승격 경쟁 1순위다."
     },
     {
       "symbol": "DOGE",
       "market": "KRW-DOGE",
-      "reason": "거래대금은 충분하지만 이번 회차는 메이저 맥락 참고용으로만 둔다."
+      "reason": "30.0B 대금과 80% 위치지만 이번 회차는 메이저 참고축에 더 가깝다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "대금은 크지만 49.0% 위치라 다시 55% 이상 회복 전 재편입 보류."
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "대금은 압도적이지만 34.7% 위치와 -10.16% gap라 재강화 확인 전 재진입 금지."
     },
     {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "87.5% 위치는 좋지만 정오에는 flat 성격이 강해 공격 톱5에서 제외."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "JTX 서사는 남아도 실제 가격은 1.4% 위치까지 무너져 구조 회복 대기."
     },
     {
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "53원대에서 회복 시도 중이나 대금·확장성 모두 PROS에 밀린다."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "정오 승격주였지만 저녁엔 13% 위치로 급랭해 follow-through 재확인 전 보류."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "31.1B 대금에도 11.1% 위치라 turnover trap 해소 전 관찰만 유지."
     }
   ],
   "history": [
@@ -2084,6 +2084,87 @@
       "amount_delta": 1213.137721227422,
       "cash_delta_krw": -1251958.1283066995,
       "reason": "10.02% 상승과 86.3% 위치가 겹친 신규 승격 돌파형으로 BIO 대체 편입"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 621.0,
+      "amount_delta": -124.25242109663623,
+      "cash_delta_krw": 77160.75350101128,
+      "reason": "유동성 앵커는 유지하되 100% 위치 fresh breakout과 5종 균등 공격 분산을 맞추기 위해 일부 차익 실현"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "TRAC",
+      "action": "SELL",
+      "price_krw": 681.0,
+      "amount_delta": -1830.348140799268,
+      "cash_delta_krw": 1246467.0838843016,
+      "reason": "거래대금 1위는 유지됐지만 34.7% 위치와 -10.16% gap로 late-session fading leader가 명확해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 73.2,
+      "amount_delta": -16494.837000088264,
+      "cash_delta_krw": 1207422.068406461,
+      "reason": "31.1B 대금에도 음전환과 11.1% 위치로 turnover trap 성격이 강해 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 751.0,
+      "amount_delta": -1551.3731453614614,
+      "cash_delta_krw": 1165081.2321664575,
+      "reason": "JTX 서사는 남아도 실제 가격이 1.4% 위치와 -8.64% gap로 무너져 follow-through 실패로 판단"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "PROS",
+      "action": "SELL",
+      "price_krw": 936.0,
+      "amount_delta": -1213.137721227422,
+      "cash_delta_krw": 1135496.907068867,
+      "reason": "정오 신규 승격주였지만 저녁엔 13.0% 위치와 -10.86% gap로 급랭해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "PROVE",
+      "action": "BUY",
+      "price_krw": 541.0,
+      "amount_delta": 2232.7301501973648,
+      "cash_delta_krw": -1207907.0112567744,
+      "reason": "57.73% 상승, 477.4억원 대금, 93.8% 위치가 동시 확인된 이번 회차 최강 신규 돌파 코어라 편입"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "SUI",
+      "action": "BUY",
+      "price_krw": 1664.0,
+      "amount_delta": 725.90565580335,
+      "cash_delta_krw": -1207907.0112567744,
+      "reason": "체급형 알트 중 383.5억원 대금과 59.8% 재강화 구조가 가장 읽기 쉬워 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "VVV",
+      "action": "BUY",
+      "price_krw": 24900.0,
+      "amount_delta": 48.510321737219854,
+      "cash_delta_krw": -1207907.0112567744,
+      "reason": "223.4억원 대금과 60.0% 위치 회복으로 attention reclaim이 확인돼 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-21T18:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 2639.0,
+      "amount_delta": 457.71391104841774,
+      "cash_delta_krw": -1207907.0112567744,
+      "reason": "91.5억원 대금 대비 96.8% 위치를 지키는 고품질 신고가권 지속형이라 5번째 슬롯으로 편입"
     }
   ]
 }
