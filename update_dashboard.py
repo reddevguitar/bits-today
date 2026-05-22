@@ -56,6 +56,7 @@ ICONS = {
     'HYPER': '⚛️',
     'ORCA': '🐋',
     'SAHARA': '🏜️',
+    'ALT': '🧬',
     'RAY': '🎯',
     'SOMI': '🎵',
     'TRUMP': '🧢',
