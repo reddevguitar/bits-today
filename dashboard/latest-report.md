@@ -1,74 +1,75 @@
-- 시각: 2026-05-23 00:08 KST
-- 기준 한줄: 메이저 평균 위치가 **25.2%**까지 더 식었지만, 업비트에서는 **ONDO·NEAR·WLD**가 대금과 위치를 같이 지켜 **선별 공격 분산**은 계속 가능합니다.
-- 시장 한줄 요약: 공포탐욕은 아직 **Fear 28**이고 메이저는 더 약해졌지만, 업비트 알트 보드는 **ONDO·NEAR 코어 + WLD/SOON/ATH 후속** 구조입니다.
-- 공포탐욕지수: 28 (Fear, alternative.me)
-- BTC 참고: BTC 114.754M원대, ETH 3.164M원대, XRP 2,018원대, SOL 129.4K원대
+- 시각: 2026-05-23 06:08 KST
+- 기준 한줄: 메이저 평균 위치가 **26.4%**에 머무는 약세장인데, 자정 코어였던 **ONDO가 turnover trap으로 붕괴**해 새벽에는 **IN·ZBT·NEAR + INJ·TRX 보강** 5종 재편이 맞습니다.
+- 시장 한줄 요약: 공포탐욕 **Fear 28** 지속, 메이저는 전부 저위치, 업비트는 **생존 breakout 2개 + recovery/stability 3개**만 남았습니다.
+- 공포탐욕지수: 28 (Fear, alternative.me API)
+- BTC 참고: BTC 113.995M원대, ETH 3.109M원대, XRP 2,013원대, SOL 127.5K원대
 
 ## 🧭 업비트 알트 톱5 구매 희망 후보
-1. 🌐 ONDO — 683원, +11.06%, 24h 대금 약 1125.7억원, 위치 76.2%, **기관서사 continuation 코어**
-2. 🌉 NEAR — 3,336원, +16.56%, 24h 대금 약 844.4억원, 위치 77.8%, **고품질 L1 지속형**
-3. 🌍 WLD — 440원, +10.28%, 24h 대금 약 221.9억원, 위치 89.6%, **브랜드 continuation 슬롯**
-4. 🔜 SOON — 251원, +2.87%, 24h 대금 약 293.7억원, 위치 70.0%, **정돈된 회전 지속형**
-5. ☁️ ATH — 9.89원, +7.50%, 24h 대금 약 140.0억원, 위치 68.0%, **AI/GPU 대체 슬롯**
+1. ♾️ IN — 114원, +25.69%, 24h 대금 약 100.4억원, 위치 92.5%, **fresh listing-attention breakout 코어**
+2. 🧿 ZBT — 236원, +6.31%, 24h 대금 약 123.1억원, 위치 75.0%, **retail continuation anchor**
+3. 🌉 NEAR — 3,193원, +11.57%, 24h 대금 약 889.5억원, 위치 55.6%, **large-cap recovery 리더**
+4. 💉 INJ — 8,060원, +3.47%, 24h 대금 약 53.3억원, 위치 57.5%, **quality mid-cap recovery**
+5. 🟥 TRX — 544원, +0.37%, 24h 대금 약 38.5억원, 위치 81.8%, **stability-support 보조 코어**
 
 ## 🪙 제외된 메이저 참고 신호
-- ₿ BTC: -0.35%, 위치 22.1%
-- ◆ ETH: 0.00%, 위치 35.7%
-- 💧 XRP: -0.98%, 위치 7.1%
-- ☀️ SOL: -0.15%, 위치 36.0%
-- 해석: 메이저 평균 **25.2%** → broad 알트 랠리보다 **실제 closing quality가 남은 종목만 유지**가 맞음
+- ₿ BTC: -1.01%, 위치 24.7%
+- ◆ ETH: -1.74%, 위치 24.7%
+- 💧 XRP: -1.23%, 위치 26.2%
+- ☀️ SOL: -1.62%, 위치 30.0%
+- 해석: 메이저 평균 **26.4%** → 광범위 추격보다 **실제 생존 강세만 허용**해야 하는 구간
 
 ## 🚫 이번 회차 제외/강등
-- 🧬 ALT: +31.5%, 537억원대 대금이지만 gap -12.88% → **exhausted blowoff**
-- 🏜️ SAHARA: staking 뉴스에도 -2.73%, 위치 4.1% → **broken AI slot**
-- 🧪 PROVE: 548억원대 대금, -12.7%, 위치 4.7% → **turnover trap**
-- 🧭 TRAC: 361억원대 대금, 위치 17.5%, gap -11.17% → **fading leader**
-- 🕶️ VVV: +7.2%지만 위치 57.7%, gap -5.05% → **WLD 대비 마감 질 열세**
+- 🌐 ONDO: 1333억원대 대금에도 위치 2.4%, gap -17.09% → **대표 turnover trap**
+- 🧬 ALT: +19.4%, 586.8억원 대금이어도 gap -20.86% → **late exhausted fade**
+- 🌍 WLD: +5.26%지만 위치 41.8%, gap -7.08% → **브랜드 서사 대비 마감 질 약함**
+- 🧪 PROVE: 442.9억원 대금, -13.1%, 위치 15.2% → **대금 함정**
+- 🌊 SUI: 402.6억원 대금, -4.56%, 위치 14.3% → **체급형 함정**
 
 ## 🚀 공격 포트폴리오 전략
-- 현금 0%, **ONDO·NEAR·WLD·SOON·ATH 5종 균등 공격 분산**
-- 코어는 **ONDO·NEAR**, 보조는 **WLD(브랜드) / SOON(회전) / ATH(AI·GPU)**
-- 메이저가 약하므로 **고점 이격이 큰 급등주보다 closing quality가 남은 종목**을 채택
+- 현금 0%, **IN·ZBT·NEAR·INJ·TRX 5종 균등 공격 분산**
+- 코어는 **IN·ZBT**, 체급 recovery는 **NEAR**, 품질 보강은 **INJ**, 안정 받침은 **TRX**
+- 오늘 새벽은 **뉴스보다 closing quality 우선**
 
 ## ✅ 가상 매매 실행 내용
-- SELL 🧬 ALT → BUY 🔜 SOON
-- SELL 🏜️ SAHARA → BUY ☁️ ATH
-- SELL/BUY 🌐 ONDO · 🌉 NEAR · 🌍 WLD는 **자정 가격 기준 균등 리셋**
-- 최종 바스켓: **ONDO·NEAR·WLD·SOON·ATH**
+- SELL 🌐 ONDO → BUY ♾️ IN
+- SELL 🌍 WLD → BUY 🧿 ZBT
+- SELL 🔜 SOON → BUY 🟥 TRX
+- SELL ☁️ ATH → BUY 💉 INJ
+- SELL/BUY 🌉 NEAR는 **새벽 가격 기준 균등 리셋**
 
 ## 📦 현재 포트폴리오 현황
 - 현금: 0원
-- 🌐 ONDO: 1,778.622개 @ 683원
-- 🌉 NEAR: 364.148개 @ 3,336원
-- 🌍 WLD: 2,760.907개 @ 440원
-- 🔜 SOON: 4,839.837개 @ 251원
-- ☁️ ATH: 122,831.049개 @ 9.89원
-- 총 평가액: 6,073,995원
-- 실현손익: -3,516,634원
-- 누적 수익률: -39.26%
+- ♾️ IN: 10,013.962개 @ 114원
+- 🧿 ZBT: 4,837.253개 @ 236원
+- 🌉 NEAR: 357.529개 @ 3,193원
+- 💉 INJ: 141.637개 @ 8,060원
+- 🟥 TRX: 2,098.514개 @ 544원
+- 총 평가액: 5,707,958원
+- 실현손익: -3,882,671원
+- 누적 수익률: -42.92%
 
 ## 🧠 자기 평가
-- 18시 회차의 **ALT 편입 자체는 공격적 선택으로 이해되지만**, 자정까지 gap이 더 벌어진 것을 빨리 인정했어야 했습니다.
-- 이번엔 **late blowoff와 broken AI 슬롯**을 분리해 SOON·ATH로 교체한 점이 개선입니다.
+- 자정에 **ONDO·WLD·SOON·ATH 잔존 강세 가정**을 너무 오래 가져간 건 아쉬웠습니다.
+- 이번엔 **broken leader 강제 flush 규율**을 만들고 실제로 전량 실행한 점이 개선입니다.
 
 ## 🛠️ 이번 사이클 개선점
-- 스냅샷에 **exhausted blowoff 분류**를 추가해, 대금이 커도 고점 대비 너무 많이 밀린 급등주를 따로 걸러내기 시작했습니다.
-- **AI 슬롯은 뉴스보다 업비트 실전 위치 우선** 규칙을 명확히 적용해 SAHARA 대신 ATH를 채택했습니다.
-- 보고서 문장을 더 짧게 끊어 **자정 스캔 속도**를 높였습니다.
+- **stability-support bucket**을 스냅샷 로직에 추가해, 강한 breakout이 부족할 때 TRX 같은 고위치 안정축을 체계적으로 보강할 수 있게 했습니다.
+- **20B+ 대금이어도 위치 10% 미만 + gap -12% 이하이면 즉시 강등** 규칙을 명문화했습니다.
+- 대시보드 아이콘에 **IN·INJ·ZBT·TRX·ATH**를 추가해 새 후보군 스캔 속도를 높였습니다.
 
 ## 🧾 판단
-- aggressive diversified long on selective Upbit continuation leaders led by ONDO and NEAR; avoid exhausted blowoffs and turnover traps
+- aggressive diversified long only on surviving Upbit breakouts and stability-supported recoveries; flush broken high-turnover leaders quickly
 
 ## 🎯 신뢰도
 - medium
 
 ## 👉 추천 행동
-- ONDO 665원, NEAR 3,270원, WLD 430원, SOON 246원, ATH 9.55원 하향 시 즉시 재평가
-- BTC 114.5M원 아래 재이탈이 지속되면 지금의 선택형 강세 해석도 축소
-- ALT·SAHARA는 반등이 나와도 **watchlist 재검증 후** 접근
+- IN 109원, ZBT 228원, NEAR 3,120원, INJ 7,900원, TRX 540원 하향 시 즉시 재평가
+- BTC 113.4M원 아래 재이탈이 지속되면 지금 바스켓도 방어적으로 축소
+- ONDO·ALT·PROVE는 반등이 나와도 **재추격보다 trap 해소 확인이 먼저**
 
 ## ⚠️ 리스크 메모
-- 메이저 평균 위치 25.2%라 시장 전체가 강한 구간은 아닙니다.
-- ONDO·NEAR가 70%대 위치를 잃으면 바스켓 질이 급격히 낮아질 수 있습니다.
-- SOON·ATH는 코어보다 체급이 작아 되밀림이 더 거칠 수 있습니다.
-- WLD는 브랜드/심리 민감도가 높아 뉴스 흐름이 식으면 빠르게 흔들릴 수 있습니다.
+- 메이저 전체가 약해 오늘 새벽 바스켓도 추세 지속보다 **생존 게임**에 가깝습니다.
+- IN·ZBT는 신규 관심 집중형이라 수익/손실 속도가 모두 빠를 수 있습니다.
+- NEAR는 초대금이 강점이지만 day_high_gap -8.22%라 리더 품질 회복이 지연되면 교체 후보입니다.
+- TRX는 안정 보강 슬롯이라 수익 기여가 약하면 더 공격적인 회복주로 바뀔 수 있습니다.

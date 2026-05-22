@@ -49,7 +49,7 @@ ICONS = {
     'ENSO': '🌀',
     'ESP': '☕',
     'ZKP': '🔐',
-    'ZBT': '🧨',
+    'ZBT': '🧿',
     'API3': '📡',
     'RVN': '🪶',
     'SAFE': '🛟',
@@ -84,7 +84,13 @@ ICONS = {
     'LAYER': '🧱',
     'PROVE': '🧪',
     'WLD': '🌍',
-    '2Z': '🧊'
+    '2Z': '🧊',
+    'ATH': '☁️',
+    'TRX': '🟥',
+    'ATOM': '⚛️',
+    'IN': '♾️',
+    'INJ': '💉',
+    'NXPC': '🎲'
 }
 
 
@@ -130,7 +136,6 @@ def classify_candidate_health(last_price, threshold):
     if distance_pct is not None and distance_pct <= 5:
         return 'near', distance_pct
     return 'healthy', distance_pct
-
 
 
 

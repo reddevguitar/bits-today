@@ -37,6 +37,9 @@ EXHAUSTED_BLOWOFF_MIN_TURNOVER = 20_000_000_000
 EXHAUSTED_BLOWOFF_MIN_CHANGE_PCT = 8
 EXHAUSTED_BLOWOFF_MAX_DAY_HIGH_GAP = -10
 EXHAUSTED_BLOWOFF_MIN_RANGE_POSITION = 50
+STABILITY_SUPPORT_MIN_TURNOVER = 3_000_000_000
+STABILITY_SUPPORT_MIN_RANGE_POSITION = 60
+STABILITY_SUPPORT_MAX_DAY_HIGH_GAP = -4
 
 
 def get_json(url: str):
@@ -145,6 +148,13 @@ exhausted_blowoff_positive_alts = [
     and (r['range_position_pct'] is not None and r['range_position_pct'] >= EXHAUSTED_BLOWOFF_MIN_RANGE_POSITION)
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] <= EXHAUSTED_BLOWOFF_MAX_DAY_HIGH_GAP)
 ]
+stability_support_alts = [
+    r for r in leaders
+    if r['turnover_krw_24h'] >= STABILITY_SUPPORT_MIN_TURNOVER
+    and r['change_pct_24h'] >= 0
+    and (r['range_position_pct'] is not None and r['range_position_pct'] >= STABILITY_SUPPORT_MIN_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= STABILITY_SUPPORT_MAX_DAY_HIGH_GAP)
+]
 
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
@@ -162,6 +172,7 @@ snapshot = {
     'fresh_breakout_positive_alts': fresh_breakout_positive_alts[:20],
     'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:20],
     'exhausted_blowoff_positive_alts': exhausted_blowoff_positive_alts[:20],
+    'stability_support_alts': stability_support_alts[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
@@ -180,4 +191,5 @@ print(json.dumps({
     'reclaimed_positive_leaders': reclaimed_positive_leaders[:10],
     'fresh_breakout_positive_alts': fresh_breakout_positive_alts[:10],
     'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:10],
+    'stability_support_alts': stability_support_alts[:10],
 }, ensure_ascii=False, indent=2))

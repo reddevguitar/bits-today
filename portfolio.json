@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3516633.552917015,
-  "last_valuation_krw": 6073995.365382842,
-  "last_action": "ROTATE_TO_ONDO_NEAR_WLD_SOON_ATH",
-  "last_updated": "2026-05-23T00:08:00+09:00",
-  "trade_count": 277,
+  "realized_pnl_krw": -3882670.586100804,
+  "last_valuation_krw": 5707958.332198821,
+  "last_action": "ROTATE_TO_IN_ZBT_NEAR_INJ_TRX",
+  "last_updated": "2026-05-23T06:08:00+09:00",
+  "trade_count": 287,
   "positions": {
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 1778.6223617519302,
-      "avg_buy_price_krw": 683.0,
-      "last_price_krw": 683.0,
-      "value_krw": 1214799.0730765683,
-      "thesis": "기관서사와 초대금이 같이 남아 있는 최우선 RWA continuation 코어",
-      "strategy": "institutional-RWA continuation core rebuy",
-      "role": "institutional-RWA continuation core",
-      "risk_limit_pct": 4,
+    "IN": {
+      "market": "KRW-IN",
+      "amount": 10013.961986313723,
+      "avg_buy_price_krw": 114.0,
+      "last_price_krw": 114.0,
+      "value_krw": 1141591.6664397644,
+      "thesis": "업비트 상장 attention과 92.5% 고위치가 겹친 새벽 최강 fresh breakout",
+      "strategy": "fresh listing-attention breakout rebuy",
+      "role": "fresh listing-attention breakout core",
+      "risk_limit_pct": 6,
       "profit_take_pct": 12
+    },
+    "ZBT": {
+      "market": "KRW-ZBT",
+      "amount": 4837.252823897307,
+      "avg_buy_price_krw": 236.0,
+      "last_price_krw": 236.0,
+      "value_krw": 1141591.6664397644,
+      "thesis": "저가 리테일 보드에서 실제 고점을 지키는 continuation anchor",
+      "strategy": "retail continuation anchor new buy",
+      "role": "retail continuation anchor",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
     },
     "NEAR": {
       "market": "KRW-NEAR",
-      "amount": 364.14840320041014,
-      "avg_buy_price_krw": 3336.0,
-      "last_price_krw": 3336.0,
-      "value_krw": 1214799.0730765683,
-      "thesis": "대형 L1 중 가장 깔끔한 고품질 continuation",
-      "strategy": "high-quality L1 continuation rebuy",
-      "role": "high-quality L1 continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 12
-    },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 2760.906984264928,
-      "avg_buy_price_krw": 440.0,
-      "last_price_krw": 440.0,
-      "value_krw": 1214799.0730765683,
-      "thesis": "인간 인증 확장 서사와 브랜드 attention이 겹친 고가권 continuation",
-      "strategy": "identity-brand continuation rebuy",
-      "role": "identity-brand continuation",
+      "amount": 357.52949152513133,
+      "avg_buy_price_krw": 3193.0,
+      "last_price_krw": 3193.0,
+      "value_krw": 1141591.6664397644,
+      "thesis": "초대금을 유지한 대형 알트 recovery 대표축",
+      "strategy": "large-cap recovery leader rebuy",
+      "role": "large-cap recovery leader",
       "risk_limit_pct": 5,
-      "profit_take_pct": 12
+      "profit_take_pct": 11
     },
-    "SOON": {
-      "market": "KRW-SOON",
-      "amount": 4839.8369445281605,
-      "avg_buy_price_krw": 251.0,
-      "last_price_krw": 251.0,
-      "value_krw": 1214799.0730765683,
-      "thesis": "late-session까지 위치를 지킨 정돈된 리테일 회전 continuation",
-      "strategy": "retail rotation continuation new buy",
-      "role": "retail rotation continuation",
+    "INJ": {
+      "market": "KRW-INJ",
+      "amount": 141.6366831811122,
+      "avg_buy_price_krw": 8060.0,
+      "last_price_krw": 8060.0,
+      "value_krw": 1141591.6664397644,
+      "thesis": "중형 품질 회복 슬롯 중 가장 균형 좋은 구조",
+      "strategy": "quality mid-cap recovery new buy",
+      "role": "quality mid-cap recovery",
       "risk_limit_pct": 5,
       "profit_take_pct": 10
     },
-    "ATH": {
-      "market": "KRW-ATH",
-      "amount": 122831.04884495129,
-      "avg_buy_price_krw": 9.89,
-      "last_price_krw": 9.89,
-      "value_krw": 1214799.0730765683,
-      "thesis": "사하라보다 덜 깨진 AI/GPU 대체 모멘텀 슬롯",
-      "strategy": "AI-GPU continuation new buy",
-      "role": "AI-GPU continuation",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 11
+    "TRX": {
+      "market": "KRW-TRX",
+      "amount": 2098.514092720155,
+      "avg_buy_price_krw": 544.0,
+      "last_price_krw": 544.0,
+      "value_krw": 1141591.6664397644,
+      "thesis": "브로드 약세장에서 실제 고가를 지키는 stability support 보조 코어",
+      "strategy": "stability-support ballast new buy",
+      "role": "stability-support ballast",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 8
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.5M원 저점 재이탈이 나오면 선택형 강세도 빠르게 식을 수 있다."
+      "reason": "113.4M원 재이탈 지속 시 지금 바스켓도 빠르게 리스크오프 전환 가능."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.154M~3.182M 박스 하단 재시험이 길어지면 알트 확장성이 둔해질 수 있다."
+      "reason": "3.085M원 하단 재시험이 길어지면 알트 품질주도 압박받는다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "7.1% 위치로 국내 심리가 매우 약해 broad risk-on 부재를 보여준다."
+      "reason": "26.2% 위치에 머물러 국내 대형 심리가 아직 약하다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "36.0% 위치까지 밀려 솔라나계 follow-through 약화를 확인해야 한다."
+      "reason": "30.0% 위치라 솔라나계 확산 랠리 해석은 아직 이르다."
+    },
+    {
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "1333억원대 대금에도 2.4% 위치·-17.09% gap인 대표 turnover trap으로 추적 필요."
     },
     {
       "symbol": "ALT",
       "market": "KRW-ALT",
-      "reason": "53.7B 대금과 +31.5%는 강하지만 고점 대비 -12.88%라 exhausted blowoff 분류다."
+      "reason": "+19.4%라도 -20.86% gap라 재추격보다 fade 확인이 먼저다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "28.7B 대금과 +7.2%는 좋지만 57.7% 위치라 WLD보다 덜 깔끔하다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "브랜드 뉴스는 남았지만 41.8% 위치라 재상승 확인 전까지는 보류."
     },
     {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "78.6% 위치와 -1.25% gap로 깔끔해 ATH 약화 시 RWA 보조축으로 승격 가능하다."
-    },
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "staking 뉴스에도 4.1% 위치라 실전 테이프가 아직 받쳐주지 못한다."
-    },
-    {
-      "symbol": "PROVE",
-      "market": "KRW-PROVE",
-      "reason": "548.2억원 대금에도 -12.7%·4.7% 위치라 전형적인 turnover trap이다."
+      "symbol": "ATOM",
+      "market": "KRW-ATOM",
+      "reason": "45.8% 위치와 +3.09%로 INJ 약화 시 승격 가능한 보조 quality recovery다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "체급은 크지만 -1.98%·23.2% 위치로 현 시점 업비트 알트 톱5 대비 질이 약하다."
+      "reason": "402.5억원 대금에도 14.3% 위치라 체급형 함정 여부를 계속 봐야 한다."
+    },
+    {
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "reason": "336.6억원 대금이 있어도 40.0% 위치라 당장 코어 재편입 명분은 부족하다."
     }
   ],
   "history": [
@@ -2615,6 +2615,96 @@
       "amount_delta": 122831.04884495129,
       "cash_delta_krw": -1214799.0730765683,
       "reason": "140.0억원대 대금과 68.0% 위치가 겹쳐 SAHARA 대체 AI/GPU continuation 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 587.0,
+      "amount_delta": -1778.6223617519302,
+      "cash_delta_krw": 1044051.3263480839,
+      "reason": "1333억원대 대금에도 2.4% 위치·-17.09% gap로 turnover trap이 명확해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3193.0,
+      "amount_delta": -364.14840320041014,
+      "cash_delta_krw": 1162725.8514189096,
+      "reason": "대형 recovery 코어는 유지하되 새벽 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 420.0,
+      "amount_delta": -2760.906984264928,
+      "cash_delta_krw": 1159580.93339127,
+      "reason": "브랜드 서사는 남아도 41.8% 위치와 -7.08% gap로 코어 우위가 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "SOON",
+      "action": "SELL",
+      "price_krw": 245.0,
+      "amount_delta": -4839.8369445281605,
+      "cash_delta_krw": 1185760.0514093994,
+      "reason": "336.6억원대 대금에도 40.0% 위치라 stability-support 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "ATH",
+      "action": "SELL",
+      "price_krw": 9.41,
+      "amount_delta": -122831.04884495129,
+      "cash_delta_krw": 1155840.1696309918,
+      "reason": "AI/GPU 슬롯이 고위치 유지에 실패해 더 균형 좋은 INJ로 교체"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 114.0,
+      "amount_delta": 10013.961986313723,
+      "cash_delta_krw": -1141591.6664397644,
+      "reason": "24h +25.7%, 100.4억원대 대금, 92.5% 위치가 겹친 새벽 최강 fresh breakout이라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 236.0,
+      "amount_delta": 4837.252823897307,
+      "cash_delta_krw": -1141591.6664397644,
+      "reason": "123.1억원대 대금과 75.0% 위치가 남아 있는 가장 깔끔한 continuation이라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3193.0,
+      "amount_delta": 357.52949152513133,
+      "cash_delta_krw": -1141591.6664397644,
+      "reason": "889.5억원대 초대금과 +11.6%가 남아 large-cap recovery 코어로 재편입"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "INJ",
+      "action": "BUY",
+      "price_krw": 8060.0,
+      "amount_delta": 141.6366831811122,
+      "cash_delta_krw": -1141591.6664397644,
+      "reason": "53.3억원대 대금과 57.5% 위치가 겹친 quality mid-cap recovery 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-23T06:08:00+09:00",
+      "symbol": "TRX",
+      "action": "BUY",
+      "price_krw": 544.0,
+      "amount_delta": 2098.514092720155,
+      "cash_delta_krw": -1141591.6664397644,
+      "reason": "81.8% 위치와 -0.37% gap로 새벽 보드의 stability-support 역할이 가장 선명해 신규 편입"
     }
   ]
 }
