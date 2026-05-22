@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3467131.0311703216,
-  "last_valuation_krw": 6123497.887129535,
-  "last_action": "ROTATE_TO_ONDO_NEAR_ALT_SAHARA_WLD",
-  "last_updated": "2026-05-22T18:08:00+09:00",
-  "trade_count": 267,
+  "realized_pnl_krw": -3516633.552917015,
+  "last_valuation_krw": 6073995.365382842,
+  "last_action": "ROTATE_TO_ONDO_NEAR_WLD_SOON_ATH",
+  "last_updated": "2026-05-23T00:08:00+09:00",
+  "trade_count": 277,
   "positions": {
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 1889.9684836819551,
-      "avg_buy_price_krw": 648.0,
-      "last_price_krw": 648.0,
-      "value_krw": 1224699.577425907,
-      "thesis": "기관서사와 100% 위치가 겹친 최우선 RWA breakout 코어",
-      "strategy": "institutional-RWA breakout leader new buy",
-      "role": "institutional-RWA breakout leader",
+      "amount": 1778.6223617519302,
+      "avg_buy_price_krw": 683.0,
+      "last_price_krw": 683.0,
+      "value_krw": 1214799.0730765683,
+      "thesis": "기관서사와 초대금이 같이 남아 있는 최우선 RWA continuation 코어",
+      "strategy": "institutional-RWA continuation core rebuy",
+      "role": "institutional-RWA continuation core",
       "risk_limit_pct": 4,
       "profit_take_pct": 12
     },
     "NEAR": {
       "market": "KRW-NEAR",
-      "amount": 360.7362525554954,
-      "avg_buy_price_krw": 3395.0,
-      "last_price_krw": 3395.0,
-      "value_krw": 1224699.577425907,
-      "thesis": "초대금과 신고가권 위치가 겹친 최고 품질 L1 지속형",
+      "amount": 364.14840320041014,
+      "avg_buy_price_krw": 3336.0,
+      "last_price_krw": 3336.0,
+      "value_krw": 1214799.0730765683,
+      "thesis": "대형 L1 중 가장 깔끔한 고품질 continuation",
       "strategy": "high-quality L1 continuation rebuy",
       "role": "high-quality L1 continuation",
       "risk_limit_pct": 4,
       "profit_take_pct": 12
     },
-    "ALT": {
-      "market": "KRW-ALT",
-      "amount": 81646.63849506046,
-      "avg_buy_price_krw": 15.0,
-      "last_price_krw": 15.0,
-      "value_krw": 1224699.577425907,
-      "thesis": "초저가 회전 강세가 급격히 붙는 저가 고베타 모멘텀 슬롯",
-      "strategy": "low-price momentum rotation new buy",
-      "role": "low-price momentum rotation",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 18
-    },
-    "SAHARA": {
-      "market": "KRW-SAHARA",
-      "amount": 23020.66874860727,
-      "avg_buy_price_krw": 53.2,
-      "last_price_krw": 53.2,
-      "value_krw": 1224699.577425907,
-      "thesis": "AI 내러티브와 실전 유동성이 같이 붙는 지속형 코어",
-      "strategy": "AI narrative continuation rebuy",
-      "role": "AI narrative continuation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
-    },
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 2895.2708686191654,
-      "avg_buy_price_krw": 423.0,
-      "last_price_krw": 423.0,
-      "value_krw": 1224699.577425907,
-      "thesis": "World ID 확장 기대와 브랜드 attention이 겹친 reclaim 슬롯",
-      "strategy": "brand-driven identity reclaim rebuy",
-      "role": "brand-driven identity reclaim",
+      "amount": 2760.906984264928,
+      "avg_buy_price_krw": 440.0,
+      "last_price_krw": 440.0,
+      "value_krw": 1214799.0730765683,
+      "thesis": "인간 인증 확장 서사와 브랜드 attention이 겹친 고가권 continuation",
+      "strategy": "identity-brand continuation rebuy",
+      "role": "identity-brand continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
+    },
+    "SOON": {
+      "market": "KRW-SOON",
+      "amount": 4839.8369445281605,
+      "avg_buy_price_krw": 251.0,
+      "last_price_krw": 251.0,
+      "value_krw": 1214799.0730765683,
+      "thesis": "late-session까지 위치를 지킨 정돈된 리테일 회전 continuation",
+      "strategy": "retail rotation continuation new buy",
+      "role": "retail rotation continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
+    },
+    "ATH": {
+      "market": "KRW-ATH",
+      "amount": 122831.04884495129,
+      "avg_buy_price_krw": 9.89,
+      "last_price_krw": 9.89,
+      "value_krw": 1214799.0730765683,
+      "thesis": "사하라보다 덜 깨진 AI/GPU 대체 모멘텀 슬롯",
+      "strategy": "AI-GPU continuation new buy",
+      "role": "AI-GPU continuation",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 11
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.8M원 하회 시 알트 선택형 강세 해석도 빠르게 식을 수 있다."
+      "reason": "114.5M원 저점 재이탈이 나오면 선택형 강세도 빠르게 식을 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.157M원 부근 저점권이라 회복 실패가 길어지면 대형 알트 전반이 무거워질 수 있다."
+      "reason": "3.154M~3.182M 박스 하단 재시험이 길어지면 알트 확장성이 둔해질 수 있다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 심리 바로미터로 2,023원 저점 재시험 여부를 본다."
+      "reason": "7.1% 위치로 국내 심리가 매우 약해 broad risk-on 부재를 보여준다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "메이저 4종 중 유일하게 77.8% 위치를 지켜 알트 확장 온도계 역할을 한다."
+      "reason": "36.0% 위치까지 밀려 솔라나계 follow-through 약화를 확인해야 한다."
+    },
+    {
+      "symbol": "ALT",
+      "market": "KRW-ALT",
+      "reason": "53.7B 대금과 +31.5%는 강하지만 고점 대비 -12.88%라 exhausted blowoff 분류다."
     },
     {
       "symbol": "VVV",
       "market": "KRW-VVV",
-      "reason": "Robinhood attention은 남아 있지만 48.6% 위치 회복 전까지는 코어 복귀를 미룬다."
+      "reason": "28.7B 대금과 +7.2%는 좋지만 57.7% 위치라 WLD보다 덜 깔끔하다."
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "낮의 fresh breakout이 35.3% 위치로 식어 302원 재탈환 전까지는 감시 대상이다."
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "reason": "78.6% 위치와 -1.25% gap로 깔끔해 ATH 약화 시 RWA 보조축으로 승격 가능하다."
     },
     {
-      "symbol": "ATH",
-      "market": "KRW-ATH",
-      "reason": "107.6억원 대금과 72.2% 위치로 차순위 AI 대안이라 SAHARA 약화 시 승격 가능하다."
-    },
-    {
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "reason": "431.6억원 대금에도 11.7% 위치와 -11.96% gap라 전형적인 fading leader다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "staking 뉴스에도 4.1% 위치라 실전 테이프가 아직 받쳐주지 못한다."
     },
     {
       "symbol": "PROVE",
       "market": "KRW-PROVE",
-      "reason": "947.4억원 대금 1위지만 -10.5%·7.8% 위치로 대표 turnover trap이다."
+      "reason": "548.2억원 대금에도 -12.7%·4.7% 위치라 전형적인 turnover trap이다."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "대금 체급은 작아도 83.3% 위치를 지켜 방어적 대안으로 참고할 만하다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "체급은 크지만 -1.98%·23.2% 위치로 현 시점 업비트 알트 톱5 대비 질이 약하다."
     }
   ],
   "history": [
@@ -2525,6 +2525,96 @@
       "amount_delta": 2895.2708686191654,
       "cash_delta_krw": -1224699.577425907,
       "reason": "165.4억원대 대금과 +6.0%, 65.0% 위치로 브랜드형 reclaim 구조가 살아 있어 재편입"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 683.0,
+      "amount_delta": -1889.9684836819551,
+      "cash_delta_krw": 1290848.4743547754,
+      "reason": "코어는 유지하되 자정 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3336.0,
+      "amount_delta": -360.7362525554954,
+      "cash_delta_krw": 1203416.1385251328,
+      "reason": "대형 L1 코어는 유지하되 새 바스켓 가격으로 비중을 다시 맞추기 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "ALT",
+      "action": "SELL",
+      "price_krw": 14.2,
+      "amount_delta": -81646.63849506046,
+      "cash_delta_krw": 1159382.2666298584,
+      "reason": "53.7B 대금에도 고점 대비 -12.88% gap가 커 exhausted blowoff로 분류돼 SOON으로 교체"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 49.8,
+      "amount_delta": -23020.66874860727,
+      "cash_delta_krw": 1146429.303680642,
+      "reason": "staking 뉴스에도 4.1% 위치에 머물러 broken AI 슬롯으로 판단, ATH로 교체"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 440.0,
+      "amount_delta": -2895.2708686191654,
+      "cash_delta_krw": 1273919.1821924327,
+      "reason": "브랜드 continuation은 유지하되 자정 가격 기준 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 683.0,
+      "amount_delta": 1778.6223617519302,
+      "cash_delta_krw": -1214799.0730765683,
+      "reason": "1125.7억원대 최대 대금과 76.2% 위치를 유지하는 자정 최우선 기관서사 코어라 재편입"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3336.0,
+      "amount_delta": 364.14840320041014,
+      "cash_delta_krw": -1214799.0730765683,
+      "reason": "844.4억원대 대금과 77.8% 위치 조합이 가장 건강한 대형 L1 continuation이라 재편입"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 440.0,
+      "amount_delta": 2760.906984264928,
+      "cash_delta_krw": -1214799.0730765683,
+      "reason": "89.6% 위치와 -1.12% gap로 Sam Altman 브랜드 continuation 슬롯이 가장 깔끔해 재편입"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "SOON",
+      "action": "BUY",
+      "price_krw": 251.0,
+      "amount_delta": 4839.8369445281605,
+      "cash_delta_krw": -1214799.0730765683,
+      "reason": "293.7억원대 대금과 70.0% 위치가 동행해 ALT보다 건강한 회전 continuation 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-23T00:08:00+09:00",
+      "symbol": "ATH",
+      "action": "BUY",
+      "price_krw": 9.89,
+      "amount_delta": 122831.04884495129,
+      "cash_delta_krw": -1214799.0730765683,
+      "reason": "140.0억원대 대금과 68.0% 위치가 겹쳐 SAHARA 대체 AI/GPU continuation 슬롯으로 신규 편입"
     }
   ]
 }

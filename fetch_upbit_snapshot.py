@@ -33,6 +33,10 @@ FRESH_BREAKOUT_MAX_DAY_HIGH_GAP = -3.5
 STALLED_POSITIVE_LIQUIDITY_MIN_TURNOVER = 12_000_000_000
 STALLED_POSITIVE_LIQUIDITY_MAX_RANGE_POSITION = 50
 STALLED_POSITIVE_LIQUIDITY_MAX_DAY_HIGH_GAP = -1
+EXHAUSTED_BLOWOFF_MIN_TURNOVER = 20_000_000_000
+EXHAUSTED_BLOWOFF_MIN_CHANGE_PCT = 8
+EXHAUSTED_BLOWOFF_MAX_DAY_HIGH_GAP = -10
+EXHAUSTED_BLOWOFF_MIN_RANGE_POSITION = 50
 
 
 def get_json(url: str):
@@ -134,6 +138,13 @@ stalled_positive_liquidity_alts = [
     and (r['range_position_pct'] is not None and r['range_position_pct'] <= STALLED_POSITIVE_LIQUIDITY_MAX_RANGE_POSITION)
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] <= STALLED_POSITIVE_LIQUIDITY_MAX_DAY_HIGH_GAP)
 ]
+exhausted_blowoff_positive_alts = [
+    r for r in positive
+    if r['turnover_krw_24h'] >= EXHAUSTED_BLOWOFF_MIN_TURNOVER
+    and r['change_pct_24h'] >= EXHAUSTED_BLOWOFF_MIN_CHANGE_PCT
+    and (r['range_position_pct'] is not None and r['range_position_pct'] >= EXHAUSTED_BLOWOFF_MIN_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] <= EXHAUSTED_BLOWOFF_MAX_DAY_HIGH_GAP)
+]
 
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
@@ -150,6 +161,7 @@ snapshot = {
     'reclaimed_positive_leaders': reclaimed_positive_leaders[:20],
     'fresh_breakout_positive_alts': fresh_breakout_positive_alts[:20],
     'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:20],
+    'exhausted_blowoff_positive_alts': exhausted_blowoff_positive_alts[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
