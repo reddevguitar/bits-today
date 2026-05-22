@@ -30,6 +30,9 @@ RECLAIMED_LEADER_MAX_DAY_HIGH_GAP = -4.5
 FRESH_BREAKOUT_MIN_TURNOVER = 8_000_000_000
 FRESH_BREAKOUT_MIN_RANGE_POSITION = 90
 FRESH_BREAKOUT_MAX_DAY_HIGH_GAP = -3.5
+STALLED_POSITIVE_LIQUIDITY_MIN_TURNOVER = 12_000_000_000
+STALLED_POSITIVE_LIQUIDITY_MAX_RANGE_POSITION = 50
+STALLED_POSITIVE_LIQUIDITY_MAX_DAY_HIGH_GAP = -1
 
 
 def get_json(url: str):
@@ -125,6 +128,12 @@ fresh_breakout_positive_alts = [
     and (r['range_position_pct'] is not None and r['range_position_pct'] >= FRESH_BREAKOUT_MIN_RANGE_POSITION)
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= FRESH_BREAKOUT_MAX_DAY_HIGH_GAP)
 ]
+stalled_positive_liquidity_alts = [
+    r for r in positive
+    if r['turnover_krw_24h'] >= STALLED_POSITIVE_LIQUIDITY_MIN_TURNOVER
+    and (r['range_position_pct'] is not None and r['range_position_pct'] <= STALLED_POSITIVE_LIQUIDITY_MAX_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] <= STALLED_POSITIVE_LIQUIDITY_MAX_DAY_HIGH_GAP)
+]
 
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
@@ -140,6 +149,7 @@ snapshot = {
     'fading_positive_leaders': fading_positive_leaders[:20],
     'reclaimed_positive_leaders': reclaimed_positive_leaders[:20],
     'fresh_breakout_positive_alts': fresh_breakout_positive_alts[:20],
+    'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
@@ -157,4 +167,5 @@ print(json.dumps({
     'fading_positive_leaders': fading_positive_leaders[:10],
     'reclaimed_positive_leaders': reclaimed_positive_leaders[:10],
     'fresh_breakout_positive_alts': fresh_breakout_positive_alts[:10],
+    'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:10],
 }, ensure_ascii=False, indent=2))

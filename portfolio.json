@@ -3,69 +3,69 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -3633584.4313566843,
-  "last_valuation_krw": 5957044.486943174,
-  "last_action": "ROTATE_TO_ONDO_SUI_NEAR_JTO_WLD",
-  "last_updated": "2026-05-22T06:08:00+09:00",
-  "trade_count": 247,
+  "realized_pnl_krw": -3578521.6949034776,
+  "last_valuation_krw": 6012107.2233963795,
+  "last_action": "ROTATE_TO_NEAR_VVV_SAHARA_OPEN_WLD",
+  "last_updated": "2026-05-22T12:08:00+09:00",
+  "trade_count": 257,
   "positions": {
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 1906.2542358218157,
-      "avg_buy_price_krw": 625.0,
-      "last_price_krw": 625.0,
-      "value_krw": 1191408.8973886347,
-      "thesis": "기관 파트너십 서사와 실제 고가 유지가 겹친 대형 유동성 코어",
-      "strategy": "institutional liquidity leader rebuy",
-      "role": "institutional liquidity leader",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 11
-    },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 708.3287142619707,
-      "avg_buy_price_krw": 1682.0,
-      "last_price_krw": 1682.0,
-      "value_krw": 1191408.8973886347,
-      "thesis": "메이저 회복 수혜를 가장 안정적으로 받는 체급형 지속축",
-      "strategy": "large-cap continuation rebuy",
-      "role": "large-cap continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
-    },
     "NEAR": {
       "market": "KRW-NEAR",
-      "amount": 413.6836449266093,
-      "avg_buy_price_krw": 2880.0,
-      "last_price_krw": 2880.0,
-      "value_krw": 1191408.8973886347,
-      "thesis": "신고가권에 가까운 위치를 유지하는 최고 품질 breakout",
+      "amount": 387.6278029269103,
+      "avg_buy_price_krw": 3102.0,
+      "last_price_krw": 3102.0,
+      "value_krw": 1202421.4446792759,
+      "thesis": "신고가권에 붙어 있는 최고 품질 L1 breakout 리더",
       "strategy": "fresh breakout quality leader rebuy",
       "role": "fresh breakout quality leader",
       "risk_limit_pct": 4,
       "profit_take_pct": 12
     },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 1480.0110526566891,
-      "avg_buy_price_krw": 805.0,
-      "last_price_krw": 805.0,
-      "value_krw": 1191408.8973886347,
-      "thesis": "JTX 촉매와 솔라나 거래 열기가 겹친 follow-through 리더",
-      "strategy": "solana catalyst continuation new buy",
-      "role": "solana catalyst continuation",
+    "VVV": {
+      "market": "KRW-VVV",
+      "amount": 42.91297090218686,
+      "avg_buy_price_krw": 28020.0,
+      "last_price_krw": 28020.0,
+      "value_krw": 1202421.4446792759,
+      "thesis": "Robinhood attention과 privacy AI 서사가 겹친 고변동 지속형",
+      "strategy": "attention-backed AI continuation new buy",
+      "role": "attention-backed AI continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 22816.34619884774,
+      "avg_buy_price_krw": 52.7,
+      "last_price_krw": 52.7,
+      "value_krw": 1202421.4446792759,
+      "thesis": "AI 내러티브와 최고가권 체류가 겹치는 고유동성 지속형",
+      "strategy": "AI retail-flow continuation new buy",
+      "role": "AI retail-flow continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
+    },
+    "OPEN": {
+      "market": "KRW-OPEN",
+      "amount": 3968.3876062022305,
+      "avg_buy_price_krw": 303.0,
+      "last_price_krw": 303.0,
+      "value_krw": 1202421.4446792759,
+      "thesis": "뉴스보다 가격이 먼저 앞서는 fresh breakout 인프라 슬롯",
+      "strategy": "fresh breakout infra leader new buy",
+      "role": "fresh breakout infra leader",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
+    },
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 2956.3496213117487,
-      "avg_buy_price_krw": 403.0,
-      "last_price_krw": 403.0,
-      "value_krw": 1191408.8973886347,
-      "thesis": "브랜드 attention과 실제 체결 강도가 같이 붙는 identity/AI 지속형",
-      "strategy": "attention-backed trend continuation rebuy",
-      "role": "attention-backed trend continuation",
+      "amount": 2918.498652134165,
+      "avg_buy_price_krw": 412.0,
+      "last_price_krw": 412.0,
+      "value_krw": 1202421.4446792759,
+      "thesis": "World ID 확장 기대와 Sam Altman 브랜드가 겹친 100% 위치 슬롯",
+      "strategy": "brand-driven identity breakout rebuy",
+      "role": "brand-driven identity breakout",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     }
@@ -74,52 +74,52 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "115.0M원대 안착 유지 여부가 광범위 알트 공격 지속의 1차 기준이다."
+      "reason": "115.2M원 이상 고가 유지가 broad alt risk-on 지속의 1차 기준이다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.17M원대 유지가 되면 대형 알트 follow-through가 더 편해진다."
+      "reason": "3.17M원대 90%+ 위치 유지가 대형 알트 follow-through를 지지한다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "국내 리테일 심리 바로미터로 65.9% 위치 유지 여부를 본다."
+      "reason": "국내 리테일 심리 바로미터로 2,030원대 이탈 여부를 본다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "80.6% 위치라 JTO·SUI 같은 알트 모멘텀의 상위 리스크온 신호다."
+      "reason": "91.7% 위치가 유지되면 JTO 대신 다른 알트 확장도 계속 열려 있다."
     },
     {
-      "symbol": "PROVE",
-      "market": "KRW-PROVE",
-      "reason": "거래대금 1위지만 -14.41% gap라 즉시 재승격보다 blow-off 정리 여부를 먼저 봐야 한다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "702억원대 대금은 압도적이지만 42.1% 위치라 지금은 stalled liquidity 감시가 우선이다."
     },
     {
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "reason": "595.7억원 대금에도 26.1% 위치라 대표적인 turnover trap 감시 대상이다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "40.3B 대금 체급은 남아 있어 1,670원 재탈환 시 후보 복귀가 가능하다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "상승률은 좋지만 -6.58% gap로 ONDO·JTO보다 follow-through 품질이 떨어진다."
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "100% 위치·0 gap의 순수 테이프형 fresh breakout이라 차순위 승격 후보로 본다."
     },
     {
       "symbol": "CFG",
       "market": "KRW-CFG",
-      "reason": "10.9억원대가 아니라 109.2억원대 대금과 64.5% 위치로 차순위 품질형 후보다."
+      "reason": "RWA 축 중 구조는 깔끔하지만 52.2% 위치라 코어 승격엔 한 박자 부족하다."
     },
     {
-      "symbol": "2Z",
-      "market": "KRW-2Z",
-      "reason": "10.39% 상승이 남아도 위치가 68.0%로 낮아져 재승격 전 추가 확인이 필요하다."
+      "symbol": "PROVE",
+      "market": "KRW-PROVE",
+      "reason": "1,311.7억원 대금 1위지만 -6.46%·15.0% 위치라 대표 turnover trap이다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "top4 제외 규칙상 편입 가능하지만 이번 회차는 메이저성 참고 신호로만 본다."
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "671.5억원 대금에도 27.2% 위치와 -9.86% gap라 fading leader 경계 대상이다."
     }
   ],
   "history": [
@@ -2345,6 +2345,96 @@
       "amount_delta": 2956.3496213117487,
       "cash_delta_krw": -1191408.8973886347,
       "reason": "110.4억원대 대금과 78.3% 위치, Sam Altman 연상도와 World ID 관심이 같이 남아 있는 attention 지속형이다."
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 615.0,
+      "amount_delta": -1906.2542358218157,
+      "cash_delta_krw": 1172346.3540304168,
+      "reason": "702억원대 대금은 남아도 42.1% 위치라 pin-high 모드 기준 코어 유지 명분이 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1652.0,
+      "amount_delta": -708.3287142619707,
+      "cash_delta_krw": 1170167.8379703755,
+      "reason": "체급은 크지만 -0.96%와 64.7% 위치로 fresh/continuation 리더 5종 대비 우위가 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3102.0,
+      "amount_delta": -413.6836449266093,
+      "cash_delta_krw": 1283306.6665619507,
+      "reason": "핵심 코어는 유지하되 5종 균등 공격 분산을 새 가격대로 재구성하기 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 791.0,
+      "amount_delta": -1480.0110526566891,
+      "cash_delta_krw": 1170688.7426514411,
+      "reason": "16.1B 대금이 남아도 34.8% 위치라 stalled-liquidity로 분류돼 OPEN으로 교체"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 412.0,
+      "amount_delta": -2956.3496213117487,
+      "cash_delta_krw": 1218016.0439804404,
+      "reason": "브랜드형 돌파는 유지하되 5종 균등 공격 분산을 새 가격대로 재구성하기 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3102.0,
+      "amount_delta": 387.6278029269103,
+      "cash_delta_krw": -1202421.4446792759,
+      "reason": "279.6억원대 대금과 87.5% 위치, -1.21% gap 조합이 가장 깔끔한 주도주라 코어 유지 재편입"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "VVV",
+      "action": "BUY",
+      "price_krw": 28020.0,
+      "amount_delta": 42.91297090218686,
+      "cash_delta_krw": -1202421.4446792759,
+      "reason": "Robinhood 상장 attention과 72.9% 위치 유지가 겹쳐 ONDO 대체 고변동 코어로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 52.7,
+      "amount_delta": 22816.34619884774,
+      "cash_delta_krw": -1202421.4446792759,
+      "reason": "201.4억원대 대금과 95.8% 위치, -0.19% gap로 AI 지속형 중 가장 강해 SUI 대체 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "OPEN",
+      "action": "BUY",
+      "price_krw": 303.0,
+      "amount_delta": 3968.3876062022305,
+      "cash_delta_krw": -1202421.4446792759,
+      "reason": "149.1억원대 대금과 92.3% 위치의 fresh breakout 구조가 JTO보다 깔끔해 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-22T12:08:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 412.0,
+      "amount_delta": 2918.498652134165,
+      "cash_delta_krw": -1202421.4446792759,
+      "reason": "115.3억원대 대금 대비 100% 위치가 매우 깔끔해 브랜드형 돌파 슬롯으로 재편입"
     }
   ]
 }
