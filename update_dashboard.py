@@ -90,7 +90,10 @@ ICONS = {
     'ATOM': '⚛️',
     'IN': '♾️',
     'INJ': '💉',
-    'NXPC': '🎲'
+    'NXPC': '🎲',
+    'DRIFT': '🌪️',
+    'KAITO': '🧠',
+    'GMT': '👟'
 }
 
 
