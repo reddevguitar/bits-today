@@ -93,7 +93,12 @@ ICONS = {
     'NXPC': '🎲',
     'DRIFT': '🌪️',
     'KAITO': '🧠',
-    'GMT': '👟'
+    'GMT': '👟',
+    'VIRTUAL': '🤖',
+    'LPT': '📺',
+    'HIVE': '🍯',
+    'ME': '🪄',
+    'STEEM': '📝'
 }
 
 
