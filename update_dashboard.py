@@ -163,16 +163,24 @@ def build_scenario_view(strategy, market_breadth, preferred_setup_quality):
 
     if btc_pos is not None and major_avg is not None and btc_pos >= 70 and major_avg >= 40 and pref_avg_change >= 4:
         regime = 'btc_stabilizing_alt_continuation'
+        regime_label_ko = '메이저 안정·알트 지속'
+        regime_icon = '🟢'
         summary = 'BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간.'
     elif btc_pos is not None and major_avg is not None and btc_pos < 35 and major_avg < 35:
         regime = 'majors_breakdown_selective_defense'
+        regime_label_ko = '메이저 붕괴·선별 방어'
+        regime_icon = '🟠'
         summary = '메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간.'
     else:
         regime = 'mixed_selective_rotation'
+        regime_label_ko = '혼조·빠른 순환 대응'
+        regime_icon = '🟡'
         summary = '메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간.'
 
     return {
         'regime': regime,
+        'regime_label_ko': regime_label_ko,
+        'regime_icon': regime_icon,
         'btc_range_position_pct': btc_pos,
         'major_avg_range_position_pct': major_avg,
         'preferred_avg_change_pct_24h': pref_avg_change,
