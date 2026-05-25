@@ -1,149 +1,153 @@
 {
   "project": "bit's today",
-  "judgment": "selective aggressive rotation into relative-strength alts while majors are weak; avoid broken intraday leaders",
-  "confidence": "medium",
+  "judgment": "aggressive selective rotation into Upbit liquidity leaders while majors recover unevenly",
+  "confidence": "medium-high",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-05-24 22:59 KST",
-  "market_status": "메이저는 약하지만 업비트 보드가 완전히 죽진 않았습니다. **상대강도 유지주만 빠르게 집어드는 장**입니다.",
+  "updated_at": "2026-05-25 23:06 KST",
+  "market_status": "메이저는 **전면 붕괴에서 혼조 회복**으로 바뀌었습니다. 지금은 **대금 상단과 고위치 종가를 동시에 만족하는 알트만 공격**하는 장입니다.",
   "fear_greed": "25 (Fear)",
-  "btc_snapshot": "BTC 114.661M원대, ETH 3.150M원대, XRP 2,027원대, SOL 128.1K원대",
+  "btc_snapshot": "BTC 115.283M원대, ETH 3.153M원대, XRP 2,024원대, SOL 128.1K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-3,889,715 KRW",
-  "last_valuation_krw": "5,700,914 KRW",
+  "realized_pnl_krw": "-4,018,278 KRW",
+  "last_valuation_krw": "5,572,351 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -42.99,
-  "last_action": "ROTATE_TO_ONDO_VVV_WLD_DRIFT_KITE",
-  "trade_count": 317,
-  "last_updated": "2026-05-24T22:59:00+09:00",
+  "return_pct": -44.28,
+  "last_action": "ROTATE_TO_SOON_ONDO_NEAR_IN_WLD",
+  "trade_count": 327,
+  "last_updated": "2026-05-25T23:06:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 20,
-    "recent_24h_buy_count": 10,
-    "recent_24h_sell_count": 10,
-    "recent_24h_replacement_count": 10,
-    "portfolio_churn_24h_pct": 200.0
+    "recent_trade_actions_24h": 10,
+    "recent_24h_buy_count": 5,
+    "recent_24h_sell_count": 5,
+    "recent_24h_replacement_count": 5,
+    "portfolio_churn_24h_pct": 100.0
   },
   "summary": [
-    "₿ BTC: -0.18%, 위치 11.6%",
-    "◆ ETH: -0.54%, 위치 12.8%",
-    "💧 XRP: -0.20%, 위치 9.5%",
-    "☀️ SOL: -0.16%, 위치 9.5%",
-    "해석: 메이저 평균 **10.9%** → 장세 레짐은 **🟠 메이저 붕괴·선별 방어**",
-    "♾️ **IN**: 571억원대 대금에도 위치 **5.4%**, gap **-21.08%** → **turnover trap 확정**",
-    "🤖 **VIRTUAL**: 100억원대 대금에도 위치 **22.9%** → **AI 슬롯 명분 붕괴**",
-    "🌉 **NEAR**: 대금은 크지만 **-2.32% / 51.7% 위치** → 상대강도 코어 5종보다 열위",
-    "🔜 **SOON**: 534억원대 대금, 위치 **11.8%** → **추격 금지**",
-    "🦸 **SUPER**: +5.29%라도 위치 **17.5%**, gap **-15.57%** → **late fade**",
-    "현금 0%, **ONDO·VVV·WLD·DRIFT·KITE 5종 균등 공격 분산**",
-    "핵심은 **대금 1위 ONDO 유지**, 나머지는 **attention·브랜드·반격형·품질형**으로 분산",
-    "메이저가 약하므로 **아무 알트나 사는 장이 아니라 살아남은 5개만 사는 장**으로 해석",
-    "SELL ♾️ IN → BUY 🕶️ VVV",
-    "SELL 🌉 NEAR → BUY 🌪️ DRIFT",
-    "SELL 🤖 VIRTUAL → BUY 🪁 KITE",
-    "SELL 🌐 ONDO → BUY 🌐 ONDO (22:59 가격 기준 균등 재편)",
-    "SELL 🌍 WLD → BUY 🌍 WLD (22:59 가격 기준 균등 재편)",
+    "₿ BTC: **-0.08%**, 위치 **38.7%**",
+    "◆ ETH: **+0.32%**, 위치 **71.1%**",
+    "💧 XRP: **+0.05%**, 위치 **60.0%**",
+    "☀️ SOL: **+0.31%**, 위치 **73.7%**",
+    "해석: 메이저 평균 **60.8%** → 레짐은 **🟡 혼조·빠른 순환 대응**",
+    "🕶️ **VVV**: 133억원대 대금에도 **-4.51% / 10.5% 위치** → **attention fade**",
+    "🌪️ **DRIFT**: 271억원대 대금이 있어도 **6월 1일 업비트 거래지원 종료 리스크** → **구조적 제외**",
+    "🪁 **KITE**: 41억원대 대금, 위치 **23.1%** → **공격 슬롯 약화**",
+    "🧪 **ERA**: **+14.66%**라도 위치 **44.9%**, gap **-14.79%** → **pin-high fade**",
+    "🌊 **CPOOL**: 198억원대 대금에도 위치 **26.3%** → **추격 금지**",
+    "현금 0%, **SOON·ONDO·NEAR·IN·WLD 5종 균등 공격 분산**",
+    "현재 핵심은 **SOON 대금 1위 추종 + ONDO 유동성 앵커 유지 + NEAR 품질 보강**",
+    "IN은 고베타, WLD는 브랜드 attention으로 성격을 분산해 **같은 방향 베팅만 하지 않도록 조정**",
+    "SELL 🕶️ VVV → BUY 🔜 SOON",
+    "SELL 🌪️ DRIFT → BUY 🌉 NEAR",
+    "SELL 🪁 KITE → BUY ♾️ IN",
+    "SELL 🌐 ONDO → BUY 🌐 ONDO (23:06 가격 기준 균등 재편)",
+    "SELL 🌍 WLD → BUY 🌍 WLD (23:06 가격 기준 균등 재편)",
     "현금: 0원",
-    "🌐 ONDO: 1,730.171개 @ 659원",
-    "🕶️ VVV: 38.120개 @ 29,910원",
-    "🌍 WLD: 2,494.930개 @ 457원",
-    "🌪️ DRIFT: 17,017.655개 @ 67원",
-    "🪁 KITE: 3,713.951개 @ 307원",
-    "총 평가액: **5,700,914원**",
-    "실현손익: **-3,889,715원**",
-    "누적 수익률: **-42.99%**",
-    "자정 회차의 메이저 회복 해석은 맞았지만, 저녁에는 그 회복이 완전히 꺾였다는 사실을 더 빨리 인정해야 했습니다.",
-    "이번엔 **IN·VIRTUAL 붕괴를 명확히 잘라낸 점**이 좋았습니다.",
-    "대시보드에 **장세 레짐 한글 라벨/아이콘**을 추가했습니다.",
-    "**메이저 평균 위치 35% 미만이면 종가 품질 우선** 규율을 새로 반영했습니다.",
-    "리포트에서 **유지 종목 vs 강제 퇴출 종목**을 더 분리해 읽기 쉽게 바꿨습니다.",
-    "selective aggressive rotation into relative-strength alts while majors are weak; avoid broken intraday leaders",
-    "medium",
-    "ONDO 648원, VVV 28,700원, WLD 450원, DRIFT 65원, KITE 303원 하향 시 즉시 재평가",
-    "BTC 114.52M원 저점 재이탈 시 바스켓 전체 공격성 축소 준비",
-    "IN·SOON·VIRTUAL 반등은 **강세 복귀로 보기 전 함정 여부부터 확인**",
-    "메이저 4종 평균 위치 10.9%는 분명한 경고 신호입니다.",
-    "ONDO 실패 시 이번 바스켓 전체 해석이 같이 흔들릴 수 있습니다.",
-    "DRIFT는 반격형이라 수익/손실 전개가 가장 빠를 수 있습니다.",
-    "VVV·WLD는 관심 둔화 시 속도가 급격히 식을 수 있습니다."
+    "🔜 SOON: 4,143.012개 @ 269원",
+    "🌐 ONDO: 1,691.154개 @ 659원",
+    "🌉 NEAR: 284.885개 @ 3,912원",
+    "♾️ IN: 7,960.502개 @ 140원",
+    "🌍 WLD: 2,454.780개 @ 454원",
+    "총 평가액: **5,572,351원**",
+    "실현손익: **-4,018,278원**",
+    "누적 수익률: **-44.28%**",
+    "직전 회차는 **VVV·DRIFT·KITE** 쪽에 머문 시간이 길었습니다.",
+    "이번엔 메이저 회복과 업비트 대금 재정렬을 바로 반영해 **SOON·NEAR·IN으로 공격축을 옮긴 점**이 좋았습니다.",
+    "대시보드에 **leader concentration warning**을 추가해 한 종목 대금 쏠림 리스크를 더 빨리 보이게 했습니다.",
+    "메이저 평균 위치가 **50% 이상 회복**하면 breakout/고위치 지속형을 더 우선하는 규율로 조정했습니다.",
+    "**가격 훼손 리스크**와 **거래지원 종료/뉴스 리스크**를 분리해 DRIFT 같은 구조적 제외를 더 명확히 적었습니다.",
+    "aggressive selective rotation into Upbit liquidity leaders while majors recover unevenly",
+    "medium-high",
+    "SOON **257원**, ONDO **648원**, NEAR **3,820원**, IN **133원**, WLD **447원** 하향 시 즉시 재평가",
+    "BTC **115.00M원** 재이탈 시 알트 확대 해석을 줄이고 바스켓 강도부터 다시 점검",
+    "VVV 재진입은 **양전환 + 50% 이상 위치 회복** 전까지 보류",
+    "SOON은 대금 1위지만 unlock/vesting 오버행이 남아 있어 변동성이 크다.",
+    "IN은 실패 이력이 있는 고베타라 수익과 손실 전개가 모두 빠를 수 있다.",
+    "ONDO 약화는 바스켓 전체 해석을 흔들 수 있다.",
+    "WLD는 attention 둔화 시 가장 먼저 속도가 꺾일 수 있다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "KITE",
-      "action": "BUY",
-      "price_krw": 307.0,
-      "amount_delta": 3713.950706799821,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "66.7% 위치와 -1.29% gap의 저소음 품질형 지속 구조가 좋아 5번째 보조 공격 슬롯으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "DRIFT",
-      "action": "BUY",
-      "price_krw": 67.0,
-      "amount_delta": 17017.65473115739,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "138억원대 대금과 gap 축소가 확인돼 직전 함정 상태에서 반격형 슬롯으로 재승격 편입"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
+      "timestamp": "2026-05-25T23:06:00+09:00",
       "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 457.0,
-      "amount_delta": 2494.9296870624617,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "175억원대 대금과 +2.01%, reclaimed 구조가 남아 있는 브랜드형 코어라 재편입"
+      "price_krw": 454.0,
+      "amount_delta": 2454.7802512830895,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "Tinder/World ID attention과 85.7% 위치가 겹친 브랜드 continuation 코어라 재편입"
     },
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "VVV",
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "IN",
       "action": "BUY",
-      "price_krw": 29910.0,
-      "amount_delta": 38.12045693706269,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "170억원대 대금과 +8.61%, 82.4% 위치가 동행한 attention continuation 코어라 신규 편입"
+      "price_krw": 140.0,
+      "amount_delta": 7960.501672018018,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "503억원대 대금과 +23.89%, 82.9% 위치가 겹친 고베타 breakout 슬롯이라 신규 편입"
     },
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3912.0,
+      "amount_delta": 284.88502916219903,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "561억원대 대금과 95.0% 위치, 동적 리샤딩 기대가 겹친 체급형 continuation 코어라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
       "symbol": "ONDO",
       "action": "BUY",
       "price_krw": 659.0,
-      "amount_delta": 1730.1712700873218,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "967억원대 최대 대금과 +3.29%, 68.8% 위치가 겹쳐 메이저 약세에서도 가장 읽기 쉬운 상대강도 코어라 재편입"
+      "amount_delta": 1691.1536177276519,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "847억원대 대금과 기관서사 유효성이 남아 있는 유동성 앵커라 재편입"
     },
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "VIRTUAL",
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "SOON",
+      "action": "BUY",
+      "price_krw": 269.0,
+      "amount_delta": 4143.012022611608,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "24h 대금 1위와 +13.03%, 68.1% 위치가 동행한 이번 회차 최우선 유동성 모멘텀 코어라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "KITE",
       "action": "SELL",
-      "price_krw": 1124.0,
-      "amount_delta": -1000.0131776791687,
-      "cash_delta_krw": 1124014.8117113856,
-      "reason": "100억원대 대금에도 22.9% 위치라 AI 슬롯 명분이 무너져 KITE로 교체"
+      "price_krw": 299.0,
+      "amount_delta": -3713.950706799821,
+      "cash_delta_krw": 1110471.2613331464,
+      "reason": "저소음 품질은 남아도 41억원대 대금과 23.1% 위치로 공격 슬롯 우선순위에서 밀려 교체"
     },
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "DRIFT",
+      "action": "SELL",
+      "price_krw": 67.5,
+      "amount_delta": -17017.65473115739,
+      "cash_delta_krw": 1148691.6943531237,
+      "reason": "대금이 있어도 업비트 거래지원 종료(6월 1일) 리스크가 실전 판단을 압도해 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
       "symbol": "WLD",
       "action": "SELL",
-      "price_krw": 457.0,
-      "amount_delta": -2582.5812017893627,
-      "cash_delta_krw": 1180239.6092177387,
-      "reason": "브랜드 reclaim 코어는 유지하되 22:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "NEAR",
-      "action": "SELL",
-      "price_krw": 3585.0,
-      "amount_delta": -334.25348887627894,
-      "cash_delta_krw": 1198298.75762146,
-      "reason": "668억원대 대금은 크지만 메이저 약세 환경에서 상대강도 우위가 약해 DRIFT로 교체"
+      "price_krw": 454.0,
+      "amount_delta": -2494.9296870624617,
+      "cash_delta_krw": 1132698.0779263577,
+      "reason": "브랜드 continuation 코어는 유지하되 23:06 가격 기준 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-25-2306.md",
+      "title": "2026-05-25-2306"
+    },
     {
       "file": "2026-05-24-2259.md",
       "title": "2026-05-24-2259"
@@ -171,21 +175,32 @@
     {
       "file": "2026-05-22-1208.md",
       "title": "2026-05-22-1208"
-    },
-    {
-      "file": "2026-05-22-0608.md",
-      "title": "2026-05-22-0608"
     }
   ],
   "positions": [
     {
+      "icon": "🔜",
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "amount": 4143.012022611608,
+      "avg_buy_price_krw": "269 KRW",
+      "last_price_krw": "269 KRW",
+      "thesis": "업비트 대금 1위와 상단 체류가 겹쳐 이번 회차 최우선 유동성 리더로 판단했다.",
+      "strategy": "liquidity-leader momentum core new buy",
+      "role": "liquidity-leader momentum core",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 14,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "amount": 1730.1712700873218,
+      "amount": 1691.1536177276519,
       "avg_buy_price_krw": "659 KRW",
       "last_price_krw": "659 KRW",
-      "thesis": "기관 RWA/토큰화 서사와 실제 거래대금이 동행하며 메이저 약세 속 상대강도 코어로 남았다.",
+      "thesis": "기관 RWA/토큰화 서사와 업비트 상위 대금이 동행하는 유동성 앵커다.",
       "strategy": "institutional-liquidity relative-strength core rebuy",
       "role": "institutional-liquidity relative-strength core",
       "risk_limit_pct": 4,
@@ -194,17 +209,32 @@
       "pnl_pct": 0.0
     },
     {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "amount": 38.12045693706269,
-      "avg_buy_price_krw": "29,910 KRW",
-      "last_price_krw": "29,910 KRW",
-      "thesis": "상장 관심 잔열과 고가권 체류가 겹쳐 현재 업비트 attention 슬롯 중 가장 공격적인 종목이다.",
-      "strategy": "attention-driven continuation new buy",
-      "role": "attention-driven continuation core",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12,
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "amount": 284.88502916219903,
+      "avg_buy_price_krw": "3,912 KRW",
+      "last_price_krw": "3,912 KRW",
+      "thesis": "체급형 알트 중 상단 유지 품질과 대금이 가장 좋고, 동적 리샤딩 기대가 받쳐준다.",
+      "strategy": "large-cap continuation core new buy",
+      "role": "large-cap continuation core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "♾️",
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "amount": 7960.501672018018,
+      "avg_buy_price_krw": "140 KRW",
+      "last_price_krw": "140 KRW",
+      "thesis": "직전 trap 이력은 있지만 현재는 대금과 위치가 동시에 살아 있는 고베타 breakout이다.",
+      "strategy": "high-beta breakout core new buy",
+      "role": "high-beta breakout core",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 15,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -212,110 +242,20 @@
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "amount": 2494.9296870624617,
-      "avg_buy_price_krw": "457 KRW",
-      "last_price_krw": "457 KRW",
-      "thesis": "World ID/Tinder 서사가 아직 가격에서 완전히 꺾이지 않아 브랜드형 회복 슬롯으로 유지할 가치가 있다.",
-      "strategy": "public-attention reclaimed leader rebuy",
-      "role": "public-attention reclaimed leader",
+      "amount": 2454.7802512830895,
+      "avg_buy_price_krw": "454 KRW",
+      "last_price_krw": "454 KRW",
+      "thesis": "World ID/Tinder와 Sam Altman 연상도가 결합된 브랜드형 continuation 슬롯이다.",
+      "strategy": "brand-attention continuation rebuy",
+      "role": "brand-attention continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 9,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🌪️",
-      "symbol": "DRIFT",
-      "market": "KRW-DRIFT",
-      "amount": 17017.65473115739,
-      "avg_buy_price_krw": "67 KRW",
-      "last_price_krw": "67 KRW",
-      "thesis": "직전 함정주였지만 이번 회차는 재양전환과 gap 축소가 확인돼 고베타 반격 슬롯으로 재채택했다.",
-      "strategy": "reclaimed high-beta rebound new buy",
-      "role": "reclaimed high-beta rebound",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 12,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪁",
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "amount": 3713.950706799821,
-      "avg_buy_price_krw": "307 KRW",
-      "last_price_krw": "307 KRW",
-      "thesis": "과열도가 낮고 종가 품질이 좋아 약한 메이저 환경에서 균형용 보조 공격 슬롯으로 적합하다.",
-      "strategy": "quality secondary continuation new buy",
-      "role": "quality secondary continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "IN": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 116.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-24T00:08:00+09:00",
-        "price_krw": 136.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-24T22:59:00+09:00",
-        "price_krw": 131.0,
-        "action": "SELL"
-      }
-    ],
-    "ZBT": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 228.0,
-        "action": "SELL"
-      }
-    ],
-    "NEAR": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 3115.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-24T00:08:00+09:00",
-        "price_krw": 3276.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-24T22:59:00+09:00",
-        "price_krw": 3585.0,
-        "action": "SELL"
-      }
-    ],
-    "INJ": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 7325.0,
-        "action": "SELL"
-      }
-    ],
-    "TRX": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 542.0,
-        "action": "SELL"
-      }
-    ],
     "ONDO": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 584.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-24T00:08:00+09:00",
         "price_krw": 631.0,
@@ -333,16 +273,21 @@
       },
       {
         "timestamp": "2026-05-24T22:59:00+09:00",
+        "price_krw": 659.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 659.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
         "price_krw": 659.0,
         "action": "BUY"
       }
     ],
     "DRIFT": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 74.4,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-24T00:08:00+09:00",
         "price_krw": 63.8,
@@ -352,14 +297,14 @@
         "timestamp": "2026-05-24T22:59:00+09:00",
         "price_krw": 67.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 67.5,
+        "action": "SELL"
       }
     ],
     "VVV": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 26430.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-24T00:08:00+09:00",
         "price_krw": 26840.0,
@@ -369,14 +314,14 @@
         "timestamp": "2026-05-24T22:59:00+09:00",
         "price_krw": 29910.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 27290.0,
+        "action": "SELL"
       }
     ],
     "SAHARA": [
-      {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 51.3,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-24T00:08:00+09:00",
         "price_krw": 50.9,
@@ -385,14 +330,43 @@
     ],
     "KAITO": [
       {
-        "timestamp": "2026-05-23T18:08:00+09:00",
-        "price_krw": 751.0,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-05-24T00:08:00+09:00",
         "price_krw": 739.0,
         "action": "SELL"
+      }
+    ],
+    "IN": [
+      {
+        "timestamp": "2026-05-24T00:08:00+09:00",
+        "price_krw": 136.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-24T22:59:00+09:00",
+        "price_krw": 131.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 140.0,
+        "action": "BUY"
+      }
+    ],
+    "NEAR": [
+      {
+        "timestamp": "2026-05-24T00:08:00+09:00",
+        "price_krw": 3276.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-24T22:59:00+09:00",
+        "price_krw": 3585.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 3912.0,
+        "action": "BUY"
       }
     ],
     "WLD": [
@@ -409,6 +383,16 @@
       {
         "timestamp": "2026-05-24T22:59:00+09:00",
         "price_krw": 457.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 454.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 454.0,
         "action": "BUY"
       }
     ],
@@ -429,95 +413,107 @@
         "timestamp": "2026-05-24T22:59:00+09:00",
         "price_krw": 307.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 299.0,
+        "action": "SELL"
+      }
+    ],
+    "SOON": [
+      {
+        "timestamp": "2026-05-25T23:06:00+09:00",
+        "price_krw": 269.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-05-24-2259.md",
+  "latest_report_file": "2026-05-25-2306.md",
   "preferred_buy_candidates": [
+    {
+      "icon": "🔜",
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "price_krw": 269.0,
+      "change_pct_24h": 13.02521008,
+      "turnover_krw_24h": 148797689748.85,
+      "reason": "24h 대금 약 1,488억원으로 보드 최상단이고 +13.03%, 68.1% 위치를 유지해 이번 회차 최우선 유동성 모멘텀 코어다.",
+      "score": 9.2,
+      "community": "업비트 대금 1위가 SOON으로 몰렸고, 국내 추격 자금이 종가 붕괴 없이 남아 있다.",
+      "risk": "257원 하회 시 대금 주도 모멘텀 약화",
+      "allocation_krw": 1114470.2340825226,
+      "role": "liquidity-leader momentum core",
+      "invalidated_if": "257원 하회 시",
+      "range_position_pct": 68.1,
+      "day_high_gap_pct": -5.28
+    },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
       "price_krw": 659.0,
-      "change_pct_24h": 3.29153605,
-      "turnover_krw_24h": 96777244412.53363,
-      "reason": "967억원대 압도적 대금과 +3.29%, 68.8% 위치가 겹쳐 메이저 약세 국면에서도 가장 믿을 수 있는 상대강도 코어다.",
-      "score": 9.0,
-      "community": "업비트 대금이 다시 ONDO 한 종목으로 가장 두껍게 수렴했다. 메이저 붕괴 속에서도 자금 이탈보다 재집중이 더 강하다.",
-      "risk": "648원 하회 시 상대강도 약화",
-      "allocation_krw": 1140182.866987545,
+      "change_pct_24h": 0.15197568,
+      "turnover_krw_24h": 84723507002.82487,
+      "reason": "24h 대금 약 847억원과 장중 고점 근처 유지가 겹쳐, JPM·Mastercard·Ripple 파일럿 서사가 아직 죽지 않은 유동성 앵커다.",
+      "score": 8.8,
+      "community": "대금은 SOON 다음으로 두껍고, 국내 보드에서 기관서사 앵커 역할이 계속 읽힌다.",
+      "risk": "648원 하회 시 기관서사 상대강도 약화",
+      "allocation_krw": 1114470.2340825226,
       "role": "institutional-liquidity relative-strength core",
       "invalidated_if": "648원 하회 시",
-      "range_position_pct": 68.8,
-      "day_high_gap_pct": -2.23
+      "range_position_pct": 61.8,
+      "day_high_gap_pct": -1.93
     },
     {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "price_krw": 29910.0,
-      "change_pct_24h": 8.60566449,
-      "turnover_krw_24h": 17009614941.306787,
-      "reason": "170억원대 대금과 +8.61%, 82.4% 위치 조합이 좋아 현재 보드에서 가장 공격적인 attention continuation 슬롯이다.",
-      "score": 8.5,
-      "community": "국내 attention 자금이 상단 체류형 종목으로 다시 모이면서 VVV가 가장 선명한 대체 리더가 됐다.",
-      "risk": "28,700원 하회 시 attention 지속성 약화",
-      "allocation_krw": 1140182.866987545,
-      "role": "attention-driven continuation core",
-      "invalidated_if": "28,700원 하회 시",
-      "range_position_pct": 82.4,
-      "day_high_gap_pct": -2.35
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "price_krw": 3912.0,
+      "change_pct_24h": 9.15178571,
+      "turnover_krw_24h": 56140866100.52594,
+      "reason": "24h 대금 약 561억원과 +9.15%, 95.0% 위치 조합이 매우 좋아, 체급형 알트 중 이번 회차 최고 품질 continuation이다.",
+      "score": 9.0,
+      "community": "대형 알트 중에서는 NEAR가 가장 깔끔하게 상단을 유지해 국내 보드에서도 품질형 대안으로 보인다.",
+      "risk": "3820원 하회 시 신고가권 지속 해석 훼손",
+      "allocation_krw": 1114470.2340825226,
+      "role": "large-cap continuation core",
+      "invalidated_if": "3820원 하회 시",
+      "range_position_pct": 95.0,
+      "day_high_gap_pct": -0.56
+    },
+    {
+      "icon": "♾️",
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "price_krw": 140.0,
+      "change_pct_24h": 23.89380531,
+      "turnover_krw_24h": 50250063411.74294,
+      "reason": "24h 대금 약 503억원과 +23.89%, 82.9% 위치가 겹쳐 이번 회차 고베타 브레이크아웃 슬롯으로 다시 승격할 가치가 있다.",
+      "score": 8.7,
+      "community": "직전 trap 이력이 있어도 이번 회차는 대금과 위치가 동시에 살아나며 국내 고베타 자금이 다시 붙었다.",
+      "risk": "133원 하회 시 failed breakout 재발 우려",
+      "allocation_krw": 1114470.2340825226,
+      "role": "high-beta breakout core",
+      "invalidated_if": "133원 하회 시",
+      "range_position_pct": 82.9,
+      "day_high_gap_pct": -4.11
     },
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "price_krw": 457.0,
-      "change_pct_24h": 2.00892857,
-      "turnover_krw_24h": 17497368039.413696,
-      "reason": "175억원대 대금과 +2.01%, 59.3% 위치로 완전한 돌파는 아니지만 브랜드 서사가 살아 있는 reclaimed leader다.",
-      "score": 8.1,
-      "community": "WLD는 과열 추격보다 눌림 후 재회복 구조로 국내 보드에서 비교적 깔끔하게 버티고 있다.",
-      "risk": "450원 하회 시 reclaimed 리더 해석 훼손",
-      "allocation_krw": 1140182.866987545,
-      "role": "public-attention reclaimed leader",
-      "invalidated_if": "450원 하회 시",
-      "range_position_pct": 59.3,
-      "day_high_gap_pct": -2.35
-    },
-    {
-      "icon": "🌪️",
-      "symbol": "DRIFT",
-      "market": "KRW-DRIFT",
-      "price_krw": 67.0,
-      "change_pct_24h": 4.6875,
-      "turnover_krw_24h": 13871957781.229408,
-      "reason": "138억원대 대금과 +4.69%, -3.87% gap는 직전 turnover trap 상태에서 의미 있는 회복 신호라 공격 슬롯으로 재승격한다.",
-      "score": 7.8,
-      "community": "한 번 함정으로 끝났던 DRIFT가 이번엔 재양전환 후 구조를 다시 세우며 단기 반격 자금을 흡수했다.",
-      "risk": "65원 하회 시 rebound 실패 재확인",
-      "allocation_krw": 1140182.866987545,
-      "role": "reclaimed high-beta rebound",
-      "invalidated_if": "65원 하회 시",
-      "range_position_pct": 57.1,
-      "day_high_gap_pct": -3.87
-    },
-    {
-      "icon": "🪁",
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "price_krw": 307.0,
-      "change_pct_24h": 0.98684211,
-      "turnover_krw_24h": 6915394548.366537,
-      "reason": "69억원대 대금과 66.7% 위치, -1.29% gap 조합이 좋아 저품질 급등주 대신 넣을 만한 저소음 continuation이다.",
-      "score": 7.4,
-      "community": "대금은 과열권보다 가볍지만 종가 품질이 깔끔해 약한 장세에서 보조 품질축 역할이 가능하다.",
-      "risk": "303원 하회 시 품질 지속형 약화",
-      "allocation_krw": 1140182.866987545,
-      "role": "quality secondary continuation",
-      "invalidated_if": "303원 하회 시",
-      "range_position_pct": 66.7,
-      "day_high_gap_pct": -1.29
+      "price_krw": 454.0,
+      "change_pct_24h": 3.41685649,
+      "turnover_krw_24h": 10805092023.49421,
+      "reason": "24h 대금 약 108억원이지만 85.7% 위치와 -0.87% gap이 좋아, Sam Altman/Tinder-World ID attention을 담는 브랜드형 continuation으로 적합하다.",
+      "score": 8.2,
+      "community": "WLD는 대금은 상대적으로 가볍지만 브랜드/인지도 프리미엄 덕분에 상단 체류 품질이 좋다.",
+      "risk": "447원 하회 시 브랜드 continuation 약화",
+      "allocation_krw": 1114470.2340825226,
+      "role": "brand-attention continuation",
+      "invalidated_if": "447원 하회 시",
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -0.87
     }
   ],
   "reference_watchlist": [
@@ -525,162 +521,143 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.52M원 저점이 다시 깨지면 현재 알트 바스켓 공격성은 빠르게 축소해야 한다."
+      "reason": "115.00M원 재이탈 시 이번 알트 확장 해석을 빠르게 줄여야 한다."
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.145M원 저점 방어 실패 시 메이저 전반 리스크오프가 심화될 수 있다."
+      "reason": "3.126M원 하회 시 메이저 회복의 질이 약해질 수 있다."
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "2,025원 저점이 다시 밀리면 국내 메이저 심리 악화 신호다."
+      "reason": "2,009원 저점 이탈은 국내 메이저 심리 둔화 신호다."
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "127.9K원 근처 반등 실패는 솔라나계 알트 추종 약화로 연결될 수 있다."
+      "reason": "126.7K원 하향 시 솔라나계 베타 슬롯이 약해질 수 있다."
     },
     {
-      "icon": "♾️",
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "571억원대 대금에도 위치 5.4%, gap -21.1%라 대표적 trap 감시 대상이다."
-    },
-    {
-      "icon": "🔜",
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "534억원대 대금이 남아도 음전환·11.8% 위치라 추격 금지 구간이다."
-    },
-    {
-      "icon": "🤖",
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "AI-agent 슬롯이 22.9% 위치까지 식어 다음 회차 재점화 확인 전까지 보류한다."
+      "icon": "🌊",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "95%대 위치와 191억원대 대금으로 WLD 약화 시 승격 가능한 체급형 차선 후보다."
     },
     {
       "icon": "🏜️",
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "reason": "104억원대 대금에도 23.1% 위치로 AI 슬롯 우선순위가 크게 밀렸다."
+      "reason": "AI 슬롯 재점화는 보이지만 대금/위치 모두 톱5 대비 한 단계 약해 보류한다."
+    },
+    {
+      "icon": "🕶️",
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "상장 attention은 남아도 -4.5%와 10.5% 위치라 눌림 확인 전 재진입 금지다."
+    },
+    {
+      "icon": "🌪️",
+      "symbol": "DRIFT",
+      "market": "KRW-DRIFT",
+      "reason": "업비트 거래지원 종료(6월 1일) 이슈가 실전 리스크라 대금이 있어도 선호 후보 제외다."
     }
   ],
   "cycle_improvements": [
-    "update_dashboard에 장세 레짐 한글 라벨/아이콘(regime_label_ko, regime_icon)을 추가해 메이저 안정·붕괴 상태를 한눈에 읽게 했다.",
-    "메이저 평균 위치가 35% 미만일 때는 대금보다 종가 품질과 상대강도를 우선하는 선별 규율을 이번 회차 판단 프레임에 반영했다.",
-    "리포트에서 유지 종목과 강제 퇴출 종목을 더 선명히 구분해 IN·VIRTUAL 같은 붕괴 슬롯을 빨리 읽게 만들었다."
+    "update_dashboard.py에 leader_concentration_warning을 추가해 톱5 대금이 한 종목에 과도하게 몰릴 때 바로 보이게 했다.",
+    "메이저 평균 위치가 50% 이상으로 회복하면 종가 품질과 breakout 지속성을 더 우선하는 규율로 판단 프레임을 조정했다.",
+    "리포트에서 가격 훼손 리스크와 거래지원 종료/뉴스성 리스크를 분리해 읽도록 DRIFT 같은 구조적 제외 사유를 더 선명하게 적었다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "571억원대 대금에도 -0.76%, 5.4% 위치, gap -21.08%라 대표적 turnover trap이다."
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "133억원대 대금은 남아도 -4.51%, 10.5% 위치로 attention fade가 너무 깊다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "668억원대 대금은 크지만 -2.32%와 51.7% 위치라 이번 회차 상대강도 코어 5종보다 열위다."
+      "symbol": "DRIFT",
+      "market": "KRW-DRIFT",
+      "reason": "271억원대 대금에도 업비트 거래지원 종료(6월 1일) 리스크가 실전 판단을 압도한다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "100억원대 대금에도 -2.09%, 22.9% 위치로 AI 슬롯 명분이 무너졌다."
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "41억원대 대금과 23.1% 위치로 공격 포트폴리오 5종 우선순위에서 밀렸다."
     },
     {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "534억원대 대금이 남아도 음전환과 11.8% 위치라 추격 금지다."
+      "symbol": "ERA",
+      "market": "KRW-ERA",
+      "reason": "+14.66%라도 44.9% 위치·-14.79% gap로 late-session fade가 심하다."
     },
     {
-      "symbol": "SUPER",
-      "market": "KRW-SUPER",
-      "reason": "+5.29%라도 17.5% 위치·-15.57% gap로 late-session fade가 심하다."
+      "symbol": "CPOOL",
+      "market": "KRW-CPOOL",
+      "reason": "198억원대 대금에도 26.3% 위치·-10.83% gap라 pin-high 실패 성격이 강하다."
     },
     {
-      "symbol": "PLUME",
-      "market": "KRW-PLUME",
-      "reason": "+8.80%와 186억원대 대금은 좋지만 gap -8.56%로 눌림 확인 전 추격 기대값이 낮다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "176억원대 대금과 +2.92%는 양호하지만 톱5 대비 follow-through가 약하다."
     }
   ],
-  "top_line": "공포탐욕은 **25(Fear)**, 메이저 4종 평균 위치는 **10.9%**까지 급락했습니다. 그래서 이번 회차는 **광범위 추격 금지 + ONDO·VVV·WLD·DRIFT·KITE 5종 선별 공격**이 맞습니다.",
-  "ui_version": "v7.1",
+  "top_line": "공포탐욕은 **25(Fear)**로 낮지만, 메이저 4종 평균 위치가 **60.8%**까지 회복됐고 업비트 대금 상단이 **SOON·ONDO·NEAR·IN**으로 재정렬됐습니다. 이번 회차는 **VVV·DRIFT·KITE 정리 + SOON·ONDO·NEAR·IN·WLD 5종 공격 재편**이 맞습니다.",
+  "ui_version": "v7.2",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 114.52M원 하향 지속, ONDO 648원 하향, VVV 28,700원 하향, WLD 450원 하향, DRIFT 65원 하향, KITE 303원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 115.00M원 하향 지속, SOON 257원 하향, ONDO 648원 하향, NEAR 3820원 하향, IN 133원 하향, WLD 447원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "메이저 평균 위치가 35% 미만이면 range_position 55% 미만·day_high_gap -7% 이하 종목은 core 금지",
-      "20B+ 대금 종목이라도 range_position 35% 미만이면 trap 우선 분류",
-      "메이저 붕괴 구간에도 현금 100% 대기보다 상대강도 5종 선별 분산을 우선하되, 구조 훼손 슬롯은 빠르게 교체"
+      "공식 거래지원 종료/상장폐지 이슈가 확인된 종목은 대금이 커도 preferred core 금지",
+      "메이저 평균 위치가 50% 이상이면 range_position 65% 이상 또는 day_high_gap -6% 이내 종목을 우선",
+      "대금 1위 종목 share가 45%를 넘으면 concentration warning을 띄우고 동일 테마 과다집중을 피한다"
     ],
     "exit_rules": [
-      "BTC 114.52M원 하향 지속, ONDO 648원 하향, VVV 28,700원 하향, WLD 450원 하향, DRIFT 65원 하향, KITE 303원 하향 시 즉시 재평가",
+      "BTC 115.00M원 하향 지속, SOON 257원 하향, ONDO 648원 하향, NEAR 3820원 하향, IN 133원 하향, WLD 447원 하향 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "메이저 평균 위치가 35% 미만이면 range_position 55% 미만·day_high_gap -7% 이하 종목은 core 금지",
-      "20B+ 대금 종목이라도 range_position 35% 미만이면 trap 우선 분류",
-      "메이저 붕괴 구간에도 현금 100% 대기보다 상대강도 5종 선별 분산을 우선하되, 구조 훼손 슬롯은 빠르게 교체"
+      "공식 거래지원 종료/상장폐지 이슈가 확인된 종목은 대금이 커도 preferred core 금지",
+      "메이저 평균 위치가 50% 이상이면 range_position 65% 이상 또는 day_high_gap -6% 이내 종목을 우선",
+      "대금 1위 종목 share가 45%를 넘으면 concentration warning을 띄우고 동일 테마 과다집중을 피한다"
     ]
   },
   "scorecard": {
-    "turnover_focus": "ONDO 압도적 대금, VVV/WLD attention 유지, DRIFT 반격 확인",
-    "momentum_discipline": "IN·SOON·VIRTUAL·SUPER 같은 붕괴/페이드 슬롯 배제",
-    "diversification": "RWA·attention·identity·high-beta rebound·quality continuation 5분산",
+    "turnover_focus": "SOON 1위, ONDO 2위, NEAR·IN이 뒤를 받치는 구조로 대금 상단이 선명하다.",
+    "momentum_discipline": "VVV fade, DRIFT delisting risk, KITE 저대금 약화를 즉시 배제했다.",
+    "diversification": "listing momentum·RWA·large-cap L1·high-beta breakout·brand attention 5분산",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "high_conviction_positive_count": 1,
-    "resilient_positive_count": 7,
-    "quality_recovery_count": 12,
-    "continuation_positive_count": 2,
-    "turnover_trap_count": 11,
-    "fading_positive_leader_count": 3,
-    "reclaimed_positive_leader_count": 1,
-    "fresh_breakout_positive_count": 0,
-    "stalled_positive_liquidity_count": 3,
-    "stability_support_count": 6,
-    "secondary_continuation_count": 3,
-    "summary": "메이저는 붕괴했지만 완전히 죽은 보드는 아니다. 함정주는 많고 깨끗한 fresh breakout은 드물어, 이번 회차는 상대강도·재회복형만 선별하는 것이 핵심이다."
+    "summary": "메이저는 혼조 회복이지만 업비트 상단은 선명한 선별 강세다. SOON·NEAR·IN은 breakout/continuation 쪽이 우세하고, VVV·DRIFT·ERA는 fade 또는 구조 리스크가 더 크다."
   },
   "rotation_map": [
     {
-      "bucket": "IN → VVV",
+      "bucket": "VVV → SOON",
       "symbols": [
-        "IN",
-        "VVV"
+        "VVV",
+        "SOON"
       ],
-      "note": "고대금 붕괴 슬롯을 상단 체류 attention continuation으로 교체했다."
+      "note": "상장 attention fade를 대금 1위 momentum core로 교체했다."
     },
     {
-      "bucket": "NEAR → DRIFT",
+      "bucket": "DRIFT → NEAR",
       "symbols": [
-        "NEAR",
-        "DRIFT"
+        "DRIFT",
+        "NEAR"
       ],
-      "note": "체급 회복주보다 단기 반격 명분이 선명한 high-beta 슬롯으로 공격성을 조정했다."
+      "note": "거래지원 종료 리스크 슬롯을 체급형 high-range continuation으로 교체했다."
     },
     {
-      "bucket": "VIRTUAL → KITE",
+      "bucket": "KITE → IN",
       "symbols": [
-        "VIRTUAL",
-        "KITE"
+        "KITE",
+        "IN"
       ],
-      "note": "AI-slot 약세를 저소음 quality continuation으로 교체했다."
-    },
-    {
-      "bucket": "WLD → WLD",
-      "symbols": [
-        "WLD",
-        "WLD"
-      ],
-      "note": "브랜드 reclaim 코어는 유지하되 22:59 가격 기준으로 균등 재편했다."
+      "note": "저대금 품질 슬롯을 고베타 breakout 슬롯으로 상향 교체했다."
     },
     {
       "bucket": "ONDO → ONDO",
@@ -688,37 +665,46 @@
         "ONDO",
         "ONDO"
       ],
-      "note": "상대강도 코어는 유지하되 22:59 가격 기준으로 균등 재편했다."
+      "note": "기관서사 코어는 유지하되 23:06 가격 기준 균등 재편했다."
+    },
+    {
+      "bucket": "WLD → WLD",
+      "symbols": [
+        "WLD",
+        "WLD"
+      ],
+      "note": "브랜드 continuation 코어는 유지하되 23:06 가격 기준 균등 재편했다."
     }
   ],
   "self_evaluation": {
-    "score": 8.7,
-    "summary": "자정에는 메이저 회복을 잘 읽었지만, 이번 저녁에는 그 회복이 완전히 꺾였다는 사실을 즉시 인정해야 했다. IN·VIRTUAL을 계속 들고 가기보다 이번 회차에서 구조 훼손을 선명하게 반영해 선별 회전한 점은 개선이다."
+    "score": 8.9,
+    "summary": "직전 회차의 VVV·DRIFT·KITE 바스켓은 장 후반 리더 교체를 충분히 반영하지 못했다. 이번엔 메이저 회복과 업비트 대금 재정렬을 바로 받아들여 SOON·NEAR·IN 쪽으로 공격축을 옮긴 점이 개선이다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 3.92,
+    "preferred_avg_change_pct_24h": 9.93,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 152071579722.85007,
-    "leader_turnover_share_pct": 63.64,
-    "leader_symbol": "ONDO"
+    "preferred_turnover_total_krw_24h": 350717218287.4379,
+    "leader_turnover_share_pct": 42.43,
+    "leader_symbol": "SOON",
+    "leader_concentration_warning": "moderate"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 11.6,
-    "major_avg_range_position_pct": 10.85,
-    "preferred_avg_change_pct_24h": 3.92,
-    "preferred_high_range_count": 1,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 38.7,
+    "major_avg_range_position_pct": 60.88,
+    "preferred_avg_change_pct_24h": 9.93,
+    "preferred_high_range_count": 3,
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 66.86,
-    "avg_day_high_gap_pct": -2.42,
-    "above_80_range_count": 1,
-    "summary": "고위치(80%+) 후보 1개 / 평균 위치 66.86%"
+    "avg_range_position_pct": 78.7,
+    "avg_day_high_gap_pct": -2.55,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 78.7%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -729,6 +715,14 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
+      "icon": "🔜",
+      "symbol": "SOON",
+      "last_price_krw": 269.0,
+      "threshold_krw": 257.0,
+      "distance_to_invalidation_pct": 4.67,
+      "status": "near"
+    },
+    {
       "icon": "🌐",
       "symbol": "ONDO",
       "last_price_krw": 659.0,
@@ -737,35 +731,27 @@
       "status": "near"
     },
     {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "last_price_krw": 29910.0,
-      "threshold_krw": 28700.0,
-      "distance_to_invalidation_pct": 4.22,
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "last_price_krw": 3912.0,
+      "threshold_krw": 3820.0,
+      "distance_to_invalidation_pct": 2.41,
       "status": "near"
+    },
+    {
+      "icon": "♾️",
+      "symbol": "IN",
+      "last_price_krw": 140.0,
+      "threshold_krw": 133.0,
+      "distance_to_invalidation_pct": 5.26,
+      "status": "healthy"
     },
     {
       "icon": "🌍",
       "symbol": "WLD",
-      "last_price_krw": 457.0,
-      "threshold_krw": 450.0,
-      "distance_to_invalidation_pct": 1.56,
-      "status": "near"
-    },
-    {
-      "icon": "🌪️",
-      "symbol": "DRIFT",
-      "last_price_krw": 67.0,
-      "threshold_krw": 65.0,
-      "distance_to_invalidation_pct": 3.08,
-      "status": "near"
-    },
-    {
-      "icon": "🪁",
-      "symbol": "KITE",
-      "last_price_krw": 307.0,
-      "threshold_krw": 303.0,
-      "distance_to_invalidation_pct": 1.32,
+      "last_price_krw": 454.0,
+      "threshold_krw": 447.0,
+      "distance_to_invalidation_pct": 1.57,
       "status": "near"
     }
   ],
@@ -776,171 +762,171 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "KITE",
-      "action": "BUY",
-      "price_krw": 307.0,
-      "amount_delta": 3713.950706799821,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "66.7% 위치와 -1.29% gap의 저소음 품질형 지속 구조가 좋아 5번째 보조 공격 슬롯으로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "DRIFT",
-      "action": "BUY",
-      "price_krw": 67.0,
-      "amount_delta": 17017.65473115739,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "138억원대 대금과 gap 축소가 확인돼 직전 함정 상태에서 반격형 슬롯으로 재승격 편입"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
+      "timestamp": "2026-05-25T23:06:00+09:00",
       "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 457.0,
-      "amount_delta": 2494.9296870624617,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "175억원대 대금과 +2.01%, reclaimed 구조가 남아 있는 브랜드형 코어라 재편입"
+      "price_krw": 454.0,
+      "amount_delta": 2454.7802512830895,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "Tinder/World ID attention과 85.7% 위치가 겹친 브랜드 continuation 코어라 재편입"
     },
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "VVV",
-      "action": "BUY",
-      "price_krw": 29910.0,
-      "amount_delta": 38.12045693706269,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "170억원대 대금과 +8.61%, 82.4% 위치가 동행한 attention continuation 코어라 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "ONDO",
-      "action": "BUY",
-      "price_krw": 659.0,
-      "amount_delta": 1730.1712700873218,
-      "cash_delta_krw": -1140182.866987545,
-      "reason": "967억원대 최대 대금과 +3.29%, 68.8% 위치가 겹쳐 메이저 약세에서도 가장 읽기 쉬운 상대강도 코어라 재편입"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "VIRTUAL",
-      "action": "SELL",
-      "price_krw": 1124.0,
-      "amount_delta": -1000.0131776791687,
-      "cash_delta_krw": 1124014.8117113856,
-      "reason": "100억원대 대금에도 22.9% 위치라 AI 슬롯 명분이 무너져 KITE로 교체"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "WLD",
-      "action": "SELL",
-      "price_krw": 457.0,
-      "amount_delta": -2582.5812017893627,
-      "cash_delta_krw": 1180239.6092177387,
-      "reason": "브랜드 reclaim 코어는 유지하되 22:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
-      "symbol": "NEAR",
-      "action": "SELL",
-      "price_krw": 3585.0,
-      "amount_delta": -334.25348887627894,
-      "cash_delta_krw": 1198298.75762146,
-      "reason": "668억원대 대금은 크지만 메이저 약세 환경에서 상대강도 우위가 약해 DRIFT로 교체"
-    },
-    {
-      "timestamp": "2026-05-24T22:59:00+09:00",
+      "timestamp": "2026-05-25T23:06:00+09:00",
       "symbol": "IN",
-      "action": "SELL",
-      "price_krw": 131.0,
-      "amount_delta": -8051.5766879315415,
-      "cash_delta_krw": 1054756.546119032,
-      "reason": "571억원대 대금에도 5.4% 위치·-21.08% gap로 turnover trap이 명확해 전량 교체"
+      "action": "BUY",
+      "price_krw": 140.0,
+      "amount_delta": 7960.501672018018,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "503억원대 대금과 +23.89%, 82.9% 위치가 겹친 고베타 breakout 슬롯이라 신규 편입"
     },
     {
-      "timestamp": "2026-05-24T22:59:00+09:00",
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3912.0,
+      "amount_delta": 284.88502916219903,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "561억원대 대금과 95.0% 위치, 동적 리샤딩 기대가 겹친 체급형 continuation 코어라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 659.0,
+      "amount_delta": 1691.1536177276519,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "847억원대 대금과 기관서사 유효성이 남아 있는 유동성 앵커라 재편입"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "SOON",
+      "action": "BUY",
+      "price_krw": 269.0,
+      "amount_delta": 4143.012022611608,
+      "cash_delta_krw": -1114470.2340825226,
+      "reason": "24h 대금 1위와 +13.03%, 68.1% 위치가 동행한 이번 회차 최우선 유동성 모멘텀 코어라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "KITE",
+      "action": "SELL",
+      "price_krw": 299.0,
+      "amount_delta": -3713.950706799821,
+      "cash_delta_krw": 1110471.2613331464,
+      "reason": "저소음 품질은 남아도 41억원대 대금과 23.1% 위치로 공격 슬롯 우선순위에서 밀려 교체"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "DRIFT",
+      "action": "SELL",
+      "price_krw": 67.5,
+      "amount_delta": -17017.65473115739,
+      "cash_delta_krw": 1148691.6943531237,
+      "reason": "대금이 있어도 업비트 거래지원 종료(6월 1일) 리스크가 실전 판단을 압도해 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 454.0,
+      "amount_delta": -2494.9296870624617,
+      "cash_delta_krw": 1132698.0779263577,
+      "reason": "브랜드 continuation 코어는 유지하되 23:06 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
+      "symbol": "VVV",
+      "action": "SELL",
+      "price_krw": 27290.0,
+      "amount_delta": -38.12045693706269,
+      "cash_delta_krw": 1040307.2698124407,
+      "reason": "상장 attention은 남아도 -4.51%·10.5% 위치로 fade가 깊어 SOON으로 교체"
+    },
+    {
+      "timestamp": "2026-05-25T23:06:00+09:00",
       "symbol": "ONDO",
       "action": "SELL",
       "price_krw": 659.0,
-      "amount_delta": -1735.36359676496,
-      "cash_delta_krw": 1143604.6102681085,
-      "reason": "상대강도 코어는 유지하되 22:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "amount_delta": -1730.1712700873218,
+      "cash_delta_krw": 1140182.866987545,
+      "reason": "기관서사 코어는 유지하되 23:06 가격 기준 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🌐 **ONDO** — 659원, **+3.29%**, 24h 대금 약 **968억원**, 위치 **68.8%**",
-      "   → 메이저 붕괴 속에서도 가장 두꺼운 **기관서사 상대강도 코어**",
-      "2. 🕶️ **VVV** — 29,910원, **+8.61%**, 24h 대금 약 **170억원**, 위치 **82.4%**",
-      "   → 가장 공격적인 **attention continuation**",
-      "3. 🌍 **WLD** — 457원, **+2.01%**, 24h 대금 약 **175억원**, 위치 **59.3%**",
-      "   → Tinder/World ID 서사 살아 있는 **브랜드 reclaim**",
-      "4. 🌪️ **DRIFT** — 67원, **+4.69%**, 24h 대금 약 **139억원**, 위치 **57.1%**",
-      "   → 직전 함정 뒤 재양전환 확인된 **반격형 고베타**",
-      "5. 🪁 **KITE** — 307원, **+0.99%**, 24h 대금 약 **69억원**, 위치 **66.7%**",
-      "   → 과열보다 품질이 나은 **저소음 continuation**"
+      "1. 🔜 **SOON** — 269원, **+13.03%**, 24h 대금 약 **1,488억원**, 위치 **68.1%**",
+      "   → 이번 회차 최강 **유동성 모멘텀 코어**",
+      "2. 🌐 **ONDO** — 659원, **+0.15%**, 24h 대금 약 **847억원**, 위치 **61.8%**",
+      "   → JPM·Mastercard·Ripple 서사가 붙은 **기관서사 유동성 앵커**",
+      "3. 🌉 **NEAR** — 3,912원, **+9.15%**, 24h 대금 약 **561억원**, 위치 **95.0%**",
+      "   → 대형 알트 중 가장 깔끔한 **high-range continuation**",
+      "4. ♾️ **IN** — 140원, **+23.89%**, 24h 대금 약 **503억원**, 위치 **82.9%**",
+      "   → trap 이력은 있지만 이번엔 다시 살아난 **고베타 breakout**",
+      "5. 🌍 **WLD** — 454원, **+3.42%**, 24h 대금 약 **108억원**, 위치 **85.7%**",
+      "   → Sam Altman/Tinder-World ID attention을 담는 **브랜드 continuation**"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: -0.18%, 위치 11.6%",
-      "- ◆ ETH: -0.54%, 위치 12.8%",
-      "- 💧 XRP: -0.20%, 위치 9.5%",
-      "- ☀️ SOL: -0.16%, 위치 9.5%",
-      "- 해석: 메이저 평균 **10.9%** → 장세 레짐은 **🟠 메이저 붕괴·선별 방어**"
+      "- ₿ BTC: **-0.08%**, 위치 **38.7%**",
+      "- ◆ ETH: **+0.32%**, 위치 **71.1%**",
+      "- 💧 XRP: **+0.05%**, 위치 **60.0%**",
+      "- ☀️ SOL: **+0.31%**, 위치 **73.7%**",
+      "- 해석: 메이저 평균 **60.8%** → 레짐은 **🟡 혼조·빠른 순환 대응**"
     ],
     "🚫 이번 회차 강제 제외": [
-      "- ♾️ **IN**: 571억원대 대금에도 위치 **5.4%**, gap **-21.08%** → **turnover trap 확정**",
-      "- 🤖 **VIRTUAL**: 100억원대 대금에도 위치 **22.9%** → **AI 슬롯 명분 붕괴**",
-      "- 🌉 **NEAR**: 대금은 크지만 **-2.32% / 51.7% 위치** → 상대강도 코어 5종보다 열위",
-      "- 🔜 **SOON**: 534억원대 대금, 위치 **11.8%** → **추격 금지**",
-      "- 🦸 **SUPER**: +5.29%라도 위치 **17.5%**, gap **-15.57%** → **late fade**"
+      "- 🕶️ **VVV**: 133억원대 대금에도 **-4.51% / 10.5% 위치** → **attention fade**",
+      "- 🌪️ **DRIFT**: 271억원대 대금이 있어도 **6월 1일 업비트 거래지원 종료 리스크** → **구조적 제외**",
+      "- 🪁 **KITE**: 41억원대 대금, 위치 **23.1%** → **공격 슬롯 약화**",
+      "- 🧪 **ERA**: **+14.66%**라도 위치 **44.9%**, gap **-14.79%** → **pin-high fade**",
+      "- 🌊 **CPOOL**: 198억원대 대금에도 위치 **26.3%** → **추격 금지**"
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 0%, **ONDO·VVV·WLD·DRIFT·KITE 5종 균등 공격 분산**",
-      "- 핵심은 **대금 1위 ONDO 유지**, 나머지는 **attention·브랜드·반격형·품질형**으로 분산",
-      "- 메이저가 약하므로 **아무 알트나 사는 장이 아니라 살아남은 5개만 사는 장**으로 해석"
+      "- 현금 0%, **SOON·ONDO·NEAR·IN·WLD 5종 균등 공격 분산**",
+      "- 현재 핵심은 **SOON 대금 1위 추종 + ONDO 유동성 앵커 유지 + NEAR 품질 보강**",
+      "- IN은 고베타, WLD는 브랜드 attention으로 성격을 분산해 **같은 방향 베팅만 하지 않도록 조정**"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL ♾️ IN → BUY 🕶️ VVV",
-      "- SELL 🌉 NEAR → BUY 🌪️ DRIFT",
-      "- SELL 🤖 VIRTUAL → BUY 🪁 KITE",
-      "- SELL 🌐 ONDO → BUY 🌐 ONDO (22:59 가격 기준 균등 재편)",
-      "- SELL 🌍 WLD → BUY 🌍 WLD (22:59 가격 기준 균등 재편)"
+      "- SELL 🕶️ VVV → BUY 🔜 SOON",
+      "- SELL 🌪️ DRIFT → BUY 🌉 NEAR",
+      "- SELL 🪁 KITE → BUY ♾️ IN",
+      "- SELL 🌐 ONDO → BUY 🌐 ONDO (23:06 가격 기준 균등 재편)",
+      "- SELL 🌍 WLD → BUY 🌍 WLD (23:06 가격 기준 균등 재편)"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🌐 ONDO: 1,730.171개 @ 659원",
-      "- 🕶️ VVV: 38.120개 @ 29,910원",
-      "- 🌍 WLD: 2,494.930개 @ 457원",
-      "- 🌪️ DRIFT: 17,017.655개 @ 67원",
-      "- 🪁 KITE: 3,713.951개 @ 307원",
-      "- 총 평가액: **5,700,914원**",
-      "- 실현손익: **-3,889,715원**",
-      "- 누적 수익률: **-42.99%**"
+      "- 🔜 SOON: 4,143.012개 @ 269원",
+      "- 🌐 ONDO: 1,691.154개 @ 659원",
+      "- 🌉 NEAR: 284.885개 @ 3,912원",
+      "- ♾️ IN: 7,960.502개 @ 140원",
+      "- 🌍 WLD: 2,454.780개 @ 454원",
+      "- 총 평가액: **5,572,351원**",
+      "- 실현손익: **-4,018,278원**",
+      "- 누적 수익률: **-44.28%**"
     ],
     "🧠 자기 평가": [
-      "- 자정 회차의 메이저 회복 해석은 맞았지만, 저녁에는 그 회복이 완전히 꺾였다는 사실을 더 빨리 인정해야 했습니다.",
-      "- 이번엔 **IN·VIRTUAL 붕괴를 명확히 잘라낸 점**이 좋았습니다."
+      "- 직전 회차는 **VVV·DRIFT·KITE** 쪽에 머문 시간이 길었습니다.",
+      "- 이번엔 메이저 회복과 업비트 대금 재정렬을 바로 반영해 **SOON·NEAR·IN으로 공격축을 옮긴 점**이 좋았습니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- 대시보드에 **장세 레짐 한글 라벨/아이콘**을 추가했습니다.",
-      "- **메이저 평균 위치 35% 미만이면 종가 품질 우선** 규율을 새로 반영했습니다.",
-      "- 리포트에서 **유지 종목 vs 강제 퇴출 종목**을 더 분리해 읽기 쉽게 바꿨습니다."
+      "- 대시보드에 **leader concentration warning**을 추가해 한 종목 대금 쏠림 리스크를 더 빨리 보이게 했습니다.",
+      "- 메이저 평균 위치가 **50% 이상 회복**하면 breakout/고위치 지속형을 더 우선하는 규율로 조정했습니다.",
+      "- **가격 훼손 리스크**와 **거래지원 종료/뉴스 리스크**를 분리해 DRIFT 같은 구조적 제외를 더 명확히 적었습니다."
     ],
     "🧾 판단": [
-      "- selective aggressive rotation into relative-strength alts while majors are weak; avoid broken intraday leaders"
+      "- aggressive selective rotation into Upbit liquidity leaders while majors recover unevenly"
     ],
     "🎯 신뢰도": [
-      "- medium"
+      "- medium-high"
     ],
     "👉 추천 행동": [
-      "- ONDO 648원, VVV 28,700원, WLD 450원, DRIFT 65원, KITE 303원 하향 시 즉시 재평가",
-      "- BTC 114.52M원 저점 재이탈 시 바스켓 전체 공격성 축소 준비",
-      "- IN·SOON·VIRTUAL 반등은 **강세 복귀로 보기 전 함정 여부부터 확인**"
+      "- SOON **257원**, ONDO **648원**, NEAR **3,820원**, IN **133원**, WLD **447원** 하향 시 즉시 재평가",
+      "- BTC **115.00M원** 재이탈 시 알트 확대 해석을 줄이고 바스켓 강도부터 다시 점검",
+      "- VVV 재진입은 **양전환 + 50% 이상 위치 회복** 전까지 보류"
     ],
     "⚠️ 리스크 메모": [
-      "- 메이저 4종 평균 위치 10.9%는 분명한 경고 신호입니다.",
-      "- ONDO 실패 시 이번 바스켓 전체 해석이 같이 흔들릴 수 있습니다.",
-      "- DRIFT는 반격형이라 수익/손실 전개가 가장 빠를 수 있습니다.",
-      "- VVV·WLD는 관심 둔화 시 속도가 급격히 식을 수 있습니다."
+      "- SOON은 대금 1위지만 unlock/vesting 오버행이 남아 있어 변동성이 크다.",
+      "- IN은 실패 이력이 있는 고베타라 수익과 손실 전개가 모두 빠를 수 있다.",
+      "- ONDO 약화는 바스켓 전체 해석을 흔들 수 있다.",
+      "- WLD는 attention 둔화 시 가장 먼저 속도가 꺾일 수 있다."
     ]
   }
 }

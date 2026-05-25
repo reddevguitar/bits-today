@@ -245,7 +245,8 @@ market_breadth = {
     'preferred_positive_ratio_pct': round((sum(1 for x in preferred_changes if x > 0) / len(preferred_changes)) * 100, 2) if preferred_changes else 0,
     'preferred_turnover_total_krw_24h': total_preferred_turnover,
     'leader_turnover_share_pct': leader_turnover_share,
-    'leader_symbol': preferred[leader_symbol].get('symbol') if leader_symbol is not None and preferred else None
+    'leader_symbol': preferred[leader_symbol].get('symbol') if leader_symbol is not None and preferred else None,
+    'leader_concentration_warning': 'high' if leader_turnover_share >= 45 else ('moderate' if leader_turnover_share >= 35 else 'low')
 }
 scenario_view = build_scenario_view(strategy, market_breadth, preferred_setup_quality)
 
