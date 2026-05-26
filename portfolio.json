@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4076257.7977618794,
-  "last_valuation_krw": 5514371.1205377765,
-  "last_action": "ROTATE_TO_IN_WLD_EDGE_RVN_AZTEC",
-  "last_updated": "2026-05-26T11:12:00+09:00",
-  "trade_count": 337,
+  "realized_pnl_krw": -3866840.3873742963,
+  "last_valuation_krw": 5723388.529086533,
+  "last_action": "ROTATE_TO_WLD_AZTEC_RENDER_VIRTUAL_NEAR",
+  "last_updated": "2026-05-26T23:08:00+09:00",
+  "trade_count": 347,
   "positions": {
-    "IN": {
-      "market": "KRW-IN",
-      "amount": 7991.8422036779375,
-      "avg_buy_price_krw": 138.0,
-      "last_price_krw": 138.0,
-      "value_krw": 1102874.2241075553,
-      "thesis": "메이저 약세 속에서도 대형 대금과 양전환을 동시에 지킨 드문 생존 코어다.",
-      "strategy": "large-turnover survivor core rebuy",
-      "role": "large-turnover survivor core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 12
-    },
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 2250.76372266848,
-      "avg_buy_price_krw": 490.0,
-      "last_price_krw": 490.0,
-      "value_krw": 1102874.2241075553,
-      "thesis": "Sam Altman/World ID 연상도 덕분에 약한 장에서도 리테일 재점화 가능성이 남아 있다.",
-      "strategy": "brand relative-strength rebound rebuy",
-      "role": "brand relative-strength rebound",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
-    },
-    "EDGE": {
-      "market": "KRW-EDGE",
-      "amount": 7352.494827383703,
-      "avg_buy_price_krw": 150.0,
-      "last_price_krw": 150.0,
-      "value_krw": 1102874.2241075553,
-      "thesis": "좁은 브레드스 환경에서 새로 돈이 붙는 소형 돌파주로 판단했다.",
-      "strategy": "small-cap breakout core new buy",
-      "role": "small-cap breakout core",
-      "risk_limit_pct": 7,
+      "amount": 2015.2776510868075,
+      "avg_buy_price_krw": 568.0,
+      "last_price_krw": 568.0,
+      "value_krw": 1144677.7058173066,
+      "thesis": "Sam Altman·World ID 연상도가 강한 attention 주도주로 tonight tape의 핵심이다.",
+      "strategy": "attention leader rebalance",
+      "role": "attention leader core",
+      "risk_limit_pct": 6,
       "profit_take_pct": 14
-    },
-    "RVN": {
-      "market": "KRW-RVN",
-      "amount": 128540.11935985493,
-      "avg_buy_price_krw": 8.58,
-      "last_price_krw": 8.58,
-      "value_krw": 1102874.2241075553,
-      "thesis": "고가권 체류가 가장 선명한 소형 모멘텀 코어다.",
-      "strategy": "high-range continuation core new buy",
-      "role": "high-range continuation core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 16
     },
     "AZTEC": {
       "market": "KRW-AZTEC",
-      "amount": 31420.918065742317,
-      "avg_buy_price_krw": 35.1,
-      "last_price_krw": 35.1,
-      "value_krw": 1102874.2241075553,
-      "thesis": "대금은 충분하고 구조가 덜 깨져 있어 분산 바스켓의 완충 역할이 가능하다.",
-      "strategy": "steady support continuation new buy",
-      "role": "steady support continuation",
+      "amount": 28055.826122973205,
+      "avg_buy_price_krw": 40.8,
+      "last_price_krw": 40.8,
+      "value_krw": 1144677.7058173066,
+      "thesis": "가격 구조가 가장 깨끗하고 follow-through가 살아 있는 고베타 코어다.",
+      "strategy": "fresh breakout continuation rebalance",
+      "role": "fresh breakout core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 16
+    },
+    "RENDER": {
+      "market": "KRW-RENDER",
+      "amount": 320.7278525685925,
+      "avg_buy_price_krw": 3569.0,
+      "last_price_krw": 3569.0,
+      "value_krw": 1144677.7058173066,
+      "thesis": "고가권 체류가 선명해 늦은 시간대 추격 자금이 붙기 가장 쉬운 구조다.",
+      "strategy": "ai infrastructure continuation new buy",
+      "role": "ai infrastructure continuation",
       "risk_limit_pct": 4,
-      "profit_take_pct": 8
+      "profit_take_pct": 12
+    },
+    "VIRTUAL": {
+      "market": "KRW-VIRTUAL",
+      "amount": 926.8645391233252,
+      "avg_buy_price_krw": 1235.0,
+      "last_price_krw": 1235.0,
+      "value_krw": 1144677.7058173066,
+      "thesis": "AI 내러티브가 다시 붙는 밤 장세에서 고위치 체류형으로 읽기 쉽다.",
+      "strategy": "ai-agent continuation new buy",
+      "role": "ai-agent continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
+    },
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 273.19276988479874,
+      "avg_buy_price_krw": 4190.0,
+      "last_price_krw": 4190.0,
+      "value_krw": 1144677.7058173066,
+      "thesis": "브레드스 회복 구간에서 가장 체급 있는 유동성 앵커라 바스켓 안정성을 높인다.",
+      "strategy": "large-cap reclaim anchor new buy",
+      "role": "large-cap reclaim anchor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "113.8M원대가 다시 깨지면 알트 전반 risk-off를 더 강하게 봐야 한다."
+      "reason": "114.0M원대 재이탈 시 브레드스 회복 해석이 약해진다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.101M원 하회 시 메이저 평균 위치가 더 무너질 수 있다."
+      "reason": "3.12M원대 유지가 밤 장세 risk-on 지속의 핵심이다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "1,987원 재이탈은 국내 메이저 심리 추가 악화 신호다."
+      "reason": "80%대 위치를 지켜 메이저 컨텍스트를 가장 강하게 보완한다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "124.6K원 하향은 리스크 선호 약화를 재확인한다."
+      "reason": "79% 위치 유지면 알트 지속형 해석을 계속 허용할 수 있다."
     },
     {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "대금 1위라도 13% 위치의 turnover trap이라 260원대 회복 전 재진입 금지."
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "reason": "대금은 크지만 -8.33% gap가 커서 150원대 재안착 전엔 보조 후보로만 본다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "613원 기준 17.6% 위치라 구조 회복 전까지 기관서사만으로 매수 금지."
+      "reason": "730억원대 대금에도 22.9% 위치라 전형적 turnover trap이다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3980~3990원대에서도 16.5% 위치라 고위치 회복 전 관망."
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "90.9% 위치와 깔끔한 gap 덕분에 WLD 약화 시 대체 attention 후보로 승격 가능."
     },
     {
-      "symbol": "TRX",
-      "market": "KRW-TRX",
-      "reason": "75% 위치와 0%대 양수라 WLD 약화 시 방어형 대체 후보로 승격 가능."
+      "symbol": "TAO",
+      "market": "KRW-TAO",
+      "reason": "AI 인프라 강세가 더 확산되면 중대형 보조 코어로 승격 가능."
     },
     {
-      "symbol": "ERA",
-      "market": "KRW-ERA",
-      "reason": "+3.6%라도 32.1% 위치·-7.66% gap라 전형적 pin-high fade다."
+      "symbol": "EDGE",
+      "market": "KRW-EDGE",
+      "reason": "오전 breakout이 4.5% 위치로 무너져 재돌파 전까지 금지."
     },
     {
-      "symbol": "DRIFT",
-      "market": "KRW-DRIFT",
-      "reason": "가격은 버텨도 거래지원 종료 이슈가 구조 리스크라 코어 금지."
+      "symbol": "RVN",
+      "market": "KRW-RVN",
+      "reason": "11.4% 위치와 -8.10% gap로 continuation 명분이 사라졌다."
     }
   ],
   "history": [
@@ -3155,6 +3155,96 @@
       "amount_delta": 31420.918065742317,
       "cash_delta_krw": -1102874.2241075553,
       "reason": "54.5% 위치와 -1.40% gap, 약 70억원 대금 조합이 안정적이라 보조 공격축으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "IN",
+      "action": "SELL",
+      "price_krw": 143.0,
+      "amount_delta": -7991.8422036779375,
+      "cash_delta_krw": 1142833.4351259451,
+      "reason": "대금은 남았지만 -8.33% day_high_gap가 커 late-session 핵심 슬롯에서 제외하고 RENDER·VIRTUAL 쪽으로 회전"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 568.0,
+      "amount_delta": -2250.76372266848,
+      "cash_delta_krw": 1278433.7944756967,
+      "reason": "핵심 코어는 유지하되 23:08 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "EDGE",
+      "action": "SELL",
+      "price_krw": 136.0,
+      "amount_delta": -7352.494827383703,
+      "cash_delta_krw": 999939.2965241836,
+      "reason": "오전 breakout 가설이 4.5% 위치와 -13.38% gap로 무너져 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "RVN",
+      "action": "SELL",
+      "price_krw": 7.94,
+      "amount_delta": -128540.11935985493,
+      "cash_delta_krw": 1020608.5477172482,
+      "reason": "91%대 continuation이 11.4% 위치로 붕괴해 high-range 코어 명분을 철회"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "AZTEC",
+      "action": "SELL",
+      "price_krw": 40.8,
+      "amount_delta": -31420.918065742317,
+      "cash_delta_krw": 1281973.4570822865,
+      "reason": "가장 강한 breakout은 유지하되 23:08 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 568.0,
+      "amount_delta": 2015.2776510868075,
+      "cash_delta_krw": -1144677.7058173066,
+      "reason": "868억원대 대금과 +15.45% attention 폭발을 반영해 tonight 핵심 코어로 재편입"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "AZTEC",
+      "action": "BUY",
+      "price_krw": 40.8,
+      "amount_delta": 28055.826122973205,
+      "cash_delta_krw": -1144677.7058173066,
+      "reason": "90.5% 위치 fresh breakout을 유지해 late-session 최우선 돌파 코어로 재편입"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "RENDER",
+      "action": "BUY",
+      "price_krw": 3569.0,
+      "amount_delta": 320.7278525685925,
+      "cash_delta_krw": -1144677.7058173066,
+      "reason": "+9.78%와 95.8% 위치, 218억원대 대금이 동행한 AI 인프라 continuation 코어"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 1235.0,
+      "amount_delta": 926.8645391233252,
+      "cash_delta_krw": -1144677.7058173066,
+      "reason": "84.8% 위치와 243억원대 대금이 겹친 AI 에이전트 지속형으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-26T23:08:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 4190.0,
+      "amount_delta": 273.19276988479874,
+      "cash_delta_krw": -1144677.7058173066,
+      "reason": "948억원대 업비트 알트 1위 대금과 50%대 위치 회복을 반영해 대형 리클레임 앵커로 신규 편입"
     }
   ]
 }

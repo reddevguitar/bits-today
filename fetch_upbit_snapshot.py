@@ -90,6 +90,27 @@ for t in all_tickers:
     })
 
 rows.sort(key=lambda x: x['turnover_krw_24h'], reverse=True)
+
+def selection_score(row, max_turnover):
+    turnover = row.get('turnover_krw_24h') or 0
+    turnover_score = (turnover / max_turnover) * 35 if max_turnover else 0
+    change_pct = row.get('change_pct_24h') or 0
+    momentum_score = min(max(change_pct, -8), 18) * 1.6
+    range_position = row.get('range_position_pct') if row.get('range_position_pct') is not None else 0
+    range_score = range_position * 0.35
+    gap = row.get('day_high_gap_pct') if row.get('day_high_gap_pct') is not None else -10
+    gap_score = max(-10, 6 + gap * 1.5)
+    penalty = 0
+    if change_pct < 0:
+        penalty += min(18, abs(change_pct) * 2.2)
+    if range_position < 35:
+        penalty += (35 - range_position) * 0.35
+    return round(turnover_score + momentum_score + range_score + gap_score - penalty, 2)
+
+max_turnover = max((r['turnover_krw_24h'] for r in rows), default=0)
+for row in rows:
+    row['selection_score'] = selection_score(row, max_turnover)
+
 majors = [r for r in rows if r['symbol'] in TOP4_MAJORS]
 leaders = [r for r in rows if r['symbol'] not in TOP4_MAJORS and r['symbol'] not in STABLES]
 positive = [r for r in leaders if r['change_pct_24h'] > 0]
@@ -176,12 +197,15 @@ leadership_health = {
     'weak_breadth_warning': top15_alt_positive_count <= 3 or top15_alt_low_range_count >= 8
 }
 
+selection_leaderboard = sorted(leaders, key=lambda x: x.get('selection_score', 0), reverse=True)[:25]
+
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
     'krw_market_count': len(krw),
     'leadership_health': leadership_health,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:30],
+    'selection_leaderboard': selection_leaderboard,
     'top_positive_alts_by_turnover': positive[:30],
     'high_conviction_positive_alts': high_conviction_positive[:20],
     'resilient_positive_alts': resilient_positive[:20],
@@ -204,6 +228,7 @@ print(json.dumps({
     'leadership_health': leadership_health,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:15],
+    'selection_leaderboard': selection_leaderboard[:12],
     'top_positive_alts_by_turnover': positive[:15],
     'high_conviction_positive_alts': high_conviction_positive[:10],
     'resilient_positive_alts': resilient_positive[:10],
