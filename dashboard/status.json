@@ -1,149 +1,153 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive diversified continuation rotation with recovered breadth",
-  "confidence": "medium-high",
+  "judgment": "selective aggressive survivor rotation under major breakdown",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-05-26 23:08 KST",
-  "market_status": "오전의 “생존주만 허용” 장에서 밤의 **선별적 risk-on continuation 장**으로 바뀌었습니다.",
+  "updated_at": "2026-05-27 05:09 KST",
+  "market_status": "밤의 continuation 장이 끝나고 다시 **메이저 붕괴형 selective survivor 장**으로 돌아왔습니다.",
   "fear_greed": "34 (Fear)",
-  "btc_snapshot": "BTC 114.155M원대, ETH 3.146M원대, XRP 2,007원대, SOL 126.5K원대",
+  "btc_snapshot": "BTC 113.223M원대, ETH 3.090M원대, XRP 1,983원대, SOL 125.0K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-3,866,840 KRW",
-  "last_valuation_krw": "5,723,389 KRW",
+  "realized_pnl_krw": "-4,046,953 KRW",
+  "last_valuation_krw": "5,543,276 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -42.77,
-  "last_action": "ROTATE_TO_WLD_AZTEC_RENDER_VIRTUAL_NEAR",
-  "trade_count": 347,
-  "last_updated": "2026-05-26T23:08:00+09:00",
+  "return_pct": -44.57,
+  "last_action": "ROTATE_TO_WLD_ATH_SEI_KITE_ARKM",
+  "trade_count": 357,
+  "last_updated": "2026-05-27T05:09:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 20,
-    "recent_24h_buy_count": 10,
-    "recent_24h_sell_count": 10,
-    "recent_24h_replacement_count": 10,
-    "portfolio_churn_24h_pct": 200.0
+    "recent_trade_actions_24h": 10,
+    "recent_24h_buy_count": 15,
+    "recent_24h_sell_count": 15,
+    "recent_24h_replacement_count": 15,
+    "portfolio_churn_24h_pct": 300.0
   },
   "summary": [
-    "₿ BTC: **-0.64%**, 위치 **40.8%**",
-    "◆ ETH: **+0.22%**, 위치 **75.0%**",
-    "💧 XRP: **-0.05%**, 위치 **80.6%**",
-    "☀️ SOL: **+0.08%**, 위치 **79.2%**",
-    "해석: BTC만 둔하지만 나머지 3종이 고위치라 **알트 확장 허용 레짐**입니다.",
-    "🌐 **ONDO**: 24h 대금 약 **730억원**이어도 **-3.45% / 22.9% 위치** → **turnover trap**",
-    "♾️ **IN**: **+5.93%**지만 **-8.33% gap / 56.7% 위치** → **late-session 핵심 코어로는 부족**",
-    "🗡️ **EDGE**: **4.5% 위치 / -13.38% gap** → **아침 breakout 실패**",
-    "🪶 **RVN**: **11.4% 위치 / -8.10% gap** → **continuation 붕괴**",
-    "🌪️ **DRIFT**: **거래지원 종료 리스크 + 20.8% 위치** → **구조적 제외**",
-    "현금 0%, **WLD·AZTEC·RENDER·VIRTUAL·NEAR 5종 균등 공격 분산**",
-    "오전 narrow survivor 모드 종료, 지금은 **브레드스 회복형 continuation 바스켓**이 우위",
-    "핵심은 **WLD attention + AZTEC/RENDER/VIRTUAL 추세 + NEAR 체급 앵커** 조합입니다",
-    "SELL ♾️ IN → BUY 🌉 NEAR",
-    "SELL 🗡️ EDGE → BUY 🎨 RENDER",
-    "SELL 🪶 RVN → BUY 🤖 VIRTUAL",
-    "SELL 🌍 WLD → BUY 🌍 WLD (23:08 가격 기준 균등 재편)",
-    "SELL 🏛️ AZTEC → BUY 🏛️ AZTEC (23:08 가격 기준 균등 재편)",
+    "₿ BTC: **-1.45%**, 위치 **14.5%**",
+    "◆ ETH: **-1.56%**, 위치 **29.1%**",
+    "💧 XRP: **-1.25%**, 위치 **15.0%**",
+    "☀️ SOL: **-1.11%**, 위치 **35.3%**",
+    "해석: 메이저 평균 위치 **23.5%**라 broad risk-on 가정은 철회입니다.",
+    "🌉 **NEAR**: 24h 대금 약 **798억원**이어도 **-3.74% / 19.9% 위치 / -9.9% gap** → **turnover trap**",
+    "🌐 **ONDO**: 24h 대금 약 **771억원**이어도 **-4.40% / 17.5% 위치** → **기관서사보다 매도 우위**",
+    "🏛️ **AZTEC**: **+11.14%**지만 **60.8% 위치 / -7.38% gap** → **breakout quality 저하**",
+    "🤖 **VIRTUAL**: 확장 뉴스는 있으나 **60.7% 위치** → **코어에서 watchlist로 강등**",
+    "🎨 **RENDER**: AI 서사는 살아도 **58.9% 위치** → **high-range leader에서 이탈**",
+    "현금 0%, **WLD + ATH + SEI + KITE + ARKM 5종 균등 공격 분산**",
+    "다만 broad long이 아니라 **생존주만 담는 공격 분산**입니다",
+    "핵심은 **WLD attention 1축 + 고위치 survivor 4축** 조합입니다",
+    "SELL 🌉 NEAR → BUY ☁️ ATH",
+    "SELL 🎨 RENDER → BUY 🟥 SEI",
+    "SELL 🤖 VIRTUAL → BUY 🪁 KITE",
+    "SELL 🏛️ AZTEC → BUY 🕵️ ARKM",
+    "SELL 🌍 WLD → BUY 🌍 WLD (05:06 가격 기준 균등 재편)",
     "현금: 0원",
-    "🌍 WLD: 2015.278개 @ 568원",
-    "🏛️ AZTEC: 28055.826개 @ 40.8원",
-    "🎨 RENDER: 320.728개 @ 3,569원",
-    "🤖 VIRTUAL: 926.865개 @ 1,235원",
-    "🌉 NEAR: 273.193개 @ 4,190원",
-    "총 평가액: **5,723,389원**",
-    "실현손익: **-3866840원**",
-    "누적 수익률: **-42.77%**",
-    "오전엔 **약한 브레드스 인정**이 맞았고, 밤엔 그 전제가 깨졌을 때 **빠르게 반대로 전환**한 점이 좋았습니다.",
-    "특히 **EDGE·RVN 손절성 교체를 미루지 않은 점**이 이번 회차 핵심 개선입니다.",
-    "스냅샷에 **selection_score / selection_leaderboard**를 추가해 후보 비교 속도를 높였습니다.",
-    "**양전환 8개 이상 + 메이저 평균 위치 60% 이상**이면 narrow 모드에서 continuation 확장 모드로 전환하는 규칙을 추가했습니다.",
-    "리포트에 **오전 대비 브레드스 변화(3→9)**를 직접 넣어 방향 전환 이유가 더 빨리 보이게 했습니다.",
-    "aggressive diversified continuation rotation with recovered breadth",
-    "medium-high",
-    "WLD **540원**, AZTEC **38.8원**, RENDER **3440원**, VIRTUAL **1190원**, NEAR **4080원** 하향 시 즉시 재평가",
-    "BTC가 **114.0M원** 아래로 다시 밀리면 바스켓 전체 공격성을 줄여야 합니다",
-    "ONDO·EDGE·RVN은 **대금만 보고 재진입 금지**입니다",
-    "BTC는 아직 40.8% 위치라 메이저 전부가 강한 건 아닙니다.",
-    "WLD는 강하지만 **day-high gap이 큰 attention 종목**이라 흔들림이 빠릅니다.",
-    "RENDER·VIRTUAL은 둘 다 AI 계열이라 테마 되밀림이 오면 같이 흔들릴 수 있습니다.",
-    "오늘은 **브레드스 회복이 핵심 전제**라, 양전환 숫자가 다시 급감하면 바로 방어적으로 돌아서야 합니다."
+    "🌍 WLD: 1945.009개 @ 570원",
+    "☁️ ATH: 112553.827개 @ 9.85원",
+    "🟥 SEI: 11335.943개 @ 97.8원",
+    "🪁 KITE: 3519.540개 @ 315원",
+    "🕵️ ARKM: 4737.843개 @ 234원",
+    "총 평가액: **5,543,276원**",
+    "실현손익: **-4,046,953원**",
+    "누적 수익률: **-44.57%**",
+    "직전 회차의 밤 장 risk-on 확장은 맞았지만, **새벽 메이저 붕괴 재전환 대응은 더 빨랐어야** 했습니다.",
+    "이번엔 **NEAR·RENDER 같은 무효화 종목을 바로 제거**하고 survivor 모드로 좁힌 점이 핵심 개선입니다.",
+    "스냅샷에 **leadership_delta**를 추가해 직전 대비 브레드스 변화가 바로 보이게 했습니다.",
+    "대시보드도 **snapshot_delta**를 읽도록 바꿔, 다음 사이클부터 레짐 변화 확인 속도가 빨라집니다.",
+    "리포트에 **68.9%→23.5%, 9개→6개** 같은 변화 수치를 직접 넣어 방향 전환 이유를 더 빨리 읽게 했습니다.",
+    "selective aggressive survivor rotation under major breakdown",
+    "medium",
+    "WLD **548원**, ATH **9.45원**, SEI **95원**, KITE **304원**, ARKM **225원** 하향 시 즉시 재평가",
+    "BTC가 **112.8M원** 아래로 더 밀리면 survivor 바스켓도 방어적으로 줄일 준비를 해야 합니다",
+    "NEAR·ONDO는 **대금만 보고 재진입 금지**입니다",
+    "메이저 4종 평균 위치가 **23.5%**라 시장 전체는 분명히 약합니다.",
+    "WLD가 너무 강해 **leader concentration**이 커졌습니다.",
+    "ATH·SEI·KITE·ARKM은 상대강도는 좋지만 체급이 작아 되밀림 속도가 빠를 수 있습니다.",
+    "심리지표는 그대로인데 가격이 더 약해졌다는 점 자체가 **실제 매도 압력 우위** 신호입니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "NEAR",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "ARKM",
       "action": "BUY",
-      "price_krw": 4190.0,
-      "amount_delta": 273.19276988479874,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "948억원대 업비트 알트 1위 대금과 50%대 위치 회복을 반영해 대형 리클레임 앵커로 신규 편입"
+      "price_krw": 234.0,
+      "amount_delta": 4737.842736084544,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "ARKM은 +7.83%, 67.6% 위치, 24h 대금 약 83억원으로 mid-cap 중 가격과 대금 균형이 가장 낫다."
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "VIRTUAL",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "KITE",
       "action": "BUY",
-      "price_krw": 1235.0,
-      "amount_delta": 926.8645391233252,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "84.8% 위치와 243억원대 대금이 겹친 AI 에이전트 지속형으로 신규 편입"
+      "price_krw": 315.0,
+      "amount_delta": 3519.540318234233,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "KITE는 +6.78%, 80.6% 위치, 24h 대금 약 72억원으로 새벽 리테일 순환매가 아직 남은 드문 후보다."
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "RENDER",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "SEI",
       "action": "BUY",
-      "price_krw": 3569.0,
-      "amount_delta": 320.7278525685925,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "+9.78%와 95.8% 위치, 218억원대 대금이 동행한 AI 인프라 continuation 코어"
+      "price_krw": 97.8,
+      "amount_delta": 11335.942742778972,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "SEI는 +6.19%, 90.2% 위치, 24h 대금 약 90억원으로 새벽 보드의 가장 안정적인 고위치 L1 생존주다."
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "AZTEC",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "ATH",
       "action": "BUY",
-      "price_krw": 40.8,
-      "amount_delta": 28055.826122973205,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "90.5% 위치 fresh breakout을 유지해 late-session 최우선 돌파 코어로 재편입"
+      "price_krw": 9.85,
+      "amount_delta": 112553.8274359171,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "Aethir는 +7.65%, 90.4% 위치, 24h 대금 약 86억원으로 약한 시장에서도 고위치를 유지한 AI/GPU 생존주다."
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
+      "timestamp": "2026-05-27T05:09:00+09:00",
       "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 568.0,
-      "amount_delta": 2015.2776510868075,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "868억원대 대금과 +15.45% attention 폭발을 반영해 tonight 핵심 코어로 재편입"
+      "price_krw": 570.0,
+      "amount_delta": 1945.0091232347077,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "Sam Altman·World ID attention이 남은 상태에서 24h 대금 약 1,019억원으로 새벽 보드 유일의 압도적 관심 코어다."
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "AZTEC",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "NEAR",
       "action": "SELL",
-      "price_krw": 40.8,
-      "amount_delta": -31420.918065742317,
-      "cash_delta_krw": 1281973.4570822865,
-      "reason": "가장 강한 breakout은 유지하되 23:08 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 3966.0,
+      "amount_delta": -273.19276988479874,
+      "cash_delta_krw": 1083482.5253631119,
+      "reason": "798억원대 대금에도 19.9% 위치·-9.9% gap로 turnover trap이 명확해 ATH로 교체"
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "RVN",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "VIRTUAL",
       "action": "SELL",
-      "price_krw": 7.94,
-      "amount_delta": -128540.11935985493,
-      "cash_delta_krw": 1020608.5477172482,
-      "reason": "91%대 continuation이 11.4% 위치로 붕괴해 high-range 코어 명분을 철회"
+      "price_krw": 1209.0,
+      "amount_delta": -926.8645391233252,
+      "cash_delta_krw": 1120579.2278001,
+      "reason": "확장 뉴스 대비 가격이 60.7% 위치에 머물러 KITE로 공격성을 재배치"
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "EDGE",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "RENDER",
       "action": "SELL",
-      "price_krw": 136.0,
-      "amount_delta": -7352.494827383703,
-      "cash_delta_krw": 999939.2965241836,
-      "reason": "오전 breakout 가설이 4.5% 위치와 -13.38% gap로 무너져 전량 정리"
+      "price_krw": 3427.0,
+      "amount_delta": -320.7278525685925,
+      "cash_delta_krw": 1099134.3507525665,
+      "reason": "AI/GPU 서사는 남아도 58.9% 위치로 밀려 SEI survivor 슬롯으로 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-27-0509.md",
+      "title": "2026-05-27-0509"
+    },
     {
       "file": "2026-05-26-2308.md",
       "title": "2026-05-26-2308"
@@ -171,10 +175,6 @@
     {
       "file": "2026-05-23-0608.md",
       "title": "2026-05-23-0608"
-    },
-    {
-      "file": "2026-05-23-0008.md",
-      "title": "2026-05-23-0008"
     }
   ],
   "positions": [
@@ -182,72 +182,72 @@
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "amount": 2015.2776510868075,
-      "avg_buy_price_krw": "568 KRW",
-      "last_price_krw": "568 KRW",
-      "thesis": "Sam Altman·World ID 연상도가 강한 attention 주도주로 tonight tape의 핵심이다.",
-      "strategy": "attention leader rebalance",
-      "role": "attention leader core",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 14,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🏛️",
-      "symbol": "AZTEC",
-      "market": "KRW-AZTEC",
-      "amount": 28055.826122973205,
-      "avg_buy_price_krw": "41 KRW",
-      "last_price_krw": "41 KRW",
-      "thesis": "가격 구조가 가장 깨끗하고 follow-through가 살아 있는 고베타 코어다.",
-      "strategy": "fresh breakout continuation rebalance",
-      "role": "fresh breakout core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 16,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪙",
-      "symbol": "RENDER",
-      "market": "KRW-RENDER",
-      "amount": 320.7278525685925,
-      "avg_buy_price_krw": "3,569 KRW",
-      "last_price_krw": "3,569 KRW",
-      "thesis": "고가권 체류가 선명해 늦은 시간대 추격 자금이 붙기 가장 쉬운 구조다.",
-      "strategy": "ai infrastructure continuation new buy",
-      "role": "ai infrastructure continuation",
+      "amount": 1945.0091232347077,
+      "avg_buy_price_krw": "570 KRW",
+      "last_price_krw": "570 KRW",
+      "thesis": "Sam Altman·World ID attention이 남은 상태에서 24h 대금 약 1,019억원으로 새벽 보드 유일의 압도적 관심 코어다.",
+      "strategy": "attention-survivor rebalance",
+      "role": "attention survivor core",
       "risk_limit_pct": 4,
       "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🤖",
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "amount": 926.8645391233252,
-      "avg_buy_price_krw": "1,235 KRW",
-      "last_price_krw": "1,235 KRW",
-      "thesis": "AI 내러티브가 다시 붙는 밤 장세에서 고위치 체류형으로 읽기 쉽다.",
-      "strategy": "ai-agent continuation new buy",
-      "role": "ai-agent continuation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12,
+      "icon": "☁️",
+      "symbol": "ATH",
+      "market": "KRW-ATH",
+      "amount": 112553.8274359171,
+      "avg_buy_price_krw": "10 KRW",
+      "last_price_krw": "10 KRW",
+      "thesis": "Aethir는 +7.65%, 90.4% 위치, 24h 대금 약 86억원으로 약한 시장에서도 고위치를 유지한 AI/GPU 생존주다.",
+      "strategy": "ai-gpu survivor new buy",
+      "role": "ai/gpu survivor continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "amount": 273.19276988479874,
-      "avg_buy_price_krw": "4,190 KRW",
-      "last_price_krw": "4,190 KRW",
-      "thesis": "브레드스 회복 구간에서 가장 체급 있는 유동성 앵커라 바스켓 안정성을 높인다.",
-      "strategy": "large-cap reclaim anchor new buy",
-      "role": "large-cap reclaim anchor",
+      "icon": "🟥",
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "amount": 11335.942742778972,
+      "avg_buy_price_krw": "98 KRW",
+      "last_price_krw": "98 KRW",
+      "thesis": "SEI는 +6.19%, 90.2% 위치, 24h 대금 약 90억원으로 새벽 보드의 가장 안정적인 고위치 L1 생존주다.",
+      "strategy": "sei continuation new buy",
+      "role": "layer1 survivor continuation",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "amount": 3519.540318234233,
+      "avg_buy_price_krw": "315 KRW",
+      "last_price_krw": "315 KRW",
+      "thesis": "KITE는 +6.78%, 80.6% 위치, 24h 대금 약 72억원으로 새벽 리테일 순환매가 아직 남은 드문 후보다.",
+      "strategy": "retail survivor new buy",
+      "role": "retail rotation survivor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ARKM",
+      "market": "KRW-ARKM",
+      "amount": 4737.842736084544,
+      "avg_buy_price_krw": "234 KRW",
+      "last_price_krw": "234 KRW",
+      "thesis": "ARKM은 +7.83%, 67.6% 위치, 24h 대금 약 83억원으로 mid-cap 중 가격과 대금 균형이 가장 낫다.",
+      "strategy": "arkm recovery new buy",
+      "role": "intel-data recovery survivor",
       "risk_limit_pct": 4,
       "profit_take_pct": 10,
       "pnl_krw": "0 KRW",
@@ -255,94 +255,21 @@
     }
   ],
   "chart_series": {
-    "ONDO": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 659.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 659.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-26T11:12:00+09:00",
-        "price_krw": 613.0,
-        "action": "SELL"
-      }
-    ],
-    "VVV": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 27290.0,
-        "action": "SELL"
-      }
-    ],
-    "WLD": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 454.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 454.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-26T11:12:00+09:00",
-        "price_krw": 490.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-26T11:12:00+09:00",
-        "price_krw": 490.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-26T23:08:00+09:00",
-        "price_krw": 568.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-26T23:08:00+09:00",
-        "price_krw": 568.0,
-        "action": "BUY"
-      }
-    ],
-    "DRIFT": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 67.5,
-        "action": "SELL"
-      }
-    ],
-    "KITE": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 299.0,
-        "action": "SELL"
-      }
-    ],
     "SOON": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 269.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-26T11:12:00+09:00",
         "price_krw": 251.0,
         "action": "SELL"
       }
     ],
-    "NEAR": [
+    "ONDO": [
       {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 3912.0,
-        "action": "BUY"
-      },
+        "timestamp": "2026-05-26T11:12:00+09:00",
+        "price_krw": 613.0,
+        "action": "SELL"
+      }
+    ],
+    "NEAR": [
       {
         "timestamp": "2026-05-26T11:12:00+09:00",
         "price_krw": 3989.0,
@@ -352,14 +279,14 @@
         "timestamp": "2026-05-26T23:08:00+09:00",
         "price_krw": 4190.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 3966.0,
+        "action": "SELL"
       }
     ],
     "IN": [
-      {
-        "timestamp": "2026-05-25T23:06:00+09:00",
-        "price_krw": 140.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-05-26T11:12:00+09:00",
         "price_krw": 138.0,
@@ -374,6 +301,38 @@
         "timestamp": "2026-05-26T23:08:00+09:00",
         "price_krw": 143.0,
         "action": "SELL"
+      }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-05-26T11:12:00+09:00",
+        "price_krw": 490.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-26T11:12:00+09:00",
+        "price_krw": 490.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-26T23:08:00+09:00",
+        "price_krw": 568.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-26T23:08:00+09:00",
+        "price_krw": 568.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 570.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 570.0,
+        "action": "BUY"
       }
     ],
     "EDGE": [
@@ -415,6 +374,11 @@
         "timestamp": "2026-05-26T23:08:00+09:00",
         "price_krw": 40.8,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 38.9,
+        "action": "SELL"
       }
     ],
     "RENDER": [
@@ -422,6 +386,11 @@
         "timestamp": "2026-05-26T23:08:00+09:00",
         "price_krw": 3569.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 3427.0,
+        "action": "SELL"
       }
     ],
     "VIRTUAL": [
@@ -429,95 +398,128 @@
         "timestamp": "2026-05-26T23:08:00+09:00",
         "price_krw": 1235.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 1209.0,
+        "action": "SELL"
+      }
+    ],
+    "ATH": [
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 9.85,
+        "action": "BUY"
+      }
+    ],
+    "SEI": [
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 97.8,
+        "action": "BUY"
+      }
+    ],
+    "KITE": [
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 315.0,
+        "action": "BUY"
+      }
+    ],
+    "ARKM": [
+      {
+        "timestamp": "2026-05-27T05:09:00+09:00",
+        "price_krw": 234.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-05-26-2308.md",
+  "latest_report_file": "2026-05-27-0509.md",
   "preferred_buy_candidates": [
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "price_krw": 568.0,
-      "change_pct_24h": 15.44715447,
-      "turnover_krw_24h": 86827736798.23087,
-      "reason": "24h 대금 약 868억원과 +15.45% 급등이 겹친 업비트 최상위 attention 리더다. gap은 크지만 대금과 인지도가 압도적이다.",
-      "score": 9.2,
-      "community": "국내 대금 최상단 attention이 WLD로 가장 강하게 쏠렸다.",
-      "risk": "540원 하회 시 attention continuation 해석 약화",
-      "allocation_krw": 1144677.7058173066,
-      "role": "attention leader core",
-      "invalidated_if": "540원 하회 시",
-      "range_position_pct": 66.2,
-      "day_high_gap_pct": -7.19
+      "price_krw": 570.0,
+      "change_pct_24h": 15.85365854,
+      "turnover_krw_24h": 101864025229.12631,
+      "reason": "Sam Altman·World ID attention이 남은 상태에서 24h 대금 약 1,019억원으로 새벽 보드 유일의 압도적 관심 코어다.",
+      "score": 70.85,
+      "community": "국내 자금은 대부분 WLD attention으로 다시 쏠렸고, 다른 대형 알트는 따라오지 못했다.",
+      "risk": "548원 하회 시 attention survivor 해석 훼손",
+      "allocation_krw": 1108655.2002437834,
+      "role": "attention survivor core",
+      "invalidated_if": "548원 하회 시",
+      "range_position_pct": 67.7,
+      "day_high_gap_pct": -6.86
     },
     {
-      "icon": "🏛️",
-      "symbol": "AZTEC",
-      "market": "KRW-AZTEC",
-      "price_krw": 40.8,
-      "change_pct_24h": 16.57142857,
-      "turnover_krw_24h": 22586648865.273945,
-      "reason": "24h 대금 약 226억원과 +16.57%, 90.5% 위치가 겹쳐 이번 회차 가장 깔끔한 fresh breakout 중 하나다.",
-      "score": 9.1,
-      "community": "오전 보조축이던 AZTEC이 저녁엔 확실한 breakout 코어로 승격됐다.",
-      "risk": "38.8원 하회 시 fresh breakout 해석 훼손",
-      "allocation_krw": 1144677.7058173066,
-      "role": "fresh breakout core",
-      "invalidated_if": "38.8원 하회 시",
-      "range_position_pct": 90.5,
-      "day_high_gap_pct": -1.69
+      "icon": "☁️",
+      "symbol": "ATH",
+      "market": "KRW-ATH",
+      "price_krw": 9.85,
+      "change_pct_24h": 7.65027322,
+      "turnover_krw_24h": 8591606462.629133,
+      "reason": "Aethir는 +7.65%, 90.4% 위치, 24h 대금 약 86억원으로 약한 시장에서도 고위치를 유지한 AI/GPU 생존주다.",
+      "score": 50.43,
+      "community": "AI/GPU 계열 중 되밀림이 가장 얕고 새벽에도 상단 체류가 유지됐다.",
+      "risk": "9.45원 하회 시 high-range continuation 약화",
+      "allocation_krw": 1108655.2002437834,
+      "role": "ai/gpu survivor continuation",
+      "invalidated_if": "9.45원 하회 시",
+      "range_position_pct": 90.4,
+      "day_high_gap_pct": -1.1
+    },
+    {
+      "icon": "🟥",
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "price_krw": 97.8,
+      "change_pct_24h": 6.18892508,
+      "turnover_krw_24h": 8968715003.447289,
+      "reason": "SEI는 +6.19%, 90.2% 위치, 24h 대금 약 90억원으로 새벽 보드의 가장 안정적인 고위치 L1 생존주다.",
+      "score": 48.55,
+      "community": "메이저 약세 속에서도 국내 순환매가 남은 몇 안 되는 고위치 L1이다.",
+      "risk": "95원 하회 시 생존주 프레임 약화",
+      "allocation_krw": 1108655.2002437834,
+      "role": "layer1 survivor continuation",
+      "invalidated_if": "95원 하회 시",
+      "range_position_pct": 90.2,
+      "day_high_gap_pct": -0.81
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "price_krw": 315.0,
+      "change_pct_24h": 6.77966102,
+      "turnover_krw_24h": 7185817686.253241,
+      "reason": "KITE는 +6.78%, 80.6% 위치, 24h 대금 약 72억원으로 새벽 리테일 순환매가 아직 남은 드문 후보다.",
+      "score": 44.09,
+      "community": "리테일 회전이 얇아졌지만 KITE는 아직 80%대 위치를 지켰다.",
+      "risk": "304원 하회 시 continuation 명분 약화",
+      "allocation_krw": 1108655.2002437834,
+      "role": "retail rotation survivor",
+      "invalidated_if": "304원 하회 시",
+      "range_position_pct": 80.6,
+      "day_high_gap_pct": -1.87
     },
     {
       "icon": "🪙",
-      "symbol": "RENDER",
-      "market": "KRW-RENDER",
-      "price_krw": 3569.0,
-      "change_pct_24h": 9.78160566,
-      "turnover_krw_24h": 21843460974.809036,
-      "reason": "24h 대금 약 218억원과 +9.78%, 95.8% 위치, -0.47% gap 조합이 매우 우수해 AI 인프라 슬롯 1순위다.",
-      "score": 9.0,
-      "community": "AI/GPU 계열 중에선 Render가 대금과 고가 유지력을 가장 같이 보여준다.",
-      "risk": "3440원 하회 시 high-range continuation 약화",
-      "allocation_krw": 1144677.7058173066,
-      "role": "ai infrastructure continuation",
-      "invalidated_if": "3440원 하회 시",
-      "range_position_pct": 95.8,
-      "day_high_gap_pct": -0.47
-    },
-    {
-      "icon": "🤖",
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "price_krw": 1235.0,
-      "change_pct_24h": 6.92640693,
-      "turnover_krw_24h": 24286367633.689278,
-      "reason": "24h 대금 약 243억원과 +6.93%, 84.8% 위치를 지켜 브레드스 회복 구간의 중형 지속형으로 적합하다.",
-      "score": 8.8,
-      "community": "버추얼은 AI/에이전트 테마 회전에서 대금과 위치가 동시에 좋다.",
-      "risk": "1190원 하회 시 continuation 구조 약화",
-      "allocation_krw": 1144677.7058173066,
-      "role": "ai-agent continuation",
-      "invalidated_if": "1190원 하회 시",
-      "range_position_pct": 84.8,
-      "day_high_gap_pct": -1.67
-    },
-    {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "price_krw": 4190.0,
-      "change_pct_24h": 1.69902913,
-      "turnover_krw_24h": 94841987914.27594,
-      "reason": "24h 대금 약 948억원으로 업비트 알트 1위이며, 50%대 위치를 회복해 약세 함정에서 벗어난 대형 리클레임 축이다.",
-      "score": 8.6,
-      "community": "국내 대형 알트 회전의 유동성 앵커는 다시 NEAR로 모이고 있다.",
-      "risk": "4080원 하회 시 reclaimed leader 해석 훼손",
-      "allocation_krw": 1144677.7058173066,
-      "role": "large-cap reclaim anchor",
-      "invalidated_if": "4080원 하회 시",
-      "range_position_pct": 51.8,
-      "day_high_gap_pct": -4.82
+      "symbol": "ARKM",
+      "market": "KRW-ARKM",
+      "price_krw": 234.0,
+      "change_pct_24h": 7.83410138,
+      "turnover_krw_24h": 8262629064.3226385,
+      "reason": "ARKM은 +7.83%, 67.6% 위치, 24h 대금 약 83억원으로 mid-cap 중 가격과 대금 균형이 가장 낫다.",
+      "score": 36.99,
+      "community": "중형 알트 중에서는 가격 손상이 덜하고 follow-through가 남아 있다.",
+      "risk": "225원 하회 시 recovery-survivor 가정 훼손",
+      "allocation_krw": 1108655.2002437834,
+      "role": "intel-data recovery survivor",
+      "invalidated_if": "225원 하회 시",
+      "range_position_pct": 67.6,
+      "day_high_gap_pct": -4.88
     }
   ],
   "reference_watchlist": [
@@ -525,143 +527,151 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "114.0M원대 재이탈 시 브레드스 회복 해석이 약해진다."
+      "reason": "112.8M원대 재이탈 지속이면 이미 약한 메이저 구조가 더 나빠진다."
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.12M원대 유지가 밤 장세 risk-on 지속의 핵심이다."
+      "reason": "3.06M원대가 지지되지 않으면 알트 생존주도 추가 압박을 받기 쉽다."
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "80%대 위치를 지켜 메이저 컨텍스트를 가장 강하게 보완한다."
+      "reason": "15% 위치에서 회복 실패가 이어지면 국내 리테일 위험선호가 더 약해질 수 있다."
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "79% 위치 유지면 알트 지속형 해석을 계속 허용할 수 있다."
+      "reason": "35% 위치 회복 여부가 L1 생존주 해석의 최소 조건이다."
+    },
+    {
+      "icon": "🏛️",
+      "symbol": "AZTEC",
+      "market": "KRW-AZTEC",
+      "reason": "대금은 크지만 90%대에서 60%대로 밀려 재돌파 전까지 코어 복귀 보류."
+    },
+    {
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "BNB/XLayer 확장 뉴스는 있으나 가격이 60%대로 내려와 watchlist로 강등."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "RENDER",
+      "market": "KRW-RENDER",
+      "reason": "AI/GPU 서사는 유지되지만 3440원 회복 전엔 fade risk가 더 크다."
     },
     {
       "icon": "♾️",
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "대금은 크지만 -8.33% gap가 커서 150원대 재안착 전엔 보조 후보로만 본다."
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "730억원대 대금에도 22.9% 위치라 전형적 turnover trap이다."
-    },
-    {
-      "icon": "🕶️",
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "90.9% 위치와 깔끔한 gap 덕분에 WLD 약화 시 대체 attention 후보로 승격 가능."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "TAO",
-      "market": "KRW-TAO",
-      "reason": "AI 인프라 강세가 더 확산되면 중대형 보조 코어로 승격 가능."
+      "reason": "407억원대 대금에도 -8.97% gap가 너무 커 late-session 코어 복귀 보류."
     }
   ],
   "cycle_improvements": [
-    "fetch_upbit_snapshot.py에 selection_score 기반 selection_leaderboard를 추가해 turnover·모멘텀·위치·고점 이격을 한 번에 비교할 수 있게 했다.",
-    "top15 알트 양전환 개수가 8개 이상이고 메이저 평균 위치가 60%를 넘으면, 오전 narrow survivor 규율에서 breakout/continuation 5분산으로 확장하는 레짐 전환 규칙을 명문화했다.",
-    "리포트에 오전 대비 브레드스 변화(3개→9개)를 직접 써서 왜 포트폴리오를 넓혔는지 더 빠르게 읽히게 했다."
+    "fetch_upbit_snapshot.py에 leadership_delta를 추가해 직전 스냅샷 대비 양전환 개수·저위치 개수·톱5 turnover 변화가 바로 보이게 했다.",
+    "update_dashboard.py가 snapshot_delta를 읽도록 바꿔 대시보드에서도 브레드스 변화 방향을 바로 확인할 수 있게 했다.",
+    "리포트에 직전 회차 대비 68.9%→23.5%, 9개→6개 같은 레짐 변화 수치를 직접 넣어 왜 survivor 모드로 좁혔는지 더 빠르게 읽히게 했다."
   ],
   "rejected_candidates": [
     {
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "798억원대 대금에도 -3.74%, 19.9% 위치, -9.9% gap라 전형적 turnover trap이다."
+    },
+    {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "730억원대 대금에도 -3.45%, 22.9% 위치라 오늘 밤도 turnover trap 성격이 강하다."
+      "reason": "771억원대 대금에도 -4.40%, 17.5% 위치라 강한 반등 코어로 보기 어렵다."
+    },
+    {
+      "symbol": "AZTEC",
+      "market": "KRW-AZTEC",
+      "reason": "대금은 충분하지만 90%대 fresh breakout에서 60.8% 위치로 후퇴해 구조가 탁해졌다."
+    },
+    {
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "확장 뉴스는 있으나 가격은 60.7% 위치로 내려와 코어 승격 명분이 부족하다."
+    },
+    {
+      "symbol": "RENDER",
+      "market": "KRW-RENDER",
+      "reason": "AI 서사는 남지만 3427원·58.9% 위치로 고가권 지속형에서 mid-range fade로 바뀌었다."
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "+5.93%는 좋지만 -8.33% gap와 56.7% 위치가 걸려 late-session 코어 우선순위에서 밀렸다."
-    },
-    {
-      "symbol": "EDGE",
-      "market": "KRW-EDGE",
-      "reason": "11.4억원대 대금에도 -0.73%, 4.5% 위치, -13.38% gap로 breakout 실패가 명확하다."
-    },
-    {
-      "symbol": "RVN",
-      "market": "KRW-RVN",
-      "reason": "아침 continuation이 11.4% 위치와 -8.10% gap로 완전히 무너졌다."
-    },
-    {
-      "symbol": "DRIFT",
-      "market": "KRW-DRIFT",
-      "reason": "+1.62%여도 20.8% 위치·-12.31% gap이고 거래지원 종료 리스크까지 남아 있다."
-    },
-    {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "180억원대 대금에도 -1.56%, 21.7% 위치라 재진입 명분이 부족하다."
+      "reason": "407억원대 대금에도 -8.97% day-high gap가 커 late-session core로는 불리하다."
     }
   ],
-  "top_line": "공포탐욕은 **34(Fear)**로 올라왔고 메이저 4종 평균 위치도 **68.9%**까지 회복됐습니다. 업비트 톱15 알트 양전환이 **3개 → 9개**로 늘어 **WLD·AZTEC 유지 + RENDER·VIRTUAL·NEAR 추가**가 맞습니다.",
-  "ui_version": "v7.4",
+  "top_line": "공포탐욕은 **34(Fear)**로 그대로지만 메이저 4종 평균 위치가 **68.9% → 23.5%**로 급락했고, 업비트 톱15 알트 양전환도 **9개 → 6개**로 줄었습니다. 이번 새벽은 **WLD 코어 유지 + ATH·SEI·KITE·ARKM 생존주 4분산**이 맞습니다.",
+  "ui_version": "v7.5",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 114.0M원 하향 지속, WLD 540원 하향, AZTEC 38.8원 하향, RENDER 3440원 하향, VIRTUAL 1190원 하향, NEAR 4080원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 112.8M원 하향 지속, WLD 548원 하향, ATH 9.45원 하향, SEI 95원 하향, KITE 304원 하향, ARKM 225원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "공식 거래지원 종료/상장폐지 이슈가 확인된 종목은 대금이 커도 preferred core 금지",
-      "top15 알트 양전환이 8개 미만으로 다시 줄면 breakout 추격 비중을 축소",
-      "메이저 평균 위치가 60% 위이고 weak breadth warning이 꺼져 있으면 음수 후보는 preferred에서 제외"
+      "weak_breadth_warning이 켜져 있으면 50% 미만 위치 반등 후보를 신규 preferred core로 넣지 않는다.",
+      "24h 대금이 커도 NEAR·ONDO처럼 25% 이하 위치면 turnover trap으로 우선 배제한다.",
+      "메이저 평균 위치가 30% 미만이면 day_high_gap가 큰 종목은 대금이 커도 최대 1개만 허용한다."
     ],
     "exit_rules": [
-      "BTC 114.0M원 하향 지속, WLD 540원 하향, AZTEC 38.8원 하향, RENDER 3440원 하향, VIRTUAL 1190원 하향, NEAR 4080원 하향 시 즉시 재평가",
+      "BTC 112.8M원 하향 지속, WLD 548원 하향, ATH 9.45원 하향, SEI 95원 하향, KITE 304원 하향, ARKM 225원 하향 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "공식 거래지원 종료/상장폐지 이슈가 확인된 종목은 대금이 커도 preferred core 금지",
-      "top15 알트 양전환이 8개 미만으로 다시 줄면 breakout 추격 비중을 축소",
-      "메이저 평균 위치가 60% 위이고 weak breadth warning이 꺼져 있으면 음수 후보는 preferred에서 제외"
+      "weak_breadth_warning이 켜져 있으면 50% 미만 위치 반등 후보를 신규 preferred core로 넣지 않는다.",
+      "24h 대금이 커도 NEAR·ONDO처럼 25% 이하 위치면 turnover trap으로 우선 배제한다.",
+      "메이저 평균 위치가 30% 미만이면 day_high_gap가 큰 종목은 대금이 커도 최대 1개만 허용한다."
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2,509억원이며, WLD·NEAR 두 종목이 대형 유동성을 이끈다.",
-    "momentum_discipline": "EDGE·RVN 같은 오전 승자를 과감히 제거하고 WLD·AZTEC·RENDER·VIRTUAL·NEAR로 재가속 구조에 맞췄다.",
-    "diversification": "attention 리더·fresh breakout·AI 인프라·AI 에이전트·대형 reclaim 앵커 5분산",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1,348.7억원이며, WLD 한 종목이 전체의 약 75.5%를 차지한다.",
+    "momentum_discipline": "NEAR·RENDER·VIRTUAL·AZTEC의 구조 악화를 인정하고, ATH·SEI·KITE·ARKM 같은 고위치 생존주로 교체했다.",
+    "diversification": "attention·AI/GPU·L1·retail rotation·intel/data 5분산",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "메이저 평균 위치와 업비트 브레드스가 오전 대비 모두 살아났다. 따라서 지금은 narrow 생존주보다 high-range continuation과 대형 reclaim을 같이 담는 공격 분산 해석이 맞다."
+    "summary": "심리 지표는 그대로인데 메이저 구조와 업비트 브레드스는 분명히 약해졌다. 그래서 broad continuation이 아니라 WLD 단일 attention과 4개의 고위치 생존주를 묶는 selective aggressive 해석이 맞다."
   },
   "rotation_map": [
     {
-      "bucket": "EDGE → RENDER",
+      "bucket": "NEAR → ATH",
       "symbols": [
-        "EDGE",
-        "RENDER"
+        "NEAR",
+        "ATH"
       ],
-      "note": "무너진 소형 breakout을 더 강한 AI 인프라 continuation으로 교체했다."
+      "note": "대형 turnover trap을 AI/GPU 고위치 생존주로 교체했다."
     },
     {
-      "bucket": "RVN → VIRTUAL",
+      "bucket": "RENDER → SEI",
       "symbols": [
-        "RVN",
-        "VIRTUAL"
+        "RENDER",
+        "SEI"
       ],
-      "note": "붕괴한 소형 continuation을 더 깨끗한 AI 에이전트 지속형으로 교체했다."
+      "note": "mid-range fade된 AI 슬롯 일부를 더 강한 L1 survivor로 이동했다."
     },
     {
-      "bucket": "IN → NEAR",
+      "bucket": "VIRTUAL → KITE",
       "symbols": [
-        "IN",
-        "NEAR"
+        "VIRTUAL",
+        "KITE"
       ],
-      "note": "대금은 큰데 gap이 큰 mid-range 생존주를 더 체급 있는 reclaim 앵커로 교체했다."
+      "note": "확장 뉴스 대비 가격 반응이 약한 VIRTUAL을 더 선명한 리테일 생존주로 교체했다."
+    },
+    {
+      "bucket": "AZTEC → ARKM",
+      "symbols": [
+        "AZTEC",
+        "ARKM"
+      ],
+      "note": "breakout 후퇴 종목을 더 안정적인 중형 회복형으로 교체했다."
     },
     {
       "bucket": "WLD → WLD",
@@ -669,46 +679,45 @@
         "WLD",
         "WLD"
       ],
-      "note": "최상위 attention 코어는 유지하되 23:08 가격 기준 균등 재편했다."
-    },
-    {
-      "bucket": "AZTEC → AZTEC",
-      "symbols": [
-        "AZTEC",
-        "AZTEC"
-      ],
-      "note": "fresh breakout 코어는 유지하되 23:08 가격 기준 균등 재편했다."
+      "note": "최상위 attention 코어는 유지하되 05:06 가격 기준 균등 재편했다."
     }
   ],
   "self_evaluation": {
-    "score": 8.8,
-    "summary": "오전엔 약한 브레드스를 먼저 인정한 판단이 맞았고, 이번엔 그 전제가 깨졌을 때 빠르게 반대로 전환한 점이 좋았다. 특히 EDGE·RVN 붕괴를 미루지 않고 잘라내고, 브레드스 회복을 근거로 NEAR·VIRTUAL·RENDER로 넓힌 결정이 개선이다."
+    "score": 8.3,
+    "summary": "직전 회차의 브레드스 회복을 공격적으로 활용한 판단은 맞았지만, 새벽 메이저 급약세 재전환에 대비한 보호 전환이 더 빨라야 했다. 이번엔 NEAR·RENDER 같은 무효화 종목을 바로 제거하고 WLD 중심 생존주 바스켓으로 좁힌 점이 개선이다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 10.09,
+    "preferred_avg_change_pct_24h": 8.86,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 250386202186.27905,
-    "leader_turnover_share_pct": 37.88,
-    "leader_symbol": "NEAR",
-    "leader_concentration_warning": "moderate"
+    "preferred_turnover_total_krw_24h": 134872793445.7786,
+    "leader_turnover_share_pct": 75.53,
+    "leader_symbol": "WLD",
+    "leader_concentration_warning": "high"
+  },
+  "snapshot_delta": {
+    "top15_alt_positive_count_delta": 0,
+    "top15_alt_low_range_count_delta": 0,
+    "weak_breadth_warning_changed": false,
+    "entered_top5_turnover": [],
+    "exited_top5_turnover": []
   },
   "scenario_view": {
-    "regime": "mixed_selective_rotation",
-    "regime_label_ko": "혼조·빠른 순환 대응",
-    "regime_icon": "🟡",
-    "btc_range_position_pct": 40.8,
-    "major_avg_range_position_pct": 68.9,
-    "preferred_avg_change_pct_24h": 10.09,
+    "regime": "majors_breakdown_selective_defense",
+    "regime_label_ko": "메이저 붕괴·선별 방어",
+    "regime_icon": "🟠",
+    "btc_range_position_pct": 14.5,
+    "major_avg_range_position_pct": 23.48,
+    "preferred_avg_change_pct_24h": 8.86,
     "preferred_high_range_count": 3,
-    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
+    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 77.82,
-    "avg_day_high_gap_pct": -3.17,
+    "avg_range_position_pct": 79.3,
+    "avg_day_high_gap_pct": -3.1,
     "above_80_range_count": 3,
-    "summary": "고위치(80%+) 후보 3개 / 평균 위치 77.82%"
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 79.3%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -721,41 +730,41 @@
     {
       "icon": "🌍",
       "symbol": "WLD",
-      "last_price_krw": 568.0,
-      "threshold_krw": 540.0,
-      "distance_to_invalidation_pct": 5.19,
-      "status": "healthy"
+      "last_price_krw": 570.0,
+      "threshold_krw": 548.0,
+      "distance_to_invalidation_pct": 4.01,
+      "status": "near"
     },
     {
-      "icon": "🏛️",
-      "symbol": "AZTEC",
-      "last_price_krw": 40.8,
-      "threshold_krw": 38.8,
-      "distance_to_invalidation_pct": 5.15,
-      "status": "healthy"
+      "icon": "☁️",
+      "symbol": "ATH",
+      "last_price_krw": 9.85,
+      "threshold_krw": 9.45,
+      "distance_to_invalidation_pct": 4.23,
+      "status": "near"
+    },
+    {
+      "icon": "🟥",
+      "symbol": "SEI",
+      "last_price_krw": 97.8,
+      "threshold_krw": 95.0,
+      "distance_to_invalidation_pct": 2.95,
+      "status": "near"
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "last_price_krw": 315.0,
+      "threshold_krw": 304.0,
+      "distance_to_invalidation_pct": 3.62,
+      "status": "near"
     },
     {
       "icon": "🪙",
-      "symbol": "RENDER",
-      "last_price_krw": 3569.0,
-      "threshold_krw": 3440.0,
-      "distance_to_invalidation_pct": 3.75,
-      "status": "near"
-    },
-    {
-      "icon": "🤖",
-      "symbol": "VIRTUAL",
-      "last_price_krw": 1235.0,
-      "threshold_krw": 1190.0,
-      "distance_to_invalidation_pct": 3.78,
-      "status": "near"
-    },
-    {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "last_price_krw": 4190.0,
-      "threshold_krw": 4080.0,
-      "distance_to_invalidation_pct": 2.7,
+      "symbol": "ARKM",
+      "last_price_krw": 234.0,
+      "threshold_krw": 225.0,
+      "distance_to_invalidation_pct": 4.0,
       "status": "near"
     }
   ],
@@ -766,171 +775,171 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "ARKM",
+      "action": "BUY",
+      "price_krw": 234.0,
+      "amount_delta": 4737.842736084544,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "ARKM은 +7.83%, 67.6% 위치, 24h 대금 약 83억원으로 mid-cap 중 가격과 대금 균형이 가장 낫다."
+    },
+    {
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 315.0,
+      "amount_delta": 3519.540318234233,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "KITE는 +6.78%, 80.6% 위치, 24h 대금 약 72억원으로 새벽 리테일 순환매가 아직 남은 드문 후보다."
+    },
+    {
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "SEI",
+      "action": "BUY",
+      "price_krw": 97.8,
+      "amount_delta": 11335.942742778972,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "SEI는 +6.19%, 90.2% 위치, 24h 대금 약 90억원으로 새벽 보드의 가장 안정적인 고위치 L1 생존주다."
+    },
+    {
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "ATH",
+      "action": "BUY",
+      "price_krw": 9.85,
+      "amount_delta": 112553.8274359171,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "Aethir는 +7.65%, 90.4% 위치, 24h 대금 약 86억원으로 약한 시장에서도 고위치를 유지한 AI/GPU 생존주다."
+    },
+    {
+      "timestamp": "2026-05-27T05:09:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 570.0,
+      "amount_delta": 1945.0091232347077,
+      "cash_delta_krw": -1108655.2002437834,
+      "reason": "Sam Altman·World ID attention이 남은 상태에서 24h 대금 약 1,019억원으로 새벽 보드 유일의 압도적 관심 코어다."
+    },
+    {
+      "timestamp": "2026-05-27T05:09:00+09:00",
       "symbol": "NEAR",
-      "action": "BUY",
-      "price_krw": 4190.0,
-      "amount_delta": 273.19276988479874,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "948억원대 업비트 알트 1위 대금과 50%대 위치 회복을 반영해 대형 리클레임 앵커로 신규 편입"
+      "action": "SELL",
+      "price_krw": 3966.0,
+      "amount_delta": -273.19276988479874,
+      "cash_delta_krw": 1083482.5253631119,
+      "reason": "798억원대 대금에도 19.9% 위치·-9.9% gap로 turnover trap이 명확해 ATH로 교체"
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
+      "timestamp": "2026-05-27T05:09:00+09:00",
       "symbol": "VIRTUAL",
-      "action": "BUY",
-      "price_krw": 1235.0,
-      "amount_delta": 926.8645391233252,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "84.8% 위치와 243억원대 대금이 겹친 AI 에이전트 지속형으로 신규 편입"
+      "action": "SELL",
+      "price_krw": 1209.0,
+      "amount_delta": -926.8645391233252,
+      "cash_delta_krw": 1120579.2278001,
+      "reason": "확장 뉴스 대비 가격이 60.7% 위치에 머물러 KITE로 공격성을 재배치"
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
+      "timestamp": "2026-05-27T05:09:00+09:00",
       "symbol": "RENDER",
-      "action": "BUY",
-      "price_krw": 3569.0,
-      "amount_delta": 320.7278525685925,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "+9.78%와 95.8% 위치, 218억원대 대금이 동행한 AI 인프라 continuation 코어"
+      "action": "SELL",
+      "price_krw": 3427.0,
+      "amount_delta": -320.7278525685925,
+      "cash_delta_krw": 1099134.3507525665,
+      "reason": "AI/GPU 서사는 남아도 58.9% 위치로 밀려 SEI survivor 슬롯으로 교체"
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "AZTEC",
-      "action": "BUY",
-      "price_krw": 40.8,
-      "amount_delta": 28055.826122973205,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "90.5% 위치 fresh breakout을 유지해 late-session 최우선 돌파 코어로 재편입"
-    },
-    {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "WLD",
-      "action": "BUY",
-      "price_krw": 568.0,
-      "amount_delta": 2015.2776510868075,
-      "cash_delta_krw": -1144677.7058173066,
-      "reason": "868억원대 대금과 +15.45% attention 폭발을 반영해 tonight 핵심 코어로 재편입"
-    },
-    {
-      "timestamp": "2026-05-26T23:08:00+09:00",
+      "timestamp": "2026-05-27T05:09:00+09:00",
       "symbol": "AZTEC",
       "action": "SELL",
-      "price_krw": 40.8,
-      "amount_delta": -31420.918065742317,
-      "cash_delta_krw": 1281973.4570822865,
-      "reason": "가장 강한 breakout은 유지하되 23:08 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 38.9,
+      "amount_delta": -28055.826122973205,
+      "cash_delta_krw": 1091371.6361836577,
+      "reason": "fresh breakout이 60.8% 위치·-7.38% gap까지 식어 ARKM survivor 슬롯으로 교체"
     },
     {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "RVN",
-      "action": "SELL",
-      "price_krw": 7.94,
-      "amount_delta": -128540.11935985493,
-      "cash_delta_krw": 1020608.5477172482,
-      "reason": "91%대 continuation이 11.4% 위치로 붕괴해 high-range 코어 명분을 철회"
-    },
-    {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "EDGE",
-      "action": "SELL",
-      "price_krw": 136.0,
-      "amount_delta": -7352.494827383703,
-      "cash_delta_krw": 999939.2965241836,
-      "reason": "오전 breakout 가설이 4.5% 위치와 -13.38% gap로 무너져 전량 정리"
-    },
-    {
-      "timestamp": "2026-05-26T23:08:00+09:00",
+      "timestamp": "2026-05-27T05:09:00+09:00",
       "symbol": "WLD",
       "action": "SELL",
-      "price_krw": 568.0,
-      "amount_delta": -2250.76372266848,
-      "cash_delta_krw": 1278433.7944756967,
-      "reason": "핵심 코어는 유지하되 23:08 가격 기준 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-05-26T23:08:00+09:00",
-      "symbol": "IN",
-      "action": "SELL",
-      "price_krw": 143.0,
-      "amount_delta": -7991.8422036779375,
-      "cash_delta_krw": 1142833.4351259451,
-      "reason": "대금은 남았지만 -8.33% day_high_gap가 커 late-session 핵심 슬롯에서 제외하고 RENDER·VIRTUAL 쪽으로 회전"
+      "price_krw": 570.0,
+      "amount_delta": -2015.2776510868075,
+      "cash_delta_krw": 1148708.2611194802,
+      "reason": "최상위 attention 코어는 유지하되 05:06 가격 기준 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🌍 **WLD** — 568원, **+15.45%**, 24h 대금 약 **868억원**, 위치 **66.2%**",
-      "   → tonight 최상위 **attention 리더 코어**",
-      "2. 🏛️ **AZTEC** — 40.8원, **+16.57%**, 24h 대금 약 **226억원**, 위치 **90.5%**",
-      "   → 가장 깨끗한 **fresh breakout 코어**",
-      "3. 🎨 **RENDER** — 3,569원, **+9.78%**, 24h 대금 약 **218억원**, 위치 **95.8%**",
-      "   → **AI/GPU continuation 코어**",
-      "4. 🤖 **VIRTUAL** — 1,235원, **+6.93%**, 24h 대금 약 **243억원**, 위치 **84.8%**",
-      "   → **AI 에이전트 지속형**",
-      "5. 🌉 **NEAR** — 4,190원, **+1.70%**, 24h 대금 약 **948억원**, 위치 **51.8%**",
-      "   → 체급 있는 **대형 reclaim 앵커**"
+      "1. 🌍 **WLD** — 570원, **+15.85%**, 24h 대금 약 **1,019억원**, 위치 **67.7%**",
+      "   → 새벽 유일의 **attention survivor 코어**",
+      "2. ☁️ **ATH** — 9.85원, **+7.65%**, 24h 대금 약 **86억원**, 위치 **90.4%**",
+      "   → **AI/GPU 생존형 continuation**",
+      "3. 🟥 **SEI** — 97.8원, **+6.19%**, 24h 대금 약 **90억원**, 위치 **90.2%**",
+      "   → **L1 survivor continuation**",
+      "4. 🪁 **KITE** — 315원, **+6.78%**, 24h 대금 약 **72억원**, 위치 **80.6%**",
+      "   → **리테일 회전 생존주**",
+      "5. 🕵️ **ARKM** — 234원, **+7.83%**, 24h 대금 약 **83억원**, 위치 **67.6%**",
+      "   → **중형 데이터/인텔 recovery survivor**"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: **-0.64%**, 위치 **40.8%**",
-      "- ◆ ETH: **+0.22%**, 위치 **75.0%**",
-      "- 💧 XRP: **-0.05%**, 위치 **80.6%**",
-      "- ☀️ SOL: **+0.08%**, 위치 **79.2%**",
-      "- 해석: BTC만 둔하지만 나머지 3종이 고위치라 **알트 확장 허용 레짐**입니다."
+      "- ₿ BTC: **-1.45%**, 위치 **14.5%**",
+      "- ◆ ETH: **-1.56%**, 위치 **29.1%**",
+      "- 💧 XRP: **-1.25%**, 위치 **15.0%**",
+      "- ☀️ SOL: **-1.11%**, 위치 **35.3%**",
+      "- 해석: 메이저 평균 위치 **23.5%**라 broad risk-on 가정은 철회입니다."
     ],
     "🚫 이번 회차 강제 제외": [
-      "- 🌐 **ONDO**: 24h 대금 약 **730억원**이어도 **-3.45% / 22.9% 위치** → **turnover trap**",
-      "- ♾️ **IN**: **+5.93%**지만 **-8.33% gap / 56.7% 위치** → **late-session 핵심 코어로는 부족**",
-      "- 🗡️ **EDGE**: **4.5% 위치 / -13.38% gap** → **아침 breakout 실패**",
-      "- 🪶 **RVN**: **11.4% 위치 / -8.10% gap** → **continuation 붕괴**",
-      "- 🌪️ **DRIFT**: **거래지원 종료 리스크 + 20.8% 위치** → **구조적 제외**"
+      "- 🌉 **NEAR**: 24h 대금 약 **798억원**이어도 **-3.74% / 19.9% 위치 / -9.9% gap** → **turnover trap**",
+      "- 🌐 **ONDO**: 24h 대금 약 **771억원**이어도 **-4.40% / 17.5% 위치** → **기관서사보다 매도 우위**",
+      "- 🏛️ **AZTEC**: **+11.14%**지만 **60.8% 위치 / -7.38% gap** → **breakout quality 저하**",
+      "- 🤖 **VIRTUAL**: 확장 뉴스는 있으나 **60.7% 위치** → **코어에서 watchlist로 강등**",
+      "- 🎨 **RENDER**: AI 서사는 살아도 **58.9% 위치** → **high-range leader에서 이탈**"
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 0%, **WLD·AZTEC·RENDER·VIRTUAL·NEAR 5종 균등 공격 분산**",
-      "- 오전 narrow survivor 모드 종료, 지금은 **브레드스 회복형 continuation 바스켓**이 우위",
-      "- 핵심은 **WLD attention + AZTEC/RENDER/VIRTUAL 추세 + NEAR 체급 앵커** 조합입니다"
+      "- 현금 0%, **WLD + ATH + SEI + KITE + ARKM 5종 균등 공격 분산**",
+      "- 다만 broad long이 아니라 **생존주만 담는 공격 분산**입니다",
+      "- 핵심은 **WLD attention 1축 + 고위치 survivor 4축** 조합입니다"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- SELL ♾️ IN → BUY 🌉 NEAR",
-      "- SELL 🗡️ EDGE → BUY 🎨 RENDER",
-      "- SELL 🪶 RVN → BUY 🤖 VIRTUAL",
-      "- SELL 🌍 WLD → BUY 🌍 WLD (23:08 가격 기준 균등 재편)",
-      "- SELL 🏛️ AZTEC → BUY 🏛️ AZTEC (23:08 가격 기준 균등 재편)"
+      "- SELL 🌉 NEAR → BUY ☁️ ATH",
+      "- SELL 🎨 RENDER → BUY 🟥 SEI",
+      "- SELL 🤖 VIRTUAL → BUY 🪁 KITE",
+      "- SELL 🏛️ AZTEC → BUY 🕵️ ARKM",
+      "- SELL 🌍 WLD → BUY 🌍 WLD (05:06 가격 기준 균등 재편)"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: 0원",
-      "- 🌍 WLD: 2015.278개 @ 568원",
-      "- 🏛️ AZTEC: 28055.826개 @ 40.8원",
-      "- 🎨 RENDER: 320.728개 @ 3,569원",
-      "- 🤖 VIRTUAL: 926.865개 @ 1,235원",
-      "- 🌉 NEAR: 273.193개 @ 4,190원",
-      "- 총 평가액: **5,723,389원**",
-      "- 실현손익: **-3866840원**",
-      "- 누적 수익률: **-42.77%**"
+      "- 🌍 WLD: 1945.009개 @ 570원",
+      "- ☁️ ATH: 112553.827개 @ 9.85원",
+      "- 🟥 SEI: 11335.943개 @ 97.8원",
+      "- 🪁 KITE: 3519.540개 @ 315원",
+      "- 🕵️ ARKM: 4737.843개 @ 234원",
+      "- 총 평가액: **5,543,276원**",
+      "- 실현손익: **-4,046,953원**",
+      "- 누적 수익률: **-44.57%**"
     ],
     "🧠 자기 평가": [
-      "- 오전엔 **약한 브레드스 인정**이 맞았고, 밤엔 그 전제가 깨졌을 때 **빠르게 반대로 전환**한 점이 좋았습니다.",
-      "- 특히 **EDGE·RVN 손절성 교체를 미루지 않은 점**이 이번 회차 핵심 개선입니다."
+      "- 직전 회차의 밤 장 risk-on 확장은 맞았지만, **새벽 메이저 붕괴 재전환 대응은 더 빨랐어야** 했습니다.",
+      "- 이번엔 **NEAR·RENDER 같은 무효화 종목을 바로 제거**하고 survivor 모드로 좁힌 점이 핵심 개선입니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- 스냅샷에 **selection_score / selection_leaderboard**를 추가해 후보 비교 속도를 높였습니다.",
-      "- **양전환 8개 이상 + 메이저 평균 위치 60% 이상**이면 narrow 모드에서 continuation 확장 모드로 전환하는 규칙을 추가했습니다.",
-      "- 리포트에 **오전 대비 브레드스 변화(3→9)**를 직접 넣어 방향 전환 이유가 더 빨리 보이게 했습니다."
+      "- 스냅샷에 **leadership_delta**를 추가해 직전 대비 브레드스 변화가 바로 보이게 했습니다.",
+      "- 대시보드도 **snapshot_delta**를 읽도록 바꿔, 다음 사이클부터 레짐 변화 확인 속도가 빨라집니다.",
+      "- 리포트에 **68.9%→23.5%, 9개→6개** 같은 변화 수치를 직접 넣어 방향 전환 이유를 더 빨리 읽게 했습니다."
     ],
     "🧾 판단": [
-      "- aggressive diversified continuation rotation with recovered breadth"
+      "- selective aggressive survivor rotation under major breakdown"
     ],
     "🎯 신뢰도": [
-      "- medium-high"
+      "- medium"
     ],
     "👉 추천 행동": [
-      "- WLD **540원**, AZTEC **38.8원**, RENDER **3440원**, VIRTUAL **1190원**, NEAR **4080원** 하향 시 즉시 재평가",
-      "- BTC가 **114.0M원** 아래로 다시 밀리면 바스켓 전체 공격성을 줄여야 합니다",
-      "- ONDO·EDGE·RVN은 **대금만 보고 재진입 금지**입니다"
+      "- WLD **548원**, ATH **9.45원**, SEI **95원**, KITE **304원**, ARKM **225원** 하향 시 즉시 재평가",
+      "- BTC가 **112.8M원** 아래로 더 밀리면 survivor 바스켓도 방어적으로 줄일 준비를 해야 합니다",
+      "- NEAR·ONDO는 **대금만 보고 재진입 금지**입니다"
     ],
     "⚠️ 리스크 메모": [
-      "- BTC는 아직 40.8% 위치라 메이저 전부가 강한 건 아닙니다.",
-      "- WLD는 강하지만 **day-high gap이 큰 attention 종목**이라 흔들림이 빠릅니다.",
-      "- RENDER·VIRTUAL은 둘 다 AI 계열이라 테마 되밀림이 오면 같이 흔들릴 수 있습니다.",
-      "- 오늘은 **브레드스 회복이 핵심 전제**라, 양전환 숫자가 다시 급감하면 바로 방어적으로 돌아서야 합니다."
+      "- 메이저 4종 평균 위치가 **23.5%**라 시장 전체는 분명히 약합니다.",
+      "- WLD가 너무 강해 **leader concentration**이 커졌습니다.",
+      "- ATH·SEI·KITE·ARKM은 상대강도는 좋지만 체급이 작아 되밀림 속도가 빠를 수 있습니다.",
+      "- 심리지표는 그대로인데 가격이 더 약해졌다는 점 자체가 **실제 매도 압력 우위** 신호입니다."
     ]
   }
 }

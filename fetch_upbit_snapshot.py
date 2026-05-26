@@ -4,6 +4,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+SNAPSHOT_PATH = Path('/Users/reddevguitar/.openclaw/workspace/bits-today/data/upbit_snapshot.json')
+
 BASE = Path('/Users/reddevguitar/.openclaw/workspace/bits-today')
 OUT = BASE / 'data'
 OUT.mkdir(exist_ok=True)
@@ -199,8 +201,27 @@ leadership_health = {
 
 selection_leaderboard = sorted(leaders, key=lambda x: x.get('selection_score', 0), reverse=True)[:25]
 
+previous_snapshot = {}
+if SNAPSHOT_PATH.exists():
+    try:
+        previous_snapshot = json.loads(SNAPSHOT_PATH.read_text())
+    except Exception:
+        previous_snapshot = {}
+
+prev_leadership = previous_snapshot.get('leadership_health', {}) if isinstance(previous_snapshot, dict) else {}
+prev_top_turnover = [item.get('symbol') for item in previous_snapshot.get('top_alt_leaders_by_turnover', [])[:5]] if isinstance(previous_snapshot, dict) else []
+current_top_turnover = [item.get('symbol') for item in leaders[:5]]
+leadership_delta = {
+    'top15_alt_positive_count_delta': top15_alt_positive_count - (prev_leadership.get('top15_alt_positive_count') or 0),
+    'top15_alt_low_range_count_delta': top15_alt_low_range_count - (prev_leadership.get('top15_alt_low_range_count') or 0),
+    'weak_breadth_warning_changed': leadership_health['weak_breadth_warning'] != prev_leadership.get('weak_breadth_warning') if prev_leadership else None,
+    'entered_top5_turnover': [sym for sym in current_top_turnover if sym and sym not in prev_top_turnover],
+    'exited_top5_turnover': [sym for sym in prev_top_turnover if sym and sym not in current_top_turnover],
+}
+
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
+    'leadership_delta': leadership_delta,
     'krw_market_count': len(krw),
     'leadership_health': leadership_health,
     'top_majors': majors,

@@ -9,6 +9,7 @@ REPORTS = BASE / 'reports'
 DASH = BASE / 'dashboard'
 PORTFOLIO = BASE / 'portfolio.json'
 STRATEGY = BASE / 'strategy-state.json'
+SNAPSHOT = BASE / 'data' / 'upbit_snapshot.json'
 
 ICONS = {
     'BTC': '₿',
@@ -203,6 +204,7 @@ reports = sorted(REPORTS.glob('*.md'))
 latest_report = reports[-1] if reports else None
 portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
 strategy = json.loads(STRATEGY.read_text()) if STRATEGY.exists() else {}
+snapshot = json.loads(SNAPSHOT.read_text()) if SNAPSHOT.exists() else {}
 positions = portfolio.get('positions', {}) or {}
 history = portfolio.get('history', []) or []
 preferred = strategy.get('preferred_buy_candidates') or []
@@ -380,6 +382,7 @@ status = {
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
     'market_breadth': market_breadth,
+    'snapshot_delta': snapshot.get('leadership_delta', {}),
     'scenario_view': scenario_view,
     'preferred_setup_quality': preferred_setup_quality,
     'selection_checks': selection_checks,
