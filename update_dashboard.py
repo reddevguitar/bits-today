@@ -98,7 +98,9 @@ ICONS = {
     'LPT': '📺',
     'HIVE': '🍯',
     'ME': '🪄',
-    'STEEM': '📝'
+    'STEEM': '📝',
+    'EDGE': '🗡️',
+    'AZTEC': '🏛️'
 }
 
 

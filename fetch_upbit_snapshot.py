@@ -165,9 +165,21 @@ secondary_continuation_alts = [
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= SECONDARY_CONTINUATION_MAX_DAY_HIGH_GAP)
 ]
 
+top15_alt_leaders = leaders[:15]
+top15_alt_positive_count = sum(1 for r in top15_alt_leaders if r['change_pct_24h'] > 0)
+top15_alt_low_range_count = sum(1 for r in top15_alt_leaders if (r['range_position_pct'] is not None and r['range_position_pct'] <= 35))
+leadership_health = {
+    'top15_alt_positive_count': top15_alt_positive_count,
+    'top15_alt_positive_ratio_pct': round((top15_alt_positive_count / len(top15_alt_leaders)) * 100, 2) if top15_alt_leaders else 0,
+    'top15_alt_low_range_count': top15_alt_low_range_count,
+    'top15_alt_low_range_ratio_pct': round((top15_alt_low_range_count / len(top15_alt_leaders)) * 100, 2) if top15_alt_leaders else 0,
+    'weak_breadth_warning': top15_alt_positive_count <= 3 or top15_alt_low_range_count >= 8
+}
+
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
     'krw_market_count': len(krw),
+    'leadership_health': leadership_health,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:30],
     'top_positive_alts_by_turnover': positive[:30],
@@ -189,6 +201,7 @@ snapshot = {
 print(json.dumps({
     'updated_at_utc': snapshot['updated_at_utc'],
     'krw_market_count': len(krw),
+    'leadership_health': leadership_health,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:15],
     'top_positive_alts_by_turnover': positive[:15],
