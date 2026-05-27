@@ -205,6 +205,7 @@ latest_report = reports[-1] if reports else None
 portfolio = json.loads(PORTFOLIO.read_text()) if PORTFOLIO.exists() else {}
 strategy = json.loads(STRATEGY.read_text()) if STRATEGY.exists() else {}
 snapshot = json.loads(SNAPSHOT.read_text()) if SNAPSHOT.exists() else {}
+snapshot_ts = parse_ts(snapshot.get('updated_at_utc')) if snapshot else None
 positions = portfolio.get('positions', {}) or {}
 history = portfolio.get('history', []) or []
 preferred = strategy.get('preferred_buy_candidates') or []
@@ -294,7 +295,14 @@ portfolio_health = {
     'green_position_count': sum(1 for symbol, pos in positions.items() if (pos.get('last_price_krw', 0) or 0) >= (pos.get('avg_buy_price_krw', 0) or 0)),
     'red_position_count': sum(1 for symbol, pos in positions.items() if (pos.get('last_price_krw', 0) or 0) < (pos.get('avg_buy_price_krw', 0) or 0))
 }
+preferred_health_summary = {
+    'healthy_count': sum(1 for item in candidate_health if item.get('status') == 'healthy'),
+    'near_count': sum(1 for item in candidate_health if item.get('status') == 'near'),
+    'broken_count': sum(1 for item in candidate_health if item.get('status') == 'broken'),
+    'unknown_count': sum(1 for item in candidate_health if item.get('status') == 'unknown')
+}
 latest_ts = parse_ts(portfolio.get('last_updated')) or max((parse_ts(item.get('timestamp')) for item in history), default=None)
+snapshot_age_hours = round((latest_ts - snapshot_ts).total_seconds() / 3600, 2) if latest_ts and snapshot_ts else None
 window_start = latest_ts - timedelta(hours=24) if latest_ts else None
 recent_24h_trades = []
 if window_start:
@@ -382,12 +390,16 @@ status = {
     'rotation_map': rotation_map,
     'self_evaluation': self_evaluation,
     'market_breadth': market_breadth,
+    'snapshot_updated_at_utc': snapshot.get('updated_at_utc'),
+    'snapshot_age_hours': snapshot_age_hours,
     'snapshot_delta': snapshot.get('leadership_delta', {}),
+    'snapshot_major_delta': snapshot.get('major_delta', {}),
     'scenario_view': scenario_view,
     'preferred_setup_quality': preferred_setup_quality,
     'selection_checks': selection_checks,
     'discipline_alerts': discipline_alerts,
     'candidate_health': candidate_health,
+    'preferred_health_summary': preferred_health_summary,
     'portfolio_health': portfolio_health,
     'recent_rotation_log_24h': recent_rotation_log_24h,
     'report_sections': sections,

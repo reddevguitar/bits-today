@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4046952.9152419125,
-  "last_valuation_krw": 5543276.001218917,
-  "last_action": "ROTATE_TO_WLD_ATH_SEI_KITE_ARKM",
-  "last_updated": "2026-05-27T05:09:00+09:00",
-  "trade_count": 357,
+  "realized_pnl_krw": -4213717.665496694,
+  "last_valuation_krw": 5376511.250964137,
+  "last_action": "ROTATE_TO_NEAR_XLM_ICP_SAHARA_JTO",
+  "last_updated": "2026-05-28T05:04:00+09:00",
+  "trade_count": 367,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 1945.0091232347077,
-      "avg_buy_price_krw": 570.0,
-      "last_price_krw": 570.0,
-      "value_krw": 1108655.2002437834,
-      "thesis": "Sam Altman·World ID attention이 남은 상태에서 24h 대금 약 1,019억원으로 새벽 보드 유일의 압도적 관심 코어다.",
-      "strategy": "attention-survivor rebalance",
-      "role": "attention survivor core",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 12
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 275.4360272010316,
+      "avg_buy_price_krw": 3904.0,
+      "last_price_krw": 3904.0,
+      "value_krw": 1075302.2501928273,
+      "thesis": "NEAR는 24h 대금 약 473억원, +3.28%, 68.8% 위치로 WLD 붕괴 뒤 업비트 자금이 가장 크게 안착한 체급형 회복 코어다.",
+      "strategy": "near recovery rebalance",
+      "role": "large-cap recovery anchor",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 9
     },
-    "ATH": {
-      "market": "KRW-ATH",
-      "amount": 112553.8274359171,
-      "avg_buy_price_krw": 9.85,
-      "last_price_krw": 9.85,
-      "value_krw": 1108655.2002437834,
-      "thesis": "Aethir는 +7.65%, 90.4% 위치, 24h 대금 약 86억원으로 약한 시장에서도 고위치를 유지한 AI/GPU 생존주다.",
-      "strategy": "ai-gpu survivor new buy",
-      "role": "ai/gpu survivor continuation",
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 4425.112140711223,
+      "avg_buy_price_krw": 243.0,
+      "last_price_krw": 243.0,
+      "value_krw": 1075302.2501928273,
+      "thesis": "XLM은 24h 대금 약 338억원, +11.47%, 77.8% 위치로 이번 회차 가장 선명한 결제계 대형 breakout이다.",
+      "strategy": "xlm breakout new buy",
+      "role": "payment breakout leader",
       "risk_limit_pct": 4,
       "profit_take_pct": 11
     },
-    "SEI": {
-      "market": "KRW-SEI",
-      "amount": 11335.942742778972,
-      "avg_buy_price_krw": 97.8,
-      "last_price_krw": 97.8,
-      "value_krw": 1108655.2002437834,
-      "thesis": "SEI는 +6.19%, 90.2% 위치, 24h 대금 약 90억원으로 새벽 보드의 가장 안정적인 고위치 L1 생존주다.",
-      "strategy": "sei continuation new buy",
-      "role": "layer1 survivor continuation",
+    "ICP": {
+      "market": "KRW-ICP",
+      "amount": 247.02555713136397,
+      "avg_buy_price_krw": 4353.0,
+      "last_price_krw": 4353.0,
+      "value_krw": 1075302.2501928273,
+      "thesis": "ICP는 24h 대금 약 284억원, +10.79%, 66.3% 위치로 AI/컴퓨트 서사와 체급을 동시에 가져가는 품질형 지속 후보다.",
+      "strategy": "icp continuation new buy",
+      "role": "compute quality continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
+    },
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 22080.12834071514,
+      "avg_buy_price_krw": 48.7,
+      "last_price_krw": 48.7,
+      "value_krw": 1075302.2501928273,
+      "thesis": "SAHARA는 24h 대금 약 180억원, +2.53%, 75.0% 위치로 AI 내러티브 안에서 가장 안정적인 support형 리더다.",
+      "strategy": "sahara support new buy",
+      "role": "ai stability support",
       "risk_limit_pct": 3,
-      "profit_take_pct": 10
+      "profit_take_pct": 8
     },
-    "KITE": {
-      "market": "KRW-KITE",
-      "amount": 3519.540318234233,
-      "avg_buy_price_krw": 315.0,
-      "last_price_krw": 315.0,
-      "value_krw": 1108655.2002437834,
-      "thesis": "KITE는 +6.78%, 80.6% 위치, 24h 대금 약 72억원으로 새벽 리테일 순환매가 아직 남은 드문 후보다.",
-      "strategy": "retail survivor new buy",
-      "role": "retail rotation survivor",
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 1244.5627895750315,
+      "avg_buy_price_krw": 864.0,
+      "last_price_krw": 864.0,
+      "value_krw": 1075302.2501928273,
+      "thesis": "JTO는 24h 대금 약 58.6억원, +12.94%, 95.4% 위치로 이번 새벽 가장 강한 고위치 돌파 코어다.",
+      "strategy": "jto breakout new buy",
+      "role": "solana beta fresh breakout",
       "risk_limit_pct": 4,
-      "profit_take_pct": 10
-    },
-    "ARKM": {
-      "market": "KRW-ARKM",
-      "amount": 4737.842736084544,
-      "avg_buy_price_krw": 234.0,
-      "last_price_krw": 234.0,
-      "value_krw": 1108655.2002437834,
-      "thesis": "ARKM은 +7.83%, 67.6% 위치, 24h 대금 약 83억원으로 mid-cap 중 가격과 대금 균형이 가장 낫다.",
-      "strategy": "arkm recovery new buy",
-      "role": "intel-data recovery survivor",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
+      "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "112.8M원대 재이탈 지속이면 이미 약한 메이저 구조가 더 나빠진다."
+      "reason": "110.1M원대 재이탈이면 메이저 평균 위치 반등이 다시 꺾일 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.06M원대가 지지되지 않으면 알트 생존주도 추가 압박을 받기 쉽다."
+      "reason": "3.016M원 저점 재테스트 시 알트 continuation도 빠르게 둔화될 수 있다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "15% 위치에서 회복 실패가 이어지면 국내 리테일 위험선호가 더 약해질 수 있다."
+      "reason": "60%대 위치 유지 여부가 국내 리테일 위험선호의 최소 방어선이다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "35% 위치 회복 여부가 L1 생존주 해석의 최소 조건이다."
+      "reason": "60% 부근 유지가 JTO 같은 솔라나 베타 continuation의 배경 신호다."
     },
     {
-      "symbol": "AZTEC",
-      "market": "KRW-AZTEC",
-      "reason": "대금은 크지만 90%대에서 60%대로 밀려 재돌파 전까지 코어 복귀 보류."
+      "symbol": "FIL",
+      "market": "KRW-FIL",
+      "reason": "AI 스토리지 서사는 살아 있고 69.9% 위치라 다음 승격 후보 1순위다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "BNB/XLayer 확장 뉴스는 있으나 가격이 60%대로 내려와 watchlist로 강등."
+      "symbol": "FF",
+      "market": "KRW-FF",
+      "reason": "fUSD 기관 뉴스는 강하지만 -7.78% gap가 커 follow-through 확인 전까지 보류한다."
     },
     {
-      "symbol": "RENDER",
-      "market": "KRW-RENDER",
-      "reason": "AI/GPU 서사는 유지되지만 3440원 회복 전엔 fade risk가 더 크다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "257억원대 대금과 75% 위치는 좋지만 이번 회차는 밈 베타보다 구조가 더 선명한 5종이 우선이다."
     },
     {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "407억원대 대금에도 -8.97% gap가 너무 커 late-session 코어 복귀 보류."
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "reason": "상승은 남았지만 100원대 중반 재안착 전까지는 stalled liquidity 성격이 더 강하다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "798억원대 대금이 있어도 19.9% 위치·-9.9% gap라 전형적 turnover trap이다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "499억원대 대금에도 -7.9%·16.9% 위치면 전형적 attention trap이므로 재돌파 전까지 금지."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "771억원대 대금에도 17.5% 위치라 아직 대금 함정에서 못 벗어났다."
+      "reason": "442억원대 대금에도 18.2% 위치라 이번 회차도 turnover trap으로 분류한다."
     }
   ],
   "history": [
@@ -3335,6 +3335,96 @@
       "amount_delta": 4737.842736084544,
       "cash_delta_krw": -1108655.2002437834,
       "reason": "ARKM은 +7.83%, 67.6% 위치, 24h 대금 약 83억원으로 mid-cap 중 가격과 대금 균형이 가장 낫다."
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 513.0,
+      "amount_delta": -1945.0091232347077,
+      "cash_delta_krw": 997789.680219405,
+      "reason": "499억원대 대금에도 -7.9%·16.9% 위치로 attention trap이 명확해 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "ATH",
+      "action": "SELL",
+      "price_krw": 9.71,
+      "amount_delta": -112553.8274359171,
+      "cash_delta_krw": 1092897.6644027552,
+      "reason": "AI/GPU survivor 가설이 음전환과 34%대 위치로 약해져 XLM breakout으로 교체"
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "SEI",
+      "action": "SELL",
+      "price_krw": 103.0,
+      "amount_delta": -11335.942742778972,
+      "cash_delta_krw": 1167602.102506234,
+      "reason": "플러스는 남았지만 stalled liquidity 성격이 강해 ICP quality continuation으로 교체"
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "KITE",
+      "action": "SELL",
+      "price_krw": 303.0,
+      "amount_delta": -3519.540318234233,
+      "cash_delta_krw": 1066420.7164249725,
+      "reason": "리테일 회전축이 저점 종가에 가까워져 SAHARA support 슬롯으로 이동"
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "ARKM",
+      "action": "SELL",
+      "price_krw": 222.0,
+      "amount_delta": -4737.842736084544,
+      "cash_delta_krw": 1051801.087410769,
+      "reason": "중형 회복 슬롯보다 JTO fresh breakout의 기대값이 높아 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3904.0,
+      "amount_delta": 275.4360272010316,
+      "cash_delta_krw": -1075302.2501928273,
+      "reason": "NEAR는 24h 대금 약 473억원, +3.28%, 68.8% 위치로 WLD 붕괴 뒤 업비트 자금이 가장 크게 안착한 체급형 회복 코어다."
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 243.0,
+      "amount_delta": 4425.112140711223,
+      "cash_delta_krw": -1075302.2501928273,
+      "reason": "XLM은 24h 대금 약 338억원, +11.47%, 77.8% 위치로 이번 회차 가장 선명한 결제계 대형 breakout이다."
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "ICP",
+      "action": "BUY",
+      "price_krw": 4353.0,
+      "amount_delta": 247.02555713136397,
+      "cash_delta_krw": -1075302.2501928273,
+      "reason": "ICP는 24h 대금 약 284억원, +10.79%, 66.3% 위치로 AI/컴퓨트 서사와 체급을 동시에 가져가는 품질형 지속 후보다."
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 48.7,
+      "amount_delta": 22080.12834071514,
+      "cash_delta_krw": -1075302.2501928273,
+      "reason": "SAHARA는 24h 대금 약 180억원, +2.53%, 75.0% 위치로 AI 내러티브 안에서 가장 안정적인 support형 리더다."
+    },
+    {
+      "timestamp": "2026-05-28T05:04:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 864.0,
+      "amount_delta": 1244.5627895750315,
+      "cash_delta_krw": -1075302.2501928273,
+      "reason": "JTO는 24h 대금 약 58.6억원, +12.94%, 95.4% 위치로 이번 새벽 가장 강한 고위치 돌파 코어다."
     }
   ]
 }
