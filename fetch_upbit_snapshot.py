@@ -114,6 +114,12 @@ for row in rows:
     row['selection_score'] = selection_score(row, max_turnover)
 
 majors = [r for r in rows if r['symbol'] in TOP4_MAJORS]
+major_range_positions = [r['range_position_pct'] for r in majors if r.get('range_position_pct') is not None]
+major_health = {
+    'major_avg_range_position_pct': round(sum(major_range_positions) / len(major_range_positions), 2) if major_range_positions else 0,
+    'major_positive_count': sum(1 for r in majors if r['change_pct_24h'] > 0),
+    'major_negative_count': sum(1 for r in majors if r['change_pct_24h'] < 0),
+}
 leaders = [r for r in rows if r['symbol'] not in TOP4_MAJORS and r['symbol'] not in STABLES]
 positive = [r for r in leaders if r['change_pct_24h'] > 0]
 high_conviction_positive = [
@@ -211,6 +217,7 @@ if SNAPSHOT_PATH.exists():
 prev_leadership = previous_snapshot.get('leadership_health', {}) if isinstance(previous_snapshot, dict) else {}
 prev_top_turnover = [item.get('symbol') for item in previous_snapshot.get('top_alt_leaders_by_turnover', [])[:5]] if isinstance(previous_snapshot, dict) else []
 current_top_turnover = [item.get('symbol') for item in leaders[:5]]
+prev_major_health = previous_snapshot.get('major_health', {}) if isinstance(previous_snapshot, dict) else {}
 leadership_delta = {
     'top15_alt_positive_count_delta': top15_alt_positive_count - (prev_leadership.get('top15_alt_positive_count') or 0),
     'top15_alt_low_range_count_delta': top15_alt_low_range_count - (prev_leadership.get('top15_alt_low_range_count') or 0),
@@ -218,11 +225,20 @@ leadership_delta = {
     'entered_top5_turnover': [sym for sym in current_top_turnover if sym and sym not in prev_top_turnover],
     'exited_top5_turnover': [sym for sym in prev_top_turnover if sym and sym not in current_top_turnover],
 }
+major_delta = {
+    'major_avg_range_position_pct_delta': round(major_health['major_avg_range_position_pct'] - (prev_major_health.get('major_avg_range_position_pct') or 0), 2),
+    'major_positive_count_delta': major_health['major_positive_count'] - (prev_major_health.get('major_positive_count') or 0),
+    'major_negative_count_delta': major_health['major_negative_count'] - (prev_major_health.get('major_negative_count') or 0),
+}
 
 snapshot = {
     'updated_at_utc': datetime.now(timezone.utc).isoformat(),
     'leadership_delta': leadership_delta,
+    'major_health': major_health,
+    'major_delta': major_delta,
     'krw_market_count': len(krw),
+    'major_health': major_health,
+    'major_delta': major_delta,
     'leadership_health': leadership_health,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:30],
@@ -246,6 +262,8 @@ snapshot = {
 print(json.dumps({
     'updated_at_utc': snapshot['updated_at_utc'],
     'krw_market_count': len(krw),
+    'major_health': major_health,
+    'major_delta': major_delta,
     'leadership_health': leadership_health,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:15],

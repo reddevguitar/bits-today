@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4213717.665496694,
-  "last_valuation_krw": 5376511.250964137,
-  "last_action": "ROTATE_TO_NEAR_XLM_ICP_SAHARA_JTO",
-  "last_updated": "2026-05-28T05:04:00+09:00",
-  "trade_count": 367,
+  "realized_pnl_krw": -4541740.15872464,
+  "last_valuation_krw": 5048488.757736191,
+  "last_action": "ROTATE_TO_FF_SEI_ZAMA_TRUST_KITE",
+  "last_updated": "2026-05-28T17:04:00+09:00",
+  "trade_count": 377,
   "positions": {
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 275.4360272010316,
-      "avg_buy_price_krw": 3904.0,
-      "last_price_krw": 3904.0,
-      "value_krw": 1075302.2501928273,
-      "thesis": "NEAR는 24h 대금 약 473억원, +3.28%, 68.8% 위치로 WLD 붕괴 뒤 업비트 자금이 가장 크게 안착한 체급형 회복 코어다.",
-      "strategy": "near recovery rebalance",
-      "role": "large-cap recovery anchor",
+    "FF": {
+      "market": "KRW-FF",
+      "amount": 6472.421484277168,
+      "avg_buy_price_krw": 156.0,
+      "last_price_krw": 156.0,
+      "value_krw": 1009697.7515472382,
+      "thesis": "FF는 24h 대금 약 228억원, +3.31%, 100.0% 위치로 약한 브레드스 속에서도 종가 품질이 가장 좋은 기관형 fresh breakout이다.",
+      "strategy": "ff institutional breakout new buy",
+      "role": "regulated stablecoin breakout core",
       "risk_limit_pct": 3,
       "profit_take_pct": 9
     },
-    "XLM": {
-      "market": "KRW-XLM",
-      "amount": 4425.112140711223,
-      "avg_buy_price_krw": 243.0,
-      "last_price_krw": 243.0,
-      "value_krw": 1075302.2501928273,
-      "thesis": "XLM은 24h 대금 약 338억원, +11.47%, 77.8% 위치로 이번 회차 가장 선명한 결제계 대형 breakout이다.",
-      "strategy": "xlm breakout new buy",
-      "role": "payment breakout leader",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 11
-    },
-    "ICP": {
-      "market": "KRW-ICP",
-      "amount": 247.02555713136397,
-      "avg_buy_price_krw": 4353.0,
-      "last_price_krw": 4353.0,
-      "value_krw": 1075302.2501928273,
-      "thesis": "ICP는 24h 대금 약 284억원, +10.79%, 66.3% 위치로 AI/컴퓨트 서사와 체급을 동시에 가져가는 품질형 지속 후보다.",
-      "strategy": "icp continuation new buy",
-      "role": "compute quality continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 11
-    },
-    "SAHARA": {
-      "market": "KRW-SAHARA",
-      "amount": 22080.12834071514,
-      "avg_buy_price_krw": 48.7,
-      "last_price_krw": 48.7,
-      "value_krw": 1075302.2501928273,
-      "thesis": "SAHARA는 24h 대금 약 180억원, +2.53%, 75.0% 위치로 AI 내러티브 안에서 가장 안정적인 support형 리더다.",
-      "strategy": "sahara support new buy",
-      "role": "ai stability support",
+    "SEI": {
+      "market": "KRW-SEI",
+      "amount": 9898.99756418861,
+      "avg_buy_price_krw": 102.0,
+      "last_price_krw": 102.0,
+      "value_krw": 1009697.7515472382,
+      "thesis": "SEI는 24h 대금 약 200억원, +4.94%, 83.6% 위치로 breadth collapse 국면에서도 살아남은 체급형 survivor다.",
+      "strategy": "sei survivor continuation buy",
+      "role": "l1 survivor continuation",
       "risk_limit_pct": 3,
-      "profit_take_pct": 8
+      "profit_take_pct": 9
     },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 1244.5627895750315,
-      "avg_buy_price_krw": 864.0,
-      "last_price_krw": 864.0,
-      "value_krw": 1075302.2501928273,
-      "thesis": "JTO는 24h 대금 약 58.6억원, +12.94%, 95.4% 위치로 이번 새벽 가장 강한 고위치 돌파 코어다.",
-      "strategy": "jto breakout new buy",
-      "role": "solana beta fresh breakout",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 12
+    "ZAMA": {
+      "market": "KRW-ZAMA",
+      "amount": 18358.140937222513,
+      "avg_buy_price_krw": 55.0,
+      "last_price_krw": 55.0,
+      "value_krw": 1009697.7515472382,
+      "thesis": "ZAMA는 24h 대금 약 92.9억원, +7.00%, 97.4% 위치로 이번 오후 보드에서 가장 선명한 privacy/FHE 고위치 돌파 후보다.",
+      "strategy": "zama privacy breakout buy",
+      "role": "privacy fhe fresh breakout",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 10
+    },
+    "TRUST": {
+      "market": "KRW-TRUST",
+      "amount": 9997.007441061764,
+      "avg_buy_price_krw": 101.0,
+      "last_price_krw": 101.0,
+      "value_krw": 1009697.7515472382,
+      "thesis": "TRUST는 24h 대금 약 45.4억원, +5.98%, 81.8% 위치로 소형주 중 구조가 가장 깔끔한 follow-through 후보군이다.",
+      "strategy": "trust follow-through buy",
+      "role": "mid-cap survivor follow-through",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 10
+    },
+    "KITE": {
+      "market": "KRW-KITE",
+      "amount": 3321.3741827211784,
+      "avg_buy_price_krw": 304.0,
+      "last_price_krw": 304.0,
+      "value_krw": 1009697.7515472382,
+      "thesis": "KITE는 24h 대금 약 28.9억원, +2.01%, 90.9% 위치로 저체급 보드에서 드문 high-close survivor라 5번째 공격 슬롯으로 적합하다.",
+      "strategy": "kite survivor support buy",
+      "role": "retail high-close survivor",
+      "risk_limit_pct": 2,
+      "profit_take_pct": 8
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "110.1M원대 재이탈이면 메이저 평균 위치 반등이 다시 꺾일 수 있다."
+      "reason": "108.0M원 재이탈이면 알트 survivor도 빠르게 흔들릴 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.016M원 저점 재테스트 시 알트 continuation도 빠르게 둔화될 수 있다."
+      "reason": "2.90M원대 재시험 시 메이저 완충 역할이 약해질 수 있다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "60%대 위치 유지 여부가 국내 리테일 위험선호의 최소 방어선이다."
+      "reason": "63.6% 위치 유지가 국내 리테일 risk barometer다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "60% 부근 유지가 JTO 같은 솔라나 베타 continuation의 배경 신호다."
+      "reason": "45%대 재반등 여부가 알트 전반 베타 회복 판단 기준이다."
     },
     {
-      "symbol": "FIL",
-      "market": "KRW-FIL",
-      "reason": "AI 스토리지 서사는 살아 있고 69.9% 위치라 다음 승격 후보 1순위다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "대금 1위지만 13.0% 위치·-7.58% gap라 stalled-liquidity trap 재분류 대상이다."
     },
     {
-      "symbol": "FF",
-      "market": "KRW-FF",
-      "reason": "fUSD 기관 뉴스는 강하지만 -7.78% gap가 커 follow-through 확인 전까지 보류한다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "445억원대 대금에도 29.6% 위치면 오후엔 recovery 코어 명분이 없다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "257억원대 대금과 75% 위치는 좋지만 이번 회차는 밈 베타보다 구조가 더 선명한 5종이 우선이다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "AI 서사는 남아도 28.6% 위치라 support 실패 확인이 먼저다."
     },
     {
-      "symbol": "SEI",
-      "market": "KRW-SEI",
-      "reason": "상승은 남았지만 100원대 중반 재안착 전까지는 stalled liquidity 성격이 더 강하다."
+      "symbol": "PRL",
+      "market": "KRW-PRL",
+      "reason": "+21.9%라도 -15.5% gap면 exhausted blowoff 가능성이 커 추격 금지."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "499억원대 대금에도 -7.9%·16.9% 위치면 전형적 attention trap이므로 재돌파 전까지 금지."
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "82.4% 위치와 저변동 구조는 좋지만 대금이 아직 코어 승격 전이다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "442억원대 대금에도 18.2% 위치라 이번 회차도 turnover trap으로 분류한다."
+      "symbol": "MON",
+      "market": "KRW-MON",
+      "reason": "80% 위치는 유지하나 유동성 확대 전까지는 후보 2군이다."
     }
   ],
   "history": [
@@ -3425,6 +3425,96 @@
       "amount_delta": 1244.5627895750315,
       "cash_delta_krw": -1075302.2501928273,
       "reason": "JTO는 24h 대금 약 58.6억원, +12.94%, 95.4% 위치로 이번 새벽 가장 강한 고위치 돌파 코어다."
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3550.0,
+      "amount_delta": -275.4360272010316,
+      "cash_delta_krw": 977797.8965636622,
+      "reason": "대형 recovery 코어였지만 오후엔 -3.11%·29.6% 위치로 turnover trap이 명확해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 244.0,
+      "amount_delta": -4425.112140711223,
+      "cash_delta_krw": 1079727.3623335385,
+      "reason": "대금 1위라도 13.0% 위치·-7.58% gap면 stalled-liquidity trap이라 survivor 바스켓으로 교체"
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "ICP",
+      "action": "SELL",
+      "price_krw": 3980.0,
+      "amount_delta": -247.02555713136397,
+      "cash_delta_krw": 983161.7173828286,
+      "reason": "AI/컴퓨트 continuation 가정이 무너지고 21.1% 위치까지 밀려 전량 정리"
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 47.7,
+      "amount_delta": -22080.12834071514,
+      "cash_delta_krw": 1053222.1218521122,
+      "reason": "AI support 역할보다 28.6% 위치 실패 신호가 커져 더 강한 survivor로 이동"
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 767.0,
+      "amount_delta": -1244.5627895750315,
+      "cash_delta_krw": 954579.6596040492,
+      "reason": "fresh breakout 해석이 무효화되고 7.8% 위치로 붕괴해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "FF",
+      "action": "BUY",
+      "price_krw": 156.0,
+      "amount_delta": 6472.421484277168,
+      "cash_delta_krw": -1009697.7515472382,
+      "reason": "FF는 24h 대금 약 228억원, +3.31%, 100.0% 위치로 약한 브레드스 속에서도 종가 품질이 가장 좋은 기관형 fresh breakout이다."
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "SEI",
+      "action": "BUY",
+      "price_krw": 102.0,
+      "amount_delta": 9898.99756418861,
+      "cash_delta_krw": -1009697.7515472382,
+      "reason": "SEI는 24h 대금 약 200억원, +4.94%, 83.6% 위치로 breadth collapse 국면에서도 살아남은 체급형 survivor다."
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "ZAMA",
+      "action": "BUY",
+      "price_krw": 55.0,
+      "amount_delta": 18358.140937222513,
+      "cash_delta_krw": -1009697.7515472382,
+      "reason": "ZAMA는 24h 대금 약 92.9억원, +7.00%, 97.4% 위치로 이번 오후 보드에서 가장 선명한 privacy/FHE 고위치 돌파 후보다."
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "TRUST",
+      "action": "BUY",
+      "price_krw": 101.0,
+      "amount_delta": 9997.007441061764,
+      "cash_delta_krw": -1009697.7515472382,
+      "reason": "TRUST는 24h 대금 약 45.4억원, +5.98%, 81.8% 위치로 소형주 중 구조가 가장 깔끔한 follow-through 후보군이다."
+    },
+    {
+      "timestamp": "2026-05-28T17:04:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 304.0,
+      "amount_delta": 3321.3741827211784,
+      "cash_delta_krw": -1009697.7515472382,
+      "reason": "KITE는 24h 대금 약 28.9억원, +2.01%, 90.9% 위치로 저체급 보드에서 드문 high-close survivor라 5번째 공격 슬롯으로 적합하다."
     }
   ]
 }
