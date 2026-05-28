@@ -3,59 +3,23 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4541740.15872464,
-  "last_valuation_krw": 5048488.757736191,
-  "last_action": "ROTATE_TO_FF_SEI_ZAMA_TRUST_KITE",
-  "last_updated": "2026-05-28T17:04:00+09:00",
-  "trade_count": 377,
+  "realized_pnl_krw": -4640292.105609115,
+  "last_valuation_krw": 4962787.509507771,
+  "last_action": "ROTATE_FF_SEI_TRUST_TO_XLM_HBAR_XPL",
+  "last_updated": "2026-05-28T23:08+09:00",
+  "trade_count": 383,
   "positions": {
-    "FF": {
-      "market": "KRW-FF",
-      "amount": 6472.421484277168,
-      "avg_buy_price_krw": 156.0,
-      "last_price_krw": 156.0,
-      "value_krw": 1009697.7515472382,
-      "thesis": "FF는 24h 대금 약 228억원, +3.31%, 100.0% 위치로 약한 브레드스 속에서도 종가 품질이 가장 좋은 기관형 fresh breakout이다.",
-      "strategy": "ff institutional breakout new buy",
-      "role": "regulated stablecoin breakout core",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 9
-    },
-    "SEI": {
-      "market": "KRW-SEI",
-      "amount": 9898.99756418861,
-      "avg_buy_price_krw": 102.0,
-      "last_price_krw": 102.0,
-      "value_krw": 1009697.7515472382,
-      "thesis": "SEI는 24h 대금 약 200억원, +4.94%, 83.6% 위치로 breadth collapse 국면에서도 살아남은 체급형 survivor다.",
-      "strategy": "sei survivor continuation buy",
-      "role": "l1 survivor continuation",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 9
-    },
     "ZAMA": {
       "market": "KRW-ZAMA",
       "amount": 18358.140937222513,
       "avg_buy_price_krw": 55.0,
-      "last_price_krw": 55.0,
-      "value_krw": 1009697.7515472382,
-      "thesis": "ZAMA는 24h 대금 약 92.9억원, +7.00%, 97.4% 위치로 이번 오후 보드에서 가장 선명한 privacy/FHE 고위치 돌파 후보다.",
-      "strategy": "zama privacy breakout buy",
-      "role": "privacy fhe fresh breakout",
+      "last_price_krw": 55.7,
+      "value_krw": 1022548.450203294,
+      "thesis": "ZAMA는 24h 대금 약 111.4억원, +8.37%, 95.7% 위치로 Zama 토큰 런치/FHE 서사가 살아 있고 고가권 유지력이 가장 깔끔하다.",
+      "strategy": "zama aggressive follow-through buy",
+      "role": "privacy/FHE fresh breakout",
       "risk_limit_pct": 3,
-      "profit_take_pct": 10
-    },
-    "TRUST": {
-      "market": "KRW-TRUST",
-      "amount": 9997.007441061764,
-      "avg_buy_price_krw": 101.0,
-      "last_price_krw": 101.0,
-      "value_krw": 1009697.7515472382,
-      "thesis": "TRUST는 24h 대금 약 45.4억원, +5.98%, 81.8% 위치로 소형주 중 구조가 가장 깔끔한 follow-through 후보군이다.",
-      "strategy": "trust follow-through buy",
-      "role": "mid-cap survivor follow-through",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 10
+      "profit_take_pct": 12
     },
     "KITE": {
       "market": "KRW-KITE",
@@ -63,9 +27,45 @@
       "avg_buy_price_krw": 304.0,
       "last_price_krw": 304.0,
       "value_krw": 1009697.7515472382,
-      "thesis": "KITE는 24h 대금 약 28.9억원, +2.01%, 90.9% 위치로 저체급 보드에서 드문 high-close survivor라 5번째 공격 슬롯으로 적합하다.",
-      "strategy": "kite survivor support buy",
+      "thesis": "KITE는 24h 대금 약 32.2억원, +2.01%, 85.7% 위치로 카이트는 대금은 작아도 85.7% 위치를 지켜 저체급 보드의 잔존 강세 슬롯 역할이 선명하다.",
+      "strategy": "kite aggressive follow-through buy",
       "role": "retail high-close survivor",
+      "risk_limit_pct": 2,
+      "profit_take_pct": 8
+    },
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 3380.0937805735157,
+      "avg_buy_price_krw": 289.0,
+      "last_price_krw": 289.0,
+      "value_krw": 976847.1025857461,
+      "thesis": "XLM는 24h 대금 약 1618.7억원, +19.92%, 78.7% 위치로 DTCC-스텔라 토큰화 재료가 실제 업비트 최대 대금으로 확인되며 초대금 reclaim이 성립했다.",
+      "strategy": "xlm aggressive follow-through buy",
+      "role": "mega-liquidity tokenization reclaim core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14
+    },
+    "HBAR": {
+      "market": "KRW-HBAR",
+      "amount": 7514.208481428816,
+      "avg_buy_price_krw": 130.0,
+      "last_price_krw": 130.0,
+      "value_krw": 976847.1025857461,
+      "thesis": "HBAR는 24h 대금 약 126.1억원, +3.17%, 66.7% 위치로 헤데라는 중형 이상 체급 중 드물게 양전환과 66.7% 위치를 함께 지켰다.",
+      "strategy": "hbar aggressive follow-through buy",
+      "role": "enterprise quality continuation",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 9
+    },
+    "XPL": {
+      "market": "KRW-XPL",
+      "amount": 7691.7094691791035,
+      "avg_buy_price_krw": 127.0,
+      "last_price_krw": 127.0,
+      "value_krw": 976847.1025857461,
+      "thesis": "XPL는 24h 대금 약 58.0억원, +1.60%, 81.8% 위치로 플라즈마는 대금은 중간이지만 81.8% 위치와 얕은 고점 이격으로 보드 품질이 좋다.",
+      "strategy": "xpl aggressive follow-through buy",
+      "role": "plasma infra high-close continuation",
       "risk_limit_pct": 2,
       "profit_take_pct": 8
     }
@@ -74,52 +74,52 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "108.0M원 재이탈이면 알트 survivor도 빠르게 흔들릴 수 있다."
+      "reason": "107.2M원 재이탈 시 알트 survivor도 빠르게 꺾일 수 있다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "2.90M원대 재시험 시 메이저 완충 역할이 약해질 수 있다."
+      "reason": "2.90M원선 붕괴 시 메이저 완충이 사라진다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "63.6% 위치 유지가 국내 리테일 risk barometer다."
+      "reason": "메이저 중 유일한 상대강도 barometer다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "45%대 재반등 여부가 알트 전반 베타 회복 판단 기준이다."
+      "reason": "14%대 위치라 솔라나 베타 회복 전까지 broad long은 금지다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "대금 1위지만 13.0% 위치·-7.58% gap라 stalled-liquidity trap 재분류 대상이다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "547억원 대금에도 13.7% 위치면 기관서사보다 매도 우위다."
+    },
+    {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "456억원 대금에도 2.5% 위치라 브랜드 attention 실패가 명확하다."
     },
     {
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "reason": "445억원대 대금에도 29.6% 위치면 오후엔 recovery 코어 명분이 없다."
-    },
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "AI 서사는 남아도 28.6% 위치라 support 실패 확인이 먼저다."
+      "reason": "411억원 대금이 남아도 8.3% 위치면 turnover trap 유지다."
     },
     {
       "symbol": "PRL",
       "market": "KRW-PRL",
-      "reason": "+21.9%라도 -15.5% gap면 exhausted blowoff 가능성이 커 추격 금지."
+      "reason": "+18.9%라도 -17.6% gap라 exhausted blowoff로 본다."
     },
     {
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "82.4% 위치와 저변동 구조는 좋지만 대금이 아직 코어 승격 전이다."
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "reason": "양수는 유지하지만 39.3% 위치라 재상승 복구 전까지 2군이다."
     },
     {
-      "symbol": "MON",
-      "market": "KRW-MON",
-      "reason": "80% 위치는 유지하나 유동성 확대 전까지는 후보 2군이다."
+      "symbol": "TRUST",
+      "market": "KRW-TRUST",
+      "reason": "98원 기준 재회복 전까지는 broken survivor로 분류한다."
     }
   ],
   "history": [
@@ -3515,6 +3515,60 @@
       "amount_delta": 3321.3741827211784,
       "cash_delta_krw": -1009697.7515472382,
       "reason": "KITE는 24h 대금 약 28.9억원, +2.01%, 90.9% 위치로 저체급 보드에서 드문 high-close survivor라 5번째 공격 슬롯으로 적합하다."
+    },
+    {
+      "timestamp": "2026-05-28T23:08+09:00",
+      "symbol": "FF",
+      "action": "SELL",
+      "price_krw": 150.0,
+      "amount_delta": -6472.421484277168,
+      "cash_delta_krw": 970863.2226415752,
+      "reason": "151원 invalidation 하향과 음전환으로 기관형 breakout 가정이 깨져 XLM reclaim 코어로 교체"
+    },
+    {
+      "timestamp": "2026-05-28T23:08+09:00",
+      "symbol": "SEI",
+      "action": "SELL",
+      "price_krw": 99.3,
+      "amount_delta": -9898.99756418861,
+      "cash_delta_krw": 982970.458123929,
+      "reason": "양수는 남았지만 39.3% 위치까지 후퇴해 HBAR 품질 continuation에 자리 양보"
+    },
+    {
+      "timestamp": "2026-05-28T23:08+09:00",
+      "symbol": "TRUST",
+      "action": "SELL",
+      "price_krw": 97.7,
+      "amount_delta": -9997.007441061764,
+      "cash_delta_krw": 976707.6269917344,
+      "reason": "97.7원으로 98원 기준 아래에 들어가 mid-cap survivor 해석이 무효화돼 XPL로 교체"
+    },
+    {
+      "timestamp": "2026-05-28T23:08+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 289.0,
+      "amount_delta": 3380.0937805735157,
+      "cash_delta_krw": -976847.1025857461,
+      "reason": "DTCC-스텔라 토큰화 재료가 업비트 최대 대금 reclaim으로 번져 이번 회차 최우선 코어로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-28T23:08+09:00",
+      "symbol": "HBAR",
+      "action": "BUY",
+      "price_krw": 130.0,
+      "amount_delta": 7514.208481428816,
+      "cash_delta_krw": -976847.1025857461,
+      "reason": "체급형 알트 중 드물게 양전환과 66.7% 위치를 함께 지켜 SEI 대체 품질 코어로 편입"
+    },
+    {
+      "timestamp": "2026-05-28T23:08+09:00",
+      "symbol": "XPL",
+      "action": "BUY",
+      "price_krw": 127.0,
+      "amount_delta": 7691.7094691791035,
+      "cash_delta_krw": -976847.1025857461,
+      "reason": "81.8% high-close와 얕은 gap 구조가 확인돼 TRUST 대체 고품질 continuation 슬롯으로 편입"
     }
   ]
 }

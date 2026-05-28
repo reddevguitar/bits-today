@@ -45,6 +45,9 @@ STABILITY_SUPPORT_MAX_DAY_HIGH_GAP = -4
 SECONDARY_CONTINUATION_MIN_TURNOVER = 2_000_000_000
 SECONDARY_CONTINUATION_MIN_RANGE_POSITION = 70
 SECONDARY_CONTINUATION_MAX_DAY_HIGH_GAP = -5
+MEGA_RECLAIM_MIN_TURNOVER = 100_000_000_000
+MEGA_RECLAIM_MIN_RANGE_POSITION = 65
+MEGA_RECLAIM_MAX_DAY_HIGH_GAP = -8
 
 
 def get_json(url: str):
@@ -194,6 +197,13 @@ secondary_continuation_alts = [
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= SECONDARY_CONTINUATION_MAX_DAY_HIGH_GAP)
 ]
 
+mega_reclaim_alts = [
+    r for r in positive
+    if r['turnover_krw_24h'] >= MEGA_RECLAIM_MIN_TURNOVER
+    and (r['range_position_pct'] is not None and r['range_position_pct'] >= MEGA_RECLAIM_MIN_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= MEGA_RECLAIM_MAX_DAY_HIGH_GAP)
+]
+
 top15_alt_leaders = leaders[:15]
 top15_alt_positive_count = sum(1 for r in top15_alt_leaders if r['change_pct_24h'] > 0)
 top15_alt_low_range_count = sum(1 for r in top15_alt_leaders if (r['range_position_pct'] is not None and r['range_position_pct'] <= 35))
@@ -256,6 +266,7 @@ snapshot = {
     'exhausted_blowoff_positive_alts': exhausted_blowoff_positive_alts[:20],
     'stability_support_alts': stability_support_alts[:20],
     'secondary_continuation_alts': secondary_continuation_alts[:20],
+    'mega_reclaim_alts': mega_reclaim_alts[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
@@ -280,4 +291,5 @@ print(json.dumps({
     'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:10],
     'stability_support_alts': stability_support_alts[:10],
     'secondary_continuation_alts': secondary_continuation_alts[:10],
+    'mega_reclaim_alts': mega_reclaim_alts[:10],
 }, ensure_ascii=False, indent=2))
