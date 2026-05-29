@@ -1,18 +1,18 @@
-- 시각: 2026-05-29 05:04 KST
-- 기준 한줄: 공포탐욕 **22(Extreme Fear)**지만 메이저 평균 위치가 **23.9% → 61.9%**로 급반등했고, weak breadth warning도 **해제**됐습니다. 이번 새벽 핵심은 **XLM 유지 + KITE 제거 + SAHARA 승격**입니다.
-- 시장 한줄 요약: 메이저는 완전 강세장은 아니지만 붕괴 모드는 벗어났고, 업비트는 **XLM 초대금 코어 + SAHARA·ZAMA·XPL 확산형 강세**로 읽힙니다.
+- 시각: 2026-05-29 11:04 KST
+- 기준 한줄: 공포탐욕 **22(Extreme Fear)**인데도 업비트 preferred 5종이 모두 양수입니다. 다만 **후보 5개 전부가 invalidation 5% 이내**라 이번 오전은 **공격 보유 유지 + 새 추격 금지**가 핵심입니다.
+- 시장 한줄 요약: 메이저 평균 위치는 **61.9%**로 붕괴장은 아니지만 BTC가 **39.0%**에 머물러, 알트는 **강한 5종 유지 / 약한 대금주 배제**가 맞습니다.
 - 공포탐욕지수: 22 (Extreme Fear, Alternative.me API)
 - BTC 참고: BTC 108.276M원대, ETH 2.968M원대, XRP 1,940원대, SOL 121.1K원대
 
 ## 🧭 업비트 알트 톱5 구매 희망 후보
 1. ✨ **XLM** — 299원, **+24.07%**, 24h 대금 약 **1950.3억원**, 위치 **73.4%**  
-   → **mega-liquidity tokenization reclaim core**
+   → **DTCC-Stellar tokenization 초대금 코어**
 2. 🏜️ **SAHARA** — 53.0원, **+11.34%**, 24h 대금 약 **184.3억원**, 위치 **98.4%**  
-   → **AI fresh breakout core**
+   → **언락 부담을 이긴 AI breakout**
 3. 🛡️ **ZAMA** — 56.1원, **+9.14%**, 24h 대금 약 **130.0억원**, 위치 **82.8%**  
-   → **privacy/FHE continuation**
+   → **FHE/TokenOps confidentiality 지속형**
 4. 🧱 **XPL** — 139원, **+11.20%**, 24h 대금 약 **69.4억원**, 위치 **84.0%**  
-   → **unlock-overhang survivor**
+   → **언락 소화형 고베타 continuation**
 5. 🪙 **HBAR** — 131원, **+3.97%**, 24h 대금 약 **187.8억원**, 위치 **68.8%**  
    → **enterprise beta support**
 
@@ -21,23 +21,23 @@
 - ◆ ETH: **-0.40%**, 위치 **70.3%**
 - 💧 XRP: **+0.73%**, 위치 **67.6%**
 - ☀️ SOL: **-0.25%**, 위치 **70.5%**
-- 해석: 메이저 평균 위치가 **61.9%**로 반등해 직전의 전면 붕괴 모드는 끝났지만, BTC는 아직 중단이라 선별 매수만 허용합니다.
+- 해석: 메이저 평균은 버티지만 **BTC 선행 확인 부재**라 알트는 **선별 5분산 유지**가 맞습니다.
 
-## 🚫 이번 회차 강제 제외
-- 🪁 **KITE**: **296원**으로 **299원 invalidation** 하향, 위치 **28.6%**까지 무너져 탈락
-- 🌍 **WLD**: 470억원대 대금에도 **-16.73%·7.5% 위치**면 attention trap
-- 🪙 **PRL**: **+19.30%**라도 **-17.33% gap**이면 exhausted move
-- 🌐 **ONDO**: 564억원대 대금에도 **-3.72%**면 아직 코어 복귀 아님
-- 🧠 **MON**: 136억원대 대금이 있어도 **16.7% 위치**면 피로가 너무 큼
+## 🚫 이번 회차 배제 / 보류
+- 🌍 **WLD**: 470억원대 대금에도 **-16.73%·7.5% 위치** → attention trap
+- 🪙 **PRL**: **+19.30%**라도 **-17.33% gap** → exhausted move
+- 🌐 **ONDO**: 564억원대 대금은 크지만 **-3.72%** → 코어 복귀 미확인
+- 🧠 **MON**: 136억원대 대금에도 **16.7% 위치** → 피로 심함
+- 🦇 **BAT**: 구조는 좋지만 **32.7억원 대금** → 체급 부족
 
 ## 🚀 공격 포트폴리오 전략
-- 현금 **0%**, **XLM + SAHARA + ZAMA + XPL + HBAR** 5종 공격 분산
-- 직전의 단독 생존 대응에서 한 단계 나아가 **초대금 1개 + fresh breakout 1개 + continuation 3개** 조합으로 확대
-- KITE처럼 invalidation을 깬 종목은 바로 교체하고, breadth가 회복한 만큼 SAHARA 같은 새 강세주는 적극 편입
+- 현금 **0%**, **XLM + SAHARA + ZAMA + XPL + HBAR** 5종 공격 분산 유지
+- 이번 오전 핵심은 **교체가 아니라 관리**입니다.
+- 전 종목이 invalidation 근처라 **새 추격보다 기존 강한 종목 유지**가 기대값이 높습니다.
 
 ## ✅ 가상 매매 실행 내용
-- SELL 🪁 **KITE** → BUY 🏜️ **SAHARA**
-- HOLD ✨ **XLM** / HOLD 🛡️ **ZAMA** / HOLD 🧱 **XPL** / HOLD 🪙 **HBAR**
+- **HOLD** ✨ XLM / 🏜️ SAHARA / 🛡️ ZAMA / 🧱 XPL / 🪙 HBAR
+- 교체 없음: **SEI는 1순위 대체 후보로만 유지**
 
 ## 📦 현재 포트폴리오 현황
 - 현금: **0원**
@@ -51,27 +51,27 @@
 - 누적 수익률: **-49.23%**
 
 ## 🧠 자기 평가
-- 직전 밤 회차의 **메이저 붕괴 판단은 맞았지만 KITE 보유는 너무 느렸습니다.**
-- 이번엔 **breadth 회복 + invalidation 붕괴**를 동시에 반영해 더 빠르게 포지션을 정리했습니다.
+- 직전 회차보다 **무리한 교체 욕심을 줄이고, 실제 stop 거리**를 더 정직하게 봤습니다.
+- 공격성은 유지했지만 **추격과 보유를 구분한 판단**은 개선됐습니다.
 
 ## 🛠️ 이번 사이클 개선점
-- 리포트 첫 줄에 **weak breadth warning 해제 여부**를 넣어 장 전환을 더 빨리 읽게 했습니다.
-- **KITE invalidation breach**를 실제 교체 트리거로 반영해 규율을 행동으로 연결했습니다.
-- 다음 회차 후보 교체용으로 **SEI를 reclaimed leader 감시 슬롯**에 따로 올렸습니다.
+- 후보 5개의 **invalidation 거리(2.1~4.5%)**를 따로 점검해 **추격 금지/관리 우선** 모드를 명확히 했습니다.
+- 뉴스 요약에 **DTCC-Stellar / Zama TokenOps / SAHARA·XPL 언락 캘린더**를 함께 넣어 재료와 가격을 한 번에 읽게 했습니다.
+- dashboard에서 **snapshot_age_hours 음수 표시 버그**를 수정했습니다.
 
 ## 🧾 판단
-- aggressive diversified continuation with strict invalidation
+- aggressive hold with tight stop discipline
 
 ## 🎯 신뢰도
-- medium-high
+- medium
 
 ## 👉 추천 행동
-- **BTC 107.8M**, **XLM 287**, **SAHARA 51.9**, **ZAMA 54.9**, **XPL 133**, **HBAR 128** 하향 시 즉시 재평가
-- **SEI**는 20.9B 대금·63% 위치 reclaimed leader라 HBAR 약화 시 첫 교체 후보
-- **WLD·PRL**은 강해 보여도 구조가 나빠 추격 금지
+- **BTC 107.8M / XLM 287 / SAHARA 51.9 / ZAMA 54.9 / XPL 133 / HBAR 128** 하향 시 즉시 재평가
+- **SEI**는 20.9B 대금·63% 위치 reclaimed leader라 HBAR 약화 시 최우선 교체 후보
+- **새 추격보다 보유 관리**가 우선입니다.
 
 ## ⚠️ 리스크 메모
-- XLM이 여전히 거래대금 리더의 대부분을 차지해 concentration risk가 큽니다.
-- SAHARA·XPL은 unlock/고베타 특성상 흔들림이 빠를 수 있습니다.
-- BTC가 39% 위치라 메이저 회복이 다시 꺾이면 알트 확산도 빠르게 식을 수 있습니다.
-- 공포탐욕 22라 매크로 심리는 아직 불안합니다.
+- 후보 5개가 모두 stop 근처라 오후 변동성 한 번에 구조가 바뀔 수 있습니다.
+- XLM leader concentration이 매우 높습니다.
+- SAHARA·XPL은 언락 이슈가 남아 있어 반락 속도가 빠를 수 있습니다.
+- WLD·PRL 같은 대금 함정은 계속 피해야 합니다.

@@ -302,7 +302,7 @@ preferred_health_summary = {
     'unknown_count': sum(1 for item in candidate_health if item.get('status') == 'unknown')
 }
 latest_ts = parse_ts(portfolio.get('last_updated')) or max((parse_ts(item.get('timestamp')) for item in history), default=None)
-snapshot_age_hours = round((latest_ts - snapshot_ts).total_seconds() / 3600, 2) if latest_ts and snapshot_ts else None
+snapshot_age_hours = max(0, round((latest_ts - snapshot_ts).total_seconds() / 3600, 2)) if latest_ts and snapshot_ts else None
 window_start = latest_ts - timedelta(hours=24) if latest_ts else None
 recent_24h_trades = []
 if window_start:

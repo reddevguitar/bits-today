@@ -5,8 +5,8 @@
   "cash_krw": 0.0,
   "realized_pnl_krw": -4666863.099070884,
   "last_valuation_krw": 5077175.432338203,
-  "last_action": "ROTATE_KITE_TO_SAHARA",
-  "last_updated": "2026-05-29T05:04+09:00",
+  "last_action": "HOLD_TIGHT_STOPS",
+  "last_updated": "2026-05-29T11:04:00+09:00",
   "trade_count": 385,
   "positions": {
     "ZAMA": {
@@ -15,7 +15,7 @@
       "avg_buy_price_krw": 55.0,
       "last_price_krw": 56.1,
       "value_krw": 1029891.706578183,
-      "thesis": "ZAMA는 24h 대금 약 130.0억원, +9.14%, 82.8% 위치로 토큰 런치 이후 FHE 프라이버시 서사가 아직 강하게 유지된다.",
+      "thesis": "ZAMA는 24h 대금 약 130.0억원, +9.14%, 82.8% 위치로 TokenOps 인수 기반 confidential distribution 서사가 계속 붙는 FHE 강세축이다.",
       "strategy": "zama aggressive continuation buy",
       "role": "privacy FHE continuation",
       "risk_limit_pct": 3,
@@ -27,7 +27,7 @@
       "avg_buy_price_krw": 289.0,
       "last_price_krw": 299.0,
       "value_krw": 1010648.0403914812,
-      "thesis": "XLM은 24h 대금 약 1950.3억원, +24.07%, 73.4% 위치로 DTCC-스텔라 토큰화 뉴스가 새벽에도 업비트 압도적 유동성 코어로 유지됐다.",
+      "thesis": "XLM은 24h 대금 약 1950.3억원, +24.07%, 73.4% 위치로 DTCC-스텔라 연결 뉴스가 붙은 업비트 최강 유동성 코어다.",
       "strategy": "xlm aggressive liquidity core",
       "role": "mega-liquidity tokenization reclaim core",
       "risk_limit_pct": 4,
@@ -39,7 +39,7 @@
       "avg_buy_price_krw": 130.0,
       "last_price_krw": 131.0,
       "value_krw": 984361.311067175,
-      "thesis": "HBAR는 24h 대금 약 187.8억원, +3.97%, 68.8% 위치로 메이저 회복 수혜를 받는 중형 체급 알트 중 구조가 가장 안정적이다.",
+      "thesis": "HBAR는 24h 대금 약 187.8억원, +3.97%, 68.8% 위치로 enterprise 보조축 중 구조가 가장 덜 깨진 체급형 continuation이다.",
       "strategy": "hbar aggressive support buy",
       "role": "enterprise beta support",
       "risk_limit_pct": 2,
@@ -51,7 +51,7 @@
       "avg_buy_price_krw": 127.0,
       "last_price_krw": 139.0,
       "value_krw": 1069147.6162158954,
-      "thesis": "XPL은 24h 대금 약 69.4억원, +11.20%, 84.0% 위치로 token unlock 우려를 이기고 고가권을 지킨 고베타 지속형이다.",
+      "thesis": "XPL은 24h 대금 약 69.4억원, +11.20%, 84.0% 위치로 언락 오버행을 소화하며 남은 고베타 지속형이다.",
       "strategy": "xpl aggressive continuation buy",
       "role": "plasma unlock-overhang survivor",
       "risk_limit_pct": 4,
@@ -63,7 +63,7 @@
       "avg_buy_price_krw": 53.0,
       "last_price_krw": 53.0,
       "value_krw": 983126.7580854688,
-      "thesis": "SAHARA는 24h 대금 약 184.3억원, +11.34%, 98.4% 위치로 AI 서사와 추세가 동시에 살아난 새벽 최상위 breakout이다.",
+      "thesis": "SAHARA는 24h 대금 약 184.3억원, +11.34%, 98.4% 위치로 언락 부담을 이기고 상단 고정에 성공한 AI 지속형이다.",
       "strategy": "sahara aggressive breakout buy",
       "role": "ai fresh breakout continuation",
       "risk_limit_pct": 3,
@@ -74,12 +74,12 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "107.8M원 하회 시 메이저 회복 해석이 약해질 수 있다."
+      "reason": "107.8M원 하회 시 회복 해석이 약해진다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "2.95M원선 유지 여부가 회복 breadth 확인 포인트다."
+      "reason": "2.95M원선 유지 여부가 breadth 확인 포인트다."
     },
     {
       "symbol": "XRP",
@@ -94,12 +94,17 @@
     {
       "symbol": "SEI",
       "market": "KRW-SEI",
-      "reason": "20.9B 대금·63% 위치 reclaimed leader라 HBAR 약화 시 즉시 승격 후보다."
+      "reason": "20.9B 대금·63% 위치 reclaimed leader로 HBAR 약화 시 최우선 승격 후보다."
     },
     {
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "reason": "299원 invalidation을 깨며 탈락. 304원 회복 전 재진입 금지."
+      "symbol": "BAT",
+      "market": "KRW-BAT",
+      "reason": "32.7억원 대금 규모는 작지만 +12.8%·80% 위치의 소형 2차 확장 후보."
+    },
+    {
+      "symbol": "ALGO",
+      "market": "KRW-ALGO",
+      "reason": "32.6억원 대금·76.9% 위치로 과열이 덜한 보조 continuation 후보다."
     },
     {
       "symbol": "WLD",
@@ -109,17 +114,12 @@
     {
       "symbol": "PRL",
       "market": "KRW-PRL",
-      "reason": "+19.3%라도 -17.3% gap와 47.7% 위치라 exhausted move에 가깝다."
+      "reason": "+19.3%라도 -17.3% gap와 47.7% 위치면 exhausted move에 가깝다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "대금은 크지만 -3.7%로 구조가 약해 core 승격 보류."
-    },
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "상위 대금 복귀는 긍정적이지만 음수 상태라 참고 신호만 본다."
+      "reason": "대금은 크지만 -3.7%로 아직 코어 복귀 신호가 부족하다."
     }
   ],
   "history": [
@@ -3587,6 +3587,15 @@
       "amount_delta": 18549.561473310732,
       "cash_delta_krw": -983126.7580854688,
       "reason": "24h 184.3억원 대금, +11.34%, 98.4% 위치의 fresh breakout이 확인돼 KITE 이탈 자리를 메우는 AI 코어로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-29T11:04:00+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 5077175.432338203,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "XLM·SAHARA·ZAMA·XPL·HBAR 5종이 모두 양수와 preferred 톱5 자격을 유지해 교체보다 보유 지속이 낫다. 다만 전 종목이 invalidation 5% 이내라 신규 추격은 금지하고 타이트한 관리 모드로 전환한다."
     }
   ]
 }
