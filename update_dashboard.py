@@ -84,6 +84,8 @@ ICONS = {
     'STORJ': '🗄️',
     'LAYER': '🧱',
     'PROVE': '🧪',
+    'PRL': '💠',
+    'RENDER': '🎨',
     'WLD': '🌍',
     '2Z': '🧊',
     'ATH': '☁️',

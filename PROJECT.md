@@ -42,6 +42,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - Keep majors visible as reference signals, but not as alt picks
 - Use community/news/search inputs when they materially help
 - Prefer fresh, comparative judgment over static watchlists
+- When top-turnover leaders look trap-like, widen the scan to second-tier high-range breakouts instead of anchoring on size alone
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:

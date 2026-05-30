@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4276998.19854979,
-  "last_valuation_krw": 5313230.7179110395,
-  "last_action": "ROTATE_AGGRESSIVE",
-  "last_updated": "2026-05-30T23:30:00+09:00",
-  "trade_count": 395,
+  "realized_pnl_krw": -4345411.407878455,
+  "last_valuation_krw": 5385098.044467962,
+  "last_action": "ROTATE_ON_INVALIDATION",
+  "last_updated": "2026-05-31T05:30:00+09:00",
+  "trade_count": 399,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
       "amount": 2213.846132462933,
       "avg_buy_price_krw": 480.0,
-      "last_price_krw": 480.0,
-      "value_krw": 1062646.1435822078,
-      "thesis": "WLD는 24h 대금 약 384.2억원, +11.89%, 85.3% 위치로 Sam Altman 브랜드 attention이 다시 실제 고위치 구조로 연결된 이번 회차 최상위 continuation이다.",
-      "strategy": "wld aggressive attention continuation buy",
-      "role": "public-figure attention continuation",
+      "last_price_krw": 552.0,
+      "value_krw": 1222043.065119539,
+      "thesis": "WLD는 24h 대금 약 705.7억원, +28.67%, 97.7% 위치로 Sam Altman/World ID attention이 이번 새벽 실거래 강도로 번진 최상위 breakout 코어다.",
+      "strategy": "wld high-range attention breakout hold",
+      "role": "public-figure attention breakout",
       "risk_limit_pct": 4,
-      "profit_take_pct": 12
+      "profit_take_pct": 18
     },
     "VIRTUAL": {
       "market": "KRW-VIRTUAL",
       "amount": 983.9316144279702,
       "avg_buy_price_krw": 1080.0,
-      "last_price_krw": 1080.0,
-      "value_krw": 1062646.1435822078,
-      "thesis": "VIRTUAL은 24h 대금 약 119.1억원, +2.37%, 95.1% 위치로 AI-agent 테마 중 가장 깔끔한 fresh breakout이다.",
-      "strategy": "virtual aggressive breakout buy",
-      "role": "ai-agent fresh breakout",
+      "last_price_krw": 1076.0,
+      "value_krw": 1058710.4171244958,
+      "thesis": "VIRTUAL은 24h 대금 약 87.3억원, +1.99%, 72.9% 위치로 AI-agent 테마 중 여전히 가장 깔끔한 fresh breakout 지속형이다.",
+      "strategy": "virtual disciplined breakout hold",
+      "role": "ai-agent continuation",
       "risk_limit_pct": 3,
-      "profit_take_pct": 10
+      "profit_take_pct": 9
     },
     "XPL": {
       "market": "KRW-XPL",
       "amount": 7590.329597015771,
       "avg_buy_price_krw": 140.0,
-      "last_price_krw": 140.0,
-      "value_krw": 1062646.1435822078,
-      "thesis": "XPL은 24h 대금 약 59.6억원, +6.06%, 90.0% 위치로 언락 오버행을 이겨낸 supply-soak continuation이다.",
-      "strategy": "xpl aggressive continuation buy",
+      "last_price_krw": 138.0,
+      "value_krw": 1047465.4843881764,
+      "thesis": "XPL은 24h 대금 약 50.0억원, +4.55%, 63.6% 위치로 언락 오버행을 소화하면서 아직 붕괴하지 않은 continuation 슬롯이다.",
+      "strategy": "xpl unlock-soak continuation hold",
       "role": "unlock-soak continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
-    },
-    "INJ": {
-      "market": "KRW-INJ",
-      "amount": 104.28323293250322,
-      "avg_buy_price_krw": 10190.0,
-      "last_price_krw": 10190.0,
-      "value_krw": 1062646.1435822078,
-      "thesis": "INJ는 24h 대금 약 329.4억원, +6.87%, 66.3% 위치로 최근 Injective 생태계 호재와 함께 살아있는 품질형 모멘텀 축이다.",
-      "strategy": "inj quality momentum buy",
-      "role": "quality derivative infra momentum",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 11
-    },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 299.4212858783341,
-      "avg_buy_price_krw": 3549.0,
-      "last_price_krw": 3549.0,
-      "value_krw": 1062646.1435822078,
-      "thesis": "NEAR는 24h 대금 약 406.5억원, +0.60%, 75.5% 위치로 메이저 제외 체급 알트 중 가장 읽기 쉬운 안정적 continuation 코어다.",
-      "strategy": "near large-cap continuation buy",
-      "role": "large-cap AI/L1 continuation",
       "risk_limit_pct": 3,
       "profit_take_pct": 8
+    },
+    "PRL": {
+      "market": "KRW-PRL",
+      "amount": 3394.1898974187316,
+      "avg_buy_price_krw": 303.0,
+      "last_price_krw": 303.0,
+      "value_krw": 1028439.5389178756,
+      "thesis": "PRL은 24h 대금 약 119.4억원, +12.64%, 79.3% 위치로 top-turnover 바깥에서 포착된 가장 공격적인 second-tier breakout이다.",
+      "strategy": "prl aggressive local breakout buy",
+      "role": "second-tier retail breakout",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 14
+    },
+    "RENDER": {
+      "market": "KRW-RENDER",
+      "amount": 334.12590608118114,
+      "avg_buy_price_krw": 3078.0,
+      "last_price_krw": 3078.0,
+      "value_krw": 1028439.5389178755,
+      "thesis": "RENDER는 24h 대금 약 54.9억원, +5.63%, 84.9% 위치로 AI compute 축에서 가장 품질 좋은 고위치 continuation이다.",
+      "strategy": "render quality ai-compute continuation buy",
+      "role": "ai-compute quality continuation",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.0M원 상향 유지 시 알트 공격성 유지에 우호적이다."
+      "reason": "109.0M원 하향 이탈이면 알트 aggressive bias를 즉시 낮춰야 한다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.0M원대 안착 여부가 breadth 지속 확인 포인트다."
+      "reason": "3.0M원 위 유지 여부가 메이저 체력 확인 포인트다."
     },
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "대금은 크지만 43.3% 위치라 메이저 중 상대강도 확인용이다."
+      "reason": "상승은 유지하지만 메이저 중 상대강도는 중간 수준이라 breadth 과열 여부 판별용이다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "66.7% 위치 유지 시 중형 알트 follow-through에 긍정적이다."
+      "reason": "77.8% 위치 유지 시 중형 알트 follow-through에 우호적이다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "거래대금 1위라도 24.2% 위치면 leader trap 재발 가능성이 크다."
+      "symbol": "INJ",
+      "market": "KRW-INJ",
+      "reason": "오늘 교체된 품질 슬롯이라 10,100원대 회복 여부를 재확인할 가치가 있다."
     },
     {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "2104억원대 초대금이지만 46.8% 위치·-17.47% gap라 pin-high 실패 확인이 먼저다."
-    },
-    {
-      "symbol": "VTHO",
-      "market": "KRW-VTHO",
-      "reason": "+26% 급등에도 -12.16% gap가 커 늦은 추격보다 재안착 확인이 필요하다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "3430원 invalidation 하향 뒤 reclaim이 나오는지 보는 복귀 감시 대상이다."
     },
     {
       "symbol": "SEI",
       "market": "KRW-SEI",
-      "reason": "109.9억원·72.2% 위치로 5번째 슬롯 교체 시 가장 무난한 대안이다."
+      "reason": "거래대금 96.1억원과 플러스 구조를 유지해 PRL 약화 시 대체 1순위다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "156.9억원·72.1% 위치의 체급형 보조축으로 breadth 점검용이다."
+      "reason": "체급형 안정축으로 breadth가 더 넓어질 때 승격하기 좋다."
     },
     {
-      "symbol": "RENDER",
-      "market": "KRW-RENDER",
-      "reason": "52.7억원·87.7% 위치의 AI compute 확장 후보라 대금 증가 시 즉시 승격 가능하다."
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "reason": "3.85%·77.8% 위치로 second-tier continuation 후보군이다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "거래대금 1위여도 저위치면 trap이라는 반례 확인용이다."
     }
   ],
   "history": [
@@ -3686,6 +3686,42 @@
       "amount_delta": 299.4212858783341,
       "cash_delta_krw": -1062646.1435822078,
       "reason": "NEAR는 24h 대금 약 406.5억원, +0.60%, 75.5% 위치로 메이저 제외 체급 알트 중 가장 읽기 쉬운 안정적 continuation 코어다."
+    },
+    {
+      "timestamp": "2026-05-31T05:30:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3425.0,
+      "amount_delta": -299.4212858783341,
+      "cash_delta_krw": 1025517.9041332944,
+      "reason": "3430원 invalidation을 실제 하향했고 32.8% 위치까지 내려가 안정적 continuation 코어 가정이 무효화돼 PRL·RENDER 쪽으로 회전"
+    },
+    {
+      "timestamp": "2026-05-31T05:30:00+09:00",
+      "symbol": "INJ",
+      "action": "SELL",
+      "price_krw": 9890.0,
+      "amount_delta": -104.28323293250322,
+      "cash_delta_krw": 1031361.1737024569,
+      "reason": "가격은 아직 stop 위지만 42.2% 위치·-6.8% gap로 약해졌고, 이번 새벽엔 PRL·RENDER의 고위치 지속이 더 우위라 교체"
+    },
+    {
+      "timestamp": "2026-05-31T05:30:00+09:00",
+      "symbol": "PRL",
+      "action": "BUY",
+      "price_krw": 303.0,
+      "amount_delta": 3394.1898974187316,
+      "cash_delta_krw": -1028439.5389178756,
+      "reason": "24h 대금 약 119.4억원, +12.64%, 79.3% 위치로 업비트 second-tier breakout 중 가장 눈에 띄는 고베타 로컬 브레이크아웃이라 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-31T05:30:00+09:00",
+      "symbol": "RENDER",
+      "action": "BUY",
+      "price_krw": 3078.0,
+      "amount_delta": 334.12590608118114,
+      "cash_delta_krw": -1028439.5389178756,
+      "reason": "24h 대금 약 54.9억원, +5.63%, 84.9% 위치로 AI compute 체급주 중 구조가 가장 깔끔해 새벽 품질 슬롯으로 신규 편입"
     }
   ]
 }
