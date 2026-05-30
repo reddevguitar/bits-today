@@ -1,146 +1,150 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive hold with tight stop discipline",
-  "confidence": "medium",
+  "judgment": "aggressive rotation into high-range continuation alts",
+  "confidence": "medium-high",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-05-29 11:04 KST",
-  "market_status": "메이저 평균 위치는 **61.9%**로 붕괴장은 아니지만 BTC가 **39.0%**에 머물러, 알트는 **강한 5종 유지 / 약한 대금주 배제**가 맞습니다.",
-  "fear_greed": "22 (Extreme Fear, Alternative.me API)",
-  "btc_snapshot": "BTC 108.276M원대, ETH 2.968M원대, XRP 1,940원대, SOL 121.1K원대",
+  "updated_at": "2026-05-30 23:30 KST",
+  "market_status": "메이저 평균 위치는 **76.5%**로 직전보다 강해졌고, 업비트 알트 breadth도 개선됐습니다. 따라서 **all-cash보다 고위치 continuation 5분산**이 더 낫습니다.",
+  "fear_greed": "23 (Extreme Fear, Alternative.me API)",
+  "btc_snapshot": "BTC 109.681M원대, ETH 3.008M원대, XRP 1,991원대, SOL 122.5K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-4,666,863 KRW",
-  "last_valuation_krw": "5,077,175 KRW",
+  "realized_pnl_krw": "-4,276,998 KRW",
+  "last_valuation_krw": "5,313,231 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -49.23,
-  "last_action": "HOLD_TIGHT_STOPS",
-  "trade_count": 385,
-  "last_updated": "2026-05-29T11:04:00+09:00",
+  "return_pct": -46.87,
+  "last_action": "ROTATE_AGGRESSIVE",
+  "trade_count": 395,
+  "last_updated": "2026-05-30T23:30:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 19,
     "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 3,
-    "recent_24h_buy_count": 9,
-    "recent_24h_sell_count": 9,
-    "recent_24h_replacement_count": 9,
-    "portfolio_churn_24h_pct": 180.0
+    "recent_trade_actions_24h": 10,
+    "recent_24h_buy_count": 5,
+    "recent_24h_sell_count": 5,
+    "recent_24h_replacement_count": 5,
+    "portfolio_churn_24h_pct": 100.0
   },
   "summary": [
-    "₿ BTC: **-1.16%**, 위치 **39.0%**",
-    "◆ ETH: **-0.40%**, 위치 **70.3%**",
-    "💧 XRP: **+0.73%**, 위치 **67.6%**",
-    "☀️ SOL: **-0.25%**, 위치 **70.5%**",
-    "해석: 메이저 평균은 버티지만 **BTC 선행 확인 부재**라 알트는 **선별 5분산 유지**가 맞습니다.",
-    "🌍 **WLD**: 470억원대 대금에도 **-16.73%·7.5% 위치** → attention trap",
-    "🪙 **PRL**: **+19.30%**라도 **-17.33% gap** → exhausted move",
-    "🌐 **ONDO**: 564억원대 대금은 크지만 **-3.72%** → 코어 복귀 미확인",
-    "🧠 **MON**: 136억원대 대금에도 **16.7% 위치** → 피로 심함",
-    "🦇 **BAT**: 구조는 좋지만 **32.7억원 대금** → 체급 부족",
-    "현금 **0%**, **XLM + SAHARA + ZAMA + XPL + HBAR** 5종 공격 분산 유지",
-    "이번 오전 핵심은 **교체가 아니라 관리**입니다.",
-    "전 종목이 invalidation 근처라 **새 추격보다 기존 강한 종목 유지**가 기대값이 높습니다.",
-    "**HOLD** ✨ XLM / 🏜️ SAHARA / 🛡️ ZAMA / 🧱 XPL / 🪙 HBAR",
-    "교체 없음: **SEI는 1순위 대체 후보로만 유지**",
+    "₿ BTC: **+0.82%**, 위치 **98.5%**",
+    "◆ ETH: **+0.80%**, 위치 **97.5%**",
+    "💧 XRP: **+1.07%**, 위치 **43.3%**",
+    "☀️ SOL: **+0.82%**, 위치 **66.7%**",
+    "해석: BTC·ETH가 상단에 붙어 있어 알트 추세 지속엔 우호적이지만, **XRP 위치가 낮아 완전한 광풍장은 아님**.",
+    "✨ **XLM**: **3878억원대 최대 대금**에도 **-3.12%·24.2% 위치** → turnover trap",
+    "🪪 **ID**: **2104억원대 초대금**에도 **46.8% 위치·-17.47% gap** → pin-high 실패",
+    "🧪 **VTHO**: **+26.02%**라도 **-12.16% gap** → late blowoff 우려",
+    "🪙 **HBAR**: 653억원대 대금이어도 **27.3% 위치** → support 붕괴",
+    "🏜️ **SAHARA**: 언락 이후 **8.7% 위치** → AI 코어 복귀 미확인",
+    "현금 **0%**, **WLD + VIRTUAL + XPL + INJ + NEAR** 5종 균등 분산",
+    "이번 밤 핵심은 **보유 유지보다 강한 구조로 갈아타기**입니다.",
+    "직전 preferred에서 실제로 깨진 종목은 미련 없이 정리했습니다.",
+    "**SELL** ✨ XLM / 🏜️ SAHARA / 🛡️ ZAMA / 🪙 HBAR",
+    "**REBALANCE 유지** 🧱 XPL",
+    "**BUY** 🌍 WLD / 🤖 VIRTUAL / 💉 INJ / 🌉 NEAR",
     "현금: **0원**",
-    "✨ XLM: **3380.094개** @ 289원 → 현재 299원",
-    "🏜️ SAHARA: **18549.561개** @ 53.0원",
-    "🛡️ ZAMA: **18358.141개** @ 55원 → 현재 56.1원",
-    "🧱 XPL: **7691.709개** @ 127원 → 현재 139원",
-    "🪙 HBAR: **7514.208개** @ 130원 → 현재 131원",
-    "총 평가액: **5,077,175원**",
-    "실현손익: **-4,666,863원**",
-    "누적 수익률: **-49.23%**",
-    "직전 회차보다 **무리한 교체 욕심을 줄이고, 실제 stop 거리**를 더 정직하게 봤습니다.",
-    "공격성은 유지했지만 **추격과 보유를 구분한 판단**은 개선됐습니다.",
-    "후보 5개의 **invalidation 거리(2.1~4.5%)**를 따로 점검해 **추격 금지/관리 우선** 모드를 명확히 했습니다.",
-    "뉴스 요약에 **DTCC-Stellar / Zama TokenOps / SAHARA·XPL 언락 캘린더**를 함께 넣어 재료와 가격을 한 번에 읽게 했습니다.",
-    "dashboard에서 **snapshot_age_hours 음수 표시 버그**를 수정했습니다.",
-    "aggressive hold with tight stop discipline",
-    "medium",
-    "**BTC 107.8M / XLM 287 / SAHARA 51.9 / ZAMA 54.9 / XPL 133 / HBAR 128** 하향 시 즉시 재평가",
-    "**SEI**는 20.9B 대금·63% 위치 reclaimed leader라 HBAR 약화 시 최우선 교체 후보",
-    "**새 추격보다 보유 관리**가 우선입니다.",
-    "후보 5개가 모두 stop 근처라 오후 변동성 한 번에 구조가 바뀔 수 있습니다.",
-    "XLM leader concentration이 매우 높습니다.",
-    "SAHARA·XPL은 언락 이슈가 남아 있어 반락 속도가 빠를 수 있습니다.",
-    "WLD·PRL 같은 대금 함정은 계속 피해야 합니다."
+    "🌍 WLD: **2213.846개** @ 480원",
+    "🤖 VIRTUAL: **983.932개** @ 1,080원",
+    "🧱 XPL: **7590.330개** @ 140원",
+    "💉 INJ: **104.283개** @ 10,190원",
+    "🌉 NEAR: **299.421개** @ 3,549원",
+    "총 평가액: **5,313,231원**",
+    "실현손익: **-4,276,998원**",
+    "누적 수익률: **-46.87%**",
+    "이번엔 **기존 강세 기억**보다 **현재 구조**를 더 우선했습니다.",
+    "특히 XLM 같은 초대금 리더도 실제 trap이면 버려야 한다는 점을 제대로 반영했습니다.",
+    "**turnover trap / fading leader / high-range continuation** 3분류로 후보 판단을 단순화했습니다.",
+    "이전 preferred 5종이 깨졌을 때 **즉시 교체하는 stronger-rotation 규율**을 적용했습니다.",
+    "보고서 배제 섹션을 **한 줄 라벨링 중심**으로 줄여 스캔 속도를 높였습니다.",
+    "aggressive rotation into high-range continuation alts",
+    "medium-high",
+    "**BTC 109.0M / WLD 462 / VIRTUAL 1050 / XPL 135 / INJ 9850 / NEAR 3430** 하향 시 즉시 재평가",
+    "**SEI / SUI / RENDER**는 후속 승격 후보로 유지",
+    "**대금 1위 추격보다 고위치 유지 확인**이 우선입니다.",
+    "WLD는 headline·public figure attention reversal에 민감합니다.",
+    "XPL은 언락 이슈가 아직 끝났다고 단정할 수 없습니다.",
+    "ID·VTHO·XLM처럼 **초대금 함정**이 같이 돌고 있어 과열 추격은 여전히 위험합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-05-29T11:04:00+09:00",
-      "symbol": "PORTFOLIO",
-      "action": "HOLD",
-      "price_krw": 5077175.432338203,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "XLM·SAHARA·ZAMA·XPL·HBAR 5종이 모두 양수와 preferred 톱5 자격을 유지해 교체보다 보유 지속이 낫다. 다만 전 종목이 invalidation 5% 이내라 신규 추격은 금지하고 타이트한 관리 모드로 전환한다."
-    },
-    {
-      "timestamp": "2026-05-29T05:04+09:00",
-      "symbol": "SAHARA",
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 53.0,
-      "amount_delta": 18549.561473310732,
-      "cash_delta_krw": -983126.7580854688,
-      "reason": "24h 184.3억원 대금, +11.34%, 98.4% 위치의 fresh breakout이 확인돼 KITE 이탈 자리를 메우는 AI 코어로 신규 편입"
+      "price_krw": 3549.0,
+      "amount_delta": 299.4212858783341,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "NEAR는 24h 대금 약 406.5억원, +0.60%, 75.5% 위치로 메이저 제외 체급 알트 중 가장 읽기 쉬운 안정적 continuation 코어다."
     },
     {
-      "timestamp": "2026-05-29T05:04+09:00",
-      "symbol": "KITE",
-      "action": "SELL",
-      "price_krw": 296.0,
-      "amount_delta": -3321.3741827211784,
-      "cash_delta_krw": 983126.7580854688,
-      "reason": "299원 invalidation을 실제 하향했고 28.6% 위치까지 밀려 저체급 survivor 가정이 무효화돼 SAHARA로 교체"
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "INJ",
+      "action": "BUY",
+      "price_krw": 10190.0,
+      "amount_delta": 104.28323293250322,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "INJ는 24h 대금 약 329.4억원, +6.87%, 66.3% 위치로 최근 Injective 생태계 호재와 함께 살아있는 품질형 모멘텀 축이다."
     },
     {
-      "timestamp": "2026-05-28T23:08+09:00",
+      "timestamp": "2026-05-30T23:30:00+09:00",
       "symbol": "XPL",
       "action": "BUY",
-      "price_krw": 127.0,
-      "amount_delta": 7691.7094691791035,
-      "cash_delta_krw": -976847.1025857461,
-      "reason": "81.8% high-close와 얕은 gap 구조가 확인돼 TRUST 대체 고품질 continuation 슬롯으로 편입"
+      "price_krw": 140.0,
+      "amount_delta": 7590.329597015771,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "XPL은 24h 대금 약 59.6억원, +6.06%, 90.0% 위치로 언락 오버행을 이겨낸 supply-soak continuation이다."
     },
     {
-      "timestamp": "2026-05-28T23:08+09:00",
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 1080.0,
+      "amount_delta": 983.9316144279702,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "VIRTUAL은 24h 대금 약 119.1억원, +2.37%, 95.1% 위치로 AI-agent 테마 중 가장 깔끔한 fresh breakout이다."
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 480.0,
+      "amount_delta": 2213.846132462933,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "WLD는 24h 대금 약 384.2억원, +11.89%, 85.3% 위치로 Sam Altman 브랜드 attention이 다시 실제 고위치 구조로 연결된 이번 회차 최상위 continuation이다."
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 48.8,
+      "amount_delta": -18549.561473310732,
+      "cash_delta_krw": 905218.5998975637,
+      "reason": "48.8원·8.7% 위치로 언락 이후 상단 유지에 실패해 이번 회차 톱5 우선순위에서 탈락"
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 140.0,
+      "amount_delta": -7691.7094691791035,
+      "cash_delta_krw": 1076839.3256850746,
+      "reason": "기존 보유는 유지하되 새 바스켓 5종 균등 공격 분산을 맞추기 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
       "symbol": "HBAR",
-      "action": "BUY",
-      "price_krw": 130.0,
-      "amount_delta": 7514.208481428816,
-      "cash_delta_krw": -976847.1025857461,
-      "reason": "체급형 알트 중 드물게 양전환과 66.7% 위치를 함께 지켜 SEI 대체 품질 코어로 편입"
-    },
-    {
-      "timestamp": "2026-05-28T23:08+09:00",
-      "symbol": "XLM",
-      "action": "BUY",
-      "price_krw": 289.0,
-      "amount_delta": 3380.0937805735157,
-      "cash_delta_krw": -976847.1025857461,
-      "reason": "DTCC-스텔라 토큰화 재료가 업비트 최대 대금 reclaim으로 번져 이번 회차 최우선 코어로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-28T23:08+09:00",
-      "symbol": "TRUST",
       "action": "SELL",
-      "price_krw": 97.7,
-      "amount_delta": -9997.007441061764,
-      "cash_delta_krw": 976707.6269917344,
-      "reason": "97.7원으로 98원 기준 아래에 들어가 mid-cap survivor 해석이 무효화돼 XPL로 교체"
-    },
-    {
-      "timestamp": "2026-05-28T23:08+09:00",
-      "symbol": "SEI",
-      "action": "SELL",
-      "price_krw": 99.3,
-      "amount_delta": -9898.99756418861,
-      "cash_delta_krw": 982970.458123929,
-      "reason": "양수는 남았지만 39.3% 위치까지 후퇴해 HBAR 품질 continuation에 자리 양보"
+      "price_krw": 148.0,
+      "amount_delta": -7514.208481428816,
+      "cash_delta_krw": 1112102.8552514648,
+      "reason": "0%·27.3% 위치로 enterprise support 가정이 무너져 더 강한 WLD·INJ·NEAR 쪽으로 회전"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-05-30-2330.md",
+      "title": "2026-05-30-2330"
+    },
     {
       "file": "2026-05-29-1104.md",
       "title": "2026-05-29-1104"
@@ -168,208 +172,86 @@
     {
       "file": "2026-05-26-2308.md",
       "title": "2026-05-26-2308"
-    },
-    {
-      "file": "2026-05-26-1112.md",
-      "title": "2026-05-26-1112"
     }
   ],
   "positions": [
     {
-      "icon": "🛡️",
-      "symbol": "ZAMA",
-      "market": "KRW-ZAMA",
-      "amount": 18358.140937222513,
-      "avg_buy_price_krw": "55 KRW",
-      "last_price_krw": "56 KRW",
-      "thesis": "ZAMA는 24h 대금 약 130.0억원, +9.14%, 82.8% 위치로 TokenOps 인수 기반 confidential distribution 서사가 계속 붙는 FHE 강세축이다.",
-      "strategy": "zama aggressive continuation buy",
-      "role": "privacy FHE continuation",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 10,
-      "pnl_krw": "20,194 KRW",
-      "pnl_pct": 2.0
-    },
-    {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "amount": 3380.0937805735157,
-      "avg_buy_price_krw": "289 KRW",
-      "last_price_krw": "299 KRW",
-      "thesis": "XLM은 24h 대금 약 1950.3억원, +24.07%, 73.4% 위치로 DTCC-스텔라 연결 뉴스가 붙은 업비트 최강 유동성 코어다.",
-      "strategy": "xlm aggressive liquidity core",
-      "role": "mega-liquidity tokenization reclaim core",
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "amount": 2213.846132462933,
+      "avg_buy_price_krw": "480 KRW",
+      "last_price_krw": "480 KRW",
+      "thesis": "WLD는 24h 대금 약 384.2억원, +11.89%, 85.3% 위치로 Sam Altman 브랜드 attention이 다시 실제 고위치 구조로 연결된 이번 회차 최상위 continuation이다.",
+      "strategy": "wld aggressive attention continuation buy",
+      "role": "public-figure attention continuation",
       "risk_limit_pct": 4,
       "profit_take_pct": 12,
-      "pnl_krw": "33,801 KRW",
-      "pnl_pct": 3.46
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🪙",
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "amount": 7514.208481428816,
-      "avg_buy_price_krw": "130 KRW",
-      "last_price_krw": "131 KRW",
-      "thesis": "HBAR는 24h 대금 약 187.8억원, +3.97%, 68.8% 위치로 enterprise 보조축 중 구조가 가장 덜 깨진 체급형 continuation이다.",
-      "strategy": "hbar aggressive support buy",
-      "role": "enterprise beta support",
-      "risk_limit_pct": 2,
-      "profit_take_pct": 8,
-      "pnl_krw": "7,514 KRW",
-      "pnl_pct": 0.77
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "amount": 983.9316144279702,
+      "avg_buy_price_krw": "1,080 KRW",
+      "last_price_krw": "1,080 KRW",
+      "thesis": "VIRTUAL은 24h 대금 약 119.1억원, +2.37%, 95.1% 위치로 AI-agent 테마 중 가장 깔끔한 fresh breakout이다.",
+      "strategy": "virtual aggressive breakout buy",
+      "role": "ai-agent fresh breakout",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
       "icon": "🪙",
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "amount": 7691.7094691791035,
-      "avg_buy_price_krw": "127 KRW",
-      "last_price_krw": "139 KRW",
-      "thesis": "XPL은 24h 대금 약 69.4억원, +11.20%, 84.0% 위치로 언락 오버행을 소화하며 남은 고베타 지속형이다.",
+      "amount": 7590.329597015771,
+      "avg_buy_price_krw": "140 KRW",
+      "last_price_krw": "140 KRW",
+      "thesis": "XPL은 24h 대금 약 59.6억원, +6.06%, 90.0% 위치로 언락 오버행을 이겨낸 supply-soak continuation이다.",
       "strategy": "xpl aggressive continuation buy",
-      "role": "plasma unlock-overhang survivor",
+      "role": "unlock-soak continuation",
       "risk_limit_pct": 4,
-      "profit_take_pct": 11,
-      "pnl_krw": "92,301 KRW",
-      "pnl_pct": 9.45
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "amount": 18549.561473310732,
-      "avg_buy_price_krw": "53 KRW",
-      "last_price_krw": "53 KRW",
-      "thesis": "SAHARA는 24h 대금 약 184.3억원, +11.34%, 98.4% 위치로 언락 부담을 이기고 상단 고정에 성공한 AI 지속형이다.",
-      "strategy": "sahara aggressive breakout buy",
-      "role": "ai fresh breakout continuation",
+      "icon": "💉",
+      "symbol": "INJ",
+      "market": "KRW-INJ",
+      "amount": 104.28323293250322,
+      "avg_buy_price_krw": "10,190 KRW",
+      "last_price_krw": "10,190 KRW",
+      "thesis": "INJ는 24h 대금 약 329.4억원, +6.87%, 66.3% 위치로 최근 Injective 생태계 호재와 함께 살아있는 품질형 모멘텀 축이다.",
+      "strategy": "inj quality momentum buy",
+      "role": "quality derivative infra momentum",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "amount": 299.4212858783341,
+      "avg_buy_price_krw": "3,549 KRW",
+      "last_price_krw": "3,549 KRW",
+      "thesis": "NEAR는 24h 대금 약 406.5억원, +0.60%, 75.5% 위치로 메이저 제외 체급 알트 중 가장 읽기 쉬운 안정적 continuation 코어다.",
+      "strategy": "near large-cap continuation buy",
+      "role": "large-cap AI/L1 continuation",
       "risk_limit_pct": 3,
-      "profit_take_pct": 10,
+      "profit_take_pct": 8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "ARKM": [
-      {
-        "timestamp": "2026-05-27T05:09:00+09:00",
-        "price_krw": 234.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 222.0,
-        "action": "SELL"
-      }
-    ],
-    "WLD": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 513.0,
-        "action": "SELL"
-      }
-    ],
-    "ATH": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 9.71,
-        "action": "SELL"
-      }
-    ],
-    "SEI": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 103.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-28T17:04:00+09:00",
-        "price_krw": 102.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-28T23:08+09:00",
-        "price_krw": 99.3,
-        "action": "SELL"
-      }
-    ],
-    "KITE": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 303.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-28T17:04:00+09:00",
-        "price_krw": 304.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-29T05:04+09:00",
-        "price_krw": 296.0,
-        "action": "SELL"
-      }
-    ],
-    "NEAR": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 3904.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-28T17:04:00+09:00",
-        "price_krw": 3550.0,
-        "action": "SELL"
-      }
-    ],
-    "XLM": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 243.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-28T17:04:00+09:00",
-        "price_krw": 244.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-28T23:08+09:00",
-        "price_krw": 289.0,
-        "action": "BUY"
-      }
-    ],
-    "ICP": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 4353.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-28T17:04:00+09:00",
-        "price_krw": 3980.0,
-        "action": "SELL"
-      }
-    ],
-    "SAHARA": [
-      {
-        "timestamp": "2026-05-28T05:04:00+09:00",
-        "price_krw": 48.7,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-05-28T17:04:00+09:00",
-        "price_krw": 47.7,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-05-29T05:04+09:00",
-        "price_krw": 53.0,
-        "action": "BUY"
-      }
-    ],
     "JTO": [
       {
         "timestamp": "2026-05-28T05:04:00+09:00",
@@ -379,6 +261,59 @@
       {
         "timestamp": "2026-05-28T17:04:00+09:00",
         "price_krw": 767.0,
+        "action": "SELL"
+      }
+    ],
+    "NEAR": [
+      {
+        "timestamp": "2026-05-28T17:04:00+09:00",
+        "price_krw": 3550.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 3549.0,
+        "action": "BUY"
+      }
+    ],
+    "XLM": [
+      {
+        "timestamp": "2026-05-28T17:04:00+09:00",
+        "price_krw": 244.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-28T23:08+09:00",
+        "price_krw": 289.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 373.0,
+        "action": "SELL"
+      }
+    ],
+    "ICP": [
+      {
+        "timestamp": "2026-05-28T17:04:00+09:00",
+        "price_krw": 3980.0,
+        "action": "SELL"
+      }
+    ],
+    "SAHARA": [
+      {
+        "timestamp": "2026-05-28T17:04:00+09:00",
+        "price_krw": 47.7,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-29T05:04+09:00",
+        "price_krw": 53.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 48.8,
         "action": "SELL"
       }
     ],
@@ -394,11 +329,28 @@
         "action": "SELL"
       }
     ],
+    "SEI": [
+      {
+        "timestamp": "2026-05-28T17:04:00+09:00",
+        "price_krw": 102.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-28T23:08+09:00",
+        "price_krw": 99.3,
+        "action": "SELL"
+      }
+    ],
     "ZAMA": [
       {
         "timestamp": "2026-05-28T17:04:00+09:00",
         "price_krw": 55.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 52.2,
+        "action": "SELL"
       }
     ],
     "TRUST": [
@@ -413,17 +365,44 @@
         "action": "SELL"
       }
     ],
+    "KITE": [
+      {
+        "timestamp": "2026-05-28T17:04:00+09:00",
+        "price_krw": 304.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-29T05:04+09:00",
+        "price_krw": 296.0,
+        "action": "SELL"
+      }
+    ],
     "HBAR": [
       {
         "timestamp": "2026-05-28T23:08+09:00",
         "price_krw": 130.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 148.0,
+        "action": "SELL"
       }
     ],
     "XPL": [
       {
         "timestamp": "2026-05-28T23:08+09:00",
         "price_krw": 127.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 140.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 140.0,
         "action": "BUY"
       }
     ],
@@ -433,94 +412,115 @@
         "price_krw": 5077175.432338203,
         "action": "HOLD"
       }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 480.0,
+        "action": "BUY"
+      }
+    ],
+    "VIRTUAL": [
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 1080.0,
+        "action": "BUY"
+      }
+    ],
+    "INJ": [
+      {
+        "timestamp": "2026-05-30T23:30:00+09:00",
+        "price_krw": 10190.0,
+        "action": "BUY"
+      }
     ]
   },
-  "latest_report_file": "2026-05-29-1104.md",
+  "latest_report_file": "2026-05-30-2330.md",
   "preferred_buy_candidates": [
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "price_krw": 299.0,
-      "change_pct_24h": 24.06639004,
-      "turnover_krw_24h": 195032845306.93228,
-      "reason": "XLM은 24h 대금 약 1950.3억원, +24.07%, 73.4% 위치로 DTCC-스텔라 연결 뉴스가 붙은 업비트 최강 유동성 코어다.",
-      "score": 75.56,
-      "community": "국내 보드 기준 XLM 단독 질주가 아니라 SAHARA·ZAMA·XPL·SEI로 확산됐지만, 유동성 중심축은 여전히 XLM이다.",
-      "risk": "287원 하회 시 초대금 reclaim 피로가 빨라질 수 있다.",
-      "allocation_krw": 1015435.0864676407,
-      "role": "mega-liquidity tokenization reclaim core",
-      "invalidated_if": "287원 하회 시 초대금 reclaim 피로 가속",
-      "range_position_pct": 73.4,
-      "day_high_gap_pct": -6.56
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "price_krw": 480.0,
+      "change_pct_24h": 11.88811189,
+      "turnover_krw_24h": 38420517947.94425,
+      "reason": "WLD는 24h 대금 약 384.2억원, +11.89%, 85.3% 위치로 Sam Altman 브랜드 attention이 다시 실제 고위치 구조로 연결된 이번 회차 최상위 continuation이다.",
+      "score": 55.28,
+      "community": "업비트 리테일은 Sam Altman 연상도와 강한 캔들에 다시 반응하고 있지만, 이번엔 85%대 고위치가 동반돼 단순 함정보다 구조가 낫다.",
+      "risk": "462원 하회 시 attention continuation 약화",
+      "allocation_krw": 1062646.1435822078,
+      "role": "public-figure attention continuation",
+      "invalidated_if": "462원 하회 시 attention continuation 약화",
+      "range_position_pct": 85.3,
+      "day_high_gap_pct": -2.04
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "price_krw": 53.0,
-      "change_pct_24h": 11.34453782,
-      "turnover_krw_24h": 18429742990.73155,
-      "reason": "SAHARA는 24h 대금 약 184.3억원, +11.34%, 98.4% 위치로 언락 부담을 이기고 상단 고정에 성공한 AI 지속형이다.",
-      "score": 60.66,
-      "community": "AI 테마 중 가장 깔끔한 fresh breakout으로 인식되지만 토큰 언락 경계도 같이 붙어 있다.",
-      "risk": "51.9원 하회 시 fresh breakout 무효",
-      "allocation_krw": 1015435.0864676407,
-      "role": "ai fresh breakout continuation",
-      "invalidated_if": "51.9원 하회 시 fresh breakout 무효",
-      "range_position_pct": 98.4,
-      "day_high_gap_pct": -0.19
-    },
-    {
-      "icon": "🛡️",
-      "symbol": "ZAMA",
-      "market": "KRW-ZAMA",
-      "price_krw": 56.1,
-      "change_pct_24h": 9.14396887,
-      "turnover_krw_24h": 13003791150.181805,
-      "reason": "ZAMA는 24h 대금 약 130.0억원, +9.14%, 82.8% 위치로 TokenOps 인수 기반 confidential distribution 서사가 계속 붙는 FHE 강세축이다.",
-      "score": 48.65,
-      "community": "FHE/프라이버시 서사가 하루짜리 반짝이 아니라 배경 테마로 유지되고 있다.",
-      "risk": "54.9원 하회 시 breakout 품질 저하",
-      "allocation_krw": 1015435.0864676407,
-      "role": "privacy FHE continuation",
-      "invalidated_if": "54.9원 하회 시 breakout 품질 저하",
-      "range_position_pct": 82.8,
-      "day_high_gap_pct": -1.75
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "price_krw": 1080.0,
+      "change_pct_24h": 2.36966825,
+      "turnover_krw_24h": 11911339974.479874,
+      "reason": "VIRTUAL은 24h 대금 약 119.1억원, +2.37%, 95.1% 위치로 AI-agent 테마 중 가장 깔끔한 fresh breakout이다.",
+      "score": 43.88,
+      "community": "AI 에이전트 테마 중에서는 대금 대비 위치가 가장 깔끔해 커뮤니티 추격이 붙기 쉬운 상태다.",
+      "risk": "1050원 하회 시 fresh breakout 무효",
+      "allocation_krw": 1062646.1435822078,
+      "role": "ai-agent fresh breakout",
+      "invalidated_if": "1050원 하회 시 fresh breakout 무효",
+      "range_position_pct": 95.1,
+      "day_high_gap_pct": -0.18
     },
     {
       "icon": "🪙",
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "price_krw": 139.0,
-      "change_pct_24h": 11.2,
-      "turnover_krw_24h": 6944242728.100252,
-      "reason": "XPL은 24h 대금 약 69.4억원, +11.20%, 84.0% 위치로 언락 오버행을 소화하며 남은 고베타 지속형이다.",
-      "score": 50.01,
-      "community": "언락 캘린더가 알려졌는데도 가격이 상단을 유지해 리테일이 오히려 supply soak로 해석하는 흐름이다.",
-      "risk": "133원 하회 시 continuation 약화",
-      "allocation_krw": 1015435.0864676407,
-      "role": "plasma unlock-overhang survivor",
-      "invalidated_if": "133원 하회 시 continuation 약화",
-      "range_position_pct": 84.0,
-      "day_high_gap_pct": -2.8
+      "price_krw": 140.0,
+      "change_pct_24h": 6.06060606,
+      "turnover_krw_24h": 5955673589.140595,
+      "reason": "XPL은 24h 대금 약 59.6억원, +6.06%, 90.0% 위치로 언락 오버행을 이겨낸 supply-soak continuation이다.",
+      "score": 46.67,
+      "community": "언락 이슈를 모두 아는 상태에서도 90% 위치를 지켜 supply soak 해석이 우세하다.",
+      "risk": "135원 하회 시 unlock soak continuation 약화",
+      "allocation_krw": 1062646.1435822078,
+      "role": "unlock-soak continuation",
+      "invalidated_if": "135원 하회 시 unlock soak continuation 약화",
+      "range_position_pct": 90.0,
+      "day_high_gap_pct": -0.71
     },
     {
-      "icon": "🪙",
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "price_krw": 131.0,
-      "change_pct_24h": 3.96825397,
-      "turnover_krw_24h": 18780911027.311756,
-      "reason": "HBAR는 24h 대금 약 187.8억원, +3.97%, 68.8% 위치로 enterprise 보조축 중 구조가 가장 덜 깨진 체급형 continuation이다.",
-      "score": 33.31,
-      "community": "SEI보다 덜 뜨겁지만 체급형 방어와 enterprise 서사 균형이 좋아 5번째 슬롯 유지 가치가 있다.",
-      "risk": "128원 하회 시 체급형 continuation 약화",
-      "allocation_krw": 1015435.0864676407,
-      "role": "enterprise beta support",
-      "invalidated_if": "128원 하회 시 체급형 continuation 약화",
-      "range_position_pct": 68.8,
-      "day_high_gap_pct": -3.68
+      "icon": "💉",
+      "symbol": "INJ",
+      "market": "KRW-INJ",
+      "price_krw": 10190.0,
+      "change_pct_24h": 6.86942842,
+      "turnover_krw_24h": 32936418987.804913,
+      "reason": "INJ는 24h 대금 약 329.4억원, +6.87%, 66.3% 위치로 최근 Injective 생태계 호재와 함께 살아있는 품질형 모멘텀 축이다.",
+      "score": 37.23,
+      "community": "대금 체급이 충분하고 AI/파생 결합 서사가 있어 국내 보드에서 품질형 알트로 인식되기 좋다.",
+      "risk": "9850원 하회 시 quality momentum 약화",
+      "allocation_krw": 1062646.1435822078,
+      "role": "quality derivative infra momentum",
+      "invalidated_if": "9850원 하회 시 quality momentum 약화",
+      "range_position_pct": 66.3,
+      "day_high_gap_pct": -3.96
+    },
+    {
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "price_krw": 3549.0,
+      "change_pct_24h": 0.5952381,
+      "turnover_krw_24h": 40653958845.48226,
+      "reason": "NEAR는 24h 대금 약 406.5억원, +0.60%, 75.5% 위치로 메이저 제외 체급 알트 중 가장 읽기 쉬운 안정적 continuation 코어다.",
+      "score": 34.11,
+      "community": "강한 급등주는 아니지만 체급과 위치가 좋아 late-session에도 버티는 축으로 읽힌다.",
+      "risk": "3430원 하회 시 large-cap continuation 약화",
+      "allocation_krw": 1062646.1435822078,
+      "role": "large-cap AI/L1 continuation",
+      "invalidated_if": "3430원 하회 시 large-cap continuation 약화",
+      "range_position_pct": 75.5,
+      "day_high_gap_pct": -1.96
     }
   ],
   "reference_watchlist": [
@@ -528,176 +528,208 @@
       "icon": "₿",
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "107.8M원 하회 시 회복 해석이 약해진다."
+      "reason": "109.0M원 상향 유지 시 알트 공격성 유지에 우호적이다."
     },
     {
       "icon": "◆",
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "2.95M원선 유지 여부가 breadth 확인 포인트다."
+      "reason": "3.0M원대 안착 여부가 breadth 지속 확인 포인트다."
     },
     {
       "icon": "💧",
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "메이저 중 가장 깔끔한 상대강도 바로미터다."
+      "reason": "대금은 크지만 43.3% 위치라 메이저 중 상대강도 확인용이다."
     },
     {
       "icon": "☀️",
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "70%대 위치 유지 시 알트 follow-through에 우호적이다."
+      "reason": "66.7% 위치 유지 시 중형 알트 follow-through에 긍정적이다."
+    },
+    {
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "거래대금 1위라도 24.2% 위치면 leader trap 재발 가능성이 크다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "2104억원대 초대금이지만 46.8% 위치·-17.47% gap라 pin-high 실패 확인이 먼저다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "VTHO",
+      "market": "KRW-VTHO",
+      "reason": "+26% 급등에도 -12.16% gap가 커 늦은 추격보다 재안착 확인이 필요하다."
     },
     {
       "icon": "🟥",
       "symbol": "SEI",
       "market": "KRW-SEI",
-      "reason": "20.9B 대금·63% 위치 reclaimed leader로 HBAR 약화 시 최우선 승격 후보다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "BAT",
-      "market": "KRW-BAT",
-      "reason": "32.7억원 대금 규모는 작지만 +12.8%·80% 위치의 소형 2차 확장 후보."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ALGO",
-      "market": "KRW-ALGO",
-      "reason": "32.6억원 대금·76.9% 위치로 과열이 덜한 보조 continuation 후보다."
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "470억원대 대금에도 7.5% 위치면 attention trap 지속이다."
+      "reason": "109.9억원·72.2% 위치로 5번째 슬롯 교체 시 가장 무난한 대안이다."
     }
   ],
   "cycle_improvements": [
-    "후보 5개 각각의 invalidation 거리(2.1~4.5%)를 명시적으로 점검해 추격 금지/보유 관리 모드를 더 분명히 했다.",
-    "뉴스 요약에 DTCC-Stellar, Zama TokenOps, SAHARA/XPL 언락 캘린더를 함께 넣어 가격과 재료를 같은 화면에서 읽게 했다.",
-    "dashboard의 snapshot_age_hours가 음수로 찍히는 버그를 0 이하로 보정하도록 수정했다."
+    "이전 preferred 5종이 실제 invalidation 이후에도 남아 있지 않도록, 이번 회차는 XLM·SAHARA·ZAMA·HBAR를 즉시 교체하는 stronger-rotation 규율을 적용했다.",
+    "후보 판단을 turnover trap / fading leader / high-range continuation 세 그룹으로 나눠 대금 함정 종목(ID·VTHO·XLM)을 더 쉽게 배제하게 했다.",
+    "보고서에서 제외 이유를 단순 비선정이 아니라 trap·attention·unlock 리스크로 짧게 라벨링해 스캔 속도를 높였다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "470억원대 대금에도 -16.73%·7.5% 위치면 attention trap이다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "3878억원대 최대 대금에도 -3.12%·24.2% 위치·-15.61% gap면 turnover trap이다."
     },
     {
-      "symbol": "PRL",
-      "market": "KRW-PRL",
-      "reason": "+19.30%라도 47.7% 위치와 -17.33% gap면 exhausted follow-through다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "2104억원대 초대금과 +14.05%라도 46.8% 위치·-17.47% gap면 pin-high 리스크가 과하다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "564억원 대금에도 -3.72%·51.0% 위치로 코어 복귀 신호가 약하다."
+      "symbol": "VTHO",
+      "market": "KRW-VTHO",
+      "reason": "+26.02% 급등에도 59.9% 위치·-12.16% gap라 late blowoff 가능성이 크다."
     },
     {
-      "symbol": "MON",
-      "market": "KRW-MON",
-      "reason": "136억원 대금이 있어도 16.7% 위치와 -21.93% gap로 피로가 심하다."
+      "symbol": "HBAR",
+      "market": "KRW-HBAR",
+      "reason": "65.3B 대금이어도 27.3% 위치면 support 가정보다 실패 해석이 우선이다."
     },
     {
-      "symbol": "BAT",
-      "market": "KRW-BAT",
-      "reason": "구조는 좋지만 32.7억원 대금으로 톱5 코어 체급엔 아직 부족하다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "언락 후 8.7% 위치에 머물러 AI 코어 복귀 신호가 부족하다."
     },
     {
-      "symbol": "ALGO",
-      "market": "KRW-ALGO",
-      "reason": "76.9% 위치는 좋지만 32.6억원 대금으로 최종 승격은 보류한다."
+      "symbol": "ZAMA",
+      "market": "KRW-ZAMA",
+      "reason": "-5.95%와 -10.46% gap로 continuation 품질이 훼손됐다."
     }
   ],
-  "top_line": "공포탐욕 **22(Extreme Fear)**인데도 업비트 preferred 5종이 모두 양수입니다. 다만 **후보 5개 전부가 invalidation 5% 이내**라 이번 오전은 **공격 보유 유지 + 새 추격 금지**가 핵심입니다.",
-  "ui_version": "v8.0",
+  "top_line": "공포탐욕 **23(Extreme Fear)**인데도 메이저 4종이 모두 플러스입니다. 다만 **XLM·ID·VTHO는 대금 함정**이 보여, 이번 밤은 **WLD·VIRTUAL·XPL·INJ·NEAR 5종으로 공격 로테이션**이 핵심입니다.",
+  "ui_version": "v8.1",
   "risk_plan": {
     "portfolio_cash_target": "0%",
-    "review_trigger": "BTC 107.8M원 하향 지속, XLM 287원 하향, SAHARA 51.9원 하향, ZAMA 54.9원 하향, XPL 133원 하향, HBAR 128원 하향 시 즉시 재평가",
+    "review_trigger": "BTC 109.0M원 하향 지속, WLD 462원 하향, VIRTUAL 1050원 하향, XPL 135원 하향, INJ 9850원 하향, NEAR 3430원 하향 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "보유 종목이 invalidation 가격을 하향하면 뉴스/커뮤니티 명분보다 먼저 탈락 처리한다.",
-      "후보 5개 모두 invalidation 5% 이내면 신규 추격보다 기존 보유 관리와 교체 우선순위 점검을 먼저 한다.",
-      "대금 상위 양전환 종목이라도 day_high_gap이 -12% 이하이면 core 후보에서 제외한다."
+      "대금 1위라도 range_position 35% 미만이면 turnover trap으로 분류해 core 후보에서 제외한다.",
+      "day_high_gap이 -10% 이하인 급등주는 fresh breakout이 아니라 fading/blowoff 후보로 우선 의심한다.",
+      "보유 종목이 invalidation 가격을 하향하면 뉴스보다 먼저 탈락 처리한다."
     ],
     "exit_rules": [
-      "BTC 107.8M원 하향 지속, XLM 287원 하향, SAHARA 51.9원 하향, ZAMA 54.9원 하향, XPL 133원 하향, HBAR 128원 하향 시 즉시 재평가",
+      "BTC 109.0M원 하향 지속, WLD 462원 하향, VIRTUAL 1050원 하향, XPL 135원 하향, INJ 9850원 하향, NEAR 3430원 하향 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "보유 종목이 invalidation 가격을 하향하면 뉴스/커뮤니티 명분보다 먼저 탈락 처리한다.",
-      "후보 5개 모두 invalidation 5% 이내면 신규 추격보다 기존 보유 관리와 교체 우선순위 점검을 먼저 한다.",
-      "대금 상위 양전환 종목이라도 day_high_gap이 -12% 이하이면 core 후보에서 제외한다."
+      "대금 1위라도 range_position 35% 미만이면 turnover trap으로 분류해 core 후보에서 제외한다.",
+      "day_high_gap이 -10% 이하인 급등주는 fresh breakout이 아니라 fading/blowoff 후보로 우선 의심한다.",
+      "보유 종목이 invalidation 가격을 하향하면 뉴스보다 먼저 탈락 처리한다."
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2521.9억원이며, XLM 비중이 절대적이다.",
-    "momentum_discipline": "5종 모두 양수지만 모두 invalidation 근처라 high momentum + high stop sensitivity 조합이다.",
-    "diversification": "tokenization·AI·privacy/FHE·plasma infra·enterprise beta 5분산",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1298.8억원이다.",
+    "momentum_discipline": "WLD·VIRTUAL·XPL은 고위치 지속, INJ·NEAR는 체급형 continuation으로 성격을 분리했다.",
+    "diversification": "attention / AI-agent / token unlock soak / derivative infra / large-cap L1 5분산",
     "cash_usage": "100%",
-    "rotation_speed": "medium-high"
+    "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "공포탐욕은 낮지만 breadth 회복과 5종 양전환이 동시에 보여 all-cash보다 공격 보유가 유리하다. 다만 전부 stop이 가까워 추격 기대값은 낮다."
+    "summary": "공포탐욕은 낮지만 메이저 4종 동반 플러스와 breadth 개선이 있어 공격 로테이션이 가능하다. 다만 초대금 trap(XLM·ID·VTHO)이 공존해 추격 대상은 엄격히 걸러야 한다."
   },
   "rotation_map": [
     {
-      "bucket": "NONE → NONE",
+      "bucket": "XLM → WLD",
       "symbols": [
-        "NONE",
-        "NONE"
+        "XLM",
+        "WLD"
       ],
-      "note": "11:04 회차는 새 리더 등장보다 기존 5종의 구조 유지가 더 낫다고 판단해 교체 없이 보유 지속."
+      "note": "초대금 trap을 attention reclaim으로 교체"
+    },
+    {
+      "bucket": "SAHARA → VIRTUAL",
+      "symbols": [
+        "SAHARA",
+        "VIRTUAL"
+      ],
+      "note": "AI 슬롯을 언락 부담형에서 fresh breakout형으로 상향"
+    },
+    {
+      "bucket": "ZAMA → INJ",
+      "symbols": [
+        "ZAMA",
+        "INJ"
+      ],
+      "note": "FHE 약세 슬롯을 품질형 생태계 모멘텀으로 교체"
+    },
+    {
+      "bucket": "HBAR → NEAR",
+      "symbols": [
+        "HBAR",
+        "NEAR"
+      ],
+      "note": "저위치 enterprise 축을 체급형 continuation으로 교체"
+    },
+    {
+      "bucket": "XPL → XPL",
+      "symbols": [
+        "XPL",
+        "XPL"
+      ],
+      "note": "언락 소화형 구조가 여전히 살아 있어 유지하되 바스켓만 재편"
     }
   ],
   "self_evaluation": {
-    "score": 8.9,
-    "summary": "이번 회차는 무리한 새 교체를 하지 않고, 이미 강한 5종을 유지하되 전부가 invalidation 근처라는 불편한 사실을 숨기지 않았다. 공격성은 유지했지만 추격과 보유를 구분한 점이 직전보다 낫다."
+    "score": 9.1,
+    "summary": "직전 강세 5종을 고집하지 않고, 실제로 깨진 구조를 인정한 뒤 강한 쪽으로 전면 교체한 점이 좋았다. 다만 WLD 같은 attention 자산 비중을 담는 만큼 첫 재평가를 더 빠르게 해야 한다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 11.94,
+    "preferred_avg_change_pct_24h": 5.56,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 252191533203.25763,
-    "leader_turnover_share_pct": 77.34,
-    "leader_symbol": "XLM",
-    "leader_concentration_warning": "high"
+    "preferred_turnover_total_krw_24h": 129877909344.8519,
+    "leader_turnover_share_pct": 31.3,
+    "leader_symbol": "NEAR",
+    "leader_concentration_warning": "low"
   },
-  "snapshot_updated_at_utc": "2026-05-28T20:04:34.182224+00:00",
-  "snapshot_age_hours": 5.99,
+  "snapshot_updated_at_utc": "2026-05-30T14:30:39.270102+00:00",
+  "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 2,
-    "top15_alt_low_range_count_delta": -7,
-    "weak_breadth_warning_changed": true,
+    "top15_alt_positive_count_delta": 3,
+    "top15_alt_low_range_count_delta": -1,
+    "weak_breadth_warning_changed": false,
     "entered_top5_turnover": [
-      "DOGE"
+      "NEAR"
     ],
     "exited_top5_turnover": [
-      "NEAR"
+      "IO"
     ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": 37.98,
+    "major_avg_range_position_pct_delta": 35.92,
     "major_positive_count_delta": 1,
-    "major_negative_count_delta": -1
+    "major_negative_count_delta": 0
   },
   "scenario_view": {
-    "regime": "mixed_selective_rotation",
-    "regime_label_ko": "혼조·빠른 순환 대응",
-    "regime_icon": "🟡",
-    "btc_range_position_pct": 39.0,
-    "major_avg_range_position_pct": 61.85,
-    "preferred_avg_change_pct_24h": 11.94,
+    "regime": "btc_stabilizing_alt_continuation",
+    "regime_label_ko": "메이저 안정·알트 지속",
+    "regime_icon": "🟢",
+    "btc_range_position_pct": 98.5,
+    "major_avg_range_position_pct": 76.5,
+    "preferred_avg_change_pct_24h": 5.56,
     "preferred_high_range_count": 3,
-    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
+    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 81.48,
-    "avg_day_high_gap_pct": -3.0,
+    "avg_range_position_pct": 82.44,
+    "avg_day_high_gap_pct": -1.77,
     "above_80_range_count": 3,
-    "summary": "고위치(80%+) 후보 3개 / 평균 위치 81.48%"
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 82.44%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -708,43 +740,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "last_price_krw": 299.0,
-      "threshold_krw": 287.0,
-      "distance_to_invalidation_pct": 4.18,
+      "icon": "🌍",
+      "symbol": "WLD",
+      "last_price_krw": 480.0,
+      "threshold_krw": 462.0,
+      "distance_to_invalidation_pct": 3.9,
       "status": "near"
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "last_price_krw": 53.0,
-      "threshold_krw": 51.9,
-      "distance_to_invalidation_pct": 2.12,
-      "status": "near"
-    },
-    {
-      "icon": "🛡️",
-      "symbol": "ZAMA",
-      "last_price_krw": 56.1,
-      "threshold_krw": 54.9,
-      "distance_to_invalidation_pct": 2.19,
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "last_price_krw": 1080.0,
+      "threshold_krw": 1050.0,
+      "distance_to_invalidation_pct": 2.86,
       "status": "near"
     },
     {
       "icon": "🪙",
       "symbol": "XPL",
-      "last_price_krw": 139.0,
-      "threshold_krw": 133.0,
-      "distance_to_invalidation_pct": 4.51,
+      "last_price_krw": 140.0,
+      "threshold_krw": 135.0,
+      "distance_to_invalidation_pct": 3.7,
       "status": "near"
     },
     {
-      "icon": "🪙",
-      "symbol": "HBAR",
-      "last_price_krw": 131.0,
-      "threshold_krw": 128.0,
-      "distance_to_invalidation_pct": 2.34,
+      "icon": "💉",
+      "symbol": "INJ",
+      "last_price_krw": 10190.0,
+      "threshold_krw": 9850.0,
+      "distance_to_invalidation_pct": 3.45,
+      "status": "near"
+    },
+    {
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "last_price_krw": 3549.0,
+      "threshold_krw": 3430.0,
+      "distance_to_invalidation_pct": 3.47,
       "status": "near"
     }
   ],
@@ -761,168 +793,168 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-05-29T11:04:00+09:00",
-      "symbol": "PORTFOLIO",
-      "action": "HOLD",
-      "price_krw": 5077175.432338203,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "XLM·SAHARA·ZAMA·XPL·HBAR 5종이 모두 양수와 preferred 톱5 자격을 유지해 교체보다 보유 지속이 낫다. 다만 전 종목이 invalidation 5% 이내라 신규 추격은 금지하고 타이트한 관리 모드로 전환한다."
-    },
-    {
-      "timestamp": "2026-05-29T05:04+09:00",
-      "symbol": "SAHARA",
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 53.0,
-      "amount_delta": 18549.561473310732,
-      "cash_delta_krw": -983126.7580854688,
-      "reason": "24h 184.3억원 대금, +11.34%, 98.4% 위치의 fresh breakout이 확인돼 KITE 이탈 자리를 메우는 AI 코어로 신규 편입"
+      "price_krw": 3549.0,
+      "amount_delta": 299.4212858783341,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "NEAR는 24h 대금 약 406.5억원, +0.60%, 75.5% 위치로 메이저 제외 체급 알트 중 가장 읽기 쉬운 안정적 continuation 코어다."
     },
     {
-      "timestamp": "2026-05-29T05:04+09:00",
-      "symbol": "KITE",
-      "action": "SELL",
-      "price_krw": 296.0,
-      "amount_delta": -3321.3741827211784,
-      "cash_delta_krw": 983126.7580854688,
-      "reason": "299원 invalidation을 실제 하향했고 28.6% 위치까지 밀려 저체급 survivor 가정이 무효화돼 SAHARA로 교체"
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "INJ",
+      "action": "BUY",
+      "price_krw": 10190.0,
+      "amount_delta": 104.28323293250322,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "INJ는 24h 대금 약 329.4억원, +6.87%, 66.3% 위치로 최근 Injective 생태계 호재와 함께 살아있는 품질형 모멘텀 축이다."
     },
     {
-      "timestamp": "2026-05-28T23:08+09:00",
+      "timestamp": "2026-05-30T23:30:00+09:00",
       "symbol": "XPL",
       "action": "BUY",
-      "price_krw": 127.0,
-      "amount_delta": 7691.7094691791035,
-      "cash_delta_krw": -976847.1025857461,
-      "reason": "81.8% high-close와 얕은 gap 구조가 확인돼 TRUST 대체 고품질 continuation 슬롯으로 편입"
+      "price_krw": 140.0,
+      "amount_delta": 7590.329597015771,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "XPL은 24h 대금 약 59.6억원, +6.06%, 90.0% 위치로 언락 오버행을 이겨낸 supply-soak continuation이다."
     },
     {
-      "timestamp": "2026-05-28T23:08+09:00",
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 1080.0,
+      "amount_delta": 983.9316144279702,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "VIRTUAL은 24h 대금 약 119.1억원, +2.37%, 95.1% 위치로 AI-agent 테마 중 가장 깔끔한 fresh breakout이다."
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 480.0,
+      "amount_delta": 2213.846132462933,
+      "cash_delta_krw": -1062646.1435822078,
+      "reason": "WLD는 24h 대금 약 384.2억원, +11.89%, 85.3% 위치로 Sam Altman 브랜드 attention이 다시 실제 고위치 구조로 연결된 이번 회차 최상위 continuation이다."
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 48.8,
+      "amount_delta": -18549.561473310732,
+      "cash_delta_krw": 905218.5998975637,
+      "reason": "48.8원·8.7% 위치로 언락 이후 상단 유지에 실패해 이번 회차 톱5 우선순위에서 탈락"
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 140.0,
+      "amount_delta": -7691.7094691791035,
+      "cash_delta_krw": 1076839.3256850746,
+      "reason": "기존 보유는 유지하되 새 바스켓 5종 균등 공격 분산을 맞추기 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-05-30T23:30:00+09:00",
       "symbol": "HBAR",
-      "action": "BUY",
-      "price_krw": 130.0,
-      "amount_delta": 7514.208481428816,
-      "cash_delta_krw": -976847.1025857461,
-      "reason": "체급형 알트 중 드물게 양전환과 66.7% 위치를 함께 지켜 SEI 대체 품질 코어로 편입"
+      "action": "SELL",
+      "price_krw": 148.0,
+      "amount_delta": -7514.208481428816,
+      "cash_delta_krw": 1112102.8552514648,
+      "reason": "0%·27.3% 위치로 enterprise support 가정이 무너져 더 강한 WLD·INJ·NEAR 쪽으로 회전"
     },
     {
-      "timestamp": "2026-05-28T23:08+09:00",
+      "timestamp": "2026-05-30T23:30:00+09:00",
       "symbol": "XLM",
-      "action": "BUY",
-      "price_krw": 289.0,
-      "amount_delta": 3380.0937805735157,
-      "cash_delta_krw": -976847.1025857461,
-      "reason": "DTCC-스텔라 토큰화 재료가 업비트 최대 대금 reclaim으로 번져 이번 회차 최우선 코어로 신규 편입"
-    },
-    {
-      "timestamp": "2026-05-28T23:08+09:00",
-      "symbol": "TRUST",
       "action": "SELL",
-      "price_krw": 97.7,
-      "amount_delta": -9997.007441061764,
-      "cash_delta_krw": 976707.6269917344,
-      "reason": "97.7원으로 98원 기준 아래에 들어가 mid-cap survivor 해석이 무효화돼 XPL로 교체"
+      "price_krw": 373.0,
+      "amount_delta": -3380.0937805735157,
+      "cash_delta_krw": 1260774.9801539213,
+      "reason": "3878억원대 최대 대금이어도 -3.12%·24.2% 위치·-15.61% gap로 turnover trap이 확인돼 전량 교체"
     },
     {
-      "timestamp": "2026-05-28T23:08+09:00",
-      "symbol": "SEI",
+      "timestamp": "2026-05-30T23:30:00+09:00",
+      "symbol": "ZAMA",
       "action": "SELL",
-      "price_krw": 99.3,
-      "amount_delta": -9898.99756418861,
-      "cash_delta_krw": 982970.458123929,
-      "reason": "양수는 남았지만 39.3% 위치까지 후퇴해 HBAR 품질 continuation에 자리 양보"
-    },
-    {
-      "timestamp": "2026-05-28T23:08+09:00",
-      "symbol": "FF",
-      "action": "SELL",
-      "price_krw": 150.0,
-      "amount_delta": -6472.421484277168,
-      "cash_delta_krw": 970863.2226415752,
-      "reason": "151원 invalidation 하향과 음전환으로 기관형 breakout 가정이 깨져 XLM reclaim 코어로 교체"
-    },
-    {
-      "timestamp": "2026-05-28T17:04:00+09:00",
-      "symbol": "KITE",
-      "action": "BUY",
-      "price_krw": 304.0,
-      "amount_delta": 3321.3741827211784,
-      "cash_delta_krw": -1009697.7515472382,
-      "reason": "KITE는 24h 대금 약 28.9억원, +2.01%, 90.9% 위치로 저체급 보드에서 드문 high-close survivor라 5번째 공격 슬롯으로 적합하다."
+      "price_krw": 52.2,
+      "amount_delta": -18358.140937222513,
+      "cash_delta_krw": 958294.9569230153,
+      "reason": "24h -5.95%와 -10.46% gap로 FHE 지속형 가정이 훼손돼 stronger continuation 군으로 이동"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. ✨ **XLM** — 299원, **+24.07%**, 24h 대금 약 **1950.3억원**, 위치 **73.4%**",
-      "   → **DTCC-Stellar tokenization 초대금 코어**",
-      "2. 🏜️ **SAHARA** — 53.0원, **+11.34%**, 24h 대금 약 **184.3억원**, 위치 **98.4%**",
-      "   → **언락 부담을 이긴 AI breakout**",
-      "3. 🛡️ **ZAMA** — 56.1원, **+9.14%**, 24h 대금 약 **130.0억원**, 위치 **82.8%**",
-      "   → **FHE/TokenOps confidentiality 지속형**",
-      "4. 🧱 **XPL** — 139원, **+11.20%**, 24h 대금 약 **69.4억원**, 위치 **84.0%**",
-      "   → **언락 소화형 고베타 continuation**",
-      "5. 🪙 **HBAR** — 131원, **+3.97%**, 24h 대금 약 **187.8억원**, 위치 **68.8%**",
-      "   → **enterprise beta support**"
+      "1. 🌍 **WLD** — 480원, **+11.89%**, 24h 대금 약 **384.2억원**, 위치 **85.3%**",
+      "   → **Sam Altman attention reclaim continuation**",
+      "2. 🤖 **VIRTUAL** — 1,080원, **+2.37%**, 24h 대금 약 **119.1억원**, 위치 **95.1%**",
+      "   → **AI-agent fresh breakout**",
+      "3. 🧱 **XPL** — 140원, **+6.06%**, 24h 대금 약 **59.6억원**, 위치 **90.0%**",
+      "   → **언락 소화형 continuation**",
+      "4. 💉 **INJ** — 10,190원, **+6.87%**, 24h 대금 약 **329.4억원**, 위치 **66.3%**",
+      "   → **품질형 생태계 모멘텀**",
+      "5. 🌉 **NEAR** — 3,549원, **+0.60%**, 24h 대금 약 **406.5억원**, 위치 **75.5%**",
+      "   → **체급형 continuation 코어**"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: **-1.16%**, 위치 **39.0%**",
-      "- ◆ ETH: **-0.40%**, 위치 **70.3%**",
-      "- 💧 XRP: **+0.73%**, 위치 **67.6%**",
-      "- ☀️ SOL: **-0.25%**, 위치 **70.5%**",
-      "- 해석: 메이저 평균은 버티지만 **BTC 선행 확인 부재**라 알트는 **선별 5분산 유지**가 맞습니다."
+      "- ₿ BTC: **+0.82%**, 위치 **98.5%**",
+      "- ◆ ETH: **+0.80%**, 위치 **97.5%**",
+      "- 💧 XRP: **+1.07%**, 위치 **43.3%**",
+      "- ☀️ SOL: **+0.82%**, 위치 **66.7%**",
+      "- 해석: BTC·ETH가 상단에 붙어 있어 알트 추세 지속엔 우호적이지만, **XRP 위치가 낮아 완전한 광풍장은 아님**."
     ],
     "🚫 이번 회차 배제 / 보류": [
-      "- 🌍 **WLD**: 470억원대 대금에도 **-16.73%·7.5% 위치** → attention trap",
-      "- 🪙 **PRL**: **+19.30%**라도 **-17.33% gap** → exhausted move",
-      "- 🌐 **ONDO**: 564억원대 대금은 크지만 **-3.72%** → 코어 복귀 미확인",
-      "- 🧠 **MON**: 136억원대 대금에도 **16.7% 위치** → 피로 심함",
-      "- 🦇 **BAT**: 구조는 좋지만 **32.7억원 대금** → 체급 부족"
+      "- ✨ **XLM**: **3878억원대 최대 대금**에도 **-3.12%·24.2% 위치** → turnover trap",
+      "- 🪪 **ID**: **2104억원대 초대금**에도 **46.8% 위치·-17.47% gap** → pin-high 실패",
+      "- 🧪 **VTHO**: **+26.02%**라도 **-12.16% gap** → late blowoff 우려",
+      "- 🪙 **HBAR**: 653억원대 대금이어도 **27.3% 위치** → support 붕괴",
+      "- 🏜️ **SAHARA**: 언락 이후 **8.7% 위치** → AI 코어 복귀 미확인"
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 **0%**, **XLM + SAHARA + ZAMA + XPL + HBAR** 5종 공격 분산 유지",
-      "- 이번 오전 핵심은 **교체가 아니라 관리**입니다.",
-      "- 전 종목이 invalidation 근처라 **새 추격보다 기존 강한 종목 유지**가 기대값이 높습니다."
+      "- 현금 **0%**, **WLD + VIRTUAL + XPL + INJ + NEAR** 5종 균등 분산",
+      "- 이번 밤 핵심은 **보유 유지보다 강한 구조로 갈아타기**입니다.",
+      "- 직전 preferred에서 실제로 깨진 종목은 미련 없이 정리했습니다."
     ],
     "✅ 가상 매매 실행 내용": [
-      "- **HOLD** ✨ XLM / 🏜️ SAHARA / 🛡️ ZAMA / 🧱 XPL / 🪙 HBAR",
-      "- 교체 없음: **SEI는 1순위 대체 후보로만 유지**"
+      "- **SELL** ✨ XLM / 🏜️ SAHARA / 🛡️ ZAMA / 🪙 HBAR",
+      "- **REBALANCE 유지** 🧱 XPL",
+      "- **BUY** 🌍 WLD / 🤖 VIRTUAL / 💉 INJ / 🌉 NEAR"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: **0원**",
-      "- ✨ XLM: **3380.094개** @ 289원 → 현재 299원",
-      "- 🏜️ SAHARA: **18549.561개** @ 53.0원",
-      "- 🛡️ ZAMA: **18358.141개** @ 55원 → 현재 56.1원",
-      "- 🧱 XPL: **7691.709개** @ 127원 → 현재 139원",
-      "- 🪙 HBAR: **7514.208개** @ 130원 → 현재 131원",
-      "- 총 평가액: **5,077,175원**",
-      "- 실현손익: **-4,666,863원**",
-      "- 누적 수익률: **-49.23%**"
+      "- 🌍 WLD: **2213.846개** @ 480원",
+      "- 🤖 VIRTUAL: **983.932개** @ 1,080원",
+      "- 🧱 XPL: **7590.330개** @ 140원",
+      "- 💉 INJ: **104.283개** @ 10,190원",
+      "- 🌉 NEAR: **299.421개** @ 3,549원",
+      "- 총 평가액: **5,313,231원**",
+      "- 실현손익: **-4,276,998원**",
+      "- 누적 수익률: **-46.87%**"
     ],
     "🧠 자기 평가": [
-      "- 직전 회차보다 **무리한 교체 욕심을 줄이고, 실제 stop 거리**를 더 정직하게 봤습니다.",
-      "- 공격성은 유지했지만 **추격과 보유를 구분한 판단**은 개선됐습니다."
+      "- 이번엔 **기존 강세 기억**보다 **현재 구조**를 더 우선했습니다.",
+      "- 특히 XLM 같은 초대금 리더도 실제 trap이면 버려야 한다는 점을 제대로 반영했습니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- 후보 5개의 **invalidation 거리(2.1~4.5%)**를 따로 점검해 **추격 금지/관리 우선** 모드를 명확히 했습니다.",
-      "- 뉴스 요약에 **DTCC-Stellar / Zama TokenOps / SAHARA·XPL 언락 캘린더**를 함께 넣어 재료와 가격을 한 번에 읽게 했습니다.",
-      "- dashboard에서 **snapshot_age_hours 음수 표시 버그**를 수정했습니다."
+      "- **turnover trap / fading leader / high-range continuation** 3분류로 후보 판단을 단순화했습니다.",
+      "- 이전 preferred 5종이 깨졌을 때 **즉시 교체하는 stronger-rotation 규율**을 적용했습니다.",
+      "- 보고서 배제 섹션을 **한 줄 라벨링 중심**으로 줄여 스캔 속도를 높였습니다."
     ],
     "🧾 판단": [
-      "- aggressive hold with tight stop discipline"
+      "- aggressive rotation into high-range continuation alts"
     ],
     "🎯 신뢰도": [
-      "- medium"
+      "- medium-high"
     ],
     "👉 추천 행동": [
-      "- **BTC 107.8M / XLM 287 / SAHARA 51.9 / ZAMA 54.9 / XPL 133 / HBAR 128** 하향 시 즉시 재평가",
-      "- **SEI**는 20.9B 대금·63% 위치 reclaimed leader라 HBAR 약화 시 최우선 교체 후보",
-      "- **새 추격보다 보유 관리**가 우선입니다."
+      "- **BTC 109.0M / WLD 462 / VIRTUAL 1050 / XPL 135 / INJ 9850 / NEAR 3430** 하향 시 즉시 재평가",
+      "- **SEI / SUI / RENDER**는 후속 승격 후보로 유지",
+      "- **대금 1위 추격보다 고위치 유지 확인**이 우선입니다."
     ],
     "⚠️ 리스크 메모": [
-      "- 후보 5개가 모두 stop 근처라 오후 변동성 한 번에 구조가 바뀔 수 있습니다.",
-      "- XLM leader concentration이 매우 높습니다.",
-      "- SAHARA·XPL은 언락 이슈가 남아 있어 반락 속도가 빠를 수 있습니다.",
-      "- WLD·PRL 같은 대금 함정은 계속 피해야 합니다."
+      "- WLD는 headline·public figure attention reversal에 민감합니다.",
+      "- XPL은 언락 이슈가 아직 끝났다고 단정할 수 없습니다.",
+      "- ID·VTHO·XLM처럼 **초대금 함정**이 같이 돌고 있어 과열 추격은 여전히 위험합니다."
     ]
   }
 }
