@@ -3,70 +3,70 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4345411.407878455,
-  "last_valuation_krw": 5385098.044467962,
-  "last_action": "ROTATE_ON_INVALIDATION",
-  "last_updated": "2026-05-31T05:30:00+09:00",
-  "trade_count": 399,
+  "realized_pnl_krw": -4276423.516843988,
+  "last_valuation_krw": 5313805.399616842,
+  "last_action": "FULL_ROTATE_TO_REVALIDATED_LEADERS",
+  "last_updated": "2026-05-31T11:30:00+09:00",
+  "trade_count": 409,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 2213.846132462933,
-      "avg_buy_price_krw": 480.0,
-      "last_price_krw": 552.0,
-      "value_krw": 1222043.065119539,
-      "thesis": "WLD는 24h 대금 약 705.7억원, +28.67%, 97.7% 위치로 Sam Altman/World ID attention이 이번 새벽 실거래 강도로 번진 최상위 breakout 코어다.",
-      "strategy": "wld high-range attention breakout hold",
-      "role": "public-figure attention breakout",
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 2985.2839323690127,
+      "avg_buy_price_krw": 356.0,
+      "last_price_krw": 356.0,
+      "value_krw": 1062761.0799233685,
+      "thesis": "XLM은 24h 대금 3087.8억원, +4.40%, 85.3% 위치로 이번 오전 가장 강한 재검증 메가턴오버 리더다.",
+      "strategy": "revalidated-mega-turnover-payments-leader",
+      "role": "revalidated mega-turnover payments leader",
       "risk_limit_pct": 4,
+      "profit_take_pct": 12
+    },
+    "ID": {
+      "market": "KRW-ID",
+      "amount": 16425.98268815098,
+      "avg_buy_price_krw": 64.7,
+      "last_price_krw": 64.7,
+      "value_krw": 1062761.0799233685,
+      "thesis": "ID는 24h 대금 2094.5억원, +8.74%, 74.7% 위치로 단순 함정주에서 재상승 보드 리더로 복귀했다.",
+      "strategy": "revalidated-retail-identity-rotation",
+      "role": "revalidated retail identity rotation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 13
+    },
+    "PUNDIX": {
+      "market": "KRW-PUNDIX",
+      "amount": 4200.636679539006,
+      "avg_buy_price_krw": 253.0,
+      "last_price_krw": 253.0,
+      "value_krw": 1062761.0799233685,
+      "thesis": "PUNDIX는 24h 대금 237.1억원, +27.78%, 82.4% 위치로 이번 오전 최강 fresh breakout 코어다.",
+      "strategy": "fresh-retail-breakout",
+      "role": "fresh retail breakout",
+      "risk_limit_pct": 6,
       "profit_take_pct": 18
     },
-    "VIRTUAL": {
-      "market": "KRW-VIRTUAL",
-      "amount": 983.9316144279702,
-      "avg_buy_price_krw": 1080.0,
-      "last_price_krw": 1076.0,
-      "value_krw": 1058710.4171244958,
-      "thesis": "VIRTUAL은 24h 대금 약 87.3억원, +1.99%, 72.9% 위치로 AI-agent 테마 중 여전히 가장 깔끔한 fresh breakout 지속형이다.",
-      "strategy": "virtual disciplined breakout hold",
-      "role": "ai-agent continuation",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 9
+    "ZAMA": {
+      "market": "KRW-ZAMA",
+      "amount": 18977.87642720301,
+      "avg_buy_price_krw": 56.0,
+      "last_price_krw": 56.0,
+      "value_krw": 1062761.0799233685,
+      "thesis": "ZAMA는 24h 대금 86.4억원, +3.90%, 80.6% 위치로 상장 후속 모멘텀을 가장 깔끔하게 유지한다.",
+      "strategy": "upbit-listing-residual-privacy-continuation",
+      "role": "upbit listing residual privacy continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     },
-    "XPL": {
-      "market": "KRW-XPL",
-      "amount": 7590.329597015771,
-      "avg_buy_price_krw": 140.0,
-      "last_price_krw": 138.0,
-      "value_krw": 1047465.4843881764,
-      "thesis": "XPL은 24h 대금 약 50.0억원, +4.55%, 63.6% 위치로 언락 오버행을 소화하면서 아직 붕괴하지 않은 continuation 슬롯이다.",
-      "strategy": "xpl unlock-soak continuation hold",
-      "role": "unlock-soak continuation",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 8
-    },
-    "PRL": {
-      "market": "KRW-PRL",
-      "amount": 3394.1898974187316,
-      "avg_buy_price_krw": 303.0,
-      "last_price_krw": 303.0,
-      "value_krw": 1028439.5389178756,
-      "thesis": "PRL은 24h 대금 약 119.4억원, +12.64%, 79.3% 위치로 top-turnover 바깥에서 포착된 가장 공격적인 second-tier breakout이다.",
-      "strategy": "prl aggressive local breakout buy",
-      "role": "second-tier retail breakout",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 14
-    },
-    "RENDER": {
-      "market": "KRW-RENDER",
-      "amount": 334.12590608118114,
-      "avg_buy_price_krw": 3078.0,
-      "last_price_krw": 3078.0,
-      "value_krw": 1028439.5389178755,
-      "thesis": "RENDER는 24h 대금 약 54.9억원, +5.63%, 84.9% 위치로 AI compute 축에서 가장 품질 좋은 고위치 continuation이다.",
-      "strategy": "render quality ai-compute continuation buy",
-      "role": "ai-compute quality continuation",
-      "risk_limit_pct": 3,
+    "ALGO": {
+      "market": "KRW-ALGO",
+      "amount": 5683.214331141008,
+      "avg_buy_price_krw": 187.0,
+      "last_price_krw": 187.0,
+      "value_krw": 1062761.0799233685,
+      "thesis": "ALGO는 24h 대금 113.7억원, +1.08%, 71.4% 위치로 품질형 legacy L1 continuation 중 가장 깔끔하다.",
+      "strategy": "quality-legacy-l1-continuation",
+      "role": "quality legacy-l1 continuation",
+      "risk_limit_pct": 4,
       "profit_take_pct": 10
     }
   },
@@ -74,7 +74,7 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.0M원 하향 이탈이면 알트 aggressive bias를 즉시 낮춰야 한다."
+      "reason": "109.3M원 하향 지속이면 알트 공격 비중을 즉시 낮춘다."
     },
     {
       "symbol": "ETH",
@@ -84,42 +84,42 @@
     {
       "symbol": "XRP",
       "market": "KRW-XRP",
-      "reason": "상승은 유지하지만 메이저 중 상대강도는 중간 수준이라 breadth 과열 여부 판별용이다."
+      "reason": "메이저 중 가장 약한 위치라 breadth 악화 경고등 역할이다."
     },
     {
       "symbol": "SOL",
       "market": "KRW-SOL",
-      "reason": "77.8% 위치 유지 시 중형 알트 follow-through에 우호적이다."
+      "reason": "123K원 재확대가 나오면 알트 follow-through에 우호적이다."
     },
     {
-      "symbol": "INJ",
-      "market": "KRW-INJ",
-      "reason": "오늘 교체된 품질 슬롯이라 10,100원대 회복 여부를 재확인할 가치가 있다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "public-figure beta가 다시 515원대 회복하면 attention 슬롯 재승격 가능성이 있다."
+    },
+    {
+      "symbol": "HIVE",
+      "market": "KRW-HIVE",
+      "reason": "60%대 위치를 유지해 ALGO 약화 시 대체 1순위가 될 수 있다."
+    },
+    {
+      "symbol": "VET",
+      "market": "KRW-VET",
+      "reason": "80%대 고위치의 저변동 quality slot이라 방어적 대체 후보다."
+    },
+    {
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "AI-agent 구조가 1090원 재돌파 시 톱5 복귀 가능성이 있다."
     },
     {
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "reason": "3430원 invalidation 하향 뒤 reclaim이 나오는지 보는 복귀 감시 대상이다."
+      "reason": "3340원대에서 다시 상단 회복이 나오는지 확인할 필요가 있다."
     },
     {
-      "symbol": "SEI",
-      "market": "KRW-SEI",
-      "reason": "거래대금 96.1억원과 플러스 구조를 유지해 PRL 약화 시 대체 1순위다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "체급형 안정축으로 breadth가 더 넓어질 때 승격하기 좋다."
-    },
-    {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "3.85%·77.8% 위치로 second-tier continuation 후보군이다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "거래대금 1위여도 저위치면 trap이라는 반례 확인용이다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "대금은 크지만 아직 저위치라 trap 경계가 우세하다."
     }
   ],
   "history": [
@@ -3722,6 +3722,96 @@
       "amount_delta": 334.12590608118114,
       "cash_delta_krw": -1028439.5389178756,
       "reason": "24h 대금 약 54.9억원, +5.63%, 84.9% 위치로 AI compute 체급주 중 구조가 가장 깔끔해 새벽 품질 슬롯으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 508.0,
+      "amount_delta": -2213.846132462933,
+      "cash_delta_krw": 1124633.8352911698,
+      "reason": "Sam Altman attention 서사는 남아도 50%대 위치로 후퇴해 오전 톱5 우선순위에서 밀려 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "SELL",
+      "price_krw": 1083.0,
+      "amount_delta": -983.9316144279702,
+      "cash_delta_krw": 1065597.9384254918,
+      "reason": "AI-agent 구조는 살아 있지만 상단 체류가 약해 더 강한 업비트 보드 리더들로 자금 회전"
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 137.0,
+      "amount_delta": -7590.329597015771,
+      "cash_delta_krw": 1039875.1547911606,
+      "reason": "언락 소화 슬롯이 더 이상 최상위가 아니고 대금도 약해 신규 강세 바스켓으로 교체"
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "PRL",
+      "action": "SELL",
+      "price_krw": 311.0,
+      "amount_delta": -3394.1898974187316,
+      "cash_delta_krw": 1055593.0580972256,
+      "reason": "second-tier breakout이 중단 이하로 꺾여 더 건강한 재검증/신규 리더들로 이동"
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "RENDER",
+      "action": "SELL",
+      "price_krw": 3077.0,
+      "amount_delta": -334.12590608118114,
+      "cash_delta_krw": 1028105.4130117943,
+      "reason": "품질형 AI 지속은 남았지만 업비트 실시간 우선순위가 XLM·PUNDIX·ZAMA보다 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 356.0,
+      "amount_delta": 2985.2839323690127,
+      "cash_delta_krw": -1062761.0799233685,
+      "reason": "XLM은 24h 대금 3087.8억원, +4.40%, 85.3% 위치로 이번 오전 가장 강한 재검증 메가턴오버 리더다."
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 64.7,
+      "amount_delta": 16425.98268815098,
+      "cash_delta_krw": -1062761.0799233685,
+      "reason": "ID는 24h 대금 2094.5억원, +8.74%, 74.7% 위치로 단순 함정주에서 재상승 보드 리더로 복귀했다."
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "PUNDIX",
+      "action": "BUY",
+      "price_krw": 253.0,
+      "amount_delta": 4200.636679539006,
+      "cash_delta_krw": -1062761.0799233685,
+      "reason": "PUNDIX는 24h 대금 237.1억원, +27.78%, 82.4% 위치로 이번 오전 최강 fresh breakout 코어다."
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "ZAMA",
+      "action": "BUY",
+      "price_krw": 56.0,
+      "amount_delta": 18977.87642720301,
+      "cash_delta_krw": -1062761.0799233685,
+      "reason": "ZAMA는 24h 대금 86.4억원, +3.90%, 80.6% 위치로 상장 후속 모멘텀을 가장 깔끔하게 유지한다."
+    },
+    {
+      "timestamp": "2026-05-31T11:30:00+09:00",
+      "symbol": "ALGO",
+      "action": "BUY",
+      "price_krw": 187.0,
+      "amount_delta": 5683.214331141008,
+      "cash_delta_krw": -1062761.0799233685,
+      "reason": "ALGO는 24h 대금 113.7억원, +1.08%, 71.4% 위치로 품질형 legacy L1 continuation 중 가장 깔끔하다."
     }
   ]
 }
