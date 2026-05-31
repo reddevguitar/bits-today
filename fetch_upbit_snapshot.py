@@ -45,6 +45,9 @@ STABILITY_SUPPORT_MAX_DAY_HIGH_GAP = -4
 SECONDARY_CONTINUATION_MIN_TURNOVER = 2_000_000_000
 SECONDARY_CONTINUATION_MIN_RANGE_POSITION = 70
 SECONDARY_CONTINUATION_MAX_DAY_HIGH_GAP = -5
+QUALITY_SURVIVOR_MIN_TURNOVER = 5_000_000_000
+QUALITY_SURVIVOR_MIN_RANGE_POSITION = 45
+QUALITY_SURVIVOR_MAX_DAY_HIGH_GAP = -6
 MEGA_RECLAIM_MIN_TURNOVER = 100_000_000_000
 MEGA_RECLAIM_MIN_RANGE_POSITION = 65
 MEGA_RECLAIM_MAX_DAY_HIGH_GAP = -8
@@ -198,6 +201,13 @@ secondary_continuation_alts = [
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= SECONDARY_CONTINUATION_MAX_DAY_HIGH_GAP)
 ]
 
+quality_survivor_alts = [
+    r for r in positive
+    if r['turnover_krw_24h'] >= QUALITY_SURVIVOR_MIN_TURNOVER
+    and (r['range_position_pct'] is not None and r['range_position_pct'] >= QUALITY_SURVIVOR_MIN_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= QUALITY_SURVIVOR_MAX_DAY_HIGH_GAP)
+]
+
 mega_reclaim_alts = [
     r for r in positive
     if r['turnover_krw_24h'] >= MEGA_RECLAIM_MIN_TURNOVER
@@ -268,6 +278,7 @@ snapshot = {
     'exhausted_blowoff_positive_alts': exhausted_blowoff_positive_alts[:20],
     'stability_support_alts': stability_support_alts[:20],
     'secondary_continuation_alts': secondary_continuation_alts[:20],
+    'quality_survivor_alts': quality_survivor_alts[:20],
     'mega_reclaim_alts': mega_reclaim_alts[:20],
 }
 
@@ -293,5 +304,6 @@ print(json.dumps({
     'stalled_positive_liquidity_alts': stalled_positive_liquidity_alts[:10],
     'stability_support_alts': stability_support_alts[:10],
     'secondary_continuation_alts': secondary_continuation_alts[:10],
+    'quality_survivor_alts': quality_survivor_alts[:10],
     'mega_reclaim_alts': mega_reclaim_alts[:10],
 }, ensure_ascii=False, indent=2))

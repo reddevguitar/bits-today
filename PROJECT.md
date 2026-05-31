@@ -46,6 +46,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - A former turnover-trap name may re-enter only after reclaiming clear upper-range structure (roughly 60-65%+ of the day range) with positive momentum
 - Prefer 65%+ range-position for core picks unless a recent listing or explicit event explains a slightly lower reading
 - When top-turnover breadth weakens and many leaders sink below mid-range, shift from raw gainers to liquid relative-strength survivors (roughly 55%+ range-position with real turnover) instead of chasing exhausted spikes
+- When majors collapse into single-digit range-position, allow a few 45-60% quality survivors with clean gap/turnover to fill the last slots rather than forcing late parabolic chases
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:

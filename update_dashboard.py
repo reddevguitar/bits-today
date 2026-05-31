@@ -78,6 +78,7 @@ ICONS = {
     'ONT': '🧠',
     'POLYX': '🧪',
     'FF': '🦅',
+    'ALGO': '🔺',
     'NEAR': '🌉',
     'LINK': '🔗',
     'ONG': '⛽',
