@@ -52,6 +52,10 @@ MEGA_RECLAIM_MIN_TURNOVER = 100_000_000_000
 MEGA_RECLAIM_MIN_RANGE_POSITION = 65
 MEGA_RECLAIM_MAX_DAY_HIGH_GAP = -8
 LIQUID_SELECTION_MIN_TURNOVER = 2_000_000_000
+RELATIVE_STRENGTH_RECLAIM_MIN_TURNOVER = 4_000_000_000
+RELATIVE_STRENGTH_RECLAIM_MIN_RANGE_POSITION = 60
+RELATIVE_STRENGTH_RECLAIM_MAX_DAY_HIGH_GAP = -3.5
+RELATIVE_STRENGTH_RECLAIM_MIN_CHANGE_PCT = -2
 
 
 def get_json(url: str):
@@ -215,6 +219,14 @@ mega_reclaim_alts = [
     and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= MEGA_RECLAIM_MAX_DAY_HIGH_GAP)
 ]
 
+relative_strength_reclaim_alts = [
+    r for r in leaders
+    if r['turnover_krw_24h'] >= RELATIVE_STRENGTH_RECLAIM_MIN_TURNOVER
+    and r['change_pct_24h'] >= RELATIVE_STRENGTH_RECLAIM_MIN_CHANGE_PCT
+    and (r['range_position_pct'] is not None and r['range_position_pct'] >= RELATIVE_STRENGTH_RECLAIM_MIN_RANGE_POSITION)
+    and (r['day_high_gap_pct'] is not None and r['day_high_gap_pct'] >= RELATIVE_STRENGTH_RECLAIM_MAX_DAY_HIGH_GAP)
+]
+
 top15_alt_leaders = leaders[:15]
 top15_alt_positive_count = sum(1 for r in top15_alt_leaders if r['change_pct_24h'] > 0)
 top15_alt_low_range_count = sum(1 for r in top15_alt_leaders if (r['range_position_pct'] is not None and r['range_position_pct'] <= 35))
@@ -280,6 +292,7 @@ snapshot = {
     'secondary_continuation_alts': secondary_continuation_alts[:20],
     'quality_survivor_alts': quality_survivor_alts[:20],
     'mega_reclaim_alts': mega_reclaim_alts[:20],
+    'relative_strength_reclaim_alts': relative_strength_reclaim_alts[:20],
 }
 
 (OUT / 'upbit_snapshot.json').write_text(json.dumps(snapshot, ensure_ascii=False, indent=2))
@@ -306,4 +319,5 @@ print(json.dumps({
     'secondary_continuation_alts': secondary_continuation_alts[:10],
     'quality_survivor_alts': quality_survivor_alts[:10],
     'mega_reclaim_alts': mega_reclaim_alts[:10],
+    'relative_strength_reclaim_alts': relative_strength_reclaim_alts[:10],
 }, ensure_ascii=False, indent=2))

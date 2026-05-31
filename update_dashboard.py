@@ -101,6 +101,8 @@ ICONS = {
     'VIRTUAL': '🤖',
     'LPT': '📺',
     'HIVE': '🍯',
+    'STRAX': '⚡',
+    'ZORA': '🖼️',
     'ME': '🪄',
     'STEEM': '📝',
     'EDGE': '🗡️',

@@ -55,3 +55,4 @@ The dashboard should evolve toward a compact portal experience:
 - easy comparison of 5 preferred picks
 - visible notes on what improved this cycle
 - compact scorecard, risk-plan, and rotation-bucket visibility
+

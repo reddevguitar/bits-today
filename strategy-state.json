@@ -1,333 +1,338 @@
 {
-  "updated_at": "2026-05-31T23:30:00+09:00",
-  "top_line": "메이저 평균 위치 11.0% 붕괴. 올캐시 대신 XLM·KITE 코어에 ALGO·NEAR·VVV를 더한 5분산 survivor 바스켓으로 함정주를 정리한다.",
-  "macro_summary": "2026-05-31 23:30 KST 기준 BTC 108.744M원, ETH 2.971M원, XRP 1,967원, SOL 121.3K원이다. 상위 4대 메이저 평균 위치는 11.0%로 17:30의 23.5%보다 더 꺾였고, 업비트 톱15 알트 중 저위치 비중도 66.7%까지 높아졌다. 광범위 추격장은 아니지만 XLM과 KITE를 중심으로 일부 quality survivor는 아직 살아 있다.",
-  "news_summary": "외부 확인 기준 Stellar는 Q1 2026에 온체인 RWA 20억달러+, 결제 볼륨 55억달러, 99.99% 업타임을 강조했고, 5월 Mesh 통합으로 스테이블코인 결제 레일 서사가 이어진다. 반대로 이번 시간대 업비트 주도주는 새 공식 호재보다 실제 보드 체류와 대금 생존 여부가 더 중요한 판단 근거였다.",
-  "community_summary": "업비트 리테일 자금은 XLM 한 종목으로 강하게 응집됐고, STRAX·HIVE 같은 급등주는 대금은 커도 되밀림이 깊었다. 커뮤니티성 추격보다는 XLM·KITE처럼 상단 체류가 확인된 종목과 ALGO·NEAR·VVV 같은 quality survivor를 섞는 편이 낫다.",
-  "public_figure_summary": "Sam Altman 연상 베타가 붙던 WLD는 80B대 대금에도 10%대 위치로 무너졌다. 이번 회차는 public-figure beta를 코어에서 제외하고 watchlist 경고등으로만 유지한다.",
-  "major_coin_summary": "BTC -0.60%·13.1% 위치 / ETH -0.80%·11.8% 위치 / XRP -0.96%·7.1% 위치 / SOL -0.98%·12.0% 위치 / 메이저 평균 11.0% 위치",
-  "altcoin_selection_summary": "preferred buy는 XLM, KITE, ALGO, NEAR, VVV다. XLM은 mega reclaim, KITE는 fresh continuation, ALGO·NEAR는 major breakdown 구간을 버티는 quality survivor, VVV는 남겨둘 만한 공격 attention 슬롯이다. STRAX·HIVE·PUNDIX는 과열되거나 되밀림이 너무 깊어 제외했다.",
-  "overall_bias": "selective aggressive survivor rotation under major breakdown",
-  "confidence": "medium-low",
+  "updated_at": "2026-06-01T05:30:00+09:00",
+  "top_line": "메이저는 아직 약하지만 single-digit 붕괴에서는 벗어났다. XLM 중심에 STRAX·WLD·VVV·SAHARA를 얹는 reclaim survivor 5분산으로 더 공격적으로 전환한다.",
+  "macro_summary": "2026-06-01 05:30 KST 기준 BTC 108.634M원, ETH 2.955M원, XRP 1,962원, SOL 120.7K원이다. 상위 4대 메이저 평균 위치는 20.7%로 직전 11.0%보다는 나아졌지만 여전히 약하다. 업비트 톱15 알트 중 저위치 비중은 73.3%로 넓은 추세장은 아니며, 상단 체류 종목만 골라 공격해야 한다.",
+  "news_summary": "공식 외부 확인 기준 Stellar는 5월 Bermuda 온체인 경제 계획, Figure의 YLDS 출시, Franklin Templeton BENJI 5주년, MoneyGram 파트너십 확장 등 실사용/RWA 결제 서사를 계속 쌓고 있다. 다만 이번 회차 업비트 보드는 새 공식 호재보다 실제 체류 위치와 거래대금 생존 여부가 더 큰 판단 근거였다.",
+  "community_summary": "업비트 리테일 자금은 여전히 XLM과 STRAX에 가장 크게 몰렸고, HIVE·PUNDIX처럼 상승률만 큰 종목은 분배 냄새가 강했다. 새벽 커뮤니티성 추격은 무조건 녹색보다 WLD·CHZ 같은 relative-strength reclaim, VVV·SAHARA 같은 clean survivor 쪽이 더 낫다.",
+  "public_figure_summary": "Sam Altman 연상 베타인 WLD는 이번엔 함정주에서 상단 reclaim으로 복귀했다. 24시간 기준 소폭 음수라도 68.6% 위치와 -3.08% gap을 지켜 공격 슬롯 1자리를 허용한다.",
+  "major_coin_summary": "BTC -0.72%·19.6% 위치 / ETH -1.34%·14.1% 위치 / XRP -1.16%·28.6% 위치 / SOL -1.39%·20.6% 위치 / 메이저 평균 20.7% 위치",
+  "altcoin_selection_summary": "preferred buy는 XLM, STRAX, WLD, VVV, SAHARA다. XLM은 여전히 초대금 리더, STRAX는 최강 고베타, WLD는 relative-strength reclaim, VVV는 attention survivor, SAHARA는 AI survivor로 배치했다. KITE·ALGO·NEAR는 구조가 약해졌고 ZORA·CHZ는 보조 승격 대기다.",
+  "overall_bias": "aggressive selective reclaim-survivor rotation",
+  "confidence": "medium",
   "preferred_buy_candidates": [
     {
-      "symbol": "XLM",
       "market": "KRW-XLM",
+      "symbol": "XLM",
       "korean_name": "스텔라루멘",
       "english_name": "Lumen",
-      "price_krw": 380.0,
-      "change_pct_24h": 11.43695015,
-      "turnover_krw_24h": 224340911189.05704,
+      "price_krw": 365.0,
+      "change_pct_24h": 7.03812317,
+      "turnover_krw_24h": 224338706437.26285,
       "opening_price": 340.0,
       "high_price": 395.0,
       "low_price": 327.0,
-      "range_position_pct": 77.9,
-      "day_high_gap_pct": -3.8,
-      "role": "mega-turnover payments reclaim",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 10,
-      "community": "업비트 리테일이 메이저 붕괴 속에서도 유일하게 초대금·고위치를 동시에 남겨준 결제 코어다.",
-      "reason": "XLM은 24h 대금 2243.4억원, +11.44%, 77.9% 위치로 메이저 붕괴 속에서도 유일한 mega reclaim 코어다.",
-      "invalidated_if": "367원 하회 시 mega reclaim 약화",
-      "strategy": "mega-turnover-payments-reclaim",
-      "selection_score": 19.22695015,
-      "score": 19.23,
-      "risk": "367원 하회 시 mega reclaim 약화",
-      "thesis": "XLM은 24h 대금 2243.4억원, +11.44%, 77.9% 위치로 메이저 붕괴 속에서도 유일한 mega reclaim 코어다.",
-      "allocation_krw": 1017398.4458517883
-    },
-    {
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "korean_name": "카이트",
-      "english_name": "Kite",
-      "price_krw": 314.0,
-      "change_pct_24h": 8.27586207,
-      "turnover_krw_24h": 9205093450.242586,
-      "opening_price": 290.0,
-      "high_price": 319.0,
-      "low_price": 289.0,
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -1.57,
-      "role": "fresh continuation breakout",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 12,
-      "community": "late-session까지 80%대 상단 체류를 지켜 STRAX보다 훨씬 깔끔한 지속형으로 남았다.",
-      "reason": "KITE는 24h 대금 92.1억원, +8.28%, 83.3% 위치로 late-session에서도 무너지지 않은 fresh continuation이다.",
-      "invalidated_if": "307원 하회 시 breakout 훼손",
-      "strategy": "fresh-continuation-breakout",
-      "selection_score": 16.60586207,
-      "score": 16.61,
-      "risk": "307원 하회 시 breakout 훼손",
-      "thesis": "KITE는 24h 대금 92.1억원, +8.28%, 83.3% 위치로 late-session에서도 무너지지 않은 fresh continuation이다.",
-      "allocation_krw": 1017398.4458517883
-    },
-    {
-      "symbol": "ALGO",
-      "market": "KRW-ALGO",
-      "korean_name": "알고랜드",
-      "english_name": "Algorand",
-      "price_krw": 191.0,
-      "change_pct_24h": 3.24324324,
-      "turnover_krw_24h": 7650168070.424336,
-      "opening_price": 184.0,
-      "high_price": 197.0,
-      "low_price": 182.0,
-      "range_position_pct": 60.0,
-      "day_high_gap_pct": -3.05,
-      "role": "quality survivor rebound",
+      "range_position_pct": 55.9,
+      "day_high_gap_pct": -7.59,
+      "selection_score": 60.44,
+      "role": "mega-liquidity reclaim anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 9,
-      "community": "급등 추격군이 무너진 뒤 50%대 중상단과 70억원대 대금으로 남은 드문 품질 회복 슬롯이다.",
-      "reason": "ALGO는 24h 대금 76.5억원, +3.24%, 60.0% 위치로 breadth 붕괴장에 필요한 quality survivor 슬롯이다.",
-      "invalidated_if": "184원 하회 시 survivor 가정 약화",
-      "strategy": "quality-survivor-rebound",
-      "selection_score": 9.24324324,
-      "score": 9.24,
-      "risk": "184원 하회 시 survivor 가정 약화",
-      "thesis": "ALGO는 24h 대금 76.5억원, +3.24%, 60.0% 위치로 breadth 붕괴장에 필요한 quality survivor 슬롯이다.",
-      "allocation_krw": 1017398.4458517883
+      "community": "업비트 자금이 새벽에도 XLM에 가장 크게 남아 있어 완전 이탈보다 핵심 리더로 해석한다.",
+      "reason": "XLM은 24h 대금 2243.4억원, +7.04%, 55.9% 위치로 고점 대비 숨고르기 중이지만 여전히 업비트 최상위 유동성 리더다.",
+      "invalidated_if": "355원 하회 시 리더십 약화",
+      "strategy": "mega-liquidity-reclaim-anchor",
+      "score": 60.44,
+      "risk": "355원 하회 시 리더십 약화",
+      "thesis": "XLM은 24h 대금 2243.4억원, +7.04%, 55.9% 위치로 고점 대비 숨고르기 중이지만 여전히 업비트 최상위 유동성 리더다.",
+      "allocation_krw": 995273.5719351061
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "korean_name": "니어프로토콜",
-      "english_name": "NEAR Protocol",
-      "price_krw": 3388.0,
-      "change_pct_24h": 1.61967606,
-      "turnover_krw_24h": 21659686337.804466,
-      "opening_price": 3338.0,
-      "high_price": 3474.0,
-      "low_price": 3311.0,
-      "range_position_pct": 47.2,
-      "day_high_gap_pct": -2.48,
-      "role": "large-cap support survivor",
+      "market": "KRW-STRAX",
+      "symbol": "STRAX",
+      "korean_name": "저트라",
+      "english_name": "Xertra",
+      "price_krw": 22.8,
+      "change_pct_24h": 33.33333333,
+      "turnover_krw_24h": 92646988642.73013,
+      "opening_price": 17.1,
+      "high_price": 26.7,
+      "low_price": 17.1,
+      "range_position_pct": 59.4,
+      "day_high_gap_pct": -14.61,
+      "selection_score": 54.04,
+      "role": "high-beta turnover spear",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 15,
+      "community": "리테일 추격이 가장 거센 슬롯이라 과열 위험이 크지만, 현재 보드에서 공격성을 가장 확실히 보여준다.",
+      "reason": "STRAX는 24h 대금 926.5억원, +33.33%, 59.4% 위치로 gap은 깊지만 여전히 새벽 보드의 최강 고베타 스피어다.",
+      "invalidated_if": "21.7원 하회 시 parabolic follow-through 실패",
+      "strategy": "high-beta-turnover-spear",
+      "score": 54.04,
+      "risk": "21.7원 하회 시 parabolic follow-through 실패",
+      "thesis": "STRAX는 24h 대금 926.5억원, +33.33%, 59.4% 위치로 gap은 깊지만 여전히 새벽 보드의 최강 고베타 스피어다.",
+      "allocation_krw": 995273.5719351061
+    },
+    {
+      "market": "KRW-WLD",
+      "symbol": "WLD",
+      "korean_name": "월드코인",
+      "english_name": "Worldcoin",
+      "price_krw": 503.0,
+      "change_pct_24h": -1.56555773,
+      "turnover_krw_24h": 53642192604.38492,
+      "opening_price": 511.0,
+      "high_price": 519.0,
+      "low_price": 468.0,
+      "range_position_pct": 68.6,
+      "day_high_gap_pct": -3.08,
+      "selection_score": 27.81,
+      "role": "public-figure reclaim beta",
       "risk_limit_pct": 4,
-      "profit_take_pct": 8,
-      "community": "대형 알트 중 되밀림이 작고 200억원대 대금을 유지해 HBAR보다 한 단계 건강한 체급 방어축이다.",
-      "reason": "NEAR는 24h 대금 216.6억원, +1.62%, 47.2% 위치로 대형 알트 중 가장 읽기 쉬운 support survivor다.",
-      "invalidated_if": "3290원 하회 시 support survivor 훼손",
-      "strategy": "large-cap-support-survivor",
-      "selection_score": 6.33967606,
-      "score": 6.34,
-      "risk": "3290원 하회 시 support survivor 훼손",
-      "thesis": "NEAR는 24h 대금 216.6억원, +1.62%, 47.2% 위치로 대형 알트 중 가장 읽기 쉬운 support survivor다.",
-      "allocation_krw": 1017398.4458517883
+      "profit_take_pct": 10,
+      "community": "Sam Altman 연상 베타가 다시 붙으며 음수 24h라도 상단 체류가 유지되고 있다.",
+      "reason": "WLD는 24h -1.57%지만 대금 536.4억원, 68.6% 위치, -3.08% gap으로 약한 장에서 드문 relative-strength reclaim 사례다.",
+      "invalidated_if": "492원 하회 시 reclaim 구조 훼손",
+      "strategy": "public-figure-reclaim-beta",
+      "score": 27.81,
+      "risk": "492원 하회 시 reclaim 구조 훼손",
+      "thesis": "WLD는 24h -1.57%지만 대금 536.4억원, 68.6% 위치, -3.08% gap으로 약한 장에서 드문 relative-strength reclaim 사례다.",
+      "allocation_krw": 995273.5719351061
     },
     {
-      "symbol": "VVV",
       "market": "KRW-VVV",
+      "symbol": "VVV",
       "korean_name": "베니스토큰",
       "english_name": "Venice Token",
-      "price_krw": 26190.0,
-      "change_pct_24h": 5.13849859,
-      "turnover_krw_24h": 8543520083.720305,
+      "price_krw": 26360.0,
+      "change_pct_24h": 5.82095544,
+      "turnover_krw_24h": 8848517100.822983,
       "opening_price": 24980.0,
       "high_price": 27480.0,
       "low_price": 24720.0,
-      "range_position_pct": 53.3,
-      "day_high_gap_pct": -4.69,
+      "range_position_pct": 59.4,
+      "day_high_gap_pct": -4.08,
+      "selection_score": 31.36,
       "role": "attention survivor continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 10,
-      "community": "attention 계열 중 WLD와 달리 음전 없이 살아남아 공격 슬롯 한 자리를 유지할 만하다.",
-      "reason": "VVV는 24h 대금 85.4억원, +5.14%, 53.3% 위치로 attention 계열 생존주 중 가장 공격적으로 쓸 만하다.",
-      "invalidated_if": "25200원 하회 시 attention survivor 실패",
+      "community": "AI/attention 계열 중 되밀림이 과하지 않고 상단 절반 이상을 지켜 공격 슬롯 명분이 남아 있다.",
+      "reason": "VVV는 24h 대금 88.5억원, +5.82%, 59.4% 위치로 지나친 과열 없이 attention survivor 역할을 이어간다.",
+      "invalidated_if": "25700원 하회 시 survivor 실패",
       "strategy": "attention-survivor-continuation",
-      "selection_score": 10.46849859,
-      "score": 10.47,
-      "risk": "25200원 하회 시 attention survivor 실패",
-      "thesis": "VVV는 24h 대금 85.4억원, +5.14%, 53.3% 위치로 attention 계열 생존주 중 가장 공격적으로 쓸 만하다.",
-      "allocation_krw": 1017398.4458517883
+      "score": 31.36,
+      "risk": "25700원 하회 시 survivor 실패",
+      "thesis": "VVV는 24h 대금 88.5억원, +5.82%, 59.4% 위치로 지나친 과열 없이 attention survivor 역할을 이어간다.",
+      "allocation_krw": 995273.5719351061
+    },
+    {
+      "market": "KRW-SAHARA",
+      "symbol": "SAHARA",
+      "korean_name": "사하라에이아이",
+      "english_name": "Sahara AI",
+      "price_krw": 48.9,
+      "change_pct_24h": 1.66320166,
+      "turnover_krw_24h": 7874790026.042303,
+      "opening_price": 48.0,
+      "high_price": 50.1,
+      "low_price": 47.2,
+      "range_position_pct": 58.6,
+      "day_high_gap_pct": -2.4,
+      "selection_score": 26.8,
+      "role": "ai continuation survivor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9,
+      "community": "AI 서사 중에서는 SAHARA가 새벽에도 가장 깔끔한 gap과 상단 체류를 남겼다.",
+      "reason": "SAHARA는 24h 대금 78.7억원, +1.66%, 58.6% 위치, -2.4% gap으로 지금 보드에서 가장 읽기 쉬운 AI survivor다.",
+      "invalidated_if": "47.6원 하회 시 AI continuation 약화",
+      "strategy": "ai-continuation-survivor",
+      "score": 26.8,
+      "risk": "47.6원 하회 시 AI continuation 약화",
+      "thesis": "SAHARA는 24h 대금 78.7억원, +1.66%, 58.6% 위치, -2.4% gap으로 지금 보드에서 가장 읽기 쉬운 AI survivor다.",
+      "allocation_krw": 995273.5719351061
     }
   ],
   "selected_altcoins": [
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "XLM은 24h 대금 2243.4억원, +11.44%, 77.9% 위치로 메이저 붕괴 속에서도 유일한 mega reclaim 코어다."
+      "reason": "XLM은 24h 대금 2243.4억원, +7.04%, 55.9% 위치로 고점 대비 숨고르기 중이지만 여전히 업비트 최상위 유동성 리더다."
     },
     {
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "reason": "KITE는 24h 대금 92.1억원, +8.28%, 83.3% 위치로 late-session에서도 무너지지 않은 fresh continuation이다."
+      "symbol": "STRAX",
+      "market": "KRW-STRAX",
+      "reason": "STRAX는 24h 대금 926.5억원, +33.33%, 59.4% 위치로 gap은 깊지만 여전히 새벽 보드의 최강 고베타 스피어다."
     },
     {
-      "symbol": "ALGO",
-      "market": "KRW-ALGO",
-      "reason": "ALGO는 24h 대금 76.5억원, +3.24%, 60.0% 위치로 breadth 붕괴장에 필요한 quality survivor 슬롯이다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "NEAR는 24h 대금 216.6억원, +1.62%, 47.2% 위치로 대형 알트 중 가장 읽기 쉬운 support survivor다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "WLD는 24h -1.57%지만 대금 536.4억원, 68.6% 위치, -3.08% gap으로 약한 장에서 드문 relative-strength reclaim 사례다."
     },
     {
       "symbol": "VVV",
       "market": "KRW-VVV",
-      "reason": "VVV는 24h 대금 85.4억원, +5.14%, 53.3% 위치로 attention 계열 생존주 중 가장 공격적으로 쓸 만하다."
+      "reason": "VVV는 24h 대금 88.5억원, +5.82%, 59.4% 위치로 지나친 과열 없이 attention survivor 역할을 이어간다."
+    },
+    {
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "SAHARA는 24h 대금 78.7억원, +1.66%, 58.6% 위치, -2.4% gap으로 지금 보드에서 가장 읽기 쉬운 AI survivor다."
     }
   ],
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "108.6M원대 저점이 다시 무너지면 알트 전반 추가 압박으로 봐야 한다."
+      "reason": "108.6M원대가 또 꺾이면 reclaim 시도 중인 알트도 같이 밀릴 가능성이 높다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "2.97M원선 회복 실패가 길어지면 체급형 알트 지지력도 더 약해진다."
+      "reason": "2.955M원대가 약해 메이저 회복 확인 전까지 알트 확산은 제한적으로 본다."
     },
     {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "42% 급등에도 gap이 깊어 25원대 재안착 전까지 추격 금지다."
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "46.7% 위치까지 식었지만 303원 재회복 후 55%+ 복귀면 재승격 가능하다."
     },
     {
-      "symbol": "HIVE",
-      "market": "KRW-HIVE",
-      "reason": "대금은 크지만 40%대 위치면 확장보다 분배 가능성을 먼저 본다."
+      "symbol": "ZORA",
+      "market": "KRW-ZORA",
+      "reason": "15% 상승과 65.8% 위치로 강하지만 -7.18% gap가 깊어 STRAX 대체 후보로만 본다."
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "70.6% 위치·-1.0% gap의 clean reclaim이라 WLD 대체 품질 슬롯 후보다."
     },
     {
       "symbol": "HBAR",
       "market": "KRW-HBAR",
-      "reason": "141원선을 다시 회복·고정하면 NEAR 대체 후보로 재승격 가능하다."
+      "reason": "243억원대 대금에도 40% 위치라 아직 survivor 승격은 이르다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "Sam Altman attention이 다시 살아도 10%대 저위치면 함정주 우선 해석이다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "965억원대 대금에도 16% 위치면 전형적인 turnover trap 경계가 우선이다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "600억원대 대금에도 7%대 위치면 기관서사보다 대금 함정 신호가 강하다."
+      "reason": "635억원대 대금에도 21.4% 위치라 기관서사보다 함정주 해석이 맞다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "48원 재회복 전까지는 AI 슬롯 재진입보다 관찰이 우선이다."
-    },
-    {
-      "symbol": "FF",
-      "market": "KRW-FF",
-      "reason": "100% 위치지만 유동성이 약해 과소형 과열주로만 취급한다."
-    },
-    {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "80%대 회복이 다시 붙으면 KITE 보조 슬롯 후보로 재검토할 수 있다."
-    }
-  ],
-  "risk_notes": [
-    "메이저 평균 위치가 11.0%라 장 전체가 한번 더 밀리면 알트 survivor도 빠르게 붕괴할 수 있다.",
-    "XLM 한 종목이 preferred 24h 대금의 절반 이상을 차지해 리더 집중도가 높다.",
-    "KITE·VVV는 상단 체류가 장점이지만 체급이 작아 late-session 변동성이 커질 수 있다.",
-    "ALGO·NEAR는 quality survivor 성격이라 속도는 느릴 수 있고, 지지 이탈 시 매력도가 급격히 떨어진다.",
-    "STRAX·HIVE·PUNDIX 같은 급등주는 다시 튈 수 있지만 현재 위치에선 손익비가 나쁘다."
-  ],
-  "fear_greed": "28 (Fear, Alternative.me latest; yesterday 23)",
-  "btc_reference": "BTC 108.744M원대 / ETH 2.971M원대 / XRP 1,967원대 / SOL 121.3K원대",
-  "improvement_log": [
-    "fetch_upbit_snapshot.py에 quality_survivor_alts 버킷을 추가해 메이저 붕괴 구간에서 45~60% 위치·양호한 gap·실거래대금을 함께 보는 보조 슬롯 후보를 자동 수집하게 했다.",
-    "PROJECT.md에 메이저가 한 자릿수 위치로 무너질 때는 late parabolic chase 대신 quality survivor로 마지막 슬롯을 채우는 규칙을 추가했다.",
-    "dashboard 아이콘 맵에 ALGO를 추가해 이번 회차처럼 보조 survivor가 올라와도 화면 가독성이 덜 깨지게 했다."
-  ],
-  "self_evaluation": {
-    "score": 8.2,
-    "summary": "17:30의 survivor 전환 자체는 맞았지만 HBAR·SAHARA 잔류를 조금 더 빨리 끊었어야 했다. 이번엔 메이저 붕괴를 더 강하게 반영해 HBAR·SAHARA를 ALGO·NEAR로 교체한 점이 개선이다."
-  },
-  "rejected_candidates": [
-    {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "830억원대 대금과 40%대 상승은 강하지만 -9%대 gap가 깊어 late chase 리스크가 너무 크다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "223억원대 대금이 남아도 24.1% 위치라 지지 복구 전까지 관망한다."
     },
     {
       "symbol": "HIVE",
       "market": "KRW-HIVE",
-      "reason": "668억원대 대금에도 41.6% 위치면 급등률보다 분배 의심이 더 강하다."
+      "reason": "14.75% 상승에도 33.2% 위치·-20.32% gap면 분배 위험이 훨씬 크다."
     },
     {
       "symbol": "PUNDIX",
       "market": "KRW-PUNDIX",
-      "reason": "+8%여도 22.1% 위치·-21.9% gap면 exhausted spike다."
+      "reason": "571억원대 대금에도 19.5% 위치면 exhausted spike로 본다."
+    }
+  ],
+  "risk_notes": [
+    "메이저 평균 위치가 20.7%로 개선됐지만 아직 약세권이라 알트 follow-through가 쉽게 꺾일 수 있다.",
+    "XLM 대금 비중이 여전히 매우 높아 리더 의존도가 크다.",
+    "STRAX는 수익 기여 가능성이 큰 대신 -14.61% gap이라 가장 변동성이 거친 슬롯이다.",
+    "WLD는 relative-strength reclaim이지만 24h 기준 여전히 음수라 상단 이탈 시 다시 함정주로 바뀔 수 있다.",
+    "SAHARA·VVV는 clean survivor지만 체급이 작아 아침 유동성 감소 시 흔들릴 수 있다."
+  ],
+  "fear_greed": "28 (Fear, Alternative.me latest; yesterday 23)",
+  "btc_reference": "BTC 108.634M원대 / ETH 2.955M원대 / XRP 1,962원대 / SOL 120.7K원대",
+  "improvement_log": [
+    "fetch_upbit_snapshot.py에 relative_strength_reclaim_alts 버킷을 추가해 약한 음수라도 상단 체류와 shallow gap을 지키는 WLD·CHZ 같은 회복형을 별도로 포착하게 했다.",
+    "PROJECT.md에 breadth 약세 구간에서 all-green 집착 대신 relative-strength reclaim 1~2슬롯을 허용하는 규칙을 추가했다.",
+    "dashboard 아이콘 맵에 STRAX·ZORA를 추가해 빠른 순환 후보가 올라와도 리포트/대시보드 스캔 속도가 떨어지지 않게 했다."
+  ],
+  "self_evaluation": {
+    "score": 8.4,
+    "summary": "직전 회차의 survivor 전환 자체는 맞았지만 ALGO·NEAR를 너무 오래 붙잡아 새벽 reclaim 복귀를 늦게 반영했다. 이번엔 relative-strength reclaim 규칙을 만들고 WLD를 다시 매수군으로 올린 점이 개선이다."
+  },
+  "rejected_candidates": [
+    {
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "96.9억원 대금은 남아도 46.7% 위치로 fresh continuation 명분이 약해졌다."
     },
     {
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "reason": "255억원대 대금은 좋지만 30% 위치로 밀려 support survivor 5선에서 탈락했다."
+      "symbol": "ZORA",
+      "market": "KRW-ZORA",
+      "reason": "15%대 강세는 좋지만 -7.18% gap가 아직 깊어 주력 5선보다 한 단계 아래다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "820억원대 대금에도 10% 위치라 attention trap 경고가 우세하다."
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "구조는 깨끗하지만 46.7억원대 체급이 이번 aggressive 바스켓의 메인 후보들보다 작다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "655억원대 대금에도 7.3% 위치로 구조가 최악의 함정주에 가깝다."
+      "symbol": "HIVE",
+      "market": "KRW-HIVE",
+      "reason": "709억원대 대금에도 33.2% 위치·-20.32% gap면 분배 리스크가 너무 크다."
+    },
+    {
+      "symbol": "PUNDIX",
+      "market": "KRW-PUNDIX",
+      "reason": "571억원대 대금에도 19.5% 위치·-22.63% gap으로 exhausted spike 해석이 우세하다."
+    },
+    {
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "223억원대 대금이 남아도 24.1% 위치라 support survivor 지위를 상실했다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "0% while XLM/KITE remain intact; re-open cash only if BTC 108.6M breaks and survivors fail together",
-    "review_trigger": "BTC 108.6M원 하회 지속, XLM 367원 하회, KITE 307원 하회, ALGO 184원 하회, NEAR 3290원 하회, VVV 25200원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "0% while XLM/WLD/SAHARA survive; reopen cash only if BTC 108.6M breaks and the reclaim basket loses upper-range structure together",
+    "review_trigger": "BTC 108.6M원 하회 지속, XLM 355원 하회, STRAX 21.7원 하회, WLD 492원 하회, VVV 25700원 하회, SAHARA 47.6원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "major breakdown 구간에서는 deep-gap 급등주보다 quality survivor를 우선한다.",
-      "quality_survivor_alts는 45%+ 위치, -6% 이내 gap, 50억원+ 실거래대금을 동시에 확인한 종목만 쓴다."
+      "breadth 약세 구간에서는 상승률보다 upper-range 체류와 shallow gap을 우선한다.",
+      "relative_strength_reclaim 슬롯은 60%+ 위치, -3.5% 이내 gap, -2% 이상 24h 변화, 40억원+ 실거래대금을 동시에 확인한 종목만 쓴다."
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2714.0억원이다.",
-    "momentum_discipline": "XLM은 mega reclaim, KITE는 fresh breakout, ALGO·NEAR·VVV는 quality survivor 슬롯으로 분리했다.",
-    "diversification": "payments / fresh continuation / legacy L1 rebound / large-cap support / attention survivor 5분산",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 3873.5억원이다.",
+    "momentum_discipline": "XLM은 mega-liquidity, STRAX는 parabolic beta, WLD는 relative-strength reclaim, VVV·SAHARA는 survivor continuation으로 역할을 분리했다.",
+    "diversification": "payments / parabolic beta / public-figure beta / attention survivor / AI survivor 5분산",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "메이저는 사실상 붕괴지만 XLM 단일 강세와 일부 survivor가 남아 있어 완전 회피보다 선별 공격이 낫다. 다만 범용 베타 추격은 금지다."
+    "summary": "메이저는 여전히 약하지만 single-digit panic에서는 벗어났다. 그래서 완전 회피보다 reclaim-survivor 5분산이 더 낫고, 단 raw gainers 추격은 금지다."
   },
   "rotation_map": [
     {
-      "out": "HBAR",
-      "in": "ALGO",
-      "why": "30% 위치 대형 둔화를 50%대 quality survivor로 교체"
+      "out": "KITE",
+      "in": "STRAX",
+      "why": "fading continuation을 더 강한 고베타 turnover spear로 교체"
     },
     {
-      "out": "SAHARA",
-      "in": "NEAR",
-      "why": "AI 슬롯 붕괴를 대형 support survivor로 교체"
+      "out": "ALGO",
+      "in": "WLD",
+      "why": "33% 위치 quality survivor를 68.6% 위치 relative-strength reclaim으로 교체"
+    },
+    {
+      "out": "NEAR",
+      "in": "SAHARA",
+      "why": "깨진 support survivor를 cleaner AI survivor로 교체"
     },
     {
       "out": "XLM(old lot)",
       "in": "XLM(new lot)",
-      "why": "강화된 mega reclaim 코어를 새 가격 기준으로 재평형"
-    },
-    {
-      "out": "KITE(old lot)",
-      "in": "KITE(new lot)",
-      "why": "fresh continuation 코어를 새 가격 기준으로 재평형"
+      "why": "초대금 리더를 새벽 가격 기준으로 재평형"
     },
     {
       "out": "VVV(old lot)",
       "in": "VVV(new lot)",
-      "why": "공격 attention 슬롯은 유지하되 새 가격 기준으로 재평형"
+      "why": "attention survivor는 유지하되 새 가격 기준으로 재평형"
     }
   ],
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 5.94,
-    "preferred_positive_count": 5,
-    "preferred_negative_count": 0,
-    "preferred_turnover_total_krw_24h": 271399379131.24875,
-    "leader_turnover_share_pct": 82.66,
+    "preferred_avg_change_pct_24h": 9.26,
+    "preferred_positive_count": 4,
+    "preferred_negative_count": 1,
+    "preferred_turnover_total_krw_24h": 387351194811.2432,
+    "leader_turnover_share_pct": 57.92,
     "leader_symbol": "XLM"
   },
-  "ui_version": "v8.5",
+  "ui_version": "v8.6",
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "5종 모두 양수지만 메이저 붕괴가 심해 survivor mode로만 해석해야 한다."
+    "comment": "5종 중 WLD만 24h 음수지만 구조는 양호하다. STRAX는 upside와 downside가 모두 큰 초고위험 슬롯이다."
   }
 }
