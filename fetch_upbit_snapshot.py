@@ -48,6 +48,7 @@ SECONDARY_CONTINUATION_MAX_DAY_HIGH_GAP = -5
 MEGA_RECLAIM_MIN_TURNOVER = 100_000_000_000
 MEGA_RECLAIM_MIN_RANGE_POSITION = 65
 MEGA_RECLAIM_MAX_DAY_HIGH_GAP = -8
+LIQUID_SELECTION_MIN_TURNOVER = 2_000_000_000
 
 
 def get_json(url: str):
@@ -215,7 +216,8 @@ leadership_health = {
     'weak_breadth_warning': top15_alt_positive_count <= 3 or top15_alt_low_range_count >= 8
 }
 
-selection_leaderboard = sorted(leaders, key=lambda x: x.get('selection_score', 0), reverse=True)[:25]
+liquid_leaders = [r for r in leaders if r['turnover_krw_24h'] >= LIQUID_SELECTION_MIN_TURNOVER]
+selection_leaderboard = sorted(liquid_leaders or leaders, key=lambda x: x.get('selection_score', 0), reverse=True)[:25]
 
 previous_snapshot = {}
 if SNAPSHOT_PATH.exists():

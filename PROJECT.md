@@ -45,6 +45,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When top-turnover leaders look trap-like, widen the scan to second-tier high-range breakouts instead of anchoring on size alone
 - A former turnover-trap name may re-enter only after reclaiming clear upper-range structure (roughly 60-65%+ of the day range) with positive momentum
 - Prefer 65%+ range-position for core picks unless a recent listing or explicit event explains a slightly lower reading
+- When top-turnover breadth weakens and many leaders sink below mid-range, shift from raw gainers to liquid relative-strength survivors (roughly 55%+ range-position with real turnover) instead of chasing exhausted spikes
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:

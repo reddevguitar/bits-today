@@ -3,123 +3,123 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4276423.516843988,
-  "last_valuation_krw": 5313805.399616842,
-  "last_action": "FULL_ROTATE_TO_REVALIDATED_LEADERS",
-  "last_updated": "2026-05-31T11:30:00+09:00",
-  "trade_count": 409,
+  "realized_pnl_krw": -4526760.223693662,
+  "last_valuation_krw": 5063468.692767167,
+  "last_action": "FULL_ROTATE_TO_RELATIVE_STRENGTH_SURVIVORS",
+  "last_updated": "2026-05-31T17:30:00+09:00",
+  "trade_count": 419,
   "positions": {
     "XLM": {
       "market": "KRW-XLM",
-      "amount": 2985.2839323690127,
-      "avg_buy_price_krw": 356.0,
-      "last_price_krw": 356.0,
-      "value_krw": 1062761.0799233685,
-      "thesis": "XLM은 24h 대금 3087.8억원, +4.40%, 85.3% 위치로 이번 오전 가장 강한 재검증 메가턴오버 리더다.",
-      "strategy": "revalidated-mega-turnover-payments-leader",
-      "role": "revalidated mega-turnover payments leader",
+      "amount": 2910.03947860182,
+      "avg_buy_price_krw": 348.0,
+      "last_price_krw": 348.0,
+      "value_krw": 1012693.7385534334,
+      "thesis": "XLM은 24h 대금 1975.5억원, +2.05%, 61.8% 위치로 약한 메이저 속에서도 가장 큰 실전 유동성을 유지한 재강화 코어다.",
+      "strategy": "mega-turnover-payments-reclaim",
+      "role": "mega-turnover payments reclaim",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 9
+    },
+    "HBAR": {
+      "market": "KRW-HBAR",
+      "amount": 7032.595406621065,
+      "avg_buy_price_krw": 144.0,
+      "last_price_krw": 144.0,
+      "value_krw": 1012693.7385534334,
+      "thesis": "HBAR는 24h 대금 282.4억원, +2.13%, 85.7% 위치로 이번 시간대 사실상 유일한 대형 continuation 후보였다.",
+      "strategy": "enterprise-payments-continuation",
+      "role": "enterprise payments continuation",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 8
+    },
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 20541.455143071675,
+      "avg_buy_price_krw": 49.3,
+      "last_price_krw": 49.3,
+      "value_krw": 1012693.7385534334,
+      "thesis": "SAHARA는 24h 대금 67.6억원, +2.49%, 84.0% 위치로 붕괴한 급등주 대신 잡을 수 있는 AI 생존 슬롯이다.",
+      "strategy": "ai-relative-strength-continuation",
+      "role": "ai relative-strength continuation",
       "risk_limit_pct": 4,
-      "profit_take_pct": 12
+      "profit_take_pct": 10
     },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 16425.98268815098,
-      "avg_buy_price_krw": 64.7,
-      "last_price_krw": 64.7,
-      "value_krw": 1062761.0799233685,
-      "thesis": "ID는 24h 대금 2094.5억원, +8.74%, 74.7% 위치로 단순 함정주에서 재상승 보드 리더로 복귀했다.",
-      "strategy": "revalidated-retail-identity-rotation",
-      "role": "revalidated retail identity rotation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 13
-    },
-    "PUNDIX": {
-      "market": "KRW-PUNDIX",
-      "amount": 4200.636679539006,
-      "avg_buy_price_krw": 253.0,
-      "last_price_krw": 253.0,
-      "value_krw": 1062761.0799233685,
-      "thesis": "PUNDIX는 24h 대금 237.1억원, +27.78%, 82.4% 위치로 이번 오전 최강 fresh breakout 코어다.",
-      "strategy": "fresh-retail-breakout",
-      "role": "fresh retail breakout",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 18
-    },
-    "ZAMA": {
-      "market": "KRW-ZAMA",
-      "amount": 18977.87642720301,
-      "avg_buy_price_krw": 56.0,
-      "last_price_krw": 56.0,
-      "value_krw": 1062761.0799233685,
-      "thesis": "ZAMA는 24h 대금 86.4억원, +3.90%, 80.6% 위치로 상장 후속 모멘텀을 가장 깔끔하게 유지한다.",
-      "strategy": "upbit-listing-residual-privacy-continuation",
-      "role": "upbit listing residual privacy continuation",
+    "KITE": {
+      "market": "KRW-KITE",
+      "amount": 3256.2499631943197,
+      "avg_buy_price_krw": 311.0,
+      "last_price_krw": 311.0,
+      "value_krw": 1012693.7385534334,
+      "thesis": "KITE는 24h 대금 64.2억원, +7.24%, 84.6% 위치로 late-session에서도 깨지지 않은 중형 지속형이다.",
+      "strategy": "mid-cap-fresh-continuation",
+      "role": "mid-cap fresh continuation",
       "risk_limit_pct": 4,
       "profit_take_pct": 11
     },
-    "ALGO": {
-      "market": "KRW-ALGO",
-      "amount": 5683.214331141008,
-      "avg_buy_price_krw": 187.0,
-      "last_price_krw": 187.0,
-      "value_krw": 1062761.0799233685,
-      "thesis": "ALGO는 24h 대금 113.7억원, +1.08%, 71.4% 위치로 품질형 legacy L1 continuation 중 가장 깔끔하다.",
-      "strategy": "quality-legacy-l1-continuation",
-      "role": "quality legacy-l1 continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
+    "VVV": {
+      "market": "KRW-VVV",
+      "amount": 37.50717550197901,
+      "avg_buy_price_krw": 27000.0,
+      "last_price_krw": 27000.0,
+      "value_krw": 1012693.7385534334,
+      "thesis": "VVV는 24h 대금 58.8억원, +8.39%, 83.2% 위치로 attention 계열 중 되밀림이 가장 적은 quality breakout이다.",
+      "strategy": "attention-driven-quality-breakout",
+      "role": "attention-driven quality breakout",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "109.3M원 하향 지속이면 알트 공격 비중을 즉시 낮춘다."
+      "reason": "109.2M원 재이탈이 길어지면 알트 전반 추가 압박 신호다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "3.0M원 위 유지 여부가 메이저 체력 확인 포인트다."
-    },
-    {
-      "symbol": "XRP",
-      "market": "KRW-XRP",
-      "reason": "메이저 중 가장 약한 위치라 breadth 악화 경고등 역할이다."
-    },
-    {
-      "symbol": "SOL",
-      "market": "KRW-SOL",
-      "reason": "123K원 재확대가 나오면 알트 follow-through에 우호적이다."
+      "reason": "3.0M원 복원 실패가 계속되면 대형 알트 지지력도 약해진다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "public-figure beta가 다시 515원대 회복하면 attention 슬롯 재승격 가능성이 있다."
-    },
-    {
-      "symbol": "HIVE",
-      "market": "KRW-HIVE",
-      "reason": "60%대 위치를 유지해 ALGO 약화 시 대체 1순위가 될 수 있다."
-    },
-    {
-      "symbol": "VET",
-      "market": "KRW-VET",
-      "reason": "80%대 고위치의 저변동 quality slot이라 방어적 대체 후보다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "AI-agent 구조가 1090원 재돌파 시 톱5 복귀 가능성이 있다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3340원대에서 다시 상단 회복이 나오는지 확인할 필요가 있다."
+      "reason": "초대금인데도 30.8% 위치면 attention trap 경고등이다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "대금은 크지만 아직 저위치라 trap 경계가 우세하다."
+      "reason": "593억원대 대금에도 11.4% 위치라 전형적인 대금 함정 체크포인트다."
+    },
+    {
+      "symbol": "STRAX",
+      "market": "KRW-STRAX",
+      "reason": "41.5% 급등 뒤 gap이 큰 만큼 25원대 재안착 여부만 추적한다."
+    },
+    {
+      "symbol": "HIVE",
+      "market": "KRW-HIVE",
+      "reason": "17% 급등에도 39% 위치면 추격보다 재상단 복귀 확인이 우선이다."
+    },
+    {
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "3395원대에서 55% 이상 재확대가 나오면 HBAR 대체 후보가 된다."
+    },
+    {
+      "symbol": "ZAMA",
+      "market": "KRW-ZAMA",
+      "reason": "55.4원 유지면 privacy 슬롯 재승격 여지는 남아 있다."
+    },
+    {
+      "symbol": "RENDER",
+      "market": "KRW-RENDER",
+      "reason": "60% 위치를 유지해 AI 대체 슬롯으로는 아직 유효하다."
+    },
+    {
+      "symbol": "VET",
+      "market": "KRW-VET",
+      "reason": "56%대 저변동 continuation이라 late-session 방어 대체 후보다."
     }
   ],
   "history": [
@@ -3812,6 +3812,96 @@
       "amount_delta": 5683.214331141008,
       "cash_delta_krw": -1062761.0799233685,
       "reason": "ALGO는 24h 대금 113.7억원, +1.08%, 71.4% 위치로 품질형 legacy L1 continuation 중 가장 깔끔하다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 348.0,
+      "amount_delta": -2985.2839323690127,
+      "cash_delta_krw": 1038878.8084644164,
+      "reason": "메가대금 코어는 유지하지만 이번 회차는 전 종목을 새 가격대로 균등 재편해 리스크 기준을 다시 맞춘다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 59.7,
+      "amount_delta": -16425.98268815098,
+      "cash_delta_krw": 980631.1664826135,
+      "reason": "1295억원대 대금에도 26.3% 위치·-10.86% gap로 revalidation 가정이 완전히 무너져 전량 교체."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "PUNDIX",
+      "action": "SELL",
+      "price_krw": 220.0,
+      "amount_delta": -4200.636679539006,
+      "cash_delta_krw": 924140.0694985813,
+      "reason": "급등률은 높지만 31.2% 위치·-19.34% gap로 fresh breakout이 아니라 exhausted spike가 됐다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "ZAMA",
+      "action": "SELL",
+      "price_krw": 55.4,
+      "amount_delta": -18977.87642720301,
+      "cash_delta_krw": 1051374.3540670467,
+      "reason": "완전 붕괴는 아니지만 52.8% 위치로 후퇴해 더 강한 SAHARA·KITE·VVV에게 자리를 양보한다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "ALGO",
+      "action": "SELL",
+      "price_krw": 188.0,
+      "amount_delta": -5683.214331141008,
+      "cash_delta_krw": 1068444.2942545095,
+      "reason": "품질형 슬롯 역할은 했지만 41.7% 위치로 둔화돼 약세 장 생존주 우선 원칙에 따라 교체한다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 348.0,
+      "amount_delta": 2910.03947860182,
+      "cash_delta_krw": -1012693.7385534334,
+      "reason": "XLM은 24h 대금 1976.8억원, +1.47%, 55.9% 위치로 약한 메이저 속에서도 가장 큰 실전 유동성을 유지한 재강화 코어다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "HBAR",
+      "action": "BUY",
+      "price_krw": 144.0,
+      "amount_delta": 7032.595406621065,
+      "cash_delta_krw": -1012693.7385534334,
+      "reason": "HBAR는 24h 대금 282.0억원, +2.13%, 85.7% 위치로 이번 시간대 사실상 유일한 대형 continuation 후보였다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 49.3,
+      "amount_delta": 20541.455143071675,
+      "cash_delta_krw": -1012693.7385534334,
+      "reason": "SAHARA는 24h 대금 67.7억원, +2.70%, 88.0% 위치로 붕괴한 급등주 대신 잡을 수 있는 AI 생존 슬롯이다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 311.0,
+      "amount_delta": 3256.2499631943197,
+      "cash_delta_krw": -1012693.7385534334,
+      "reason": "KITE는 24h 대금 63.8억원, +7.24%, 84.6% 위치로 late-session에서도 깨지지 않은 중형 지속형이다."
+    },
+    {
+      "timestamp": "2026-05-31T17:30:00+09:00",
+      "symbol": "VVV",
+      "action": "BUY",
+      "price_krw": 27000.0,
+      "amount_delta": 37.50717550197901,
+      "cash_delta_krw": -1012693.7385534334,
+      "reason": "VVV는 24h 대금 58.7억원, +8.35%, 82.8% 위치로 attention 계열 중 되밀림이 가장 적은 quality breakout이다."
     }
   ]
 }
