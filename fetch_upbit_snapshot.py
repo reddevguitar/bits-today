@@ -237,6 +237,17 @@ leadership_health = {
     'top15_alt_low_range_ratio_pct': round((top15_alt_low_range_count / len(top15_alt_leaders)) * 100, 2) if top15_alt_leaders else 0,
     'weak_breadth_warning': top15_alt_positive_count <= 3 or top15_alt_low_range_count >= 8
 }
+breakout_breadth = {
+    'fresh_breakout_count': len(fresh_breakout_positive_alts),
+    'high_conviction_count': len(high_conviction_positive),
+    'quality_survivor_count': len(quality_survivor_alts),
+    'relative_strength_reclaim_count': len(relative_strength_reclaim_alts),
+    'breakout_cluster_active': len(fresh_breakout_positive_alts) >= 4 or len(high_conviction_positive) >= 6,
+    'summary': (
+        f"fresh {len(fresh_breakout_positive_alts)} / conviction {len(high_conviction_positive)} / "
+        f"survivor {len(quality_survivor_alts)} / reclaim {len(relative_strength_reclaim_alts)}"
+    )
+}
 
 liquid_leaders = [r for r in leaders if r['turnover_krw_24h'] >= LIQUID_SELECTION_MIN_TURNOVER]
 selection_leaderboard = sorted(liquid_leaders or leaders, key=lambda x: x.get('selection_score', 0), reverse=True)[:25]
@@ -274,6 +285,7 @@ snapshot = {
     'major_health': major_health,
     'major_delta': major_delta,
     'leadership_health': leadership_health,
+    'breakout_breadth': breakout_breadth,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:30],
     'selection_leaderboard': selection_leaderboard,
@@ -302,6 +314,7 @@ print(json.dumps({
     'major_health': major_health,
     'major_delta': major_delta,
     'leadership_health': leadership_health,
+    'breakout_breadth': breakout_breadth,
     'top_majors': majors,
     'top_alt_leaders_by_turnover': leaders[:15],
     'selection_leaderboard': selection_leaderboard[:12],

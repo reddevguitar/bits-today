@@ -399,6 +399,7 @@ status = {
     'snapshot_age_hours': snapshot_age_hours,
     'snapshot_delta': snapshot.get('leadership_delta', {}),
     'snapshot_major_delta': snapshot.get('major_delta', {}),
+    'snapshot_breakout_breadth': snapshot.get('breakout_breadth', {}),
     'scenario_view': scenario_view,
     'preferred_setup_quality': preferred_setup_quality,
     'selection_checks': selection_checks,
