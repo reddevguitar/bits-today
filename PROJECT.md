@@ -38,12 +38,13 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 ## Core selection rules
 - Always maintain 5 preferred buy candidates
 - Focus on Upbit-listed altcoins
-- Exclude the top 4 largest Upbit majors from the preferred alt-buy list
+- Exclude the top 4 largest Upbit majors from alt candidate picks
 - Keep majors visible as reference signals, but not as alt picks
 - Use community/news/search inputs when they materially help
 - Prefer fresh, comparative judgment over static watchlists
 - When top-turnover leaders look trap-like, widen the scan to second-tier high-range breakouts instead of anchoring on size alone
 - A former turnover-trap name may re-enter only after reclaiming clear upper-range structure (roughly 60-65%+ of the day range) with positive momentum
+- On breadth-flip sessions where majors sharply recover and top-turnover breadth re-expands, allow fast re-entry of former trap names only if they hold roughly 80%+ range-position with real turnover
 - Prefer 65%+ range-position for core picks unless a recent listing or explicit event explains a slightly lower reading
 - When top-turnover breadth weakens and many leaders sink below mid-range, shift from raw gainers to liquid relative-strength survivors (roughly 55%+ range-position with real turnover) instead of chasing exhausted spikes
 - When majors collapse into single-digit range-position, allow a few 45-60% quality survivors with clean gap/turnover to fill the last slots rather than forcing late parabolic chases
@@ -56,4 +57,3 @@ The dashboard should evolve toward a compact portal experience:
 - easy comparison of 5 preferred picks
 - visible notes on what improved this cycle
 - compact scorecard, risk-plan, and rotation-bucket visibility
-
