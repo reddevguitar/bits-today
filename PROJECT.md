@@ -49,6 +49,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When top-turnover breadth weakens and many leaders sink below mid-range, shift from raw gainers to liquid relative-strength survivors (roughly 55%+ range-position with real turnover) instead of chasing exhausted spikes
 - When majors collapse into single-digit range-position, allow a few 45-60% quality survivors with clean gap/turnover to fill the last slots rather than forcing late parabolic chases
 - When majors stay weak but fresh-breakout breadth is clearly active (for example multiple 90%+ range-position alts with real turnover), permit a faster rotation back into breakout leaders instead of over-defending older survivors.
+- When breadth stays strong but one of the held high-beta slots turns negative or slips below stronger 80%+ range-position alternatives, replace it in the next cycle instead of defending stale laggards.
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
