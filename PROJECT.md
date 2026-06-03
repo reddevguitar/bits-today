@@ -39,7 +39,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - Always maintain 5 preferred buy candidates
 - Focus on Upbit-listed altcoins
 - Exclude the top 4 largest Upbit majors from alt candidate picks
-- Keep majors visible as reference signals, but not as alt picks
+- Major coins may still be tracked as market context and risk barometers
 - Use community/news/search inputs when they materially help
 - Prefer fresh, comparative judgment over static watchlists
 - When top-turnover leaders look trap-like, widen the scan to second-tier high-range breakouts instead of anchoring on size alone
@@ -50,6 +50,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When majors collapse into single-digit range-position, allow a few 45-60% quality survivors with clean gap/turnover to fill the last slots rather than forcing late parabolic chases
 - When majors stay weak but fresh-breakout breadth is clearly active (for example multiple 90%+ range-position alts with real turnover), permit a faster rotation back into breakout leaders instead of over-defending older survivors.
 - When breadth stays strong but one of the held high-beta slots turns negative or slips below stronger 80%+ range-position alternatives, replace it in the next cycle instead of defending stale laggards.
+- When majors break down but 4개 이상 비메이저 알트가 75%+ range-position과 실거래대금을 동시에 유지하면, 50% 미만으로 내려온 대형 품질 코어를 고집하지 말고 독립 강세 생존주로 교체한다.
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:

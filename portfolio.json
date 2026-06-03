@@ -3,69 +3,69 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -4877377.869126935,
-  "last_valuation_krw": 5122622.127681301,
-  "last_action": "ROTATE_LAGGARDS_TO_WLD_JTO_VIRTUAL",
-  "last_updated": "2026-06-03T20:46:43+09:00",
-  "trade_count": 469,
+  "realized_pnl_krw": -4865505.759446961,
+  "last_valuation_krw": 5134494.237361275,
+  "last_action": "ROTATE_NEAR_TO_ENA_AND_REBALANCE",
+  "last_updated": "2026-06-04T08:47:00+09:00",
+  "trade_count": 479,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 1375.200571189611,
-      "avg_buy_price_krw": 745.0,
-      "last_price_krw": 745.0,
-      "value_krw": 1024524.4255362602,
-      "thesis": "WLD는 1.35억달러 자금조달과 Orb/World ID 확장 기대가 붙은 상태에서 업비트 24h 대금 1321억원, +31.86%, 85.0% 위치로 가장 강한 메가 브레이크아웃입니다.",
-      "strategy": "attention-mega-breakout",
-      "role": "attention mega breakout",
-      "risk_limit_pct": 7,
+      "amount": 1293.3234854814293,
+      "avg_buy_price_krw": 794.0,
+      "last_price_krw": 794.0,
+      "value_krw": 1026898.8474722549,
+      "thesis": "WLD는 World의 1.35억달러 자금조달과 Orb·World ID 확장 뉴스가 살아 있는 상태에서 업비트 24h 대금 2150억원, +40.53%, 83.6% 위치를 동시에 보여 가장 강한 독립 강세 코어입니다.",
+      "strategy": "attention-mega-reclaim",
+      "role": "attention mega reclaim",
+      "risk_limit_pct": 8,
       "profit_take_pct": 18
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 1655.128312659548,
-      "avg_buy_price_krw": 619.0,
-      "last_price_krw": 619.0,
-      "value_krw": 1024524.4255362602,
-      "thesis": "ONDO는 JPMorgan·Mastercard·Ripple 연계 토큰화 미 국채 상환 파일럿 서사가 계속 유효하고, 업비트에서도 1147억원 대금·78.2% 위치를 유지합니다.",
-      "strategy": "rwa-institutional anchor",
+      "amount": 1669.7542235321218,
+      "avg_buy_price_krw": 615.0,
+      "last_price_krw": 615.0,
+      "value_krw": 1026898.8474722549,
+      "thesis": "ONDO는 JPMorgan·Mastercard·Ripple과의 토큰화 미 국채 상환 파일럿 서사가 남아 있고 69.5% 위치·842.8억원 대금으로 기관형 앵커 역할이 가장 선명합니다.",
+      "strategy": "rwa-institutional-anchor",
       "role": "rwa institutional anchor",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 240.5551597878047,
-      "avg_buy_price_krw": 4259.0,
-      "last_price_krw": 4259.0,
-      "value_krw": 1024524.4255362602,
-      "thesis": "NEAR는 859.6억원 대금과 +9.77%, 72.7% 위치를 지켜 체급형 알트 중 가장 안정적인 quality trend 코어입니다.",
-      "strategy": "large-cap quality trend core",
-      "role": "large cap quality trend core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
+    "ENA": {
+      "market": "KRW-ENA",
+      "amount": 6112.4931397158025,
+      "avg_buy_price_krw": 168.0,
+      "last_price_krw": 168.0,
+      "value_krw": 1026898.8474722549,
+      "thesis": "ENA는 특별한 메이저 동조 없이 +20.00%, 344.0억원 대금, 81.8% 위치를 만든 독립 브레이크아웃이라 NEAR보다 공격 슬롯 우위가 높습니다.",
+      "strategy": "synthetic-dollar-beta-breakout",
+      "role": "synthetic-dollar beta breakout",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 16
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 1080.7219678652534,
-      "avg_buy_price_krw": 948.0,
-      "last_price_krw": 948.0,
-      "value_krw": 1024524.4255362602,
-      "thesis": "JTO는 Jito Labs의 JTX self-custody 트레이딩 플랫폼 기대와 Solana 강세가 겹치며 +15.05%, 97.1% 위치의 fresh breakout을 만들었습니다.",
-      "strategy": "solana-trader-infra breakout",
-      "role": "solana trader infra breakout",
+      "amount": 1088.9701457818185,
+      "avg_buy_price_krw": 943.0,
+      "last_price_krw": 943.0,
+      "value_krw": 1026898.8474722549,
+      "thesis": "JTO는 Jito Labs의 JTX self-custody 트레이딩 플랫폼 공개 이후 215.1억원 대금, +14.44%, 79.8% 위치를 유지해 솔라나계 알트 중 구조가 가장 깔끔합니다.",
+      "strategy": "solana-trader-infra-continuation",
+      "role": "solana trader infra continuation",
       "risk_limit_pct": 6,
       "profit_take_pct": 15
     },
     "VIRTUAL": {
       "market": "KRW-VIRTUAL",
-      "amount": 924.6610338774911,
-      "avg_buy_price_krw": 1108.0,
-      "last_price_krw": 1108.0,
-      "value_krw": 1024524.4255362602,
-      "thesis": "VIRTUAL은 AI agent 플랫폼 서사가 이어지는 가운데 246.0억원 대금, +6.64%, 86.7% 위치로 ZORA보다 훨씬 건강한 continuation 구조를 보입니다.",
-      "strategy": "ai-agent continuation",
-      "role": "ai agent continuation",
+      "amount": 949.952680362863,
+      "avg_buy_price_krw": 1081.0,
+      "last_price_krw": 1081.0,
+      "value_krw": 1026898.8474722549,
+      "thesis": "VIRTUAL은 Arbitrum 에이전트 커머스 확장 서사와 함께 206.6억원 대금, 59.2% 위치 reclaim을 보여 메이저 붕괴장 속 AI 노출용으로 가장 실전적입니다.",
+      "strategy": "ai-agent-reclaim",
+      "role": "ai agent reclaim",
       "risk_limit_pct": 6,
       "profit_take_pct": 14
     }
@@ -74,52 +74,52 @@
     {
       "symbol": "BTC",
       "market": "KRW-BTC",
-      "reason": "BTC 98.8M원 재이탈 시 지금의 breadth-expansion 해석이 약해집니다."
+      "reason": "BTC 95.0M원 추가 이탈 시 현재 비메이저 생존 강세 해석도 훼손됩니다."
     },
     {
       "symbol": "ETH",
       "market": "KRW-ETH",
-      "reason": "ETH 2.76M~2.79M원 고위치 유지가 알트 follow-through 확산 조건입니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "1187.5억원 대금과 65.4% 위치 reclaim은 강하지만 이번 회차는 major-adjacent reference로만 둡니다."
-    },
-    {
-      "symbol": "ENA",
-      "market": "KRW-ENA",
-      "reason": "82.1% 위치와 +10.71%로 매우 좋지만 VIRTUAL/JTO보다 내러티브 중복 우위가 약해 대기 1순위입니다."
+      "reason": "ETH 2.63M원 부근 반등 실패가 길어지면 알트 follow-through가 급격히 약해질 수 있습니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "84.0% 위치의 체급형 코어지만 이번 회차는 NEAR가 더 강했습니다."
+      "reason": "66.2% 위치와 -2.08% gap로 가장 안정적인 대체 L1 후보입니다."
     },
     {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "대금은 크지만 -0.25%로 둔화돼 강세 재가속이 나오기 전까지 한 단계 뒤입니다."
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "reason": "+36.97%와 79.3% 위치는 강하지만 갭이 넓어 과열 조정 확인 전까지 대기합니다."
     },
     {
-      "symbol": "ZORA",
-      "market": "KRW-ZORA",
-      "reason": "서사는 남았지만 58.1% 위치와 -6.4% gap로 구조가 약해졌습니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "1071.8억원 대금은 크지만 44.0% 위치와 -8.33% gap라 재강화 전까지 제외합니다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "64.0% reclaim은 괜찮지만 6월 26일 unlock 리스크와 속도 둔화가 남습니다."
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "12.66%와 78.4% 위치는 좋지만 업비트 관심도와 역할 분산에서 VIRTUAL·ENA보다 한 단계 뒤입니다."
     },
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "대금 1위지만 28.9% 위치·-10.73% gap라 turnover trap 해석을 유지합니다."
+      "reason": "대금 2위지만 7.6% 위치·-30.91% gap로 대표 turnover trap입니다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "100% 위치의 meme beta이지만 이번 회차는 top4 majors 외 mega reference 성격으로만 관찰합니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "초대금에도 2.5% 위치로 완전히 무너져 반등 확인 전까지 배제합니다."
+    },
+    {
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "AI 내러티브는 남지만 -2.25%와 21.2% 위치로 약합니다."
+    },
+    {
+      "symbol": "RENDER",
+      "market": "KRW-RENDER",
+      "reason": "53.9% 위치와 161.0억원 대금의 중간급 AI 대안으로만 관찰합니다."
     }
   ],
   "history": [
@@ -4352,6 +4352,96 @@
       "amount_delta": 924.6610338774911,
       "cash_delta_krw": -1024524.4255362602,
       "reason": "VIRTUAL은 AI agent 플랫폼 서사가 이어지는 가운데 246.0억원 대금, +6.64%, 86.7% 위치로 ZORA보다 훨씬 건강한 continuation 구조를 보입니다."
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 794.0,
+      "amount_delta": -1375.200571189611,
+      "cash_delta_krw": 1091909.2535245512,
+      "reason": "최강 attention 코어는 유지하되 08:47 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 615.0,
+      "amount_delta": -1655.128312659548,
+      "cash_delta_krw": 1017903.9122856221,
+      "reason": "기관형 앵커는 유지하되 08:47 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 4182.0,
+      "amount_delta": -240.5551597878047,
+      "cash_delta_krw": 1006001.6782325993,
+      "reason": "대금은 크지만 44.0% 위치와 -8.33% gap로 fading leader 성격이 강해 ENA로 교체"
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 943.0,
+      "amount_delta": -1080.7219678652534,
+      "cash_delta_krw": 1019120.815696934,
+      "reason": "촉매는 유지되나 08:47 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "SELL",
+      "price_krw": 1081.0,
+      "amount_delta": -924.6610338774911,
+      "cash_delta_krw": 999558.5776215679,
+      "reason": "AI reclaim 슬롯은 유지하되 08:47 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 794.0,
+      "amount_delta": 1293.3234854814293,
+      "cash_delta_krw": -1026898.8474722549,
+      "reason": "WLD는 World의 1.35억달러 자금조달과 Orb·World ID 확장 뉴스가 살아 있는 상태에서 업비트 24h 대금 2150억원, +40.53%, 83.6% 위치를 동시에 보여 가장 강한 독립 강세 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 615.0,
+      "amount_delta": 1669.7542235321218,
+      "cash_delta_krw": -1026898.8474722549,
+      "reason": "ONDO는 JPMorgan·Mastercard·Ripple과의 토큰화 미 국채 상환 파일럿 서사가 남아 있고 69.5% 위치·842.8억원 대금으로 기관형 앵커 역할이 가장 선명합니다."
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "ENA",
+      "action": "BUY",
+      "price_krw": 168.0,
+      "amount_delta": 6112.4931397158025,
+      "cash_delta_krw": -1026898.8474722549,
+      "reason": "ENA는 특별한 메이저 동조 없이 +20.00%, 344.0억원 대금, 81.8% 위치를 만든 독립 브레이크아웃이라 NEAR보다 공격 슬롯 우위가 높습니다."
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 943.0,
+      "amount_delta": 1088.9701457818185,
+      "cash_delta_krw": -1026898.8474722549,
+      "reason": "JTO는 Jito Labs의 JTX self-custody 트레이딩 플랫폼 공개 이후 215.1억원 대금, +14.44%, 79.8% 위치를 유지해 솔라나계 알트 중 구조가 가장 깔끔합니다."
+    },
+    {
+      "timestamp": "2026-06-04T08:47:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 1081.0,
+      "amount_delta": 949.952680362863,
+      "cash_delta_krw": -1026898.8474722549,
+      "reason": "VIRTUAL은 Arbitrum 에이전트 커머스 확장 서사와 함께 206.6억원 대금, 59.2% 위치 reclaim을 보여 메이저 붕괴장 속 AI 노출용으로 가장 실전적입니다."
     }
   ]
 }
