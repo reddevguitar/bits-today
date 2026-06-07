@@ -48,6 +48,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - Prefer 65%+ range-position for core picks unless a recent listing or explicit event explains a slightly lower reading
 - When top-turnover breadth weakens and many leaders sink below mid-range, shift from raw gainers to liquid relative-strength survivors (roughly 55%+ range-position with real turnover) instead of chasing exhausted spikes
 - When majors collapse into single-digit range-position, allow a few 45-60% quality survivors with clean gap/turnover to fill the last slots rather than forcing late parabolic chases
+- When former turnover-trap names reclaim, allow at most 2 of 5 preferred picks to come from that bucket unless major average range-position is above roughly 55 and breadth is clearly expanding; this prevents over-chasing one rebound narrative.
 - When majors stay weak but fresh-breakout breadth is clearly active (for example multiple 90%+ range-position alts with real turnover), permit a faster rotation back into breakout leaders instead of over-defending older survivors.
 - When breadth stays strong but one of the held high-beta slots turns negative or slips below stronger 80%+ range-position alternatives, replace it in the next cycle instead of defending stale laggards.
 - When majors break down but 4개 이상 비메이저 알트가 75%+ range-position과 실거래대금을 동시에 유지하면, 50% 미만으로 내려온 대형 품질 코어를 고집하지 말고 독립 강세 생존주로 교체한다.

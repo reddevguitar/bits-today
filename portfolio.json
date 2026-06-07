@@ -3,123 +3,118 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -5737891.286680072,
-  "last_valuation_krw": 4262108.713319928,
-  "last_action": "ROTATE_INVALIDATED_NAMES_TO_XLM_SOON_HYPER_SUI_TRX",
-  "last_updated": "2026-06-07T03:42:00+09:00",
-  "trade_count": 489,
+  "realized_pnl_krw": -5662690.994899306,
+  "last_valuation_krw": 4337309.005100694,
+  "last_action": "ROTATE_SURVIVORS_TO_ONDO_NEAR_SOON_PENGU_VIRTUAL",
+  "last_updated": "2026-06-07T09:42:00+09:00",
+  "trade_count": 499,
   "positions": {
-    "XLM": {
-      "market": "KRW-XLM",
-      "amount": 2697.5371603290687,
-      "avg_buy_price_krw": 316.0,
-      "last_price_krw": 316.0,
-      "value_krw": 852421.7426639857,
-      "thesis": "XLM은 +2.27%, 853.0억원 대금, 71.8% 위치로 이번 회차 최강 liquid survivor입니다. MoneyGram의 MGUSD 스테이블코인 출시와 Stellar 결제/RWA attention이 겹치지만, 핵심은 업비트에서 실제로 고가권을 지킨다는 점입니다.",
-      "strategy": "payments-rwa-survivor",
-      "role": "payments-rwa survivor",
-      "risk_limit_pct": 5,
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 1738.4004028459692,
+      "avg_buy_price_krw": 499.0,
+      "last_price_krw": 499.0,
+      "value_krw": 867461.8010201387,
+      "thesis": "ONDO는 +1.01%, 371.5억원 대금, 100.0% 위치로 함정 구간을 벗어난 대형 RWA reclaim입니다. 새벽엔 trap이었지만 현재는 상단 복귀가 명확합니다.",
+      "strategy": "rwa-liquidity-reclaim",
+      "role": "rwa-liquidity reclaim",
+      "risk_limit_pct": 4,
       "profit_take_pct": 10
+    },
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 302.9904998323921,
+      "avg_buy_price_krw": 2863.0,
+      "last_price_krw": 2863.0,
+      "value_krw": 867461.8010201387,
+      "thesis": "NEAR는 +1.38%, 228.9억원 대금, 95.9% 위치로 대형 알트 중 가장 깔끔한 품질 reclaim입니다.",
+      "strategy": "quality-l1-reclaim",
+      "role": "quality l1 reclaim",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     },
     "SOON": {
       "market": "KRW-SOON",
-      "amount": 3409.686970655943,
-      "avg_buy_price_krw": 250.0,
-      "last_price_krw": 250.0,
-      "value_krw": 852421.7426639857,
-      "thesis": "SOON은 +9.17%, 43.5억원 대금, 80.0% 위치의 고베타 continuation입니다. 4월 Upbit 상장 이후 남아 있는 한국 리테일 기억효과가 다시 붙고 있어 이번 회차 공격 슬롯으로 적합합니다.",
+      "amount": 3336.3915423851486,
+      "avg_buy_price_krw": 260.0,
+      "last_price_krw": 260.0,
+      "value_krw": 867461.8010201387,
+      "thesis": "SOON은 +0.78%, 48.8억원 대금, 100.0% 위치의 100% 상단 continuation입니다. 체급은 중형이지만 구조가 가장 단순합니다.",
       "strategy": "solana-l2-continuation",
       "role": "solana-l2 continuation",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 16
-    },
-    "HYPER": {
-      "market": "KRW-HYPER",
-      "amount": 8439.819234296889,
-      "avg_buy_price_krw": 101.0,
-      "last_price_krw": 101.0,
-      "value_krw": 852421.7426639857,
-      "thesis": "HYPER는 +4.12%, 41.1억원 대금, 82.6% 위치를 동시에 보여주는 깨끗한 continuation입니다. 뚜렷한 새 호재 확인보다 Hyperlane 계열 인프라 attention과 실제 고가권 유지가 더 중요합니다.",
-      "strategy": "cross-chain-infra-continuation",
-      "role": "cross-chain infra continuation",
       "risk_limit_pct": 6,
       "profit_take_pct": 14
     },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 790.7437315992446,
-      "avg_buy_price_krw": 1078.0,
-      "last_price_krw": 1078.0,
-      "value_krw": 852421.7426639857,
-      "thesis": "SUI는 +0.56%, 222.8억원 대금, 68.3% 위치로 메이저 부진 속에서도 살아남은 체급형 알트입니다. 최근 네트워크 이슈 헤드라인에도 가격이 완전히 무너지지 않아 품질 앵커 가치가 남습니다.",
-      "strategy": "quality-large-cap-survivor",
-      "role": "quality large-cap survivor",
+    "PENGU": {
+      "market": "KRW-PENGU",
+      "amount": 90549.2485407243,
+      "avg_buy_price_krw": 9.58,
+      "last_price_krw": 9.58,
+      "value_krw": 867461.8010201387,
+      "thesis": "PENGU는 +0.42%, 84.7억원 대금, 62.5% 위치로 과열 없이 상단을 지키는 리테일 continuation입니다.",
+      "strategy": "retail-meme-continuation",
+      "role": "retail meme continuation",
       "risk_limit_pct": 5,
-      "profit_take_pct": 10
+      "profit_take_pct": 12
     },
-    "TRX": {
-      "market": "KRW-TRX",
-      "amount": 1739.636209518338,
-      "avg_buy_price_krw": 490.0,
-      "last_price_krw": 490.0,
-      "value_krw": 852421.7426639857,
-      "thesis": "TRX는 +0.41%, 42.5억원 대금, 100.0% 위치의 드문 완전 고가권 종목입니다. Justin Sun/스테이블코인 레일 attention이 남아 있고, 무엇보다 오늘 보드에서 가장 단순한 상단 유지 구조입니다.",
-      "strategy": "stablecoin-rail-anchor",
-      "role": "stablecoin rail anchor",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 8
+    "VIRTUAL": {
+      "market": "KRW-VIRTUAL",
+      "amount": 1038.8764084073516,
+      "avg_buy_price_krw": 835.0,
+      "last_price_krw": 835.0,
+      "value_krw": 867461.8010201387,
+      "thesis": "VIRTUAL은 +0.72%, 73.4억원 대금, 73.3% 위치로 AI attention 회복을 가격이 따라가는 continuation입니다.",
+      "strategy": "ai-attention-continuation",
+      "role": "ai attention continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "198.0억원 대금과 66.7% 위치로 품질형 대체 1순위지만 이번 회차는 TRX가 더 단순한 고가권 구조입니다."
-    },
-    {
-      "symbol": "LINK",
-      "market": "KRW-LINK",
-      "reason": "-0.54%여도 70.1% 위치를 지켜 SUI/TRX 약화 시 교체 가능한 품질 슬롯입니다."
-    },
-    {
-      "symbol": "TAO",
-      "market": "KRW-TAO",
-      "reason": "69.8% 위치의 AI 체급주라 risk-on 재확대 시 편입 후보입니다."
-    },
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "대금은 여전히 크지만 124원 무효화 아래로 내려와 재진입보다 회복 확인이 먼저입니다."
-    },
-    {
-      "symbol": "AERGO",
-      "market": "KRW-AERGO",
-      "reason": "오늘 오전 리더였지만 현재 38.5% 위치로 fresh breakout 명분이 깨졌습니다."
-    },
-    {
-      "symbol": "MLK",
-      "market": "KRW-MLK",
-      "reason": "19.1% 위치 붕괴로 anti-trap 규칙상 금지 구간입니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "36.8% 위치와 -3.41%로 AI 슬롯 우선순위에서 밀렸습니다."
-    },
-    {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "2858.7억원 초대금에도 10.2% 위치라 대표 turnover trap입니다."
+      "reason": "2636.0억원과 96.8% 위치로 매우 강하지만, former-trap 재진입 상한(최대 2개) 때문에 이번 회차는 보류합니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "429.7억원 대금에도 24.1% 위치라 기관 서사보다 trap 해석이 우선입니다."
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "90.5% 위치와 52.2억원 대금으로 SOON 약화 시 대체 1순위입니다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "302.2억원 대금에도 26.5% 위치로 반등보다 trap 확률이 높습니다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "AI 대체 후보지만 현재 위치가 50.0%라 VIRTUAL보다 구조가 약합니다."
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "190.0억원 체급은 좋지만 50.0% 위치로 공격 우선순위에서 밀렸습니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "825.2억원 대금에도 위치가 22.2%라 재상단 복귀 확인이 먼저입니다."
+    },
+    {
+      "symbol": "BABY",
+      "market": "KRW-BABY",
+      "reason": "191.0억원 대금은 좋지만 위치 42.1%로 변동성이 지나칩니다."
+    },
+    {
+      "symbol": "HBAR",
+      "market": "KRW-HBAR",
+      "reason": "50.0% 위치로 오후 확장 확인 전까지는 보조 후보입니다."
+    },
+    {
+      "symbol": "CFG",
+      "market": "KRW-CFG",
+      "reason": "100.0% 위치의 RWA continuation이지만 37.3억원으로 ONDO보다 체급이 작습니다."
+    },
+    {
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "상승률은 높지만 실시간 위치가 50.6%까지 밀려 follow-through 확인이 먼저입니다."
     }
   ],
   "history": [
@@ -4622,6 +4617,96 @@
       "amount_delta": 1739.636209518338,
       "cash_delta_krw": -852421.7426639857,
       "reason": "100% 위치와 0% gap의 가장 단순한 상단 유지 구조라 안정형 공격 앵커로 신규 편입"
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 319.0,
+      "amount_delta": -2697.5371603290687,
+      "cash_delta_krw": 860514.3541449729,
+      "reason": "초대금은 유지됐지만 실행 시점 일중 위치가 10%대까지 무너져 survivor 코어 지위를 상실"
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "SOON",
+      "action": "SELL",
+      "price_krw": 260.0,
+      "amount_delta": -3409.686970655943,
+      "cash_delta_krw": 886518.6123705452,
+      "reason": "기존 보유는 정리하되 더 강한 상단 구조의 새 SOON lot으로 오전 바스켓을 다시 맞춤"
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "HYPER",
+      "action": "SELL",
+      "price_krw": 103.0,
+      "amount_delta": -8439.819234296889,
+      "cash_delta_krw": 869301.3811325795,
+      "reason": "음전환과 50% 위치로 톱5 우선순위에서 밀려 교체"
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1094.0,
+      "amount_delta": -790.7437315992446,
+      "cash_delta_krw": 865073.6423695736,
+      "reason": "체급은 유지됐지만 breadth 확장 구간이라 더 공격적인 상단 구조에 자리 양보"
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "TRX",
+      "action": "SELL",
+      "price_krw": 492.0,
+      "amount_delta": -1739.636209518338,
+      "cash_delta_krw": 855901.0150830223,
+      "reason": "안정형 앵커 역할은 했지만 오전 보드의 주도력은 ONDO·NEAR·SOON·VIRTUAL 쪽이 우위"
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 499.0,
+      "amount_delta": 1738.4004028459692,
+      "cash_delta_krw": -867461.8010201387,
+      "reason": "ONDO는 +1.01%, 371.5억원 대금, 100.0% 위치로 함정 구간을 벗어난 대형 RWA reclaim입니다. 새벽엔 trap이었지만 현재는 상단 복귀가 명확합니다."
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 2863.0,
+      "amount_delta": 302.9904998323921,
+      "cash_delta_krw": -867461.8010201387,
+      "reason": "NEAR는 +1.38%, 228.9억원 대금, 95.9% 위치로 대형 알트 중 가장 깔끔한 품질 reclaim입니다."
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "SOON",
+      "action": "BUY",
+      "price_krw": 260.0,
+      "amount_delta": 3336.3915423851486,
+      "cash_delta_krw": -867461.8010201387,
+      "reason": "SOON은 +0.78%, 48.8억원 대금, 100.0% 위치의 100% 상단 continuation입니다. 체급은 중형이지만 구조가 가장 단순합니다."
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "PENGU",
+      "action": "BUY",
+      "price_krw": 9.58,
+      "amount_delta": 90549.2485407243,
+      "cash_delta_krw": -867461.8010201387,
+      "reason": "PENGU는 +0.42%, 84.7억원 대금, 62.5% 위치로 과열 없이 상단을 지키는 리테일 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-07T09:42:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 835.0,
+      "amount_delta": 1038.8764084073516,
+      "cash_delta_krw": -867461.8010201387,
+      "reason": "VIRTUAL은 +0.72%, 73.4억원 대금, 73.3% 위치로 AI attention 회복을 가격이 따라가는 continuation입니다."
     }
   ]
 }
