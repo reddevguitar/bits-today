@@ -3,118 +3,113 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -5634662.199621263,
-  "last_valuation_krw": 4494387.60354979,
-  "last_action": "BREADTH_FLIP_ROTATE_TO_WLD_ONDO_NEAR_SUI_PENGU",
-  "last_updated": "2026-06-07T15:42:00+09:00",
-  "trade_count": 506,
+  "realized_pnl_krw": -5560683.758172646,
+  "last_valuation_krw": 4568366.044998407,
+  "last_action": "SURVIVOR_ROTATE_TO_WLD_NEAR_ONDO_SAHARA_PENGU",
+  "last_updated": "2026-06-08T03:49:37+09:00",
+  "trade_count": 516,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 1314.1484220905818,
-      "avg_buy_price_krw": 684.0,
-      "last_price_krw": 684.0,
-      "value_krw": 898877.5207099579,
-      "thesis": "WLD는 +8.74%, 2160.7억원 대금, 62.8% 위치로 이번 breadth-flip의 초대금 attention reclaim입니다. 갭은 크지만 업비트 자금 집중이 압도적이라 오후 코어로 승격합니다.",
-      "strategy": "identity-attention-mega-reclaim",
-      "role": "identity-attention mega reclaim",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 16
-    },
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 1715.4151158586983,
-      "avg_buy_price_krw": 524.0,
-      "last_price_krw": 524.0,
-      "value_krw": 898877.5207099579,
-      "thesis": "ONDO는 +6.07%, 347.0억원 대금, 91.9% 위치로 오전 단순 reclaim을 넘어 오후 full follow-through로 확장했습니다.",
-      "strategy": "rwa-mega-reclaim",
-      "role": "rwa mega reclaim",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 13
+      "amount": 1265.4753587253206,
+      "avg_buy_price_krw": 722.0,
+      "last_price_krw": 722.0,
+      "value_krw": 913673.2089996815,
+      "thesis": "WLD는 +14.79%, 2325.4억원 대금, 63.8% 위치로 여전히 업비트 attention의 중심입니다. 고점 갭은 크지만 거래대금이 압도적이라 코어 유지가 타당합니다.",
+      "strategy": "attention-mega-survivor",
+      "role": "attention mega survivor",
+      "risk_limit_pct": 13,
+      "profit_take_pct": 18
     },
     "NEAR": {
       "market": "KRW-NEAR",
-      "amount": 305.7406533027068,
-      "avg_buy_price_krw": 2940.0,
-      "last_price_krw": 2940.0,
-      "value_krw": 898877.5207099579,
-      "thesis": "NEAR는 +4.11%, 237.5억원 대금, 86.7% 위치로 breadth-flip 구간에서도 추격 부담이 가장 낮은 대형 L1입니다.",
-      "strategy": "quality-l1-continuation",
-      "role": "quality l1 continuation",
-      "risk_limit_pct": 5,
+      "amount": 296.7434910684253,
+      "avg_buy_price_krw": 3079.0,
+      "last_price_krw": 3079.0,
+      "value_krw": 913673.2089996815,
+      "thesis": "NEAR는 +9.03%, 344.3억원 대금, 76.1% 위치로 breadth가 식은 뒤에도 가장 안정적인 품질 survivor입니다.",
+      "strategy": "quality-l1-survivor",
+      "role": "quality l1 survivor",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 14
+    },
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 1753.6913800377765,
+      "avg_buy_price_krw": 521.0,
+      "last_price_krw": 521.0,
+      "value_krw": 913673.2089996815,
+      "thesis": "ONDO는 +5.47%, 418.1억원 대금, 58.5% 위치로 fresh breakout은 아니지만 유동성 앵커형 reclaim survivor 역할이 유효합니다.",
+      "strategy": "rwa-reclaim-survivor",
+      "role": "rwa reclaim survivor",
+      "risk_limit_pct": 6,
       "profit_take_pct": 12
     },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 782.9943560191272,
-      "avg_buy_price_krw": 1148.0,
-      "last_price_krw": 1148.0,
-      "value_krw": 898877.5207099579,
-      "thesis": "SUI는 +5.22%, 187.6억원 대금, 96.7% 위치로 체급과 고위치가 동시에 붙은 가장 읽기 쉬운 beta L1 breakout입니다.",
-      "strategy": "beta-l1-breakout",
-      "role": "beta l1 breakout",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 13
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 16199.879592192936,
+      "avg_buy_price_krw": 56.4,
+      "last_price_krw": 56.4,
+      "value_krw": 913673.2089996815,
+      "thesis": "SAHARA는 +13.71%, 129.4억원 대금, 98.6% 위치로 이번 새벽에 남은 거의 유일한 fresh breakout입니다.",
+      "strategy": "ai-fresh-breakout",
+      "role": "ai fresh breakout",
+      "risk_limit_pct": 12,
+      "profit_take_pct": 18
     },
     "PENGU": {
       "market": "KRW-PENGU",
-      "amount": 87269.66220485028,
+      "amount": 88706.13679608557,
       "avg_buy_price_krw": 10.3,
       "last_price_krw": 10.3,
-      "value_krw": 898877.5207099579,
-      "thesis": "PENGU는 +7.97%, 85.6억원 대금, 79.4% 위치로 breadth-flip에서도 리테일 추격 자금이 남아 있는 고베타 continuation입니다.",
+      "value_krw": 913673.2089996815,
+      "thesis": "PENGU는 +7.97%, 51.9억원 대금, 72.0% 위치로 저가 밈 중 여전히 high-range continuation이 유지됩니다.",
       "strategy": "retail-meme-continuation",
       "role": "retail meme continuation",
-      "risk_limit_pct": 6,
+      "risk_limit_pct": 7,
       "profit_take_pct": 15
     }
   },
   "watchlist": [
     {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "15.04% 급등과 136.1억원 대금이 강하지만 이미 하루 고점과의 거리(-2.99%)가 커져 추격은 한 템포 늦췄습니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "21.29%·463.4억원으로 강하지만 위치 64.5%, 고점 갭 -8.97%라 late chase 리스크가 큽니다."
+    },
+    {
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "18.45%·94.2% 위치가 깔끔하지만 대금 40.5억원이라 이번엔 SAHARA보다 우선순위를 낮췄습니다."
     },
     {
       "symbol": "VIRTUAL",
       "market": "KRW-VIRTUAL",
-      "reason": "5.19%·92.3% 위치로 강하지만 SUI와 PENGU가 더 강한 breadth-flip 슬롯이어서 보조 후보로 유지합니다."
+      "reason": "4.58%·67.2% 위치로 무난한 survivor지만 SAHARA와 WLD가 더 강한 AI attention을 가져갑니다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "100% 위치와 165.1억원 대금이 강하지만 이번 회차는 더 알트다운한 분산 조합을 우선합니다."
+      "symbol": "AKT",
+      "market": "KRW-AKT",
+      "reason": "6.85%·72.5% 위치로 보조 후보는 가능하지만 대금이 PENGU보다 약간 낮아 2군 유지입니다."
     },
     {
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "reason": "5.88%·95.0% 위치로 좋지만 대금 34.1억원이라 ONDO 대체까지는 아닙니다."
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "reason": "7.08% 강세에도 위치 40.9%, 고점 갭 -9.7%라 fading leader로 분류합니다."
     },
     {
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "reason": "80.0% 위치와 29.5억원 대금으로 깔끔하지만 SUI보다 체급 우위가 약합니다."
-    },
-    {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "85.7% 위치와 52.1억원 대금이 유지돼 PENGU 약화 시 대체 1순위입니다."
-    },
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "오전 100% 위치에서 오후 46.2%까지 밀렸고 6월 26일 대규모 언락 리스크가 있어 보류합니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "3.67% 양전이지만 위치가 55.3%로 밀려 이번 회차 core 5에는 못 들었습니다."
     },
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "861.9억원 초대금에도 위치 33.3%라 여전히 turnover trap 성격이 강합니다."
+      "reason": "778.8억원 대금에도 위치 30.8%라 turnover trap 해석이 유지됩니다."
     },
     {
-      "symbol": "BABY",
-      "market": "KRW-BABY",
-      "reason": "Upbit 상장 잔열 뉴스는 남지만 현재 -3.24%, 위치 10.0%로 구조가 급격히 훼손됐습니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "거래대금 98.1억원인데 위치 8.3%로 구조가 무너졌습니다."
     }
   ],
   "history": [
@@ -4770,6 +4765,96 @@
       "amount_delta": 782.9943560191272,
       "cash_delta_krw": -898877.5207099579,
       "reason": "96.7% 위치와 187.6억원 대금이 겹친 beta L1 breakout으로 VIRTUAL 대체 코어 편입"
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 722.0,
+      "amount_delta": -1314.1484220905818,
+      "cash_delta_krw": 948815.1607494,
+      "reason": "fresh breakout breadth 축소와 survivor/reclaim 중심 재편을 위해 전량 재조정"
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 521.0,
+      "amount_delta": -1715.4151158586983,
+      "cash_delta_krw": 893731.2753623818,
+      "reason": "fresh breakout breadth 축소와 survivor/reclaim 중심 재편을 위해 전량 재조정"
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3079.0,
+      "amount_delta": -305.7406533027068,
+      "cash_delta_krw": 941375.4715190342,
+      "reason": "fresh breakout breadth 축소와 survivor/reclaim 중심 재편을 위해 전량 재조정"
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1131.0,
+      "amount_delta": -782.9943560191272,
+      "cash_delta_krw": 885566.6166576329,
+      "reason": "fresh breakout breadth 축소와 survivor/reclaim 중심 재편을 위해 전량 재조정"
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "PENGU",
+      "action": "SELL",
+      "price_krw": 10.3,
+      "amount_delta": -87269.66220485028,
+      "cash_delta_krw": 898877.5207099579,
+      "reason": "fresh breakout breadth 축소와 survivor/reclaim 중심 재편을 위해 전량 재조정"
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 722.0,
+      "amount_delta": 1265.4753587253206,
+      "cash_delta_krw": -913673.2089996815,
+      "reason": "WLD는 +14.79%, 2325.4억원 대금, 63.8% 위치로 여전히 업비트 attention의 중심입니다. 고점 갭은 크지만 거래대금이 압도적이라 코어 유지가 타당합니다."
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3079.0,
+      "amount_delta": 296.7434910684253,
+      "cash_delta_krw": -913673.2089996815,
+      "reason": "NEAR는 +9.03%, 344.3억원 대금, 76.1% 위치로 breadth가 식은 뒤에도 가장 안정적인 품질 survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 521.0,
+      "amount_delta": 1753.6913800377765,
+      "cash_delta_krw": -913673.2089996815,
+      "reason": "ONDO는 +5.47%, 418.1억원 대금, 58.5% 위치로 fresh breakout은 아니지만 유동성 앵커형 reclaim survivor 역할이 유효합니다."
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 56.4,
+      "amount_delta": 16199.879592192936,
+      "cash_delta_krw": -913673.2089996815,
+      "reason": "SAHARA는 +13.71%, 129.4억원 대금, 98.6% 위치로 이번 새벽에 남은 거의 유일한 fresh breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-08T03:49:37+09:00",
+      "symbol": "PENGU",
+      "action": "BUY",
+      "price_krw": 10.3,
+      "amount_delta": 88706.13679608557,
+      "cash_delta_krw": -913673.2089996815,
+      "reason": "PENGU는 +7.97%, 51.9억원 대금, 72.0% 위치로 저가 밈 중 여전히 high-range continuation이 유지됩니다."
     }
   ]
 }

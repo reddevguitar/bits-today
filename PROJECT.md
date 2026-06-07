@@ -56,6 +56,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When breadth stays weak, do not keep a merely narrative rebound slot around 50% of the day range if a 70%+ structured alternative with real turnover exists; rotate into the cleaner structure.
 - When fresh-breakout breadth disappears (fresh breakouts near zero) but relative-strength survivors remain active, force at least 3 of 5 preferred picks to come from survivor/reclaim groups and avoid sub-55% range-position laggards unless a clearly stronger turnover catalyst exists.
 - When major average range-position surges above roughly 80 and fresh breakouts are 4개 이상, force at least 3 of 5 preferred picks to come from 75%+ fresh/reclaimed leaders instead of defending older 40-60% continuations from the prior cycle.
+- When a prior breadth-flip session cools quickly (major average falls back toward the 60s and fresh breakouts shrink to 1 or fewer), stop treating the old 90%+ basket as intact and rebuild around 1 fresh breakout plus 4 survivor/reclaim names.
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
