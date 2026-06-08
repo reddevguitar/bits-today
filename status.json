@@ -1,150 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive recovery-continuation basket with one small-cap beta slot",
-  "confidence": "medium-high",
+  "judgment": "aggressive mixed rotation with one attention leader, two liquid cores, and two mid-cap beta slots",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-08 21:49 KST",
-  "market_status": "업비트 상위 알트 15개 중 **양전 11개**, low-range 리더 **5개**, weak breadth 경고는 해제됐습니다. 다만 fresh breakout은 **1개**뿐이라 **MOVE late chase 대신 상단 회복주**가 더 유리합니다.",
-  "fear_greed": "8 (Extreme Fear, 전일 12)",
-  "btc_snapshot": "BTC 95.256M원대 / ETH 2.534M원대 / XRP 1,741원대 / SOL 100.3K원대",
+  "updated_at": "2026-06-09 03:49 KST",
+  "market_status": "메이저 평균 위치는 **61.25% → 56.88%**로 식었고 업비트 상위 15개 양전 수는 **11개 → 8개**로 줄었습니다. 그래도 **WLD·ONDO·BIO**의 고위치 리더가 살아 있어 **전면 방어보다 선별 공격**이 맞습니다.",
+  "fear_greed": "8 (Extreme Fear)",
+  "btc_snapshot": "BTC 94.790M원대 / ETH 2.517M원대 / XRP 1,756원대 / SOL 100.7K원대",
   "cash_krw": "0 KRW",
-  "realized_pnl_krw": "-5,323,894 KRW",
-  "last_valuation_krw": "4,805,156 KRW",
+  "realized_pnl_krw": "-5,431,607 KRW",
+  "last_valuation_krw": "4,697,443 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -51.95,
-  "last_action": "BREADTH_RECOVERY_ROTATION_TO_NEAR_ONDO_JTO_SAHARA_ZBT",
-  "trade_count": 546,
-  "last_updated": "2026-06-08T21:49:00+09:00",
+  "return_pct": -53.03,
+  "last_action": "MIXED_ROTATION_TO_WLD_ONDO_NEAR_BIO_BERA",
+  "trade_count": 556,
+  "last_updated": "2026-06-09T03:49:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 40,
-    "recent_24h_buy_count": 20,
-    "recent_24h_sell_count": 20,
-    "recent_24h_replacement_count": 20,
-    "portfolio_churn_24h_pct": 400.0
+    "recent_trade_actions_24h": 10,
+    "recent_24h_buy_count": 25,
+    "recent_24h_sell_count": 25,
+    "recent_24h_replacement_count": 25,
+    "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "₿ BTC: **-0.18%**, 위치 **52.3%**",
-    "◆ ETH: **-0.59%**, 위치 **55.6%**",
-    "💧 XRP: **+0.06%**, 위치 **63.2%**",
-    "☀️ SOL: **+0.20%**, 위치 **73.9%**",
-    "해석: 오후 저점권에서 **명확한 회복**은 나왔지만, BTC·ETH는 아직 음전이라 **무차별 돌격보다 upper-range continuation 압축**이 맞습니다.",
-    "🚀 **MOVE**: **+25.99%**지만 **63.9% 위치·-10.44% gap** → **exhausted blowoff**",
-    "🌍 **WLD**: **2036억원 대금 1위**지만 **50.0% 위치** → **attention은 강해도 구조는 중단**",
-    "🕶️ **VVV**: 구조는 좋지만 이번 밤장 5번째 슬롯은 **ZBT가 더 공격적**",
-    "✨ **XLM**: **472.2억원 대금**에도 **-2.57%·37.5% 위치**라 turnover trap 성격",
-    "🧭 **TRAC**: **+2.38%**라도 **23.1% 위치·-11.11% gap**로 fading leader",
-    "현금 **0%**, **NEAR·ONDO·JTO·SAHARA·ZBT** 5종 균등 재편",
-    "구조는 **fresh breakout 1 + continuation 2 + reclaim 2**",
-    "**WLD attention**, **MOVE 과열**, **ZBT 고베타**를 분리해 추격/보유를 구분합니다.",
-    "**SELL** NEAR / MOVE / ONDO / WLD / VVV 전량 재편",
-    "**BUY** NEAR / ONDO / JTO / SAHARA / ZBT 균등 재진입",
-    "실질 교체: **MOVE → JTO**, **WLD → SAHARA**, **VVV → ZBT**",
-    "실질 판단 변화: **오후 survivor 방어 → 밤장 recovery-continuation 공격**",
+    "₿ BTC: **-0.67%**, 위치 **30.0%**",
+    "◆ ETH: **-1.26%**, 위치 **34.3%**",
+    "💧 XRP: **+0.92%**, 위치 **70.1%**",
+    "☀️ SOL: **+0.60%**, 위치 **70.7%**",
+    "해석: **BTC·ETH는 다시 약해졌고 XRP·SOL만 버티는 혼조장**입니다. 그래서 **WLD 단일 추격이 아니라 5종 분산**이 필요합니다.",
+    "현금 **0%**, **WLD·ONDO·NEAR·BIO·BERA** 5종 균등 재편",
+    "구조는 **attention reclaim 1 + liquid core 2 + beta 2**",
+    "**WLD 재승격**을 인정하되, **BIO·BERA**를 같이 넣어 한 서사 쏠림을 피합니다.",
+    "**SELL** NEAR / ONDO / JTO / SAHARA / ZBT 전량 재편",
+    "**BUY** WLD / ONDO / NEAR / BIO / BERA 균등 재진입",
+    "실질 교체: **SAHARA → WLD**, **JTO → BERA**, **ZBT → BIO**",
+    "실질 판단 변화: **밤장 recovery-continuation 바스켓 → 새벽 mixed rotation 공격 바스켓**",
     "현금: **0원**",
-    "총 평가액: **4,805,156원**",
-    "실현손익: **-5,323,894원**",
-    "누적 수익률: **-51.95%**",
-    "NEAR: **295.248개** @ 3,255원",
-    "ONDO: **1,744.158개** @ 551원",
-    "JTO: **1,018.041개** @ 944원",
-    "SAHARA: **16,713.585개** @ 57.5원",
-    "ZBT: **4,665.200개** @ 206원",
-    "오후에 **메이저 평균 22.10%**를 보고 생존형 방어로 돌린 건 맞았습니다.",
-    "하지만 밤장에 **major avg 61.25 / top15 양전 11개**가 나왔는데도 **WLD 50% 구조**와 **MOVE blowoff**를 계속 들고 가면 둔합니다.",
-    "이번엔 **JTO·SAHARA 재편입 + ZBT 신규 편입**으로 회복장 공격성을 다시 올렸습니다.",
-    "**PROJECT.md**에 *breadth 회복 중에도 같은 날 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner 75%+ continuation/reclaim을 우선*하는 규칙을 추가했습니다.",
-    "보고서에 **15:49 ↔ 21:49**의 **major avg / top15 양전 수 / low-range 수** 변화를 직접 넣어 반전 강도를 더 빨리 읽게 했습니다.",
-    "포트폴리오를 **MOVE·WLD 과열/attention 혼합 바스켓**에서 **JTO·SAHARA·ZBT 포함 recovery 바스켓**으로 교체했습니다.",
-    "aggressive recovery-continuation basket with one small-cap beta slot",
-    "medium-high",
-    "**BTC 94.70M / NEAR 3102 / ONDO 527 / JTO 932 / SAHARA 56.6 / ZBT 181** 하향 시 즉시 재평가",
-    "**MOVE**는 지금 추격 금지, **WLD**는 730원대 재안착 전까진 attention watch만 유지",
-    "새벽에 breadth가 더 강해지면 **IP·VVV**를 후속 승격 후보로 봅니다.",
-    "**공포탐욕 8**이라 심리는 여전히 매우 나쁩니다.",
-    "**MOVE** 같은 급등주는 밤 사이 급반락이 흔합니다.",
-    "**SAHARA**는 여전히 **6/26 언락** 오버행이 남아 있습니다.",
-    "**ZBT**는 소형 고베타라 변동성 관리가 가장 중요합니다.",
-    "**BTC·ETH**가 아직 24시간 완전 양전이 아니라, 새벽에 다시 breadth가 식을 가능성도 열어둬야 합니다."
+    "총 평가액: **4,697,443원**",
+    "실현손익: **-5,431,607원**",
+    "누적 수익률: **-53.03%**",
+    "WLD: **1,119.772개** @ 839원",
+    "ONDO: **1,683.671개** @ 558원",
+    "NEAR: **288.452개** @ 3,257원",
+    "BIO: **18,789.773개** @ 50.0원",
+    "BERA: **2,308.326개** @ 407원",
+    "직전 밤장에 breadth 회복을 읽고 공격성을 올린 건 맞았습니다.",
+    "다만 **03:49 기준**으로는 **SAHARA 4.8% 위치**, **ZBT 50.0% 위치**, **WLD 90.9% reclaim**을 더 강하게 반영했어야 합니다.",
+    "이번엔 **WLD 재승격 + BIO·BERA 교체**로 새벽 주도권 변화를 더 직접 따라갔습니다.",
+    "**PROJECT.md**에 *former attention-trap 리더가 85%+ 위치와 거래대금 1위를 동시에 회복하면 headline overhang이 남아도 재편입 가능* 규칙을 추가했습니다.",
+    "보고서 한줄 구조를 **attention reclaim / liquid core / beta slot**으로 재정리해 바뀐 보드 성격을 더 빨리 읽게 했습니다.",
+    "포트폴리오를 **JTO·SAHARA·ZBT 약화 바스켓**에서 **WLD·BIO·BERA 확장 바스켓**으로 재편했습니다.",
+    "aggressive mixed rotation with one attention leader, two liquid cores, and two mid-cap beta slots",
+    "medium",
+    "**BTC 94.00M / WLD 800 / ONDO 527 / NEAR 3102 / BIO 46.5 / BERA 386** 하향 시 즉시 재평가",
+    "**MOVE**는 지금도 추격 금지, **JTO**는 unlock/차익실현 부담이 더 정리될 때까지 감시 우선",
+    "WLD가 800원 위를 유지하면 다음 승격 후보는 **LAYER·VVV**, 반대로 꺾이면 **DOGE** 같은 안정 회전축을 대체로 검토합니다.",
+    "**공포탐욕 8**이라 심리 자체는 매우 나쁩니다.",
+    "**BTC·ETH 저위치**가 지속되면 알트도 갑자기 breadth가 꺼질 수 있습니다.",
+    "**WLD**는 강하지만 headline 민감도가 큽니다.",
+    "**BIO·BERA**는 중형 베타라 수익/손실 속도가 빠릅니다.",
+    "**SAHARA**는 6/26 언락 부담이 가까워 당분간 재편입 기준을 높게 잡아야 합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "ZBT",
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "BERA",
       "action": "BUY",
-      "price_krw": 206.0,
-      "amount_delta": 4665.199632957739,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "ZBT는 +13.81%, 65.3억원 대금, 83.3% 위치로 이번 밤장 소형 베타 확장성이 가장 강한 신규 슬롯입니다."
+      "price_krw": 407.0,
+      "amount_delta": 2308.3258795725033,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "BERA는 +10.96%, 99.2억원 대금, 76.1% 위치로 JTO·ZBT보다 덜 깨진 후속 공격 슬롯입니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "SAHARA",
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "BIO",
       "action": "BUY",
-      "price_krw": 57.5,
-      "amount_delta": 16713.584771987724,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "SAHARA는 +1.77%, 316.1억원 대금, 62.9% 위치로 56.6원 위 reclaim이 확인된 AI continuation 슬롯입니다."
+      "price_krw": 50.0,
+      "amount_delta": 18789.772659720176,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "BIO는 +16.94%, 187.8억원 대금, 80.0% 위치로 새벽 중형 beta 확장성이 가장 깔끔합니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "JTO",
-      "action": "BUY",
-      "price_krw": 944.0,
-      "amount_delta": 1018.0414453276421,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "JTO는 +1.29%, 333.9억원 대금, 85.9% 위치로 오후 무효화를 뒤집은 clean reclaim continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "ONDO",
-      "action": "BUY",
-      "price_krw": 551.0,
-      "amount_delta": 1744.1581204887373,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "ONDO는 +4.75%, 402.5억원 대금, 90.0% 위치로 이번 밤장 유일한 fresh breakout급 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
+      "timestamp": "2026-06-09T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 3255.0,
-      "amount_delta": 295.24765726245596,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "NEAR는 +4.93%, 475.4억원 대금, 84.6% 위치로 breadth 회복 구간의 대형 품질 코어입니다."
+      "price_krw": 3257.0,
+      "amount_delta": 288.452143993248,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "NEAR는 +5.03%, 450.1억원 대금, 63.5% 위치로 완전 돌파는 아니어도 체급 대비 가장 믿을 만한 품질 생존축입니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "VVV",
-      "action": "SELL",
-      "price_krw": 26070.0,
-      "amount_delta": -36.052263021110896,
-      "cash_delta_krw": 939882.496960361,
-      "reason": "종목 자체는 건강하지만 이번 밤장 5번째 공격 슬롯은 ZBT의 속도와 대금 확장이 더 강해 전량 교체"
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "WLD",
-      "action": "SELL",
-      "price_krw": 714.0,
-      "amount_delta": -1275.5800688884037,
-      "cash_delta_krw": 910764.1691863203,
-      "reason": "거래대금 1위지만 50.0% 위치에 머물러 cleaner upper-range continuation들에 자리 양보"
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
+      "timestamp": "2026-06-09T03:49:00+09:00",
       "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 558.0,
+      "amount_delta": 1683.6713852795856,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "ONDO는 +5.89%, 410.1억원 대금, 82.4% 위치로 RWA 유동성 코어 지위를 유지합니다."
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 839.0,
+      "amount_delta": 1119.7719105911904,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "WLD는 +16.88%, 1834.0억원 대금, 90.9% 위치로 Hayes 잡음을 흡수한 새벽 최강 reclaim 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "ZBT",
       "action": "SELL",
-      "price_krw": 551.0,
-      "amount_delta": -1725.5032451567336,
-      "cash_delta_krw": 950752.2880813602,
-      "reason": "fresh breakout 코어는 유지하되 21:49 가격 기준 균등 공격 분산으로 전량 재편"
+      "price_krw": 194.0,
+      "amount_delta": -4665.199632957739,
+      "cash_delta_krw": 905048.7287938013,
+      "reason": "새벽 보드가 WLD reclaim + BIO/BERA 확장 쪽으로 이동해 직전 JTO·SAHARA·ZBT 바스켓을 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 53.7,
+      "amount_delta": -16713.584771987724,
+      "cash_delta_krw": 897519.5022557408,
+      "reason": "새벽 보드가 WLD reclaim + BIO/BERA 확장 쪽으로 이동해 직전 JTO·SAHARA·ZBT 바스켓을 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 943.0,
+      "amount_delta": -1018.0414453276421,
+      "cash_delta_krw": 960013.0829439665,
+      "reason": "새벽 보드가 WLD reclaim + BIO/BERA 확장 쪽으로 이동해 직전 JTO·SAHARA·ZBT 바스켓을 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-09-0349.md",
+      "title": "2026-06-09-0349"
+    },
     {
       "file": "2026-06-08-2149.md",
       "title": "2026-06-08-2149"
@@ -172,25 +171,21 @@
     {
       "file": "2026-06-07-0342.md",
       "title": "2026-06-07-0342"
-    },
-    {
-      "file": "2026-06-06-0925.md",
-      "title": "2026-06-06-0925"
     }
   ],
   "positions": [
     {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "amount": 295.24765726245596,
-      "avg_buy_price_krw": "3,255 KRW",
-      "last_price_krw": "3,255 KRW",
-      "thesis": "NEAR는 +4.93%, 475.4억원 대금, 84.6% 위치로 breadth 회복 구간의 대형 품질 코어입니다.",
-      "strategy": "quality-continuation-core",
-      "role": "quality continuation core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 12,
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "amount": 1119.7719105911904,
+      "avg_buy_price_krw": "839 KRW",
+      "last_price_krw": "839 KRW",
+      "thesis": "WLD는 +16.88%, 1834.0억원 대금, 90.9% 위치로 Hayes 잡음을 흡수한 새벽 최강 reclaim 코어입니다.",
+      "strategy": "attention-reclaim-core",
+      "role": "attention reclaim core",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 15,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -198,75 +193,65 @@
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "amount": 1744.1581204887373,
-      "avg_buy_price_krw": "551 KRW",
-      "last_price_krw": "551 KRW",
-      "thesis": "ONDO는 +4.75%, 402.5억원 대금, 90.0% 위치로 이번 밤장 유일한 fresh breakout급 코어입니다.",
-      "strategy": "fresh-breakout-core",
-      "role": "fresh breakout core",
+      "amount": 1683.6713852795856,
+      "avg_buy_price_krw": "558 KRW",
+      "last_price_krw": "558 KRW",
+      "thesis": "ONDO는 +5.89%, 410.1억원 대금, 82.4% 위치로 RWA 유동성 코어 지위를 유지합니다.",
+      "strategy": "rwa-continuation-core",
+      "role": "rwa continuation core",
       "risk_limit_pct": 7,
       "profit_take_pct": 13,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "amount": 1018.0414453276421,
-      "avg_buy_price_krw": "944 KRW",
-      "last_price_krw": "944 KRW",
-      "thesis": "JTO는 +1.29%, 333.9억원 대금, 85.9% 위치로 오후 무효화를 뒤집은 clean reclaim continuation입니다.",
-      "strategy": "reclaim-continuation",
-      "role": "solana reclaim continuation",
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "amount": 288.452143993248,
+      "avg_buy_price_krw": "3,257 KRW",
+      "last_price_krw": "3,257 KRW",
+      "thesis": "NEAR는 +5.03%, 450.1억원 대금, 63.5% 위치로 완전 돌파는 아니어도 체급 대비 가장 믿을 만한 품질 생존축입니다.",
+      "strategy": "quality-l1-survivor",
+      "role": "quality L1 survivor",
       "risk_limit_pct": 7,
       "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "amount": 16713.584771987724,
-      "avg_buy_price_krw": "58 KRW",
-      "last_price_krw": "58 KRW",
-      "thesis": "SAHARA는 +1.77%, 316.1억원 대금, 62.9% 위치로 56.6원 위 reclaim이 확인된 AI continuation 슬롯입니다.",
-      "strategy": "ai-reclaim-continuation",
-      "role": "ai reclaim continuation",
+      "icon": "🧬",
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "amount": 18789.772659720176,
+      "avg_buy_price_krw": "50 KRW",
+      "last_price_krw": "50 KRW",
+      "thesis": "BIO는 +16.94%, 187.8억원 대금, 80.0% 위치로 새벽 중형 beta 확장성이 가장 깔끔합니다.",
+      "strategy": "mid-cap-breakout-beta",
+      "role": "mid-cap breakout beta",
       "risk_limit_pct": 8,
-      "profit_take_pct": 13,
+      "profit_take_pct": 15,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🧿",
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "amount": 4665.199632957739,
-      "avg_buy_price_krw": "206 KRW",
-      "last_price_krw": "206 KRW",
-      "thesis": "ZBT는 +13.81%, 65.3억원 대금, 83.3% 위치로 이번 밤장 소형 베타 확장성이 가장 강한 신규 슬롯입니다.",
-      "strategy": "small-cap-beta-breakout",
-      "role": "small-cap beta breakout",
-      "risk_limit_pct": 10,
-      "profit_take_pct": 18,
+      "icon": "🪙",
+      "symbol": "BERA",
+      "market": "KRW-BERA",
+      "amount": 2308.3258795725033,
+      "avg_buy_price_krw": "407 KRW",
+      "last_price_krw": "407 KRW",
+      "thesis": "BERA는 +10.96%, 99.2억원 대금, 76.1% 위치로 JTO·ZBT보다 덜 깨진 후속 공격 슬롯입니다.",
+      "strategy": "mid-cap-narrative-continuation",
+      "role": "mid-cap narrative continuation",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 14,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
     "WLD": [
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 727.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 727.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-08T15:49:00+09:00",
         "price_krw": 721.0,
@@ -281,107 +266,14 @@
         "timestamp": "2026-06-08T21:49:00+09:00",
         "price_krw": 714.0,
         "action": "SELL"
-      }
-    ],
-    "NEAR": [
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 3145.0,
-        "action": "SELL"
       },
       {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 3145.0,
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 839.0,
         "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-08T15:49:00+09:00",
-        "price_krw": 3219.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T15:49:00+09:00",
-        "price_krw": 3219.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-08T21:49:00+09:00",
-        "price_krw": 3255.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T21:49:00+09:00",
-        "price_krw": 3255.0,
-        "action": "BUY"
-      }
-    ],
-    "ONDO": [
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 532.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 532.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-08T15:49:00+09:00",
-        "price_krw": 533.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T15:49:00+09:00",
-        "price_krw": 533.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-08T21:49:00+09:00",
-        "price_krw": 551.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T21:49:00+09:00",
-        "price_krw": 551.0,
-        "action": "BUY"
-      }
-    ],
-    "SAHARA": [
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 57.7,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 57.7,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-08T15:49:00+09:00",
-        "price_krw": 55.5,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-08T21:49:00+09:00",
-        "price_krw": 57.5,
-        "action": "BUY"
-      }
-    ],
-    "PENGU": [
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 10.6,
-        "action": "SELL"
       }
     ],
     "JTO": [
-      {
-        "timestamp": "2026-06-08T09:49:00+09:00",
-        "price_krw": 949.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-08T15:49:00+09:00",
         "price_krw": 905.0,
@@ -391,6 +283,92 @@
         "timestamp": "2026-06-08T21:49:00+09:00",
         "price_krw": 944.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 943.0,
+        "action": "SELL"
+      }
+    ],
+    "ONDO": [
+      {
+        "timestamp": "2026-06-08T15:49:00+09:00",
+        "price_krw": 533.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-08T15:49:00+09:00",
+        "price_krw": 533.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-08T21:49:00+09:00",
+        "price_krw": 551.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-08T21:49:00+09:00",
+        "price_krw": 551.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 558.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 558.0,
+        "action": "BUY"
+      }
+    ],
+    "NEAR": [
+      {
+        "timestamp": "2026-06-08T15:49:00+09:00",
+        "price_krw": 3219.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-08T15:49:00+09:00",
+        "price_krw": 3219.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-08T21:49:00+09:00",
+        "price_krw": 3255.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-08T21:49:00+09:00",
+        "price_krw": 3255.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 3257.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 3257.0,
+        "action": "BUY"
+      }
+    ],
+    "SAHARA": [
+      {
+        "timestamp": "2026-06-08T15:49:00+09:00",
+        "price_krw": 55.5,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-08T21:49:00+09:00",
+        "price_krw": 57.5,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 53.7,
+        "action": "SELL"
       }
     ],
     "MOVE": [
@@ -422,95 +400,114 @@
         "timestamp": "2026-06-08T21:49:00+09:00",
         "price_krw": 206.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 194.0,
+        "action": "SELL"
+      }
+    ],
+    "BIO": [
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 50.0,
+        "action": "BUY"
+      }
+    ],
+    "BERA": [
+      {
+        "timestamp": "2026-06-09T03:49:00+09:00",
+        "price_krw": 407.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-08-2149.md",
+  "latest_report_file": "2026-06-09-0349.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "price_krw": 3255.0,
-      "change_pct_24h": 4.93230174,
-      "turnover_krw_24h": 47536907219.5301,
-      "reason": "NEAR는 +4.93%, 475.4억원 대금, 84.6% 위치로 breadth 회복 구간의 대형 품질 코어입니다.",
-      "score": 49.9,
-      "community": "업비트 대형 알트 자금은 밤장 회복에서 다시 NEAR로 모였고, 메이저 혼조 속에서도 대형 L1 중 구조가 가장 깔끔합니다.",
-      "risk": "3102원 하회 시 continuation 코어 약화",
-      "allocation_krw": 961031.1243892942,
-      "role": "quality continuation core",
-      "invalidated_if": "3102원 하회 시 continuation 코어 약화",
-      "range_position_pct": 84.6,
-      "day_high_gap_pct": -1.18
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "price_krw": 839.0,
+      "change_pct_24h": 18.00281294,
+      "turnover_krw_24h": 184287988047.54404,
+      "reason": "WLD는 +16.88%, 1834.0억원 대금, 90.9% 위치로 Hayes 잡음을 흡수한 새벽 최강 reclaim 코어입니다.",
+      "score": 76.43,
+      "community": "업비트 자금이 새벽에 다시 WLD로 집중됐고, Hayes 오버행이 남아도 실제 체결은 reclaim 쪽이 우세합니다.",
+      "risk": "800원 하회 시 reclaim core 약화",
+      "allocation_krw": 939488.6329860088,
+      "role": "attention reclaim core",
+      "invalidated_if": "800원 하회 시 reclaim core 약화",
+      "range_position_pct": 95.7,
+      "day_high_gap_pct": -0.83
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "price_krw": 551.0,
-      "change_pct_24h": 4.75285171,
-      "turnover_krw_24h": 40245344284.85889,
-      "reason": "ONDO는 +4.75%, 402.5억원 대금, 90.0% 위치로 이번 밤장 유일한 fresh breakout급 코어입니다.",
-      "score": 50.94,
-      "community": "RWA 축에서는 ONDO가 가장 빠르게 상단을 재장악했고, 거래대금과 위치가 동시에 살아났습니다.",
-      "risk": "527원 하회 시 breakout 코어 약화",
-      "allocation_krw": 961031.1243892942,
-      "role": "fresh breakout core",
-      "invalidated_if": "527원 하회 시 breakout 코어 약화",
-      "range_position_pct": 90.0,
-      "day_high_gap_pct": -0.72
+      "price_krw": 558.0,
+      "change_pct_24h": 6.08365019,
+      "turnover_krw_24h": 41024999088.34068,
+      "reason": "ONDO는 +5.89%, 410.1억원 대금, 82.4% 위치로 RWA 유동성 코어 지위를 유지합니다.",
+      "score": 51.38,
+      "community": "RWA 축에서는 ONDO가 여전히 가장 읽기 쉬운 유동성 앵커입니다.",
+      "risk": "527원 하회 시 continuation 약화",
+      "allocation_krw": 939488.6329860088,
+      "role": "rwa continuation core",
+      "invalidated_if": "527원 하회 시 continuation 약화",
+      "range_position_pct": 84.3,
+      "day_high_gap_pct": -1.41
     },
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "price_krw": 944.0,
-      "change_pct_24h": 1.28755365,
-      "turnover_krw_24h": 33390396489.559658,
-      "reason": "JTO는 +1.29%, 333.9억원 대금, 85.9% 위치로 오후 무효화를 뒤집은 clean reclaim continuation입니다.",
-      "score": 42.29,
-      "community": "오후에 꺾였던 솔라나계 자금이 밤장에는 JTO로 다시 복귀했고, 932원 기준을 재상향했습니다.",
-      "risk": "932원 하회 시 reclaim 실패",
-      "allocation_krw": 961031.1243892942,
-      "role": "solana reclaim continuation",
-      "invalidated_if": "932원 하회 시 reclaim 실패",
-      "range_position_pct": 85.9,
-      "day_high_gap_pct": -1.05
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "price_krw": 3257.0,
+      "change_pct_24h": 4.99677627,
+      "turnover_krw_24h": 44996028657.790436,
+      "reason": "NEAR는 +5.03%, 450.1억원 대금, 63.5% 위치로 완전 돌파는 아니어도 체급 대비 가장 믿을 만한 품질 생존축입니다.",
+      "score": 44.25,
+      "community": "대형 알트 중에선 NEAR가 여전히 거래대금과 구조를 같이 지키는 편입니다.",
+      "risk": "3102원 하회 시 survivor 코어 약화",
+      "allocation_krw": 939488.6329860088,
+      "role": "quality L1 survivor",
+      "invalidated_if": "3102원 하회 시 survivor 코어 약화",
+      "range_position_pct": 63.2,
+      "day_high_gap_pct": -3.72
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "price_krw": 57.5,
-      "change_pct_24h": 1.7699115,
-      "turnover_krw_24h": 31613369735.45436,
-      "reason": "SAHARA는 +1.77%, 316.1억원 대금, 62.9% 위치로 56.6원 위 reclaim이 확인된 AI continuation 슬롯입니다.",
-      "score": 30.51,
-      "community": "AI/리테일 회전은 언락 오버행을 무시하진 않지만, 적어도 밤장에는 SAHARA 재상향을 허용하는 흐름입니다.",
-      "risk": "56.6원 하회 시 reclaim 약화",
-      "allocation_krw": 961031.1243892942,
-      "role": "ai reclaim continuation",
-      "invalidated_if": "56.6원 하회 시 reclaim 약화",
-      "range_position_pct": 62.9,
-      "day_high_gap_pct": -3.85
+      "icon": "🧬",
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "price_krw": 50.0,
+      "change_pct_24h": 17.64705882,
+      "turnover_krw_24h": 18793386084.975266,
+      "reason": "BIO는 +16.94%, 187.8억원 대금, 80.0% 위치로 새벽 중형 beta 확장성이 가장 깔끔합니다.",
+      "score": 52.15,
+      "community": "중소형 고베타 자금은 SAHARA·ZBT 대신 BIO 쪽으로 회전하는 모습이 더 선명합니다.",
+      "risk": "46.5원 하회 시 breakout 약화",
+      "allocation_krw": 939488.6329860088,
+      "role": "mid-cap breakout beta",
+      "invalidated_if": "46.5원 하회 시 breakout 약화",
+      "range_position_pct": 83.0,
+      "day_high_gap_pct": -3.29
     },
     {
-      "icon": "🧿",
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "price_krw": 206.0,
-      "change_pct_24h": 13.8121547,
-      "turnover_krw_24h": 6527570504.179117,
-      "reason": "ZBT는 +13.81%, 65.3억원 대금, 83.3% 위치로 이번 밤장 소형 베타 확장성이 가장 강한 신규 슬롯입니다.",
-      "score": 54.13,
-      "community": "소형 고베타 자금은 VVV보다 ZBT로 더 빠르게 붙었고, 밤장 신규 공격 슬롯으로 읽힙니다.",
-      "risk": "181원 하회 시 breakout 실패",
-      "allocation_krw": 961031.1243892942,
-      "role": "small-cap beta breakout",
-      "invalidated_if": "181원 하회 시 breakout 실패",
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -2.83
+      "icon": "🪙",
+      "symbol": "BERA",
+      "market": "KRW-BERA",
+      "price_krw": 407.0,
+      "change_pct_24h": 11.50684932,
+      "turnover_krw_24h": 9927929656.970926,
+      "reason": "BERA는 +10.96%, 99.2억원 대금, 76.1% 위치로 JTO·ZBT보다 덜 깨진 후속 공격 슬롯입니다.",
+      "score": 40.41,
+      "community": "새벽 보드의 후속 확장 슬롯은 JTO보다 BERA가 더 안정적으로 상단을 유지합니다.",
+      "risk": "386원 하회 시 continuation 약화",
+      "allocation_krw": 939488.6329860088,
+      "role": "mid-cap narrative continuation",
+      "invalidated_if": "386원 하회 시 continuation 약화",
+      "range_position_pct": 79.1,
+      "day_high_gap_pct": -3.33
     }
   ],
   "reference_watchlist": [
@@ -518,132 +515,132 @@
       "icon": "🪙",
       "symbol": "MOVE",
       "market": "KRW-MOVE",
-      "reason": "오늘 +25.99%는 강하지만 고점 대비 -10.44% gap라 지금 추격은 exhausted blowoff 리스크가 큽니다."
+      "reason": "대금은 크지만 43.1% 위치와 -16.47% gap라 여전히 late blowoff 리스크가 큽니다."
     },
     {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "거래대금 1위 attention은 여전하지만 50.0% 위치와 -4.29% gap라 지금은 보조 감시 슬롯이 맞습니다."
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "대금은 충분하지만 63.6% 위치에 머물고 최근 unlock 부담이 남아 있어 6순위입니다."
+    },
+    {
+      "icon": "🧱",
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "+22.53%는 강하지만 -8.53% gap가 커서 지금은 추격보다 감시가 낫습니다."
+    },
+    {
+      "icon": "🧿",
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "reason": "고베타 성격은 좋지만 현재는 50.0% 위치라 새벽 주도권이 약해졌습니다."
+    },
+    {
+      "icon": "🏜️",
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "6/26 대형 언락 부담에 더해 현재 4.8% 위치로 구조 훼손이 큽니다."
     },
     {
       "icon": "🕶️",
       "symbol": "VVV",
       "market": "KRW-VVV",
-      "reason": "88.6% 위치와 +5.29%로 건강하지만, 이번 5번째 공격 슬롯은 ZBT가 더 빠릅니다."
-    },
-    {
-      "icon": "🪪",
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "97.1% 위치와 76.3억원 대금으로 강하지만 체급/서사 밸런스에서 6순위입니다."
-    },
-    {
-      "icon": "🌊",
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "79.0% 위치와 155.2억원 대금으로 무난하지만 ONDO·NEAR 대비 주도성이 약합니다."
+      "reason": "상승은 유지해도 이번 회차 5번째 슬롯은 BIO·BERA 쪽이 더 공격적입니다."
     },
     {
       "icon": "🐕",
       "symbol": "DOGE",
       "market": "KRW-DOGE",
-      "reason": "구조는 깔끔하지만 이번 사이클은 메이저-유사 슬롯보다 순수 알트 회전축이 더 공격적입니다."
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "730원대 재안착 전까지는 초대금이어도 mid-range attention으로만 봅니다."
+      "reason": "메이저-유사 회전은 나쁘지 않지만 이번 회차는 순수 알트 리더들이 더 강합니다."
     }
   ],
   "cycle_improvements": [
-    "PROJECT.md에 breadth 회복 중에도 같은 날 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner 75%+ continuation/reclaim을 우선하는 규칙을 추가했습니다.",
-    "이번 보고서에 15:49 대비 21:49의 major avg(22.10 → 61.25), top15 양전 수(6 → 11), low-range 수(8 → 5)를 직접 비교해 저녁 반전 강도를 더 빠르게 읽도록 개선했습니다.",
-    "포트폴리오를 MOVE·WLD 중심의 과열/attention 혼합에서 JTO·SAHARA·ZBT를 포함한 recovery-continuation 바스켓으로 재편해 구조 우위를 더 분명히 반영했습니다."
+    "WLD 같은 former attention-trap 리더가 85%+ 위치와 거래대금 1위를 동시에 회복하면 headline overhang이 남아도 재편입할 수 있다는 규칙을 PROJECT.md에 추가했습니다.",
+    "보고서 핵심 한줄을 attention reclaim / liquid core / beta slot 관점으로 재구성해 무엇이 바뀌었는지 더 빨리 읽게 했습니다.",
+    "포트폴리오를 JTO·SAHARA·ZBT 약화 바스켓에서 WLD·BIO·BERA 확장 바스켓으로 재편해 새벽 보드 주도권 변화를 더 직접 반영했습니다."
   ],
   "rejected_candidates": [
     {
       "symbol": "MOVE",
       "market": "KRW-MOVE",
-      "reason": "+25.99% 급등은 강하지만 63.9% 위치·-10.44% gap로 전형적인 exhausted blowoff 구간입니다."
+      "reason": "대금은 크지만 43.1% 위치와 -16.47% gap라 여전히 late blowoff 리스크가 큽니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "2036억원 초대금에도 50.0% 위치라 breadth 회복 국면에선 더 깨끗한 80%+ 구조들보다 후순위입니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "대금은 충분하지만 63.6% 위치에 머물고 최근 unlock 부담이 남아 있어 6순위입니다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "좋은 종목이지만 이번 밤장 5번째 공격 슬롯은 ZBT의 속도와 대금 증가가 더 강합니다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "6/26 대형 언락 부담에 더해 현재 4.8% 위치로 구조 훼손이 큽니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "472.2억원 대금에도 -2.57%, 37.5% 위치라 여전히 turnover trap 성격이 남습니다."
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "reason": "고베타 성격은 좋지만 현재는 50.0% 위치라 새벽 주도권이 약해졌습니다."
     },
     {
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "reason": "+2.38%라도 23.1% 위치와 -11.11% gap는 fading leader에 가깝습니다."
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "+22.53%는 강하지만 -8.53% gap가 커서 지금은 추격보다 감시가 낫습니다."
     }
   ],
-  "top_line": "**메이저 평균 위치가 22.10% → 61.25%로 회복했습니다.** 밤장은 **NEAR·ONDO·JTO·SAHARA·ZBT** 5분산으로 **recovery-continuation 공격**을 다시 겁니다.",
-  "ui_version": "v10.7",
+  "top_line": "**WLD가 업비트 대금 1위·90.9% 위치로 재승격했습니다.** 새벽장은 **WLD·ONDO·NEAR·BIO·BERA** 5분산으로 **attention reclaim + liquid core + beta 확장** 공격으로 전환합니다.",
+  "ui_version": "v10.8",
   "risk_plan": {
-    "portfolio_cash_target": "기본 0% 유지. 다만 BTC가 94.70M원 아래로 다시 밀리고 preferred 5종 중 2개 이상이 무효화되면 현금 25% 이상으로 올립니다.",
-    "review_trigger": "BTC 94.70M원 하회 지속, NEAR 3102원 하회, ONDO 527원 하회, JTO 932원 하회, SAHARA 56.6원 하회, ZBT 181원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 0% 유지. 다만 BTC가 94.00M원 아래로 밀리고 preferred 5종 중 2개 이상이 무효화되면 현금 25% 이상으로 올립니다.",
+    "review_trigger": "BTC 94.00M원 하회 지속, WLD 800원 하회, ONDO 527원 하회, NEAR 3102원 하회, BIO 46.5원 하회, BERA 386원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "major avg가 30 미만이고 보유 후보 2개 이상이 무효화되면 깨진 후보를 즉시 제거하고 sub-55 attention slot은 최대 1개만 허용한다",
-      "fresh breakout 수가 2개 이하로 줄면 breakout만으로 5슬롯을 채우지 말고 survivor/reclaim을 섞는다",
-      "breadth가 회복돼도 같은 날 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner continuation/reclaim을 우선한다"
+      "major avg가 35 미만이고 보유 후보 2개 이상이 무효화되면 깨진 후보를 즉시 제거하고 sub-55 attention slot은 최대 1개만 허용한다",
+      "WLD 같은 former attention-trap 리더는 85%+ range reclaim과 clear top-turnover leadership이 동시에 확인될 때만 재진입한다",
+      "same-day 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner continuation/reclaim을 우선한다"
     ],
     "exit_rules": [
-      "BTC 94.70M원 하회 지속, NEAR 3102원 하회, ONDO 527원 하회, JTO 932원 하회, SAHARA 56.6원 하회, ZBT 181원 하회 시 즉시 재평가",
+      "BTC 94.00M원 하회 지속, WLD 800원 하회, ONDO 527원 하회, NEAR 3102원 하회, BIO 46.5원 하회, BERA 386원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "major avg가 30 미만이고 보유 후보 2개 이상이 무효화되면 깨진 후보를 즉시 제거하고 sub-55 attention slot은 최대 1개만 허용한다",
-      "fresh breakout 수가 2개 이하로 줄면 breakout만으로 5슬롯을 채우지 말고 survivor/reclaim을 섞는다",
-      "breadth가 회복돼도 같은 날 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner continuation/reclaim을 우선한다"
+      "major avg가 35 미만이고 보유 후보 2개 이상이 무효화되면 깨진 후보를 즉시 제거하고 sub-55 attention slot은 최대 1개만 허용한다",
+      "WLD 같은 former attention-trap 리더는 85%+ range reclaim과 clear top-turnover leadership이 동시에 확인될 때만 재진입한다",
+      "same-day 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner continuation/reclaim을 우선한다"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1593.1억원이며 최대 리더 NEAR 비중은 약 29.8%로 쏠림이 크지 않습니다.",
-    "momentum_discipline": "ONDO는 fresh breakout, NEAR는 quality continuation, JTO·SAHARA는 reclaim continuation, ZBT는 small-cap beta breakout으로 역할을 분리했습니다.",
-    "diversification": "Quality L1 / RWA / Solana / AI / small-cap beta 5분산",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2990.3억원이며 WLD 비중은 약 61.6%입니다.",
+    "momentum_discipline": "WLD는 attention reclaim, ONDO·NEAR는 liquid core, BIO·BERA는 mid-cap beta로 역할을 분리했습니다.",
+    "diversification": "AI-attention / RWA / quality L1 / biotech beta / L1 narrative beta 5분산",
     "cash_usage": "100%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "이번 밤장은 오후처럼 붕괴도 아니고 오전처럼 전면 breakout도 아닙니다. 그래서 all-cash보다 선별 공격이 낫지만, MOVE 같은 blowoff는 피하고 upper-range continuation 위주로 압축하는 쪽이 맞습니다."
+    "summary": "메이저는 다시 약해졌지만, WLD·ONDO·BIO 같은 리더는 살아 있습니다. 그래서 all-cash보다 선별 공격이 낫고, SAHARA·ZBT 같은 깨진 슬롯은 미련 없이 교체하는 쪽이 맞습니다."
   },
   "rotation_map": [
     {
-      "bucket": "MOVE → JTO",
+      "bucket": "JTO → BERA",
       "symbols": [
-        "MOVE",
-        "JTO"
+        "JTO",
+        "BERA"
       ],
-      "note": "과열된 same-day blowoff를 932원 위 clean reclaim으로 교체"
+      "note": "unlock/차익실현 부담이 남은 솔라나 reclaim 대신 더 덜 깨진 mid-cap continuation으로 교체"
     },
     {
-      "bucket": "WLD → SAHARA",
+      "bucket": "SAHARA → WLD",
       "symbols": [
-        "WLD",
-        "SAHARA"
+        "SAHARA",
+        "WLD"
       ],
-      "note": "mid-range attention slot을 56.6원 위 AI reclaim continuation으로 교체"
+      "note": "언락 오버행과 구조 훼손 슬롯을 업비트 최강 reclaim 리더로 교체"
     },
     {
-      "bucket": "VVV → ZBT",
+      "bucket": "ZBT → BIO",
       "symbols": [
-        "VVV",
-        "ZBT"
+        "ZBT",
+        "BIO"
       ],
-      "note": "건강한 보조축보다 더 빠른 소형 베타 확장 슬롯으로 공격성 상향"
+      "note": "50% 위치 고베타를 80% 위치 중형 breakout으로 교체"
     },
     {
       "bucket": "NEAR(old equal weight) → NEAR(equal weight)",
@@ -651,7 +648,7 @@
         "NEAR(old equal weight)",
         "NEAR(equal weight)"
       ],
-      "note": "breadth 회복 구간의 대형 품질 코어라 유지"
+      "note": "체급 대비 품질 생존축이라 유지"
     },
     {
       "bucket": "ONDO(old equal weight) → ONDO(equal weight)",
@@ -659,25 +656,25 @@
         "ONDO(old equal weight)",
         "ONDO(equal weight)"
       ],
-      "note": "이번 밤장 유일한 fresh breakout급 코어라 유지"
+      "note": "RWA 유동성 코어라 유지"
     }
   ],
   "self_evaluation": {
-    "score": 9.1,
-    "summary": "오후의 생존형 방어 전환은 필요했고 맞았습니다. 다만 밤장에 breadth가 회복됐는데도 WLD 50% 구조와 MOVE blowoff를 계속 들고 있으면 둔합니다. 이번에는 시장 개선을 인정하되, late chase를 피하려고 JTO·SAHARA 재편입과 ZBT 신규 편입으로 공격성을 다시 올렸습니다."
+    "score": 9.0,
+    "summary": "직전 밤장에 breadth 회복을 읽고 JTO·SAHARA·ZBT까지 확장한 판단은 이해되지만, 새벽 03:49 기준으로는 SAHARA·ZBT 약화와 WLD 재승격을 더 빨리 반영해야 했습니다. 이번에는 WLD를 다시 인정하고 JTO 대신 BERA, SAHARA/ZBT 대신 BIO로 돌려 보드 변화를 더 직접 따라갔습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 5.31,
+    "preferred_avg_change_pct_24h": 11.65,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 159313588233.58212,
-    "leader_turnover_share_pct": 29.84,
-    "leader_symbol": "NEAR",
-    "leader_concentration_warning": "low"
+    "preferred_turnover_total_krw_24h": 299030331535.62134,
+    "leader_turnover_share_pct": 61.63,
+    "leader_symbol": "WLD",
+    "leader_concentration_warning": "high"
   },
   "snapshot_updated_at_utc": "2026-06-08T12:49:40.640323+00:00",
-  "snapshot_age_hours": 0,
+  "snapshot_age_hours": 5.99,
   "snapshot_delta": {
     "top15_alt_positive_count_delta": 5,
     "top15_alt_low_range_count_delta": -3,
@@ -706,17 +703,17 @@
     "regime": "mixed_selective_rotation",
     "regime_label_ko": "혼조·빠른 순환 대응",
     "regime_icon": "🟡",
-    "btc_range_position_pct": 52.3,
-    "major_avg_range_position_pct": 61.25,
-    "preferred_avg_change_pct_24h": 5.31,
-    "preferred_high_range_count": 4,
+    "btc_range_position_pct": 30.0,
+    "major_avg_range_position_pct": 51.27,
+    "preferred_avg_change_pct_24h": 11.65,
+    "preferred_high_range_count": 3,
     "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 81.34,
-    "avg_day_high_gap_pct": -1.93,
-    "above_80_range_count": 4,
-    "summary": "고위치(80%+) 후보 4개 / 평균 위치 81.34%"
+    "avg_range_position_pct": 81.06,
+    "avg_day_high_gap_pct": -2.52,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 81.06%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -727,49 +724,49 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "last_price_krw": 3255.0,
-      "threshold_krw": 3102.0,
-      "distance_to_invalidation_pct": 4.93,
+      "icon": "🌍",
+      "symbol": "WLD",
+      "last_price_krw": 839.0,
+      "threshold_krw": 800.0,
+      "distance_to_invalidation_pct": 4.88,
       "status": "near"
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
-      "last_price_krw": 551.0,
+      "last_price_krw": 558.0,
       "threshold_krw": 527.0,
-      "distance_to_invalidation_pct": 4.55,
+      "distance_to_invalidation_pct": 5.88,
+      "status": "healthy"
+    },
+    {
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "last_price_krw": 3257.0,
+      "threshold_krw": 3102.0,
+      "distance_to_invalidation_pct": 5.0,
       "status": "near"
     },
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "last_price_krw": 944.0,
-      "threshold_krw": 932.0,
-      "distance_to_invalidation_pct": 1.29,
-      "status": "near"
+      "icon": "🧬",
+      "symbol": "BIO",
+      "last_price_krw": 50.0,
+      "threshold_krw": 46.5,
+      "distance_to_invalidation_pct": 7.53,
+      "status": "healthy"
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "last_price_krw": 57.5,
-      "threshold_krw": 56.6,
-      "distance_to_invalidation_pct": 1.59,
-      "status": "near"
-    },
-    {
-      "icon": "🧿",
-      "symbol": "ZBT",
-      "last_price_krw": 206.0,
-      "threshold_krw": 181.0,
-      "distance_to_invalidation_pct": 13.81,
+      "icon": "🪙",
+      "symbol": "BERA",
+      "last_price_krw": 407.0,
+      "threshold_krw": 386.0,
+      "distance_to_invalidation_pct": 5.44,
       "status": "healthy"
     }
   ],
   "preferred_health_summary": {
-    "healthy_count": 1,
-    "near_count": 4,
+    "healthy_count": 3,
+    "near_count": 2,
     "broken_count": 0,
     "unknown_count": 0
   },
@@ -780,172 +777,165 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "ZBT",
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "BERA",
       "action": "BUY",
-      "price_krw": 206.0,
-      "amount_delta": 4665.199632957739,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "ZBT는 +13.81%, 65.3억원 대금, 83.3% 위치로 이번 밤장 소형 베타 확장성이 가장 강한 신규 슬롯입니다."
+      "price_krw": 407.0,
+      "amount_delta": 2308.3258795725033,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "BERA는 +10.96%, 99.2억원 대금, 76.1% 위치로 JTO·ZBT보다 덜 깨진 후속 공격 슬롯입니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "SAHARA",
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "BIO",
       "action": "BUY",
-      "price_krw": 57.5,
-      "amount_delta": 16713.584771987724,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "SAHARA는 +1.77%, 316.1억원 대금, 62.9% 위치로 56.6원 위 reclaim이 확인된 AI continuation 슬롯입니다."
+      "price_krw": 50.0,
+      "amount_delta": 18789.772659720176,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "BIO는 +16.94%, 187.8억원 대금, 80.0% 위치로 새벽 중형 beta 확장성이 가장 깔끔합니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "JTO",
-      "action": "BUY",
-      "price_krw": 944.0,
-      "amount_delta": 1018.0414453276421,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "JTO는 +1.29%, 333.9억원 대금, 85.9% 위치로 오후 무효화를 뒤집은 clean reclaim continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "ONDO",
-      "action": "BUY",
-      "price_krw": 551.0,
-      "amount_delta": 1744.1581204887373,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "ONDO는 +4.75%, 402.5억원 대금, 90.0% 위치로 이번 밤장 유일한 fresh breakout급 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
+      "timestamp": "2026-06-09T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 3255.0,
-      "amount_delta": 295.24765726245596,
-      "cash_delta_krw": -961031.1243892942,
-      "reason": "NEAR는 +4.93%, 475.4억원 대금, 84.6% 위치로 breadth 회복 구간의 대형 품질 코어입니다."
+      "price_krw": 3257.0,
+      "amount_delta": 288.452143993248,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "NEAR는 +5.03%, 450.1억원 대금, 63.5% 위치로 완전 돌파는 아니어도 체급 대비 가장 믿을 만한 품질 생존축입니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "VVV",
-      "action": "SELL",
-      "price_krw": 26070.0,
-      "amount_delta": -36.052263021110896,
-      "cash_delta_krw": 939882.496960361,
-      "reason": "종목 자체는 건강하지만 이번 밤장 5번째 공격 슬롯은 ZBT의 속도와 대금 확장이 더 강해 전량 교체"
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 558.0,
+      "amount_delta": 1683.6713852795856,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "ONDO는 +5.89%, 410.1억원 대금, 82.4% 위치로 RWA 유동성 코어 지위를 유지합니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
+      "timestamp": "2026-06-09T03:49:00+09:00",
       "symbol": "WLD",
-      "action": "SELL",
-      "price_krw": 714.0,
-      "amount_delta": -1275.5800688884037,
-      "cash_delta_krw": 910764.1691863203,
-      "reason": "거래대금 1위지만 50.0% 위치에 머물러 cleaner upper-range continuation들에 자리 양보"
+      "action": "BUY",
+      "price_krw": 839.0,
+      "amount_delta": 1119.7719105911904,
+      "cash_delta_krw": -939488.6329860088,
+      "reason": "WLD는 +16.88%, 1834.0억원 대금, 90.9% 위치로 Hayes 잡음을 흡수한 새벽 최강 reclaim 코어입니다."
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "ZBT",
+      "action": "SELL",
+      "price_krw": 194.0,
+      "amount_delta": -4665.199632957739,
+      "cash_delta_krw": 905048.7287938013,
+      "reason": "새벽 보드가 WLD reclaim + BIO/BERA 확장 쪽으로 이동해 직전 JTO·SAHARA·ZBT 바스켓을 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 53.7,
+      "amount_delta": -16713.584771987724,
+      "cash_delta_krw": 897519.5022557408,
+      "reason": "새벽 보드가 WLD reclaim + BIO/BERA 확장 쪽으로 이동해 직전 JTO·SAHARA·ZBT 바스켓을 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 943.0,
+      "amount_delta": -1018.0414453276421,
+      "cash_delta_krw": 960013.0829439665,
+      "reason": "새벽 보드가 WLD reclaim + BIO/BERA 확장 쪽으로 이동해 직전 JTO·SAHARA·ZBT 바스켓을 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-09T03:49:00+09:00",
       "symbol": "ONDO",
       "action": "SELL",
-      "price_krw": 551.0,
-      "amount_delta": -1725.5032451567336,
-      "cash_delta_krw": 950752.2880813602,
-      "reason": "fresh breakout 코어는 유지하되 21:49 가격 기준 균등 공격 분산으로 전량 재편"
+      "price_krw": 558.0,
+      "amount_delta": -1744.1581204887373,
+      "cash_delta_krw": 973240.2312327154,
+      "reason": "새벽 가격 기준 5종 균등 공격 분산 재구성을 위해 전량 재편"
     },
     {
-      "timestamp": "2026-06-08T21:49:00+09:00",
-      "symbol": "MOVE",
-      "action": "SELL",
-      "price_krw": 22.3,
-      "amount_delta": -48151.47799311722,
-      "cash_delta_krw": 1073777.9592465141,
-      "reason": "+25.99% 급등은 강하지만 고점 대비 -10.44% gap가 커 exhausted blowoff late chase를 피하기 위해 전량 정리"
-    },
-    {
-      "timestamp": "2026-06-08T21:49:00+09:00",
+      "timestamp": "2026-06-09T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "SELL",
-      "price_krw": 3255.0,
-      "amount_delta": -285.70774453822276,
-      "cash_delta_krw": 929978.7084719151,
-      "reason": "장 마감 전 breadth 회복을 반영해 night basket 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 3257.0,
+      "amount_delta": -295.24765726245596,
+      "cash_delta_krw": 961621.619703819,
+      "reason": "새벽 가격 기준 5종 균등 공격 분산 재구성을 위해 전량 재편"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🌉 **NEAR** — 3,255원, **+4.93%**, 24h 대금 약 **475.4억원**, 위치 **84.6%**",
-      "   → **quality continuation core**",
-      "2. 🌐 **ONDO** — 551원, **+4.75%**, 24h 대금 약 **402.5억원**, 위치 **90.0%**",
-      "   → **fresh breakout core**",
-      "3. 🪂 **JTO** — 944원, **+1.29%**, 24h 대금 약 **333.9억원**, 위치 **85.9%**",
-      "   → **solana reclaim continuation**",
-      "4. 🏜️ **SAHARA** — 57.5원, **+1.77%**, 24h 대금 약 **316.1억원**, 위치 **62.9%**",
-      "   → **ai reclaim continuation**",
-      "5. ⚡ **ZBT** — 206원, **+13.81%**, 24h 대금 약 **65.3억원**, 위치 **83.3%**",
-      "   → **small-cap beta breakout**"
+      "1. 🌍 **WLD** — 839원, **+18.00%**, 24h 대금 약 **1842.9억원**, 위치 **95.7%**",
+      "   → **attention reclaim core**",
+      "2. 🌐 **ONDO** — 558원, **+6.08%**, 24h 대금 약 **410.2억원**, 위치 **84.3%**",
+      "   → **rwa continuation core**",
+      "3. 🌉 **NEAR** — 3,257원, **+5.00%**, 24h 대금 약 **450.0억원**, 위치 **63.2%**",
+      "   → **quality L1 survivor**",
+      "4. 🧬 **BIO** — 50.0원, **+17.65%**, 24h 대금 약 **187.9억원**, 위치 **83.0%**",
+      "   → **mid-cap breakout beta**",
+      "5. 🐻 **BERA** — 407원, **+11.51%**, 24h 대금 약 **99.3억원**, 위치 **79.1%**",
+      "   → **mid-cap narrative continuation**"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: **-0.18%**, 위치 **52.3%**",
-      "- ◆ ETH: **-0.59%**, 위치 **55.6%**",
-      "- 💧 XRP: **+0.06%**, 위치 **63.2%**",
-      "- ☀️ SOL: **+0.20%**, 위치 **73.9%**",
-      "- 해석: 오후 저점권에서 **명확한 회복**은 나왔지만, BTC·ETH는 아직 음전이라 **무차별 돌격보다 upper-range continuation 압축**이 맞습니다."
-    ],
-    "🚫 이번 회차 배제 / 보류": [
-      "- 🚀 **MOVE**: **+25.99%**지만 **63.9% 위치·-10.44% gap** → **exhausted blowoff**",
-      "- 🌍 **WLD**: **2036억원 대금 1위**지만 **50.0% 위치** → **attention은 강해도 구조는 중단**",
-      "- 🕶️ **VVV**: 구조는 좋지만 이번 밤장 5번째 슬롯은 **ZBT가 더 공격적**",
-      "- ✨ **XLM**: **472.2억원 대금**에도 **-2.57%·37.5% 위치**라 turnover trap 성격",
-      "- 🧭 **TRAC**: **+2.38%**라도 **23.1% 위치·-11.11% gap**로 fading leader"
+      "- ₿ BTC: **-0.67%**, 위치 **30.0%**",
+      "- ◆ ETH: **-1.26%**, 위치 **34.3%**",
+      "- 💧 XRP: **+0.92%**, 위치 **70.1%**",
+      "- ☀️ SOL: **+0.60%**, 위치 **70.7%**",
+      "- 해석: **BTC·ETH는 다시 약해졌고 XRP·SOL만 버티는 혼조장**입니다. 그래서 **WLD 단일 추격이 아니라 5종 분산**이 필요합니다."
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 **0%**, **NEAR·ONDO·JTO·SAHARA·ZBT** 5종 균등 재편",
-      "- 구조는 **fresh breakout 1 + continuation 2 + reclaim 2**",
-      "- **WLD attention**, **MOVE 과열**, **ZBT 고베타**를 분리해 추격/보유를 구분합니다."
+      "- 현금 **0%**, **WLD·ONDO·NEAR·BIO·BERA** 5종 균등 재편",
+      "- 구조는 **attention reclaim 1 + liquid core 2 + beta 2**",
+      "- **WLD 재승격**을 인정하되, **BIO·BERA**를 같이 넣어 한 서사 쏠림을 피합니다."
     ],
     "✅ 가상 매매 실행 내용": [
-      "- **SELL** NEAR / MOVE / ONDO / WLD / VVV 전량 재편",
-      "- **BUY** NEAR / ONDO / JTO / SAHARA / ZBT 균등 재진입",
-      "- 실질 교체: **MOVE → JTO**, **WLD → SAHARA**, **VVV → ZBT**",
-      "- 실질 판단 변화: **오후 survivor 방어 → 밤장 recovery-continuation 공격**"
+      "- **SELL** NEAR / ONDO / JTO / SAHARA / ZBT 전량 재편",
+      "- **BUY** WLD / ONDO / NEAR / BIO / BERA 균등 재진입",
+      "- 실질 교체: **SAHARA → WLD**, **JTO → BERA**, **ZBT → BIO**",
+      "- 실질 판단 변화: **밤장 recovery-continuation 바스켓 → 새벽 mixed rotation 공격 바스켓**"
     ],
     "📦 현재 포트폴리오 현황": [
       "- 현금: **0원**",
-      "- 총 평가액: **4,805,156원**",
-      "- 실현손익: **-5,323,894원**",
-      "- 누적 수익률: **-51.95%**",
-      "- NEAR: **295.248개** @ 3,255원",
-      "- ONDO: **1,744.158개** @ 551원",
-      "- JTO: **1,018.041개** @ 944원",
-      "- SAHARA: **16,713.585개** @ 57.5원",
-      "- ZBT: **4,665.200개** @ 206원"
+      "- 총 평가액: **4,697,443원**",
+      "- 실현손익: **-5,431,607원**",
+      "- 누적 수익률: **-53.03%**",
+      "- WLD: **1,119.772개** @ 839원",
+      "- ONDO: **1,683.671개** @ 558원",
+      "- NEAR: **288.452개** @ 3,257원",
+      "- BIO: **18,789.773개** @ 50.0원",
+      "- BERA: **2,308.326개** @ 407원"
     ],
     "🧠 자기 평가": [
-      "- 오후에 **메이저 평균 22.10%**를 보고 생존형 방어로 돌린 건 맞았습니다.",
-      "- 하지만 밤장에 **major avg 61.25 / top15 양전 11개**가 나왔는데도 **WLD 50% 구조**와 **MOVE blowoff**를 계속 들고 가면 둔합니다.",
-      "- 이번엔 **JTO·SAHARA 재편입 + ZBT 신규 편입**으로 회복장 공격성을 다시 올렸습니다."
+      "- 직전 밤장에 breadth 회복을 읽고 공격성을 올린 건 맞았습니다.",
+      "- 다만 **03:49 기준**으로는 **SAHARA 4.8% 위치**, **ZBT 50.0% 위치**, **WLD 90.9% reclaim**을 더 강하게 반영했어야 합니다.",
+      "- 이번엔 **WLD 재승격 + BIO·BERA 교체**로 새벽 주도권 변화를 더 직접 따라갔습니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- **PROJECT.md**에 *breadth 회복 중에도 같은 날 급등주가 고점 대비 10% 이상 밀리면 exhausted blowoff로 분류하고 cleaner 75%+ continuation/reclaim을 우선*하는 규칙을 추가했습니다.",
-      "- 보고서에 **15:49 ↔ 21:49**의 **major avg / top15 양전 수 / low-range 수** 변화를 직접 넣어 반전 강도를 더 빨리 읽게 했습니다.",
-      "- 포트폴리오를 **MOVE·WLD 과열/attention 혼합 바스켓**에서 **JTO·SAHARA·ZBT 포함 recovery 바스켓**으로 교체했습니다."
+      "- **PROJECT.md**에 *former attention-trap 리더가 85%+ 위치와 거래대금 1위를 동시에 회복하면 headline overhang이 남아도 재편입 가능* 규칙을 추가했습니다.",
+      "- 보고서 한줄 구조를 **attention reclaim / liquid core / beta slot**으로 재정리해 바뀐 보드 성격을 더 빨리 읽게 했습니다.",
+      "- 포트폴리오를 **JTO·SAHARA·ZBT 약화 바스켓**에서 **WLD·BIO·BERA 확장 바스켓**으로 재편했습니다."
     ],
     "🧾 판단": [
-      "- aggressive recovery-continuation basket with one small-cap beta slot"
+      "- aggressive mixed rotation with one attention leader, two liquid cores, and two mid-cap beta slots"
     ],
     "🎯 신뢰도": [
-      "- medium-high"
+      "- medium"
     ],
     "👉 추천 행동": [
-      "- **BTC 94.70M / NEAR 3102 / ONDO 527 / JTO 932 / SAHARA 56.6 / ZBT 181** 하향 시 즉시 재평가",
-      "- **MOVE**는 지금 추격 금지, **WLD**는 730원대 재안착 전까진 attention watch만 유지",
-      "- 새벽에 breadth가 더 강해지면 **IP·VVV**를 후속 승격 후보로 봅니다."
+      "- **BTC 94.00M / WLD 800 / ONDO 527 / NEAR 3102 / BIO 46.5 / BERA 386** 하향 시 즉시 재평가",
+      "- **MOVE**는 지금도 추격 금지, **JTO**는 unlock/차익실현 부담이 더 정리될 때까지 감시 우선",
+      "- WLD가 800원 위를 유지하면 다음 승격 후보는 **LAYER·VVV**, 반대로 꺾이면 **DOGE** 같은 안정 회전축을 대체로 검토합니다."
     ],
     "⚠️ 리스크 메모": [
-      "- **공포탐욕 8**이라 심리는 여전히 매우 나쁩니다.",
-      "- **MOVE** 같은 급등주는 밤 사이 급반락이 흔합니다.",
-      "- **SAHARA**는 여전히 **6/26 언락** 오버행이 남아 있습니다.",
-      "- **ZBT**는 소형 고베타라 변동성 관리가 가장 중요합니다.",
-      "- **BTC·ETH**가 아직 24시간 완전 양전이 아니라, 새벽에 다시 breadth가 식을 가능성도 열어둬야 합니다."
+      "- **공포탐욕 8**이라 심리 자체는 매우 나쁩니다.",
+      "- **BTC·ETH 저위치**가 지속되면 알트도 갑자기 breadth가 꺼질 수 있습니다.",
+      "- **WLD**는 강하지만 headline 민감도가 큽니다.",
+      "- **BIO·BERA**는 중형 베타라 수익/손실 속도가 빠릅니다.",
+      "- **SAHARA**는 6/26 언락 부담이 가까워 당분간 재편입 기준을 높게 잡아야 합니다."
     ]
   }
 }
