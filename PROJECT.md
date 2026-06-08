@@ -57,6 +57,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When fresh-breakout breadth disappears (fresh breakouts near zero) but relative-strength survivors remain active, force at least 3 of 5 preferred picks to come from survivor/reclaim groups and avoid sub-55% range-position laggards unless a clearly stronger turnover catalyst exists.
 - When major average range-position surges above roughly 80 and fresh breakouts are 4개 이상, force at least 3 of 5 preferred picks to come from 75%+ fresh/reclaimed leaders instead of defending older 40-60% continuations from the prior cycle.
 - When a prior breadth-flip session cools quickly (major average falls back toward the 60s and fresh breakouts shrink to 1 or fewer), stop treating the old 90%+ basket as intact and rebuild around 1 fresh breakout plus 4 survivor/reclaim names.
+- When one non-major leader accounts for more than roughly 60% of preferred-basket turnover, keep equal weighting and do not add concentration unless breadth remains extremely broad and at least four other preferred names still show real liquidity.
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:

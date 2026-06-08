@@ -3,113 +3,113 @@
   "currency": "KRW",
   "initial_cash_krw": 10000000,
   "cash_krw": 0.0,
-  "realized_pnl_krw": -5560683.758172646,
-  "last_valuation_krw": 4568366.044998407,
-  "last_action": "SURVIVOR_ROTATE_TO_WLD_NEAR_ONDO_SAHARA_PENGU",
-  "last_updated": "2026-06-08T03:49:37+09:00",
-  "trade_count": 516,
+  "realized_pnl_krw": -5467809.021279411,
+  "last_valuation_krw": 4661240.781891642,
+  "last_action": "BREAKOUT_REACCELERATE_TO_WLD_JTO_ONDO_NEAR_SAHARA",
+  "last_updated": "2026-06-08T09:49:00+09:00",
+  "trade_count": 526,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 1265.4753587253206,
-      "avg_buy_price_krw": 722.0,
-      "last_price_krw": 722.0,
-      "value_krw": 913673.2089996815,
-      "thesis": "WLD는 +14.79%, 2325.4억원 대금, 63.8% 위치로 여전히 업비트 attention의 중심입니다. 고점 갭은 크지만 거래대금이 압도적이라 코어 유지가 타당합니다.",
-      "strategy": "attention-mega-survivor",
-      "role": "attention mega survivor",
-      "risk_limit_pct": 13,
-      "profit_take_pct": 18
+      "amount": 1282.3220858023776,
+      "avg_buy_price_krw": 727.0,
+      "last_price_krw": 727.0,
+      "value_krw": 932248.1563783285,
+      "thesis": "WLD는 +2.25%, 2487.7억원 대금, 64.5% 위치로 브레이크아웃 군 중 유일한 초대금 attention 리더입니다.",
+      "strategy": "attention-reclaim-leader",
+      "role": "attention reclaim leader",
+      "risk_limit_pct": 10,
+      "profit_take_pct": 15
     },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 296.7434910684253,
-      "avg_buy_price_krw": 3079.0,
-      "last_price_krw": 3079.0,
-      "value_krw": 913673.2089996815,
-      "thesis": "NEAR는 +9.03%, 344.3억원 대금, 76.1% 위치로 breadth가 식은 뒤에도 가장 안정적인 품질 survivor입니다.",
-      "strategy": "quality-l1-survivor",
-      "role": "quality l1 survivor",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 14
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 982.3478992395453,
+      "avg_buy_price_krw": 949.0,
+      "last_price_krw": 949.0,
+      "value_krw": 932248.1563783285,
+      "thesis": "JTO는 +1.82%, 517.9억원 대금, 96.4% 위치로 이번 오전 업비트 fresh breakout 중 체급과 구조가 가장 좋습니다.",
+      "strategy": "solana-revenue-breakout",
+      "role": "solana revenue breakout",
+      "risk_limit_pct": 9,
+      "profit_take_pct": 16
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 1753.6913800377765,
-      "avg_buy_price_krw": 521.0,
-      "last_price_krw": 521.0,
-      "value_krw": 913673.2089996815,
-      "thesis": "ONDO는 +5.47%, 418.1억원 대금, 58.5% 위치로 fresh breakout은 아니지만 유동성 앵커형 reclaim survivor 역할이 유효합니다.",
-      "strategy": "rwa-reclaim-survivor",
-      "role": "rwa reclaim survivor",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12
+      "amount": 1752.3461586058806,
+      "avg_buy_price_krw": 532.0,
+      "last_price_krw": 532.0,
+      "value_krw": 932248.1563783285,
+      "thesis": "ONDO는 +1.14%, 466.3억원 대금, 93.8% 위치로 WLD 다음으로 읽기 쉬운 대형 continuation입니다.",
+      "strategy": "rwa-continuation-core",
+      "role": "rwa continuation core",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 13
+    },
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 296.4223072745082,
+      "avg_buy_price_krw": 3145.0,
+      "last_price_krw": 3145.0,
+      "value_krw": 932248.1563783285,
+      "thesis": "NEAR는 +1.39%, 403.9억원 대금, 90.6% 위치로 메이저 회복 수혜를 가장 안정적으로 받는 비메이저 품질 코어입니다.",
+      "strategy": "quality-l1-breakout",
+      "role": "quality l1 breakout",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 13
     },
     "SAHARA": {
       "market": "KRW-SAHARA",
-      "amount": 16199.879592192936,
-      "avg_buy_price_krw": 56.4,
-      "last_price_krw": 56.4,
-      "value_krw": 913673.2089996815,
-      "thesis": "SAHARA는 +13.71%, 129.4억원 대금, 98.6% 위치로 이번 새벽에 남은 거의 유일한 fresh breakout입니다.",
-      "strategy": "ai-fresh-breakout",
-      "role": "ai fresh breakout",
-      "risk_limit_pct": 12,
-      "profit_take_pct": 18
-    },
-    "PENGU": {
-      "market": "KRW-PENGU",
-      "amount": 88706.13679608557,
-      "avg_buy_price_krw": 10.3,
-      "last_price_krw": 10.3,
-      "value_krw": 913673.2089996815,
-      "thesis": "PENGU는 +7.97%, 51.9억원 대금, 72.0% 위치로 저가 밈 중 여전히 high-range continuation이 유지됩니다.",
-      "strategy": "retail-meme-continuation",
-      "role": "retail meme continuation",
-      "risk_limit_pct": 7,
+      "amount": 16156.813802050752,
+      "avg_buy_price_krw": 57.7,
+      "last_price_krw": 57.7,
+      "value_krw": 932248.1563783285,
+      "thesis": "SAHARA는 +2.12%, 193.1억원 대금, 83.3% 위치로 언락 리스크를 감안해도 오전 AI 슬롯 1순위입니다.",
+      "strategy": "ai-continuation-breakout",
+      "role": "ai continuation breakout",
+      "risk_limit_pct": 9,
       "profit_take_pct": 15
     }
   },
   "watchlist": [
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "21.29%·463.4억원으로 강하지만 위치 64.5%, 고점 갭 -8.97%라 late chase 리스크가 큽니다."
-    },
-    {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "18.45%·94.2% 위치가 깔끔하지만 대금 40.5억원이라 이번엔 SAHARA보다 우선순위를 낮췄습니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "4.58%·67.2% 위치로 무난한 survivor지만 SAHARA와 WLD가 더 강한 AI attention을 가져갑니다."
-    },
-    {
-      "symbol": "AKT",
-      "market": "KRW-AKT",
-      "reason": "6.85%·72.5% 위치로 보조 후보는 가능하지만 대금이 PENGU보다 약간 낮아 2군 유지입니다."
-    },
-    {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "7.08% 강세에도 위치 40.9%, 고점 갭 -9.7%라 fading leader로 분류합니다."
+      "reason": "100% 위치와 190.6억원 대금이 인상적이지만 추세 지속 검증은 JTO보다 짧아 6순위로 둡니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "3.67% 양전이지만 위치가 55.3%로 밀려 이번 회차 core 5에는 못 들었습니다."
+      "reason": "81.0% 위치와 219.1억원 대금으로 강하지만 이번 회차는 JTO·SAHARA보다 서사 확장성이 약합니다."
     },
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "778.8억원 대금에도 위치 30.8%라 turnover trap 해석이 유지됩니다."
+      "reason": "692.7억원 대금과 66.7% 위치로 함정에서 벗어났지만 0% 수익률이라 공격 톱5에는 한 끗 부족합니다."
+    },
+    {
+      "symbol": "BABY",
+      "market": "KRW-BABY",
+      "reason": "94.1% 위치와 +3.16%가 매력적이지만 체급은 JTO·ONDO·NEAR보다 작아 보조 breakout 후보입니다."
+    },
+    {
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "87.5% 위치와 AI 성격은 좋지만 거래대금 71.1억원이라 SAHARA 우선순위를 넘지 못했습니다."
     },
     {
       "symbol": "ENA",
       "market": "KRW-ENA",
-      "reason": "거래대금 98.1억원인데 위치 8.3%로 구조가 무너졌습니다."
+      "reason": "80.0% 위치와 125.1억원 대금으로 깔끔한 보조 지속형입니다."
+    },
+    {
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "100% 위치는 유지했지만 대금 63.1억원으로 JTO 대비 체급 열세라 메인 바스켓에서는 제외합니다."
+    },
+    {
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "75.0% 위치와 117.5억원 대금으로 무난하지만 공격성이 상대적으로 낮습니다."
     }
   ],
   "history": [
@@ -4855,6 +4855,96 @@
       "amount_delta": 88706.13679608557,
       "cash_delta_krw": -913673.2089996815,
       "reason": "PENGU는 +7.97%, 51.9억원 대금, 72.0% 위치로 저가 밈 중 여전히 high-range continuation이 유지됩니다."
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 727.0,
+      "amount_delta": -1265.4753587253206,
+      "cash_delta_krw": 920000.5857933081,
+      "reason": "09:49 기준 장세 재평가에 맞춰 WLD 포함 5종을 현재가로 재편하고, JTO 신규 편입을 위한 균등 리밸런싱 실행"
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3145.0,
+      "amount_delta": -296.7434910684253,
+      "cash_delta_krw": 933258.2794101976,
+      "reason": "09:49 기준 장세 재평가에 맞춰 NEAR 포함 5종을 현재가로 재편하고, JTO 신규 편입을 위한 균등 리밸런싱 실행"
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 532.0,
+      "amount_delta": -1753.6913800377765,
+      "cash_delta_krw": 932963.8141800971,
+      "reason": "09:49 기준 장세 재평가에 맞춰 ONDO 포함 5종을 현재가로 재편하고, JTO 신규 편입을 위한 균등 리밸런싱 실행"
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 57.7,
+      "amount_delta": -16199.879592192936,
+      "cash_delta_krw": 934733.0524695325,
+      "reason": "09:49 기준 장세 재평가에 맞춰 SAHARA 포함 5종을 현재가로 재편하고, JTO 신규 편입을 위한 균등 리밸런싱 실행"
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "PENGU",
+      "action": "SELL",
+      "price_krw": 10.6,
+      "amount_delta": -88706.13679608557,
+      "cash_delta_krw": 940285.050038507,
+      "reason": "저가 밈 beta보다 JTO의 96.4% 고위치·517.9억원 대금이 더 강해 교체"
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 727.0,
+      "amount_delta": 1282.3220858023776,
+      "cash_delta_krw": -932248.1563783285,
+      "reason": "WLD는 +2.25%, 2487.7억원 대금, 64.5% 위치로 브레이크아웃 군 중 유일한 초대금 attention 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 949.0,
+      "amount_delta": 982.3478992395453,
+      "cash_delta_krw": -932248.1563783285,
+      "reason": "JTO는 +1.82%, 517.9억원 대금, 96.4% 위치로 이번 오전 업비트 fresh breakout 중 체급과 구조가 가장 좋습니다."
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 532.0,
+      "amount_delta": 1752.3461586058806,
+      "cash_delta_krw": -932248.1563783285,
+      "reason": "ONDO는 +1.14%, 466.3억원 대금, 93.8% 위치로 WLD 다음으로 읽기 쉬운 대형 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3145.0,
+      "amount_delta": 296.4223072745082,
+      "cash_delta_krw": -932248.1563783285,
+      "reason": "NEAR는 +1.39%, 403.9억원 대금, 90.6% 위치로 메이저 회복 수혜를 가장 안정적으로 받는 비메이저 품질 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-08T09:49:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 57.7,
+      "amount_delta": 16156.813802050752,
+      "cash_delta_krw": -932248.1563783285,
+      "reason": "SAHARA는 +2.12%, 193.1억원 대금, 83.3% 위치로 언락 리스크를 감안해도 오전 AI 슬롯 1순위입니다."
     }
   ]
 }
