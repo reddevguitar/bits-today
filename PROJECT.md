@@ -59,6 +59,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When a prior breadth-flip session cools quickly (major average falls back toward the 60s and fresh breakouts shrink to 1 or fewer), stop treating the old 90%+ basket as intact and rebuild around 1 fresh breakout plus 4 survivor/reclaim names.
 - When one non-major leader accounts for more than roughly 60% of preferred-basket turnover, keep equal weighting and do not add concentration unless breadth remains extremely broad and at least four other preferred names still show real liquidity.
 - When major average range-position falls below roughly 30 and 2개 이상 held preferred names break invalidation together, force those broken slots out next cycle and allow at most 1 sub-55 attention slot in the rebuilt basket.
+- When breadth recovers but a same-day leader is still more than roughly 10% below its intraday high after a vertical surge, classify it as an exhausted blowoff and prefer cleaner 75%+ continuation/reclaim names instead of late chasing the spike
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
