@@ -71,6 +71,7 @@ ICONS = {
     'META': '🏛️',
     'VVV': '🕶️',
     'SUI': '🌊',
+    'SLX': '🌞',
     'IRYS': '🪻',
     'PROS': '🧱',
     'TRAC': '🧭',
