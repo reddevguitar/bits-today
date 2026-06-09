@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 0.0,
-  "realized_pnl_krw": -5431606.638241011,
-  "last_valuation_krw": 4697443.164930044,
-  "last_action": "MIXED_ROTATION_TO_WLD_ONDO_NEAR_BIO_BERA",
-  "last_updated": "2026-06-09T03:49:00+09:00",
-  "trade_count": 556,
+  "cash_krw": 1748536.586346,
+  "realized_pnl_krw": -5757708.33730607,
+  "last_valuation_krw": 4371341.465864984,
+  "last_action": "CAP_RISK_ROTATION_TO_MOVE_SAHARA_CPOOL_MOCA_UP2",
+  "last_updated": "2026-06-09T09:49:00+09:00",
+  "trade_count": 566,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 1119.7719105911904,
-      "avg_buy_price_krw": 839.0,
-      "last_price_krw": 839.0,
-      "value_krw": 939488.6329860088,
-      "thesis": "WLD는 +16.88%, 1834.0억원 대금, 90.9% 위치로 Hayes 잡음을 흡수한 새벽 최강 reclaim 코어입니다.",
-      "strategy": "attention-reclaim-core",
-      "role": "attention reclaim core",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 15
-    },
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 1683.6713852795856,
-      "avg_buy_price_krw": 558.0,
-      "last_price_krw": 558.0,
-      "value_krw": 939488.6329860088,
-      "thesis": "ONDO는 +5.89%, 410.1억원 대금, 82.4% 위치로 RWA 유동성 코어 지위를 유지합니다.",
-      "strategy": "rwa-continuation-core",
-      "role": "rwa continuation core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 13
-    },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 288.452143993248,
-      "avg_buy_price_krw": 3257.0,
-      "last_price_krw": 3257.0,
-      "value_krw": 939488.6329860088,
-      "thesis": "NEAR는 +5.03%, 450.1억원 대금, 63.5% 위치로 완전 돌파는 아니어도 체급 대비 가장 믿을 만한 품질 생존축입니다.",
-      "strategy": "quality-l1-survivor",
-      "role": "quality L1 survivor",
+    "MOVE": {
+      "market": "KRW-MOVE",
+      "amount": 23735.790764886875,
+      "avg_buy_price_krw": 22.1,
+      "last_price_krw": 22.1,
+      "value_krw": 524560.975904,
+      "thesis": "MOVE는 +7.80%, 900.4억원 대금, 73.1% 위치로 붕괴장에서도 살아남은 유일한 초대금 알트 코어입니다.",
+      "strategy": "liquid-survivor-core",
+      "role": "liquid survivor core",
       "risk_limit_pct": 7,
       "profit_take_pct": 12
     },
-    "BIO": {
-      "market": "KRW-BIO",
-      "amount": 18789.772659720176,
-      "avg_buy_price_krw": 50.0,
-      "last_price_krw": 50.0,
-      "value_krw": 939488.6329860088,
-      "thesis": "BIO는 +16.94%, 187.8억원 대금, 80.0% 위치로 새벽 중형 beta 확장성이 가장 깔끔합니다.",
-      "strategy": "mid-cap-breakout-beta",
-      "role": "mid-cap breakout beta",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 15
+    "SAHARA": {
+      "market": "KRW-SAHARA",
+      "amount": 9934.866967878788,
+      "avg_buy_price_krw": 52.8,
+      "last_price_krw": 52.8,
+      "value_krw": 524560.975904,
+      "thesis": "SAHARA는 +2.13%, 301.7억원 대금, 80.0% 위치로 악재가 알려진 상태에서도 버티는 AI 상대강도 축입니다.",
+      "strategy": "ai-relative-strength-core",
+      "role": "ai relative-strength core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 10
     },
-    "BERA": {
-      "market": "KRW-BERA",
-      "amount": 2308.3258795725033,
-      "avg_buy_price_krw": 407.0,
-      "last_price_krw": 407.0,
-      "value_krw": 939488.6329860088,
-      "thesis": "BERA는 +10.96%, 99.2억원 대금, 76.1% 위치로 JTO·ZBT보다 덜 깨진 후속 공격 슬롯입니다.",
-      "strategy": "mid-cap-narrative-continuation",
-      "role": "mid-cap narrative continuation",
+    "CPOOL": {
+      "market": "KRW-CPOOL",
+      "amount": 13914.08424148541,
+      "avg_buy_price_krw": 37.7,
+      "last_price_krw": 37.7,
+      "value_krw": 524560.975904,
+      "thesis": "CPOOL은 +9.59%, 34.9억원 대금, 94.4% 위치로 현재 장세에서 가장 깨끗한 소형 돌파 구조입니다.",
+      "strategy": "small-cap-breakout-slot",
+      "role": "small-cap breakout slot",
       "risk_limit_pct": 8,
       "profit_take_pct": 14
+    },
+    "MOCA": {
+      "market": "KRW-MOCA",
+      "amount": 35443.3091827027,
+      "avg_buy_price_krw": 14.8,
+      "last_price_krw": 14.8,
+      "value_krw": 524560.975904,
+      "thesis": "MOCA는 +5.71%, 29.2억원 대금, 80.0% 위치로 약한 breadth 안에서 유지력이 괜찮은 attention 베타입니다.",
+      "strategy": "attention-beta-slot",
+      "role": "attention beta slot",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 13
+    },
+    "UP2": {
+      "market": "KRW-UP2",
+      "amount": 5193.673028752475,
+      "avg_buy_price_krw": 101.0,
+      "last_price_krw": 101.0,
+      "value_krw": 524560.975904,
+      "thesis": "UP2는 대금 6.9억원으로 얇지만 +1.51%, 60.0% 위치를 지켜 IP·PROS보다 구조가 낫습니다.",
+      "strategy": "thin-liquidity-support-slot",
+      "role": "thin-liquidity support slot",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 11
     }
   },
   "watchlist": [
     {
-      "symbol": "MOVE",
-      "market": "KRW-MOVE",
-      "reason": "대금은 크지만 43.1% 위치와 -16.47% gap라 여전히 late blowoff 리스크가 큽니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "여전히 업비트 최대 대금이지만 28.1% 위치라 재상승 전까지는 turnover trap 감시 대상입니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "대금은 충분하지만 63.6% 위치에 머물고 최근 unlock 부담이 남아 있어 6순위입니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "Ondo Perps 뉴스가 있어도 6.2% 위치라 headline보다 tape가 약합니다."
     },
     {
-      "symbol": "LAYER",
-      "market": "KRW-LAYER",
-      "reason": "+22.53%는 강하지만 -8.53% gap가 커서 지금은 추격보다 감시가 낫습니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "대금은 충분하지만 33.6% 위치로 붕괴 중이라 반등 확인 전 보류입니다."
     },
     {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "고베타 성격은 좋지만 현재는 50.0% 위치라 새벽 주도권이 약해졌습니다."
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "67억원 대금은 있으나 현재 44.4% 이하로 밀려 5번째 슬롯 경쟁에서 탈락했습니다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "6/26 대형 언락 부담에 더해 현재 4.8% 위치로 구조 훼손이 큽니다."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "대금 15억원대는 버티지만 34% 위치로 구조가 약합니다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "상승은 유지해도 이번 회차 5번째 슬롯은 BIO·BERA 쪽이 더 공격적입니다."
+      "symbol": "TRX",
+      "market": "KRW-TRX",
+      "reason": "낙폭은 얕지만 공격성 부족으로 이번 회차 preferred에서는 제외합니다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "메이저-유사 회전은 나쁘지 않지만 이번 회차는 순수 알트 리더들이 더 강합니다."
+      "symbol": "ESP",
+      "market": "KRW-ESP",
+      "reason": "양전은 유지해도 20~40% 위치라 얇은 대금 이상 의미를 주기 어렵습니다."
     }
   ],
   "history": [
@@ -5210,6 +5210,96 @@
       "amount_delta": 2308.3258795725033,
       "cash_delta_krw": -939488.6329860088,
       "reason": "BERA는 +10.96%, 99.2억원 대금, 76.1% 위치로 JTO·ZBT보다 덜 깨진 후속 공격 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 742.0,
+      "amount_delta": -1119.7719105911904,
+      "cash_delta_krw": 830870.7576586632,
+      "reason": "메이저 평균 위치가 6.1%까지 붕괴하고 상위 15개 알트 중 양전이 MOVE·SAHARA 두 개뿐이라 기존 WLD·ONDO·NEAR·BIO·BERA 공격 바스켓을 전량 철수"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 533.0,
+      "amount_delta": -1683.6713852795856,
+      "cash_delta_krw": 897396.8483540191,
+      "reason": "ONDO도 동일 이유로 risk-cap rotation 실행"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3136.0,
+      "amount_delta": -288.452143993248,
+      "cash_delta_krw": 904585.9235628258,
+      "reason": "NEAR도 동일 이유로 risk-cap rotation 실행"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "BIO",
+      "action": "SELL",
+      "price_krw": 46.7,
+      "amount_delta": -18789.772659720176,
+      "cash_delta_krw": 877482.3832089322,
+      "reason": "BIO도 동일 이유로 risk-cap rotation 실행"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "BERA",
+      "action": "SELL",
+      "price_krw": 373.0,
+      "amount_delta": -2308.3258795725033,
+      "cash_delta_krw": 861005.5530805438,
+      "reason": "BERA도 동일 이유로 risk-cap rotation 실행"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "MOVE",
+      "action": "BUY",
+      "price_krw": 22.1,
+      "amount_delta": 23735.790764886875,
+      "cash_delta_krw": -524560.975904,
+      "reason": "붕괴장에서도 +7.8%·900억원대 대금·73% 위치를 유지한 유일한 초대금 생존 코어라 편입"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "SAHARA",
+      "action": "BUY",
+      "price_krw": 52.8,
+      "amount_delta": 9934.866967878788,
+      "cash_delta_krw": -524560.975904,
+      "reason": "언락 부담이 있어도 +2.1%·80% 위치를 지켜 MOVE 다음 상대강도 축으로 편입"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "CPOOL",
+      "action": "BUY",
+      "price_krw": 37.7,
+      "amount_delta": 13914.08424148541,
+      "cash_delta_krw": -524560.975904,
+      "reason": "34.9억원 대금은 작지만 94% 위치 fresh breakout 구조가 가장 깨끗해 공격 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "MOCA",
+      "action": "BUY",
+      "price_krw": 14.8,
+      "amount_delta": 35443.3091827027,
+      "cash_delta_krw": -524560.975904,
+      "reason": "29억원대 대금과 80% 위치를 유지해 소형 attention beta 슬롯으로 편입"
+    },
+    {
+      "timestamp": "2026-06-09T09:49:00+09:00",
+      "symbol": "UP2",
+      "action": "BUY",
+      "price_krw": 101.0,
+      "amount_delta": 5193.673028752475,
+      "cash_delta_krw": -524560.975904,
+      "reason": "breadth 붕괴 구간이라 5번째 슬롯은 대금보다 60% 위치 구조 보존을 우선해 소형 support 슬롯으로 편입"
     }
   ]
 }

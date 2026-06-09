@@ -61,6 +61,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When major average range-position falls below roughly 30 and 2개 이상 held preferred names break invalidation together, force those broken slots out next cycle and allow at most 1 sub-55 attention slot in the rebuilt basket.
 - When breadth recovers but a same-day leader is still more than roughly 10% below its intraday high after a vertical surge, classify it as an exhausted blowoff and prefer cleaner 75%+ continuation/reclaim names instead of late chasing the spike
 - When a former attention-trap leader reclaims roughly 85%+ of the day range with clear top-turnover leadership, allow re-entry even if headline overhang remains, but pair it with at least 2 cleaner non-attention slots so the basket does not overfit one narrative
+- When top15 non-major positives shrink to 2 or fewer and major average range-position drops below roughly 10, keep 5 preferred candidates but cap actual portfolio deployment around 60% until breadth recovers
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
