@@ -1,145 +1,148 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive diversified long with 90% deployment and faster rotation",
+  "judgment": "aggressive diversified long with 85% deployment and strict anti-breakdown rotation",
   "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-09 21:49 KST",
-  "market_status": "메이저 평균 위치가 **71.7% → 37.6%**로 다시 꺾였고, 업비트 상위 15개 비메이저 알트 중 양전은 **6개**입니다. **광범위 추격보다 reclaim/survivor 위주 재압축 장**입니다.",
+  "updated_at": "2026-06-10 03:49 KST",
+  "market_status": "메이저 평균 위치가 **37.6% → 34.7%**로 더 낮아졌지만, 업비트 상위 15개 비메이저 알트 중 양전은 **7개**라서 **광범위 추격보다 생존주+승격주 집중 장**입니다.",
   "fear_greed": "10 (Extreme Fear, Alternative.me)",
-  "btc_snapshot": "BTC 93.748M원대 / ETH 2.509M원대 / XRP 1,738원대 / SOL 99.05K원대",
-  "cash_krw": "391,483 KRW",
-  "realized_pnl_krw": "-6,214,215 KRW",
-  "last_valuation_krw": "3,914,835 KRW",
+  "btc_snapshot": "BTC 92.555M원대 / ETH 2.476M원대 / XRP 1,709원대 / SOL 97.85K원대",
+  "cash_krw": "586,413 KRW",
+  "realized_pnl_krw": "-6,219,632 KRW",
+  "last_valuation_krw": "3,909,417 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -60.85,
-  "last_action": "MAJOR_WEAKNESS_ROTATION_TO_WLD_JTO_NEAR_CHZ_CHIP",
-  "trade_count": 586,
-  "last_updated": "2026-06-09T21:49:00+09:00",
+  "return_pct": -60.91,
+  "last_action": "BTC_BREAKDOWN_ROTATION_TO_WLD_NEAR_CHZ_CHIP_SENT",
+  "trade_count": 596,
+  "last_updated": "2026-06-10T03:49:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 40,
+    "recent_trade_actions_24h": 10,
     "recent_24h_buy_count": 25,
     "recent_24h_sell_count": 25,
     "recent_24h_replacement_count": 25,
     "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "₿ BTC: **-1.04%**, 위치 **16.3%**",
-    "◆ ETH: **-1.06%**, 위치 **43.3%**",
-    "💧 XRP: **-0.91%**, 위치 **54.3%**",
-    "☀️ SOL: **-1.15%**, 위치 **36.4%**",
-    "해석: **메이저는 약해졌지만 알트 전체가 죽은 건 아니어서, 생존한 reclaim/survivor만 공격적으로 잡는 장**입니다.",
-    "현금 **10%**, **WLD·JTO·NEAR·CHZ·CHIP 각 18%**",
-    "구조는 **mega reclaim 1 + survivor 3 + high-beta breakout 1**",
-    "**SLX 같은 exhausted breakout은 정리**, **WLD reclaim과 CHZ·CHIP 잔존 강도** 쪽으로 자금 이동",
-    "**SELL** SLX / JTO / ZBT / NEAR / ONDO 전량 정리 후 새 가격으로 재편",
-    "**BUY** WLD / JTO / NEAR / CHZ / CHIP 편입",
-    "실질 변화: **오후 breakout 바스켓 → 야간 reclaim/survivor 압축 바스켓**",
-    "핵심 판단 변화: **상승률 숫자보다 고점 대비 gap과 상단 체류를 더 우선**",
-    "현금: **391,483원**",
-    "총 평가액: **3,914,835원**",
-    "실현손익: **-6,214,215원**",
-    "누적 수익률: **-60.85%**",
-    "WLD: **895.388개** @ 787원",
-    "JTO: **741.758개** @ 950원",
-    "NEAR: **217.827개** @ 3,235원",
-    "CHZ: **16817.906개** @ 41.9원",
-    "CHIP: **12788.934개** @ 55.1원",
-    "15:49 회차에 **SAHARA·MOVE 같은 trap을 버린 것** 자체는 맞았습니다.",
-    "하지만 **SLX를 야간까지 breakout core로 유지한 것**은 느렸습니다. **고점 대비 -15% 되밀림이면 더 빨리 제외**했어야 합니다.",
-    "이번엔 그 약점을 반영해 **major weakness + same-day breakout fade 강제 교체 규칙**을 추가했습니다.",
-    "**PROJECT.md**에 `메이저 평균 위치 40 미만 + same-day breakout이 고점 대비 -12% 이하 또는 55% 미만 range`면 **다음 사이클 강제 anti-fade rotation** 규칙을 추가했습니다.",
-    "**WLD 같은 mega reclaim**과 **CHIP 같은 fresh small-cap survivor**를 보고서에서 분리 표기해 판단이 더 빨리 읽히게 바꿨습니다.",
-    "**공포탐욕지수 10**을 외부 재확인해 심리 지표를 최신값으로 갱신했습니다.",
-    "aggressive diversified long with 90% deployment and faster rotation",
+    "₿ BTC: **-2.30%**, 위치 **26.1%**",
+    "◆ ETH: **-2.37%**, 위치 **38.8%**",
+    "💧 XRP: **-2.57%**, 위치 **31.5%**",
+    "☀️ SOL: **-2.35%**, 위치 **42.2%**",
+    "해석: **메이저는 더 약해졌고, 그래서 알트도 아무거나가 아니라 실제 상단 체류주만 잡아야 하는 장**입니다.",
+    "현금 **15%**, **WLD·NEAR·CHZ·CHIP·SENT 각 17%**",
+    "구조는 **survivor 4 + 신규 승격 1**",
+    "핵심 변화: **JTO 제거**, **SENT 승격**, **총투입 90% → 85% 축소**",
+    "**SELL** WLD / JTO / NEAR / CHZ / CHIP 전량 정리 후 새 가격으로 재편",
+    "**BUY** WLD / NEAR / CHZ / CHIP / SENT 재편입",
+    "실질 변화: **JTO → SENT**, **WLD는 mega reclaim에서 survivor로 역할 격하**",
+    "핵심 판단 변화: **유동성보다 붕괴 여부를 우선**",
+    "현금: **586,413원**",
+    "총 평가액: **3,909,417원**",
+    "실현손익: **-6,219,632원**",
+    "누적 수익률: **-60.91%**",
+    "WLD: **845.548개** @ 786원",
+    "NEAR: **205.695개** @ 3,231원",
+    "CHZ: **15455.836개** @ 43.0원",
+    "CHIP: **11762.849개** @ 56.5원",
+    "SENT: **25366.448개** @ 26.2원",
+    "**SAHARA·MOVE를 계속 배제한 것**, **CHZ·CHIP 유지**는 맞았습니다.",
+    "반면 **JTO를 survivor로 너무 오래 본 것**은 명확한 실수였습니다.",
+    "이번엔 **JTO 27.5% 위치 붕괴**를 근거로 바로 퇴출했고, 규칙도 같이 강화했습니다.",
+    "**PROJECT.md**에 `메이저 평균 위치 35 미만 + 보유 유동성 코어가 30% 미만 range 또는 음전환`이면 **다음 사이클 강제 교체 + 총투입 5~10% 축소** 규칙을 추가했습니다.",
+    "보고서에서 **승격(SENT)** / **격하(WLD)** 를 분리 표기해 바스켓 내부 변화가 더 빨리 읽히게 바꿨습니다.",
+    "**공포탐욕 10**을 다시 외부 확인해 최신 심리 값으로 고정했습니다.",
+    "aggressive diversified long with 85% deployment and strict anti-breakdown rotation",
     "medium",
-    "**BTC 93.50M / WLD 760 / JTO 920 / NEAR 3170 / CHZ 40.5 / CHIP 53.0** 하향 시 즉시 재평가",
-    "**ONDO**는 대금은 충분하지만 오늘 밤은 **flat survivor**라 감시만 유지",
-    "**SLX·MOVE·SAHARA**는 수익률 숫자가 높거나 튀어도 **broken/exhausted leader** 기준 유지",
-    "**WLD 대금 집중도**가 매우 높아 attention 역전 시 전체 바스켓 체감이 흔들릴 수 있습니다.",
-    "**CHIP·CHZ**는 구조는 좋지만 체급이 작아 장중 변동성이 더 큽니다.",
-    "**BTC 16.3% 위치**는 여전히 불안 신호라 메이저 추가 하락 시 알트도 급히 식을 수 있습니다.",
-    "**Arthur Hayes·TFH 오버행**은 WLD 변동성을 다시 키울 수 있습니다.",
-    "**공포탐욕 10**이라 장 전체 심리는 아직 회복 전입니다."
+    "**BTC 91.70M / WLD 760 / NEAR 3170 / CHZ 41.5 / CHIP 54.0 / SENT 24.8** 하향 시 즉시 재평가",
+    "**IO·SUI·BABY**는 교체 후보군으로 계속 감시",
+    "**SLX·MOVE·SAHARA**는 여전히 수익률보다 **trap/exhausted** 해석이 우선",
+    "**BTC 하단 이탈**이 이어지면 알트 survivor도 한 번에 꺾일 수 있습니다.",
+    "**WLD**는 초대금이지만 구조가 약해져 집중 비중 확대는 위험합니다.",
+    "**SENT·CHIP**은 가장 공격적인 두 슬롯이라 변동성이 큽니다.",
+    "**공포탐욕 10**이라 장 전체는 아직 회복 장이 아니라 스트레스 장입니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "SENT",
+      "action": "BUY",
+      "price_krw": 26.2,
+      "amount_delta": 25366.448319271538,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "26.2원, +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "CHIP",
       "action": "BUY",
-      "price_krw": 55.1,
-      "amount_delta": 12788.933886667424,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "CHIP은 +10.20%, 66.0억원 대금, 97.7% 위치로 이번 회차 가장 선명한 소형 고베타 생존 돌파입니다."
+      "price_krw": 56.5,
+      "amount_delta": 11762.848601148926,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "56.5원, +13.0%, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "CHZ",
       "action": "BUY",
-      "price_krw": 41.9,
-      "amount_delta": 16817.905898696303,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "CHZ는 +5.54%, 95.4억원 대금, 83.7% 위치로 저녁 시간대 리테일 순환 강도가 가장 깔끔합니다."
+      "price_krw": 43.0,
+      "amount_delta": 15455.835952672425,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "43.0원, +8.31%, 83.9% 위치로 이번 새벽 리테일 continuation이 가장 깔끔합니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 3235.0,
-      "amount_delta": 217.82697284555644,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "NEAR는 +1.25%, 306.9억원 대금, 75.6% 위치로 메이저 약세 속에서도 체급형 품질을 유지했습니다."
+      "price_krw": 3231.0,
+      "amount_delta": 205.69512409932352,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "메이저 약세 속에서도 74.4% 위치와 289.9억원 대금이 남아 있어 품질형 코어로 유지합니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "JTO",
-      "action": "BUY",
-      "price_krw": 950.0,
-      "amount_delta": 741.7581654267107,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "JTO는 +5.79%, 203.9억원 대금, 77.0% 위치로 오후 피로 뒤에도 상단 3/4를 지킨 유동성 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 787.0,
-      "amount_delta": 895.387874403272,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "WLD는 +5.35%, 2050.3억원 대금, 73.4% 위치로 Arthur Hayes 오버행을 소화하며 다시 보드 1위 reclaim에 성공했습니다."
+      "price_krw": 786.0,
+      "amount_delta": 845.5482773090513,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "보드 최상위 attention은 유지됐지만 mega reclaim은 약해져, 비중 확대 대신 survivor core로만 유지합니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "ONDO",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "CHIP",
       "action": "SELL",
-      "price_krw": 547.0,
-      "amount_delta": -1216.5677317968264,
-      "cash_delta_krw": 665462.549292864,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
+      "price_krw": 56.5,
+      "amount_delta": -12788.933886667424,
+      "cash_delta_krw": 722574.7645967095,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 43.0,
+      "amount_delta": -16817.905898696303,
+      "cash_delta_krw": 723169.953643941,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "SELL",
-      "price_krw": 3235.0,
-      "amount_delta": -207.26709504686673,
-      "cash_delta_krw": 670509.0524766139,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "ZBT",
-      "action": "SELL",
-      "price_krw": 202.0,
-      "amount_delta": -3275.831160740723,
-      "cash_delta_krw": 661717.894469626,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
+      "price_krw": 3231.0,
+      "amount_delta": -217.82697284555644,
+      "cash_delta_krw": 703798.9492639928,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-10-0349.md",
+      "title": "2026-06-10-0349"
+    },
     {
       "file": "2026-06-09-2149.md",
       "title": "2026-06-09-2149"
@@ -167,10 +170,6 @@
     {
       "file": "2026-06-08-0949.md",
       "title": "2026-06-08-0949"
-    },
-    {
-      "file": "2026-06-08-0349.md",
-      "title": "2026-06-08-0349"
     }
   ],
   "positions": [
@@ -178,29 +177,14 @@
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "amount": 895.387874403272,
-      "avg_buy_price_krw": "787 KRW",
-      "last_price_krw": "787 KRW",
-      "thesis": "WLD는 +5.35%, 2050.3억원 대금, 73.4% 위치로 Arthur Hayes 오버행을 소화하며 다시 보드 1위 reclaim에 성공했습니다.",
-      "strategy": "mega-reclaim-core",
-      "role": "mega reclaim core",
+      "amount": 845.5482773090513,
+      "avg_buy_price_krw": "786 KRW",
+      "last_price_krw": "786 KRW",
+      "thesis": "보드 최상위 attention은 유지됐지만 mega reclaim은 약해져, 비중 확대 대신 survivor core로만 유지합니다.",
+      "strategy": "attention-survivor-core",
+      "role": "attention survivor core",
       "risk_limit_pct": 7,
-      "profit_take_pct": 12,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "amount": 741.7581654267107,
-      "avg_buy_price_krw": "950 KRW",
-      "last_price_krw": "950 KRW",
-      "thesis": "JTO는 +5.79%, 203.9억원 대금, 77.0% 위치로 오후 피로 뒤에도 상단 3/4를 지킨 유동성 코어입니다.",
-      "strategy": "liquid-survivor-core",
-      "role": "liquid survivor core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 12,
+      "profit_take_pct": 10,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -208,10 +192,10 @@
       "icon": "🌉",
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "amount": 217.82697284555644,
-      "avg_buy_price_krw": "3,235 KRW",
-      "last_price_krw": "3,235 KRW",
-      "thesis": "NEAR는 +1.25%, 306.9억원 대금, 75.6% 위치로 메이저 약세 속에서도 체급형 품질을 유지했습니다.",
+      "amount": 205.69512409932352,
+      "avg_buy_price_krw": "3,231 KRW",
+      "last_price_krw": "3,231 KRW",
+      "thesis": "메이저 약세 속에서도 74.4% 위치와 289.9억원 대금이 남아 있어 품질형 코어로 유지합니다.",
       "strategy": "quality-large-cap-survivor",
       "role": "quality large-cap survivor",
       "risk_limit_pct": 6,
@@ -223,12 +207,12 @@
       "icon": "⚽",
       "symbol": "CHZ",
       "market": "KRW-CHZ",
-      "amount": 16817.905898696303,
-      "avg_buy_price_krw": "42 KRW",
-      "last_price_krw": "42 KRW",
-      "thesis": "CHZ는 +5.54%, 95.4억원 대금, 83.7% 위치로 저녁 시간대 리테일 순환 강도가 가장 깔끔합니다.",
-      "strategy": "retail-continuation-slot",
-      "role": "retail continuation slot",
+      "amount": 15455.835952672425,
+      "avg_buy_price_krw": "43 KRW",
+      "last_price_krw": "43 KRW",
+      "thesis": "43.0원, +8.31%, 83.9% 위치로 이번 새벽 리테일 continuation이 가장 깔끔합니다.",
+      "strategy": "retail-continuation-core",
+      "role": "retail continuation core",
       "risk_limit_pct": 7,
       "profit_take_pct": 13,
       "pnl_krw": "0 KRW",
@@ -238,90 +222,35 @@
       "icon": "🧩",
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "amount": 12788.933886667424,
-      "avg_buy_price_krw": "55 KRW",
-      "last_price_krw": "55 KRW",
-      "thesis": "CHIP은 +10.20%, 66.0억원 대금, 97.7% 위치로 이번 회차 가장 선명한 소형 고베타 생존 돌파입니다.",
-      "strategy": "high-beta-breakout-slot",
-      "role": "high-beta breakout slot",
+      "amount": 11762.848601148926,
+      "avg_buy_price_krw": "56 KRW",
+      "last_price_krw": "56 KRW",
+      "thesis": "56.5원, +13.0%, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다.",
+      "strategy": "high-beta-survivor",
+      "role": "high-beta survivor",
       "risk_limit_pct": 8,
       "profit_take_pct": 15,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "📡",
+      "symbol": "SENT",
+      "market": "KRW-SENT",
+      "amount": 25366.448319271538,
+      "avg_buy_price_krw": "26 KRW",
+      "last_price_krw": "26 KRW",
+      "thesis": "26.2원, +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다.",
+      "strategy": "attention-breakout-survivor",
+      "role": "attention breakout survivor",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 18,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "WLD": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 742.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-09T21:49:00+09:00",
-        "price_krw": 787.0,
-        "action": "BUY"
-      }
-    ],
-    "ONDO": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 533.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-09T15:49:00+09:00",
-        "price_krw": 552.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-09T21:49:00+09:00",
-        "price_krw": 547.0,
-        "action": "SELL"
-      }
-    ],
-    "NEAR": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 3136.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-09T15:49:00+09:00",
-        "price_krw": 3240.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-09T21:49:00+09:00",
-        "price_krw": 3235.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-09T21:49:00+09:00",
-        "price_krw": 3235.0,
-        "action": "BUY"
-      }
-    ],
-    "BIO": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 46.7,
-        "action": "SELL"
-      }
-    ],
-    "BERA": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 373.0,
-        "action": "SELL"
-      }
-    ],
     "MOVE": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 22.1,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-09T15:49:00+09:00",
         "price_krw": 22.1,
@@ -330,22 +259,12 @@
     ],
     "SAHARA": [
       {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 52.8,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-09T15:49:00+09:00",
         "price_krw": 24.2,
         "action": "SELL"
       }
     ],
     "CPOOL": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 37.7,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-09T15:49:00+09:00",
         "price_krw": 32.9,
@@ -354,22 +273,12 @@
     ],
     "MOCA": [
       {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 14.8,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-09T15:49:00+09:00",
         "price_krw": 13.7,
         "action": "SELL"
       }
     ],
     "UP2": [
-      {
-        "timestamp": "2026-06-09T09:49:00+09:00",
-        "price_krw": 101.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-09T15:49:00+09:00",
         "price_krw": 95.0,
@@ -403,6 +312,11 @@
         "timestamp": "2026-06-09T21:49:00+09:00",
         "price_krw": 950.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 896.0,
+        "action": "SELL"
       }
     ],
     "ZBT": [
@@ -417,10 +331,76 @@
         "action": "SELL"
       }
     ],
+    "NEAR": [
+      {
+        "timestamp": "2026-06-09T15:49:00+09:00",
+        "price_krw": 3240.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T21:49:00+09:00",
+        "price_krw": 3235.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-09T21:49:00+09:00",
+        "price_krw": 3235.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 3231.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 3231.0,
+        "action": "BUY"
+      }
+    ],
+    "ONDO": [
+      {
+        "timestamp": "2026-06-09T15:49:00+09:00",
+        "price_krw": 552.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-09T21:49:00+09:00",
+        "price_krw": 547.0,
+        "action": "SELL"
+      }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-06-09T21:49:00+09:00",
+        "price_krw": 787.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 786.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 786.0,
+        "action": "BUY"
+      }
+    ],
     "CHZ": [
       {
         "timestamp": "2026-06-09T21:49:00+09:00",
         "price_krw": 41.9,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 43.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 43.0,
         "action": "BUY"
       }
     ],
@@ -429,298 +409,311 @@
         "timestamp": "2026-06-09T21:49:00+09:00",
         "price_krw": 55.1,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 56.5,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 56.5,
+        "action": "BUY"
+      }
+    ],
+    "SENT": [
+      {
+        "timestamp": "2026-06-10T03:49:00+09:00",
+        "price_krw": 26.2,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-09-2149.md",
+  "latest_report_file": "2026-06-10-0349.md",
   "preferred_buy_candidates": [
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "price_krw": 787.0,
-      "change_pct_24h": 5.35475234,
-      "turnover_krw_24h": 205033500914.72708,
-      "reason": "WLD는 +5.35%, 2050.3억원 대금, 73.4% 위치로 Arthur Hayes 오버행을 소화하며 다시 보드 1위 reclaim에 성공했습니다.",
-      "score": 70.64,
-      "community": "거래대금 1위 reclaim이 확인돼 attention-trap이 아니라 real reclaim으로 재평가합니다.",
-      "risk": "760원 하회 시 mega reclaim 약화",
-      "allocation_krw": 704670.2571553751,
-      "role": "mega reclaim core",
-      "invalidated_if": "760원 하회 시 mega reclaim 약화",
-      "range_position_pct": 73.4,
-      "day_high_gap_pct": -3.08
-    },
-    {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "price_krw": 950.0,
-      "change_pct_24h": 5.79064588,
-      "turnover_krw_24h": 20388103050.87527,
-      "reason": "JTO는 +5.79%, 203.9억원 대금, 77.0% 위치로 오후 피로 뒤에도 상단 3/4를 지킨 유동성 코어입니다.",
-      "score": 41.71,
-      "community": "솔라나계 중 상단 잔존 구조가 가장 읽기 쉬운 유동성 코어입니다.",
-      "risk": "920원 하회 시 솔라나 survivor 구조 약화",
-      "allocation_krw": 704670.2571553751,
-      "role": "liquid survivor core",
-      "invalidated_if": "920원 하회 시 솔라나 survivor 구조 약화",
-      "range_position_pct": 77.0,
-      "day_high_gap_pct": -2.66
+      "price_krw": 786.0,
+      "change_pct_24h": 5.22088353,
+      "turnover_krw_24h": 203532517948.15845,
+      "reason": "WLD는 +5.22%, 2035.3억원 대금이지만 위치가 60.7%로 내려와 mega reclaim이 아니라 survivor core로 격하됐습니다.",
+      "score": 59.03,
+      "community": "Arthur Hayes 오버행이 남아도 업비트 대금 2위권을 유지해 attention이 완전히 꺾이지 않았습니다.",
+      "risk": "760원 하회 시 attention survivor 약화",
+      "allocation_krw": 664600.9459649143,
+      "role": "attention survivor core",
+      "invalidated_if": "760원 하회 시 attention survivor 약화",
+      "range_position_pct": 60.7,
+      "day_high_gap_pct": -5.3
     },
     {
       "icon": "🌉",
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "price_krw": 3235.0,
-      "change_pct_24h": 1.25195618,
-      "turnover_krw_24h": 30692495124.816326,
-      "reason": "NEAR는 +1.25%, 306.9억원 대금, 75.6% 위치로 메이저 약세 속에서도 체급형 품질을 유지했습니다.",
-      "score": 37.24,
-      "community": "대형 알트 중 가장 균형 좋은 품질 생존주입니다.",
-      "risk": "3170원 하회 시 large-cap survivor 약화",
-      "allocation_krw": 704670.2571553751,
+      "price_krw": 3231.0,
+      "change_pct_24h": 1.12676056,
+      "turnover_krw_24h": 28991751496.927128,
+      "reason": "NEAR는 +1.13%, 289.9억원 대금, 74.4% 위치로 메이저 급락 속 가장 균형 좋은 대형 알트 survivor입니다.",
+      "score": 35.67,
+      "community": "약한 메이저 속에서도 체급 대비 상단 체류가 유지돼 방어적이면서도 공격 슬롯 역할을 합니다.",
+      "risk": "3170원 하회 시 quality survivor 약화",
+      "allocation_krw": 664600.9459649143,
       "role": "quality large-cap survivor",
-      "invalidated_if": "3170원 하회 시 large-cap survivor 약화",
-      "range_position_pct": 75.6,
-      "day_high_gap_pct": -1.64
+      "invalidated_if": "3170원 하회 시 quality survivor 약화",
+      "range_position_pct": 74.4,
+      "day_high_gap_pct": -1.76
     },
     {
       "icon": "⚽",
       "symbol": "CHZ",
       "market": "KRW-CHZ",
-      "price_krw": 41.9,
-      "change_pct_24h": 5.54156171,
-      "turnover_krw_24h": 9544930300.327278,
-      "reason": "CHZ는 +5.54%, 95.4억원 대금, 83.7% 위치로 저녁 시간대 리테일 순환 강도가 가장 깔끔합니다.",
-      "score": 42.99,
-      "community": "소형보다 덜 흔들리면서도 리테일 추세가 남은 회전 슬롯입니다.",
-      "risk": "40.5원 하회 시 리테일 continuation 약화",
-      "allocation_krw": 704670.2571553751,
-      "role": "retail continuation slot",
-      "invalidated_if": "40.5원 하회 시 리테일 continuation 약화",
-      "range_position_pct": 83.7,
-      "day_high_gap_pct": -1.87
+      "price_krw": 43.0,
+      "change_pct_24h": 8.31234257,
+      "turnover_krw_24h": 14312728567.900291,
+      "reason": "CHZ는 +8.31%, 143.1억원 대금, 83.9% 위치로 새벽 리테일 continuation 강도가 가장 선명합니다.",
+      "score": 47.47,
+      "community": "새벽 리테일 자금이 스포츠·저가 베타로 다시 모이면서 continuation 품질이 좋아졌습니다.",
+      "risk": "41.5원 하회 시 continuation 약화",
+      "allocation_krw": 664600.9459649143,
+      "role": "retail continuation core",
+      "invalidated_if": "41.5원 하회 시 continuation 약화",
+      "range_position_pct": 83.9,
+      "day_high_gap_pct": -2.27
     },
     {
       "icon": "🧩",
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "price_krw": 55.1,
-      "change_pct_24h": 10.2,
-      "turnover_krw_24h": 6595323816.640377,
-      "reason": "CHIP은 +10.20%, 66.0억원 대금, 97.7% 위치로 이번 회차 가장 선명한 소형 고베타 생존 돌파입니다.",
-      "score": 57.1,
-      "community": "신규 고베타 슬롯 중 상단 체류가 가장 명확합니다.",
-      "risk": "53.0원 하회 시 breakout follow-through 약화",
-      "allocation_krw": 704670.2571553751,
-      "role": "high-beta breakout slot",
-      "invalidated_if": "53.0원 하회 시 breakout follow-through 약화",
-      "range_position_pct": 97.7,
-      "day_high_gap_pct": -0.36
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "대금은 충분하지만 60.6% 위치·0% 변화라 톱5보다 한 템포 느린 survivor로 관찰만 유지합니다."
-    },
-    {
-      "icon": "📬",
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "94.9% 위치는 좋지만 35.4억원 대금이라 대형 바스켓 핵심 대신 보조 교체 후보입니다."
+      "price_krw": 56.5,
+      "change_pct_24h": 13.0,
+      "turnover_krw_24h": 11273348890.490913,
+      "reason": "CHIP은 +13.0%, 112.7억원 대금, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다.",
+      "score": 53.98,
+      "community": "고베타 AI 슬롯 중 실제 체류 시간이 길고, 대금도 100억원대로 커져 단순 번쩍이가 아닙니다.",
+      "risk": "54.0원 하회 시 high-beta survivor 약화",
+      "allocation_krw": 664600.9459649143,
+      "role": "high-beta survivor",
+      "invalidated_if": "54.0원 하회 시 high-beta survivor 약화",
+      "range_position_pct": 85.2,
+      "day_high_gap_pct": -2.92
     },
     {
       "icon": "📡",
       "symbol": "SENT",
       "market": "KRW-SENT",
-      "reason": "94.7% 위치의 깔끔한 소형 돌파지만 29.1억원대로 유동성 체급이 아직 작습니다."
+      "price_krw": 26.2,
+      "change_pct_24h": 27.18446602,
+      "turnover_krw_24h": 9910176104.649527,
+      "reason": "SENT는 +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다.",
+      "score": 56.02,
+      "community": "커뮤니티 관심이 빠르게 붙었고, JTO 대신 새 attention 축으로 읽히는 속도가 가장 빨랐습니다.",
+      "risk": "24.8원 하회 시 breakout survivor 약화",
+      "allocation_krw": 664600.9459649143,
+      "role": "attention breakout survivor",
+      "invalidated_if": "24.8원 하회 시 breakout survivor 약화",
+      "range_position_pct": 79.5,
+      "day_high_gap_pct": -5.42
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🪙",
+      "symbol": "IO",
+      "market": "KRW-IO",
+      "reason": "8.56% 강세는 좋지만 고점 대비 -7.31%라 SENT·CHIP보다 한 단계 늦은 후보입니다."
+    },
+    {
+      "icon": "🌊",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "-0.71%여도 65.1% 위치와 104.1억원 대금이 남아 있어 메이저 대체 체급형 관찰 종목입니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "BABY",
+      "market": "KRW-BABY",
+      "reason": "음전이지만 85.7% 위치를 지켜 range 품질은 우수해 반등형 교체 후보입니다."
     },
     {
       "icon": "🧿",
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "구조는 남았지만 CHZ·CHIP 대비 대금과 상대강도가 한 단계 밀려 교체 후보로 후퇴했습니다."
+      "reason": "1.53%, 57.9% 위치로 구조는 남았지만 CHZ·SENT보다 공격성이 약합니다."
     },
     {
-      "icon": "🪙",
-      "symbol": "IO",
-      "market": "KRW-IO",
-      "reason": "+11.26% 강세지만 고점 대비 -5.0%로 CHIP보다 피로가 커 보조 감시만 유지합니다."
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "-1.48%에도 61.4% 위치라 중립 survivor 후보로 감시합니다."
     },
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "+12.7%여도 고점 대비 -15.1%, 50.4% 위치로 same-day exhausted blowoff 규칙에 걸렸습니다."
+      "icon": "🧬",
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "reason": "음전이지만 76.3% 위치를 지켜 급락장 방어 품질은 괜찮습니다."
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "대금 2위권이어도 -38.5%, 33.2% 위치라 여전히 turnover trap입니다."
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "34.5억원 대금은 충분하지만 48.6% 위치로 다시 mid-range 아래로 밀려 제외합니다."
     },
     {
-      "icon": "🪙",
-      "symbol": "MOVE",
-      "market": "KRW-MOVE",
-      "reason": "+9.27%여도 20.4% 위치·-27.7% gap로 broken leader 판정 유지입니다."
+      "icon": "📬",
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "2.68% 상승이지만 38.6% 위치·-8.08% gap라 상단 체류 실패로 보류합니다."
     }
   ],
   "cycle_improvements": [
-    "PROJECT.md에 메이저 평균 위치가 40 미만으로 다시 꺾였고 same-day breakout이 고점 대비 12% 이상 밀리거나 55% 미만 range로 내려오면 다음 사이클에 강제 교체하는 anti-fade 규칙을 추가했습니다.",
-    "이번 회차부터 보고서 후보 선정 문구를 fresh breakout과 mega reclaim을 명확히 분리해, WLD 같은 attention reclaim을 더 읽기 쉽게 표기했습니다.",
-    "공포탐욕지수를 다시 외부 확인해 심리 지표를 오전값 추정이 아니라 현재값 기준으로 고정했습니다."
+    "PROJECT.md에 메이저 평균 위치가 35 미만이고 보유 유동성 코어가 30% 미만 range 또는 음전환으로 꺾이면 다음 사이클에 강제 교체하고 총 투입 비중을 5~10% 줄이는 규칙을 추가했습니다.",
+    "보고서에서 승격 종목(SENT)과 격하 종목(WLD)을 분리 표기해 바스켓 내부 변화가 한 줄로 읽히게 정리했습니다.",
+    "공포탐욕지수를 다시 외부 확인해 10(Extreme Fear) 최신값으로 고정했습니다."
   ],
   "rejected_candidates": [
     {
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "-0.22%로 음전환했고 27.5% 위치·-8.85% gap라 liquid survivor 가정이 무너졌습니다."
+    },
+    {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "+12.7% 수익률은 높지만 고점 대비 -15.1%, 50.4% 위치면 야간에는 exhausted blowoff로 봐야 합니다."
+      "reason": "+14.38%여도 고점 대비 -13.85%, 54.5% 위치라 exhausted blowoff 판정 유지입니다."
     },
     {
       "symbol": "MOVE",
       "market": "KRW-MOVE",
-      "reason": "거래대금 1000억원대라도 20.4% 위치·-27.7% gap는 trap 구조입니다."
+      "reason": "1004.1억원 대금에도 10.2% 위치·-31.29% gap라 전형적 turnover trap입니다."
     },
     {
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "reason": "-38.5%와 33.2% 위치는 아직도 turnover trap 구간입니다."
+      "reason": "업비트 대금 1위지만 -42.75%, 26.6% 위치라 broken leader 해석이 명확합니다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "대금은 충분하지만 flat·60.6% 위치라 CHZ·CHIP보다 공격성이 약합니다."
-    },
-    {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "구조는 건강하지만 CHZ와 CHIP이 더 강한 야간 주도력을 보여 6위권으로 밀렸습니다."
+      "reason": "대금은 좋지만 48.6% 위치로 survivor 기준 아래로 재하락했습니다."
     },
     {
       "symbol": "OPEN",
       "market": "KRW-OPEN",
-      "reason": "94.9% 위치는 탁월하지만 35.4억원대 유동성이라 핵심 5종보다 보조 후보가 맞습니다."
+      "reason": "상승률은 남았어도 38.6% 위치·-8.08% gap로 상단 유지 실패입니다."
     }
   ],
-  "top_line": "**메이저가 다시 약해졌고 오후 돌파주는 피로가 왔습니다.** 지금은 **WLD·JTO·NEAR·CHZ·CHIP 5분산으로 90% 재배치**가 맞습니다.",
-  "ui_version": "v11.1",
+  "top_line": "**BTC가 92.56M원대로 더 밀렸고 JTO는 무너졌습니다.** 이번 회차는 **WLD·NEAR·CHZ·CHIP·SENT 5종으로 85% 재배치**가 맞습니다.",
+  "ui_version": "v11.2",
   "risk_plan": {
-    "portfolio_cash_target": "기본 10% 유지. BTC 93.5M 하회 지속 또는 WLD reclaim 실패 시 20~30% 현금 복원.",
-    "review_trigger": "BTC 93.50M원 하회 지속, WLD 760원 하회, JTO 920원 하회, NEAR 3170원 하회, CHZ 40.5원 하회, CHIP 53.0원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 15% 유지. BTC 91.7M원 하회 지속 시 20~25% 현금으로 추가 복원.",
+    "review_trigger": "BTC 91.70M원 하회 지속, WLD 760원 하회, NEAR 3170원 하회, CHZ 41.5원 하회, CHIP 54.0원 하회, SENT 24.8원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "top15 비메이저 양전 종목이 2개 이하이고 메이저 평균 위치가 10 미만이면 실투입 비중을 60% 이하로 제한한다",
       "former trap 리더는 60%+ range reclaim 전까지 재편입 금지",
-      "메이저 평균 위치가 60 이상으로 반등했고 held 2종 이상이 20% 미만 range 또는 -15% 이상 day_high_gap이면 다음 사이클에 강제 anti-trap rotation",
-      "메이저 평균 위치가 40 미만이고 same-day breakout 보유종이 고점 대비 -12% 이하 또는 55% 미만 range로 후퇴하면 다음 사이클에 강제 anti-fade rotation"
+      "메이저 평균 위치가 40 미만이고 same-day breakout 보유종이 고점 대비 -12% 이하 또는 55% 미만 range로 후퇴하면 다음 사이클에 강제 anti-fade rotation",
+      "메이저 평균 위치가 35 미만이고 보유 유동성 코어가 30% 미만 range 또는 음전환으로 꺾이면 다음 사이클에 강제 교체하고 총 투입 비중을 5~10% 축소한다"
     ],
     "exit_rules": [
-      "BTC 93.50M원 하회 지속, WLD 760원 하회, JTO 920원 하회, NEAR 3170원 하회, CHZ 40.5원 하회, CHIP 53.0원 하회 시 즉시 재평가",
+      "BTC 91.70M원 하회 지속, WLD 760원 하회, NEAR 3170원 하회, CHZ 41.5원 하회, CHIP 54.0원 하회, SENT 24.8원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "top15 비메이저 양전 종목이 2개 이하이고 메이저 평균 위치가 10 미만이면 실투입 비중을 60% 이하로 제한한다",
       "former trap 리더는 60%+ range reclaim 전까지 재편입 금지",
-      "메이저 평균 위치가 60 이상으로 반등했고 held 2종 이상이 20% 미만 range 또는 -15% 이상 day_high_gap이면 다음 사이클에 강제 anti-trap rotation",
-      "메이저 평균 위치가 40 미만이고 same-day breakout 보유종이 고점 대비 -12% 이하 또는 55% 미만 range로 후퇴하면 다음 사이클에 강제 anti-fade rotation"
+      "메이저 평균 위치가 40 미만이고 same-day breakout 보유종이 고점 대비 -12% 이하 또는 55% 미만 range로 후퇴하면 다음 사이클에 강제 anti-fade rotation",
+      "메이저 평균 위치가 35 미만이고 보유 유동성 코어가 30% 미만 range 또는 음전환으로 꺾이면 다음 사이클에 강제 교체하고 총 투입 비중을 5~10% 축소한다"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2554.4억원이며 최대 비중은 WLD 약 80.3%입니다.",
-    "momentum_discipline": "WLD는 mega reclaim, JTO·NEAR·CHZ는 survivor/continuation, CHIP은 high-beta upper-range breakout으로 분리했습니다.",
-    "diversification": "mega reclaim 1 + liquid survivor 1 + quality large-cap 1 + retail continuation 1 + high-beta breakout 1",
-    "cash_usage": "90%",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 3390.3억원이며 WLD 비중은 약 60.0%입니다.",
+    "momentum_discipline": "WLD는 survivor, NEAR는 quality, CHZ는 continuation, CHIP은 high-beta survivor, SENT는 신규 attention breakout으로 분리했습니다.",
+    "diversification": "attention survivor 1 + quality survivor 1 + continuation 1 + high-beta survivor 1 + new attention breakout 1",
+    "cash_usage": "85%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "오후의 광범위 breakout 장은 식었고, 지금은 WLD 1강 reclaim과 몇 개 survivor만 남았습니다. 그래서 바스켓을 더 좁고 선명하게 다시 구성했습니다."
+    "summary": "메이저는 더 약해졌지만 알트 생존주는 오히려 더 선명해졌습니다. 그래서 광범위 추격이 아니라 JTO를 버리고 SENT를 넣는 좁은 교체가 최적이었습니다."
   },
   "rotation_map": [
     {
-      "bucket": "SLX → WLD",
+      "bucket": "JTO → SENT",
       "symbols": [
-        "SLX",
-        "WLD"
+        "JTO",
+        "SENT"
       ],
-      "note": "same-day exhausted breakout을 mega reclaim 보드 1위로 교체"
+      "note": "liquid survivor 붕괴를 새 attention breakout survivor로 교체"
     },
     {
-      "bucket": "ZBT → CHZ",
+      "bucket": "90% deploy → 85% deploy",
       "symbols": [
-        "ZBT",
-        "CHZ"
+        "90% deploy",
+        "85% deploy"
       ],
-      "note": "소형 continuation을 더 큰 리테일 상대강도 축으로 상향"
+      "note": "BTC 하단 이탈과 메이저 평균 35 미만을 반영한 소폭 방어 강화"
     },
     {
-      "bucket": "ONDO → CHIP",
+      "bucket": "WLD mega reclaim → WLD survivor core",
       "symbols": [
-        "ONDO",
-        "CHIP"
+        "WLD mega reclaim",
+        "WLD survivor core"
       ],
-      "note": "flat survivor를 더 공격적인 상단 잔존 breakout으로 교체"
+      "note": "대금은 유지되지만 range가 60.7%로 낮아져 역할을 격하"
     }
   ],
   "self_evaluation": {
-    "score": 8.2,
-    "summary": "15:49 회차에 SAHARA·MOVE를 버리고 breadth 회복 쪽으로 갈아탄 판단 자체는 맞았습니다. 다만 SLX 같은 same-day leader가 야간에 고점 대비 크게 꺾일 때도 계속 breakout으로 취급한 점은 느렸고, 이번 회차는 그 부분을 anti-fade 규칙으로 보완했습니다."
+    "score": 8.0,
+    "summary": "직전 회차에 SAHARA·MOVE를 다시 잡지 않은 점은 맞았고 CHZ·CHIP 유지도 좋았습니다. 하지만 JTO가 30% 아래로 무너지는 동안 survivor로 남겨둔 것은 느렸습니다. 이번엔 그 오류를 규칙과 포트폴리오 둘 다에 반영해 즉시 교체했습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 5.63,
+    "preferred_avg_change_pct_24h": 10.97,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 272254353207.38632,
-    "leader_turnover_share_pct": 75.31,
+    "preferred_turnover_total_krw_24h": 268020523008.1263,
+    "leader_turnover_share_pct": 75.94,
     "leader_symbol": "WLD",
     "leader_concentration_warning": "high"
   },
-  "snapshot_updated_at_utc": "2026-06-09T12:49:42.457437+00:00",
+  "snapshot_updated_at_utc": "2026-06-09T18:49:39.205315+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": -1,
-    "top15_alt_low_range_count_delta": 2,
+    "top15_alt_positive_count_delta": 1,
+    "top15_alt_low_range_count_delta": 0,
     "weak_breadth_warning_changed": false,
-    "entered_top5_turnover": [
-      "SLX"
-    ],
-    "exited_top5_turnover": [
-      "NEAR"
-    ]
+    "entered_top5_turnover": [],
+    "exited_top5_turnover": []
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -34.13,
-    "major_positive_count_delta": -1,
-    "major_negative_count_delta": 1
+    "major_avg_range_position_pct_delta": -2.92,
+    "major_positive_count_delta": 0,
+    "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
     "fresh_breakout_count": 0,
-    "high_conviction_count": 7,
-    "quality_survivor_count": 7,
-    "relative_strength_reclaim_count": 10,
-    "breakout_cluster_active": true,
-    "summary": "fresh 0 / conviction 7 / survivor 7 / reclaim 10"
+    "high_conviction_count": 4,
+    "quality_survivor_count": 5,
+    "relative_strength_reclaim_count": 7,
+    "breakout_cluster_active": false,
+    "summary": "fresh 0 / conviction 4 / survivor 5 / reclaim 7"
   },
   "scenario_view": {
-    "regime": "mixed_selective_rotation",
-    "regime_label_ko": "혼조·빠른 순환 대응",
-    "regime_icon": "🟡",
-    "btc_range_position_pct": 16.3,
-    "major_avg_range_position_pct": 37.57,
-    "preferred_avg_change_pct_24h": 5.63,
+    "regime": "majors_breakdown_selective_defense",
+    "regime_label_ko": "메이저 붕괴·선별 방어",
+    "regime_icon": "🟠",
+    "btc_range_position_pct": 26.1,
+    "major_avg_range_position_pct": 34.65,
+    "preferred_avg_change_pct_24h": 10.97,
     "preferred_high_range_count": 2,
-    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
+    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 81.48,
-    "avg_day_high_gap_pct": -1.92,
+    "avg_range_position_pct": 76.74,
+    "avg_day_high_gap_pct": -3.53,
     "above_80_range_count": 2,
-    "summary": "고위치(80%+) 후보 2개 / 평균 위치 81.48%"
+    "summary": "고위치(80%+) 후보 2개 / 평균 위치 76.74%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -733,47 +726,47 @@
     {
       "icon": "🌍",
       "symbol": "WLD",
-      "last_price_krw": 787.0,
+      "last_price_krw": 786.0,
       "threshold_krw": 760.0,
-      "distance_to_invalidation_pct": 3.55,
-      "status": "near"
-    },
-    {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "last_price_krw": 950.0,
-      "threshold_krw": 920.0,
-      "distance_to_invalidation_pct": 3.26,
+      "distance_to_invalidation_pct": 3.42,
       "status": "near"
     },
     {
       "icon": "🌉",
       "symbol": "NEAR",
-      "last_price_krw": 3235.0,
+      "last_price_krw": 3231.0,
       "threshold_krw": 3170.0,
-      "distance_to_invalidation_pct": 2.05,
+      "distance_to_invalidation_pct": 1.92,
       "status": "near"
     },
     {
       "icon": "⚽",
       "symbol": "CHZ",
-      "last_price_krw": 41.9,
-      "threshold_krw": 40.5,
-      "distance_to_invalidation_pct": 3.46,
+      "last_price_krw": 43.0,
+      "threshold_krw": 41.5,
+      "distance_to_invalidation_pct": 3.61,
       "status": "near"
     },
     {
       "icon": "🧩",
       "symbol": "CHIP",
-      "last_price_krw": 55.1,
-      "threshold_krw": 53.0,
-      "distance_to_invalidation_pct": 3.96,
+      "last_price_krw": 56.5,
+      "threshold_krw": 54.0,
+      "distance_to_invalidation_pct": 4.63,
       "status": "near"
+    },
+    {
+      "icon": "📡",
+      "symbol": "SENT",
+      "last_price_krw": 26.2,
+      "threshold_krw": 24.8,
+      "distance_to_invalidation_pct": 5.65,
+      "status": "healthy"
     }
   ],
   "preferred_health_summary": {
-    "healthy_count": 0,
-    "near_count": 5,
+    "healthy_count": 1,
+    "near_count": 4,
     "broken_count": 0,
     "unknown_count": 0
   },
@@ -784,165 +777,164 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "SENT",
+      "action": "BUY",
+      "price_krw": 26.2,
+      "amount_delta": 25366.448319271538,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "26.2원, +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "CHIP",
       "action": "BUY",
-      "price_krw": 55.1,
-      "amount_delta": 12788.933886667424,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "CHIP은 +10.20%, 66.0억원 대금, 97.7% 위치로 이번 회차 가장 선명한 소형 고베타 생존 돌파입니다."
+      "price_krw": 56.5,
+      "amount_delta": 11762.848601148926,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "56.5원, +13.0%, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "CHZ",
       "action": "BUY",
-      "price_krw": 41.9,
-      "amount_delta": 16817.905898696303,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "CHZ는 +5.54%, 95.4억원 대금, 83.7% 위치로 저녁 시간대 리테일 순환 강도가 가장 깔끔합니다."
+      "price_krw": 43.0,
+      "amount_delta": 15455.835952672425,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "43.0원, +8.31%, 83.9% 위치로 이번 새벽 리테일 continuation이 가장 깔끔합니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 3235.0,
-      "amount_delta": 217.82697284555644,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "NEAR는 +1.25%, 306.9억원 대금, 75.6% 위치로 메이저 약세 속에서도 체급형 품질을 유지했습니다."
+      "price_krw": 3231.0,
+      "amount_delta": 205.69512409932352,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "메이저 약세 속에서도 74.4% 위치와 289.9억원 대금이 남아 있어 품질형 코어로 유지합니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "JTO",
-      "action": "BUY",
-      "price_krw": 950.0,
-      "amount_delta": 741.7581654267107,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "JTO는 +5.79%, 203.9억원 대금, 77.0% 위치로 오후 피로 뒤에도 상단 3/4를 지킨 유동성 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 787.0,
-      "amount_delta": 895.387874403272,
-      "cash_delta_krw": -704670.2571553751,
-      "reason": "WLD는 +5.35%, 2050.3억원 대금, 73.4% 위치로 Arthur Hayes 오버행을 소화하며 다시 보드 1위 reclaim에 성공했습니다."
+      "price_krw": 786.0,
+      "amount_delta": 845.5482773090513,
+      "cash_delta_krw": -664600.9459649143,
+      "reason": "보드 최상위 attention은 유지됐지만 mega reclaim은 약해져, 비중 확대 대신 survivor core로만 유지합니다."
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "ONDO",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "CHIP",
       "action": "SELL",
-      "price_krw": 547.0,
-      "amount_delta": -1216.5677317968264,
-      "cash_delta_krw": 665462.549292864,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
+      "price_krw": 56.5,
+      "amount_delta": -12788.933886667424,
+      "cash_delta_krw": 722574.7645967095,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 43.0,
+      "amount_delta": -16817.905898696303,
+      "cash_delta_krw": 723169.953643941,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "NEAR",
       "action": "SELL",
-      "price_krw": 3235.0,
-      "amount_delta": -207.26709504686673,
-      "cash_delta_krw": 670509.0524766139,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
+      "price_krw": 3231.0,
+      "amount_delta": -217.82697284555644,
+      "cash_delta_krw": 703798.9492639928,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "ZBT",
-      "action": "SELL",
-      "price_krw": 202.0,
-      "amount_delta": -3275.831160740723,
-      "cash_delta_krw": 661717.894469626,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-09T21:49:00+09:00",
+      "timestamp": "2026-06-10T03:49:00+09:00",
       "symbol": "JTO",
       "action": "SELL",
-      "price_krw": 950.0,
-      "amount_delta": -691.601841351028,
-      "cash_delta_krw": 657021.7492834766,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
+      "price_krw": 896.0,
+      "amount_delta": -741.7581654267107,
+      "cash_delta_krw": 664615.3162223328,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-09T21:49:00+09:00",
-      "symbol": "SLX",
+      "timestamp": "2026-06-10T03:49:00+09:00",
+      "symbol": "WLD",
       "action": "SELL",
-      "price_krw": 337.0,
-      "amount_delta": -1980.959846465629,
-      "cash_delta_krw": 667583.468258917,
-      "reason": "메이저 약화 재개와 야간 리더 교체에 맞춰 21:49 기준 새 바스켓으로 전량 재편"
+      "price_krw": 786.0,
+      "amount_delta": -895.387874403272,
+      "cash_delta_krw": 703774.8692809718,
+      "reason": "메이저 약세 지속과 JTO 붕괴를 반영해 03:49 KST 기준 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🌍 **WLD** — 787원, **+5.35%**, 24h 대금 약 **2,050.3억원**, 위치 **73.4%**",
-      "   → **mega reclaim core**",
-      "2. 🪂 **JTO** — 950원, **+5.79%**, 24h 대금 약 **203.9억원**, 위치 **77.0%**",
-      "   → **liquid survivor core**",
-      "3. 🌉 **NEAR** — 3,235원, **+1.25%**, 24h 대금 약 **306.9억원**, 위치 **75.6%**",
+      "1. 🌍 **WLD** — 786원, **+5.22%**, 24h 대금 약 **2,035.3억원**, 위치 **60.7%**",
+      "   → **attention survivor core**",
+      "2. 🌉 **NEAR** — 3,231원, **+1.13%**, 24h 대금 약 **289.9억원**, 위치 **74.4%**",
       "   → **quality large-cap survivor**",
-      "4. ⚽ **CHZ** — 41.9원, **+5.54%**, 24h 대금 약 **95.4억원**, 위치 **83.7%**",
-      "   → **retail continuation slot**",
-      "5. 🧩 **CHIP** — 55.1원, **+10.20%**, 24h 대금 약 **66.0억원**, 위치 **97.7%**",
-      "   → **high-beta breakout slot**"
+      "3. ⚽ **CHZ** — 43.0원, **+8.31%**, 24h 대금 약 **143.1억원**, 위치 **83.9%**",
+      "   → **retail continuation core**",
+      "4. 🧩 **CHIP** — 56.5원, **+13.0%**, 24h 대금 약 **112.7억원**, 위치 **85.2%**",
+      "   → **high-beta survivor**",
+      "5. 📡 **SENT** — 26.2원, **+27.18%**, 24h 대금 약 **99.1억원**, 위치 **79.5%**",
+      "   → **attention breakout survivor**"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: **-1.04%**, 위치 **16.3%**",
-      "- ◆ ETH: **-1.06%**, 위치 **43.3%**",
-      "- 💧 XRP: **-0.91%**, 위치 **54.3%**",
-      "- ☀️ SOL: **-1.15%**, 위치 **36.4%**",
-      "- 해석: **메이저는 약해졌지만 알트 전체가 죽은 건 아니어서, 생존한 reclaim/survivor만 공격적으로 잡는 장**입니다."
+      "- ₿ BTC: **-2.30%**, 위치 **26.1%**",
+      "- ◆ ETH: **-2.37%**, 위치 **38.8%**",
+      "- 💧 XRP: **-2.57%**, 위치 **31.5%**",
+      "- ☀️ SOL: **-2.35%**, 위치 **42.2%**",
+      "- 해석: **메이저는 더 약해졌고, 그래서 알트도 아무거나가 아니라 실제 상단 체류주만 잡아야 하는 장**입니다."
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 **10%**, **WLD·JTO·NEAR·CHZ·CHIP 각 18%**",
-      "- 구조는 **mega reclaim 1 + survivor 3 + high-beta breakout 1**",
-      "- **SLX 같은 exhausted breakout은 정리**, **WLD reclaim과 CHZ·CHIP 잔존 강도** 쪽으로 자금 이동"
+      "- 현금 **15%**, **WLD·NEAR·CHZ·CHIP·SENT 각 17%**",
+      "- 구조는 **survivor 4 + 신규 승격 1**",
+      "- 핵심 변화: **JTO 제거**, **SENT 승격**, **총투입 90% → 85% 축소**"
     ],
     "✅ 가상 매매 실행 내용": [
-      "- **SELL** SLX / JTO / ZBT / NEAR / ONDO 전량 정리 후 새 가격으로 재편",
-      "- **BUY** WLD / JTO / NEAR / CHZ / CHIP 편입",
-      "- 실질 변화: **오후 breakout 바스켓 → 야간 reclaim/survivor 압축 바스켓**",
-      "- 핵심 판단 변화: **상승률 숫자보다 고점 대비 gap과 상단 체류를 더 우선**"
+      "- **SELL** WLD / JTO / NEAR / CHZ / CHIP 전량 정리 후 새 가격으로 재편",
+      "- **BUY** WLD / NEAR / CHZ / CHIP / SENT 재편입",
+      "- 실질 변화: **JTO → SENT**, **WLD는 mega reclaim에서 survivor로 역할 격하**",
+      "- 핵심 판단 변화: **유동성보다 붕괴 여부를 우선**"
     ],
     "📦 현재 포트폴리오 현황": [
-      "- 현금: **391,483원**",
-      "- 총 평가액: **3,914,835원**",
-      "- 실현손익: **-6,214,215원**",
-      "- 누적 수익률: **-60.85%**",
-      "- WLD: **895.388개** @ 787원",
-      "- JTO: **741.758개** @ 950원",
-      "- NEAR: **217.827개** @ 3,235원",
-      "- CHZ: **16817.906개** @ 41.9원",
-      "- CHIP: **12788.934개** @ 55.1원"
+      "- 현금: **586,413원**",
+      "- 총 평가액: **3,909,417원**",
+      "- 실현손익: **-6,219,632원**",
+      "- 누적 수익률: **-60.91%**",
+      "- WLD: **845.548개** @ 786원",
+      "- NEAR: **205.695개** @ 3,231원",
+      "- CHZ: **15455.836개** @ 43.0원",
+      "- CHIP: **11762.849개** @ 56.5원",
+      "- SENT: **25366.448개** @ 26.2원"
     ],
     "🧠 자기 평가": [
-      "- 15:49 회차에 **SAHARA·MOVE 같은 trap을 버린 것** 자체는 맞았습니다.",
-      "- 하지만 **SLX를 야간까지 breakout core로 유지한 것**은 느렸습니다. **고점 대비 -15% 되밀림이면 더 빨리 제외**했어야 합니다.",
-      "- 이번엔 그 약점을 반영해 **major weakness + same-day breakout fade 강제 교체 규칙**을 추가했습니다."
+      "- **SAHARA·MOVE를 계속 배제한 것**, **CHZ·CHIP 유지**는 맞았습니다.",
+      "- 반면 **JTO를 survivor로 너무 오래 본 것**은 명확한 실수였습니다.",
+      "- 이번엔 **JTO 27.5% 위치 붕괴**를 근거로 바로 퇴출했고, 규칙도 같이 강화했습니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- **PROJECT.md**에 `메이저 평균 위치 40 미만 + same-day breakout이 고점 대비 -12% 이하 또는 55% 미만 range`면 **다음 사이클 강제 anti-fade rotation** 규칙을 추가했습니다.",
-      "- **WLD 같은 mega reclaim**과 **CHIP 같은 fresh small-cap survivor**를 보고서에서 분리 표기해 판단이 더 빨리 읽히게 바꿨습니다.",
-      "- **공포탐욕지수 10**을 외부 재확인해 심리 지표를 최신값으로 갱신했습니다."
+      "- **PROJECT.md**에 `메이저 평균 위치 35 미만 + 보유 유동성 코어가 30% 미만 range 또는 음전환`이면 **다음 사이클 강제 교체 + 총투입 5~10% 축소** 규칙을 추가했습니다.",
+      "- 보고서에서 **승격(SENT)** / **격하(WLD)** 를 분리 표기해 바스켓 내부 변화가 더 빨리 읽히게 바꿨습니다.",
+      "- **공포탐욕 10**을 다시 외부 확인해 최신 심리 값으로 고정했습니다."
     ],
     "🧾 판단": [
-      "- aggressive diversified long with 90% deployment and faster rotation"
+      "- aggressive diversified long with 85% deployment and strict anti-breakdown rotation"
     ],
     "🎯 신뢰도": [
       "- medium"
     ],
     "👉 추천 행동": [
-      "- **BTC 93.50M / WLD 760 / JTO 920 / NEAR 3170 / CHZ 40.5 / CHIP 53.0** 하향 시 즉시 재평가",
-      "- **ONDO**는 대금은 충분하지만 오늘 밤은 **flat survivor**라 감시만 유지",
-      "- **SLX·MOVE·SAHARA**는 수익률 숫자가 높거나 튀어도 **broken/exhausted leader** 기준 유지"
+      "- **BTC 91.70M / WLD 760 / NEAR 3170 / CHZ 41.5 / CHIP 54.0 / SENT 24.8** 하향 시 즉시 재평가",
+      "- **IO·SUI·BABY**는 교체 후보군으로 계속 감시",
+      "- **SLX·MOVE·SAHARA**는 여전히 수익률보다 **trap/exhausted** 해석이 우선"
     ],
     "⚠️ 리스크 메모": [
-      "- **WLD 대금 집중도**가 매우 높아 attention 역전 시 전체 바스켓 체감이 흔들릴 수 있습니다.",
-      "- **CHIP·CHZ**는 구조는 좋지만 체급이 작아 장중 변동성이 더 큽니다.",
-      "- **BTC 16.3% 위치**는 여전히 불안 신호라 메이저 추가 하락 시 알트도 급히 식을 수 있습니다.",
-      "- **Arthur Hayes·TFH 오버행**은 WLD 변동성을 다시 키울 수 있습니다.",
-      "- **공포탐욕 10**이라 장 전체 심리는 아직 회복 전입니다."
+      "- **BTC 하단 이탈**이 이어지면 알트 survivor도 한 번에 꺾일 수 있습니다.",
+      "- **WLD**는 초대금이지만 구조가 약해져 집중 비중 확대는 위험합니다.",
+      "- **SENT·CHIP**은 가장 공격적인 두 슬롯이라 변동성이 큽니다.",
+      "- **공포탐욕 10**이라 장 전체는 아직 회복 장이 아니라 스트레스 장입니다."
     ]
   }
 }
