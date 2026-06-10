@@ -64,6 +64,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When major average range-position falls below roughly 40 and a held same-day breakout is more than 12% below its intraday high or slips under roughly 55% of the day range, force that slot out next cycle instead of defending the earlier breakout headline alone
 - When major average range-position falls below roughly 35 and a held liquid survivor slips under roughly 30% of the day range or turns negative, force that slot out next cycle and trim overall deployment by roughly 5-10% instead of defending it for past liquidity alone
 - When top15 non-major positives shrink to 2 or fewer and major average range-position drops below roughly 10, keep 5 preferred candidates but cap actual portfolio deployment around 60% until breadth recovers
+- When top15 non-major positives shrink to 3 or fewer and 3개 이상 held preferred names simultaneously turn negative or break invalidation, force the next cycle portfolio into all-positive candidates where possible and trim actual deployment toward roughly 70-75% instead of defending the broken basket
 - When major average range-position rebounds above roughly 60 while 2개 이상 held preferred names are still below roughly 20% of the day range or more than 15% below the intraday high, force a full anti-trap rotation into cleaner 75%+ continuation/breakout names on the next cycle instead of defending the broken basket
 
 ## Dashboard direction

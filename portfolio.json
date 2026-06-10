@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 586412.5993808066,
-  "realized_pnl_krw": -6219632.473966691,
-  "last_valuation_krw": 3909417.329205378,
-  "last_action": "BTC_BREAKDOWN_ROTATION_TO_WLD_NEAR_CHZ_CHIP_SENT",
-  "last_updated": "2026-06-10T03:49:00+09:00",
-  "trade_count": 596,
+  "cash_krw": 954368.3174729585,
+  "realized_pnl_krw": -6311576.533280232,
+  "last_valuation_krw": 3817473.2698918367,
+  "last_action": "WEAK_BREADTH_FORCE_ROTATION_TO_JTO_SENT_CPOOL_B3_IRYS",
+  "last_updated": "2026-06-10T09:51:14+09:00",
+  "trade_count": 606,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 845.5482773090513,
-      "avg_buy_price_krw": 786.0,
-      "last_price_krw": 786.0,
-      "value_krw": 664600.9459649143,
-      "thesis": "보드 최상위 attention은 유지됐지만 mega reclaim은 약해져, 비중 확대 대신 survivor core로만 유지합니다.",
-      "strategy": "attention-survivor-core",
-      "role": "attention survivor core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 10
-    },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 205.69512409932352,
-      "avg_buy_price_krw": 3231.0,
-      "last_price_krw": 3231.0,
-      "value_krw": 664600.9459649143,
-      "thesis": "메이저 약세 속에서도 74.4% 위치와 289.9억원 대금이 남아 있어 품질형 코어로 유지합니다.",
-      "strategy": "quality-large-cap-survivor",
-      "role": "quality large-cap survivor",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 10
-    },
-    "CHZ": {
-      "market": "KRW-CHZ",
-      "amount": 15455.835952672425,
-      "avg_buy_price_krw": 43.0,
-      "last_price_krw": 43.0,
-      "value_krw": 664600.9459649143,
-      "thesis": "43.0원, +8.31%, 83.9% 위치로 이번 새벽 리테일 continuation이 가장 깔끔합니다.",
-      "strategy": "retail-continuation-core",
-      "role": "retail continuation core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 13
-    },
-    "CHIP": {
-      "market": "KRW-CHIP",
-      "amount": 11762.848601148926,
-      "avg_buy_price_krw": 56.5,
-      "last_price_krw": 56.5,
-      "value_krw": 664600.9459649143,
-      "thesis": "56.5원, +13.0%, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다.",
-      "strategy": "high-beta-survivor",
-      "role": "high-beta survivor",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 15
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 629.9460841405671,
+      "avg_buy_price_krw": 909.0,
+      "last_price_krw": 909.0,
+      "value_krw": 572620.9904837755,
+      "thesis": "909원, +1.00%, 57.9% 위치로 weak breadth 장에서 가장 읽기 쉬운 고유동성 reclaim입니다.",
+      "strategy": "liquid-reclaim-core",
+      "role": "liquid reclaim core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 8
     },
     "SENT": {
       "market": "KRW-SENT",
-      "amount": 25366.448319271538,
-      "avg_buy_price_krw": 26.2,
-      "last_price_krw": 26.2,
-      "value_krw": 664600.9459649143,
-      "thesis": "26.2원, +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다.",
-      "strategy": "attention-breakout-survivor",
-      "role": "attention breakout survivor",
+      "amount": 23372.285325868386,
+      "avg_buy_price_krw": 24.5,
+      "last_price_krw": 24.5,
+      "value_krw": 572620.9904837755,
+      "thesis": "24.5원, +2.51%, 72.7% 위치로 attention 축 중 구조 보존이 가장 좋습니다.",
+      "strategy": "attention-survivor-core",
+      "role": "attention survivor core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 10
+    },
+    "CPOOL": {
+      "market": "KRW-CPOOL",
+      "amount": 16360.59972810787,
+      "avg_buy_price_krw": 35.0,
+      "last_price_krw": 35.0,
+      "value_krw": 572620.9904837755,
+      "thesis": "35.0원, +3.24%, 100% 위치로 이번 보드의 사실상 유일한 fresh breakout입니다.",
+      "strategy": "fresh-breakout-core",
+      "role": "fresh breakout core",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 12
+    },
+    "B3": {
+      "market": "KRW-B3",
+      "amount": 649967.0720587691,
+      "avg_buy_price_krw": 0.881,
+      "last_price_krw": 0.881,
+      "value_krw": 572620.9904837755,
+      "thesis": "0.881원, +13.68%, 83.3% 위치로 소형 고베타 리더 중 공격성이 가장 강합니다.",
+      "strategy": "high-beta-breakout",
+      "role": "high-beta breakout",
       "risk_limit_pct": 8,
-      "profit_take_pct": 18
+      "profit_take_pct": 16
+    },
+    "IRYS": {
+      "market": "KRW-IRYS",
+      "amount": 20898.576295028302,
+      "avg_buy_price_krw": 27.4,
+      "last_price_krw": 27.4,
+      "value_krw": 572620.9904837755,
+      "thesis": "27.4원, +0.74%, 85.7% 위치로 화려하진 않지만 가장 단단한 continuation 구조입니다.",
+      "strategy": "tight-continuation-support",
+      "role": "tight continuation support",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
-      "symbol": "IO",
-      "market": "KRW-IO",
-      "reason": "8.56% 강세는 좋지만 고점 대비 -7.31%라 SENT·CHIP보다 한 단계 늦은 후보입니다."
+      "symbol": "POKT",
+      "market": "KRW-POKT",
+      "reason": "9.52% 상승과 84.5억원 대금은 좋지만 63.2% 위치라 CPOOL·B3보다 한 단계 느립니다."
+    },
+    {
+      "symbol": "CC",
+      "market": "KRW-CC",
+      "reason": "2.81%, 111.6억원 대금으로 체급은 좋지만 54.5% 위치라 survivor와 breakout의 중간지대입니다."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "-1.07%인데도 60.0% 위치를 지켜 재양전 시 복귀 후보입니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "-0.71%여도 65.1% 위치와 104.1억원 대금이 남아 있어 메이저 대체 체급형 관찰 종목입니다."
+      "reason": "0.09%, 91.5억원 대금으로 체급 방어는 되지만 50% 위치라 공격성은 부족합니다."
     },
     {
       "symbol": "BABY",
       "market": "KRW-BABY",
-      "reason": "음전이지만 85.7% 위치를 지켜 range 품질은 우수해 반등형 교체 후보입니다."
+      "reason": "1.75%, 71.4% 위치의 준수한 구조지만 대금이 37.3억원대로 다소 얕습니다."
     },
     {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "1.53%, 57.9% 위치로 구조는 남았지만 CHZ·SENT보다 공격성이 약합니다."
+      "symbol": "WAL",
+      "market": "KRW-WAL",
+      "reason": "2.07%, 75.0% 위치로 구조는 좋지만 거래대금이 29.4억원 수준이라 서브 후보입니다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "-1.48%에도 61.4% 위치라 중립 survivor 후보로 감시합니다."
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "reason": "100% 위치는 좋지만 31.0억원 대금이라 메인 바스켓보다 실전성이 약합니다."
     },
     {
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "음전이지만 76.3% 위치를 지켜 급락장 방어 품질은 괜찮습니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "34.5억원 대금은 충분하지만 48.6% 위치로 다시 mid-range 아래로 밀려 제외합니다."
-    },
-    {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "2.68% 상승이지만 38.6% 위치·-8.08% gap라 상단 체류 실패로 보류합니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "1648.2억원 초대금이 남아도 33.3% 위치·음전으로 아직 trap 해석이 우선입니다."
     }
   ],
   "history": [
@@ -5575,6 +5575,96 @@
       "amount_delta": 25366.448319271538,
       "cash_delta_krw": -664600.9459649143,
       "reason": "26.2원, +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 757.0,
+      "amount_delta": -845.5482773090513,
+      "cash_delta_krw": 640080.0459229518,
+      "reason": "기존 invalidation 760원을 실제 하향했고 -0.53%, 33.3% 위치라 초대금보다 trap 성격이 우선이 됐습니다."
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3189.0,
+      "amount_delta": -205.69512409932352,
+      "cash_delta_krw": 655961.7507527428,
+      "reason": "메이저 평균 35 미만 환경에서 -1.18%, 22.5% 위치로 quality survivor 가정이 무너졌습니다."
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 42.9,
+      "amount_delta": -15455.835952672425,
+      "cash_delta_krw": 663055.362369647,
+      "reason": "리테일 continuation 코어였지만 -1.15%, 38.9% 위치로 양전 리더 대비 우위가 사라졌습니다."
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 55.3,
+      "amount_delta": -11762.848601148926,
+      "cash_delta_krw": 650485.5276435355,
+      "reason": "60.0% 위치는 남았지만 음전 전환이 확인돼 IRYS보다 열위인 reclaim 후보로 후퇴했습니다."
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "SENT",
+      "action": "SELL",
+      "price_krw": 24.5,
+      "amount_delta": -25366.448319271538,
+      "cash_delta_krw": 621477.9838221527,
+      "reason": "기존 invalidation 24.8원을 하회해 한 번 정리하고 새 약한 장 바스켓 기준으로만 재진입합니다."
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 909.0,
+      "amount_delta": 629.9460841405671,
+      "cash_delta_krw": -572620.9904837755,
+      "reason": "상위 양전 알트 중 거래대금이 가장 크고 reclaim 구조가 단순해 새 바스켓 유동성 코어로 편입"
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "SENT",
+      "action": "BUY",
+      "price_krw": 24.5,
+      "amount_delta": 23372.285325868386,
+      "cash_delta_krw": -572620.9904837755,
+      "reason": "attention 축 중 실제 양전과 72.7% 위치를 유지해 구조 보존형 코어로 재편입"
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "CPOOL",
+      "action": "BUY",
+      "price_krw": 35.0,
+      "amount_delta": 16360.59972810787,
+      "cash_delta_krw": -572620.9904837755,
+      "reason": "약한 보드에서 드문 100% 위치 fresh breakout이라 공격 슬롯의 핵심으로 신규 편입"
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "B3",
+      "action": "BUY",
+      "price_krw": 0.881,
+      "amount_delta": 649967.0720587691,
+      "cash_delta_krw": -572620.9904837755,
+      "reason": "+13.68%와 83.3% 위치가 겹친 소형 고베타 리더라 공격성 보강용 신규 편입"
+    },
+    {
+      "timestamp": "2026-06-10T09:51:14+09:00",
+      "symbol": "IRYS",
+      "action": "BUY",
+      "price_krw": 27.4,
+      "amount_delta": 20898.576295028302,
+      "cash_delta_krw": -572620.9904837755,
+      "reason": "85.7% 위치와 얕은 고점 괴리로 weakest breadth 장에서 가장 단단한 continuation 보조축으로 신규 편입"
     }
   ]
 }

@@ -1,315 +1,326 @@
 {
-  "updated_at": "2026-06-10T03:49:00+09:00",
-  "top_line": "BTC가 92.56M원대로 더 밀리며 메이저 평균 위치가 34.7%까지 낮아졌습니다. JTO는 붕괴했고 SENT가 승격돼 이번 회차는 WLD·NEAR·CHZ·CHIP·SENT 85% 분산으로 재구성합니다.",
-  "macro_summary": "2026-06-10 03:49 KST 기준 BTC 92.555M원, ETH 2.476M원, XRP 1,709원, SOL 97.85K원입니다. 메이저 평균 위치는 34.7%로 6시간 전 37.6%보다 더 낮아졌고, 상위 15개 비메이저 알트 중 양전은 7개라 시장 전체는 약하지만 소수 생존주는 여전히 남아 있습니다.",
-  "news_summary": "외부 검색상 6월 초 시장 배경은 ETF 유출, 지정학 긴장, 레버리지 청산 같은 위험회피 서사가 계속 거론됩니다. 개별적으로는 WLD가 Arthur Hayes 전량 매도 후유증을 완전히 지우진 못했지만 여전히 초대금 attention을 유지하고, SENT는 별도 강한 헤드라인보다 가격과 유동성 급증이 먼저 확인되는 타입입니다.",
-  "community_summary": "업비트 새벽 자금은 SAHARA·MOVE 같은 대형 함정보다 WLD 잔존 attention, CHZ·CHIP의 상단 체류, 그리고 새로 부상한 SENT 쪽으로 모였습니다. 리테일은 지금 broad chase보다 살아남은 상단 체류주를 더 선호하는 흐름입니다.",
-  "public_figure_summary": "Arthur Hayes의 WLD 오버행은 여전히 해석 변수지만, 지금은 가격이 그 악재를 어느 정도 버티는지가 더 중요합니다. 반대로 JTO는 특별한 공개 인물 서사보다 실제 가격 붕괴가 더 강한 신호였습니다.",
-  "major_coin_summary": "BTC -2.30%·26.1% 위치 / ETH -2.37%·38.8% 위치 / XRP -2.57%·31.5% 위치 / SOL -2.35%·42.2% 위치 / 메이저 평균 34.7% 위치",
-  "altcoin_selection_summary": "preferred buy는 WLD, NEAR, CHZ, CHIP, SENT입니다. fresh breakout 수는 0개지만 SENT가 고대금 승격주로 올라왔고, JTO는 27.5% 위치 붕괴로 즉시 제외했습니다. 이번 바스켓은 attention survivor 1 + quality survivor 1 + continuation 1 + high-beta survivor 1 + 신규 attention breakout 1 구조입니다.",
-  "overall_bias": "aggressive diversified long with 85% deployment and strict anti-breakdown rotation",
+  "updated_at": "2026-06-10T09:51:14+09:00",
+  "top_line": "메이저 평균 위치가 34.2%까지 낮아지고 상위 15개 비메이저 양전이 3개뿐입니다. 기존 survivor 4종이 음전돼 이번 회차는 JTO·SENT·CPOOL·B3·IRYS 75% 분산으로 강제 재편합니다.",
+  "macro_summary": "2026-06-10 09:51 KST 기준 BTC 92.333M원, ETH 2.449M원, XRP 1,694원, SOL 97.05K원입니다. 메이저 평균 위치는 34.2%로 여전히 약하고, 상위 15개 비메이저 알트 중 양전은 3개뿐이라 broad risk-on이 아니라 소수 구조 생존주만 허용되는 장입니다.",
+  "news_summary": "Alternative 공포탐욕은 9로 더 악화됐고, 외부 검색상 6월 초 ETF 유출·청산 압력이 계속 시장 배경으로 작동합니다. WLD는 Arthur Hayes 전량 매도 오버행이 남아 있고, 이번 신규 바스켓(B3·CPOOL·IRYS)은 강한 대외 헤드라인보다 실제 가격 구조와 업비트 대금이 먼저 확인되는 타입입니다.",
+  "community_summary": "업비트 자금은 SAHARA·WLD 같은 초대금 함정에 계속 몰리지만 실제 체류는 JTO·SENT·CPOOL·B3·IRYS 같은 양전 고위치 쪽에 남았습니다. 리테일은 지금 내러티브보다 당장 화면에서 버티는 종목을 더 빠르게 고릅니다.",
+  "public_figure_summary": "현재 공개 인물 변수는 여전히 WLD의 Arthur Hayes 오버행이 핵심입니다. 이번 선발 5종은 특정 인물 서사보다 차트와 대금이 우선이며, 그래서 오히려 해석이 단순합니다.",
+  "major_coin_summary": "BTC -0.24%·33.3% 위치 / ETH -0.41%·37.0% 위치 / XRP -0.70%·27.3% 위치 / SOL -0.46%·39.1% 위치 / 메이저 평균 34.2% 위치",
+  "altcoin_selection_summary": "preferred buy는 JTO, SENT, CPOOL, B3, IRYS입니다. fresh breakout 수는 1개뿐이라 CPOOL 하나만 breakout으로 인정하고, 나머지는 liquid reclaim 1 + attention survivor 1 + high-beta breakout 1 + tight continuation 1로 구성했습니다. 기존 WLD·NEAR·CHZ·CHIP은 음전 또는 구조 훼손으로 모두 교체합니다.",
+  "overall_bias": "aggressive selective long with 75% deployment and full anti-trap rotation",
   "confidence": "medium",
   "preferred_buy_candidates": [
     {
-      "market": "KRW-WLD",
-      "symbol": "WLD",
-      "korean_name": "월드코인",
-      "english_name": "Worldcoin",
-      "price_krw": 786.0,
-      "change_pct_24h": 5.22088353,
-      "turnover_krw_24h": 203532517948.15845,
-      "opening_price": 747.0,
-      "high_price": 830.0,
-      "low_price": 718.0,
-      "range_position_pct": 60.7,
-      "day_high_gap_pct": -5.3,
-      "selection_score": 59.03,
-      "role": "attention survivor core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 10,
-      "community": "Arthur Hayes 오버행이 남아도 업비트 대금 2위권을 유지해 attention이 완전히 꺾이지 않았습니다.",
-      "reason": "WLD는 +5.22%, 2035.3억원 대금이지만 위치가 60.7%로 내려와 mega reclaim이 아니라 survivor core로 격하됐습니다.",
-      "invalidated_if": "760원 하회 시 attention survivor 약화",
-      "strategy": "attention-survivor-core",
-      "score": 59.03,
-      "risk": "760원 하회 시 attention survivor 약화",
-      "thesis": "WLD는 +5.22%, 2035.3억원 대금이지만 위치가 60.7%로 내려와 mega reclaim이 아니라 survivor core로 격하됐습니다.",
-      "allocation_krw": 664600.9459649143
-    },
-    {
-      "market": "KRW-NEAR",
-      "symbol": "NEAR",
-      "korean_name": "니어프로토콜",
-      "english_name": "NEAR Protocol",
-      "price_krw": 3231.0,
-      "change_pct_24h": 1.12676056,
-      "turnover_krw_24h": 28991751496.927128,
-      "opening_price": 3200.0,
-      "high_price": 3289.0,
-      "low_price": 3062.0,
-      "range_position_pct": 74.4,
-      "day_high_gap_pct": -1.76,
-      "selection_score": 35.67,
-      "role": "quality large-cap survivor",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 10,
-      "community": "약한 메이저 속에서도 체급 대비 상단 체류가 유지돼 방어적이면서도 공격 슬롯 역할을 합니다.",
-      "reason": "NEAR는 +1.13%, 289.9억원 대금, 74.4% 위치로 메이저 급락 속 가장 균형 좋은 대형 알트 survivor입니다.",
-      "invalidated_if": "3170원 하회 시 quality survivor 약화",
-      "strategy": "quality-large-cap-survivor",
-      "score": 35.67,
-      "risk": "3170원 하회 시 quality survivor 약화",
-      "thesis": "NEAR는 +1.13%, 289.9억원 대금, 74.4% 위치로 메이저 급락 속 가장 균형 좋은 대형 알트 survivor입니다.",
-      "allocation_krw": 664600.9459649143
-    },
-    {
-      "market": "KRW-CHZ",
-      "symbol": "CHZ",
-      "korean_name": "칠리즈",
-      "english_name": "Chiliz",
-      "price_krw": 43.0,
-      "change_pct_24h": 8.31234257,
-      "turnover_krw_24h": 14312728567.900291,
-      "opening_price": 39.7,
-      "high_price": 44.0,
-      "low_price": 37.8,
-      "range_position_pct": 83.9,
-      "day_high_gap_pct": -2.27,
-      "selection_score": 47.47,
-      "role": "retail continuation core",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 13,
-      "community": "새벽 리테일 자금이 스포츠·저가 베타로 다시 모이면서 continuation 품질이 좋아졌습니다.",
-      "reason": "CHZ는 +8.31%, 143.1억원 대금, 83.9% 위치로 새벽 리테일 continuation 강도가 가장 선명합니다.",
-      "invalidated_if": "41.5원 하회 시 continuation 약화",
-      "strategy": "retail-continuation-core",
-      "score": 47.47,
-      "risk": "41.5원 하회 시 continuation 약화",
-      "thesis": "CHZ는 +8.31%, 143.1억원 대금, 83.9% 위치로 새벽 리테일 continuation 강도가 가장 선명합니다.",
-      "allocation_krw": 664600.9459649143
-    },
-    {
-      "market": "KRW-CHIP",
-      "symbol": "CHIP",
-      "korean_name": "유에스디에이아이",
-      "english_name": "USD.AI",
-      "price_krw": 56.5,
-      "change_pct_24h": 13.0,
-      "turnover_krw_24h": 11273348890.490913,
-      "opening_price": 50.0,
-      "high_price": 58.2,
-      "low_price": 46.7,
-      "range_position_pct": 85.2,
-      "day_high_gap_pct": -2.92,
-      "selection_score": 53.98,
-      "role": "high-beta survivor",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 15,
-      "community": "고베타 AI 슬롯 중 실제 체류 시간이 길고, 대금도 100억원대로 커져 단순 번쩍이가 아닙니다.",
-      "reason": "CHIP은 +13.0%, 112.7억원 대금, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다.",
-      "invalidated_if": "54.0원 하회 시 high-beta survivor 약화",
-      "strategy": "high-beta-survivor",
-      "score": 53.98,
-      "risk": "54.0원 하회 시 high-beta survivor 약화",
-      "thesis": "CHIP은 +13.0%, 112.7억원 대금, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다.",
-      "allocation_krw": 664600.9459649143
+      "market": "KRW-JTO",
+      "symbol": "JTO",
+      "korean_name": "지토",
+      "english_name": "Jito",
+      "price_krw": 909.0,
+      "change_pct_24h": 1.0,
+      "turnover_krw_24h": 18571236299.414352,
+      "opening_price": 900.0,
+      "high_price": 917.0,
+      "low_price": 898.0,
+      "range_position_pct": 57.9,
+      "day_high_gap_pct": -0.87,
+      "selection_score": 29.21,
+      "role": "liquid reclaim core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 8,
+      "community": "솔라나계 고유동성 survivor가 다시 양전으로 돌아왔고, 상위 양전 알트 중 체급이 가장 큽니다.",
+      "reason": "JTO는 +1.00%, 185.7억원 대금, 57.9% 위치로 weak breadth 장에서 가장 읽기 쉬운 고유동성 양전 survivor입니다.",
+      "invalidated_if": "898원 하회 시 reclaim 실패",
+      "strategy": "liquid-reclaim-core",
+      "score": 29.21,
+      "risk": "898원 하회 시 reclaim 실패",
+      "thesis": "JTO는 +1.00%, 185.7억원 대금, 57.9% 위치로 weak breadth 장에서 가장 읽기 쉬운 고유동성 양전 survivor입니다.",
+      "allocation_krw": 572620.9904837755
     },
     {
       "market": "KRW-SENT",
       "symbol": "SENT",
       "korean_name": "센티언트",
       "english_name": "Sentient",
-      "price_krw": 26.2,
-      "change_pct_24h": 27.18446602,
-      "turnover_krw_24h": 9910176104.649527,
-      "opening_price": 20.5,
-      "high_price": 27.7,
-      "low_price": 20.4,
-      "range_position_pct": 79.5,
-      "day_high_gap_pct": -5.42,
-      "selection_score": 56.02,
-      "role": "attention breakout survivor",
+      "price_krw": 24.5,
+      "change_pct_24h": 2.51046025,
+      "turnover_krw_24h": 12166965399.126413,
+      "opening_price": 24.1,
+      "high_price": 24.8,
+      "low_price": 23.7,
+      "range_position_pct": 72.7,
+      "day_high_gap_pct": -1.21,
+      "selection_score": 35.38,
+      "role": "attention survivor core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 10,
+      "community": "기존 attention 축 중 실제 양전과 72.7% 위치를 동시에 지켜 weak breadth 장에서 보기 쉬운 생존주입니다.",
+      "reason": "SENT는 +2.51%, 121.7억원 대금, 72.7% 위치로 attention 축 중 구조 보존이 가장 좋습니다.",
+      "invalidated_if": "24.0원 하회 시 survivor 약화",
+      "strategy": "attention-survivor-core",
+      "score": 35.38,
+      "risk": "24.0원 하회 시 survivor 약화",
+      "thesis": "SENT는 +2.51%, 121.7억원 대금, 72.7% 위치로 attention 축 중 구조 보존이 가장 좋습니다.",
+      "allocation_krw": 572620.9904837755
+    },
+    {
+      "market": "KRW-CPOOL",
+      "symbol": "CPOOL",
+      "korean_name": "클리어풀",
+      "english_name": "Clearpool",
+      "price_krw": 35.0,
+      "change_pct_24h": 3.24483776,
+      "turnover_krw_24h": 8653331224.569874,
+      "opening_price": 33.9,
+      "high_price": 35.0,
+      "low_price": 33.3,
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0,
+      "selection_score": 47.42,
+      "role": "fresh breakout core",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 12,
+      "community": "이번 보드에서 드물게 100% 위치와 86.5억원 대금을 동시에 만든 사실상 유일한 fresh breakout입니다.",
+      "reason": "CPOOL은 +3.24%, 86.5억원 대금, 100.0% 위치로 이번 보드의 사실상 유일한 fresh breakout입니다.",
+      "invalidated_if": "33.9원 하회 시 breakout 실패",
+      "strategy": "fresh-breakout-core",
+      "score": 47.42,
+      "risk": "33.9원 하회 시 breakout 실패",
+      "thesis": "CPOOL은 +3.24%, 86.5억원 대금, 100.0% 위치로 이번 보드의 사실상 유일한 fresh breakout입니다.",
+      "allocation_krw": 572620.9904837755
+    },
+    {
+      "market": "KRW-B3",
+      "symbol": "B3",
+      "korean_name": "비쓰리",
+      "english_name": "B3",
+      "price_krw": 0.881,
+      "change_pct_24h": 13.67741935,
+      "turnover_krw_24h": 6643608387.7570715,
+      "opening_price": 0.779,
+      "high_price": 0.902,
+      "low_price": 0.776,
+      "range_position_pct": 83.3,
+      "day_high_gap_pct": -2.33,
+      "selection_score": 54.49,
+      "role": "high-beta breakout",
       "risk_limit_pct": 8,
-      "profit_take_pct": 18,
-      "community": "커뮤니티 관심이 빠르게 붙었고, JTO 대신 새 attention 축으로 읽히는 속도가 가장 빨랐습니다.",
-      "reason": "SENT는 +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다.",
-      "invalidated_if": "24.8원 하회 시 breakout survivor 약화",
-      "strategy": "attention-breakout-survivor",
-      "score": 56.02,
-      "risk": "24.8원 하회 시 breakout survivor 약화",
-      "thesis": "SENT는 +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다.",
-      "allocation_krw": 664600.9459649143
+      "profit_take_pct": 16,
+      "community": "상승률 +13.68%와 83.3% 위치가 겹친 소형 고베타 리더로, 약한 장에서도 리테일 추격을 끌어냅니다.",
+      "reason": "B3는 +13.68%, 66.4억원 대금, 83.3% 위치로 소형 고베타 리더 중 가장 공격성이 강합니다.",
+      "invalidated_if": "0.83원 하회 시 고베타 모멘텀 약화",
+      "strategy": "high-beta-breakout",
+      "score": 54.49,
+      "risk": "0.83원 하회 시 고베타 모멘텀 약화",
+      "thesis": "B3는 +13.68%, 66.4억원 대금, 83.3% 위치로 소형 고베타 리더 중 가장 공격성이 강합니다.",
+      "allocation_krw": 572620.9904837755
+    },
+    {
+      "market": "KRW-IRYS",
+      "symbol": "IRYS",
+      "korean_name": "아이리스",
+      "english_name": "Irys",
+      "price_krw": 27.4,
+      "change_pct_24h": 0.73529412,
+      "turnover_krw_24h": 5267114358.768448,
+      "opening_price": 27.2,
+      "high_price": 27.5,
+      "low_price": 26.8,
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -0.36,
+      "selection_score": 37.38,
+      "role": "tight continuation support",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 10,
+      "community": "상승률은 낮지만 85.7% 위치와 얕은 -0.36% 고점 괴리로 구조가 매우 단단합니다.",
+      "reason": "IRYS는 +0.74%, 52.7억원 대금, 85.7% 위치로 breakout보다 덜 화려하지만 가장 단단한 continuation 구조입니다.",
+      "invalidated_if": "27.0원 하회 시 tight continuation 훼손",
+      "strategy": "tight-continuation-support",
+      "score": 37.38,
+      "risk": "27.0원 하회 시 tight continuation 훼손",
+      "thesis": "IRYS는 +0.74%, 52.7억원 대금, 85.7% 위치로 breakout보다 덜 화려하지만 가장 단단한 continuation 구조입니다.",
+      "allocation_krw": 572620.9904837755
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "WLD는 +5.22%, 2035.3억원 대금이지만 위치가 60.7%로 내려와 mega reclaim이 아니라 survivor core로 격하됐습니다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "NEAR는 +1.13%, 289.9억원 대금, 74.4% 위치로 메이저 급락 속 가장 균형 좋은 대형 알트 survivor입니다."
-    },
-    {
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "reason": "CHZ는 +8.31%, 143.1억원 대금, 83.9% 위치로 새벽 리테일 continuation 강도가 가장 선명합니다."
-    },
-    {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "CHIP은 +13.0%, 112.7억원 대금, 85.2% 위치로 소형 고베타 중 실제 상단 체류가 가장 좋습니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "JTO는 +1.00%, 185.7억원 대금, 57.9% 위치로 weak breadth 장에서 가장 읽기 쉬운 고유동성 양전 survivor입니다."
     },
     {
       "symbol": "SENT",
       "market": "KRW-SENT",
-      "reason": "SENT는 +27.18%, 99.1억원 대금, 79.5% 위치로 JTO를 대체할 새 attention breakout survivor입니다."
+      "reason": "SENT는 +2.51%, 121.7억원 대금, 72.7% 위치로 attention 축 중 구조 보존이 가장 좋습니다."
+    },
+    {
+      "symbol": "CPOOL",
+      "market": "KRW-CPOOL",
+      "reason": "CPOOL은 +3.24%, 86.5억원 대금, 100.0% 위치로 이번 보드의 사실상 유일한 fresh breakout입니다."
+    },
+    {
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "B3는 +13.68%, 66.4억원 대금, 83.3% 위치로 소형 고베타 리더 중 가장 공격성이 강합니다."
+    },
+    {
+      "symbol": "IRYS",
+      "market": "KRW-IRYS",
+      "reason": "IRYS는 +0.74%, 52.7억원 대금, 85.7% 위치로 breakout보다 덜 화려하지만 가장 단단한 continuation 구조입니다."
     }
   ],
   "watchlist": [
     {
-      "symbol": "IO",
-      "market": "KRW-IO",
-      "reason": "8.56% 강세는 좋지만 고점 대비 -7.31%라 SENT·CHIP보다 한 단계 늦은 후보입니다."
+      "symbol": "POKT",
+      "market": "KRW-POKT",
+      "reason": "9.52% 상승과 84.5억원 대금은 좋지만 63.2% 위치라 CPOOL·B3보다 한 단계 느립니다."
+    },
+    {
+      "symbol": "CC",
+      "market": "KRW-CC",
+      "reason": "2.81%, 111.6억원 대금으로 체급은 좋지만 54.5% 위치라 survivor와 breakout의 중간지대입니다."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "-1.07%인데도 60.0% 위치를 지켜 재양전 시 복귀 후보입니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "-0.71%여도 65.1% 위치와 104.1억원 대금이 남아 있어 메이저 대체 체급형 관찰 종목입니다."
+      "reason": "0.09%, 91.5억원 대금으로 체급 방어는 되지만 50% 위치라 공격성은 부족합니다."
     },
     {
       "symbol": "BABY",
       "market": "KRW-BABY",
-      "reason": "음전이지만 85.7% 위치를 지켜 range 품질은 우수해 반등형 교체 후보입니다."
+      "reason": "1.75%, 71.4% 위치의 준수한 구조지만 대금이 37.3억원대로 다소 얕습니다."
     },
     {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "1.53%, 57.9% 위치로 구조는 남았지만 CHZ·SENT보다 공격성이 약합니다."
+      "symbol": "WAL",
+      "market": "KRW-WAL",
+      "reason": "2.07%, 75.0% 위치로 구조는 좋지만 거래대금이 29.4억원 수준이라 서브 후보입니다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "-1.48%에도 61.4% 위치라 중립 survivor 후보로 감시합니다."
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "reason": "100% 위치는 좋지만 31.0억원 대금이라 메인 바스켓보다 실전성이 약합니다."
     },
     {
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "음전이지만 76.3% 위치를 지켜 급락장 방어 품질은 괜찮습니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "34.5억원 대금은 충분하지만 48.6% 위치로 다시 mid-range 아래로 밀려 제외합니다."
-    },
-    {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "2.68% 상승이지만 38.6% 위치·-8.08% gap라 상단 체류 실패로 보류합니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "1648.2억원 초대금이 남아도 33.3% 위치·음전으로 아직 trap 해석이 우선입니다."
     }
   ],
   "risk_notes": [
-    "BTC가 91.7M원 저점을 다시 깨면 알트 survivor도 한 단계 더 훼손될 수 있습니다.",
-    "WLD는 여전히 초대금 attention 코인이지만 60.7% 위치까지 내려와 재집중보다 관리가 우선입니다.",
-    "SENT와 CHIP은 가장 공격적인 두 슬롯이라 장중 변동성이 매우 클 수 있습니다.",
-    "JTO처럼 liquid survivor도 30% 아래로 꺾이면 바로 trap이 되므로 반응 속도가 중요합니다.",
-    "공포탐욕 10 구간이라 시장 전체는 여전히 스트레스 상태입니다."
+    "메이저 4종이 모두 음전이라 알트도 아무거나 보유하면 trap이 되기 쉽습니다.",
+    "상위 15개 비메이저 양전이 3개뿐이라 fresh breakout 추격은 CPOOL 1개로 제한하는 편이 낫습니다.",
+    "B3는 가장 공격적인 슬롯이라 변동성이 매우 클 수 있습니다.",
+    "JTO·SENT가 다시 음전하거나 mid-range 아래로 밀리면 이번 재편도 빠르게 무효화될 수 있습니다.",
+    "공포탐욕 9 구간이라 장 전체는 여전히 스트레스 장입니다."
   ],
-  "fear_greed": "10 (Extreme Fear, Alternative.me)",
-  "btc_reference": "BTC 92.555M원대 / ETH 2.476M원대 / XRP 1,709원대 / SOL 97.85K원대",
+  "fear_greed": "9 (Extreme Fear, Alternative.me)",
+  "btc_reference": "BTC 92.333M원대 / ETH 2.449M원대 / XRP 1,694원대 / SOL 97.05K원대",
   "improvement_log": [
-    "PROJECT.md에 메이저 평균 위치가 35 미만이고 보유 유동성 코어가 30% 미만 range 또는 음전환으로 꺾이면 다음 사이클에 강제 교체하고 총 투입 비중을 5~10% 줄이는 규칙을 추가했습니다.",
-    "보고서에서 승격 종목(SENT)과 격하 종목(WLD)을 분리 표기해 바스켓 내부 변화가 한 줄로 읽히게 정리했습니다.",
-    "공포탐욕지수를 다시 외부 확인해 10(Extreme Fear) 최신값으로 고정했습니다."
+    "PROJECT.md에 `상위 15개 비메이저 양전이 3개 이하이고 보유 3종 이상이 동시 음전/무효화되면, 다음 사이클 실제 포트폴리오는 양전 후보 위주로 강제 재편하고 총투입을 70~75%로 낮춘다` 규칙을 추가했습니다.",
+    "dashboard 아이콘 맵에 CC·POKT·BABY·WAL을 추가해 watchlist 가독성을 높였습니다.",
+    "이번 보고서에서 기존 바스켓 붕괴 사유를 `음전 전환 / 무효화 / trap 지속`으로 압축해 교체 이유가 한눈에 읽히게 정리했습니다."
   ],
   "self_evaluation": {
-    "score": 8.0,
-    "summary": "직전 회차에 SAHARA·MOVE를 다시 잡지 않은 점은 맞았고 CHZ·CHIP 유지도 좋았습니다. 하지만 JTO가 30% 아래로 무너지는 동안 survivor로 남겨둔 것은 느렸습니다. 이번엔 그 오류를 규칙과 포트폴리오 둘 다에 반영해 즉시 교체했습니다."
+    "score": 7.9,
+    "summary": "직전 회차의 JTO 퇴출과 총투입 85% 축소는 맞았습니다. 하지만 9시 시점에는 WLD·NEAR·CHZ·CHIP까지 동시에 음전이 확인돼 기존 survivor 방어를 더 빨리 포기했어야 했습니다. 이번엔 그 약점을 규칙과 포트폴리오 둘 다에 반영해 양전 바스켓으로 강제 재편했습니다."
   },
   "rejected_candidates": [
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "-0.22%로 음전환했고 27.5% 위치·-8.85% gap라 liquid survivor 가정이 무너졌습니다."
-    },
-    {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "+14.38%여도 고점 대비 -13.85%, 54.5% 위치라 exhausted blowoff 판정 유지입니다."
-    },
-    {
-      "symbol": "MOVE",
-      "market": "KRW-MOVE",
-      "reason": "1004.1억원 대금에도 10.2% 위치·-31.29% gap라 전형적 turnover trap입니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "1648.2억원 초대금이 남아도 -0.53%, 33.3% 위치라 trap 판정이 우선입니다."
     },
     {
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "reason": "업비트 대금 1위지만 -42.75%, 26.6% 위치라 broken leader 해석이 명확합니다."
+      "reason": "업비트 대금 1위지만 -1.02%, 19.0% 위치라 broken leader 해석이 더 명확합니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "대금은 좋지만 48.6% 위치로 survivor 기준 아래로 재하락했습니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "-1.18%, 22.5% 위치로 quality survivor 가정이 붕괴했습니다."
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "상승률은 남았어도 38.6% 위치·-8.08% gap로 상단 유지 실패입니다."
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "-1.15%, 38.9% 위치로 continuation 핵심 축에서 이탈했습니다."
+    },
+    {
+      "symbol": "MOVE",
+      "market": "KRW-MOVE",
+      "reason": "989.8억원 대금에도 -3.24%, 25.0% 위치라 전형적 turnover trap입니다."
+    },
+    {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "-4.40%, 8.0% 위치로 exhausted blowoff 이후 재붕괴 상태입니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 15% 유지. BTC 91.7M원 하회 지속 시 20~25% 현금으로 추가 복원.",
-    "review_trigger": "BTC 91.70M원 하회 지속, WLD 760원 하회, NEAR 3170원 하회, CHZ 41.5원 하회, CHIP 54.0원 하회, SENT 24.8원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 25% 유지. BTC 92.10M원 하회 지속 또는 JTO·SENT 동시 약화 시 30% 현금으로 추가 복원.",
+    "review_trigger": "BTC 92.10M원 하회 지속, JTO 898원 하회, SENT 24.0원 하회, CPOOL 33.9원 하회, B3 0.83원 하회, IRYS 27.0원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "top15 비메이저 양전 종목이 2개 이하이고 메이저 평균 위치가 10 미만이면 실투입 비중을 60% 이하로 제한한다",
       "former trap 리더는 60%+ range reclaim 전까지 재편입 금지",
       "메이저 평균 위치가 40 미만이고 same-day breakout 보유종이 고점 대비 -12% 이하 또는 55% 미만 range로 후퇴하면 다음 사이클에 강제 anti-fade rotation",
-      "메이저 평균 위치가 35 미만이고 보유 유동성 코어가 30% 미만 range 또는 음전환으로 꺾이면 다음 사이클에 강제 교체하고 총 투입 비중을 5~10% 축소한다"
+      "메이저 평균 위치가 35 미만이고 보유 유동성 코어가 30% 미만 range 또는 음전환으로 꺾이면 다음 사이클에 강제 교체하고 총 투입 비중을 5~10% 축소한다",
+      "상위 15개 비메이저 양전이 3개 이하이고 보유 3종 이상이 동시 음전 또는 무효화되면 다음 사이클 실제 포트폴리오는 양전 후보 위주로 강제 재편하고 총투입을 70~75%로 낮춘다"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 3390.3억원이며 WLD 비중은 약 60.0%입니다.",
-    "momentum_discipline": "WLD는 survivor, NEAR는 quality, CHZ는 continuation, CHIP은 high-beta survivor, SENT는 신규 attention breakout으로 분리했습니다.",
-    "diversification": "attention survivor 1 + quality survivor 1 + continuation 1 + high-beta survivor 1 + new attention breakout 1",
-    "cash_usage": "85%",
-    "rotation_speed": "high"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 513.0억원이며 JTO 비중은 약 36.2%입니다.",
+    "momentum_discipline": "JTO는 liquid reclaim, SENT는 attention survivor, CPOOL은 fresh breakout, B3는 high-beta breakout, IRYS는 tight continuation으로 분리했습니다.",
+    "diversification": "liquid reclaim 1 + attention survivor 1 + fresh breakout 1 + high-beta breakout 1 + tight continuation 1",
+    "cash_usage": "75%",
+    "rotation_speed": "very high"
   },
   "signal_balance": {
-    "summary": "메이저는 더 약해졌지만 알트 생존주는 오히려 더 선명해졌습니다. 그래서 광범위 추격이 아니라 JTO를 버리고 SENT를 넣는 좁은 교체가 최적이었습니다."
+    "summary": "메이저는 여전히 약하고 기존 survivor 다수가 무너졌습니다. 그래서 대금 상위 함정을 방어하지 않고, 지금 실제 양전과 고위치를 유지한 5종만 남기는 쪽이 더 낫습니다."
   },
   "rotation_map": [
     {
-      "out": "JTO",
-      "in": "SENT",
-      "why": "liquid survivor 붕괴를 새 attention breakout survivor로 교체"
+      "out": "WLD",
+      "in": "JTO",
+      "why": "초대금 trap을 고유동성 양전 reclaim으로 교체"
     },
     {
-      "out": "90% deploy",
-      "in": "85% deploy",
-      "why": "BTC 하단 이탈과 메이저 평균 35 미만을 반영한 소폭 방어 강화"
+      "out": "NEAR",
+      "in": "CPOOL",
+      "why": "quality survivor 붕괴를 fresh breakout으로 교체"
     },
     {
-      "out": "WLD mega reclaim",
-      "in": "WLD survivor core",
-      "why": "대금은 유지되지만 range가 60.7%로 낮아져 역할을 격하"
+      "out": "CHZ",
+      "in": "B3",
+      "why": "continuation 약화를 더 공격적인 고베타 breakout으로 상향"
+    },
+    {
+      "out": "CHIP",
+      "in": "IRYS",
+      "why": "음전 relative-strength 후보를 더 단단한 양전 continuation으로 교체"
+    },
+    {
+      "out": "85% deploy",
+      "in": "75% deploy",
+      "why": "상위15 양전 3개·메이저 평균 35 미만의 약한 breadth를 반영"
     }
   ],
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 10.96889094,
+    "preferred_avg_change_pct_24h": 4.2336023,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
-    "preferred_turnover_total_krw_24h": 339029321008.1263,
-    "leader_turnover_share_pct": 60.0,
-    "leader_symbol": "WLD"
+    "preferred_turnover_total_krw_24h": 51302255669.63616,
+    "leader_turnover_share_pct": 36.2,
+    "leader_symbol": "JTO"
   },
-  "ui_version": "v11.2",
+  "ui_version": "v11.3",
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "CHZ·CHIP·SENT가 공격성을 끌어올렸지만 WLD는 이전보다 덜 강하고, BTC 레벨 리스크가 더 커졌습니다."
+    "comment": "CPOOL·B3가 공격성을 끌어올리지만 breadth 자체가 약해 현금 25% 완충이 필요합니다."
   }
 }
