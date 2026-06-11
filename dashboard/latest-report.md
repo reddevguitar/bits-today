@@ -1,76 +1,75 @@
-- 시각: 2026-06-11 03:49 KST
-- 기준 한줄: **메이저 평균 위치가 35.7%로 다시 꺾였고 WLD·SUI가 무너졌습니다.** 이번 회차는 **파손 슬롯 3 / 유지 1 / 교체 4**로 보고, **WLFI·IO·CC·CFG·FLUID 70% survivor-heavy reset**이 맞습니다.
-- 시장 한줄 요약: 메이저 평균 위치가 **76.5% → 35.7%**로 급락했고 **fresh breakout 0 / quality survivor 2**로 breadth가 다시 약해졌습니다. 지금은 **대금 1위보다 상단 체류 생존주 우선** 장입니다.
-- 공포탐욕지수: 9 (Extreme Fear, Alternative.me)
-- BTC 참고: BTC 93.138M원대 / ETH 2.455M원대 / XRP 1,665원대 / SOL 95.9K원대
+- 시각: 2026-06-11 09:49 KST
+- 기준 한줄: **메이저 평균 위치 87.7%(+52.0%p)**, **fresh breakout 5**, **실투입률 85%**. 이번 회차는 **survivor 방어 종료 → ASTR·KAT·XLM·ZETA·ID 재공격**입니다.
+- 시장 한줄 요약: 메이저 4종이 모두 양전이며 상단 복귀가 확인됐습니다. **WLD·SAHARA 함정은 남아 있지만 clean breakout 보드는 다시 살아났습니다.**
+- 공포탐욕지수: 12 (Extreme Fear, Alternative.me)
+- BTC 참고: BTC 93.145M원대 / ETH 2.454M원대 / XRP 1,661원대 / SOL 96.0K원대
 
 ## 🧭 업비트 알트 톱5 구매 희망 후보
-1. ⚙️ **WLFI** — 90.7원, **+10.61%**, 24h 대금 약 **107.3억원**, 위치 **77.8%**  
-   → **attention survivor core**
-2. 🖥️ **IO** — 272원, **+11.02%**, 24h 대금 약 **32.2억원**, 위치 **100.0%**  
-   → **clean breakout**
-3. 🏦 **CC** — 261원, **+4.82%**, 24h 대금 약 **56.7억원**, 위치 **60.9%**  
-   → **quality survivor**
-4. 🏗️ **CFG** — 295원, **+0.68%**, 24h 대금 약 **27.6억원**, 위치 **76.9%**  
-   → **low-noise continuation**
-5. 💧 **FLUID** — 1,800원, **+10.97%**, 24h 대금 약 **77.7억원**, 위치 **53.6%**  
-   → **controlled reclaim beta**
+1. 🌟 **ASTR** — 10.0원, **+23.30%**, 24h 대금 약 **100.0억원**, 위치 **86.2%**  
+   → **fresh breakout core**
+2. 🐱 **KAT** — 10.7원, **+4.90%**, 24h 대금 약 **189.6억원**, 위치 **83.3%**  
+   → **liquid breakout leader**
+3. ✨ **XLM** — 278원, **+1.09%**, 24h 대금 약 **345.5억원**, 위치 **80.0%**  
+   → **high-liquidity continuation**
+4. 🟣 **ZETA** — 58.8원, **+7.89%**, 24h 대금 약 **61.0억원**, 위치 **78.0%**  
+   → **mid-cap reacceleration**
+5. 🆔 **ID** — 43.9원, **+10.30%**, 24h 대금 약 **380.4억원**, 위치 **69.0%**  
+   → **high-turnover recovery beta**
 
 ## 🪙 제외된 메이저 참고 신호
-- ₿ BTC: **+0.63%**, 위치 **55.2%**
-- ◆ ETH: **-0.16%**, 위치 **42.9%**
-- 💧 XRP: **-2.40%**, 위치 **16.7%**
-- ☀️ SOL: **-1.64%**, 위치 **28.0%**
-- 해석: **BTC만 간신히 중단 이상**, 나머지 메이저는 다시 눌려 broad risk-on 근거가 약합니다.
+- ₿ BTC: **+0.59%**, 위치 **86.1%**
+- ◆ ETH: **+0.57%**, 위치 **73.7%**
+- 💧 XRP: **+0.54%**, 위치 **90.9%**
+- ☀️ SOL: **+0.89%**, 위치 **100.0%**
+- 해석: **4/4 메이저 동시 회복**이라 이번엔 방어보다 재공격이 우선입니다.
 
 ## 🚀 공격 포트폴리오 전략
-- 현금 **30%**, **WLFI·IO·CC·CFG·FLUID 각 14%**
-- 구조는 **attention 1 + breakout 1 + survivor 2 + beta reclaim 1**
-- 대금 집중도: **WLFI 35.6%** → 이전 WLD 76.2% 대비 집중 리스크 완화
-- 핵심 변화: **WLD·ID·SUI·LA 제거**, **WLFI 비중 축소 유지 + IO·CC·CFG·FLUID 편입**, **총투입 80% → 70% 축소**
+- 현금 **15%**, **ASTR·KAT·XLM·ZETA·ID 각 17%**
+- 구조는 **fresh 2 + continuation 2 + recovery 1**
+- 5개 중 **4개를 78~86% 상단 체류군**으로 채워 breadth-flip 규칙에 맞췄습니다.
+- 기존 **WLFI·IO·CC·CFG·FLUID 전량 교체**
 
 ## ✅ 가상 매매 실행 내용
-- **SELL** WLD / ID / SUI / LA 전량 정리
-- **SELL** WLFI 일부 축소
-- **BUY** IO / CC / CFG / FLUID 신규 편입
-- 실질 변화: **failed mega reclaim 바스켓 → survivor-heavy reset**
-- 핵심 판단 변화: **전일 hero 대금보다 현재 상단 체류를 우선**
+- **SELL** WLFI / IO / CC / CFG / FLUID 전량 정리
+- **BUY** ASTR / KAT / XLM / ZETA / ID 신규 편입
+- 실질 변화: **survivor-heavy reset → breadth-flip breakout basket**
+- 핵심 판단 변화: **메이저 87.7% 회복과 fresh breakout 5를 실제로 반영**
 
 ## 📦 현재 포트폴리오 현황
-- 현금: **1,071,710원**
-- 총 평가액: **3,572,366원**
-- 실현손익: **-6,559,992원**
-- 누적 수익률: **-64.28%**
-- WLFI: **5,514.126개** @ 90.1원
-- IO: **1,838.718개** @ 272원
-- CC: **1,916.212개** @ 261원
-- CFG: **1,695.360개** @ 295원
-- FLUID: **277.851개** @ 1,800원
+- 현금: **523,889원**
+- 총 평가액: **3,492,592원**
+- 실현손익: **-6,636,458원**
+- 누적 수익률: **-65.07%**
+- ASTR: **59,374.061개** @ 10.0원
+- KAT: **55,489.777개** @ 10.7원
+- XLM: **2,135.758개** @ 278원
+- ZETA: **10,097.629개** @ 58.8원
+- ID: **13,524.843개** @ 43.9원
 
 ## 🧠 자기 평가
-- 직전 회차의 **메이저 반등 포착** 자체는 맞았습니다.
-- 하지만 **WLD mega reclaim을 하루 더 신뢰할 이유는 없었고, 35.7% 메이저 평균까지 꺾였으면 즉시 survivor 모드로 돌아와야 했습니다.**
-- 이번엔 그 약점을 인정하고 **파손 3종 즉시 정리 + 70% 재배치**로 수정했습니다.
+- 03:49 회차의 **손상 방어**는 맞았지만, **09:49 회차 breadth-flip 수용은 늦었습니다.**
+- 메이저 4종이 동시에 상단으로 붙었으면 survivor를 더 오래 끌 이유가 약했습니다.
+- 이번엔 그 지연을 인정하고 **5종 전량 교체 + 85% 재투입**으로 수정했습니다.
 
 ## 🛠️ 이번 사이클 개선점
-- **PROJECT.md**에 `fresh breakout 0 + held 3개 이상 약화` 시 **broken slot 강제 정리 + exhausted reclaim 최대 1개 + 총투입 70% 제한** 규칙을 추가했습니다.
-- **dashboard 아이콘**에 **IO(🖥️)** 를 추가했습니다.
-- 보고서에 **파손 슬롯 3 / 유지 1 / 교체 4**, **fresh 0 / survivor 2**를 넣어 장 상태를 더 빨리 읽히게 바꿨습니다.
+- **PROJECT.md**에 `major avg 80↑ + fresh breakout 5↑` 시 **총투입 85% / preferred 5개 중 4개 이상 80%+** 규칙을 추가했습니다.
+- **dashboard 아이콘**에 **ASTR(🌟), ZETA(🟣)** 를 추가했습니다.
+- 보고서 상단에 **메이저 평균 위치 Δ / fresh breakout 수 / 실투입률**을 넣어 장 전환 감지를 더 빨리 읽히게 바꿨습니다.
 
 ## 🧾 판단
-- aggressive selective long with 70% deployment and survivor-heavy reset into WLFI IO CC CFG FLUID
+- aggressive breadth-flip long with 85% deployment into ASTR KAT XLM ZETA ID
 
 ## 🎯 신뢰도
-- medium
+- medium-high
 
 ## 👉 추천 행동
-- **BTC 92.0M / WLFI 84.0 / IO 258 / CC 252 / CFG 289 / FLUID 1715** 하향 시 즉시 재평가
-- **CPOOL·BIRB·ID**는 다음 승격 후보군으로 유지
-- **WLD·SAHARA·STRAX·BLEND**는 대금이 커도 현재는 **trap/exhausted** 해석이 우선입니다.
+- **BTC 92.6M / ASTR 9.4 / KAT 10.3 / XLM 275 / ZETA 56.8 / ID 41.8** 하향 시 즉시 재평가
+- **WAL·SUI·MOVE**는 다음 승격 후보군으로 유지
+- **WLD·SAHARA·B3·BLEND**는 지금도 대금보다 구조가 약해 추격 금지입니다.
 
 ## ⚠️ 리스크 메모
-- **공포탐욕 9**와 **ETF outflow 분위기**가 계속돼 bounce failure 가능성이 큽니다.
-- **IO**는 구조는 가장 좋지만 대금 체급이 아직 작습니다.
-- **FLUID**는 유일한 공격 reclaim 슬롯이라 가장 먼저 잘라야 할 수 있습니다.
-- **WLFI** 외에는 초대형 유동성 코어가 없어 follow-through가 약할 수 있습니다.
-- **WLD·SAHARA** 재반등이 나와도 지금은 먼저 의심하는 편이 낫습니다.
+- **공포탐욕 12**는 여전히 낮아 메이저 반등이 하루짜리일 가능성을 열어둬야 합니다.
+- **ID**는 유일한 recovery beta라 가장 먼저 흔들릴 수 있습니다.
+- **ASTR**는 가장 강하지만 이미 많이 올라 첫 번째 무효화 관리가 중요합니다.
+- **XLM**은 깨끗하지만 폭발력은 ASTR·KAT보다 낮을 수 있습니다.
+- **WLD·SAHARA**는 대금 1위권이어도 아직 trap 해석이 우선입니다.

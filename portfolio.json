@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 1071709.736301652,
-  "realized_pnl_krw": -6559992.49098131,
-  "last_valuation_krw": 3572365.787672173,
-  "last_action": "WEAK_BREADTH_SURVIVOR_RESET_KEEP_WLFI_ADD_IO_CC_CFG_FLUID",
-  "last_updated": "2026-06-11T03:49:00+09:00",
-  "trade_count": 646,
+  "cash_krw": 523888.77442253125,
+  "realized_pnl_krw": -6636457.97368853,
+  "last_valuation_krw": 3492591.829483536,
+  "last_action": "BREADTH_FLIP_REDEPLOY_85_ASTR_KAT_XLM_ZETA_ID",
+  "last_updated": "2026-06-11T09:49:00+09:00",
+  "trade_count": 656,
   "positions": {
-    "WLFI": {
-      "market": "KRW-WLFI",
-      "amount": 5514.125802360575,
-      "avg_buy_price_krw": 90.1,
-      "last_price_krw": 90.7,
-      "value_krw": 500131.2102741042,
-      "thesis": "WLFI는 90.7원, +10.61%, 107.3억원 대금, 77.8% 위치로 약한 장에서도 상단 체류를 지킨 유일한 attention survivor입니다.",
-      "strategy": "attention survivor hold",
-      "role": "attention survivor core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
+    "ASTR": {
+      "market": "KRW-ASTR",
+      "amount": 59374.061101220104,
+      "avg_buy_price_krw": 10.0,
+      "last_price_krw": 10.0,
+      "value_krw": 593740.611012201,
+      "thesis": "ASTR는 10.0원, +23.30%, 100.0억원 대금, 86.2% 위치로 이번 회차 가장 강한 순수 breakout 코어입니다.",
+      "strategy": "fresh breakout core",
+      "role": "fresh breakout core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 14
     },
-    "IO": {
-      "market": "KRW-IO",
-      "amount": 1838.7176848312654,
-      "avg_buy_price_krw": 272.0,
-      "last_price_krw": 272.0,
-      "value_krw": 500131.2102741042,
-      "thesis": "IO는 272원, +11.02%, 32.2억원 대금, 100% 위치로 오늘 보드에서 가장 깨끗한 fresh breakout입니다.",
-      "strategy": "clean breakout probe",
-      "role": "clean breakout",
+    "KAT": {
+      "market": "KRW-KAT",
+      "amount": 55489.77673011225,
+      "avg_buy_price_krw": 10.7,
+      "last_price_krw": 10.7,
+      "value_krw": 593740.611012201,
+      "thesis": "KAT는 10.7원, +4.90%, 189.6억원 대금, 83.3% 위치로 고가 유지와 유동성이 동시에 살아 있는 메인 공격축입니다.",
+      "strategy": "liquid breakout leader",
+      "role": "liquid breakout leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 11
     },
-    "CC": {
-      "market": "KRW-CC",
-      "amount": 1916.2115336172574,
-      "avg_buy_price_krw": 261.0,
-      "last_price_krw": 261.0,
-      "value_krw": 500131.2102741042,
-      "thesis": "CC는 261원, +4.82%, 56.7억원 대금, 60.9% 위치로 급락장 속에서도 mid-range를 지킨 균형형 survivor입니다.",
-      "strategy": "quality survivor anchor",
-      "role": "quality survivor",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8
-    },
-    "CFG": {
-      "market": "KRW-CFG",
-      "amount": 1695.360034827472,
-      "avg_buy_price_krw": 295.0,
-      "last_price_krw": 295.0,
-      "value_krw": 500131.2102741042,
-      "thesis": "CFG는 295원, +0.68%, 27.6억원 대금, 76.9% 위치로 소음이 적고 상단 체류가 깨끗한 continuation입니다.",
-      "strategy": "low-noise continuation",
-      "role": "low-noise continuation",
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 2135.7575935690684,
+      "avg_buy_price_krw": 278.0,
+      "last_price_krw": 278.0,
+      "value_krw": 593740.611012201,
+      "thesis": "XLM은 278원, +1.09%, 345.5억원 대금, 80.0% 위치로 breadth 회복장에서 가장 읽기 쉬운 고유동성 continuation입니다.",
+      "strategy": "high-liquidity continuation",
+      "role": "high-liquidity continuation",
       "risk_limit_pct": 4,
       "profit_take_pct": 7
     },
-    "FLUID": {
-      "market": "KRW-FLUID",
-      "amount": 277.8506723745023,
-      "avg_buy_price_krw": 1800.0,
-      "last_price_krw": 1800.0,
-      "value_krw": 500131.2102741042,
-      "thesis": "FLUID는 1,800원, +10.97%, 77.7억원 대금, 53.6% 위치로 gap은 넓지만 아직 대금이 살아 있는 제한적 공격 베타 슬롯입니다.",
-      "strategy": "controlled reclaim beta",
-      "role": "controlled reclaim beta",
+    "ZETA": {
+      "market": "KRW-ZETA",
+      "amount": 10097.629438983011,
+      "avg_buy_price_krw": 58.8,
+      "last_price_krw": 58.8,
+      "value_krw": 593740.611012201,
+      "thesis": "ZETA는 58.8원, +7.89%, 61.0억원 대금, 78.0% 위치로 과열 없이 재가속한 중형 breakout입니다.",
+      "strategy": "mid-cap reacceleration",
+      "role": "mid-cap reacceleration",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
+    },
+    "ID": {
+      "market": "KRW-ID",
+      "amount": 13524.84307544877,
+      "avg_buy_price_krw": 43.9,
+      "last_price_krw": 43.9,
+      "value_krw": 593740.611012201,
+      "thesis": "ID는 43.9원, +10.30%, 380.4억원 대금, 69.0% 위치로 이번 회차 최대 비메이저 대금이 다시 붙은 공격 베타 회복주입니다.",
+      "strategy": "high-turnover recovery beta",
+      "role": "high-turnover recovery beta",
       "risk_limit_pct": 6,
       "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
-      "symbol": "CPOOL",
-      "market": "KRW-CPOOL",
-      "reason": "+2.06%, 25.8억원 대금, 77.8% 위치로 FLUID보다 더 깨끗한 다음 승격 후보입니다."
-    },
-    {
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "+19.81%, 42.2억원 대금, 65.6% 위치지만 -7.97% gap이라 follow-through 확인이 더 필요합니다."
-    },
-    {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "+14.21%, 299.3억원 대금이지만 52.2% 위치와 -11.64% gap라 지금은 exhausted reclaim으로 봅니다."
-    },
-    {
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "+8.60%, 203.9억원 대금, 51.8% 위치로 잔존 대금은 좋지만 상단 복귀가 부족합니다."
-    },
-    {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "+42.4%, 690.0억원 대금이어도 -19.46% gap라 late chase 금지입니다."
-    },
-    {
-      "symbol": "BLEND",
-      "market": "KRW-BLEND",
-      "reason": "+30.86%, 364.3억원 대금이어도 -17.19% gap라 소진 신호가 더 큽니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "-11.30%, 1,319.7억원 대금, 10.9% 위치로 mega reclaim이 하루 만에 turnover trap으로 되돌아갔습니다."
+      "symbol": "WAL",
+      "market": "KRW-WAL",
+      "reason": "+0.84%, 108.0억원 대금, 90.9% 위치로 preferred 탈락이 아까운 매우 깨끗한 continuation 후보입니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "-0.80%, 100.8억원 대금, 26.2% 위치로 체급은 있으나 현재는 앵커 역할을 상실했습니다."
+      "reason": "+0.82%, 113.9억원 대금, 78.6% 위치로 체급형 반등이 살아 있어 다음 승격 후보입니다."
+    },
+    {
+      "symbol": "MOVE",
+      "market": "KRW-MOVE",
+      "reason": "+1.59%, 159.9억원 대금, 71.4% 위치로 무난하지만 preferred 5종보다 탄력이 약해 한 단계 아래입니다."
+    },
+    {
+      "symbol": "MANTRA",
+      "market": "KRW-MANTRA",
+      "reason": "+1.75%, 111.2억원 대금, 80.0% 위치로 조용한 continuation이지만 대금 임팩트는 ID보다 약합니다."
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "+1.75%, 85.9억원 대금, 72.7% 위치로 follow-through는 좋지만 우선순위는 ZETA 아래입니다."
+    },
+    {
+      "symbol": "IO",
+      "market": "KRW-IO",
+      "reason": "+2.39%, 31.7억원 대금, 66.7% 위치로 구조는 살아 있으나 더 강한 fresh 80%+ 보드에 밀렸습니다."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "+3.71%, 65.6억원 대금, 80.0% 위치로 무난한 2선 continuation입니다."
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "+0.80%, 201.9억원 대금, 100% 위치지만 이번 회차는 메이저 참고 성격이 더 커 preferred에서는 제외했습니다."
     }
   ],
   "history": [
@@ -5926,6 +5926,96 @@
       "amount_delta": 277.8506723745023,
       "cash_delta_krw": -500131.2102741042,
       "reason": "FLUID는 1,800원, +10.97%, 77.7억원 대금, 53.6% 위치로 gap은 넓지만 아직 대금이 살아 있는 제한적 공격 베타 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "WLFI",
+      "action": "SELL",
+      "price_krw": 89.2,
+      "amount_delta": -5514.125802360575,
+      "cash_delta_krw": 491860.0215705633,
+      "reason": "43.8% 위치로 breadth-flip 톱5 우선순위에서 밀려 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "IO",
+      "action": "SELL",
+      "price_krw": 257.0,
+      "amount_delta": -1838.7176848312654,
+      "cash_delta_krw": 472550.4450016352,
+      "reason": "구조는 살아 있지만 더 큰 유동성의 KAT로 상향 교체"
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "CC",
+      "action": "SELL",
+      "price_krw": 257.0,
+      "amount_delta": -1916.2115336172574,
+      "cash_delta_krw": 492466.3641396351,
+      "reason": "survivor 역할 종료, XLM continuation으로 회전"
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "CFG",
+      "action": "SELL",
+      "price_krw": 300.0,
+      "amount_delta": -1695.360034827472,
+      "cash_delta_krw": 508608.0104482416,
+      "reason": "깨끗했지만 ZETA의 재가속 탄력이 더 강해 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "FLUID",
+      "action": "SELL",
+      "price_krw": 1639.0,
+      "amount_delta": -277.8506723745023,
+      "cash_delta_krw": 455397.2520218093,
+      "reason": "34.2% 위치로 직전 reclaim 가정이 무효화돼 전량 정리"
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "ASTR",
+      "action": "BUY",
+      "price_krw": 10.0,
+      "amount_delta": 59374.061101220104,
+      "cash_delta_krw": -593740.611012201,
+      "reason": "ASTR는 10.0원, +23.30%, 100.0억원 대금, 86.2% 위치로 이번 회차 가장 강한 순수 breakout 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "KAT",
+      "action": "BUY",
+      "price_krw": 10.7,
+      "amount_delta": 55489.77673011225,
+      "cash_delta_krw": -593740.611012201,
+      "reason": "KAT는 10.7원, +4.90%, 189.6억원 대금, 83.3% 위치로 고가 유지와 유동성이 동시에 살아 있는 메인 공격축입니다."
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 278.0,
+      "amount_delta": 2135.7575935690684,
+      "cash_delta_krw": -593740.611012201,
+      "reason": "XLM은 278원, +1.09%, 345.5억원 대금, 80.0% 위치로 breadth 회복장에서 가장 읽기 쉬운 고유동성 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "ZETA",
+      "action": "BUY",
+      "price_krw": 58.8,
+      "amount_delta": 10097.629438983011,
+      "cash_delta_krw": -593740.611012201,
+      "reason": "ZETA는 58.8원, +7.89%, 61.0억원 대금, 78.0% 위치로 과열 없이 재가속한 중형 breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-11T09:49:00+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 43.9,
+      "amount_delta": 13524.84307544877,
+      "cash_delta_krw": -593740.611012201,
+      "reason": "ID는 43.9원, +10.30%, 380.4억원 대금, 69.0% 위치로 이번 회차 최대 비메이저 대금이 다시 붙은 공격 베타 회복주입니다."
     }
   ]
 }
