@@ -1,75 +1,74 @@
-- 시각: 2026-06-11 09:49 KST
-- 기준 한줄: **메이저 평균 위치 87.7%(+52.0%p)**, **fresh breakout 5**, **실투입률 85%**. 이번 회차는 **survivor 방어 종료 → ASTR·KAT·XLM·ZETA·ID 재공격**입니다.
-- 시장 한줄 요약: 메이저 4종이 모두 양전이며 상단 복귀가 확인됐습니다. **WLD·SAHARA 함정은 남아 있지만 clean breakout 보드는 다시 살아났습니다.**
+- 시각: 2026-06-11 15:49 KST
+- 기준 한줄: **메이저 평균 위치 84.8%**, **fresh breakout 2**, **실투입률 85%**, **유지 2 / 교체 3**. 이번 회차는 **KAT·ASTR 추격 종료 → WLD·ID·ONDO·NEAR·XLM 재편**입니다.
+- 시장 한줄 요약: 메이저 4종 강세는 유지되지만 오전 breakout 보드는 식었습니다. **오후엔 WLD mega reclaim + ID·ONDO·NEAR·XLM continuation 보드가 더 깔끔합니다.**
 - 공포탐욕지수: 12 (Extreme Fear, Alternative.me)
-- BTC 참고: BTC 93.145M원대 / ETH 2.454M원대 / XRP 1,661원대 / SOL 96.0K원대
+- BTC 참고: BTC 94.378M원대 / ETH 2.488M원대 / XRP 1,679원대 / SOL 97.95K원대
 
 ## 🧭 업비트 알트 톱5 구매 희망 후보
-1. 🌟 **ASTR** — 10.0원, **+23.30%**, 24h 대금 약 **100.0억원**, 위치 **86.2%**  
-   → **fresh breakout core**
-2. 🐱 **KAT** — 10.7원, **+4.90%**, 24h 대금 약 **189.6억원**, 위치 **83.3%**  
-   → **liquid breakout leader**
-3. ✨ **XLM** — 278원, **+1.09%**, 24h 대금 약 **345.5억원**, 위치 **80.0%**  
-   → **high-liquidity continuation**
-4. 🟣 **ZETA** — 58.8원, **+7.89%**, 24h 대금 약 **61.0억원**, 위치 **78.0%**  
-   → **mid-cap reacceleration**
-5. 🆔 **ID** — 43.9원, **+10.30%**, 24h 대금 약 **380.4억원**, 위치 **69.0%**  
-   → **high-turnover recovery beta**
+1. 🌍 **WLD** — 708원, **+4.12%**, 24h 대금 약 **1,244.8억원**, 위치 **82.2%**  
+   → **mega reclaim attention core**
+2. 🆔 **ID** — 51.0원, **+28.14%**, 24h 대금 약 **599.2억원**, 위치 **88.9%**  
+   → **high-beta continuation core**
+3. 🌐 **ONDO** — 522원, **+3.98%**, 24h 대금 약 **313.9억원**, 위치 **95.5%**  
+   → **fresh breakout liquid core**
+4. 🌉 **NEAR** — 3,100원, **+4.55%**, 24h 대금 약 **203.1억원**, 위치 **86.8%**  
+   → **large-cap continuation**
+5. ✨ **XLM** — 288원, **+4.73%**, 24h 대금 약 **333.4억원**, 위치 **77.8%**  
+   → **liquidity anchor continuation**
 
 ## 🪙 제외된 메이저 참고 신호
-- ₿ BTC: **+0.59%**, 위치 **86.1%**
-- ◆ ETH: **+0.57%**, 위치 **73.7%**
-- 💧 XRP: **+0.54%**, 위치 **90.9%**
-- ☀️ SOL: **+0.89%**, 위치 **100.0%**
-- 해석: **4/4 메이저 동시 회복**이라 이번엔 방어보다 재공격이 우선입니다.
+- ₿ BTC: **+1.92%**, 위치 **89.3%**
+- ◆ ETH: **+1.97%**, 위치 **82.8%**
+- 💧 XRP: **+1.63%**, 위치 **77.8%**
+- ☀️ SOL: **+2.94%**, 위치 **89.2%**
+- 해석: 메이저는 계속 강합니다. 다만 **알트는 fresh 5 → fresh 2로 식어, 무조건 오전 리더를 붙잡기보다 품질 continuation으로 갈아타는 편이 낫습니다.**
 
 ## 🚀 공격 포트폴리오 전략
-- 현금 **15%**, **ASTR·KAT·XLM·ZETA·ID 각 17%**
-- 구조는 **fresh 2 + continuation 2 + recovery 1**
-- 5개 중 **4개를 78~86% 상단 체류군**으로 채워 breadth-flip 규칙에 맞췄습니다.
-- 기존 **WLFI·IO·CC·CFG·FLUID 전량 교체**
+- 현금 **15%**, **WLD·ID·ONDO·NEAR·XLM 각 17%**
+- 구조는 **mega reclaim 1 + high-beta continuation 1 + quality continuation 3**
+- **WLD 1개만 attention slot**으로 두고, 나머지는 대형/고유동성 continuation으로 안정성을 보강했습니다.
+- 오전 고점 이탈이 커진 **ASTR·KAT·ZETA는 제거**했습니다.
 
 ## ✅ 가상 매매 실행 내용
-- **SELL** WLFI / IO / CC / CFG / FLUID 전량 정리
-- **BUY** ASTR / KAT / XLM / ZETA / ID 신규 편입
-- 실질 변화: **survivor-heavy reset → breadth-flip breakout basket**
-- 핵심 판단 변화: **메이저 87.7% 회복과 fresh breakout 5를 실제로 반영**
+- **SELL** ASTR / KAT / XLM / ZETA / ID 전량 정리 후 새 가격 기준 재편
+- **BUY** WLD / ID / ONDO / NEAR / XLM 편입
+- 실질 변화: **유지 2(XLM·ID) / 교체 3(ASTR→WLD, KAT→ONDO, ZETA→NEAR)**
+- 핵심 판단 변화: **same-day blowoff 버리기 + mega reclaim/continuation 채택**
 
 ## 📦 현재 포트폴리오 현황
-- 현금: **523,889원**
-- 총 평가액: **3,492,592원**
-- 실현손익: **-6,636,458원**
-- 누적 수익률: **-65.07%**
-- ASTR: **59,374.061개** @ 10.0원
-- KAT: **55,489.777개** @ 10.7원
-- XLM: **2,135.758개** @ 278원
-- ZETA: **10,097.629개** @ 58.8원
-- ID: **13,524.843개** @ 43.9원
+- 현금: **529,171원**
+- 총 평가액: **3,527,810원**
+- 실현손익: **-6,601,240원**
+- 누적 수익률: **-64.72%**
+- WLD: **847.073개** @ 708원
+- ID: **11759.365개** @ 51.0원
+- ONDO: **1148.903개** @ 522원
+- NEAR: **193.461개** @ 3,100원
+- XLM: **2082.388개** @ 288원
 
 ## 🧠 자기 평가
-- 03:49 회차의 **손상 방어**는 맞았지만, **09:49 회차 breadth-flip 수용은 늦었습니다.**
-- 메이저 4종이 동시에 상단으로 붙었으면 survivor를 더 오래 끌 이유가 약했습니다.
-- 이번엔 그 지연을 인정하고 **5종 전량 교체 + 85% 재투입**으로 수정했습니다.
+- 09:49 회차의 breadth-flip 재공격은 맞았지만, **ASTR·KAT의 same-day 고점 이탈을 더 빨리 잘라야 했습니다.**
+- 이번엔 상승률 숫자보다 **현재 위치와 day-high-gap**을 우선해 고쳐 잡았습니다.
+- 특히 **WLD mega reclaim 강제 편입**은 기존 `former trap 재진입` 규칙을 실제로 적용한 케이스입니다.
 
 ## 🛠️ 이번 사이클 개선점
-- **PROJECT.md**에 `major avg 80↑ + fresh breakout 5↑` 시 **총투입 85% / preferred 5개 중 4개 이상 80%+** 규칙을 추가했습니다.
-- **dashboard 아이콘**에 **ASTR(🌟), ZETA(🟣)** 를 추가했습니다.
-- 보고서 상단에 **메이저 평균 위치 Δ / fresh breakout 수 / 실투입률**을 넣어 장 전환 감지를 더 빨리 읽히게 바꿨습니다.
+- **PROJECT.md**에 `메이저 80↑ 유지 + fresh breakout 2↓`일 때 **day-high-gap -8% 이하 / range 60% 미만 보유주 강제 교체** 규칙을 추가했습니다.
+- 보고서 상단에 **유지 2 / 교체 3**를 넣어 포트폴리오 변화량을 더 빨리 읽히게 바꿨습니다.
+- watchlist 이유를 **승격 후보 / 재추격 금지 감시**가 구분되도록 더 직접적으로 정리했습니다.
 
 ## 🧾 판단
-- aggressive breadth-flip long with 85% deployment into ASTR KAT XLM ZETA ID
+- aggressive mega-reclaim plus continuation long with 85% deployment into WLD ID ONDO NEAR XLM
 
 ## 🎯 신뢰도
 - medium-high
 
 ## 👉 추천 행동
-- **BTC 92.6M / ASTR 9.4 / KAT 10.3 / XLM 275 / ZETA 56.8 / ID 41.8** 하향 시 즉시 재평가
-- **WAL·SUI·MOVE**는 다음 승격 후보군으로 유지
-- **WLD·SAHARA·B3·BLEND**는 지금도 대금보다 구조가 약해 추격 금지입니다.
+- **BTC 93.8M / WLD 689 / ID 47.8 / ONDO 513 / NEAR 3,020 / XLM 282** 하향 시 즉시 재평가
+- **SUI·FLUID**는 다음 승격 후보군 유지
+- **KAT·ASTR**는 반등해도 지금은 고점 이탈 복구 확인 전까지 재추격 금지
 
 ## ⚠️ 리스크 메모
-- **공포탐욕 12**는 여전히 낮아 메이저 반등이 하루짜리일 가능성을 열어둬야 합니다.
-- **ID**는 유일한 recovery beta라 가장 먼저 흔들릴 수 있습니다.
-- **ASTR**는 가장 강하지만 이미 많이 올라 첫 번째 무효화 관리가 중요합니다.
-- **XLM**은 깨끗하지만 폭발력은 ASTR·KAT보다 낮을 수 있습니다.
-- **WLD·SAHARA**는 대금 1위권이어도 아직 trap 해석이 우선입니다.
+- **공포탐욕 12**는 그대로라 overnight 리스크를 무시하면 안 됩니다.
+- **WLD**는 초대금 leader라 성과도 크지만, attention 과열이 다시 붙으면 변동성도 커질 수 있습니다.
+- **ID**는 오늘 가장 강하지만 과열 해소가 시작되면 가장 먼저 흔들릴 수 있습니다.
+- **SAHARA·STRAX·B3·BLEND** 같은 함정 보드는 거래대금이 커도 지금은 배제 유지입니다.
