@@ -73,6 +73,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When top15 non-major positives shrink to 2 or fewer and major average range-position drops below roughly 10, keep 5 preferred candidates but cap actual portfolio deployment around 60% until breadth recovers
 - When top15 non-major positives shrink to 3 or fewer and 3개 이상 held preferred names simultaneously turn negative or break invalidation, force the next cycle portfolio into all-positive candidates where possible and trim actual deployment toward roughly 70-75% instead of defending the broken basket
 - When major average range-position rebounds above roughly 60 while 2개 이상 held preferred names are still below roughly 20% of the day range or more than 15% below the intraday high, force a full anti-trap rotation into cleaner 75%+ continuation/breakout names on the next cycle instead of defending the broken basket
+- When a prior beta-upgrade cycle cools fast and major average range-position slips below roughly 65 while 2개 이상 held beta names fall below roughly 50% of the day range or turn negative, force those beta slots out next cycle and refill with 60%+ liquid survivors/reclaimed leaders plus at most 1 fresh breakout instead of defending the failed acceleration basket
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:

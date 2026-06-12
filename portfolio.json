@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 542688.8775114478,
-  "realized_pnl_krw": -6511123.953095747,
-  "last_valuation_krw": 3617925.8500763187,
-  "last_action": "BREADTH_FLIP_85_WLD_ID_ONDO_ENA_PYTH",
-  "last_updated": "2026-06-12T03:49:00+09:00",
-  "trade_count": 686,
+  "cash_krw": 729031.3254630547,
+  "realized_pnl_krw": -6483893.175856792,
+  "last_valuation_krw": 3645156.6273152735,
+  "last_action": "COOLING_REBALANCE_80_WLD_ONDO_XLM_SOPH_ZETA",
+  "last_updated": "2026-06-12T09:49:00+09:00",
+  "trade_count": 696,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 811.4081721807047,
-      "avg_buy_price_krw": 758.0,
-      "last_price_krw": 758.0,
-      "value_krw": 615047.3945129742,
-      "thesis": "WLD는 758원, +11.47%, 1,392.7억원 대금, 82.9% 위치로 부정 헤드라인을 무시하고 업비트 최상위 자금이 계속 붙는 핵심 attention 리더입니다.",
-      "strategy": "mega reclaim attention leader",
-      "role": "mega reclaim attention leader",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12
-    },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 11474.76482300325,
-      "avg_buy_price_krw": 53.6,
-      "last_price_krw": 53.6,
-      "value_krw": 615047.3945129742,
-      "thesis": "ID는 53.6원, +34.67%, 944.2억원 대금, 85.4% 위치로 새벽 기준 가장 빠른 한국 리테일 고베타 지속형입니다.",
-      "strategy": "retail high-beta continuation",
-      "role": "retail high-beta continuation",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 14
+      "amount": 770.4426160772044,
+      "avg_buy_price_krw": 757.0,
+      "last_price_krw": 757.0,
+      "value_krw": 583225.0603704437,
+      "thesis": "WLD는 757원, +1.34%, 1,336.5억원 대금, 68.4% 위치로 오전에도 최상위 attention·유동성을 동시에 유지하는 유일한 코어입니다.",
+      "strategy": "mega reclaim attention core",
+      "role": "mega reclaim attention core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 1147.476482300325,
-      "avg_buy_price_krw": 536.0,
-      "last_price_krw": 536.0,
-      "value_krw": 615047.3945129742,
-      "thesis": "ONDO는 536원, +6.77%, 281.8억원 대금, 83.3% 위치로 대형 알트 중 가장 읽기 쉬운 기관서사형 breakout입니다.",
-      "strategy": "institutional-liquidity breakout",
-      "role": "institutional-liquidity breakout",
+      "amount": 1056.567138352253,
+      "avg_buy_price_krw": 552.0,
+      "last_price_krw": 552.0,
+      "value_krw": 583225.0603704437,
+      "thesis": "ONDO는 552원, +0.55%, 280.0억원 대금, 62.5% 위치로 과열이 꺼진 오전장에서도 가장 읽기 쉬운 기관/RWA 생존축입니다.",
+      "strategy": "rwa liquidity reclaim",
+      "role": "rwa liquidity reclaim",
       "risk_limit_pct": 4,
-      "profit_take_pct": 9
+      "profit_take_pct": 8
     },
-    "ENA": {
-      "market": "KRW-ENA",
-      "amount": 5256.815337717728,
-      "avg_buy_price_krw": 117.0,
-      "last_price_krw": 117.0,
-      "value_krw": 615047.3945129742,
-      "thesis": "ENA는 117원, +7.34%, 90.3억원 대금, 90.0% 위치로 기존 survivor보다 더 공격적인 breadth 확장 슬롯입니다.",
-      "strategy": "beta breadth-upgrade",
-      "role": "beta breadth-upgrade",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 2018.0797936693555,
+      "avg_buy_price_krw": 289.0,
+      "last_price_krw": 289.0,
+      "value_krw": 583225.0603704437,
+      "thesis": "XLM은 289원, +0.35%, 257.6억원 대금, 66.7% 위치로 오전장 survivor 중 유동성과 체류 품질이 가장 균형적입니다.",
+      "strategy": "liquid survivor anchor",
+      "role": "liquid survivor anchor",
+      "risk_limit_pct": 3,
+      "profit_take_pct": 7
     },
-    "PYTH": {
-      "market": "KRW-PYTH",
-      "amount": 11182.679900235895,
-      "avg_buy_price_krw": 55.0,
-      "last_price_krw": 55.0,
-      "value_krw": 615047.3945129742,
-      "thesis": "PYTH는 55.0원, +17.52%, 119.1억원 대금, 91.1% 위치로 새벽에 가장 깔끔한 추가 베타 breakout 후보입니다.",
-      "strategy": "oracle breakout beta",
-      "role": "oracle breakout beta",
+    "SOPH": {
+      "market": "KRW-SOPH",
+      "amount": 59879.3696478895,
+      "avg_buy_price_krw": 9.74,
+      "last_price_krw": 9.74,
+      "value_krw": 583225.0603704437,
+      "thesis": "SOPH는 9.74원, +18.78%, 81.4억원 대금, 91.3% 위치로 업비트 상장 후속 모멘텀이 오전에도 가장 깔끔하게 남은 fresh breakout입니다.",
+      "strategy": "fresh listing breakout",
+      "role": "fresh listing breakout",
       "risk_limit_pct": 6,
-      "profit_take_pct": 13
+      "profit_take_pct": 14
+    },
+    "ZETA": {
+      "market": "KRW-ZETA",
+      "amount": 9529.821247883066,
+      "avg_buy_price_krw": 61.2,
+      "last_price_krw": 61.2,
+      "value_krw": 583225.0603704437,
+      "thesis": "ZETA는 61.2원, +7.75%, 72.5억원 대금, 81.8% 위치로 오전 중형 알트 중 follow-through 구조가 가장 깔끔한 베타 슬롯입니다.",
+      "strategy": "high-beta continuation",
+      "role": "high-beta continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "289원, +5.09%, 265.1억원 대금, 83.3% 위치로 유동성은 충분해 재편입 대기 1순위입니다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "96.7억원급 대금은 압도적이지만 45.2% 위치라 재상단 회복 확인이 먼저입니다."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "1,144원, +4.47%, 93.4억원 대금, 82.3% 위치라 구조는 좋지만 이번 회차는 ENA·PYTH보다 베타가 약했습니다."
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "reason": "+9.91%, 73.7% 위치, 68.0억원 대금으로 재편입 후보 1순위입니다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3,092원, +4.28%, 195.1억원 대금, 82.5% 위치로 대형 L1 대체 후보입니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "881원, +7.83%, 41.3억원 대금, 92.9% 위치로 중형 attention continuation 감시 대상입니다."
-    },
-    {
-      "symbol": "PENGU",
-      "market": "KRW-PENGU",
-      "reason": "10.3원, +7.29%, 45.0억원 대금, 88.1% 위치로 밈/NFT 베타 보조 슬롯입니다."
-    },
-    {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "254원, +4.96%, 67.1억원 대금, 76.5% 위치로 품질은 좋지만 확장 속도는 한 단계 느립니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "100% 위치와 175.6억원 대금으로 강하지만 이번 회차는 메이저 참고 성격을 더 크게 봤습니다."
     },
     {
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "reason": "98.9원, +7.38%, 49.8억원 대금, 75.6% 위치로 후속 순환 후보입니다."
+      "reason": "+1.77%, 60.0% 위치, 69.3억원 대금으로 보조 survivor 슬롯입니다."
+    },
+    {
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "63.6% 위치와 37.1억원 대금으로 AI/attention 보조 감시 대상입니다."
     },
     {
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "reason": "24.4원, -3.17%, 519.4억원 대금인데 38.7% 위치라 아직 대금 함정 감시가 우선입니다."
+      "reason": "대금은 크지만 음전 상태라 오전에는 추격보다 재양전환 확인이 우선입니다."
+    },
+    {
+      "symbol": "PYTH",
+      "market": "KRW-PYTH",
+      "reason": "바이백 뉴스는 좋지만 12.5% 위치까지 눌려 오늘은 복구 확인 전까지 제외합니다."
+    },
+    {
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "0% 변동에 50% 위치라 베타 슬롯 유지 명분이 약해졌습니다."
     }
   ],
   "history": [
@@ -6286,6 +6286,96 @@
       "amount_delta": 11182.679900235895,
       "cash_delta_krw": -615047.3945129742,
       "reason": "PYTH는 55.0원, +17.52%, 119.1억원 대금, 91.1% 위치로 새벽에 가장 깔끔한 추가 베타 breakout 후보입니다."
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 757.0,
+      "amount_delta": -811.4081721807047,
+      "cash_delta_krw": 614235.9863407934,
+      "reason": "과열 둔화 국면에서 09:49 가격 기준 5종 80% 재분산을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 51.9,
+      "amount_delta": -11474.76482300325,
+      "cash_delta_krw": 595540.2943138686,
+      "reason": "초대금은 남아도 45.2% stalled-liquidity라 liquid survivor XLM으로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 552.0,
+      "amount_delta": -1147.476482300325,
+      "cash_delta_krw": 633407.0182297793,
+      "reason": "핵심 코어는 유지하되 09:49 가격 기준 5종 80% 재분산을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "ENA",
+      "action": "SELL",
+      "price_krw": 120.0,
+      "amount_delta": -5256.815337717728,
+      "cash_delta_krw": 630817.8405261274,
+      "reason": "0%·50% 위치로 beta-upgrade 명분이 약해져 fresh breakout SOPH로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "PYTH",
+      "action": "SELL",
+      "price_krw": 56.2,
+      "amount_delta": -11182.679900235895,
+      "cash_delta_krw": 628466.6103932573,
+      "reason": "바이백 뉴스에도 12.5% 위치까지 붕괴해 ZETA continuation 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 757.0,
+      "amount_delta": 770.4426160772044,
+      "cash_delta_krw": -583225.0603704437,
+      "reason": "WLD는 757원, +1.34%, 1,336.5억원 대금, 68.4% 위치로 오전 attention 코어를 유지합니다."
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 552.0,
+      "amount_delta": 1056.567138352253,
+      "cash_delta_krw": -583225.0603704437,
+      "reason": "ONDO는 552원, +0.55%, 280.0억원 대금, 62.5% 위치로 기관/RWA 생존축 역할이 가장 명확합니다."
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 289.0,
+      "amount_delta": 2018.0797936693555,
+      "cash_delta_krw": -583225.0603704437,
+      "reason": "XLM은 289원, +0.35%, 257.6억원 대금, 66.7% 위치로 오전 liquid survivor 앵커입니다."
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "SOPH",
+      "action": "BUY",
+      "price_krw": 9.74,
+      "amount_delta": 59879.3696478895,
+      "cash_delta_krw": -583225.0603704437,
+      "reason": "SOPH는 9.74원, +18.78%, 91.3% 위치로 상장 후속 fresh breakout이 가장 선명합니다."
+    },
+    {
+      "timestamp": "2026-06-12T09:49:00+09:00",
+      "symbol": "ZETA",
+      "action": "BUY",
+      "price_krw": 61.2,
+      "amount_delta": 9529.821247883066,
+      "cash_delta_krw": -583225.0603704437,
+      "reason": "ZETA는 61.2원, +7.75%, 81.8% 위치로 오전 중형 continuation 슬롯 중 가장 공격적입니다."
     }
   ]
 }
