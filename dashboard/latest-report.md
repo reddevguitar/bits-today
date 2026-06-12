@@ -1,74 +1,74 @@
-- 시각: 2026-06-12 09:49 KST
-- 기준 한줄: **메이저 평균 위치 60.9% (87.0→60.9)**, **실투입률 80%**, **유지 2 / 교체 3**, 이번 회차는 **cooling rebalance(ID·ENA·PYTH → XLM·SOPH·ZETA)** 입니다.
-- 시장 한줄 요약: 메이저는 양봉이지만 과열은 식었습니다. 지금은 **WLD·ONDO 코어 유지 + XLM 방어 + SOPH·ZETA 공격**이 더 낫습니다.
+- 시각: 2026-06-12 15:49 KST
+- 기준 한줄: **메이저 평균 위치 18.1%**, **실전 녹색 3개(XPL·WAVES·PROS)**, **실투입률 70%**, 이번 회차는 **narrow-tape rebalance(ONDO·XLM·ZETA → XPL·WAVES·PROS)** 입니다.
+- 시장 한줄 요약: 메이저가 같이 눌리면서 넓은 알트 장은 아닙니다. 지금은 **실제 녹색 생존주 우선 + attention 코어 최소 유지**가 맞습니다.
 - 공포탐욕지수: 12 (Extreme Fear, Alternative.me)
-- BTC 참고: BTC 95.752M원대 / ETH 2.520M원대 / XRP 1,718원대 / SOL 100.8K원대
+- BTC 참고: BTC 94.838M원대 / ETH 2.496M원대 / XRP 1,701원대 / SOL 99.7K원대
 
 ## 🧭 업비트 알트 톱5 구매 희망 후보
-1. 🌍 **WLD** — 757원, **+1.34%**, 24h 대금 약 **1,336.5억원**, 위치 **68.4%**  
-   → **mega reclaim attention core**
-2. 🌐 **ONDO** — 552원, **+0.55%**, 24h 대금 약 **280.0억원**, 위치 **62.5%**  
-   → **rwa liquidity reclaim**
-3. ✨ **XLM** — 289원, **+0.35%**, 24h 대금 약 **257.6억원**, 위치 **66.7%**  
-   → **liquid survivor anchor**
-4. 🆕 **SOPH** — 9.74원, **+18.78%**, 24h 대금 약 **81.4억원**, 위치 **91.3%**  
-   → **fresh listing breakout**
-5. 🟣 **ZETA** — 61.2원, **+7.75%**, 24h 대금 약 **72.5억원**, 위치 **81.8%**  
-   → **high-beta continuation**
+1. 🧪 **XPL** — 127.0원, **+12.39%**, 24h 대금 약 **141.7억원**, 위치 **78.9%**  
+   → **clean turnover continuation**
+2. 🌊 **WAVES** — 472.0원, **+22.28%**, 24h 대금 약 **42.7억원**, 위치 **93.8%**  
+   → **secondary breakout leader**
+3. 🆕 **SOPH** — 8.96원, **+9.27%**, 24h 대금 약 **220.1억원**, 위치 **44.6%**  
+   → **listing momentum survivor**
+4. 🌍 **WLD** — 749.0원, **+0.27%**, 24h 대금 약 **1345.5억원**, 위치 **45.2%**  
+   → **attention liquidity core**
+5. 🧱 **PROS** — 856.0원, **+2.76%**, 24h 대금 약 **30.5억원**, 위치 **71.4%**  
+   → **mid-cap resilient green**
 
 ## 🪙 제외된 메이저 참고 신호
-- ₿ BTC: **+0.13%**, 위치 **53.2%**
-- ◆ ETH: **+0.12%**, 위치 **57.1%**
-- 💧 XRP: **+0.06%**, 위치 **66.7%**
-- ☀️ SOL: **+0.30%**, 위치 **66.7%**
-- 해석: 방향은 안 꺾였지만, **03:49처럼 전면 추격할 정도의 과열은 아닙니다.**
+- ₿ BTC: **-0.82%**, 위치 **18.0%**
+- ◆ ETH: **-0.83%**, 위치 **21.1%**
+- 💧 XRP: **-0.93%**, 위치 **12.9%**
+- ☀️ SOL: **-0.85%**, 위치 **20.6%**
+- 해석: **메이저 평균이 18.1%까지 내려와**, 오늘 오후는 공격해도 **좁게 공격**해야 합니다.
 
 ## 🚀 공격 포트폴리오 전략
-- 현금 **20%**, **WLD·ONDO·XLM·SOPH·ZETA 각 16%**
-- 구조는 **attention 1 + liquid reclaim 2 + breakout 1 + beta 1**
-- 이번 회차 핵심은 **실패한 beta-upgrade 2칸과 stalled 대금 1칸을 정리**한 점입니다.
-- **ASTR·BLAST·PYTH** 같은 체류 약한 대금 보드는 계속 배제합니다.
+- 현금 **30%**, **XPL·WAVES·SOPH·WLD·PROS 각 14%**
+- 구조는 **breakout 2 + listing survivor 1 + attention core 1 + resilient green 1**
+- 이번 회차 핵심은 **음전된 survivor/beta를 버리고 실제 녹색 3개를 전면 승격**한 점입니다.
+- **ID·SAHARA·ASTR·XLM** 같은 붕괴 대금 보드는 계속 배제합니다.
 
 ## ✅ 가상 매매 실행 내용
-- **SELL** WLD / ID / ONDO / ENA / PYTH 전량 정리 후 새 가격 기준 재편
-- **BUY** WLD / ONDO / XLM / SOPH / ZETA 편입
-- 실질 변화: **유지 2(WLD·ONDO) / 교체 3(ID→XLM, ENA→SOPH, PYTH→ZETA)**
-- 핵심 판단 변화: **87.0→60.9 과열 둔화 + fresh breakout 2개 축소 → failed beta 제거, survivor/fresh 혼합 복귀**
+- **SELL** WLD / ONDO / XLM / SOPH / ZETA 전량 정리 후 새 가격 기준 재편
+- **BUY** XPL / WAVES / SOPH / WLD / PROS 편입
+- 실질 변화: **유지 2(WLD·SOPH) / 교체 3(ONDO→XPL, XLM→WAVES, ZETA→PROS)**
+- 핵심 판단 변화: **60.9→18.1 급랭 + 60%대 실전 녹색 알트 3개뿐 → 80% 추격 바스켓 폐기, 70% narrow-tape 재편**
 
 ## 📦 현재 포트폴리오 현황
-- 현금: **729,031원**
-- 총 평가액: **3,645,157원**
-- 실현손익: **-6,483,893원**
-- 누적 수익률: **-63.55%**
-- WLD: **770.443개** @ 757원
-- ONDO: **1056.567개** @ 552원
-- XLM: **2018.080개** @ 289원
-- SOPH: **59879.370개** @ 9.74원
-- ZETA: **9529.821개** @ 61.2원
+- 현금: **1,060,249원**
+- 총 평가액: **3,534,163원**
+- 실현손익: **-6,594,887원**
+- 누적 수익률: **-65.95%**
+- XPL: **3895.927개** @ 127.0원
+- WAVES: **1048.269개** @ 472.0원
+- SOPH: **55221.290개** @ 8.96원
+- WLD: **660.591개** @ 749.0원
+- PROS: **578.017개** @ 856.0원
 
 ## 🧠 자기 평가
-- 직전 회차의 **ENA·PYTH 승격은 반등장 대응으로는 맞았지만**, 오전 냉각까지 버티면 늦습니다.
-- 이번엔 **ID·ENA·PYTH를 한 번에 정리**해 stalled/failed 슬롯 방어를 줄였습니다.
-- 아직도 **WLD 대금 집중도 74.9%**는 높아, 다음 회차엔 집중 완화 여부를 다시 봐야 합니다.
+- 오전의 **ONDO·XLM·ZETA 방어는 오후까지 들고 가기엔 너무 느렸습니다.**
+- 이번엔 **실제 녹색 leader만 남기고 80%→70%로 즉시 축소**해 breadth 붕괴를 반영했습니다.
+- 아직도 **WLD 대금 집중**이 크기 때문에, 다음 회차엔 WLD mid-range가 더 무너지면 바로 버려야 합니다.
 
 ## 🛠️ 이번 사이클 개선점
-- **PROJECT.md**에 `beta-upgrade 직후 major avg < 65 + beta slot 2개 이상 50% 이하`이면 **다음 사이클에 survivor/reclaim 조합으로 강제 복귀**하는 규칙을 추가했습니다.
-- 보고서 상단을 **87.0→60.9 / 유지2·교체3 / cooling rebalance** 형식으로 바꿔 과열 둔화를 한 줄에 보이게 했습니다.
-- watchlist 이유를 **재상단 확인 필요 / 추격 금지** 중심으로 더 짧게 정리했습니다.
+- **PROJECT.md**에 `major avg < 20 + 60%대·30억원+ 녹색 leader 3개 이하`일 때 **실투입 70% 상한**을 거는 narrow-tape 규칙을 추가했습니다.
+- 보고서 상단을 **18.1 / 녹색실전3 / 실투입70** 형식으로 바꿔 장세 압축도를 더 빨리 읽게 했습니다.
+- **대금 함정 보드와 실전 녹색 보드**를 더 선명하게 나눠 watch/reject 해설을 정리했습니다.
 
 ## 🧾 판단
-- selective aggressive rotation with 80% deployment into WLD ONDO XLM SOPH ZETA
+- narrow-tape aggressive rotation with 70% deployment into XPL WAVES SOPH WLD PROS
 
 ## 🎯 신뢰도
-- medium
+- medium-low
 
 ## 👉 추천 행동
-- **BTC 95.5M / WLD 744 / ONDO 547 / XLM 287 / SOPH 9.35 / ZETA 59.8** 하향 시 즉시 재평가
-- **ID**는 재상단 회복 확인 전까지 추격 보류
-- **ENSO·XPL**은 대기 후보, **PYTH·ASTR·BLAST**는 추격 금지
+- **BTC 94.6M / XPL 121 / WAVES 434 / SOPH 8.78 / WLD 735 / PROS 834** 하향 시 즉시 재평가
+- **NEAR·ZRO**는 보조 survivor, **OPEN·ORBS**는 저대금 실험주로만 감시
+- **ID·SAHARA·ASTR·XLM**은 재양전환 전까지 추격 금지
 
 ## ⚠️ 리스크 메모
-- **공포탐욕 12**라 숫자상 심리는 여전히 약합니다.
-- **WLD**는 가장 강하지만 headline 리스크도 가장 큽니다.
-- **SOPH·ZETA**는 오전 강세형이라 눌림이 오면 빠르게 식을 수 있습니다.
-- **ID**는 대금은 매우 크지만 45%대 위치라 지금 재추격하면 갇히기 쉽습니다.
+- **공포탐욕 12**라 심리 바닥 구간이 계속됩니다.
+- **메이저 평균 18.1%**는 시장 전체가 아직 위험-off라는 뜻입니다.
+- **WAVES·OPEN·ORBS**류는 늦게 타면 급격히 식을 수 있습니다.
+- **WLD**는 여전히 headline 리스크가 큽니다.
