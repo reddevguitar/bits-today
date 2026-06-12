@@ -1,145 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "narrow-tape aggressive rotation with 70% deployment into XPL WAVES SOPH WLD PROS",
-  "confidence": "medium-low",
+  "judgment": "breadth-rebound aggressive rotation with 80% deployment into TRUMP XPL ONDO NEAR ZRO",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-12 15:49 KST",
-  "market_status": "메이저가 같이 눌리면서 넓은 알트 장은 아닙니다. 지금은 **실제 녹색 생존주 우선 + attention 코어 최소 유지**가 맞습니다.",
+  "updated_at": "2026-06-12 21:49 KST",
+  "market_status": "메이저 체력이 오후보다 확실히 살아났지만, **초대금 보드의 함정(WLD·ID·SAHARA)** 도 동시에 남아 있습니다. 지금은 **실제 녹색 구조 5종으로 빠르게 재공격**이 맞습니다.",
   "fear_greed": "12 (Extreme Fear, Alternative.me)",
-  "btc_snapshot": "BTC 94.838M원대 / ETH 2.496M원대 / XRP 1,701원대 / SOL 99.7K원대",
-  "cash_krw": "1,060,249 KRW",
-  "realized_pnl_krw": "-6,594,887 KRW",
-  "last_valuation_krw": "3,534,163 KRW",
+  "btc_snapshot": "BTC 95.794M원대 / ETH 2.513M원대 / XRP 1,714원대 / SOL 100.9K원대",
+  "cash_krw": "709,994 KRW",
+  "realized_pnl_krw": "-6,579,078 KRW",
+  "last_valuation_krw": "3,549,971 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -64.66,
-  "last_action": "NARROW_TAPE_REBALANCE_70_XPL_WAVES_SOPH_WLD_PROS",
-  "trade_count": 706,
-  "last_updated": "2026-06-12T15:49:00+09:00",
+  "return_pct": -64.5,
+  "last_action": "BREADTH_REBOUND_REBALANCE_80_TRUMP_XPL_ONDO_NEAR_ZRO",
+  "trade_count": 716,
+  "last_updated": "2026-06-12T21:49:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 30,
+    "recent_trade_actions_24h": 40,
     "recent_24h_buy_count": 25,
     "recent_24h_sell_count": 25,
     "recent_24h_replacement_count": 25,
     "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "₿ BTC: **-0.82%**, 위치 **18.0%**",
-    "◆ ETH: **-0.83%**, 위치 **21.1%**",
-    "💧 XRP: **-0.93%**, 위치 **12.9%**",
-    "☀️ SOL: **-0.85%**, 위치 **20.6%**",
-    "해석: **메이저 평균이 18.1%까지 내려와**, 오늘 오후는 공격해도 **좁게 공격**해야 합니다.",
-    "현금 **30%**, **XPL·WAVES·SOPH·WLD·PROS 각 14%**",
-    "구조는 **breakout 2 + listing survivor 1 + attention core 1 + resilient green 1**",
-    "이번 회차 핵심은 **음전된 survivor/beta를 버리고 실제 녹색 3개를 전면 승격**한 점입니다.",
-    "**ID·SAHARA·ASTR·XLM** 같은 붕괴 대금 보드는 계속 배제합니다.",
-    "**SELL** WLD / ONDO / XLM / SOPH / ZETA 전량 정리 후 새 가격 기준 재편",
-    "**BUY** XPL / WAVES / SOPH / WLD / PROS 편입",
-    "실질 변화: **유지 2(WLD·SOPH) / 교체 3(ONDO→XPL, XLM→WAVES, ZETA→PROS)**",
-    "핵심 판단 변화: **60.9→18.1 급랭 + 60%대 실전 녹색 알트 3개뿐 → 80% 추격 바스켓 폐기, 70% narrow-tape 재편**",
-    "현금: **1,060,249원**",
-    "총 평가액: **3,534,163원**",
-    "실현손익: **-6,594,887원**",
-    "누적 수익률: **-65.95%**",
-    "XPL: **3895.927개** @ 127.0원",
-    "WAVES: **1048.269개** @ 472.0원",
-    "SOPH: **55221.290개** @ 8.96원",
-    "WLD: **660.591개** @ 749.0원",
-    "PROS: **578.017개** @ 856.0원",
-    "오전의 **ONDO·XLM·ZETA 방어는 오후까지 들고 가기엔 너무 느렸습니다.**",
-    "이번엔 **실제 녹색 leader만 남기고 80%→70%로 즉시 축소**해 breadth 붕괴를 반영했습니다.",
-    "아직도 **WLD 대금 집중**이 크기 때문에, 다음 회차엔 WLD mid-range가 더 무너지면 바로 버려야 합니다.",
-    "**PROJECT.md**에 `major avg < 20 + 60%대·30억원+ 녹색 leader 3개 이하`일 때 **실투입 70% 상한**을 거는 narrow-tape 규칙을 추가했습니다.",
-    "보고서 상단을 **18.1 / 녹색실전3 / 실투입70** 형식으로 바꿔 장세 압축도를 더 빨리 읽게 했습니다.",
-    "**대금 함정 보드와 실전 녹색 보드**를 더 선명하게 나눠 watch/reject 해설을 정리했습니다.",
-    "narrow-tape aggressive rotation with 70% deployment into XPL WAVES SOPH WLD PROS",
-    "medium-low",
-    "**BTC 94.6M / XPL 121 / WAVES 434 / SOPH 8.78 / WLD 735 / PROS 834** 하향 시 즉시 재평가",
-    "**NEAR·ZRO**는 보조 survivor, **OPEN·ORBS**는 저대금 실험주로만 감시",
-    "**ID·SAHARA·ASTR·XLM**은 재양전환 전까지 추격 금지",
-    "**공포탐욕 12**라 심리 바닥 구간이 계속됩니다.",
-    "**메이저 평균 18.1%**는 시장 전체가 아직 위험-off라는 뜻입니다.",
-    "**WAVES·OPEN·ORBS**류는 늦게 타면 급격히 식을 수 있습니다.",
-    "**WLD**는 여전히 headline 리스크가 큽니다."
+    "₿ BTC: **+0.18%**, 위치 **74.7%**",
+    "◆ ETH: **-0.16%**, 위치 **59.5%**",
+    "💧 XRP: **-0.17%**, 위치 **53.1%**",
+    "☀️ SOL: **+0.40%**, 위치 **76.2%**",
+    "해석: **메이저 평균이 65.9%까지 회복**돼 오후의 narrow-tape 방어 논리는 끝났습니다.",
+    "현금 **20%**, **TRUMP·XPL·ONDO·NEAR·ZRO 각 16%**",
+    "구조는 **headline breakout 1 + continuation 1 + survivor 2 + secondary breakout 1**",
+    "핵심은 **WLD attention trap 제거, breadth 회복형 4종 추가**입니다.",
+    "**ID·SAHARA·ASTR** 같은 초대금 붕괴 보드는 계속 배제합니다.",
+    "**SELL** XPL / WAVES / SOPH / WLD / PROS 전량 정리 후 새 가격 기준 재편",
+    "**BUY** TRUMP / XPL / ONDO / NEAR / ZRO 편입",
+    "실질 변화: **유지 1(XPL) / 교체 4(WLD→TRUMP, WAVES→ONDO, SOPH→NEAR, PROS→ZRO)**",
+    "핵심 판단 변화: **메이저 평균 18.1→65.9 급반등 + WLD trap 확인 → 70% 방어 바스켓 폐기, 80% breadth-rebound 재공격**",
+    "현금: **709,994원**",
+    "총 평가액: **3,549,971원**",
+    "실현손익: **-6,579,078원**",
+    "누적 수익률: **-64.50%**",
+    "TRUMP: **176.341개** @ 3,221원",
+    "XPL: **4115.909개** @ 138원",
+    "ONDO: **1032.719개** @ 550원",
+    "NEAR: **178.279개** @ 3,186원",
+    "ZRO: **395.816개** @ 1,435원",
+    "오후의 **narrow-tape 70% 축소는 맞았지만, WLD·SOPH·WAVES 잔존은 늦었습니다.**",
+    "이번엔 **메이저 회복을 인정하고 attention trap을 버리며 80% 재공격**으로 속도를 되찾았습니다.",
+    "다음 회차엔 **TRUMP가 3,050원 밑으로 밀리면 hesitation 없이 beta를 줄여야** 합니다.",
+    "**PROJECT.md**에 `메이저 평균 60%+ 회복이어도 top-turnover attention 이름이 음전·30% 미만 위치면 즉시 탈락` 규칙을 추가했습니다.",
+    "보고서 상단을 **65.9 / fresh1 / survivor4 / 실투입80** 형식으로 더 압축했습니다.",
+    "watchlist를 **breakout 후보 / survivor 후보 / trap 경계** 관점으로 다시 정리했습니다.",
+    "breadth-rebound aggressive rotation with 80% deployment into TRUMP XPL ONDO NEAR ZRO",
+    "medium",
+    "**BTC 95.0M / TRUMP 3,050 / XPL 132 / ONDO 542 / NEAR 3,120 / ZRO 1,400** 하향 시 즉시 재평가",
+    "**PROS·VIRTUAL·SUI·ENA**는 보조 승격 후보, **DOGE**는 meme-beta 중복 때문에 관찰만",
+    "**WLD·ID·SAHARA·SOPH·WAVES**는 현재 가격대 late chase 금지",
+    "**공포탐욕 12**라 심리 지표는 여전히 매우 약합니다.",
+    "**fresh breakout이 1개뿐**이라 완전한 risk-on 장으로 보기엔 이릅니다.",
+    "**TRUMP**는 headline beta라 되밀림 속도도 매우 빠를 수 있습니다.",
+    "**WLD**는 초대금이라도 negative attention trap일 수 있다는 점을 확인했습니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "PROS",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "ZRO",
       "action": "BUY",
-      "price_krw": 856.0,
-      "amount_delta": 578.0172444469084,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "PROS는 856.0원, +2.76%, 30.5억원 대금, 위치 71.4%로 과열 없이 60%대 구조를 지킨 드문 중형 녹색 슬롯입니다."
+      "price_krw": 1435.0,
+      "amount_delta": 395.815628605239,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "ZRO는 1435.0원, +7.25%, 67.7억원 대금, 위치 93.5%로 late-session 보조 breakout 슬롯 중 위치가 가장 좋습니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "WLD",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 749.0,
-      "amount_delta": 660.5911365107524,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "WLD는 749.0원, +0.27%, 1345.5억원 대금으로 여전히 업비트 최상위 attention 코어이지만 위치는 45.2%까지 식어 방어적 코어로만 사용합니다."
+      "price_krw": 3186.0,
+      "amount_delta": 178.2785395632511,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "NEAR는 3186.0원, +2.64%, 218.0억원 대금, 위치 74.3%로 대형 알트 중 구조가 가장 안정적인 quality survivor입니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "SOPH",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "ONDO",
       "action": "BUY",
-      "price_krw": 8.96,
-      "amount_delta": 55221.29031769571,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "SOPH는 8.96원, +9.27%, 220.1억원 대금, 위치 44.6%로 오전 고점에서 식었어도 여전히 양전환·대금을 함께 유지한 상장 후속 생존주입니다."
+      "price_krw": 550.0,
+      "amount_delta": 1032.7189582700328,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "ONDO는 550.0원, +0.18%, 306.9억원 대금, 위치 72.0%로 서사보다 가격이 다시 살아난 liquid RWA survivor입니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "WAVES",
-      "action": "BUY",
-      "price_krw": 472.0,
-      "amount_delta": 1048.2685619630374,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "WAVES는 472.0원, +22.28%, 42.7억원 대금, 위치 93.8%로 오늘 오후 업비트에서 가장 깔끔한 소형 breakout 리더입니다."
-    },
-    {
-      "timestamp": "2026-06-12T15:49:00+09:00",
+      "timestamp": "2026-06-12T21:49:00+09:00",
       "symbol": "XPL",
       "action": "BUY",
-      "price_krw": 127.0,
-      "amount_delta": 3895.927253909871,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "XPL은 127.0원, +12.39%, 141.7억원 대금, 위치 78.9%로 약한 보드에서 드물게 구조·대금이 함께 남은 선두 continuation입니다."
+      "price_krw": 138.0,
+      "amount_delta": 4115.908891655928,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "XPL은 138.0원, +22.12%, 233.2억원 대금, 위치 89.7%로 breadth rebound에서도 가장 깔끔한 continuation 코어입니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "ZETA",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "TRUMP",
+      "action": "BUY",
+      "price_krw": 3221.0,
+      "amount_delta": 176.34133096818317,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "TRUMP는 3221.0원, +23.32%, 697.4억원 대금, 위치 84.1%로 현재 업비트에서 가장 강한 headline breakout 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "PROS",
       "action": "SELL",
-      "price_krw": 57.5,
-      "amount_delta": -9529.821247883066,
-      "cash_delta_krw": 547964.7217532763,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
+      "price_krw": 897.0,
+      "amount_delta": -578.0172444469084,
+      "cash_delta_krw": 518481.46826887684,
+      "reason": "상단 체류는 좋지만 더 강한 90%대 보조 breakout ZRO로 업그레이드"
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 727.0,
+      "amount_delta": -660.5911365107524,
+      "cash_delta_krw": 480249.75624331704,
+      "reason": "95.1억원 초대금이 남아도 -2.68%·27.8% 위치라 attention trap으로 확인돼 TRUMP로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
       "symbol": "SOPH",
       "action": "SELL",
-      "price_krw": 8.96,
-      "amount_delta": -59879.3696478895,
-      "cash_delta_krw": 536519.15204509,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
-    },
-    {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "XLM",
-      "action": "SELL",
-      "price_krw": 285.0,
-      "amount_delta": -2018.0797936693555,
-      "cash_delta_krw": 575152.7411957663,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
+      "price_krw": 8.57,
+      "amount_delta": -55221.29031769571,
+      "cash_delta_krw": 473246.45802265225,
+      "reason": "26.8억원 대금에도 22.6% 위치·-13.78% gap라 fading leader로 분류해 NEAR로 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-12-2149.md",
+      "title": "2026-06-12-2149"
+    },
     {
       "file": "2026-06-12-1549.md",
       "title": "2026-06-12-1549"
@@ -167,85 +171,81 @@
     {
       "file": "2026-06-11-0349.md",
       "title": "2026-06-11-0349"
-    },
-    {
-      "file": "2026-06-10-2149.md",
-      "title": "2026-06-10-2149"
     }
   ],
   "positions": [
     {
+      "icon": "🧢",
+      "symbol": "TRUMP",
+      "market": "KRW-TRUMP",
+      "amount": 176.34133096818317,
+      "avg_buy_price_krw": "3,221 KRW",
+      "last_price_krw": "3,221 KRW",
+      "thesis": "TRUMP는 3221.0원, +23.32%, 697.4억원 대금, 위치 84.1%로 현재 업비트에서 가장 강한 headline breakout 리더입니다.",
+      "strategy": "headline breakout beta",
+      "role": "headline breakout beta",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 15,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
       "icon": "🪙",
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "amount": 3895.927253909871,
-      "avg_buy_price_krw": "127 KRW",
-      "last_price_krw": "127 KRW",
-      "thesis": "XPL은 127.0원, +12.39%, 141.7억원 대금, 위치 78.9%로 약한 보드에서 드물게 구조·대금이 함께 남은 선두 continuation입니다.",
-      "strategy": "clean turnover continuation",
-      "role": "clean turnover continuation",
+      "amount": 4115.908891655928,
+      "avg_buy_price_krw": "138 KRW",
+      "last_price_krw": "138 KRW",
+      "thesis": "XPL은 138.0원, +22.12%, 233.2억원 대금, 위치 89.7%로 breadth rebound에서도 가장 깔끔한 continuation 코어입니다.",
+      "strategy": "clean continuation core",
+      "role": "clean continuation core",
       "risk_limit_pct": 5,
       "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🪙",
-      "symbol": "WAVES",
-      "market": "KRW-WAVES",
-      "amount": 1048.2685619630374,
-      "avg_buy_price_krw": "472 KRW",
-      "last_price_krw": "472 KRW",
-      "thesis": "WAVES는 472.0원, +22.28%, 42.7억원 대금, 위치 93.8%로 오늘 오후 업비트에서 가장 깔끔한 소형 breakout 리더입니다.",
-      "strategy": "secondary breakout leader",
-      "role": "secondary breakout leader",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 14,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪙",
-      "symbol": "SOPH",
-      "market": "KRW-SOPH",
-      "amount": 55221.29031769571,
-      "avg_buy_price_krw": "9 KRW",
-      "last_price_krw": "9 KRW",
-      "thesis": "SOPH는 8.96원, +9.27%, 220.1억원 대금, 위치 44.6%로 오전 고점에서 식었어도 여전히 양전환·대금을 함께 유지한 상장 후속 생존주입니다.",
-      "strategy": "listing momentum survivor",
-      "role": "listing momentum survivor",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "amount": 660.5911365107524,
-      "avg_buy_price_krw": "749 KRW",
-      "last_price_krw": "749 KRW",
-      "thesis": "WLD는 749.0원, +0.27%, 1345.5억원 대금으로 여전히 업비트 최상위 attention 코어이지만 위치는 45.2%까지 식어 방어적 코어로만 사용합니다.",
-      "strategy": "attention liquidity core",
-      "role": "attention liquidity core",
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "amount": 1032.7189582700328,
+      "avg_buy_price_krw": "550 KRW",
+      "last_price_krw": "550 KRW",
+      "thesis": "ONDO는 550.0원, +0.18%, 306.9억원 대금, 위치 72.0%로 서사보다 가격이 다시 살아난 liquid RWA survivor입니다.",
+      "strategy": "liquid RWA survivor",
+      "role": "liquid RWA survivor",
       "risk_limit_pct": 4,
       "profit_take_pct": 8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🧱",
-      "symbol": "PROS",
-      "market": "KRW-PROS",
-      "amount": 578.0172444469084,
-      "avg_buy_price_krw": "856 KRW",
-      "last_price_krw": "856 KRW",
-      "thesis": "PROS는 856.0원, +2.76%, 30.5억원 대금, 위치 71.4%로 과열 없이 60%대 구조를 지킨 드문 중형 녹색 슬롯입니다.",
-      "strategy": "mid-cap resilient green",
-      "role": "mid-cap resilient green",
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "amount": 178.2785395632511,
+      "avg_buy_price_krw": "3,186 KRW",
+      "last_price_krw": "3,186 KRW",
+      "thesis": "NEAR는 3186.0원, +2.64%, 218.0억원 대금, 위치 74.3%로 대형 알트 중 구조가 가장 안정적인 quality survivor입니다.",
+      "strategy": "large-cap quality survivor",
+      "role": "large-cap quality survivor",
       "risk_limit_pct": 4,
       "profit_take_pct": 9,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ZRO",
+      "market": "KRW-ZRO",
+      "amount": 395.815628605239,
+      "avg_buy_price_krw": "1,435 KRW",
+      "last_price_krw": "1,435 KRW",
+      "thesis": "ZRO는 1435.0원, +7.25%, 67.7억원 대금, 위치 93.5%로 late-session 보조 breakout 슬롯 중 위치가 가장 좋습니다.",
+      "strategy": "high-range secondary breakout",
+      "role": "high-range secondary breakout",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
@@ -253,16 +253,6 @@
   "chart_series": {
     "WLD": [
       {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 758.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 758.0,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-12T09:49:00+09:00",
         "price_krw": 757.0,
         "action": "SELL"
@@ -281,19 +271,14 @@
         "timestamp": "2026-06-12T15:49:00+09:00",
         "price_krw": 749.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 727.0,
+        "action": "SELL"
       }
     ],
     "ID": [
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 53.6,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 53.6,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-12T09:49:00+09:00",
         "price_krw": 51.9,
@@ -301,16 +286,6 @@
       }
     ],
     "ONDO": [
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 536.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 536.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-12T09:49:00+09:00",
         "price_krw": 552.0,
@@ -325,38 +300,14 @@
         "timestamp": "2026-06-12T15:49:00+09:00",
         "price_krw": 538.0,
         "action": "SELL"
-      }
-    ],
-    "SUI": [
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 1144.0,
-        "action": "SELL"
-      }
-    ],
-    "XLM": [
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 289.0,
-        "action": "SELL"
       },
       {
-        "timestamp": "2026-06-12T09:49:00+09:00",
-        "price_krw": 289.0,
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 550.0,
         "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-12T15:49:00+09:00",
-        "price_krw": 285.0,
-        "action": "SELL"
       }
     ],
     "ENA": [
-      {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 117.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-12T09:49:00+09:00",
         "price_krw": 120.0,
@@ -365,13 +316,20 @@
     ],
     "PYTH": [
       {
-        "timestamp": "2026-06-12T03:49:00+09:00",
-        "price_krw": 55.0,
+        "timestamp": "2026-06-12T09:49:00+09:00",
+        "price_krw": 56.2,
+        "action": "SELL"
+      }
+    ],
+    "XLM": [
+      {
+        "timestamp": "2026-06-12T09:49:00+09:00",
+        "price_krw": 289.0,
         "action": "BUY"
       },
       {
-        "timestamp": "2026-06-12T09:49:00+09:00",
-        "price_krw": 56.2,
+        "timestamp": "2026-06-12T15:49:00+09:00",
+        "price_krw": 285.0,
         "action": "SELL"
       }
     ],
@@ -390,6 +348,11 @@
         "timestamp": "2026-06-12T15:49:00+09:00",
         "price_krw": 8.96,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 8.57,
+        "action": "SELL"
       }
     ],
     "ZETA": [
@@ -409,6 +372,16 @@
         "timestamp": "2026-06-12T15:49:00+09:00",
         "price_krw": 127.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 138.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 138.0,
+        "action": "BUY"
       }
     ],
     "WAVES": [
@@ -416,6 +389,11 @@
         "timestamp": "2026-06-12T15:49:00+09:00",
         "price_krw": 472.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 458.0,
+        "action": "SELL"
       }
     ],
     "PROS": [
@@ -423,308 +401,340 @@
         "timestamp": "2026-06-12T15:49:00+09:00",
         "price_krw": 856.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 897.0,
+        "action": "SELL"
+      }
+    ],
+    "TRUMP": [
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 3221.0,
+        "action": "BUY"
+      }
+    ],
+    "NEAR": [
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 3186.0,
+        "action": "BUY"
+      }
+    ],
+    "ZRO": [
+      {
+        "timestamp": "2026-06-12T21:49:00+09:00",
+        "price_krw": 1435.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-12-1549.md",
+  "latest_report_file": "2026-06-12-2149.md",
   "preferred_buy_candidates": [
+    {
+      "icon": "🧢",
+      "symbol": "TRUMP",
+      "market": "KRW-TRUMP",
+      "price_krw": 3221.0,
+      "change_pct_24h": 23.31546708,
+      "turnover_krw_24h": 69737408929.54051,
+      "reason": "TRUMP는 3221.0원, +23.32%, 697.4억원 대금, 위치 84.1%로 현재 업비트에서 가장 강한 headline breakout 리더입니다.",
+      "score": 81.18,
+      "community": "업비트 야간 보드에서 TRUMP는 실제 녹색 대금 1위로 attention과 체결이 동시에 붙었습니다.",
+      "risk": "3,050원 하회 시 breakout follow-through 약화",
+      "allocation_krw": 567995.427048518,
+      "role": "headline breakout beta",
+      "invalidated_if": "3,050원 하회 시 breakout follow-through 약화",
+      "range_position_pct": 84.1,
+      "day_high_gap_pct": -3.45
+    },
     {
       "icon": "🪙",
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "price_krw": 127.0,
-      "change_pct_24h": 12.38938053,
-      "turnover_krw_24h": 14171977107.332134,
-      "reason": "XPL은 127.0원, +12.39%, 141.7억원 대금, 위치 78.9%로 약한 보드에서 드물게 구조·대금이 함께 남은 선두 continuation입니다.",
-      "score": 68.4,
-      "community": "국내 보드에서 XPL은 오후 드문 녹색 대금주로 빠르게 부각됐습니다.",
-      "risk": "121.0원 하회 시 continuation 붕괴",
-      "allocation_krw": 494782.7612465536,
-      "role": "clean turnover continuation",
-      "invalidated_if": "121.0원 하회 시 continuation 붕괴",
-      "range_position_pct": 78.9,
-      "day_high_gap_pct": -3.05
-    },
-    {
-      "icon": "🪙",
-      "symbol": "WAVES",
-      "market": "KRW-WAVES",
-      "price_krw": 472.0,
-      "change_pct_24h": 22.27979275,
-      "turnover_krw_24h": 4266250502.6632395,
-      "reason": "WAVES는 472.0원, +22.28%, 42.7억원 대금, 위치 93.8%로 오늘 오후 업비트에서 가장 깔끔한 소형 breakout 리더입니다.",
-      "score": 63.1,
-      "community": "저대금이지만 상단 체류가 좋아 단기 추격 수요가 붙는 패턴입니다.",
-      "risk": "434.0원 하회 시 breakout 실패",
-      "allocation_krw": 494782.7612465536,
-      "role": "secondary breakout leader",
-      "invalidated_if": "434.0원 하회 시 breakout 실패",
-      "range_position_pct": 93.8,
-      "day_high_gap_pct": -1.26
-    },
-    {
-      "icon": "🪙",
-      "symbol": "SOPH",
-      "market": "KRW-SOPH",
-      "price_krw": 8.96,
-      "change_pct_24h": 9.26829268,
-      "turnover_krw_24h": 22006483344.601063,
-      "reason": "SOPH는 8.96원, +9.27%, 220.1억원 대금, 위치 44.6%로 오전 고점에서 식었어도 여전히 양전환·대금을 함께 유지한 상장 후속 생존주입니다.",
-      "score": 57.4,
-      "community": "상장 후속 기대가 아직 완전히 꺼지지 않았습니다.",
-      "risk": "8.78원 하회 시 상장 모멘텀 약화",
-      "allocation_krw": 494782.7612465536,
-      "role": "listing momentum survivor",
-      "invalidated_if": "8.78원 하회 시 상장 모멘텀 약화",
-      "range_position_pct": 44.6,
-      "day_high_gap_pct": -9.86
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "price_krw": 749.0,
-      "change_pct_24h": 0.26773762,
-      "turnover_krw_24h": 134548627679.42033,
-      "reason": "WLD는 749.0원, +0.27%, 1345.5억원 대금으로 여전히 업비트 최상위 attention 코어이지만 위치는 45.2%까지 식어 방어적 코어로만 사용합니다.",
-      "score": 47.6,
-      "community": "헤드라인 잡음과 별개로 업비트 attention의 중심은 여전히 WLD입니다.",
-      "risk": "735.0원 하회 시 attention 코어도 방어 실패",
-      "allocation_krw": 494782.7612465536,
-      "role": "attention liquidity core",
-      "invalidated_if": "735.0원 하회 시 attention 코어도 방어 실패",
-      "range_position_pct": 45.2,
-      "day_high_gap_pct": -2.22
-    },
-    {
-      "icon": "🧱",
-      "symbol": "PROS",
-      "market": "KRW-PROS",
-      "price_krw": 856.0,
-      "change_pct_24h": 2.76110444,
-      "turnover_krw_24h": 3045443597.5255103,
-      "reason": "PROS는 856.0원, +2.76%, 30.5억원 대금, 위치 71.4%로 과열 없이 60%대 구조를 지킨 드문 중형 녹색 슬롯입니다.",
-      "score": 43.7,
-      "community": "크게 화려하진 않지만 무너지지 않는 녹색 슬롯으로 보입니다.",
-      "risk": "834.0원 하회 시 resilient green 구조 훼손",
-      "allocation_krw": 494782.7612465536,
-      "role": "mid-cap resilient green",
-      "invalidated_if": "834.0원 하회 시 resilient green 구조 훼손",
-      "range_position_pct": 71.4,
-      "day_high_gap_pct": -2.28
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "19.9억원급 대금과 51.2% 위치로 보조 survivor 후보지만 공격성이 부족해 watch 유지입니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ZRO",
-      "market": "KRW-ZRO",
-      "reason": "108.5억원 대금 대비 48.9% 위치라 60%대 재회복이 먼저입니다."
-    },
-    {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "reason": "5.68% 상승은 좋지만 -9.62% day-high gap이 커 late chase 금지입니다."
-    },
-    {
-      "icon": "📬",
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "81.2% 위치는 좋지만 9.7억원 대금이라 후보 승격엔 유동성이 더 필요합니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ORBS",
-      "market": "KRW-ORBS",
-      "reason": "91.7% 위치지만 15.2억원급이라 소형 실험주 이상으로 보긴 이릅니다."
+      "price_krw": 138.0,
+      "change_pct_24h": 22.12389381,
+      "turnover_krw_24h": 23324184000.15731,
+      "reason": "XPL은 138.0원, +22.12%, 233.2억원 대금, 위치 89.7%로 breadth rebound에서도 가장 깔끔한 continuation 코어입니다.",
+      "score": 70.4,
+      "community": "플라즈마는 여전히 국내 보드에서 가장 읽기 쉬운 실전 녹색 continuation 축입니다.",
+      "risk": "132원 하회 시 continuation 구조 훼손",
+      "allocation_krw": 567995.427048518,
+      "role": "clean continuation core",
+      "invalidated_if": "132원 하회 시 continuation 구조 훼손",
+      "range_position_pct": 89.7,
+      "day_high_gap_pct": -2.13
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "Ondo Perps 서사는 살아도 실제 가격은 21.7% 위치라 이번 회차는 제외가 맞습니다."
+      "price_krw": 550.0,
+      "change_pct_24h": 0.18214936,
+      "turnover_krw_24h": 30689635593.690823,
+      "reason": "ONDO는 550.0원, +0.18%, 306.9억원 대금, 위치 72.0%로 서사보다 가격이 다시 살아난 liquid RWA survivor입니다.",
+      "score": 39.34,
+      "community": "Ondo Perps 출시 서사가 남은 가운데 업비트에선 550원 부근 체류가 확인됐습니다.",
+      "risk": "542원 하회 시 reclaim survivor 약화",
+      "allocation_krw": 567995.427048518,
+      "role": "liquid RWA survivor",
+      "invalidated_if": "542원 하회 시 reclaim survivor 약화",
+      "range_position_pct": 72.0,
+      "day_high_gap_pct": -1.26
     },
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "42.9억원 대금에도 16.7% 위치라 추격 금지 구간입니다."
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "price_krw": 3186.0,
+      "change_pct_24h": 2.64175258,
+      "turnover_krw_24h": 21804211926.63733,
+      "reason": "NEAR는 3186.0원, +2.64%, 218.0억원 대금, 위치 74.3%로 대형 알트 중 구조가 가장 안정적인 quality survivor입니다.",
+      "score": 40.88,
+      "community": "NEAR는 메이저 반등 구간에서 업비트 대형 알트 중 가장 무난하게 상단 체류를 유지했습니다.",
+      "risk": "3,120원 하회 시 large-cap survivor 구조 약화",
+      "allocation_krw": 567995.427048518,
+      "role": "large-cap quality survivor",
+      "invalidated_if": "3,120원 하회 시 large-cap survivor 구조 약화",
+      "range_position_pct": 74.3,
+      "day_high_gap_pct": -1.51
     },
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "28.6억원 대금이 있어도 11.8% 위치라 오전 survivor 가정이 무효화됐습니다."
+      "icon": "🪙",
+      "symbol": "ZRO",
+      "market": "KRW-ZRO",
+      "price_krw": 1435.0,
+      "change_pct_24h": 7.24962631,
+      "turnover_krw_24h": 6768149505.546975,
+      "reason": "ZRO는 1435.0원, +7.25%, 67.7억원 대금, 위치 93.5%로 late-session 보조 breakout 슬롯 중 위치가 가장 좋습니다.",
+      "score": 51.74,
+      "community": "ZRO는 90%대 위치로 late-session breakout 중 가장 깔끔한 보조 리더입니다.",
+      "risk": "1,400원 하회 시 high-range breakout 실패",
+      "allocation_krw": 567995.427048518,
+      "role": "high-range secondary breakout",
+      "invalidated_if": "1,400원 하회 시 high-range breakout 실패",
+      "range_position_pct": 93.5,
+      "day_high_gap_pct": -0.49
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🧱",
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "91.9% 위치와 30.3억원 대금으로 건강하지만 ZRO 대비 체급이 한 단계 작아 watch로 내렸습니다."
+    },
+    {
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "82.4% 위치와 68.7억원 대금으로 보조 AI/agent survivor 후보입니다."
+    },
+    {
+      "icon": "🌊",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "80.0% 위치와 81.8억원 대금으로 대형 품질축이지만 이번 회차는 NEAR가 더 강했습니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "100% 위치는 좋지만 67.4억원 대금과 2.5% 상승으로 속도는 TRUMP·XPL보다 약합니다."
+    },
+    {
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "63.4% 위치의 솔라나계 survivor로 나쁘지 않지만 tonight top5 우선순위는 아닙니다."
+    },
+    {
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "100% 위치 fresh breakout이지만 meme-beta 중복을 줄이기 위해 TRUMP만 채택했습니다."
+    },
+    {
+      "icon": "⚙️",
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "91.8% 위치가 깔끔하지만 47.6억원급이라 코어 승격엔 체급 확인이 더 필요합니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "WAVES",
+      "market": "KRW-WAVES",
+      "reason": "대금은 남아도 -11.92% day-high gap가 너무 커 late chase 금지입니다."
     }
   ],
   "cycle_improvements": [
-    "PROJECT.md에 `major avg < 20 && 60%+·30억원+ 녹색 알트가 3개 이하`이면 실투입을 70%로 제한하고 sub-55 rescue slot을 2개 이하로 묶는 narrow-tape 규칙을 추가했습니다.",
-    "보고서 상단 기준 한줄을 `18.1 / 녹색실전3 / 실투입70` 형식으로 바꿔 장세 압축도를 한 번에 읽게 했습니다.",
-    "대금 함정(ID·SAHARA·XLM)과 실제 녹색 생존주(XPL·WAVES·PROS)를 더 분명히 분리해 watch/reject 문구를 정리했습니다."
+    "PROJECT.md에 `메이저 평균이 60% 이상으로 회복해도 초대금 attention leader가 음전·30% 미만 위치면 즉시 탈락` 규칙을 추가해 WLD 같은 trap 재집착을 막았습니다.",
+    "보고서 기준 한줄을 `65.9 / fresh1 / survivor4 / 실투입80` 형태로 더 압축해 breadth 회복과 실제 투입을 동시에 읽게 바꿨습니다.",
+    "watchlist에서 `fresh breakout/quality survivor/attention trap` 구분을 더 분명하게 적어 다음 회차 교체 후보를 빠르게 비교하게 했습니다."
   ],
   "rejected_candidates": [
     {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "950.5억원 초대금에도 -2.68%·27.8% 위치라 전형적인 attention trap입니다."
+    },
+    {
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "775.8억원 초대금에도 12.1% 위치와 -10.82% gap로 전형적 turnover trap입니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "303.2억원 대금에도 21.7% 위치라 오전 생존축 가정이 깨졌습니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "28.6억원 대금이 남아도 11.8% 위치로 survivor 명분이 없습니다."
-    },
-    {
-      "symbol": "ZETA",
-      "market": "KRW-ZETA",
-      "reason": "양전환은 유지해도 23.6% 위치와 -6.75% gap로 continuation 실패 쪽입니다."
+      "reason": "470.8억원 대금에도 -11.58%·4.9% 위치로 재진입 명분이 없습니다."
     },
     {
       "symbol": "SAHARA",
       "market": "KRW-SAHARA",
-      "reason": "대금 상위지만 음전과 16.7% 위치라 코어 자격이 없습니다."
+      "reason": "281.8억원 대금이 있어도 -4.31%·26.7% 위치라 추격 금지입니다."
     },
     {
-      "symbol": "ASTR",
-      "market": "KRW-ASTR",
-      "reason": "28.7억원 대금에도 0.8% 위치라 추격 금지입니다."
+      "symbol": "SOPH",
+      "market": "KRW-SOPH",
+      "reason": "26.8억원 대금에도 22.6% 위치·-13.78% gap로 fading leader입니다."
+    },
+    {
+      "symbol": "WAVES",
+      "market": "KRW-WAVES",
+      "reason": "18.65% 상승은 강하지만 -11.92% gap가 커 exhausted blowoff로 분류합니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "297.0억원 대금은 좋지만 47.1% 위치라 survivor 상단 체류가 부족합니다."
     }
   ],
-  "top_line": "**메이저 평균 위치 18.1%**, **실전 녹색 3개(XPL·WAVES·PROS)**, **실투입률 70%**, 이번 회차는 **narrow-tape rebalance(ONDO·XLM·ZETA → XPL·WAVES·PROS)** 입니다.",
-  "ui_version": "v12.2",
+  "top_line": "**메이저 평균 위치 65.9%**, **fresh 1 / survivor 4**, **실투입률 80%**, 이번 회차는 **breadth rebound rebalance(WLD·WAVES·SOPH·PROS → TRUMP·ONDO·NEAR·ZRO)** 입니다.",
+  "ui_version": "v12.3",
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. BTC 94.6M원 하회 지속 또는 preferred 5종 중 2개 이상 무효화 시 35~40% 현금으로 상향.",
-    "review_trigger": "BTC 94.6M원 하회 지속, XPL 121원 하회, WAVES 434원 하회, SOPH 8.78원 하회, WLD 735원 하회, PROS 834원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. BTC 95.0M원 하회 지속 또는 preferred 5종 중 2개 이상 무효화 시 25~35% 현금으로 상향.",
+    "review_trigger": "BTC 95.0M원 하회 지속, TRUMP 3,050원 하회, XPL 132원 하회, ONDO 542원 하회, NEAR 3,120원 하회, ZRO 1,400원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "major avg < 20 이고 실전 녹색 leader가 3개 이하이면 실투입 70%를 넘기지 말 것",
-      "sub-55 구조의 rescue/reclaim 슬롯은 2개를 넘기지 말 것",
-      "ID·SAHARA·ASTR·XLM 같은 붕괴 대금 보드는 재양전환 전까지 추격 금지"
+      "major avg가 60% 이상이어도 초대금 attention leader가 음전이고 30% 미만 위치면 코어에서 즉시 제외",
+      "fresh breakout이 1개 이하인 60대 메이저 회복 구간에서는 1개 breakout + 4개 survivor/continuation 조합을 우선",
+      "WLD·ID·SAHARA 같은 대금 함정 보드는 재양전환 전까지 추격 금지"
     ],
     "exit_rules": [
-      "BTC 94.6M원 하회 지속, XPL 121원 하회, WAVES 434원 하회, SOPH 8.78원 하회, WLD 735원 하회, PROS 834원 하회 시 즉시 재평가",
+      "BTC 95.0M원 하회 지속, TRUMP 3,050원 하회, XPL 132원 하회, ONDO 542원 하회, NEAR 3,120원 하회, ZRO 1,400원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "major avg < 20 이고 실전 녹색 leader가 3개 이하이면 실투입 70%를 넘기지 말 것",
-      "sub-55 구조의 rescue/reclaim 슬롯은 2개를 넘기지 말 것",
-      "ID·SAHARA·ASTR·XLM 같은 붕괴 대금 보드는 재양전환 전까지 추격 금지"
+      "major avg가 60% 이상이어도 초대금 attention leader가 음전이고 30% 미만 위치면 코어에서 즉시 제외",
+      "fresh breakout이 1개 이하인 60대 메이저 회복 구간에서는 1개 breakout + 4개 survivor/continuation 조합을 우선",
+      "WLD·ID·SAHARA 같은 대금 함정 보드는 재양전환 전까지 추격 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1780.4억원이며 WLD 비중은 약 75.6%입니다.",
-    "momentum_discipline": "XPL·WAVES actual green leaders + SOPH listing survivor + WLD attention core + PROS resilient green",
-    "diversification": "attention 1 + breakout 2 + listing survivor 1 + resilient green 1",
-    "cash_usage": "70%",
-    "rotation_speed": "very high"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1523.2억원이며 TRUMP 비중은 약 45.8%입니다.",
+    "momentum_discipline": "TRUMP headline breakout + XPL continuation + ONDO/NEAR survivor + ZRO secondary breakout",
+    "diversification": "headline 1 + continuation 1 + RWA survivor 1 + large-cap survivor 1 + secondary breakout 1",
+    "cash_usage": "80%",
+    "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "메이저는 전부 음전이고 보드의 대금 상위 다수가 붕괴형입니다. 오늘 오후는 넓은 공격보다 살아남은 녹색 3개를 우선하고, 나머지 2칸만 선별 코어로 채우는 쪽이 더 공격적입니다."
+    "summary": "메이저는 오후 대비 분명히 회복됐지만 fresh breakout breadth는 아직 얕습니다. 그래서 WLD 같은 trap을 버리되, survivor 4개와 breakout 1개를 섞는 쪽이 지금 가장 공격적입니다."
   },
   "rotation_map": [
     {
-      "bucket": "WLD → WLD",
+      "bucket": "WLD → TRUMP",
       "symbols": [
         "WLD",
-        "WLD"
+        "TRUMP"
       ],
-      "note": "최상위 attention 코어는 유지하되 비중을 줄여 narrow-tape 방어형으로 재편"
+      "note": "attention trap을 실제 녹색 headline leader로 교체"
     },
     {
-      "bucket": "ONDO → XPL",
+      "bucket": "WAVES → ONDO",
       "symbols": [
-        "ONDO",
-        "XPL"
+        "WAVES",
+        "ONDO"
       ],
-      "note": "음전된 RWA survivor 대신 실제 녹색 continuation 리더로 교체"
+      "note": "과열 후 되밀림이 큰 breakout 대신 구조가 더 깨끗한 liquid survivor 채택"
     },
     {
-      "bucket": "XLM → WAVES",
-      "symbols": [
-        "XLM",
-        "WAVES"
-      ],
-      "note": "무너진 liquid survivor 대신 fresh breakout 슬롯으로 교체"
-    },
-    {
-      "bucket": "SOPH → SOPH",
+      "bucket": "SOPH → NEAR",
       "symbols": [
         "SOPH",
-        "SOPH"
+        "NEAR"
       ],
-      "note": "상장 후속 생존주는 유지하되 새 가격 기준으로 비중 축소 재편"
+      "note": "fading listing beta 대신 대형 품질 survivor로 상향"
     },
     {
-      "bucket": "ZETA → PROS",
+      "bucket": "XPL → XPL",
       "symbols": [
-        "ZETA",
-        "PROS"
+        "XPL",
+        "XPL"
       ],
-      "note": "상단 체류 실패한 beta 슬롯 대신 더 안정적인 60%대 녹색 중형주로 교체"
+      "note": "가장 깔끔한 continuation 코어는 유지하되 새 가격 기준으로 균등 재편"
+    },
+    {
+      "bucket": "PROS → ZRO",
+      "symbols": [
+        "PROS",
+        "ZRO"
+      ],
+      "note": "건강한 소형 지속주를 더 강한 90%대 breakout 보조 슬롯으로 업그레이드"
     }
   ],
   "self_evaluation": {
-    "score": 8.4,
-    "summary": "오전의 cooling rebalance 자체는 필요했지만, 오후까지 WLD·ONDO·XLM·ZETA를 너무 오래 방어하면 안 됐습니다. 이번엔 실제 녹색 리더만 남기고 실투입도 80%→70%로 줄여 손상된 breadth를 반영했습니다."
+    "score": 8.1,
+    "summary": "오후 narrow-tape 축소 자체는 맞았지만, 메이저가 60대 위치까지 회복한 뒤에도 WLD·SOPH·WAVES 잔존 바스켓을 너무 오래 들고 있으면 안 됐습니다. 이번엔 breadth 회복을 인정하고 trap을 버리며 80% 재공격으로 속도를 되찾았습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 9.39,
+    "preferred_avg_change_pct_24h": 11.1,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 178038782231.5423,
-    "leader_turnover_share_pct": 75.57,
-    "leader_symbol": "WLD",
+    "preferred_turnover_total_krw_24h": 152323589955.57294,
+    "leader_turnover_share_pct": 45.78,
+    "leader_symbol": "TRUMP",
     "leader_concentration_warning": "high"
   },
-  "snapshot_updated_at_utc": "2026-06-12T06:56:02.185986+00:00",
+  "snapshot_updated_at_utc": "2026-06-12T12:49:38.362466+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": -3,
-    "top15_alt_low_range_count_delta": 6,
+    "top15_alt_positive_count_delta": 5,
+    "top15_alt_low_range_count_delta": -4,
     "weak_breadth_warning_changed": true,
-    "entered_top5_turnover": [],
-    "exited_top5_turnover": []
+    "entered_top5_turnover": [
+      "TRUMP",
+      "XLM"
+    ],
+    "exited_top5_turnover": [
+      "SAHARA",
+      "ASTR"
+    ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -45.17,
-    "major_positive_count_delta": -4,
-    "major_negative_count_delta": 4
+    "major_avg_range_position_pct_delta": 50.13,
+    "major_positive_count_delta": 2,
+    "major_negative_count_delta": -2
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 0,
-    "high_conviction_count": 1,
-    "quality_survivor_count": 2,
-    "relative_strength_reclaim_count": 2,
-    "breakout_cluster_active": false,
-    "summary": "fresh 0 / conviction 1 / survivor 2 / reclaim 2"
+    "fresh_breakout_count": 1,
+    "high_conviction_count": 11,
+    "quality_survivor_count": 14,
+    "relative_strength_reclaim_count": 15,
+    "breakout_cluster_active": true,
+    "summary": "fresh 1 / conviction 11 / survivor 14 / reclaim 15"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 18.0,
-    "major_avg_range_position_pct": 18.15,
-    "preferred_avg_change_pct_24h": 9.39,
-    "preferred_high_range_count": 1,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "regime": "btc_stabilizing_alt_continuation",
+    "regime_label_ko": "메이저 안정·알트 지속",
+    "regime_icon": "🟢",
+    "btc_range_position_pct": 74.7,
+    "major_avg_range_position_pct": 65.88,
+    "preferred_avg_change_pct_24h": 11.1,
+    "preferred_high_range_count": 3,
+    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 66.78,
-    "avg_day_high_gap_pct": -3.73,
-    "above_80_range_count": 1,
-    "summary": "고위치(80%+) 후보 1개 / 평균 위치 66.78%"
+    "avg_range_position_pct": 82.72,
+    "avg_day_high_gap_pct": -1.77,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 82.72%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -735,43 +745,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🪙",
-      "symbol": "XPL",
-      "last_price_krw": 127.0,
-      "threshold_krw": 121.0,
-      "distance_to_invalidation_pct": 4.96,
-      "status": "near"
-    },
-    {
-      "icon": "🪙",
-      "symbol": "WAVES",
-      "last_price_krw": 472.0,
-      "threshold_krw": 434.0,
-      "distance_to_invalidation_pct": 8.76,
+      "icon": "🧢",
+      "symbol": "TRUMP",
+      "last_price_krw": 3221.0,
+      "threshold_krw": 3050.0,
+      "distance_to_invalidation_pct": 5.61,
       "status": "healthy"
     },
     {
       "icon": "🪙",
-      "symbol": "SOPH",
-      "last_price_krw": 8.96,
-      "threshold_krw": 8.78,
-      "distance_to_invalidation_pct": 2.05,
+      "symbol": "XPL",
+      "last_price_krw": 138.0,
+      "threshold_krw": 132.0,
+      "distance_to_invalidation_pct": 4.55,
       "status": "near"
     },
     {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "last_price_krw": 749.0,
-      "threshold_krw": 735.0,
-      "distance_to_invalidation_pct": 1.9,
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "last_price_krw": 550.0,
+      "threshold_krw": 542.0,
+      "distance_to_invalidation_pct": 1.48,
       "status": "near"
     },
     {
-      "icon": "🧱",
-      "symbol": "PROS",
-      "last_price_krw": 856.0,
-      "threshold_krw": 834.0,
-      "distance_to_invalidation_pct": 2.64,
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "last_price_krw": 3186.0,
+      "threshold_krw": 3120.0,
+      "distance_to_invalidation_pct": 2.12,
+      "status": "near"
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ZRO",
+      "last_price_krw": 1435.0,
+      "threshold_krw": 1400.0,
+      "distance_to_invalidation_pct": 2.5,
       "status": "near"
     }
   ],
@@ -788,165 +798,165 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "PROS",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "ZRO",
       "action": "BUY",
-      "price_krw": 856.0,
-      "amount_delta": 578.0172444469084,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "PROS는 856.0원, +2.76%, 30.5억원 대금, 위치 71.4%로 과열 없이 60%대 구조를 지킨 드문 중형 녹색 슬롯입니다."
+      "price_krw": 1435.0,
+      "amount_delta": 395.815628605239,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "ZRO는 1435.0원, +7.25%, 67.7억원 대금, 위치 93.5%로 late-session 보조 breakout 슬롯 중 위치가 가장 좋습니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "WLD",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 749.0,
-      "amount_delta": 660.5911365107524,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "WLD는 749.0원, +0.27%, 1345.5억원 대금으로 여전히 업비트 최상위 attention 코어이지만 위치는 45.2%까지 식어 방어적 코어로만 사용합니다."
+      "price_krw": 3186.0,
+      "amount_delta": 178.2785395632511,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "NEAR는 3186.0원, +2.64%, 218.0억원 대금, 위치 74.3%로 대형 알트 중 구조가 가장 안정적인 quality survivor입니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "SOPH",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "ONDO",
       "action": "BUY",
-      "price_krw": 8.96,
-      "amount_delta": 55221.29031769571,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "SOPH는 8.96원, +9.27%, 220.1억원 대금, 위치 44.6%로 오전 고점에서 식었어도 여전히 양전환·대금을 함께 유지한 상장 후속 생존주입니다."
+      "price_krw": 550.0,
+      "amount_delta": 1032.7189582700328,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "ONDO는 550.0원, +0.18%, 306.9억원 대금, 위치 72.0%로 서사보다 가격이 다시 살아난 liquid RWA survivor입니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "WAVES",
-      "action": "BUY",
-      "price_krw": 472.0,
-      "amount_delta": 1048.2685619630374,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "WAVES는 472.0원, +22.28%, 42.7억원 대금, 위치 93.8%로 오늘 오후 업비트에서 가장 깔끔한 소형 breakout 리더입니다."
-    },
-    {
-      "timestamp": "2026-06-12T15:49:00+09:00",
+      "timestamp": "2026-06-12T21:49:00+09:00",
       "symbol": "XPL",
       "action": "BUY",
-      "price_krw": 127.0,
-      "amount_delta": 3895.927253909871,
-      "cash_delta_krw": -494782.7612465536,
-      "reason": "XPL은 127.0원, +12.39%, 141.7억원 대금, 위치 78.9%로 약한 보드에서 드물게 구조·대금이 함께 남은 선두 continuation입니다."
+      "price_krw": 138.0,
+      "amount_delta": 4115.908891655928,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "XPL은 138.0원, +22.12%, 233.2억원 대금, 위치 89.7%로 breadth rebound에서도 가장 깔끔한 continuation 코어입니다."
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "ZETA",
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "TRUMP",
+      "action": "BUY",
+      "price_krw": 3221.0,
+      "amount_delta": 176.34133096818317,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "TRUMP는 3221.0원, +23.32%, 697.4억원 대금, 위치 84.1%로 현재 업비트에서 가장 강한 headline breakout 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "PROS",
       "action": "SELL",
-      "price_krw": 57.5,
-      "amount_delta": -9529.821247883066,
-      "cash_delta_krw": 547964.7217532763,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
+      "price_krw": 897.0,
+      "amount_delta": -578.0172444469084,
+      "cash_delta_krw": 518481.46826887684,
+      "reason": "상단 체류는 좋지만 더 강한 90%대 보조 breakout ZRO로 업그레이드"
     },
     {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "SOPH",
-      "action": "SELL",
-      "price_krw": 8.96,
-      "amount_delta": -59879.3696478895,
-      "cash_delta_krw": 536519.15204509,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
-    },
-    {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "XLM",
-      "action": "SELL",
-      "price_krw": 285.0,
-      "amount_delta": -2018.0797936693555,
-      "cash_delta_krw": 575152.7411957663,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
-    },
-    {
-      "timestamp": "2026-06-12T15:49:00+09:00",
-      "symbol": "ONDO",
-      "action": "SELL",
-      "price_krw": 538.0,
-      "amount_delta": -1056.567138352253,
-      "cash_delta_krw": 568433.1204335121,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
-    },
-    {
-      "timestamp": "2026-06-12T15:49:00+09:00",
+      "timestamp": "2026-06-12T21:49:00+09:00",
       "symbol": "WLD",
       "action": "SELL",
-      "price_krw": 749.0,
-      "amount_delta": -770.4426160772044,
-      "cash_delta_krw": 577061.5194418262,
-      "reason": "메이저 평균 위치 18.1% 급락, 60%+ 고위치 실거래대금 알트가 3개뿐이라 오전 바스켓을 전량 정리하고 70% narrow-tape 바스켓으로 재편"
+      "price_krw": 727.0,
+      "amount_delta": -660.5911365107524,
+      "cash_delta_krw": 480249.75624331704,
+      "reason": "95.1억원 초대금이 남아도 -2.68%·27.8% 위치라 attention trap으로 확인돼 TRUMP로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "SOPH",
+      "action": "SELL",
+      "price_krw": 8.57,
+      "amount_delta": -55221.29031769571,
+      "cash_delta_krw": 473246.45802265225,
+      "reason": "26.8억원 대금에도 22.6% 위치·-13.78% gap라 fading leader로 분류해 NEAR로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "WAVES",
+      "action": "SELL",
+      "price_krw": 458.0,
+      "amount_delta": -1048.2685619630374,
+      "cash_delta_krw": 480107.00137907115,
+      "reason": "18%대 상승은 남았지만 -11.92% day-high gap로 exhausted blowoff 성격이 강해 ONDO survivor로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 138.0,
+      "amount_delta": -3895.927253909871,
+      "cash_delta_krw": 537637.9610395622,
+      "reason": "핵심 코어는 유지하되 21:49 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "report_sections": {
     "🧭 업비트 알트 톱5 구매 희망 후보": [
-      "1. 🧪 **XPL** — 127.0원, **+12.39%**, 24h 대금 약 **141.7억원**, 위치 **78.9%**",
-      "   → **clean turnover continuation**",
-      "2. 🌊 **WAVES** — 472.0원, **+22.28%**, 24h 대금 약 **42.7억원**, 위치 **93.8%**",
-      "   → **secondary breakout leader**",
-      "3. 🆕 **SOPH** — 8.96원, **+9.27%**, 24h 대금 약 **220.1억원**, 위치 **44.6%**",
-      "   → **listing momentum survivor**",
-      "4. 🌍 **WLD** — 749.0원, **+0.27%**, 24h 대금 약 **1345.5억원**, 위치 **45.2%**",
-      "   → **attention liquidity core**",
-      "5. 🧱 **PROS** — 856.0원, **+2.76%**, 24h 대금 약 **30.5억원**, 위치 **71.4%**",
-      "   → **mid-cap resilient green**"
+      "1. 🧢 **TRUMP** — 3,221원, **+23.32%**, 24h 대금 약 **697.4억원**, 위치 **84.1%**",
+      "   → **headline breakout beta**",
+      "2. 🧪 **XPL** — 138원, **+22.12%**, 24h 대금 약 **233.2억원**, 위치 **89.7%**",
+      "   → **clean continuation core**",
+      "3. 🌐 **ONDO** — 550원, **+0.18%**, 24h 대금 약 **306.9억원**, 위치 **72.0%**",
+      "   → **liquid RWA survivor**",
+      "4. 🌉 **NEAR** — 3,186원, **+2.64%**, 24h 대금 약 **218.0억원**, 위치 **74.3%**",
+      "   → **large-cap quality survivor**",
+      "5. 🟦 **ZRO** — 1,435원, **+7.25%**, 24h 대금 약 **67.7억원**, 위치 **93.5%**",
+      "   → **high-range secondary breakout**"
     ],
     "🪙 제외된 메이저 참고 신호": [
-      "- ₿ BTC: **-0.82%**, 위치 **18.0%**",
-      "- ◆ ETH: **-0.83%**, 위치 **21.1%**",
-      "- 💧 XRP: **-0.93%**, 위치 **12.9%**",
-      "- ☀️ SOL: **-0.85%**, 위치 **20.6%**",
-      "- 해석: **메이저 평균이 18.1%까지 내려와**, 오늘 오후는 공격해도 **좁게 공격**해야 합니다."
+      "- ₿ BTC: **+0.18%**, 위치 **74.7%**",
+      "- ◆ ETH: **-0.16%**, 위치 **59.5%**",
+      "- 💧 XRP: **-0.17%**, 위치 **53.1%**",
+      "- ☀️ SOL: **+0.40%**, 위치 **76.2%**",
+      "- 해석: **메이저 평균이 65.9%까지 회복**돼 오후의 narrow-tape 방어 논리는 끝났습니다."
     ],
     "🚀 공격 포트폴리오 전략": [
-      "- 현금 **30%**, **XPL·WAVES·SOPH·WLD·PROS 각 14%**",
-      "- 구조는 **breakout 2 + listing survivor 1 + attention core 1 + resilient green 1**",
-      "- 이번 회차 핵심은 **음전된 survivor/beta를 버리고 실제 녹색 3개를 전면 승격**한 점입니다.",
-      "- **ID·SAHARA·ASTR·XLM** 같은 붕괴 대금 보드는 계속 배제합니다."
+      "- 현금 **20%**, **TRUMP·XPL·ONDO·NEAR·ZRO 각 16%**",
+      "- 구조는 **headline breakout 1 + continuation 1 + survivor 2 + secondary breakout 1**",
+      "- 핵심은 **WLD attention trap 제거, breadth 회복형 4종 추가**입니다.",
+      "- **ID·SAHARA·ASTR** 같은 초대금 붕괴 보드는 계속 배제합니다."
     ],
     "✅ 가상 매매 실행 내용": [
-      "- **SELL** WLD / ONDO / XLM / SOPH / ZETA 전량 정리 후 새 가격 기준 재편",
-      "- **BUY** XPL / WAVES / SOPH / WLD / PROS 편입",
-      "- 실질 변화: **유지 2(WLD·SOPH) / 교체 3(ONDO→XPL, XLM→WAVES, ZETA→PROS)**",
-      "- 핵심 판단 변화: **60.9→18.1 급랭 + 60%대 실전 녹색 알트 3개뿐 → 80% 추격 바스켓 폐기, 70% narrow-tape 재편**"
+      "- **SELL** XPL / WAVES / SOPH / WLD / PROS 전량 정리 후 새 가격 기준 재편",
+      "- **BUY** TRUMP / XPL / ONDO / NEAR / ZRO 편입",
+      "- 실질 변화: **유지 1(XPL) / 교체 4(WLD→TRUMP, WAVES→ONDO, SOPH→NEAR, PROS→ZRO)**",
+      "- 핵심 판단 변화: **메이저 평균 18.1→65.9 급반등 + WLD trap 확인 → 70% 방어 바스켓 폐기, 80% breadth-rebound 재공격**"
     ],
     "📦 현재 포트폴리오 현황": [
-      "- 현금: **1,060,249원**",
-      "- 총 평가액: **3,534,163원**",
-      "- 실현손익: **-6,594,887원**",
-      "- 누적 수익률: **-65.95%**",
-      "- XPL: **3895.927개** @ 127.0원",
-      "- WAVES: **1048.269개** @ 472.0원",
-      "- SOPH: **55221.290개** @ 8.96원",
-      "- WLD: **660.591개** @ 749.0원",
-      "- PROS: **578.017개** @ 856.0원"
+      "- 현금: **709,994원**",
+      "- 총 평가액: **3,549,971원**",
+      "- 실현손익: **-6,579,078원**",
+      "- 누적 수익률: **-64.50%**",
+      "- TRUMP: **176.341개** @ 3,221원",
+      "- XPL: **4115.909개** @ 138원",
+      "- ONDO: **1032.719개** @ 550원",
+      "- NEAR: **178.279개** @ 3,186원",
+      "- ZRO: **395.816개** @ 1,435원"
     ],
     "🧠 자기 평가": [
-      "- 오전의 **ONDO·XLM·ZETA 방어는 오후까지 들고 가기엔 너무 느렸습니다.**",
-      "- 이번엔 **실제 녹색 leader만 남기고 80%→70%로 즉시 축소**해 breadth 붕괴를 반영했습니다.",
-      "- 아직도 **WLD 대금 집중**이 크기 때문에, 다음 회차엔 WLD mid-range가 더 무너지면 바로 버려야 합니다."
+      "- 오후의 **narrow-tape 70% 축소는 맞았지만, WLD·SOPH·WAVES 잔존은 늦었습니다.**",
+      "- 이번엔 **메이저 회복을 인정하고 attention trap을 버리며 80% 재공격**으로 속도를 되찾았습니다.",
+      "- 다음 회차엔 **TRUMP가 3,050원 밑으로 밀리면 hesitation 없이 beta를 줄여야** 합니다."
     ],
     "🛠️ 이번 사이클 개선점": [
-      "- **PROJECT.md**에 `major avg < 20 + 60%대·30억원+ 녹색 leader 3개 이하`일 때 **실투입 70% 상한**을 거는 narrow-tape 규칙을 추가했습니다.",
-      "- 보고서 상단을 **18.1 / 녹색실전3 / 실투입70** 형식으로 바꿔 장세 압축도를 더 빨리 읽게 했습니다.",
-      "- **대금 함정 보드와 실전 녹색 보드**를 더 선명하게 나눠 watch/reject 해설을 정리했습니다."
+      "- **PROJECT.md**에 `메이저 평균 60%+ 회복이어도 top-turnover attention 이름이 음전·30% 미만 위치면 즉시 탈락` 규칙을 추가했습니다.",
+      "- 보고서 상단을 **65.9 / fresh1 / survivor4 / 실투입80** 형식으로 더 압축했습니다.",
+      "- watchlist를 **breakout 후보 / survivor 후보 / trap 경계** 관점으로 다시 정리했습니다."
     ],
     "🧾 판단": [
-      "- narrow-tape aggressive rotation with 70% deployment into XPL WAVES SOPH WLD PROS"
+      "- breadth-rebound aggressive rotation with 80% deployment into TRUMP XPL ONDO NEAR ZRO"
     ],
     "🎯 신뢰도": [
-      "- medium-low"
+      "- medium"
     ],
     "👉 추천 행동": [
-      "- **BTC 94.6M / XPL 121 / WAVES 434 / SOPH 8.78 / WLD 735 / PROS 834** 하향 시 즉시 재평가",
-      "- **NEAR·ZRO**는 보조 survivor, **OPEN·ORBS**는 저대금 실험주로만 감시",
-      "- **ID·SAHARA·ASTR·XLM**은 재양전환 전까지 추격 금지"
+      "- **BTC 95.0M / TRUMP 3,050 / XPL 132 / ONDO 542 / NEAR 3,120 / ZRO 1,400** 하향 시 즉시 재평가",
+      "- **PROS·VIRTUAL·SUI·ENA**는 보조 승격 후보, **DOGE**는 meme-beta 중복 때문에 관찰만",
+      "- **WLD·ID·SAHARA·SOPH·WAVES**는 현재 가격대 late chase 금지"
     ],
     "⚠️ 리스크 메모": [
-      "- **공포탐욕 12**라 심리 바닥 구간이 계속됩니다.",
-      "- **메이저 평균 18.1%**는 시장 전체가 아직 위험-off라는 뜻입니다.",
-      "- **WAVES·OPEN·ORBS**류는 늦게 타면 급격히 식을 수 있습니다.",
-      "- **WLD**는 여전히 headline 리스크가 큽니다."
+      "- **공포탐욕 12**라 심리 지표는 여전히 매우 약합니다.",
+      "- **fresh breakout이 1개뿐**이라 완전한 risk-on 장으로 보기엔 이릅니다.",
+      "- **TRUMP**는 headline beta라 되밀림 속도도 매우 빠를 수 있습니다.",
+      "- **WLD**는 초대금이라도 negative attention trap일 수 있다는 점을 확인했습니다."
     ]
   }
 }

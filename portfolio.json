@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 1060248.7740997577,
-  "realized_pnl_krw": -6594887.22283954,
-  "last_valuation_krw": 3534162.5803325255,
-  "last_action": "NARROW_TAPE_REBALANCE_70_XPL_WAVES_SOPH_WLD_PROS",
-  "last_updated": "2026-06-12T15:49:00+09:00",
-  "trade_count": 706,
+  "cash_krw": 709994.2838106472,
+  "realized_pnl_krw": -6579078.384118829,
+  "last_valuation_krw": 3549971.419053237,
+  "last_action": "BREADTH_REBOUND_REBALANCE_80_TRUMP_XPL_ONDO_NEAR_ZRO",
+  "last_updated": "2026-06-12T21:49:00+09:00",
+  "trade_count": 716,
   "positions": {
+    "TRUMP": {
+      "market": "KRW-TRUMP",
+      "amount": 176.34133096818317,
+      "avg_buy_price_krw": 3221.0,
+      "last_price_krw": 3221.0,
+      "value_krw": 567995.427048518,
+      "thesis": "TRUMP는 3221.0원, +23.32%, 697.4억원 대금, 위치 84.1%로 현재 업비트에서 가장 강한 headline breakout 리더입니다.",
+      "strategy": "headline breakout beta",
+      "role": "headline breakout beta",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 15
+    },
     "XPL": {
       "market": "KRW-XPL",
-      "amount": 3895.927253909871,
-      "avg_buy_price_krw": 127.0,
-      "last_price_krw": 127.0,
-      "value_krw": 494782.7612465536,
-      "thesis": "XPL은 127.0원, +12.39%, 141.7억원 대금, 위치 78.9%로 약한 보드에서 드물게 구조·대금이 함께 남은 선두 continuation입니다.",
-      "strategy": "clean turnover continuation",
-      "role": "clean turnover continuation",
+      "amount": 4115.908891655928,
+      "avg_buy_price_krw": 138.0,
+      "last_price_krw": 138.0,
+      "value_krw": 567995.427048518,
+      "thesis": "XPL은 138.0원, +22.12%, 233.2억원 대금, 위치 89.7%로 breadth rebound에서도 가장 깔끔한 continuation 코어입니다.",
+      "strategy": "clean continuation core",
+      "role": "clean continuation core",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "WAVES": {
-      "market": "KRW-WAVES",
-      "amount": 1048.2685619630374,
-      "avg_buy_price_krw": 472.0,
-      "last_price_krw": 472.0,
-      "value_krw": 494782.7612465536,
-      "thesis": "WAVES는 472.0원, +22.28%, 42.7억원 대금, 위치 93.8%로 오늘 오후 업비트에서 가장 깔끔한 소형 breakout 리더입니다.",
-      "strategy": "secondary breakout leader",
-      "role": "secondary breakout leader",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 14
-    },
-    "SOPH": {
-      "market": "KRW-SOPH",
-      "amount": 55221.29031769571,
-      "avg_buy_price_krw": 8.96,
-      "last_price_krw": 8.96,
-      "value_krw": 494782.7612465536,
-      "thesis": "SOPH는 8.96원, +9.27%, 220.1억원 대금, 위치 44.6%로 오전 고점에서 식었어도 여전히 양전환·대금을 함께 유지한 상장 후속 생존주입니다.",
-      "strategy": "listing momentum survivor",
-      "role": "listing momentum survivor",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12
-    },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 660.5911365107524,
-      "avg_buy_price_krw": 749.0,
-      "last_price_krw": 749.0,
-      "value_krw": 494782.7612465536,
-      "thesis": "WLD는 749.0원, +0.27%, 1345.5억원 대금으로 여전히 업비트 최상위 attention 코어이지만 위치는 45.2%까지 식어 방어적 코어로만 사용합니다.",
-      "strategy": "attention liquidity core",
-      "role": "attention liquidity core",
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 1032.7189582700328,
+      "avg_buy_price_krw": 550.0,
+      "last_price_krw": 550.0,
+      "value_krw": 567995.427048518,
+      "thesis": "ONDO는 550.0원, +0.18%, 306.9억원 대금, 위치 72.0%로 서사보다 가격이 다시 살아난 liquid RWA survivor입니다.",
+      "strategy": "liquid RWA survivor",
+      "role": "liquid RWA survivor",
       "risk_limit_pct": 4,
       "profit_take_pct": 8
     },
-    "PROS": {
-      "market": "KRW-PROS",
-      "amount": 578.0172444469084,
-      "avg_buy_price_krw": 856.0,
-      "last_price_krw": 856.0,
-      "value_krw": 494782.7612465536,
-      "thesis": "PROS는 856.0원, +2.76%, 30.5억원 대금, 위치 71.4%로 과열 없이 60%대 구조를 지킨 드문 중형 녹색 슬롯입니다.",
-      "strategy": "mid-cap resilient green",
-      "role": "mid-cap resilient green",
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 178.2785395632511,
+      "avg_buy_price_krw": 3186.0,
+      "last_price_krw": 3186.0,
+      "value_krw": 567995.427048518,
+      "thesis": "NEAR는 3186.0원, +2.64%, 218.0억원 대금, 위치 74.3%로 대형 알트 중 구조가 가장 안정적인 quality survivor입니다.",
+      "strategy": "large-cap quality survivor",
+      "role": "large-cap quality survivor",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
+    },
+    "ZRO": {
+      "market": "KRW-ZRO",
+      "amount": 395.815628605239,
+      "avg_buy_price_krw": 1435.0,
+      "last_price_krw": 1435.0,
+      "value_krw": 567995.427048518,
+      "thesis": "ZRO는 1435.0원, +7.25%, 67.7억원 대금, 위치 93.5%로 late-session 보조 breakout 슬롯 중 위치가 가장 좋습니다.",
+      "strategy": "high-range secondary breakout",
+      "role": "high-range secondary breakout",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
     }
   },
   "watchlist": [
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "19.9억원급 대금과 51.2% 위치로 보조 survivor 후보지만 공격성이 부족해 watch 유지입니다."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "91.9% 위치와 30.3억원 대금으로 건강하지만 ZRO 대비 체급이 한 단계 작아 watch로 내렸습니다."
     },
     {
-      "symbol": "ZRO",
-      "market": "KRW-ZRO",
-      "reason": "108.5억원 대금 대비 48.9% 위치라 60%대 재회복이 먼저입니다."
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "82.4% 위치와 68.7억원 대금으로 보조 AI/agent survivor 후보입니다."
     },
     {
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "reason": "5.68% 상승은 좋지만 -9.62% day-high gap이 커 late chase 금지입니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "80.0% 위치와 81.8억원 대금으로 대형 품질축이지만 이번 회차는 NEAR가 더 강했습니다."
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "81.2% 위치는 좋지만 9.7억원 대금이라 후보 승격엔 유동성이 더 필요합니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "100% 위치는 좋지만 67.4억원 대금과 2.5% 상승으로 속도는 TRUMP·XPL보다 약합니다."
     },
     {
-      "symbol": "ORBS",
-      "market": "KRW-ORBS",
-      "reason": "91.7% 위치지만 15.2억원급이라 소형 실험주 이상으로 보긴 이릅니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "63.4% 위치의 솔라나계 survivor로 나쁘지 않지만 tonight top5 우선순위는 아닙니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "Ondo Perps 서사는 살아도 실제 가격은 21.7% 위치라 이번 회차는 제외가 맞습니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "100% 위치 fresh breakout이지만 meme-beta 중복을 줄이기 위해 TRUMP만 채택했습니다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "42.9억원 대금에도 16.7% 위치라 추격 금지 구간입니다."
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "91.8% 위치가 깔끔하지만 47.6억원급이라 코어 승격엔 체급 확인이 더 필요합니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "28.6억원 대금이 있어도 11.8% 위치라 오전 survivor 가정이 무효화됐습니다."
+      "symbol": "WAVES",
+      "market": "KRW-WAVES",
+      "reason": "대금은 남아도 -11.92% day-high gap가 너무 커 late chase 금지입니다."
     }
   ],
   "history": [
@@ -6466,6 +6466,96 @@
       "amount_delta": 578.0172444469084,
       "cash_delta_krw": -494782.7612465536,
       "reason": "PROS는 856.0원, +2.76%, 30.5억원 대금, 위치 71.4%로 과열 없이 60%대 구조를 지킨 드문 중형 녹색 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 138.0,
+      "amount_delta": -3895.927253909871,
+      "cash_delta_krw": 537637.9610395622,
+      "reason": "핵심 코어는 유지하되 21:49 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "WAVES",
+      "action": "SELL",
+      "price_krw": 458.0,
+      "amount_delta": -1048.2685619630374,
+      "cash_delta_krw": 480107.00137907115,
+      "reason": "18%대 상승은 남았지만 -11.92% day-high gap로 exhausted blowoff 성격이 강해 ONDO survivor로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "SOPH",
+      "action": "SELL",
+      "price_krw": 8.57,
+      "amount_delta": -55221.29031769571,
+      "cash_delta_krw": 473246.45802265225,
+      "reason": "26.8억원 대금에도 22.6% 위치·-13.78% gap라 fading leader로 분류해 NEAR로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 727.0,
+      "amount_delta": -660.5911365107524,
+      "cash_delta_krw": 480249.75624331704,
+      "reason": "95.1억원 초대금이 남아도 -2.68%·27.8% 위치라 attention trap으로 확인돼 TRUMP로 교체"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "PROS",
+      "action": "SELL",
+      "price_krw": 897.0,
+      "amount_delta": -578.0172444469084,
+      "cash_delta_krw": 518481.46826887684,
+      "reason": "상단 체류는 좋지만 더 강한 90%대 보조 breakout ZRO로 업그레이드"
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "TRUMP",
+      "action": "BUY",
+      "price_krw": 3221.0,
+      "amount_delta": 176.34133096818317,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "TRUMP는 3221.0원, +23.32%, 697.4억원 대금, 위치 84.1%로 현재 업비트에서 가장 강한 headline breakout 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "XPL",
+      "action": "BUY",
+      "price_krw": 138.0,
+      "amount_delta": 4115.908891655928,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "XPL은 138.0원, +22.12%, 233.2억원 대금, 위치 89.7%로 breadth rebound에서도 가장 깔끔한 continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 550.0,
+      "amount_delta": 1032.7189582700328,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "ONDO는 550.0원, +0.18%, 306.9억원 대금, 위치 72.0%로 서사보다 가격이 다시 살아난 liquid RWA survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3186.0,
+      "amount_delta": 178.2785395632511,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "NEAR는 3186.0원, +2.64%, 218.0억원 대금, 위치 74.3%로 대형 알트 중 구조가 가장 안정적인 quality survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-12T21:49:00+09:00",
+      "symbol": "ZRO",
+      "action": "BUY",
+      "price_krw": 1435.0,
+      "amount_delta": 395.815628605239,
+      "cash_delta_krw": -567995.427048518,
+      "reason": "ZRO는 1435.0원, +7.25%, 67.7억원 대금, 위치 93.5%로 late-session 보조 breakout 슬롯 중 위치가 가장 좋습니다."
     }
   ]
 }
