@@ -79,6 +79,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When a held top-turnover headline leader slips below roughly 40% of the day range while a positive 75%+ mega-reclaim or 85%+ continuation alternative with real liquidity is available, force the rotation next cycle instead of defending the older headline leader
 
+- When major average range-position pushes above roughly 90 and fresh breakouts are 5개 이상, do not keep 70-80% continuation names if 90%+ alternatives with comparable real turnover exist; upgrade at least 2 of 5 slots into those fresher leaders instead of defending the older basket
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
