@@ -77,6 +77,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When a prior beta-upgrade cycle cools fast and major average range-position slips below roughly 65 while 2개 이상 held beta names fall below roughly 50% of the day range or turn negative, force those beta slots out next cycle and refill with 60%+ liquid survivors/reclaimed leaders plus at most 1 fresh breakout instead of defending the failed acceleration basket
 - When major average range-position rebounds above roughly 60 but a top-turnover attention name stays negative and below roughly 30% of the day range, force it out next cycle and replace it with a positive 70%+ liquid survivor or breakout instead of defending raw turnover alone
 
+- When a held top-turnover headline leader slips below roughly 40% of the day range while a positive 75%+ mega-reclaim or 85%+ continuation alternative with real liquidity is available, force the rotation next cycle instead of defending the older headline leader
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
