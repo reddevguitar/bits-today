@@ -1,74 +1,73 @@
-- 시각: 2026-06-13 21:58 KST
-- 기준 한줄: **메이저 평균 위치 95.8%**, **fresh 6**, **실투입률 85%**, 이번 회차는 **breadth surge upgrade(XPL·MEGA → ONDO·TAO)** 입니다.
-- 시장 한줄 요약: 메이저 4종이 모두 90%대 위치로 붙으면서 업비트 보드가 다시 살아났습니다. 다만 **TRUMP 같은 초대금 stalled leader는 제외**하고, **WLD·DOGE·VVV·ONDO·TAO** 같은 상단 체류 5종으로 재편하는 편이 더 공격적입니다.
+- 시각: 2026-06-14 03:58 KST
+- 기준 한줄: **메이저 평균 위치 69.8%**, **fresh 1**, **실투입률 80%**, 이번 회차는 **cooled-breadth reset(WLD·VVV·ONDO·TAO → MEGA·OPEN·NEAR·DOGE·ENA)** 입니다.
+- 시장 한줄 요약: 메이저는 아직 플러스지만 직전 breadth surge는 확실히 식었습니다. 그래서 **상단 체류가 꺾인 WLD·VVV·TAO 추격을 멈추고, fresh 1개 + continuation 4개**로 바구니를 재구성했습니다.
 - 공포탐욕지수: 13 (Extreme Fear, Alternative.me)
-- BTC 참고: BTC 96.894M원대 / ETH 2.539M원대 / XRP 1,742원대 / SOL 102.7K원대
+- BTC 참고: BTC 96.837M원대 / ETH 2.532M원대 / XRP 1,729원대 / SOL 102.9K원대
 
 ## 🧭 업비트 알트 톱5 구매 희망 후보
-1. 🐕 **DOGE** — 134원, **+3.08%**, 24h 대금 **493.1억원**, 위치 **100.0%**  
-   → **fresh mega-liquidity breakout**
-2. 🌍 **WLD** — 755원, **+9.10%**, 24h 대금 **796.1억원**, 위치 **93.2%**  
-   → **attention-led fresh breakout**
-3. 🕶️ **VVV** — 26,100원, **+21.17%**, 24h 대금 **299.5억원**, 위치 **84.6%**  
-   → **AI high-beta continuation**
-4. 🌐 **ONDO** — 566원, **+5.79%**, 24h 대금 **217.3억원**, 위치 **94.3%**  
-   → **RWA quality breakout**
-5. 🧠 **TAO** — 375,100원, **+17.22%**, 24h 대금 **99.6억원**, 위치 **92.4%**  
-   → **AI infrastructure breakout**
+1. ⚡ **MEGA** — 84.2원, **+19.77%**, 24h 대금 **319.8억원**, 위치 **90.9%**  
+   → **fresh alt L2 breakout**
+2. 📬 **OPEN** — 361원, **+13.17%**, 24h 대금 **109.2억원**, 위치 **70.5%**  
+   → **AI/data continuation**
+3. 🌉 **NEAR** — 3,198원, **+5.44%**, 24h 대금 **162.0억원**, 위치 **66.7%**  
+   → **liquid L1 survivor**
+4. 🐕 **DOGE** — 132원, **+1.54%**, 24h 대금 **211.8억원**, 위치 **60.0%**  
+   → **mega-liquidity relative-strength**
+5. 🧪 **ENA** — 127원, **+6.72%**, 24h 대금 **66.3억원**, 위치 **75.0%**  
+   → **clean synthetic-beta continuation**
 
 ## 🪙 제외된 메이저 참고 신호
-- ₿ BTC: **+0.90%**, 위치 **97.9%**
-- ◆ ETH: **+0.99%**, 위치 **90.6%**
-- 💧 XRP: **+1.93%**, 위치 **94.7%**
-- ☀️ SOL: **+1.99%**, 위치 **100.0%**
-- 해석: 메이저가 버티는 정도가 아니라 **강하게 상단 재장악**했습니다. 이번 회차는 방어보다 **선별 공격**이 유리합니다.
+- ₿ BTC: **+0.84%**, 위치 **80.0%**
+- ◆ ETH: **+0.72%**, 위치 **68.8%**
+- 💧 XRP: **+1.17%**, 위치 **53.5%**
+- ☀️ SOL: **+2.18%**, 위치 **76.7%**
+- 해석: 메이저는 아직 살아 있지만 **전부 90%대였던 직전과는 다릅니다**. 보드 전체를 밀어주는 폭발력보다 **선별 지속력**이 더 중요해졌습니다.
 
 ## 🚀 공격 포트폴리오 전략
-- 현금 **15%**, **DOGE·WLD·VVV·ONDO·TAO 각 17%**
-- 구조는 **fresh 4 + high-beta AI 1**
-- 이번 회차 핵심은 **XPL·MEGA 같은 70%대 continuation을 ONDO·TAO 90%대 구조로 업그레이드**한 점입니다.
-- **TRUMP·AXL·SOPH·WAVES·ORCA·SAHARA**는 대금이 있어도 late chase 금지입니다.
+- 현금 **20.0%**, **MEGA·OPEN·NEAR·DOGE·ENA 각 16%**
+- 구조는 **fresh 1 + continuation/survivor 4**
+- **TRUMP·WLD·VVV 같은 시끄러운 attention 리더보다 구조가 더 깨끗한 70%대 군을 우선**했습니다.
 
 ## ✅ 가상 매매 실행 내용
-- **SELL** DOGE / WLD / VVV / XPL / MEGA 전량 정리 후 새 가격 기준 재편
-- **BUY** DOGE / WLD / VVV / ONDO / TAO 편입
-- 실질 변화: **유지 3(DOGE·WLD·VVV) / 교체 2(XPL→ONDO, MEGA→TAO)**
-- 핵심 판단 변화: **메이저 급반등 구간에서는 70%대 생존주보다 90%대 fresh leader를 우선**했습니다.
+- **SELL** DOGE / WLD / VVV / ONDO / TAO 전량 정리
+- **BUY** MEGA / OPEN / NEAR / DOGE / ENA 편입
+- 실질 변화: **유지 1(DOGE) / 교체 4(WLD→MEGA, VVV→OPEN, ONDO→NEAR, TAO→ENA)**
+- 핵심 판단 변화: **breadth surge가 식으면 고점 이격 큰 attention/beta 리더를 방어하지 않고 70%+ cleaner continuation으로 갈아탑니다.**
 
 ## 📦 현재 포트폴리오 현황
-- 현금: **527,995원**
-- 총 평가액: **3,519,969원**
-- 실현손익: **-6,609,081원**
-- 누적 수익률: **-64.80%**
-- DOGE: **4465.632개** @ 134원
-- WLD: **792.576개** @ 755원
-- VVV: **22.927개** @ 26,100원
-- ONDO: **1057.234개** @ 566원
-- TAO: **1.595294개** @ 375,100원
+- 현금: **696,537원**
+- 총 평가액: **3,482,684원**
+- 실현손익: **-6,646,366원**
+- 누적 수익률: **-65.17%**
+- MEGA: **6617.926421개** @ 84.2원
+- OPEN: **1543.571758개** @ 361원
+- NEAR: **174.243091개** @ 3,198원
+- DOGE: **4221.434883개** @ 132원
+- ENA: **4387.633107개** @ 127원
 
 ## 🧠 자기 평가
-- 직전 바스켓은 **DOGE·WLD·VVV 유지 판단은 맞았지만, breadth surge 대비 업그레이드 속도가 부족**했습니다.
-- 이번엔 **XPL·MEGA를 ONDO·TAO로 빠르게 교체**해 90%대 구조를 더 많이 담았습니다.
-- 다음 회차엔 **DOGE 132 / WLD 742 / VVV 25,400 / ONDO 554 / TAO 359,000** 이탈 여부를 1순위로 봅니다.
+- 직전 회차의 **breadth-surge 공격 자체는 맞았지만 새벽 fade를 너무 오래 안고 가면 안 됐습니다.**
+- 이번엔 **무효화·고점이격이 커진 WLD·VVV·ONDO·TAO를 한 번에 정리**해 구조 중심으로 다시 짰습니다.
+- 다음 회차엔 **MEGA 83 / OPEN 349 / NEAR 3,140 / DOGE 131 / ENA 123** 이탈 여부를 1순위로 봅니다.
 
 ## 🛠️ 이번 사이클 개선점
-- **major 90%+ & fresh 5개+ 구간 업그레이드 규칙을 PROJECT.md에 추가했습니다.**
-- **대시보드 아이콘 맵에 TAO를 추가해 후보 가독성을 개선했습니다.**
-- **ONDO·WLD·TAO는 검색 스니펫 기반 뉴스 체크를 selection 판단에 직접 반영했습니다.**
+- **major 평균 위치 급락 + fresh 1 이하일 때 70%+ continuation/survivor 3개 이상 강제 규칙을 PROJECT.md에 추가했습니다.**
+- **대시보드 아이콘 맵에 ICP·AKT를 추가해 leaderboard 가독성을 보강했습니다.**
+- **VVV 관련 Upbit listing controversy / scam 경고 뉴스를 selection 판단에 직접 반영했습니다.**
 
 ## 🧾 판단
-- aggressive breadth-surge upgrade into DOGE WLD VVV ONDO TAO with 85% deployment
+- aggressive cooled-breadth reset into MEGA OPEN NEAR DOGE ENA with 80% deployment
 
 ## 🎯 신뢰도
-- medium-high
+- medium
 
 ## 👉 추천 행동
-- **BTC 96.1M / DOGE 132 / WLD 742 / VVV 25,400 / ONDO 554 / TAO 359,000** 하향 시 즉시 재평가
-- **XPL·MEGA·NEAR·OPEN·ENA**는 보조 승격 후보
-- **TRUMP·AXL·SOPH·WAVES·ORCA·SAHARA**는 현재 가격대 추격 금지
+- **BTC 95.8M / MEGA 83 / OPEN 349 / NEAR 3,140 / DOGE 131 / ENA 123** 하향 시 즉시 재평가
+- **IP·ONDO·TAO·ICP·VIRTUAL**은 보조 승격 후보
+- **TRUMP·WLD·VVV·AXL·SOPH·ORCA**는 현재 가격대 추격 금지
 
 ## ⚠️ 리스크 메모
-- **공포탐욕 13**이라 외부 매크로 공포는 아직 해소되지 않았습니다.
-- **상위 15개 알트 중 저위치 종목도 7개**라서 보드 전체가 건강한 것은 아닙니다.
-- **WLD는 layoffs 오버행**, **VVV·TAO는 AI 고베타 변동성**이 남아 있습니다.
-- **TRUMP 같은 초대금 종목도 50% 미만 위치면 코어에 넣지 않는 규율**이 계속 중요합니다.
+- **공포탐욕 13**이라 외부 매크로 공포는 해소되지 않았습니다.
+- **fresh breakout이 1개뿐**이라 MEGA 실패 시 바스켓 전체 공격성이 약해질 수 있습니다.
+- **TRUMP·WLD처럼 대금 상위라도 mid-range 이하로 밀리면 함정일 수 있습니다.**
+- **DOGE는 유동성은 좋지만 속도는 느리고, ENA는 체급이 작아 되밀림이 빨라질 수 있습니다.**

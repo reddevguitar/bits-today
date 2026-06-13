@@ -88,3 +88,4 @@ The dashboard should evolve toward a compact portal experience:
 - easy comparison of 5 preferred picks
 - visible notes on what improved this cycle
 - compact scorecard, risk-plan, and rotation-bucket visibility
+- When a breadth-surge basket cools within one cycle (major average range-position drops by roughly 20 points or more and fresh breakouts shrink to 1 or fewer), force at least 3 of 5 preferred picks into 70%+ continuation/survivor names and remove faded attention/beta leaders with roughly -7% or worse day-high gaps instead of defending the prior surge basket

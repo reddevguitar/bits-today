@@ -96,6 +96,8 @@ ICONS = {
     'PRL': '💠',
     'RENDER': '🎨',
     'WLD': '🌍',
+    'ICP': '💻',
+    'AKT': '☁️',
     'BLEND': '🧪',
     'MANTRA': '🕉️',
     'LA': '📐',
