@@ -83,6 +83,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When major average range-position pushes above roughly 90 and fresh breakouts are 5개 이상, do not keep 70-80% continuation names if 90%+ alternatives with comparable real turnover exist; upgrade at least 2 of 5 slots into those fresher leaders instead of defending the older basket
 
+- When major average range-position falls below roughly 10 and 4개 이상 held preferred names simultaneously break invalidation or slip below roughly 35% of the day range, force a full reset into exactly 1 fresh breakout leader plus the remaining positive survivor/secondary-continuation names, and cap deployment around 70% until major average range-position recovers above roughly 20.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list

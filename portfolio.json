@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 893204.7800885729,
-  "realized_pnl_krw": -6556230.682817773,
-  "last_valuation_krw": 3572819.1203542915,
-  "last_action": "MAJOR_CRASH_SURVIVOR_RESET_75_WLD_MEGA_ZKP_OPEN_AKT",
-  "last_updated": "2026-06-14T15:58:00+09:00",
-  "trade_count": 766,
+  "cash_krw": 1032166.5233780285,
+  "realized_pnl_krw": -6688494.725245303,
+  "last_valuation_krw": 3440555.0779267615,
+  "last_action": "MAJOR_BREAKDOWN_FULL_RESET_70_ZKC_MIRA_SLX_LA_WLFI",
+  "last_updated": "2026-06-14T21:58:00+09:00",
+  "trade_count": 776,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 689.7334209178169,
-      "avg_buy_price_krw": 777.0,
-      "last_price_krw": 777.0,
-      "value_krw": 535922.8680531437,
-      "thesis": "WLD는 777원, +2.37%, 1,104.4억원 대금, 위치 72.7%로 메이저 붕괴 속에서도 살아남은 최상위 mega reclaim입니다.",
-      "strategy": "mega-reclaim brand proxy core",
-      "role": "mega-reclaim brand proxy core",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9
+    "ZKC": {
+      "market": "KRW-ZKC",
+      "amount": 4870.35096976488,
+      "avg_buy_price_krw": 98.9,
+      "last_price_krw": 98.9,
+      "value_krw": 481677.7109097466,
+      "thesis": "ZKC는 98.9원, +33.47%, 305.4억원 대금, 위치 92.1%로 이번 회차 유일한 fresh breakout 코어입니다.",
+      "strategy": "fresh zk infrastructure breakout core",
+      "role": "fresh zk infrastructure breakout core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 14
     },
-    "MEGA": {
-      "market": "KRW-MEGA",
-      "amount": 5402.4482666647555,
-      "avg_buy_price_krw": 99.2,
-      "last_price_krw": 99.2,
-      "value_krw": 535922.8680531437,
-      "thesis": "MEGA는 99.2원, +4.42%, 702.2억원 대금, 위치 74.8%로 급랭장에서도 구조를 지킨 실거래 코어입니다.",
-      "strategy": "real-time L2 survivor core",
-      "role": "real-time L2 survivor core",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
-    },
-    "ZKP": {
-      "market": "KRW-ZKP",
-      "amount": 5542.118594137991,
-      "avg_buy_price_krw": 96.7,
-      "last_price_krw": 96.7,
-      "value_krw": 535922.8680531437,
-      "thesis": "ZKP는 96.7원, +12.70%, 244.5억원 대금, 위치 66.9%로 눌림 후에도 강한 상승률을 유지한 survivor입니다.",
-      "strategy": "zk momentum survivor",
-      "role": "zk momentum survivor",
+    "MIRA": {
+      "market": "KRW-MIRA",
+      "amount": 5218.610085696063,
+      "avg_buy_price_krw": 92.3,
+      "last_price_krw": 92.3,
+      "value_krw": 481677.7109097466,
+      "thesis": "MIRA는 92.3원, +13.95%, 149.1억원 대금, 위치 74.1%로 붕괴장에서도 follow-through가 남은 중형 continuation입니다.",
+      "strategy": "mid-cap continuation core",
+      "role": "mid-cap continuation core",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "OPEN": {
-      "market": "KRW-OPEN",
-      "amount": 1421.546069106482,
-      "avg_buy_price_krw": 377.0,
-      "last_price_krw": 377.0,
-      "value_krw": 535922.8680531437,
-      "thesis": "OPEN은 377원, +4.14%, 119.0억원 대금, 위치 75.0%로 trap에서 다시 75% 상단을 회복한 reclaimed leader입니다.",
-      "strategy": "reclaimed data-alt continuation",
-      "role": "reclaimed data-alt continuation",
+    "SLX": {
+      "market": "KRW-SLX",
+      "amount": 1589.6954155437181,
+      "avg_buy_price_krw": 303.0,
+      "last_price_krw": 303.0,
+      "value_krw": 481677.7109097466,
+      "thesis": "SLX는 303.0원, +5.57%, 94.1억원 대금, 위치 78.8%로 메이저 붕괴 속 상대강도 survivor가 가장 깔끔합니다.",
+      "strategy": "clean survivor continuation",
+      "role": "clean survivor continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
+    },
+    "LA": {
+      "market": "KRW-LA",
+      "amount": 4116.903512049116,
+      "avg_buy_price_krw": 117.0,
+      "last_price_krw": 117.0,
+      "value_krw": 481677.7109097466,
+      "thesis": "LA는 117.0원, +4.46%, 26.9억원 대금, 위치 75.0%로 대금은 가볍지만 구조가 깨끗한 보조 continuation입니다.",
+      "strategy": "light-turnover clean continuation",
+      "role": "light-turnover clean continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 11
     },
-    "AKT": {
-      "market": "KRW-AKT",
-      "amount": 467.2387690088437,
-      "avg_buy_price_krw": 1147.0,
-      "last_price_krw": 1147.0,
-      "value_krw": 535922.8680531437,
-      "thesis": "AKT는 1,147원, +6.60%, 105.3억원 대금, 위치 67.5%로 AI 클라우드 순환매의 깔끔한 중형 continuation입니다.",
-      "strategy": "AI cloud continuation slot",
-      "role": "AI cloud continuation slot",
+    "WLFI": {
+      "market": "KRW-WLFI",
+      "amount": 5340.107659753288,
+      "avg_buy_price_krw": 90.2,
+      "last_price_krw": 90.2,
+      "value_krw": 481677.7109097466,
+      "thesis": "WLFI는 90.2원, +1.35%, 29.2억원 대금, 위치 59.6%로 약한 attention 잔존 자금을 담는 5번째 백업 슬롯입니다.",
+      "strategy": "attention residual backup slot",
+      "role": "attention residual backup slot",
       "risk_limit_pct": 5,
-      "profit_take_pct": 11
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "133원, 66.7% 위치, 156.5억원 대금으로 구조는 좋지만 이번 회차는 WLD·OPEN이 더 높은 주목도와 회복 품질을 보여 한 단계 아래입니다."
-    },
-    {
-      "symbol": "TAO",
-      "market": "KRW-TAO",
-      "reason": "411,600원, 51.6% 위치, 351.5억원 대금으로 체급은 크지만 메이저 급랭 구간에서는 AKT보다 확장 속도가 둔했습니다."
-    },
-    {
-      "symbol": "IRYS",
-      "market": "KRW-IRYS",
-      "reason": "29.5원, +6.88%지만 29.7원 기준을 실제 하향해 이번 회차 코어 유지 명분이 약해졌습니다."
-    },
-    {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "829원, 75.0% 위치와 깔끔한 gap이 남아 있어 보조 솔라나계 survivor 후보입니다."
-    },
-    {
       "symbol": "B3",
       "market": "KRW-B3",
-      "reason": "0.942원, +11.35%, 109.5억원 대금으로 공격성은 높지만 변동성 관리 차원에서 우선 watch로 둡니다."
+      "reason": "22.96B 대금과 +8.87%는 강하지만 위치 54.4%, 고점 괴리 -7.81%라 코어보다 event-fade watch가 맞습니다."
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "51.3원, 70.8% 위치와 41.3억원 대금으로 저체급 continuation 보조 후보입니다."
+      "symbol": "BABY",
+      "market": "KRW-BABY",
+      "reason": "22.7원, 55.6% 위치, 26.5억원 대금으로 WLFI 대체용 저체급 보조 후보입니다."
     },
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "295원, 81.8% 위치가 좋지만 44.2억원 대금이라 한 번 더 확인이 필요합니다."
+      "symbol": "PYTH",
+      "market": "KRW-PYTH",
+      "reason": "59.3원, 72.7% 위치, 18.8억원 대금으로 저대금이지만 구조가 깨끗한 솔라나계 보조 슬롯입니다."
+    },
+    {
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "369원은 아직 invalidation 바로 위지만 위치 34.2%·gap -6.35%라 즉시 복귀가 아니라 관찰이 맞습니다."
     },
     {
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "43.1원, 81.8% 위치와 57.0억원 대금으로 조용한 reclaim 후보입니다."
+      "reason": "42.9원, -1.15%지만 위치 66.7%로 음전환 최소화형 회복 후보입니다."
+    },
+    {
+      "symbol": "NEWT",
+      "market": "KRW-NEWT",
+      "reason": "83.1원, 48.4% 위치, 32.1억원 대금으로 한 번 더 상단 회복이 나오면 승격 가능합니다."
+    },
+    {
+      "symbol": "SPK",
+      "market": "KRW-SPK",
+      "reason": "29.5원, 70.0% 위치이나 17.5억원 대금이라 한 단계 더 검증이 필요합니다."
+    },
+    {
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "reason": "178원, 54.5% 위치와 21.6억원 대금으로 breadth 악화장 예비 replacement 슬롯입니다."
     }
   ],
   "history": [
@@ -7006,6 +7006,96 @@
       "amount_delta": 467.2387690088437,
       "cash_delta_krw": -535922.8680531437,
       "reason": "AKT는 1,147원, +6.60%, 105.3억원 대금, 위치 67.5%로 AI 클라우드 순환매의 깔끔한 중형 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 752.0,
+      "amount_delta": -689.7334209178169,
+      "cash_delta_krw": 518679.53253019834,
+      "reason": "759원 기준 하회와 27.3% 위치 붕괴로 mega reclaim 가정이 무효화돼 ZKC fresh breakout으로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 92.6,
+      "amount_delta": -5402.4482666647555,
+      "cash_delta_krw": 500266.70949315635,
+      "reason": "95원 기준 하회와 31.1% 위치, -10.1% gap로 구조 붕괴가 명확해 MIRA로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "ZKP",
+      "action": "SELL",
+      "price_krw": 88.9,
+      "amount_delta": -5542.118594137991,
+      "cash_delta_krw": 492694.3430188674,
+      "reason": "93원 기준 하회와 18.1% 위치, -12.84% gap로 stalled liquidity가 확인돼 SLX로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "OPEN",
+      "action": "SELL",
+      "price_krw": 369.0,
+      "amount_delta": -1421.546069106482,
+      "cash_delta_krw": 524550.4995002919,
+      "reason": "369원선 회복이 약하고 34.2% 위치, -6.35% gap로 late-session 구조가 약해 LA로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "AKT",
+      "action": "SELL",
+      "price_krw": 1094.0,
+      "amount_delta": -467.2387690088437,
+      "cash_delta_krw": 511159.213295675,
+      "reason": "1100원 기준 하회와 24.4% 위치로 continuation 명분이 사라져 WLFI 보조 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "ZKC",
+      "action": "BUY",
+      "price_krw": 98.9,
+      "amount_delta": 4870.35096976488,
+      "cash_delta_krw": -481677.7109097466,
+      "reason": "ZKC는 98.9원, +33.47%, 305.4억원 대금, 위치 92.1%로 이번 회차 유일한 fresh breakout 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "MIRA",
+      "action": "BUY",
+      "price_krw": 92.3,
+      "amount_delta": 5218.610085696063,
+      "cash_delta_krw": -481677.7109097466,
+      "reason": "MIRA는 92.3원, +13.95%, 149.1억원 대금, 위치 74.1%로 붕괴장에서도 follow-through가 남은 중형 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "SLX",
+      "action": "BUY",
+      "price_krw": 303.0,
+      "amount_delta": 1589.6954155437181,
+      "cash_delta_krw": -481677.7109097466,
+      "reason": "SLX는 303.0원, +5.57%, 94.1억원 대금, 위치 78.8%로 메이저 붕괴 속 상대강도 survivor가 가장 깔끔합니다."
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "LA",
+      "action": "BUY",
+      "price_krw": 117.0,
+      "amount_delta": 4116.903512049116,
+      "cash_delta_krw": -481677.7109097466,
+      "reason": "LA는 117.0원, +4.46%, 26.9억원 대금, 위치 75.0%로 대금은 가볍지만 구조가 깨끗한 보조 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-14T21:58:00+09:00",
+      "symbol": "WLFI",
+      "action": "BUY",
+      "price_krw": 90.2,
+      "amount_delta": 5340.107659753288,
+      "cash_delta_krw": -481677.7109097466,
+      "reason": "WLFI는 90.2원, +1.35%, 29.2억원 대금, 위치 59.6%로 약한 attention 잔존 자금을 담는 5번째 백업 슬롯입니다."
     }
   ]
 }
