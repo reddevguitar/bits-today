@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 539444.9579394107,
-  "realized_pnl_krw": -6532750.079550131,
-  "last_valuation_krw": 3596299.7236219333,
-  "last_action": "FRESH_BREADTH_REOPEN_85_MEGA_IRYS_ZKP_TAO_ENA",
-  "last_updated": "2026-06-14T09:59:00+09:00",
-  "trade_count": 756,
+  "cash_krw": 893204.7800885729,
+  "realized_pnl_krw": -6556230.682817773,
+  "last_valuation_krw": 3572819.1203542915,
+  "last_action": "MAJOR_CRASH_SURVIVOR_RESET_75_WLD_MEGA_ZKP_OPEN_AKT",
+  "last_updated": "2026-06-14T15:58:00+09:00",
+  "trade_count": 766,
   "positions": {
+    "WLD": {
+      "market": "KRW-WLD",
+      "amount": 689.7334209178169,
+      "avg_buy_price_krw": 777.0,
+      "last_price_krw": 777.0,
+      "value_krw": 535922.8680531437,
+      "thesis": "WLD는 777원, +2.37%, 1,104.4억원 대금, 위치 72.7%로 메이저 붕괴 속에서도 살아남은 최상위 mega reclaim입니다.",
+      "strategy": "mega-reclaim brand proxy core",
+      "role": "mega-reclaim brand proxy core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9
+    },
     "MEGA": {
       "market": "KRW-MEGA",
-      "amount": 6053.177753826777,
-      "avg_buy_price_krw": 101.0,
-      "last_price_krw": 101.0,
-      "value_krw": 611370.9531365045,
-      "thesis": "MEGA는 101원, +6.32%, 589.2억원 대금, 위치 76.5%로 새벽 이후에도 실거래대금이 유지되는 업비트 실전 코어입니다.",
-      "strategy": "real-time L2 continuation core",
-      "role": "real-time L2 continuation core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
-    },
-    "IRYS": {
-      "market": "KRW-IRYS",
-      "amount": 19979.442912957664,
-      "avg_buy_price_krw": 30.6,
-      "last_price_krw": 30.6,
-      "value_krw": 611370.9531365045,
-      "thesis": "IRYS는 30.6원, +10.87%, 92.9억원 대금, 위치 91.2%로 이번 회차 신규 fresh breakout 1순위입니다.",
-      "strategy": "fresh DA breakout",
-      "role": "fresh DA breakout",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 12
+      "amount": 5402.4482666647555,
+      "avg_buy_price_krw": 99.2,
+      "last_price_krw": 99.2,
+      "value_krw": 535922.8680531437,
+      "thesis": "MEGA는 99.2원, +4.42%, 702.2억원 대금, 위치 74.8%로 급랭장에서도 구조를 지킨 실거래 코어입니다.",
+      "strategy": "real-time L2 survivor core",
+      "role": "real-time L2 survivor core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
     },
     "ZKP": {
       "market": "KRW-ZKP",
-      "amount": 6381.742725850778,
-      "avg_buy_price_krw": 95.8,
-      "last_price_krw": 95.8,
-      "value_krw": 611370.9531365045,
-      "thesis": "ZKP는 95.8원, +11.66%, 87.3억원 대금, 위치 79.7%로 MEGA 다음 레벨의 깔끔한 확장형 후보입니다.",
-      "strategy": "zk identity momentum continuation",
-      "role": "zk identity momentum continuation",
+      "amount": 5542.118594137991,
+      "avg_buy_price_krw": 96.7,
+      "last_price_krw": 96.7,
+      "value_krw": 535922.8680531437,
+      "thesis": "ZKP는 96.7원, +12.70%, 244.5억원 대금, 위치 66.9%로 눌림 후에도 강한 상승률을 유지한 survivor입니다.",
+      "strategy": "zk momentum survivor",
+      "role": "zk momentum survivor",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "TAO": {
-      "market": "KRW-TAO",
-      "amount": 1.517426044022101,
-      "avg_buy_price_krw": 402900.0,
-      "last_price_krw": 402900.0,
-      "value_krw": 611370.9531365045,
-      "thesis": "TAO는 402,900원, +1.31%, 282.5억원 대금, 위치 87.6%로 체급과 구조를 함께 갖춘 AI 고베타 핵심축입니다.",
-      "strategy": "AI beta high-liquidity continuation",
-      "role": "AI beta high-liquidity continuation",
+    "OPEN": {
+      "market": "KRW-OPEN",
+      "amount": 1421.546069106482,
+      "avg_buy_price_krw": 377.0,
+      "last_price_krw": 377.0,
+      "value_krw": 535922.8680531437,
+      "thesis": "OPEN은 377원, +4.14%, 119.0억원 대금, 위치 75.0%로 trap에서 다시 75% 상단을 회복한 reclaimed leader입니다.",
+      "strategy": "reclaimed data-alt continuation",
+      "role": "reclaimed data-alt continuation",
       "risk_limit_pct": 5,
-      "profit_take_pct": 10
+      "profit_take_pct": 11
     },
-    "ENA": {
-      "market": "KRW-ENA",
-      "amount": 4776.3355713789415,
-      "avg_buy_price_krw": 128.0,
-      "last_price_krw": 128.0,
-      "value_krw": 611370.9531365045,
-      "thesis": "ENA는 128원, +0.79%, 66.1억원 대금, 위치 100%로 Coinbase 협업 헤드라인 뒤 저점이 높아진 clean continuation입니다.",
-      "strategy": "coinbase-backed synthetic-dollar continuation",
-      "role": "coinbase-backed synthetic-dollar continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9
+    "AKT": {
+      "market": "KRW-AKT",
+      "amount": 467.2387690088437,
+      "avg_buy_price_krw": 1147.0,
+      "last_price_krw": 1147.0,
+      "value_krw": 535922.8680531437,
+      "thesis": "AKT는 1,147원, +6.60%, 105.3억원 대금, 위치 67.5%로 AI 클라우드 순환매의 깔끔한 중형 continuation입니다.",
+      "strategy": "AI cloud continuation slot",
+      "role": "AI cloud continuation slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
     }
   },
   "watchlist": [
     {
       "symbol": "DOGE",
       "market": "KRW-DOGE",
-      "reason": "133원, 100% 위치, 159.2억원 대금으로 여전히 좋지만 이번 회차는 더 공격적인 TAO·IRYS를 우선 배치했습니다."
+      "reason": "133원, 66.7% 위치, 156.5억원 대금으로 구조는 좋지만 이번 회차는 WLD·OPEN이 더 높은 주목도와 회복 품질을 보여 한 단계 아래입니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "763원, 60.0% 위치, 991.2억원 대금으로 mega reclaim은 맞지만 headline 리스크 때문에 코어보다는 참고군입니다."
+      "symbol": "TAO",
+      "market": "KRW-TAO",
+      "reason": "411,600원, 51.6% 위치, 351.5억원 대금으로 체급은 크지만 메이저 급랭 구간에서는 AKT보다 확장 속도가 둔했습니다."
     },
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "70.5% 위치와 370.5억원 대금은 회복됐지만 listing 관련 잡음 오버행이 남아 한 단계 낮게 둡니다."
+      "symbol": "IRYS",
+      "market": "KRW-IRYS",
+      "reason": "29.5원, +6.88%지만 29.7원 기준을 실제 하향해 이번 회차 코어 유지 명분이 약해졌습니다."
     },
     {
-      "symbol": "AKT",
-      "market": "KRW-AKT",
-      "reason": "78.8% 위치와 52.7억원 대금으로 깔끔하지만 이번 회차 5번째 슬롯 경쟁에서 ENA에 밀렸습니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "829원, 75.0% 위치와 깔끔한 gap이 남아 있어 보조 솔라나계 survivor 후보입니다."
+    },
+    {
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "0.942원, +11.35%, 109.5억원 대금으로 공격성은 높지만 변동성 관리 차원에서 우선 watch로 둡니다."
     },
     {
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "reason": "78.6% 위치와 50.8억원 대금으로 보조 continuation 후보입니다."
+      "reason": "51.3원, 70.8% 위치와 41.3억원 대금으로 저체급 continuation 보조 후보입니다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "75.0% 위치는 좋지만 46.4억원 대금이라 한 번 더 확인이 필요합니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "295원, 81.8% 위치가 좋지만 44.2억원 대금이라 한 번 더 확인이 필요합니다."
     },
     {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "66.7% 위치와 81.0억원 대금으로 무난한 생존주지만 확장 속도는 ZKP보다 약합니다."
-    },
-    {
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "reason": "93.3% 위치는 매우 좋지만 44.7억원 대금으로 체급이 한 단계 작습니다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "43.1원, 81.8% 위치와 57.0억원 대금으로 조용한 reclaim 후보입니다."
     }
   ],
   "history": [
@@ -6916,6 +6916,96 @@
       "amount_delta": 4776.3355713789415,
       "cash_delta_krw": -611370.9531365045,
       "reason": "ENA는 128원, +0.79%, 66.1억원 대금, 위치 100%로 Coinbase 협업 헤드라인 뒤 저점이 높아진 clean continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 99.2,
+      "amount_delta": -6053.177753826777,
+      "cash_delta_krw": 600475.2331796163,
+      "reason": "15:58 기준 survivor 재편을 위해 전량 재편 후 WLD·OPEN·AKT 포함 5종 균등 바스켓으로 재구성"
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "IRYS",
+      "action": "SELL",
+      "price_krw": 29.5,
+      "amount_delta": -19979.442912957664,
+      "cash_delta_krw": 589393.565932251,
+      "reason": "29.7원 무효화 기준을 실제 하향해 fresh 가정이 깨져 survivor basket으로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "ZKP",
+      "action": "SELL",
+      "price_krw": 96.7,
+      "amount_delta": -6381.742725850778,
+      "cash_delta_krw": 617114.5215897702,
+      "reason": "핵심 survivor는 유지하되 15:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "TAO",
+      "action": "SELL",
+      "price_krw": 411600.0,
+      "amount_delta": -1.517426044022101,
+      "cash_delta_krw": 624572.5597194968,
+      "reason": "구조는 양호하지만 51.6% 위치로 둔화돼 더 깔끔한 67%+ survivor 조합으로 이동"
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "ENA",
+      "action": "SELL",
+      "price_krw": 126.0,
+      "amount_delta": -4776.3355713789415,
+      "cash_delta_krw": 601818.2819937466,
+      "reason": "126원으로 당일 약세·20% 위치가 확인돼 WLD reclaim 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 777.0,
+      "amount_delta": 689.7334209178169,
+      "cash_delta_krw": -535922.8680531437,
+      "reason": "WLD는 777원, +2.37%, 1,104.4억원 대금, 위치 72.7%로 메이저 붕괴 속에서도 살아남은 최상위 mega reclaim입니다."
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 99.2,
+      "amount_delta": 5402.4482666647555,
+      "cash_delta_krw": -535922.8680531437,
+      "reason": "MEGA는 99.2원, +4.42%, 702.2억원 대금, 위치 74.8%로 급랭장에서도 구조를 지킨 실거래 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "ZKP",
+      "action": "BUY",
+      "price_krw": 96.7,
+      "amount_delta": 5542.118594137991,
+      "cash_delta_krw": -535922.8680531437,
+      "reason": "ZKP는 96.7원, +12.70%, 244.5억원 대금, 위치 66.9%로 눌림 후에도 강한 상승률을 유지한 survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "OPEN",
+      "action": "BUY",
+      "price_krw": 377.0,
+      "amount_delta": 1421.546069106482,
+      "cash_delta_krw": -535922.8680531437,
+      "reason": "OPEN은 377원, +4.14%, 119.0억원 대금, 위치 75.0%로 trap에서 다시 75% 상단을 회복한 reclaimed leader입니다."
+    },
+    {
+      "timestamp": "2026-06-14T15:58:00+09:00",
+      "symbol": "AKT",
+      "action": "BUY",
+      "price_krw": 1147.0,
+      "amount_delta": 467.2387690088437,
+      "cash_delta_krw": -535922.8680531437,
+      "reason": "AKT는 1,147원, +6.60%, 105.3억원 대금, 위치 67.5%로 AI 클라우드 순환매의 깔끔한 중형 continuation입니다."
     }
   ]
 }
