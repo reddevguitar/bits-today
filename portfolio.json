@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 696536.7557596664,
-  "realized_pnl_krw": -6646366.024373732,
-  "last_valuation_krw": 3482683.7787983343,
-  "last_action": "COOLED_BREADTH_RESET_80_MEGA_OPEN_NEAR_DOGE_ENA",
-  "last_updated": "2026-06-14T03:58:00+09:00",
-  "trade_count": 746,
+  "cash_krw": 539444.9579394107,
+  "realized_pnl_krw": -6532750.079550131,
+  "last_valuation_krw": 3596299.7236219333,
+  "last_action": "FRESH_BREADTH_REOPEN_85_MEGA_IRYS_ZKP_TAO_ENA",
+  "last_updated": "2026-06-14T09:59:00+09:00",
+  "trade_count": 756,
   "positions": {
     "MEGA": {
       "market": "KRW-MEGA",
-      "amount": 6617.9264205193995,
-      "avg_buy_price_krw": 84.2,
-      "last_price_krw": 84.2,
-      "value_krw": 557229.4046077335,
-      "thesis": "MEGA는 84.2원, +19.77%, 319.8억원 대금, 위치 90.9%로 이번 보드의 유일한 fresh breakout 코어입니다.",
-      "strategy": "fresh alt L2 breakout",
-      "role": "fresh alt L2 breakout",
+      "amount": 6053.177753826777,
+      "avg_buy_price_krw": 101.0,
+      "last_price_krw": 101.0,
+      "value_krw": 611370.9531365045,
+      "thesis": "MEGA는 101원, +6.32%, 589.2억원 대금, 위치 76.5%로 새벽 이후에도 실거래대금이 유지되는 업비트 실전 코어입니다.",
+      "strategy": "real-time L2 continuation core",
+      "role": "real-time L2 continuation core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 11
+    },
+    "IRYS": {
+      "market": "KRW-IRYS",
+      "amount": 19979.442912957664,
+      "avg_buy_price_krw": 30.6,
+      "last_price_krw": 30.6,
+      "value_krw": 611370.9531365045,
+      "thesis": "IRYS는 30.6원, +10.87%, 92.9억원 대금, 위치 91.2%로 이번 회차 신규 fresh breakout 1순위입니다.",
+      "strategy": "fresh DA breakout",
+      "role": "fresh DA breakout",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "OPEN": {
-      "market": "KRW-OPEN",
-      "amount": 1543.5717579161592,
-      "avg_buy_price_krw": 361.0,
-      "last_price_krw": 361.0,
-      "value_krw": 557229.4046077335,
-      "thesis": "OPEN은 361원, +13.17%, 109.2억원 대금, 위치 70.5%로 고점 이격이 과하지 않은 AI/data continuation입니다.",
-      "strategy": "AI/data continuation",
-      "role": "AI/data continuation",
+    "ZKP": {
+      "market": "KRW-ZKP",
+      "amount": 6381.742725850778,
+      "avg_buy_price_krw": 95.8,
+      "last_price_krw": 95.8,
+      "value_krw": 611370.9531365045,
+      "thesis": "ZKP는 95.8원, +11.66%, 87.3억원 대금, 위치 79.7%로 MEGA 다음 레벨의 깔끔한 확장형 후보입니다.",
+      "strategy": "zk identity momentum continuation",
+      "role": "zk identity momentum continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 174.24309087171153,
-      "avg_buy_price_krw": 3198.0,
-      "last_price_krw": 3198.0,
-      "value_krw": 557229.4046077335,
-      "thesis": "NEAR는 3,198원, +5.44%, 162.0억원 대금, 위치 66.7%로 체급과 구조가 동시에 남은 품질 survivor입니다.",
-      "strategy": "liquid L1 survivor",
-      "role": "liquid L1 survivor",
+    "TAO": {
+      "market": "KRW-TAO",
+      "amount": 1.517426044022101,
+      "avg_buy_price_krw": 402900.0,
+      "last_price_krw": 402900.0,
+      "value_krw": 611370.9531365045,
+      "thesis": "TAO는 402,900원, +1.31%, 282.5억원 대금, 위치 87.6%로 체급과 구조를 함께 갖춘 AI 고베타 핵심축입니다.",
+      "strategy": "AI beta high-liquidity continuation",
+      "role": "AI beta high-liquidity continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 10
     },
-    "DOGE": {
-      "market": "KRW-DOGE",
-      "amount": 4221.43488339192,
-      "avg_buy_price_krw": 132.0,
-      "last_price_krw": 132.0,
-      "value_krw": 557229.4046077335,
-      "thesis": "DOGE는 132원, +1.54%, 211.8억원 대금, 위치 60.0%로 과열은 식었어도 업비트 메가유동성 상대강도 축입니다.",
-      "strategy": "mega-liquidity relative-strength",
-      "role": "mega-liquidity relative-strength",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9
-    },
     "ENA": {
       "market": "KRW-ENA",
-      "amount": 4387.633107147508,
-      "avg_buy_price_krw": 127.0,
-      "last_price_krw": 127.0,
-      "value_krw": 557229.4046077335,
-      "thesis": "ENA는 127원, +6.72%, 66.3억원 대금, 위치 75.0%로 과열도가 낮고 구조가 깔끔한 follow-through 후보입니다.",
-      "strategy": "clean synthetic-beta continuation",
-      "role": "clean synthetic-beta continuation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
+      "amount": 4776.3355713789415,
+      "avg_buy_price_krw": 128.0,
+      "last_price_krw": 128.0,
+      "value_krw": 611370.9531365045,
+      "thesis": "ENA는 128원, +0.79%, 66.1억원 대금, 위치 100%로 Coinbase 협업 헤드라인 뒤 저점이 높아진 clean continuation입니다.",
+      "strategy": "coinbase-backed synthetic-dollar continuation",
+      "role": "coinbase-backed synthetic-dollar continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9
     }
   },
   "watchlist": [
     {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "76.3% 위치와 61.5억원 대금으로 매우 깔끔하지만 이번 회차는 ENA와 DOGE를 우선 채택했습니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "토큰화/Perps 서사는 유효하지만 현재 위치 57.1%로 코어보다는 재상단 복귀 확인이 먼저입니다."
-    },
-    {
-      "symbol": "TAO",
-      "market": "KRW-TAO",
-      "reason": "20%대 급등은 강하지만 day-high gap -7.51%로 새벽 추격 품질이 직전 대비 둔화됐습니다."
-    },
-    {
-      "symbol": "ICP",
-      "market": "KRW-ICP",
-      "reason": "97.9% 위치는 매우 좋지만 49.6억원 대금으로 메인 5종 대비 체급이 한 단계 작습니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "71.8% 위치와 51.4억원 대금으로 무난하지만 핵심 슬롯 승격까지는 한 번 더 확인이 필요합니다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "체급은 좋지만 이번 회차는 제외 메이저 참고군에 가까운 성격이라 보조 후보로 둡니다."
-    },
-    {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "양전환은 유지됐지만 위치 56.5%와 gap -6.9%로 더 깨끗한 continuation들보다 뒤입니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "133원, 100% 위치, 159.2억원 대금으로 여전히 좋지만 이번 회차는 더 공격적인 TAO·IRYS를 우선 배치했습니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "대금은 압도적이지만 52.5% 위치와 -7.07% gap로 headline fade 성격이 커졌습니다."
+      "reason": "763원, 60.0% 위치, 991.2억원 대금으로 mega reclaim은 맞지만 headline 리스크 때문에 코어보다는 참고군입니다."
+    },
+    {
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "70.5% 위치와 370.5억원 대금은 회복됐지만 listing 관련 잡음 오버행이 남아 한 단계 낮게 둡니다."
+    },
+    {
+      "symbol": "AKT",
+      "market": "KRW-AKT",
+      "reason": "78.8% 위치와 52.7억원 대금으로 깔끔하지만 이번 회차 5번째 슬롯 경쟁에서 ENA에 밀렸습니다."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "78.6% 위치와 50.8억원 대금으로 보조 continuation 후보입니다."
+    },
+    {
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "75.0% 위치는 좋지만 46.4억원 대금이라 한 번 더 확인이 필요합니다."
+    },
+    {
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "66.7% 위치와 81.0억원 대금으로 무난한 생존주지만 확장 속도는 ZKP보다 약합니다."
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "93.3% 위치는 매우 좋지만 44.7억원 대금으로 체급이 한 단계 작습니다."
     }
   ],
   "history": [
@@ -6826,6 +6826,96 @@
       "amount_delta": 4387.633107147508,
       "cash_delta_krw": -557229.4046077335,
       "reason": "ENA는 127원, +6.72%, 66.3억원 대금, 위치 75.0%로 과열도가 낮고 구조가 깔끔한 follow-through 후보입니다."
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 101.0,
+      "amount_delta": -6617.9264205193995,
+      "cash_delta_krw": 668410.5684724593,
+      "reason": "09:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "OPEN",
+      "action": "SELL",
+      "price_krw": 357.0,
+      "amount_delta": -1543.5717579161592,
+      "cash_delta_krw": 551055.1175760688,
+      "reason": "09:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3198.0,
+      "amount_delta": -174.24309087171153,
+      "cash_delta_krw": 557229.4046077335,
+      "reason": "09:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "DOGE",
+      "action": "SELL",
+      "price_krw": 133.0,
+      "amount_delta": -4221.43488339192,
+      "cash_delta_krw": 561450.8394911254,
+      "reason": "09:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "ENA",
+      "action": "SELL",
+      "price_krw": 128.0,
+      "amount_delta": -4387.633107147508,
+      "cash_delta_krw": 561617.037714881,
+      "reason": "09:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 101.0,
+      "amount_delta": 6053.177753826777,
+      "cash_delta_krw": -611370.9531365045,
+      "reason": "MEGA는 101원, +6.32%, 589.2억원 대금, 위치 76.5%로 새벽 이후에도 실거래대금이 유지되는 업비트 실전 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "IRYS",
+      "action": "BUY",
+      "price_krw": 30.6,
+      "amount_delta": 19979.442912957664,
+      "cash_delta_krw": -611370.9531365045,
+      "reason": "IRYS는 30.6원, +10.87%, 92.9억원 대금, 위치 91.2%로 이번 회차 신규 fresh breakout 1순위입니다."
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "ZKP",
+      "action": "BUY",
+      "price_krw": 95.8,
+      "amount_delta": 6381.742725850778,
+      "cash_delta_krw": -611370.9531365045,
+      "reason": "ZKP는 95.8원, +11.66%, 87.3억원 대금, 위치 79.7%로 MEGA 다음 레벨의 깔끔한 확장형 후보입니다."
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "TAO",
+      "action": "BUY",
+      "price_krw": 402900.0,
+      "amount_delta": 1.517426044022101,
+      "cash_delta_krw": -611370.9531365045,
+      "reason": "TAO는 402,900원, +1.31%, 282.5억원 대금, 위치 87.6%로 체급과 구조를 함께 갖춘 AI 고베타 핵심축입니다."
+    },
+    {
+      "timestamp": "2026-06-14T09:59:00+09:00",
+      "symbol": "ENA",
+      "action": "BUY",
+      "price_krw": 128.0,
+      "amount_delta": 4776.3355713789415,
+      "cash_delta_krw": -611370.9531365045,
+      "reason": "ENA는 128원, +0.79%, 66.1억원 대금, 위치 100%로 Coinbase 협업 헤드라인 뒤 저점이 높아진 clean continuation입니다."
     }
   ]
 }
