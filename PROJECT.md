@@ -90,6 +90,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When majors all reclaim roughly 85%+ of the day range together and 2개 이상 held small-cap breakouts slip below roughly 50% of the day range, force the next cycle to replace those fading slots with larger-liquidity 75%+ continuation leaders instead of defending the earlier spike basket
 
+- When major average range-position stays above roughly 80, top15 non-major positives are 10개 이상, and fresh breakouts fall to 0, keep deployment around 90% and allow 60-80% range-position mega/liquid continuation leaders to remain in the basket; however cap every position at equal weight and require at least 3 of 5 picks to come from multi-10B KRW liquidity names instead of overreacting to the fresh-count drop alone.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
