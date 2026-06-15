@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 502085.4472804615,
-  "realized_pnl_krw": -6781813.487968987,
-  "last_valuation_krw": 3347236.3152030767,
-  "last_action": "TRAP_PURGE_ROTATION_85_WLD_CHIP_KERNEL_JTO_ONDO",
-  "last_updated": "2026-06-15T15:58:00+09:00",
-  "trade_count": 806,
+  "cash_krw": 330822.8497364505,
+  "realized_pnl_krw": -6820821.305807565,
+  "last_valuation_krw": 3308228.4973644977,
+  "last_action": "LIQUID_LEADER_UPGRADE_90_WLD_JTO_NEAR_XLM_ONDO",
+  "last_updated": "2026-06-15T21:58:00+09:00",
+  "trade_count": 816,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 640.0789354156615,
-      "avg_buy_price_krw": 889.0,
-      "last_price_krw": 889.0,
-      "value_krw": 569030.173584523,
-      "thesis": "WLD는 889원, +12.82%, 1,347.1억원 대금, 위치 86.9%로 layoffs headline을 흡수한 업비트 최강 mega-reclaim 리더입니다.",
+      "amount": 647.2620973104451,
+      "avg_buy_price_krw": 920.0,
+      "last_price_krw": 920.0,
+      "value_krw": 595481.1295256095,
+      "thesis": "WLD는 920원, +16.75%, 1,668.3억원 대금, 위치 85.7%로 감원 헤드라인을 완전히 흡수한 업비트 최강 attention 리더입니다.",
       "strategy": "mega-reclaim attention core",
       "role": "mega-reclaim attention core",
       "risk_limit_pct": 5,
-      "profit_take_pct": 14
-    },
-    "CHIP": {
-      "market": "KRW-CHIP",
-      "amount": 8740.86288148269,
-      "avg_buy_price_krw": 65.1,
-      "last_price_krw": 65.1,
-      "value_krw": 569030.173584523,
-      "thesis": "CHIP은 65.1원, +16.67%, 220.4억원 대금, 위치 97.1%로 오후 새 fresh breakout 1순위입니다.",
-      "strategy": "fresh breakout beta core",
-      "role": "fresh breakout beta core",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 18
-    },
-    "KERNEL": {
-      "market": "KRW-KERNEL",
-      "amount": 5983.492887324112,
-      "avg_buy_price_krw": 95.1,
-      "last_price_krw": 95.1,
-      "value_krw": 569030.173584523,
-      "thesis": "KERNEL은 95.1원, +23.67%, 166.2억원 대금, 위치 86.5%로 새 고베타 리더 중 가장 확장성이 좋습니다.",
-      "strategy": "high-beta new leader core",
-      "role": "high-beta new leader core",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 18
+      "profit_take_pct": 15
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 621.8909000923749,
-      "avg_buy_price_krw": 915.0,
-      "last_price_krw": 915.0,
-      "value_krw": 569030.173584523,
-      "thesis": "JTO는 915원, +8.54%, 80.3억원 대금, 위치 90.7%로 솔라나계 follow-through가 가장 깔끔합니다.",
-      "strategy": "Solana follow-through fresh core",
-      "role": "Solana follow-through fresh core",
+      "amount": 614.5316094175537,
+      "avg_buy_price_krw": 969.0,
+      "last_price_krw": 969.0,
+      "value_krw": 595481.1295256095,
+      "thesis": "JTO는 969원, +14.95%, 152.5억원 대금, 위치 91.6%로 솔라나 강세를 가장 깔끔하게 따라가는 고베타 코어입니다.",
+      "strategy": "Solana beta breakout core",
+      "role": "Solana beta breakout core",
       "risk_limit_pct": 5,
-      "profit_take_pct": 14
+      "profit_take_pct": 16
+    },
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 160.46379130304757,
+      "avg_buy_price_krw": 3711.0,
+      "last_price_krw": 3711.0,
+      "value_krw": 595481.1295256095,
+      "thesis": "NEAR는 3,711원, +11.04%, 313.9억원 대금, 위치 89.4%로 오늘 밤 대형 알트 중 가장 깨끗한 고가권 지속형입니다.",
+      "strategy": "large-cap quality breakout",
+      "role": "large-cap quality breakout",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 12
+    },
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 1946.0167631555867,
+      "avg_buy_price_krw": 306.0,
+      "last_price_krw": 306.0,
+      "value_krw": 595481.1295256095,
+      "thesis": "XLM은 306원, +6.25%, 353.5억원 대금, 위치 83.3%로 결제계 대형 알트 중 가장 실전적인 유동성 지속축입니다.",
+      "strategy": "liquid payment continuation core",
+      "role": "liquid payment continuation core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 996.5502164352417,
-      "avg_buy_price_krw": 571.0,
-      "last_price_krw": 571.0,
-      "value_krw": 569030.173584523,
-      "thesis": "ONDO는 571원, +2.88%, 366.7억원 대금, 위치 79.4%로 공격 바스켓의 유동성 앵커 역할에 가장 적합합니다.",
+      "amount": 1033.8214054264054,
+      "avg_buy_price_krw": 576.0,
+      "last_price_krw": 576.0,
+      "value_krw": 595481.1295256095,
+      "thesis": "ONDO는 576원, +3.78%, 430.9억원 대금, 위치 91.4%로 RWA 뉴스와 실거래대금이 같이 받쳐 주는 유동성 앵커입니다.",
       "strategy": "liquid RWA continuation core",
       "role": "liquid RWA continuation core",
       "risk_limit_pct": 4,
-      "profit_take_pct": 11
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3562원, +6.58%, 위치 87.5%의 고품질 L1이지만 이번 회차는 ONDO·JTO가 더 다양한 구조를 제공합니다."
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "98.4원, +3.91%, 위치 61.7%, 371.2억원 대금으로 유동성은 좋지만 코어5보다 종가 품질이 약합니다."
     },
     {
       "symbol": "TAO",
       "market": "KRW-TAO",
-      "reason": "420,000원, +2.79%, 위치 60.1%, 144.8억원 대금으로 AI 대형 품질축이지만 fresh 강도는 한 단계 약합니다."
+      "reason": "420,300원, +2.86%, 위치 64.8%, 187.5억원 대금으로 품질은 좋지만 오늘은 NEAR가 더 강합니다."
     },
     {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "473원, +3.50%, 위치 68.0%, 102.4억원 대금으로 깔끔하지만 코어5 대비 상단 체류가 약합니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "1,223원, +0.99%, 위치 89.8%, 147.1억원 대금으로 구조는 깔끔하지만 상승률이 더 약합니다."
     },
     {
-      "symbol": "WAL",
-      "market": "KRW-WAL",
-      "reason": "56.8원, +9.23%, 위치 85.7%로 강하나 40.9억원 대금이라 보조 승격 후보입니다."
+      "symbol": "KERNEL",
+      "market": "KRW-KERNEL",
+      "reason": "87원, +13.13%, 위치 47.6%로 강한 일중 상승에도 종가 품질 붕괴가 커 코어에서 제외합니다."
     },
     {
-      "symbol": "AKT",
-      "market": "KRW-AKT",
-      "reason": "1242원, +2.73%, 위치 51.7%로 펀더멘털은 좋지만 현재는 상단 유지력이 부족합니다."
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "59.5원, +6.63%, 위치 38.5%, 323.4억원 대금으로 거래대금은 크지만 전형적인 fade입니다."
     },
     {
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "92.1원, +2.33%, 위치 80.6%지만 대금 체급이 ONDO보다 작아 차순위입니다."
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "282원, +2.55%, 위치 76.5%, 132.1억원 대금으로 보조 continuation 후보입니다."
     },
     {
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "reason": "717원, +0.56%, 위치 87.5%로 버티지만 24.3억원 대금이라 실전 코어5에는 못 미칩니다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "22.4원, -1.32%, 위치 66.7%로 구조는 남았지만 음전이라 차순위입니다."
     },
     {
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "132원, +1.54%, 위치 71.4%, 55.7억원 대금으로 무난한 보조 continuation 후보입니다."
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "0.898원, +0.67%, 위치 5.6%로 반등 실패형이라 재편입 금지입니다."
     }
   ],
   "history": [
@@ -7366,6 +7366,96 @@
       "amount_delta": 996.5502164352417,
       "cash_delta_krw": -569030.173584523,
       "reason": "ONDO는 571원, +2.88%, 366.7억원 대금, 위치 79.4%로 공격 바스켓의 유동성 앵커 역할에 가장 적합합니다."
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 920.0,
+      "amount_delta": -640.0789354156615,
+      "cash_delta_krw": 588872.6205824085,
+      "reason": "핵심 코어는 유지하되 21:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 59.5,
+      "amount_delta": -8740.86288148269,
+      "cash_delta_krw": 520081.34144822,
+      "reason": "323.4억원 대금에도 38.5% 위치·-10.79% gap로 late-session fade가 명확해 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "KERNEL",
+      "action": "SELL",
+      "price_krw": 87.0,
+      "amount_delta": -5983.492887324112,
+      "cash_delta_krw": 520563.88119719777,
+      "reason": "259.9억원 대금에도 47.6% 위치·-11.13% gap로 종가 품질이 무너져 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 969.0,
+      "amount_delta": -621.8909000923749,
+      "cash_delta_krw": 602612.2821895112,
+      "reason": "솔라나 베타 코어는 유지하되 21:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 576.0,
+      "amount_delta": -996.5502164352417,
+      "cash_delta_krw": 574012.9246666993,
+      "reason": "유동성 앵커는 유지하되 21:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 920.0,
+      "amount_delta": 647.2620973104451,
+      "cash_delta_krw": -595481.1295256095,
+      "reason": "WLD는 920원, +16.75%, 1,668.3억원 대금, 위치 85.7%로 감원 헤드라인을 완전히 흡수한 업비트 최강 attention 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 969.0,
+      "amount_delta": 614.5316094175537,
+      "cash_delta_krw": -595481.1295256095,
+      "reason": "JTO는 969원, +14.95%, 152.5억원 대금, 위치 91.6%로 솔라나 강세를 가장 깔끔하게 따라가는 고베타 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3711.0,
+      "amount_delta": 160.46379130304757,
+      "cash_delta_krw": -595481.1295256095,
+      "reason": "NEAR는 3,711원, +11.04%, 313.9억원 대금, 위치 89.4%로 오늘 밤 대형 알트 중 가장 깨끗한 고가권 지속형입니다."
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 306.0,
+      "amount_delta": 1946.0167631555867,
+      "cash_delta_krw": -595481.1295256095,
+      "reason": "XLM은 306원, +6.25%, 353.5억원 대금, 위치 83.3%로 결제계 대형 알트 중 가장 실전적인 유동성 지속축입니다."
+    },
+    {
+      "timestamp": "2026-06-15T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 576.0,
+      "amount_delta": 1033.8214054264054,
+      "cash_delta_krw": -595481.1295256095,
+      "reason": "ONDO는 576원, +3.78%, 430.9억원 대금, 위치 91.4%로 RWA 뉴스와 실거래대금이 같이 받쳐 주는 유동성 앵커입니다."
     }
   ]
 }

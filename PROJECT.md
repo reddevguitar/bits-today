@@ -88,6 +88,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When breadth rebounds sharply from a fresh-breakout drought (for example fresh breakouts rise from 0-1 to 2+ and top15 low-range count improves by 5 or more) while major average range-position is still below roughly 30, allow up to 2 former broken leaders back into the basket only if each reclaims 70%+ of the day range with better than roughly -3% day-high gap, and keep at least 1 non-recycled survivor/quality slot so the rebound basket does not overfit yesterday's failures.
 - When major average range-position rebounds above roughly 45 but 2개 이상 held reclaim/beta names simultaneously fall below roughly 30% of the day range or worse than roughly -8% day-high gap, force those broken slots out next cycle and rebuild around fresh 85%+ leaders plus clean 75%+ liquid continuations instead of giving the rebound basket another chance
 
+- When majors all reclaim roughly 85%+ of the day range together and 2개 이상 held small-cap breakouts slip below roughly 50% of the day range, force the next cycle to replace those fading slots with larger-liquidity 75%+ continuation leaders instead of defending the earlier spike basket
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
