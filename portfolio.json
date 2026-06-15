@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 1150631.8068424484,
-  "realized_pnl_krw": -6841530.355050783,
-  "last_valuation_krw": 3287519.4481212813,
-  "last_action": "FOUR_INVALIDATIONS_RESET_65_BABY_AKT_CHIP_WLD_LA",
-  "last_updated": "2026-06-15T03:58:00+09:00",
-  "trade_count": 786,
+  "cash_krw": 680428.705956652,
+  "realized_pnl_krw": -6726906.273388804,
+  "last_valuation_krw": 3402143.5297832596,
+  "last_action": "BREADTH_REBOUND_ROTATION_80_WLD_B3_SLX_ZKC_AKT",
+  "last_updated": "2026-06-15T09:58:00+09:00",
+  "trade_count": 796,
   "positions": {
-    "BABY": {
-      "market": "KRW-BABY",
-      "amount": 17373.070254299455,
-      "avg_buy_price_krw": 24.6,
-      "last_price_krw": 24.6,
-      "value_krw": 427377.5282557666,
-      "thesis": "BABY는 24.6원, +10.31%, 44.8억원 대금, 위치 96.7%로 현재 보드에서 드문 상단 체류형 fresh 리더입니다.",
-      "strategy": "fresh low-float breakout core",
-      "role": "fresh low-float breakout core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 14
-    },
-    "AKT": {
-      "market": "KRW-AKT",
-      "amount": 374.2360142344716,
-      "avg_buy_price_krw": 1142.0,
-      "last_price_krw": 1142.0,
-      "value_krw": 427377.5282557666,
-      "thesis": "AKT는 1,142원, +6.13%, 96.6억원 대금, 위치 63.4%로 AI/컴퓨트 축 중 가장 읽기 쉬운 survivor입니다.",
-      "strategy": "AI compute survivor core",
-      "role": "AI compute survivor core",
+    "WLD": {
+      "market": "KRW-WLD",
+      "amount": 665.4559471458699,
+      "avg_buy_price_krw": 818.0,
+      "last_price_krw": 818.0,
+      "value_krw": 544342.9647653216,
+      "thesis": "WLD는 814원, +3.30%, 936.9억원 대금, 위치 93.9%로 현재 업비트 비메이저 중 가장 선명한 초대금 fresh 리더입니다.",
+      "strategy": "mega-attention fresh breakout core",
+      "role": "mega-attention fresh breakout core",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
-    "CHIP": {
-      "market": "KRW-CHIP",
-      "amount": 7958.61318912042,
-      "avg_buy_price_krw": 53.7,
-      "last_price_krw": 53.7,
-      "value_krw": 427377.5282557666,
-      "thesis": "CHIP은 53.7원, +5.09%, 108.4억원 대금, 위치 65.1%로 breadth 악화 속에서도 구조가 가장 안정적인 continuation입니다.",
-      "strategy": "liquid AI continuation core",
-      "role": "liquid AI continuation core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
+    "B3": {
+      "market": "KRW-B3",
+      "amount": 560600.3756594455,
+      "avg_buy_price_krw": 0.971,
+      "last_price_krw": 0.971,
+      "value_krw": 544342.9647653216,
+      "thesis": "B3는 0.979원, +9.75%, 318.3억원 대금, 위치 81.3%로 저가 알트 순환매에서 가장 공격적인 continuation 슬롯입니다.",
+      "strategy": "low-price beta continuation core",
+      "role": "low-price beta continuation core",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 16
     },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 559.3946704918411,
-      "avg_buy_price_krw": 764.0,
-      "last_price_krw": 764.0,
-      "value_krw": 427377.5282557666,
-      "thesis": "WLD는 764원, +0.66%, 769.9억원 대금, 위치 49.1%로 과열은 식었지만 초대금 회복 잔존 자금이 확인되는 mega-attention recovery 슬롯입니다.",
-      "strategy": "mega-attention recovery slot",
-      "role": "mega-attention recovery slot",
+    "SLX": {
+      "market": "KRW-SLX",
+      "amount": 1761.627717687125,
+      "avg_buy_price_krw": 309.0,
+      "last_price_krw": 309.0,
+      "value_krw": 544342.9647653216,
+      "thesis": "SLX는 306원, +3.38%, 184.7억원 대금, 위치 100.0%로 직전 실패를 완전히 뒤집은 rare fresh reclaim입니다.",
+      "strategy": "reclaimed fresh breakout core",
+      "role": "reclaimed fresh breakout core",
       "risk_limit_pct": 5,
-      "profit_take_pct": 10
+      "profit_take_pct": 12
     },
-    "LA": {
-      "market": "KRW-LA",
-      "amount": 3716.32633265884,
-      "avg_buy_price_krw": 115.0,
-      "last_price_krw": 115.0,
-      "value_krw": 427377.5282557666,
-      "thesis": "LA는 115원, +2.68%, 34.8억원 대금, 위치 50.0%로 대금은 가볍지만 gap이 짧아 5번째 보조 continuation 자리에 적합합니다.",
-      "strategy": "secondary clean continuation",
-      "role": "secondary clean continuation",
+    "ZKC": {
+      "market": "KRW-ZKC",
+      "amount": 5949.103440058159,
+      "avg_buy_price_krw": 91.5,
+      "last_price_krw": 91.5,
+      "value_krw": 544342.9647653216,
+      "thesis": "ZKC는 90.9원, +4.72%, 552.4억원 대금, 위치 72.4%로 top-turnover 재상단 진입이 확인된 reclaim 코어입니다.",
+      "strategy": "high-turnover reclaim core",
+      "role": "high-turnover reclaim core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 13
+    },
+    "AKT": {
+      "market": "KRW-AKT",
+      "amount": 444.7246444161124,
+      "avg_buy_price_krw": 1224.0,
+      "last_price_krw": 1224.0,
+      "value_krw": 544342.9647653216,
+      "thesis": "AKT는 1,222원, +1.08%, 104.4억원 대금, 위치 76.5%로 AI/컴퓨트 축에서 가장 품질 좋은 survivor입니다.",
+      "strategy": "AI compute survivor core",
+      "role": "AI compute survivor core",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
-      "symbol": "ZKC",
-      "market": "KRW-ZKC",
-      "reason": "대금은 최상위지만 위치 45.7%, gap -14.71%라 지금은 breakout이 아니라 fade-reclaim 관찰 대상입니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "3371원, +0.87%, 위치 79.7%로 quality L1 지속형이지만 이번 회차는 더 공격적인 5종에 밀렸습니다."
     },
     {
-      "symbol": "MIRA",
-      "market": "KRW-MIRA",
-      "reason": "+3.46%를 지켰어도 위치 22.9%, gap -13.25%로 기존 코어 복귀 명분이 아직 부족합니다."
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "379원, +1.07%, 위치 76.9%, 71.5억원 대금으로 구조는 좋지만 체급상 6순위입니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "-0.97%지만 위치 59.1%, gap -2.16%라 양전환만 복귀하면 LA 대체 후보입니다."
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "89.8원, +0.22%, 위치 66.7%로 버티기는 하지만 WLD·ZKC 대비 확장성이 약합니다."
     },
     {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "-2.41%지만 위치 64.7%, gap -2.62%로 음전 최소화형 구조라 보조 승격 후보입니다."
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "603원, +8.26%로 좋지만 45.6억원 대금이라 코어 5종에는 간신히 미달입니다."
     },
     {
-      "symbol": "TRX",
-      "market": "KRW-TRX",
-      "reason": "상단 유지력은 좋지만 대금 17.2억원으로 코어 편입에는 체급이 부족합니다."
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "55.7원, -0.18%, 위치 58.3%로 구조는 버텼지만 fresh 반등장에선 우선순위가 낮아졌습니다."
     },
     {
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "87.9원으로 기존 무효화 구간 아래라 즉시 재진입보다 반등 확인이 우선입니다."
+      "symbol": "BABY",
+      "market": "KRW-BABY",
+      "reason": "26.6원, -0.75%, 위치 27.3%로 직전 fresh 리더 지위를 잃어 재진입 금지입니다."
     },
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "-1.05%, 위치 15.9%, gap -11.53%라 실패 추세주로 재정의되어 관찰만 합니다."
+      "symbol": "LA",
+      "market": "KRW-LA",
+      "reason": "116원, -1.69%, 위치 0%로 보조 continuation 가정이 완전히 꺾였습니다."
     },
     {
-      "symbol": "B3",
-      "market": "KRW-B3",
-      "reason": "24.9B 대금과 양전환은 남지만 위치 31.6%, gap -11.71%라 event-fade 성격이 강합니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "552원, -0.54%, 위치 62.5%지만 음전이라 메이저 약세 구간의 핵심 알트로는 부족합니다."
     }
   ],
   "history": [
@@ -7186,6 +7186,96 @@
       "amount_delta": 3716.32633265884,
       "cash_delta_krw": -427377.5282557666,
       "reason": "LA는 115원, +2.68%, 34.8억원 대금, 위치 50.0%로 대금은 가볍지만 gap이 짧아 5번째 보조 continuation 자리에 적합합니다."
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "BABY",
+      "action": "SELL",
+      "price_krw": 26.7,
+      "amount_delta": -17373.070254299455,
+      "cash_delta_krw": 463860.97578979546,
+      "reason": "09:58 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "AKT",
+      "action": "SELL",
+      "price_krw": 1224.0,
+      "amount_delta": -374.2360142344716,
+      "cash_delta_krw": 458064.88142299326,
+      "reason": "09:58 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 55.4,
+      "amount_delta": -7958.61318912042,
+      "cash_delta_krw": 440907.17067727126,
+      "reason": "09:58 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 818.0,
+      "amount_delta": -559.3946704918411,
+      "cash_delta_krw": 457584.840462326,
+      "reason": "09:58 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "LA",
+      "action": "SELL",
+      "price_krw": 116.0,
+      "amount_delta": -3716.32633265884,
+      "cash_delta_krw": 431093.8545884254,
+      "reason": "09:58 가격 기준 breadth rebound 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 818.0,
+      "amount_delta": 665.4559471458699,
+      "cash_delta_krw": -544342.9647653216,
+      "reason": "WLD는 814원, +3.30%, 936.9억원 대금, 위치 93.9%로 현재 업비트 비메이저 중 가장 선명한 초대금 fresh 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "B3",
+      "action": "BUY",
+      "price_krw": 0.971,
+      "amount_delta": 560600.3756594455,
+      "cash_delta_krw": -544342.9647653216,
+      "reason": "B3는 0.979원, +9.75%, 318.3억원 대금, 위치 81.3%로 저가 알트 순환매에서 가장 공격적인 continuation 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "SLX",
+      "action": "BUY",
+      "price_krw": 309.0,
+      "amount_delta": 1761.627717687125,
+      "cash_delta_krw": -544342.9647653216,
+      "reason": "SLX는 306원, +3.38%, 184.7억원 대금, 위치 100.0%로 직전 실패를 완전히 뒤집은 rare fresh reclaim입니다."
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "ZKC",
+      "action": "BUY",
+      "price_krw": 91.5,
+      "amount_delta": 5949.103440058159,
+      "cash_delta_krw": -544342.9647653216,
+      "reason": "ZKC는 90.9원, +4.72%, 552.4억원 대금, 위치 72.4%로 top-turnover 재상단 진입이 확인된 reclaim 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-15T09:58:00+09:00",
+      "symbol": "AKT",
+      "action": "BUY",
+      "price_krw": 1224.0,
+      "amount_delta": 444.7246444161124,
+      "cash_delta_krw": -544342.9647653216,
+      "reason": "AKT는 1,222원, +1.08%, 104.4억원 대금, 위치 76.5%로 AI/컴퓨트 축에서 가장 품질 좋은 survivor입니다."
     }
   ]
 }
