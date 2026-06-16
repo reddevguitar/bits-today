@@ -2,114 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 491226.0725343928,
-  "realized_pnl_krw": -6854209.319609445,
-  "last_valuation_krw": 3274840.4835626185,
-  "last_action": "ROTATE_85_WLD_CHIP_ONDO_NEAR_JTO",
-  "last_updated": "2026-06-16T15:58:00+09:00",
-  "trade_count": 841,
+  "cash_krw": 514005.8924101726,
+  "realized_pnl_krw": -6702343.853770912,
+  "last_valuation_krw": 3426705.9494011514,
+  "last_action": "ROTATE_85_JTO_WLD_XLM_ONDO_ZRO",
+  "last_updated": "2026-06-16T21:58:00+09:00",
+  "trade_count": 851,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 615.8438962451828,
-      "avg_buy_price_krw": 904.0,
-      "last_price_krw": 904.0,
-      "value_krw": 556722.8822056452,
-      "thesis": "Sam Altman 연상도와 World ID attention이 남아 있는 가운데 업비트 최대 비메이저 대금과 81.8% 상단 회복이 동시에 확인됐습니다.",
-      "strategy": "mega-reclaim attention core",
-      "role": "mega-reclaim attention core",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 10
-    },
-    "CHIP": {
-      "market": "KRW-CHIP",
-      "amount": 10031.042922624238,
-      "avg_buy_price_krw": 55.5,
-      "last_price_krw": 55.5,
-      "value_krw": 556722.8822056452,
-      "thesis": "직전 turnover trap이던 CHIP이 이번엔 93.5% 위치와 양전환을 같이 만들며 실제 reclaim에 성공했습니다.",
-      "strategy": "fresh reclaim beta",
-      "role": "fresh reclaim beta",
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 450.5336515067253,
+      "avg_buy_price_krw": 1293.0,
+      "last_price_krw": 1293.0,
+      "value_krw": 582540.0113981958,
+      "thesis": "JTX 출시 서사와 실제 업비트 고대금, 88.9% 상단 체류가 동시에 확인된 가장 강한 공격 슬롯입니다.",
+      "strategy": "Solana revenue beta core",
+      "role": "Solana revenue beta core",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     },
+    "WLD": {
+      "market": "KRW-WLD",
+      "amount": 596.2538499469762,
+      "avg_buy_price_krw": 977.0,
+      "last_price_krw": 977.0,
+      "value_krw": 582540.0113981958,
+      "thesis": "Sam Altman 연상도와 World ID 관심이 남아 있는 가운데 비메이저 최대 대금과 상단 재안착이 동시 확인됐습니다.",
+      "strategy": "mega-attention reclaim core",
+      "role": "mega-attention reclaim core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
+    },
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 1703.333366661391,
+      "avg_buy_price_krw": 342.0,
+      "last_price_krw": 342.0,
+      "value_krw": 582540.0113981958,
+      "thesis": "초대금과 75% 상단 유지가 동시에 확인돼 단순 반등이 아니라 실제 유동성 확장 슬롯으로 볼 수 있습니다.",
+      "strategy": "mega-liquid continuation",
+      "role": "mega-liquid continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
+    },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 990.6101106862014,
-      "avg_buy_price_krw": 562.0,
-      "last_price_krw": 562.0,
-      "value_krw": 556722.8822056452,
-      "thesis": "토큰화 자산 서사와 기관형 제품 확장 뉴스가 겹치며 85.0% 상단 체류가 나온 RWA 핵심 축입니다.",
-      "strategy": "RWA continuation anchor",
-      "role": "RWA continuation anchor",
+      "amount": 1011.354186455201,
+      "avg_buy_price_krw": 576.0,
+      "last_price_krw": 576.0,
+      "value_krw": 582540.0113981958,
+      "thesis": "전 Invesco ETF 책임자 영입 뉴스와 RWA 유동성 회복이 겹친, 가장 읽기 쉬운 기관형 알트 축입니다.",
+      "strategy": "RWA institutional continuation",
+      "role": "RWA institutional continuation",
       "risk_limit_pct": 4,
       "profit_take_pct": 9
     },
-    "NEAR": {
-      "market": "KRW-NEAR",
-      "amount": 152.48504031926737,
-      "avg_buy_price_krw": 3651.0,
-      "last_price_krw": 3651.0,
-      "value_krw": 556722.8822056452,
-      "thesis": "대형 알트 중 구조가 가장 깨끗하게 회복돼 공격 바스켓의 품질 앵커 역할이 가능합니다.",
-      "strategy": "large-cap quality continuation",
-      "role": "large-cap quality continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9
-    },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 492.23950681312573,
-      "avg_buy_price_krw": 1131.0,
-      "last_price_krw": 1131.0,
-      "value_krw": 556722.8822056452,
-      "thesis": "JTX의 80% 수익 귀속 서사가 남아 있고 업비트에서 994.8억원 대금과 63.1% 회복이 동시에 확인됐습니다.",
-      "strategy": "Solana infra reclaim",
-      "role": "Solana infra reclaim",
+    "ZRO": {
+      "market": "KRW-ZRO",
+      "amount": 319.02519791796044,
+      "avg_buy_price_krw": 1826.0,
+      "last_price_krw": 1826.0,
+      "value_krw": 582540.0113981958,
+      "thesis": "고점 바로 아래 96.8% 위치라 단기 구조가 매우 선명하고, XLM과 함께 breadth 확장을 확인시켜 주는 후속주입니다.",
+      "strategy": "interoperability breakout finisher",
+      "role": "interoperability breakout finisher",
       "risk_limit_pct": 5,
       "profit_take_pct": 12
     }
   },
   "watchlist": [
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "328원, +2.18%, 1,445.1억원 대금, 위치 72.7%로 매우 강하지만 이번엔 WLD·JTO와의 attention 중복을 줄이기 위해 차순위로 둡니다."
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "56.4원, +2.36%, 112.5억원, 위치 77.6%로 나쁘지 않지만 XLM·ZRO보다 후속 강도가 약해 차순위로 내립니다."
     },
     {
-      "symbol": "ENA",
-      "market": "KRW-ENA",
-      "reason": "131원, +1.55%, 83.2억원, 위치 100.0%라 fresh는 좋지만 체급이 한 단계 아래입니다."
-    },
-    {
-      "symbol": "ZRO",
-      "market": "KRW-ZRO",
-      "reason": "1,706원, +1.73%, 223.1억원, 위치 81.6%로 품질은 좋지만 톱5 우선순위에선 ONDO·NEAR 뒤입니다."
-    },
-    {
-      "symbol": "ORCA",
-      "market": "KRW-ORCA",
-      "reason": "1,896원, +10.94%, 56.7억원, 위치 89.3%로 공격성은 강하나 대금 체급이 톱5 대비 작습니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "958원, +0.63%, 85.0억원, 위치 66.7%로 조용한 회복 후보입니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "3,679원, +2.48%, 307.4억원, 위치 50.2%로 품질은 남았지만 오늘은 상단 유지력이 둔합니다."
     },
     {
       "symbol": "UNI",
       "market": "KRW-UNI",
-      "reason": "4,437원, +3.74%, 79.6억원, 위치 68.6%로 중형 품질 회복 후보입니다."
+      "reason": "4,620원, +8.02%, 98.0억원, 위치 99.6%로 매우 강하지만 대금 체급에서 ZRO·XLM보다 한 단계 아래입니다."
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "1,200원, +0.76%, 192.0억원, 위치 66.7%로 무난한 품질 생존주입니다."
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "133원, +0.76%, 380.6억원, 위치 75.0%로 유동성은 좋지만 알트 톱5 공격성은 JTO·XLM이 더 큽니다."
     },
     {
       "symbol": "STRAX",
       "market": "KRW-STRAX",
-      "reason": "16.7원, +18.44%, 168.2억원이지만 고점 대비 -7.73%라 과열 추격은 보류합니다."
-    },
-    {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "144원, +6.67%, 78.0억원, 위치 81.8%로 차순위 continuation입니다."
+      "reason": "15.6원, +10.64%, 232.3억원이지만 고점 대비 -13.81%라 과열 추격보다 관찰이 맞습니다."
     }
   ],
   "history": [
@@ -7681,6 +7671,96 @@
       "amount_delta": 492.23950681312573,
       "cash_delta_krw": -556722.8822056452,
       "reason": "JTO는 1131원, +3.29%, 24h 대금 994.8억원, 위치 63.1%로 Solana 인프라 reclaim 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 977.0,
+      "amount_delta": -615.8438962451828,
+      "cash_delta_krw": 601679.4866315436,
+      "reason": "코어는 유지하되 21:58 현재 85% 균등 공격 재배치 기준으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 56.4,
+      "amount_delta": -10031.042922624238,
+      "cash_delta_krw": 565750.820836007,
+      "reason": "XLM이 더 큰 대금과 더 나은 breadth 구조를 보여 CHIP 슬롯을 교체"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 576.0,
+      "amount_delta": -990.6101106862014,
+      "cash_delta_krw": 570591.423755252,
+      "reason": "기관형 코어는 유지하되 21:58 현재 85% 균등 공격 재배치 기준으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3679.0,
+      "amount_delta": -152.48504031926737,
+      "cash_delta_krw": 560992.4633345846,
+      "reason": "50.2% continuation보다 ZRO의 96.8% breakout 구조가 더 공격적으로 유리해 교체"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1293.0,
+      "amount_delta": -492.23950681312573,
+      "cash_delta_krw": 636465.6823093715,
+      "reason": "최상단 leader는 유지하되 21:58 현재 85% 균등 공격 재배치 기준으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1293.0,
+      "amount_delta": 450.5336515067253,
+      "cash_delta_krw": -582540.0113981958,
+      "reason": "JTO는 1,293원, +18.08%, 1,348.8억원 대금, 88.9% 위치로 오늘 최상단 leader라 85% 공격 바스켓 코어로 유지"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 977.0,
+      "amount_delta": 596.2538499469762,
+      "cash_delta_krw": -582540.0113981958,
+      "reason": "WLD는 977원, +10.77%, 2,056.9억원 대금, 75.7% 위치로 최대 attention reclaim 코어라 유지"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 342.0,
+      "amount_delta": 1703.333366661391,
+      "cash_delta_krw": -582540.0113981958,
+      "reason": "XLM은 342원, +6.54%, 1,644.7억원 대금, 75.0% 위치로 watchlist에서 preferred로 승격"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 576.0,
+      "amount_delta": 1011.354186455201,
+      "cash_delta_krw": -582540.0113981958,
+      "reason": "ONDO는 576원, +3.78%, 517.3억원 대금, 75.6% 위치로 기관형 RWA continuation 축 유지"
+    },
+    {
+      "timestamp": "2026-06-16T21:58:00+09:00",
+      "symbol": "ZRO",
+      "action": "BUY",
+      "price_krw": 1826.0,
+      "amount_delta": 319.02519791796044,
+      "cash_delta_krw": -582540.0113981958,
+      "reason": "ZRO는 1,826원, +8.88%, 172.9억원 대금, 96.8% 위치로 가장 깨끗한 breakout 구조라 신규 편입"
     }
   ]
 }

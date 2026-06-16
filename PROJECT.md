@@ -51,6 +51,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When former turnover-trap names reclaim, allow at most 2 of 5 preferred picks to come from that bucket unless major average range-position is above roughly 55 and breadth is clearly expanding; this prevents over-chasing one rebound narrative.
 - When majors stay weak but fresh-breakout breadth is clearly active (for example multiple 90%+ range-position alts with real turnover), permit a faster rotation back into breakout leaders instead of over-defending older survivors.
 - When breadth stays strong but one of the held high-beta slots turns negative or slips below stronger 80%+ range-position alternatives, replace it in the next cycle instead of defending stale laggards.
+- When breadth stays strong and a held continuation slot cools toward roughly 55% of the day range while a higher-turnover 75%+ alternative is already leading, force the next cycle to promote the stronger name instead of defending the older basket out of inertia.
 - When majors break down but 4개 이상 비메이저 알트가 75%+ range-position과 실거래대금을 동시에 유지하면, 50% 미만으로 내려온 대형 품질 코어를 고집하지 말고 독립 강세 생존주로 교체한다.
 - When a held preferred alt collapses below roughly 20% of the day range while losing positive momentum, force a full anti-trap rotation next cycle instead of defending it for turnover alone
 - When breadth stays weak, do not keep a merely narrative rebound slot around 50% of the day range if a 70%+ structured alternative with real turnover exists; rotate into the cleaner structure.
