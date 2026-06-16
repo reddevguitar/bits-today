@@ -1,325 +1,325 @@
 {
-  "updated_at": "2026-06-16T09:58:00+09:00",
-  "top_line": "메이저 4종 평균 위치가 18.9%로 6시간 만에 붕괴했고 보유 5종 중 JTO·XLM·ONDO·NEAR가 규율 구간까지 밀렸습니다. JTO·XLM을 정리하고 KERNEL·B3를 승격, 실투입률은 90%에서 70%로 낮춥니다.",
-  "macro_summary": "BTC 99.529M원, ETH 2.689M원, XRP 1,858원, SOL 111.3K원으로 메이저 4종 평균 위치는 18.95%까지 급락했습니다. 공포탐욕은 23 Extreme Fear로 소폭 반등했지만 가격 구조는 리스크오프에 가깝습니다.",
-  "news_summary": "Alternative.me 공포탐욕은 23 Extreme Fear입니다. Jito의 JTX는 여전히 80% 수수료 가치축적 기대를 제공하지만 실제 가격은 음전환으로 식었습니다. ONDO는 6월 12일 Exodus Markets의 200+ 토큰화 주식·ETF 제공 발표 덕분에 RWA 서사를 유지합니다. WLD는 새 강한 호재보다 거래대금 잔존이 핵심입니다.",
-  "community_summary": "국내 업비트 자금은 여전히 WLD·XLM·JTO에 크게 남아 있지만, 실제 구조 우위는 KERNEL·B3·NEAR 쪽으로 이동했습니다. 이번 회차 핵심은 turnover보다 고가 체류를 우선하는 것입니다.",
-  "public_figure_summary": "Sam Altman 연상도는 여전히 WLD 관심의 중심입니다. JTO는 Jito Labs의 JTX 메시지가 남아 있지만 가격 follow-through가 약화됐습니다. ONDO는 Ondo 팀의 토큰화 자산 확장 서사가 지속됩니다.",
-  "major_coin_summary": "BTC -0.06%·0.2% 위치 / ETH -0.30%·0.0% 위치 / XRP -0.05%·31.2% 위치 / SOL +0.27%·44.4% 위치 / 메이저 평균 18.95% 위치",
-  "altcoin_selection_summary": "preferred buy는 KERNEL, WLD, B3, NEAR, ONDO입니다. 구성은 fresh breakout 2 + mega-turnover salvage 1 + quality survivor 1 + RWA anchor 1이며, JTO·XLM처럼 대금은 크지만 중하단 구조인 이름은 제외했습니다.",
-  "overall_bias": "defensive-aggressive rotation with 70% equal-weight deployment into 2 fresh leaders and 3 liquid survivors/anchors",
+  "updated_at": "2026-06-16T15:58:00+09:00",
+  "top_line": "메이저 4종 평균 위치가 18.95%→71.7%로 급반등했습니다. KERNEL·B3 intracycle 실패를 정리하고 WLD·CHIP·ONDO·NEAR·JTO로 70%→85% 공격 재확대합니다.",
+  "macro_summary": "BTC 99.829M원, ETH 2.665M원, XRP 1,858원, SOL 111.5K원으로 메이저 평균 위치가 71.7%까지 회복했습니다. 공포탐욕은 여전히 23 Extreme Fear라 체감보다 가격 회복 속도가 빠릅니다.",
+  "news_summary": "Alternative.me 공포탐욕은 23 Extreme Fear입니다. 외부 보도 기준 Ondo는 전 Invesco ETF 책임자 John Hoffman을 영입해 온체인 포트폴리오 확장을 추진 중입니다. Jito는 JTX에서 수익의 80%를 JTO 측으로 귀속시키는 구조를 강조하고 있습니다. World/Worldcoin은 Sam Altman 연상도와 World ID 관심이 계속 유입되지만 고용축소 보도도 함께 있어 headline 해석은 양면적입니다.",
+  "community_summary": "국내 업비트 자금은 failed fresh breakout(KERNEL·B3)보다 WLD·XLM·JTO 같은 초대금 회복주와 ONDO·NEAR·CHIP 같은 상단 체류형으로 이동했습니다. 이번 회차 핵심은 오전에 무너진 이름을 방어하지 않고 오후 회복 대금이 붙은 구조를 바로 채택하는 것입니다.",
+  "public_figure_summary": "Sam Altman 연상도는 WLD attention의 핵심입니다. Ondo는 ETF 경력 영입으로 기관형 서사를 강화했고, Jito Labs는 JTX·수익귀속 구조로 JTO 관심을 다시 자극하고 있습니다.",
+  "major_coin_summary": "BTC +0.24%·88.9% 위치 / ETH -1.19%·33.8% 위치 / XRP -0.05%·76.1% 위치 / SOL +0.45%·88.0% 위치 / 메이저 평균 71.70% 위치",
+  "altcoin_selection_summary": "preferred buy는 WLD, CHIP, ONDO, NEAR, JTO입니다. 구성은 mega-reclaim 1 + fresh reclaim 1 + RWA continuation 1 + large-cap continuation 1 + Solana infra reclaim 1 입니다.",
+  "overall_bias": "aggressive rebound rotation with 85% equal-weight deployment into liquid reclaim and continuation leaders",
   "confidence": "medium-high",
   "preferred_buy_candidates": [
-    {
-      "market": "KRW-KERNEL",
-      "symbol": "KERNEL",
-      "korean_name": "커널다오",
-      "english_name": "KernelDAO",
-      "price_krw": 92.5,
-      "change_pct_24h": 6.68973472,
-      "turnover_krw_24h": 29825158223.361008,
-      "opening_price": 86.7,
-      "high_price": 92.6,
-      "low_price": 83.8,
-      "range_position_pct": 98.9,
-      "day_high_gap_pct": -0.11,
-      "selection_score": 55.3,
-      "role": "fresh breakout beta leader",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 15,
-      "reason": "KERNEL은 92.5원, +6.69%, 298.3억원 대금, 위치 98.9%로 메이저 급랭 속에서도 거의 고가 마감한 이번 회차 최우선 fresh breakout입니다.",
-      "invalidated_if": "89.8원 하회 시 fresh breakout 구조 약화",
-      "strategy": "fresh breakout beta leader",
-      "score": 55.3,
-      "risk": "89.8원 하회 시 fresh breakout 구조 약화",
-      "community": "국내 리테일 자금이 기존 trap 인식을 뒤집고 다시 상단 체류형으로 붙고 있습니다.",
-      "thesis": "직전 trap이던 이름이지만 이번엔 98.9% 고위치와 양전환을 같이 만들었기 때문에 재평가가 가능합니다.",
-      "allocation_krw": 471914.72420789767
-    },
     {
       "market": "KRW-WLD",
       "symbol": "WLD",
       "korean_name": "월드코인",
       "english_name": "Worldcoin",
-      "price_krw": 897.0,
-      "change_pct_24h": 1.70068027,
-      "turnover_krw_24h": 205929649599.22607,
+      "price_krw": 904.0,
+      "change_pct_24h": 2.49433107,
+      "turnover_krw_24h": 168168467353.07285,
       "opening_price": 882.0,
       "high_price": 912.0,
-      "low_price": 881.0,
-      "range_position_pct": 51.6,
-      "day_high_gap_pct": -1.64,
-      "selection_score": 52.92,
-      "role": "mega-turnover salvage core",
+      "low_price": 868.0,
+      "range_position_pct": 81.8,
+      "day_high_gap_pct": -0.88,
+      "selection_score": 59.4,
+      "role": "mega-reclaim attention core",
       "risk_limit_pct": 4,
       "profit_take_pct": 10,
-      "reason": "WLD는 897원, +1.70%, 2,059.3억원 대금으로 여전히 업비트 비메이저 거래대금 1위입니다. 구조는 중단이지만 liquidity는 압도적입니다.",
-      "invalidated_if": "890원 하회 시 mega-turnover salvage 명분 약화",
-      "strategy": "mega-turnover salvage core",
-      "score": 52.92,
-      "risk": "890원 하회 시 mega-turnover salvage 명분 약화",
-      "community": "국내 관심은 여전히 WLD에 가장 크게 남아 있지만 이번엔 확장 추격보다 구조 확인용 코어로 다룹니다.",
-      "thesis": "메이저 붕괴 국면에서도 가장 큰 자금이 남아 있어 완전 배제보다 축소 편입이 유리합니다.",
-      "allocation_krw": 471914.72420789767
+      "reason": "WLD는 904원, +2.49%, 24h 대금 1,681.7억원, 위치 81.8%로 메가리클레임 1순위입니다.",
+      "invalidated_if": "892원 하회 시 mega-reclaim 지속성 약화",
+      "strategy": "mega-reclaim attention core",
+      "score": 59.4,
+      "risk": "892원 하회 시 mega-reclaim 지속성 약화",
+      "community": "국내 attention과 실거래대금이 가장 크게 몰리는 회복 코어입니다.",
+      "thesis": "Sam Altman 연상도와 World ID attention이 남아 있는 가운데 업비트 최대 비메이저 대금과 81.8% 상단 회복이 동시에 확인됐습니다.",
+      "allocation_krw": 556722.8822056452
     },
     {
-      "market": "KRW-B3",
-      "symbol": "B3",
-      "korean_name": "비쓰리",
-      "english_name": "B3",
-      "price_krw": 0.99,
-      "change_pct_24h": 7.49185668,
-      "turnover_krw_24h": 11488860182.804647,
-      "opening_price": 0.921,
-      "high_price": 0.997,
-      "low_price": 0.913,
-      "range_position_pct": 91.7,
-      "day_high_gap_pct": -0.7,
-      "selection_score": 50.63,
-      "role": "fresh low-float breakout",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 16,
-      "reason": "B3는 0.99원, +7.49%, 114.9억원 대금, 위치 91.7%로 약한 장에서도 독립적으로 고가권을 유지한 fresh 2번타자입니다.",
-      "invalidated_if": "0.96원 하회 시 low-float breakout 실패",
-      "strategy": "fresh low-float breakout",
-      "score": 50.63,
-      "risk": "0.96원 하회 시 low-float breakout 실패",
-      "community": "대형 알트가 숨고를 때 소형 고위치 슬롯으로 가장 읽기 쉬운 흐름입니다.",
-      "thesis": "체급은 작지만 실제 대금과 상단 체류가 확인돼 고베타 공격 슬롯으로 채택합니다.",
-      "allocation_krw": 471914.72420789767
-    },
-    {
-      "market": "KRW-NEAR",
-      "symbol": "NEAR",
-      "korean_name": "니어프로토콜",
-      "english_name": "NEAR Protocol",
-      "price_krw": 3622.0,
-      "change_pct_24h": 0.8913649,
-      "turnover_krw_24h": 37438175886.19594,
-      "opening_price": 3590.0,
-      "high_price": 3633.0,
-      "low_price": 3580.0,
-      "range_position_pct": 79.2,
-      "day_high_gap_pct": -0.3,
-      "selection_score": 39.9,
-      "role": "large-cap quality survivor",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 9,
-      "reason": "NEAR는 3,622원, +0.89%, 374.4억원 대금, 위치 79.2%로 메이저 급락 구간에서도 품질이 가장 깔끔한 대형 알트 survivor입니다.",
-      "invalidated_if": "3600원 하회 시 quality survivor 약화",
-      "strategy": "large-cap quality survivor",
-      "score": 39.9,
-      "risk": "3600원 하회 시 quality survivor 약화",
-      "community": "국내 자금이 완전히 도망가지 않고 남아 있는 대형 품질 슬롯입니다.",
-      "thesis": "공격성은 줄여도 체급형 중심축 하나는 필요해 NEAR를 유지합니다.",
-      "allocation_krw": 471914.72420789767
+      "market": "KRW-CHIP",
+      "symbol": "CHIP",
+      "korean_name": "유에스디에이아이",
+      "english_name": "USD.AI",
+      "price_krw": 55.5,
+      "change_pct_24h": 0.72595281,
+      "turnover_krw_24h": 23571418800.29487,
+      "opening_price": 55.1,
+      "high_price": 55.7,
+      "low_price": 52.6,
+      "range_position_pct": 93.5,
+      "day_high_gap_pct": -0.36,
+      "selection_score": 42.44,
+      "role": "fresh reclaim beta",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12,
+      "reason": "CHIP은 55.5원, +0.73%, 24h 대금 235.7억원, 위치 93.5%로 trap 탈출형 fresh reclaim입니다.",
+      "invalidated_if": "54.8원 하회 시 fresh reclaim 실패",
+      "strategy": "fresh reclaim beta",
+      "score": 42.44,
+      "risk": "54.8원 하회 시 fresh reclaim 실패",
+      "community": "한 번 trap을 겪은 뒤 상단 재안착이 확인돼 되려 리테일 follow-through가 읽기 쉽습니다.",
+      "thesis": "직전 turnover trap이던 CHIP이 이번엔 93.5% 위치와 양전환을 같이 만들며 실제 reclaim에 성공했습니다.",
+      "allocation_krw": 556722.8822056452
     },
     {
       "market": "KRW-ONDO",
       "symbol": "ONDO",
       "korean_name": "온도파이낸스",
       "english_name": "Ondo Finance",
-      "price_krw": 558.0,
-      "change_pct_24h": 0.54054054,
-      "turnover_krw_24h": 54974590347.501564,
+      "price_krw": 562.0,
+      "change_pct_24h": 1.26126126,
+      "turnover_krw_24h": 49237378615.130585,
       "opening_price": 556.0,
-      "high_price": 561.0,
-      "low_price": 554.0,
-      "range_position_pct": 57.1,
+      "high_price": 565.0,
+      "low_price": 545.0,
+      "range_position_pct": 85.0,
       "day_high_gap_pct": -0.53,
-      "selection_score": 33.69,
-      "role": "RWA liquidity anchor",
+      "selection_score": 43.44,
+      "role": "RWA continuation anchor",
       "risk_limit_pct": 4,
-      "profit_take_pct": 8,
-      "reason": "ONDO는 558원, +0.54%, 549.7억원 대금, 위치 57.1%로 Exodus 토큰화 주식/ETF 뉴스가 받쳐주는 RWA 앵커입니다.",
-      "invalidated_if": "554원 하회 시 RWA anchor 약화",
-      "strategy": "RWA liquidity anchor",
-      "score": 33.69,
-      "risk": "554원 하회 시 RWA anchor 약화",
-      "community": "WLD·KERNEL 같은 고베타 사이에서 지나치게 깨지지 않는 완충축 역할이 낫습니다.",
-      "thesis": "속도는 느리지만 내러티브와 체급이 있어 70% 바스켓의 안정축으로 적합합니다.",
-      "allocation_krw": 471914.72420789767
+      "profit_take_pct": 9,
+      "reason": "ONDO는 562원, +1.26%, 24h 대금 492.4억원, 위치 85.0%로 RWA continuation 축입니다.",
+      "invalidated_if": "556원 하회 시 RWA continuation 약화",
+      "strategy": "RWA continuation anchor",
+      "score": 43.44,
+      "risk": "556원 하회 시 RWA continuation 약화",
+      "community": "고베타 attention 코인들 사이에서 기관형 서사가 남아 있는 완충축입니다.",
+      "thesis": "토큰화 자산 서사와 기관형 제품 확장 뉴스가 겹치며 85.0% 상단 체류가 나온 RWA 핵심 축입니다.",
+      "allocation_krw": 556722.8822056452
+    },
+    {
+      "market": "KRW-NEAR",
+      "symbol": "NEAR",
+      "korean_name": "니어프로토콜",
+      "english_name": "NEAR Protocol",
+      "price_krw": 3651.0,
+      "change_pct_24h": 1.69916435,
+      "turnover_krw_24h": 32222177674.124584,
+      "opening_price": 3590.0,
+      "high_price": 3677.0,
+      "low_price": 3512.0,
+      "range_position_pct": 84.2,
+      "day_high_gap_pct": -0.71,
+      "selection_score": 41.36,
+      "role": "large-cap quality continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 9,
+      "reason": "NEAR는 3651원, +1.70%, 24h 대금 322.2억원, 위치 84.2%로 대형 품질 continuation의 중심입니다.",
+      "invalidated_if": "3610원 하회 시 quality continuation 약화",
+      "strategy": "large-cap quality continuation",
+      "score": 41.36,
+      "risk": "3610원 하회 시 quality continuation 약화",
+      "community": "메이저 회복 국면에서 가장 무난하게 따라가는 대형 알트 품질축입니다.",
+      "thesis": "대형 알트 중 구조가 가장 깨끗하게 회복돼 공격 바스켓의 품질 앵커 역할이 가능합니다.",
+      "allocation_krw": 556722.8822056452
+    },
+    {
+      "market": "KRW-JTO",
+      "symbol": "JTO",
+      "korean_name": "지토",
+      "english_name": "Jito",
+      "price_krw": 1131.0,
+      "change_pct_24h": 3.28767123,
+      "turnover_krw_24h": 99481634364.94055,
+      "opening_price": 1095.0,
+      "high_price": 1172.0,
+      "low_price": 1061.0,
+      "range_position_pct": 63.1,
+      "day_high_gap_pct": -3.5,
+      "selection_score": 41.17,
+      "role": "Solana infra reclaim",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 12,
+      "reason": "JTO는 1131원, +3.29%, 24h 대금 994.8억원, 위치 63.1%로 Solana 인프라 reclaim 슬롯입니다.",
+      "invalidated_if": "1100원 하회 시 JTX reclaim 약화",
+      "strategy": "Solana infra reclaim",
+      "score": 41.17,
+      "risk": "1100원 하회 시 JTX reclaim 약화",
+      "community": "국내 대금이 다시 붙는 Solana 인프라 attention 슬롯입니다.",
+      "thesis": "JTX의 80% 수익 귀속 서사가 남아 있고 업비트에서 994.8억원 대금과 63.1% 회복이 동시에 확인됐습니다.",
+      "allocation_krw": 556722.8822056452
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "KERNEL",
-      "market": "KRW-KERNEL",
-      "reason": "직전 trap 인식을 뒤집는 98.9% 상단 체류와 실제 대금이 동시에 확인됐습니다."
-    },
-    {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "업비트 비메이저 거래대금 1위라 완전 배제보다 축소 편입이 낫습니다."
+      "reason": "최대 대금과 81.8% 회복이 동시에 살아 있습니다."
     },
     {
-      "symbol": "B3",
-      "market": "KRW-B3",
-      "reason": "메이저 약세에도 91.7% 위치를 유지한 fresh breakout입니다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "대형 알트 중 구조 품질이 가장 안정적입니다."
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "직전 trap에서 fresh reclaim으로 성격이 바뀌었습니다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "RWA 뉴스와 실거래대금이 동시에 남은 바스켓 완충축입니다."
+      "reason": "RWA 서사와 85.0% 구조가 함께 유지됩니다."
+    },
+    {
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "대형 알트 품질 continuation으로 가장 읽기 쉽습니다."
+    },
+    {
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "JTX 서사와 고대금 reclaim이 같이 남아 있습니다."
     }
   ],
   "watchlist": [
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "325원, +1.25%, 1,247.3억원 대금이지만 위치 35.7%라 즉시 재승격은 무리입니다."
+      "reason": "328원, +2.18%, 1,445.1억원 대금, 위치 72.7%로 매우 강하지만 이번엔 WLD·JTO와의 attention 중복을 줄이기 위해 차순위로 둡니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "1,080원, -1.37%, 792.7억원 대금인데 음전환과 41.3% 위치라 재진입 보류입니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "131원, +1.55%, 83.2억원, 위치 100.0%라 fresh는 좋지만 체급이 한 단계 아래입니다."
     },
     {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "1,079원, +2.08%, 71.5억원, 위치 93.5%로 차순위 breakout 승격 후보입니다."
+      "symbol": "ZRO",
+      "market": "KRW-ZRO",
+      "reason": "1,706원, +1.73%, 223.1억원, 위치 81.6%로 품질은 좋지만 톱5 우선순위에선 ONDO·NEAR 뒤입니다."
     },
     {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "15.9원, +12.77%, 50.8억원, 위치 77.3%로 속도는 빠르지만 체급은 작습니다."
+      "symbol": "ORCA",
+      "market": "KRW-ORCA",
+      "reason": "1,896원, +10.94%, 56.7억원, 위치 89.3%로 공격성은 강하나 대금 체급이 톱5 대비 작습니다."
     },
     {
       "symbol": "VIRTUAL",
       "market": "KRW-VIRTUAL",
-      "reason": "962원, +1.05%, 97.2억원, 위치 58.8%로 중간 구조 회복 후보입니다."
-    },
-    {
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "reason": "125원, +0.81%, 49.1억원, 위치 100%로 품질은 좋지만 체급이 한 단계 아래입니다."
+      "reason": "958원, +0.63%, 85.0억원, 위치 66.7%로 조용한 회복 후보입니다."
     },
     {
       "symbol": "UNI",
       "market": "KRW-UNI",
-      "reason": "4,475원, +4.63%, 31.1억원, 위치 93.0%로 깔끔하지만 업비트 대금 존재감은 약합니다."
+      "reason": "4,437원, +3.74%, 79.6억원, 위치 68.6%로 중형 품질 회복 후보입니다."
     },
     {
-      "symbol": "TAO",
-      "market": "KRW-TAO",
-      "reason": "399,900원, +0.03%, 193.2억원인데 위치 34.8%라 아직 대기입니다."
+      "symbol": "STRAX",
+      "market": "KRW-STRAX",
+      "reason": "16.7원, +18.44%, 168.2억원이지만 고점 대비 -7.73%라 과열 추격은 보류합니다."
+    },
+    {
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "144원, +6.67%, 78.0억원, 위치 81.8%로 차순위 continuation입니다."
     }
   ],
   "risk_notes": [
-    "메이저 평균 위치 18.95%는 구조적으로 매우 약한 구간이라 실투입률을 70%로 낮췄습니다.",
-    "preferred 5종 중 WLD 거래대금 비중이 약 60.6%라 리더 집중도는 매우 높습니다.",
-    "KERNEL·B3는 fresh breakout이지만 소형/중소형 베타라 되밀림 속도가 빠를 수 있습니다.",
-    "ONDO·WLD·NEAR 중 2개 이상이 무효화되면 다음 회차는 60~65%까지 추가 축소를 검토합니다.",
-    "JTO·XLM처럼 대금이 커도 45% 이하 구조로 내려온 이름은 이번 회차 재추격 금지입니다."
+    "공포탐욕 23은 여전히 극단적 공포라 가격 반등이 재차 흔들릴 수 있습니다.",
+    "WLD가 preferred 바스켓 거래대금의 약 45.1%를 차지해 attention 편중이 남아 있습니다.",
+    "CHIP은 fresh reclaim이지만 직전 trap 이력이 있어 재이탈 시 반납 속도가 빠를 수 있습니다.",
+    "JTO는 63.1% 회복까지는 왔지만 고점 대비 -3.5% 갭이 남아 있어 1100원 하향 시 다시 약해질 수 있습니다.",
+    "KERNEL·B3처럼 same-day fresh breakout도 다음 사이클에 바로 trap으로 변할 수 있어 내러티브보다 후속 구조를 우선합니다."
   ],
   "fear_greed": "23 (Extreme Fear, Alternative.me)",
-  "btc_reference": "BTC 99.529M원대 / ETH 2.689M원대 / XRP 1,858원대 / SOL 111.3K원대",
+  "btc_reference": "BTC 99.829M원대 / ETH 2.665M원대 / XRP 1,858원대 / SOL 111.5K원대",
   "improvement_log": [
-    "메이저 평균 위치가 한 사이클 만에 50p 이상 붕괴하고 보유 종목 3개 이상이 동시에 무효화/저위치로 내려오면 실투입률을 70%대로 즉시 낮추는 PROJECT 규칙을 추가했습니다.",
-    "이번 회차부터 대금 순위와 별개로 selection_leaderboard 상단의 fresh/high-range 이름(KERNEL·B3)을 더 강하게 승격하도록 판단 우선순위를 조정했습니다.",
-    "보고서에 90%→70% 실투입률 변경 이유를 더 직접적으로 적어 방어적 전환의 근거를 한눈에 보이게 했습니다."
+    "same-day fresh breakout이 다음 사이클에 15% 이하 위치와 -12% 이상 high-gap으로 붕괴하면 즉시 제거하고 80%+ liquid reclaim으로 교체하는 PROJECT 규칙을 추가했습니다.",
+    "이번 보고서부터 메이저 평균 위치의 회복폭(18.95%→71.7%)과 실투입률 변화(70%→85%)를 한 줄에서 바로 보이게 정리했습니다.",
+    "former trap 재진입은 단순 양전환이 아니라 80%+ range-position과 실제 대금을 동시에 요구하도록 판단을 더 엄격하게 적었습니다."
   ],
   "self_evaluation": {
-    "score": 8.6,
-    "summary": "직전 90% continuation 유지 자체는 너무 느렸습니다. 메이저 평균 위치가 83→18.95로 무너진 만큼 이번엔 broken beta를 즉시 제거하고 구조 우위 5종으로 70% 재구성한 점은 개선입니다."
+    "score": 8.8,
+    "summary": "직전 KERNEL·B3 승격 자체는 당시 데이터상 타당했지만, intracycle 실패가 확인된 뒤 더 빨리 버리지 못한 점은 아쉬웠습니다. 이번엔 회복한 메이저·대금을 확인하고 broken beta를 제거해 85% 재확대로 방향을 바로잡았습니다."
   },
   "rejected_candidates": [
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "792.7억원 대금은 크지만 -1.37%와 41.3% 위치로 beta follow-through가 끊겼습니다."
+      "symbol": "KERNEL",
+      "market": "KRW-KERNEL",
+      "reason": "25.1B 대금에도 -4.96%와 8.0% 위치, -16.43% high-gap으로 intracycle trap이 확정됐습니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "1,247.3억원 대금에도 위치 35.7%라 구조상 대기입니다."
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "11.3B 대금에도 -5.10%와 12.1% 위치로 fresh breakout이 완전히 깨졌습니다."
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "326.3억원 대금인데 위치 6.7%라 전형적 turnover trap입니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "37.6B 대금이지만 -0.76%와 33.3% 위치라 비메이저 톱5 우선순위가 아닙니다."
     },
     {
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "325.8억원 대금에도 -4.29%, 위치 7.1%로 구조 붕괴입니다."
-    },
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "230.8억원 대금이지만 위치 0.0%라 rebound 명분이 없습니다."
+      "symbol": "SPX",
+      "market": "KRW-SPX",
+      "reason": "31.7B 대금에도 -1.73%와 16.7% 위치로 trap 성격이 강합니다."
     },
     {
       "symbol": "TRUMP",
       "market": "KRW-TRUMP",
-      "reason": "230.7억원 대금에도 위치 12.3%로 late-session trap 성격이 강합니다."
+      "reason": "18.95B 대금에도 -2.84%와 15.2% 위치로 late-session 약세가 뚜렷합니다."
+    },
+    {
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "8.6B 대금이 남아도 현재 -0.28%와 13.0% 위치로 follow-through가 없습니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 3,396.6억원이며, WLD 비중은 60.6%입니다.",
-    "momentum_discipline": "KERNEL fresh breakout + WLD mega-turnover salvage + B3 fresh breakout + NEAR quality survivor + ONDO RWA anchor",
-    "diversification": "fresh 2 + attention/liquidity 1 + large-cap 1 + RWA 1",
-    "cash_usage": "70%",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 3,726.8억원이며, WLD 비중은 45.1%입니다.",
+    "momentum_discipline": "WLD mega-reclaim + CHIP fresh reclaim + ONDO continuation + NEAR quality continuation + JTO reclaim",
+    "diversification": "attention 1 + fresh reclaim 1 + RWA 1 + large-cap 1 + Solana infra 1",
+    "cash_usage": "85%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh 2 / conviction 5 / survivor 9 / reclaim 7 / majors sharply weaker"
+    "summary": "fresh 2 / conviction 11 / survivor 16 / reclaim 24 / majors recovered"
   },
   "rotation_map": [
     {
-      "out": "JTO",
-      "in": "KERNEL",
-      "why": "음전환 beta 대신 실제 상단 체류 fresh breakout으로 교체합니다."
+      "out": "KERNEL",
+      "in": "CHIP",
+      "why": "failed fresh breakout을 실제 fresh reclaim으로 교체합니다."
     },
     {
-      "out": "XLM",
-      "in": "B3",
-      "why": "초대금이지만 35.7% 구조인 XLM보다 91.7% breakout인 B3가 우위입니다."
+      "out": "B3",
+      "in": "JTO",
+      "why": "무너진 소형 베타 대신 고대금 Solana reclaim을 채택합니다."
     },
     {
       "out": "WLD",
       "in": "WLD",
-      "why": "유동성 코어는 남기되 90% 바스켓에서 70% 바스켓으로 축소 재편합니다."
+      "why": "코어는 유지하되 70% 방어 바스켓에서 85% 공격 바스켓으로 재배치합니다."
     },
     {
       "out": "NEAR",
       "in": "NEAR",
-      "why": "품질 survivor 역할은 유지하되 비중을 낮춰 다시 맞춥니다."
+      "why": "품질 continuation 축은 유지하되 새 가격 기준 균등 비중으로 재편합니다."
     },
     {
       "out": "ONDO",
       "in": "ONDO",
-      "why": "RWA anchor는 유지하되 완충축으로만 보유합니다."
+      "why": "RWA anchor를 유지하되 공격 바스켓의 상단 체류형으로 승격합니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. 메이저 평균 위치가 15 아래로 더 내려가거나 preferred 5종 중 2개 이상 무효화 시 현금 35~40%로 상향.",
-    "review_trigger": "KERNEL 89.8원 / WLD 890원 / B3 0.96원 / NEAR 3600원 / ONDO 554원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 15% 유지. 메이저 평균 위치가 다시 55 아래로 밀리거나 preferred 5종 중 2개 이상이 무효화되면 현금 25~30%로 상향.",
+    "review_trigger": "WLD 892원 / CHIP 54.8원 / ONDO 556원 / NEAR 3610원 / JTO 1100원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
-      "메이저 평균 위치 20 아래에서는 실투입률 70% 전후를 기본으로 유지",
-      "fresh/high-range 리더 2개 이상은 반드시 포함",
-      "sub-55 구조 후보는 최대 1개만 허용하며 이번 회차는 WLD만 해당",
-      "대금이 커도 45% 이하 구조로 내려온 음수/약양전환 리더는 재추격 금지"
+      "메이저 평균 위치가 70 안팎으로 회복하고 breadth가 개선되면 실투입률 80~85%까지 허용",
+      "same-day failed breakout 재보유 금지",
+      "former trap 재진입은 80%+ range-position과 실거래대금을 동시에 요구",
+      "attention 코어는 최대 2개까지만 허용"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 3.46,
+    "preferred_avg_change_pct_24h": 1.89,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
-    "preferred_turnover_total_krw_24h": 339656434239.0893,
-    "leader_turnover_share_pct": 60.63,
+    "preferred_turnover_total_krw_24h": 372681076807.5634,
+    "leader_turnover_share_pct": 45.12,
     "leader_symbol": "WLD"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "fresh breakout은 2개로 살아 있지만 메이저 붕괴가 심해 기존 90% 바스켓 방어보다 구조 우위 5종의 축소 재편이 더 낫습니다."
+    "comment": "JTO가 무효화 기준과 가장 가깝지만 전체적으로는 메이저 회복과 breadth 개선 덕분에 85% 재확대가 타당합니다."
   },
-  "ui_version": "v13.6"
+  "ui_version": "v13.7"
 }

@@ -92,6 +92,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When major average range-position stays above roughly 80, top15 non-major positives are 10개 이상, and fresh breakouts fall to 0, keep deployment around 90% and allow 60-80% range-position mega/liquid continuation leaders to remain in the basket; however cap every position at equal weight and require at least 3 of 5 picks to come from multi-10B KRW liquidity names instead of overreacting to the fresh-count drop alone.
 - When major average range-position collapses by roughly 50 points or more within one cycle and 3개 이상 held preferred names simultaneously break invalidation or lose roughly 45% day-range structure, cut next-cycle deployment toward roughly 70%, force at least 2 picks into 90%+ fresh/high-range leaders, keep 1 large-cap survivor, and allow at most 1 sub-55 mega-turnover salvage slot instead of defending the old 90% basket.
+- When a same-day fresh breakout held in the portfolio collapses to roughly 15% or less of the day range and worse than roughly -12% day-high gap by the next cycle, force that slot out immediately and replace it with an 80%+ liquid reclaim/continuation leader instead of giving the failed breakout another chance.
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
