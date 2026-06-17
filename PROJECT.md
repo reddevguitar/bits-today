@@ -106,3 +106,4 @@ The dashboard should evolve toward a compact portal experience:
 - visible notes on what improved this cycle
 - compact scorecard, risk-plan, and rotation-bucket visibility
 - When a breadth-surge basket cools within one cycle (major average range-position drops by roughly 20 points or more and fresh breakouts shrink to 1 or fewer), force at least 3 of 5 preferred picks into 70%+ continuation/survivor names and remove faded attention/beta leaders with roughly -7% or worse day-high gaps instead of defending the prior surge basket
+- When major average range-position falls below roughly 25 and 3개 이상 held preferred names simultaneously slip below roughly 35% of the day range or break invalidation, force the next cycle to reset around exactly 1 fresh 85%+ leader plus 4 stronger 60%+ continuation/survivor names, and cap deployment around 75% instead of defending the broken basket.
