@@ -99,6 +99,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When major average range-position drops by roughly 20 points or more within one cycle and 2개 이상 held preferred names slip below roughly 30% of the day range or worse than roughly -8% day-high gap, force the next cycle to keep at least 1 mega-turnover core but rebuild the remaining 4 slots around 85%+ fresh/high-range names where possible, and trim deployment toward roughly 75% instead of defending the older basket.
 
+- When major average range-position rebounds above roughly 45 while fresh breakouts are still 0, force at least 2 of 5 preferred picks into 75%+ clean continuation names and reject same-day leaders with worse than roughly -8% day-high gap even if they remain top-turnover; this prevents chasing exhausted rebound headlines during partial breadth recovery.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list

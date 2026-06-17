@@ -1,68 +1,131 @@
 {
   "project": "bit's today",
-  "judgment": "controlled aggressive: 75% equal-weight deployment into XLM XPL BIO CFG AERO",
+  "judgment": "aggressive selective rotation: 80% equal-weight deployment into XPL BIO ENA XLM ONDO",
   "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-17 22:00 KST",
-  "market_status": "메이저 4종은 전부 음수지만 평균 위치는 **26.05%**로 약간 회복했고, top15 비메이저 저위치 수는 **9 → 6**으로 줄었습니다. 즉 **시장 전체 철수보다 clean survivor/continuation 집중**이 맞습니다.",
+  "updated_at": "2026-06-18 04:00 KST",
+  "market_status": "메이저 4종은 전부 음수지만 평균 위치가 **26.05% → 49.2%**로 크게 회복했습니다. 다만 fresh breakout은 **0**이라 **과열 leader 추격보다 clean continuation + survivor 조합**이 맞습니다.",
   "fear_greed": "22 (Extreme Fear)",
-  "btc_snapshot": "BTC 97.754M원 / ETH 2.645M원 / XRP 1,800원 / SOL 108.7K원",
-  "cash_krw": "815,025 KRW",
-  "realized_pnl_krw": "-6,868,950 KRW",
-  "last_valuation_krw": "3,260,100 KRW",
+  "btc_snapshot": "BTC 98.270M원 / ETH 2.655M원 / XRP 1,815원 / SOL 110.4K원",
+  "cash_krw": "663,516 KRW",
+  "realized_pnl_krw": "-6,866,137 KRW",
+  "last_valuation_krw": "3,317,578 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -67.4,
-  "last_action": "RESET_75_XLM_XPL_BIO_CFG_AERO",
-  "trade_count": 891,
-  "last_updated": "2026-06-17T22:00:00+09:00",
+  "return_pct": -66.82,
+  "last_action": "ROTATE_80_XPL_BIO_ENA_XLM_ONDO",
+  "trade_count": 898,
+  "last_updated": "2026-06-18T04:00:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 20,
-    "recent_sell_count": 20,
-    "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 40,
-    "recent_24h_buy_count": 20,
-    "recent_24h_sell_count": 20,
-    "recent_24h_replacement_count": 20,
-    "portfolio_churn_24h_pct": 400.0
+    "recent_buy_count": 22,
+    "recent_sell_count": 18,
+    "recent_rotation_count": 18,
+    "recent_trade_actions_24h": 7,
+    "recent_24h_buy_count": 19,
+    "recent_24h_sell_count": 18,
+    "recent_24h_replacement_count": 18,
+    "portfolio_churn_24h_pct": 360.0
   },
   "summary": [
-    "✨ **XLM** — 342원 / **+4.59%** / 933.3억원 / 위치 84.2% / 초대금 survivor",
-    "💳 **XPL** — 162원 / **+17.39%** / 134.8억원 / 위치 78.1% / 카드 기대 고베타",
-    "🧬 **BIO** — 52.2원 / **+13.97%** / 259.5억원 / 위치 69.9% / attention continuation",
-    "🏗️ **CFG** — 363원 / **+6.45%** / 70.5억원 / 위치 81.5% / RWA clean continuation",
-    "🛫 **AERO** — 755원 / **+6.79%** / 57.3억원 / 위치 79.1% / Base DeFi continuation",
-    "BTC 32.3% 위치 / ETH 22.7% / XRP 25.4% / SOL 23.8%",
-    "메이저 평균 **26.05% 위치**, 직전 대비 **+4.12p** 반등",
-    "그래도 4종 모두 음수라 메이저는 매수 후보 제외, 실제 배치는 **75% 유지**",
-    "실투입: **75%**, 5종 **동일비중**",
-    "타깃: XLM / XPL / BIO / CFG / AERO 각 약 **48.87만원**",
-    "현금: 약 **81.44만원 (25%)**",
-    "핵심 논리: **fresh 0 + UNI·SPX broken + WLD stalled**라서, 오늘은 **깨끗한 생존주와 continuation으로 재조합**",
-    "SELL UNI / ID / CFG / AERO / SPX",
-    "BUY XLM / XPL / BIO / CFG / AERO",
-    "마지막 액션: **RESET_75_XLM_XPL_BIO_CFG_AERO**",
-    "XLM 1429.8683개 @ 342원",
-    "XPL 3018.6108개 @ 162원",
-    "BIO 9368.1026개 @ 52.2원",
-    "CFG 1347.1486개 @ 363원",
-    "AERO 647.7019개 @ 755원",
-    "현금 815024.9원 / 총평가 3260099.7원",
-    "장점: **무효화가 나온 UNI·SPX를 미련 없이 정리**한 점은 좋았습니다.",
-    "아쉬움: 직전 회차에서 ID의 과열 gap 리스크를 조금 더 빨리 경계했어야 했습니다.",
-    "점수: **8.8 / 10**",
-    "PROJECT에 **fresh=0 + 보유 무효화 시 turnover보다 clean structure 우선 교체** 규칙 추가",
-    "dashboard 아이콘 맵에 **XPL** 추가",
-    "리포트에서 **exhausted leader vs clean continuation** 구분을 더 선명하게 표시",
-    "controlled aggressive survivor rotation",
+    "💳 **XPL** — 178원 / **+28.99%** / 330.9억원 / 위치 85.4% / 카드·락업 고베타 코어",
+    "🧬 **BIO** — 53.4원 / **+16.59%** / 298.2억원 / 위치 82.8% / attention continuation",
+    "🏦 **ENA** — 140원 / **+8.53%** / 112.9억원 / 위치 76.5% / stablecoin beta continuation",
+    "✨ **XLM** — 339원 / **+3.67%** / 906.4억원 / 위치 52.0% / 초대금 survivor",
+    "🌐 **ONDO** — 565원 / **+1.44%** / 383.3억원 / 위치 55.2% / 기관서사 RWA survivor",
+    "BTC 48.2% 위치 / ETH 35.0% / XRP 50.8% / SOL 62.8%",
+    "메이저 평균 **49.2% 위치**, 직전 대비 **+23.15p**",
+    "그래도 4종 모두 음수라 메이저는 여전히 참고 신호로만 사용",
+    "실투입: **80%**, 5종 **동일비중**",
+    "타깃: XPL / BIO / ENA / XLM / ONDO 각 약 **53.08만원**",
+    "현금: 약 **66.35만원 (20%)**",
+    "핵심 논리: **fresh 0 + major rebound + SPX·ID gap 과열** → **고베타 2개 + clean continuation 1개 + survivor 2개**",
+    "SELL CFG / AERO / XPL(소폭 트림)",
+    "BUY ENA / ONDO / XLM(보강) / BIO(보강)",
+    "마지막 액션: **ROTATE_80_XPL_BIO_ENA_XLM_ONDO**",
+    "XPL 2982.0928개 @ 162.00원",
+    "BIO 9940.3092개 @ 52.2691원",
+    "ENA 3791.5179개 @ 140원",
+    "XLM 1565.8186개 @ 341.74원",
+    "ONDO 939.4912개 @ 565원",
+    "현금 663515.6원 / 총평가 3317578.2원",
+    "장점: **XPL·BIO 강세를 계속 유지하면서 breadth 회복에 맞춰 survivor 축을 다시 조합**한 점은 좋았습니다.",
+    "아쉬움: 직전 회차에서 **CFG·AERO를 한 사이클 더 빨리 정리**했어도 됐습니다.",
+    "점수: **8.6 / 10**",
+    "PROJECT에 **major rebound + fresh 0일 때 -8% 이하 gap leader 추격 금지** 규칙 추가",
+    "톱5를 **고베타 2 / continuation 1 / survivor 2** 구조로 표준화해 가독성 개선",
+    "watchlist를 **승격 후보 vs 과열 감시 후보** 중심으로 재정렬",
+    "aggressive selective rotation",
     "medium",
-    "**XLM을 코어로 두고 XPL·BIO로 공격성, CFG·AERO로 구조 안정 보강**. 단 **XLM 337 / XPL 156 / BIO 50.4 / CFG 356 / AERO 742** 하회 시 즉시 재평가",
-    "메이저 4종이 모두 음수라 급반락이 다시 오면 75%도 과할 수 있음",
-    "XPL은 가장 공격적인 슬롯이라 카드 기대가 식으면 되밀림 속도가 빠를 수 있음",
-    "BIO는 강하지만 ID 대비 상대우위일 뿐, 절대적 저위험 자리는 아님",
-    "WLD·SPX처럼 **대금이 커도 gap/위치가 무너지면 방어 금지**"
+    "**XPL·BIO를 공격 코어로 유지하고 ENA·ONDO로 breadth 회복을 따라가되, XLM은 대형 유동성 생존주로만 취급**. **XPL 171 / BIO 51.6 / ENA 136 / XLM 334 / ONDO 559** 하회 시 즉시 재평가",
+    "메이저는 반등했지만 아직 4종 모두 음수라 80% 이상 확대는 이릅니다",
+    "**XPL은 7월 대규모 언락 리스크**가 있어 가장 빠르게 흔들릴 수 있습니다",
+    "SPX·ID는 강해 보여도 **고점 대비 gap이 너무 커 늦은 추격 금지**",
+    "WLD는 최대 대금이어도 여전히 **mega-turnover trap**입니다"
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 565.0,
+      "amount_delta": 939.4911703685117,
+      "cash_delta_krw": -530812.5112582091,
+      "reason": "ONDO는 565원, +1.44%, 24h 대금 383.3억원, 위치 55.2%로 메이저 회복 초입에서 다시 잡히는 기관서사형 유동성 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "ENA",
+      "action": "BUY",
+      "price_krw": 140.0,
+      "amount_delta": 3791.5179375586367,
+      "cash_delta_krw": -530812.5112582091,
+      "reason": "ENA는 140원, +8.53%, 24h 대금 112.9억원, 위치 76.5%로 이번 회차의 가장 깔끔한 중형 stablecoin beta continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 53.4,
+      "amount_delta": 572.2065863861923,
+      "cash_delta_krw": -30555.831713022664,
+      "reason": "BIO는 53.4원, +16.59%, 24h 대금 298.2억원, 위치 82.8%로 XPL 다음으로 읽기 쉬운 high-range continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 339.0,
+      "amount_delta": 135.9503236862923,
+      "cash_delta_krw": -46087.159729653096,
+      "reason": "XLM은 339원, +3.67%, 24h 대금 906.4억원으로 range는 식었지만 여전히 업비트에서 가장 큰 양수 유동성 축입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 178.0,
+      "amount_delta": -36.51808215538176,
+      "cash_delta_krw": 6500.218623657954,
+      "reason": "가장 강한 리더는 유지하되 80% 동일비중 공격 분산을 맞추기 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "AERO",
+      "action": "SELL",
+      "price_krw": 773.0,
+      "amount_delta": -647.7019290189929,
+      "cash_delta_krw": 500673.5911316815,
+      "reason": "AERO는 나쁘지 않지만 대금 체급이 너무 얕아 부분 breadth 회복 구간에서 ONDO보다 설명력이 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "CFG",
+      "action": "SELL",
+      "price_krw": 356.0,
+      "amount_delta": -1347.1486402461148,
+      "cash_delta_krw": 479584.9159276169,
+      "reason": "CFG는 구조가 50%까지 식었고 major rebound 구간에서 ENA·ONDO 대비 승격 우선순위가 밀려 전량 교체"
+    },
     {
       "timestamp": "2026-06-17T22:00:00+09:00",
       "symbol": "AERO",
@@ -71,72 +134,13 @@
       "amount_delta": 647.7019290189929,
       "cash_delta_krw": -489014.9564093397,
       "reason": "AERO는 755원, +6.79%, 24h 대금 57.3억원, 위치 79.1%로 Base DeFi 순환의 clean continuation 역할이 여전히 유효합니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "CFG",
-      "action": "BUY",
-      "price_krw": 363.0,
-      "amount_delta": 1347.1486402461148,
-      "cash_delta_krw": -489014.9564093397,
-      "reason": "CFG는 363원, +6.45%, 24h 대금 70.5억원, 위치 81.5%로 오늘도 가장 깔끔한 RWA continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "BIO",
-      "action": "BUY",
-      "price_krw": 52.2,
-      "amount_delta": 9368.10261320574,
-      "cash_delta_krw": -489014.9564093397,
-      "reason": "BIO는 52.2원, +13.97%, 24h 대금 259.5억원, 위치 69.9%로 ID보다 day-high gap이 덜 벌어진 attention continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "XPL",
-      "action": "BUY",
-      "price_krw": 162.0,
-      "amount_delta": 3018.610842032961,
-      "cash_delta_krw": -489014.9564093397,
-      "reason": "XPL은 162원, +17.39%, 24h 대금 134.8억원, 위치 78.1%로 카드 런치 기대가 붙은 저체급 고베타 공격 슬롯입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "XLM",
-      "action": "BUY",
-      "price_krw": 342.0,
-      "amount_delta": 1429.8682935945606,
-      "cash_delta_krw": -489014.9564093397,
-      "reason": "XLM은 342원, +4.59%, 24h 대금 933.3억원, 위치 84.2%로 현재 업비트에서 가장 읽기 쉬운 초대금 survivor/reclaim 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "SPX",
-      "action": "SELL",
-      "price_krw": 660.0,
-      "amount_delta": -704.6822483287325,
-      "cash_delta_krw": 465090.28389696346,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "AERO",
-      "action": "SELL",
-      "price_krw": 755.0,
-      "amount_delta": -661.5766852660706,
-      "cash_delta_krw": 499490.3973758833,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "CFG",
-      "action": "SELL",
-      "price_krw": 363.0,
-      "amount_delta": -1374.325047845539,
-      "cash_delta_krw": 498879.9923679307,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-18-0400.md",
+      "title": "2026-06-18-0400"
+    },
     {
       "file": "2026-06-17-2200.md",
       "title": "2026-06-17-2200"
@@ -164,10 +168,6 @@
     {
       "file": "2026-06-16-0958.md",
       "title": "2026-06-16-0958"
-    },
-    {
-      "file": "2026-06-16-0358.md",
-      "title": "2026-06-16-0358"
     }
   ],
   "positions": [
@@ -175,72 +175,72 @@
       "icon": "✨",
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "amount": 1429.8682935945606,
+      "amount": 1565.8186172808528,
       "avg_buy_price_krw": "342 KRW",
-      "last_price_krw": "342 KRW",
-      "thesis": "DTCC·토큰화 기대가 붙은 상태에서 업비트 초대금과 84%대 상단 체류가 동시에 살아 있어 이번 회차 메인 코어로 적합합니다.",
+      "last_price_krw": "339 KRW",
+      "thesis": "DTCC-Stellar 토큰화 연결 기대가 살아 있는 상태라, 부분 breadth 회복 구간의 대형 survivor 코어로 유지 가치가 있습니다.",
       "strategy": "mega-liquidity survivor/reclaim",
       "role": "mega-liquidity survivor/reclaim",
       "risk_limit_pct": 4,
-      "profit_take_pct": 9,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "profit_take_pct": 8,
+      "pnl_krw": "-4,290 KRW",
+      "pnl_pct": -0.8
     },
     {
       "icon": "💳",
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "amount": 3018.610842032961,
+      "amount": 2982.0927598775793,
       "avg_buy_price_krw": "162 KRW",
-      "last_price_krw": "162 KRW",
+      "last_price_krw": "178 KRW",
       "thesis": "Plasma One 카드/락업 기대가 만든 투기성 수급이 실제 거래대금과 78%대 구조로 확인돼 공격 슬롯 가치가 있습니다.",
       "strategy": "product-driven speculative beta",
       "role": "product-driven speculative beta",
       "risk_limit_pct": 7,
       "profit_take_pct": 16,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "pnl_krw": "47,713 KRW",
+      "pnl_pct": 9.88
     },
     {
       "icon": "🧬",
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "amount": 9368.10261320574,
+      "amount": 9940.309199591931,
       "avg_buy_price_krw": "52 KRW",
-      "last_price_krw": "52 KRW",
-      "thesis": "ID의 과열된 day-high gap보다 BIO가 더 안정된 되밀림으로 attention continuation 기대값이 낫습니다.",
+      "last_price_krw": "53 KRW",
+      "thesis": "단순 급등이 아니라 상단 체류가 살아 있어 attention 종목 중 기대값이 더 좋습니다.",
       "strategy": "attention continuation",
       "role": "attention continuation",
       "risk_limit_pct": 6,
       "profit_take_pct": 14,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "amount": 1347.1486402461148,
-      "avg_buy_price_krw": "363 KRW",
-      "last_price_krw": "363 KRW",
-      "thesis": "RWA 서사 중에서는 오늘도 CFG가 가장 깨끗한 상단 유지력을 보여 ONDO보다 우위입니다.",
-      "strategy": "RWA clean continuation",
-      "role": "RWA clean continuation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
+      "pnl_krw": "11,242 KRW",
+      "pnl_pct": 2.16
     },
     {
       "icon": "🪙",
-      "symbol": "AERO",
-      "market": "KRW-AERO",
-      "amount": 647.7019290189929,
-      "avg_buy_price_krw": "755 KRW",
-      "last_price_krw": "755 KRW",
-      "thesis": "메이저 부진 구간에서도 AERO는 작은 체급 대비 깨끗한 상단 유지로 DeFi 분산축 역할이 좋습니다.",
-      "strategy": "Base DeFi continuation",
-      "role": "Base DeFi continuation",
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "amount": 3791.5179375586367,
+      "avg_buy_price_krw": "140 KRW",
+      "last_price_krw": "140 KRW",
+      "thesis": "과열 leader보다 덜 피곤하고, 구조가 선명해 신규 승격용 3번째 코어로 적합합니다.",
+      "strategy": "stablecoin beta continuation",
+      "role": "stablecoin beta continuation",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 13,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "amount": 939.4911703685117,
+      "avg_buy_price_krw": "565 KRW",
+      "last_price_krw": "565 KRW",
+      "thesis": "미래에셋-온도 ETF 토큰화 헤드라인이 붙은 상태라, 과열 갭 없이 버티는 대형 RWA 슬롯으로 유효합니다.",
+      "strategy": "institutional RWA survivor",
+      "role": "institutional RWA survivor",
       "risk_limit_pct": 5,
       "profit_take_pct": 10,
       "pnl_krw": "0 KRW",
@@ -248,36 +248,7 @@
     }
   ],
   "chart_series": {
-    "WLD": [
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 1040.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 1040.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-17T15:58:00+09:00",
-        "price_krw": 1026.0,
-        "action": "SELL"
-      }
-    ],
-    "SENT": [
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 28.8,
-        "action": "SELL"
-      }
-    ],
     "UNI": [
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 5130.0,
-        "action": "SELL"
-      },
       {
         "timestamp": "2026-06-17T09:58:00+09:00",
         "price_krw": 5130.0,
@@ -296,32 +267,6 @@
       {
         "timestamp": "2026-06-17T22:00:00+09:00",
         "price_krw": 5040.0,
-        "action": "SELL"
-      }
-    ],
-    "ZBT": [
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 195.0,
-        "action": "SELL"
-      }
-    ],
-    "OPEN": [
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 389.0,
-        "action": "SELL"
-      }
-    ],
-    "ONDO": [
-      {
-        "timestamp": "2026-06-17T09:58:00+09:00",
-        "price_krw": 567.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-17T15:58:00+09:00",
-        "price_krw": 563.0,
         "action": "SELL"
       }
     ],
@@ -347,6 +292,25 @@
         "timestamp": "2026-06-17T15:58:00+09:00",
         "price_krw": 74.5,
         "action": "SELL"
+      }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-06-17T15:58:00+09:00",
+        "price_krw": 1026.0,
+        "action": "SELL"
+      }
+    ],
+    "ONDO": [
+      {
+        "timestamp": "2026-06-17T15:58:00+09:00",
+        "price_krw": 563.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 565.0,
+        "action": "BUY"
       }
     ],
     "ID": [
@@ -376,6 +340,11 @@
         "timestamp": "2026-06-17T22:00:00+09:00",
         "price_krw": 363.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 356.0,
+        "action": "SELL"
       }
     ],
     "AERO": [
@@ -393,6 +362,11 @@
         "timestamp": "2026-06-17T22:00:00+09:00",
         "price_krw": 755.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 773.0,
+        "action": "SELL"
       }
     ],
     "SPX": [
@@ -412,6 +386,11 @@
         "timestamp": "2026-06-17T22:00:00+09:00",
         "price_krw": 342.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 339.0,
+        "action": "BUY"
       }
     ],
     "XPL": [
@@ -419,6 +398,11 @@
         "timestamp": "2026-06-17T22:00:00+09:00",
         "price_krw": 162.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 178.0,
+        "action": "SELL"
       }
     ],
     "BIO": [
@@ -426,302 +410,314 @@
         "timestamp": "2026-06-17T22:00:00+09:00",
         "price_krw": 52.2,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 53.4,
+        "action": "BUY"
+      }
+    ],
+    "ENA": [
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 140.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-17-2200.md",
+  "latest_report_file": "2026-06-18-0400.md",
   "preferred_buy_candidates": [
-    {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "price_krw": 342.0,
-      "change_pct_24h": 4.58715596,
-      "turnover_krw_24h": 93334998726.15288,
-      "reason": "XLM은 342원, +4.59%, 24h 대금 933.3억원, 위치 84.2%로 현재 업비트에서 가장 읽기 쉬운 초대금 survivor/reclaim 코어입니다.",
-      "score": 59.73,
-      "community": "국내 자금은 WLD·SPX 같은 피로한 주도주보다 XLM처럼 초대금이면서 상단을 다시 잡은 이름으로 돌아왔습니다.",
-      "risk": null,
-      "allocation_krw": 489014.9564093397,
-      "role": "mega-liquidity survivor/reclaim",
-      "invalidated_if": "337원 하회 시 초대금 survivor 구조 약화",
-      "range_position_pct": 84.2,
-      "day_high_gap_pct": -0.87
-    },
     {
       "icon": "💳",
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "price_krw": 162.0,
-      "change_pct_24h": 17.39130435,
-      "turnover_krw_24h": 13478170551.477655,
-      "reason": "XPL은 162원, +17.39%, 24h 대금 134.8억원, 위치 78.1%로 카드 런치 기대가 붙은 저체급 고베타 공격 슬롯입니다.",
-      "score": 57.58,
-      "community": "커뮤니티 성격의 추격 자금은 XPL 카드/락업 기대 같은 쉬운 스토리에 강하게 반응 중입니다.",
+      "price_krw": 178.0,
+      "change_pct_24h": 28.98550725,
+      "turnover_krw_24h": 33094250238.67372,
+      "reason": "XPL은 178원, +28.99%, 24h 대금 330.9억원, 위치 85.4%로 이번 보드에서 가장 공격적으로 살아 있는 결제/멤버십 유틸리티 베타입니다.",
+      "score": 65.79,
+      "community": "업비트 리테일은 XPL의 간단한 제품 스토리와 실제 가격 확장에 가장 강하게 반응 중입니다.",
       "risk": null,
-      "allocation_krw": 489014.9564093397,
+      "allocation_krw": 530812.5112582091,
       "role": "product-driven speculative beta",
-      "invalidated_if": "156원 하회 시 카드 런치 기대 고베타 약화",
-      "range_position_pct": 78.1,
-      "day_high_gap_pct": -4.14
+      "invalidated_if": "171원 하회 시 카드/락업 기반 고베타 지속 약화",
+      "range_position_pct": 85.4,
+      "day_high_gap_pct": -3.78
     },
     {
       "icon": "🧬",
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "price_krw": 52.2,
-      "change_pct_24h": 13.97379913,
-      "turnover_krw_24h": 25951138342.916225,
-      "reason": "BIO는 52.2원, +13.97%, 24h 대금 259.5억원, 위치 69.9%로 ID보다 day-high gap이 덜 벌어진 attention continuation입니다.",
-      "score": 50.25,
-      "community": "ID 추격 피로를 느낀 자금 일부가 BIO 같은 덜 과열된 2선 attention 종목으로 분산되는 흐름이 보입니다.",
+      "price_krw": 53.4,
+      "change_pct_24h": 16.59388646,
+      "turnover_krw_24h": 29818952574.22783,
+      "reason": "BIO는 53.4원, +16.59%, 24h 대금 298.2억원, 위치 82.8%로 XPL 다음으로 읽기 쉬운 high-range continuation입니다.",
+      "score": 63.27,
+      "community": "국내 커뮤니티 자금은 ID보다 BIO처럼 고점 이탈폭이 작은 고위치 지속형을 선호하는 모습입니다.",
       "risk": null,
-      "allocation_krw": 489014.9564093397,
+      "allocation_krw": 530812.5112582091,
       "role": "attention continuation",
-      "invalidated_if": "50.4원 하회 시 attention continuation 훼손",
-      "range_position_pct": 69.9,
-      "day_high_gap_pct": -5.09
-    },
-    {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "market": "KRW-CFG",
-      "price_krw": 363.0,
-      "change_pct_24h": 6.4516129,
-      "turnover_krw_24h": 7048003100.761235,
-      "reason": "CFG는 363원, +6.45%, 24h 대금 70.5억원, 위치 81.5%로 오늘도 가장 깔끔한 RWA continuation입니다.",
-      "score": 44.18,
-      "community": "소형이지만 차트가 매우 깔끔해 구조형 선호 자금이 꾸준히 붙고 있습니다.",
-      "risk": null,
-      "allocation_krw": 489014.9564093397,
-      "role": "RWA clean continuation",
-      "invalidated_if": "356원 하회 시 RWA continuation 훼손",
-      "range_position_pct": 81.5,
-      "day_high_gap_pct": -1.36
-    },
-    {
-      "icon": "🪙",
-      "symbol": "AERO",
-      "market": "KRW-AERO",
-      "price_krw": 755.0,
-      "change_pct_24h": 6.78925035,
-      "turnover_krw_24h": 5726153445.822808,
-      "reason": "AERO는 755원, +6.79%, 24h 대금 57.3억원, 위치 79.1%로 Base DeFi 순환의 clean continuation 역할이 여전히 유효합니다.",
-      "score": 42.94,
-      "community": "AERO는 큰 뉴스보다도 DeFi 순환 자금이 잔잔하게 유지되는 전형적인 continuation 후보입니다.",
-      "risk": null,
-      "allocation_krw": 489014.9564093397,
-      "role": "Base DeFi continuation",
-      "invalidated_if": "742원 하회 시 Base DeFi follow-through 둔화",
-      "range_position_pct": 79.1,
-      "day_high_gap_pct": -1.82
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🆔",
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "49.3원, +17.94%, 594.1억원이지만 위치 63.0%·-9.21% gap이라 추격보다 재정리 확인이 먼저입니다."
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "563원, +1.08%, 378.1억원, 위치 51.9%로 RWA 대형축이지만 CFG보다 구조 우위가 약합니다."
-    },
-    {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3480원, +0.23%, 215.5억원, 위치 57.2%로 품질은 좋지만 공격성은 XLM·XPL보다 낮습니다."
+      "invalidated_if": "51.6원 하회 시 attention continuation 훼손",
+      "range_position_pct": 82.8,
+      "day_high_gap_pct": -2.91
     },
     {
       "icon": "🪙",
       "symbol": "ENA",
       "market": "KRW-ENA",
-      "reason": "135원, +4.65%, 69.3억원, 위치 88.9%로 차기 승격 후보 중 가장 깨끗한 구조입니다."
+      "price_krw": 140.0,
+      "change_pct_24h": 8.52713178,
+      "turnover_krw_24h": 11294298565.857468,
+      "reason": "ENA는 140원, +8.53%, 24h 대금 112.9억원, 위치 76.5%로 이번 회차의 가장 깔끔한 중형 stablecoin beta continuation입니다.",
+      "score": 44.56,
+      "community": "XPL·BIO 뒤의 2선 자금이 ENA로 이어지며 과열 gap 없이 상단을 유지했습니다.",
+      "risk": null,
+      "allocation_krw": 530812.5112582091,
+      "role": "stablecoin beta continuation",
+      "invalidated_if": "136원 하회 시 고위치 stablecoin beta 약화",
+      "range_position_pct": 76.5,
+      "day_high_gap_pct": -2.78
     },
     {
-      "icon": "🛡️",
-      "symbol": "ZAMA",
-      "market": "KRW-ZAMA",
-      "reason": "53.8원, +11.85%, 71.2억원, 위치 77.6%로 소형 follow-through 감시 가치가 있습니다."
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "price_krw": 339.0,
+      "change_pct_24h": 3.66972477,
+      "turnover_krw_24h": 90635909635.96112,
+      "reason": "XLM은 339원, +3.67%, 24h 대금 906.4억원으로 range는 식었지만 여전히 업비트에서 가장 큰 양수 유동성 축입니다.",
+      "score": 43.49,
+      "community": "초대금 알트 안에서는 WLD보다 XLM 쪽이 훨씬 건강한 생존주로 인식됩니다.",
+      "risk": null,
+      "allocation_krw": 530812.5112582091,
+      "role": "mega-liquidity survivor/reclaim",
+      "invalidated_if": "334원 하회 시 대형 survivor 구조 약화",
+      "range_position_pct": 52.0,
+      "day_high_gap_pct": -3.42
     },
     {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "991원, -2.36%, 1792.8억원인데 위치 23.4%·-8.75% gap라 아직 stalled mega-turnover trap입니다."
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "price_krw": 565.0,
+      "change_pct_24h": 1.43626571,
+      "turnover_krw_24h": 38332070084.38602,
+      "reason": "ONDO는 565원, +1.44%, 24h 대금 383.3억원, 위치 55.2%로 메이저 회복 초입에서 다시 잡히는 기관서사형 유동성 코어입니다.",
+      "score": 32.09,
+      "community": "대형 체급 선호 자금은 SPX·ID보다 ONDO 같은 덜 과열된 RWA 축으로 다시 붙고 있습니다.",
+      "risk": null,
+      "allocation_krw": 530812.5112582091,
+      "role": "institutional RWA survivor",
+      "invalidated_if": "559원 하회 시 RWA survivor 구조 약화",
+      "range_position_pct": 55.2,
+      "day_high_gap_pct": -2.25
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🪙",
+      "symbol": "AERO",
+      "market": "KRW-AERO",
+      "reason": "773원, +9.34%, 위치 81.6%로 구조는 좋지만 25.8억원 대금이라 차기 승격 대기."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "SIGN",
+      "market": "KRW-SIGN",
+      "reason": "14.6원, +9.77%, 위치 93.3%지만 20.2억원 대금이라 보조 실험 후보."
+    },
+    {
+      "icon": "🔺",
+      "symbol": "ALGO",
+      "market": "KRW-ALGO",
+      "reason": "151원, +6.34%, 위치 100%이나 대금 20.3억원으로 체급 확인이 더 필요."
+    },
+    {
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "131원, +0.77%, 172.1억원, 위치 60.0%로 메이저 대체 성격의 liquid survivor."
+    },
+    {
+      "icon": "🧢",
+      "symbol": "TRUMP",
+      "market": "KRW-TRUMP",
+      "reason": "2901원, +1.29%, 100.0억원, 위치 68.6%로 구조는 양호하지만 내러티브 변동성 큼."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "SPX",
+      "market": "KRW-SPX",
+      "reason": "684원, +16.92%, 866.1억원이지만 -8.56% gap이라 추격보다 재상단 확인이 우선."
     }
   ],
   "cycle_improvements": [
-    "PROJECT에 fresh=0 환경에서 보유 종목이 무효화되고 75%+ 대안이 있으면 turnover보다 구조를 우선 교체하는 규칙을 추가했습니다.",
-    "dashboard 아이콘 맵에 XPL을 추가해 새 후보가 대시보드에서 더 잘 보이게 했습니다.",
-    "리포트에서 exhausted leader와 clean continuation을 더 분리해 읽히도록 표현을 정리했습니다."
+    "PROJECT에 메이저 평균 위치가 45 이상으로 반등해도 fresh=0이면 -8% 이하 gap leader 추격을 금지하고 75%+ clean continuation 2개 이상을 강제하는 규칙을 추가했습니다.",
+    "이번 리포트에서 톱5를 고베타 2 + continuation 1 + survivor 2 구조로 명시해 한눈에 읽히도록 정리했습니다.",
+    "watchlist를 승격 후보와 과열 감시 후보로 다시 정렬해 다음 회차 비교 비용을 줄였습니다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "UNI",
-      "market": "KRW-UNI",
-      "reason": "5040원, +1.86%지만 위치 30.2%·-10.0% gap로 직전 코어 구조가 붕괴했습니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "988원, 최대 대금이지만 위치 21.0%·-9.02% gap로 여전히 mega-turnover trap입니다."
     },
     {
       "symbol": "SPX",
       "market": "KRW-SPX",
-      "reason": "660원, +12.82%, 866.0억원이어도 위치 48.5%·-11.76% gap라 exhausted blowoff에 가깝습니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "1792.8억원 최대 대금에도 -2.36%, 위치 23.4%라 여전히 stalled mega-turnover trap입니다."
+      "reason": "684원, +16.92%, 866.1억원이어도 -8.56% gap라 partial recovery 구간에선 늦은 추격입니다."
     },
     {
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "상승률은 가장 강하지만 위치 63.0% 대비 -9.21% gap이 커 이번 회차 추격 우선순위를 낮췄습니다."
+      "reason": "48.4원, +15.79%, 637.8억원이지만 -10.87% gap로 exhausted blowoff 성격이 강합니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "563원, +1.08%, 378.1억원이지만 CFG보다 구조가 덜 깨끗한 51.9% 중단형입니다."
+      "symbol": "UNI",
+      "market": "KRW-UNI",
+      "reason": "4916원, -0.65%, 위치 16.3%로 반등보다 함정 성격이 더 큽니다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "품질은 괜찮지만 57.2% 위치로 공격성 면에서 XPL·BIO보다 한 단계 아래입니다."
+      "symbol": "ELSA",
+      "market": "KRW-ELSA",
+      "reason": "75.2원, +5.17%지만 위치 24.3%·-12.35% gap라 top-turnover trap입니다."
+    },
+    {
+      "symbol": "ORCA",
+      "market": "KRW-ORCA",
+      "reason": "1805원, +4.46%지만 위치 43.3%·-5.74% gap로 cleaner survivor 대비 우위가 약합니다."
     }
   ],
-  "top_line": "**UNI·SPX 무효화 확인**. 이번 회차는 **XLM 코어 + XPL·BIO·CFG·AERO 75% 재편**이 더 낫습니다.",
-  "ui_version": "v15.1",
+  "top_line": "**메이저 평균 위치 49.2% 반등**. 그래도 fresh 0이라 **XPL·BIO 전면 + ENA·XLM·ONDO 80% 분산**이 가장 낫습니다.",
+  "ui_version": "v15.2",
   "risk_plan": {
-    "portfolio_cash_target": "기본 25% 유지. 메이저 평균 위치가 22 아래로 재하락하면 현금 30%로 상향.",
-    "review_trigger": "XLM 337원 / XPL 156원 / BIO 50.4원 / CFG 356원 / AERO 742원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. 메이저 평균 위치가 40 아래로 재하락하면 현금 25%로 상향.",
+    "review_trigger": "XPL 171원 / BIO 51.6원 / ENA 136원 / XLM 334원 / ONDO 559원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "fresh=0 환경에서 보유 종목이 무효화되고 75%+ 대안이 있으면 turnover보다 구조를 우선 교체",
-      "day-high gap이 -10% 이하로 벌어진 same-day leader는 fresh=0 구간에서 신규 core 금지",
-      "stalled mega-turnover 이름은 구조 재회복 전까지 최대 1개만 허용"
+      "fresh=0 환경에서 메이저 평균 위치가 45 이상으로 반등해도 -8% 이하 gap leader는 신규 core 금지",
+      "partial breadth recovery에서는 75%+ clean continuation 최소 2개 유지",
+      "WLD·UNI 같은 mega-turnover trap은 구조 재회복 전까지 신규 복귀 금지"
     ],
     "exit_rules": [
-      "XLM 337원 / XPL 156원 / BIO 50.4원 / CFG 356원 / AERO 742원 하회 시 즉시 재평가",
+      "XPL 171원 / BIO 51.6원 / ENA 136원 / XLM 334원 / ONDO 559원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "fresh=0 환경에서 보유 종목이 무효화되고 75%+ 대안이 있으면 turnover보다 구조를 우선 교체",
-      "day-high gap이 -10% 이하로 벌어진 same-day leader는 fresh=0 구간에서 신규 core 금지",
-      "stalled mega-turnover 이름은 구조 재회복 전까지 최대 1개만 허용"
+      "fresh=0 환경에서 메이저 평균 위치가 45 이상으로 반등해도 -8% 이하 gap leader는 신규 core 금지",
+      "partial breadth recovery에서는 75%+ clean continuation 최소 2개 유지",
+      "WLD·UNI 같은 mega-turnover trap은 구조 재회복 전까지 신규 복귀 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1455.4억원이며, XLM 비중은 64.13%입니다.",
-    "momentum_discipline": "XLM survivor core + XPL speculative beta + BIO attention continuation + CFG clean RWA + AERO Base DeFi",
-    "diversification": "payments 1 + speculative product 1 + attention 1 + DeFi/RWA 2",
-    "cash_usage": "75%",
-    "rotation_speed": "high"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2651.8억원이며, XLM 비중은 34.18%입니다.",
+    "momentum_discipline": "XPL/BIO high-conviction core + ENA clean continuation + XLM/ONDO survivor pair",
+    "diversification": "payments/stablecoin 3 + attention 1 + RWA 1",
+    "cash_usage": "80%",
+    "rotation_speed": "medium-high"
   },
   "signal_balance": {
-    "summary": "fresh 0 / conviction 7 / survivor 12 / reclaim 8"
+    "summary": "fresh 0 / conviction 3 / survivor 10 / reclaim 6"
   },
   "rotation_map": [
     {
-      "bucket": "UNI → XLM",
-      "symbols": [
-        "UNI",
-        "XLM"
-      ],
-      "note": "UNI는 30.2% 위치로 무너졌고 XLM은 84.2% 초대금 survivor라 바로 상향 교체합니다."
-    },
-    {
-      "bucket": "ID → XPL",
-      "symbols": [
-        "ID",
-        "XPL"
-      ],
-      "note": "ID의 -9.21% gap 추격 피로보다 XPL의 78.1% 구조와 카드 기대 고베타가 더 공격적입니다."
-    },
-    {
-      "bucket": "SPX → BIO",
-      "symbols": [
-        "SPX",
-        "BIO"
-      ],
-      "note": "SPX는 exhausted blowoff 성격이 강해, 더 덜 피곤한 BIO continuation으로 회전합니다."
-    },
-    {
-      "bucket": "CFG → CFG",
+      "bucket": "CFG → ENA",
       "symbols": [
         "CFG",
-        "CFG"
+        "ENA"
       ],
-      "note": "RWA continuation 슬롯은 오늘도 CFG가 가장 깔끔해 유지합니다."
+      "note": "CFG는 50%까지 식은 반면 ENA는 76.5% high-range continuation이라 교체 승격합니다."
     },
     {
-      "bucket": "AERO → AERO",
+      "bucket": "AERO → ONDO",
       "symbols": [
         "AERO",
-        "AERO"
+        "ONDO"
       ],
-      "note": "Base DeFi continuation 자리 역시 AERO가 충분히 유지됩니다."
+      "note": "AERO는 구조는 좋지만 대금이 얕아, 미래에셋 RWA 서사가 붙은 ONDO 대형 survivor 쪽이 더 낫습니다."
+    },
+    {
+      "bucket": "XPL → XPL",
+      "symbols": [
+        "XPL",
+        "XPL"
+      ],
+      "note": "가장 강한 리더라 유지하되 동일비중을 위해 소폭만 트림합니다."
+    },
+    {
+      "bucket": "BIO → BIO",
+      "symbols": [
+        "BIO",
+        "BIO"
+      ],
+      "note": "BIO는 XPL 다음 강한 high-range continuation이라 유지합니다."
+    },
+    {
+      "bucket": "XLM → XLM",
+      "symbols": [
+        "XLM",
+        "XLM"
+      ],
+      "note": "XLM은 위치가 식었어도 초대금 survivor 코어로 남길 가치가 있습니다."
     }
   ],
   "self_evaluation": {
-    "score": 8.8,
-    "summary": "직전 회차에서 UNI와 SPX의 무효화 가능성을 더 보수적으로 봤어야 했습니다. 대신 실제로 무너진 두 슬롯을 빠르게 인정하고 XLM 중심 survivor 바스켓으로 재편한 대응은 괜찮았습니다."
+    "score": 8.6,
+    "summary": "직전 회차에 XPL·BIO를 담은 판단은 좋았지만 XLM을 과하게 코어로 본 탓에 breadth 회복 구간에서 CFG·AERO 교체를 한 사이클 늦췄습니다. 이번에는 강한 종목을 더 위로 올리고 gap 나쁜 리더를 계속 배제한 점이 개선입니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 9.84,
+    "preferred_avg_change_pct_24h": 11.84,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 145538464167.13083,
-    "leader_turnover_share_pct": 64.13,
+    "preferred_turnover_total_krw_24h": 203175481099.10617,
+    "leader_turnover_share_pct": 44.61,
     "leader_symbol": "XLM",
-    "leader_concentration_warning": "high"
+    "leader_concentration_warning": "moderate"
   },
-  "snapshot_updated_at_utc": "2026-06-17T12:59:19.252478+00:00",
-  "snapshot_age_hours": 0.01,
+  "snapshot_updated_at_utc": "2026-06-17T18:59:03.784533+00:00",
+  "snapshot_age_hours": 0.02,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 0,
-    "top15_alt_low_range_count_delta": -3,
-    "weak_breadth_warning_changed": true,
+    "top15_alt_positive_count_delta": -1,
+    "top15_alt_low_range_count_delta": 0,
+    "weak_breadth_warning_changed": false,
     "entered_top5_turnover": [
-      "ID"
+      "ONDO"
     ],
     "exited_top5_turnover": [
-      "ONDO"
+      "JTO"
     ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": 4.12,
-    "major_positive_count_delta": -1,
-    "major_negative_count_delta": 1
+    "major_avg_range_position_pct_delta": 23.15,
+    "major_positive_count_delta": 0,
+    "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
     "fresh_breakout_count": 0,
-    "high_conviction_count": 7,
-    "quality_survivor_count": 12,
-    "relative_strength_reclaim_count": 8,
-    "breakout_cluster_active": true,
-    "summary": "fresh 0 / conviction 7 / survivor 12 / reclaim 8"
+    "high_conviction_count": 3,
+    "quality_survivor_count": 10,
+    "relative_strength_reclaim_count": 6,
+    "breakout_cluster_active": false,
+    "summary": "fresh 0 / conviction 3 / survivor 10 / reclaim 6"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 32.3,
-    "major_avg_range_position_pct": 26.05,
-    "preferred_avg_change_pct_24h": 9.84,
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 48.2,
+    "major_avg_range_position_pct": 49.2,
+    "preferred_avg_change_pct_24h": 11.84,
     "preferred_high_range_count": 2,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 78.56,
-    "avg_day_high_gap_pct": -2.66,
+    "avg_range_position_pct": 70.38,
+    "avg_day_high_gap_pct": -3.03,
     "above_80_range_count": 2,
-    "summary": "고위치(80%+) 후보 2개 / 평균 위치 78.56%"
+    "summary": "고위치(80%+) 후보 2개 / 평균 위치 70.38%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -732,43 +728,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "last_price_krw": 342.0,
-      "threshold_krw": 337.0,
-      "distance_to_invalidation_pct": 1.48,
-      "status": "near"
-    },
-    {
       "icon": "💳",
       "symbol": "XPL",
-      "last_price_krw": 162.0,
-      "threshold_krw": 156.0,
-      "distance_to_invalidation_pct": 3.85,
+      "last_price_krw": 178.0,
+      "threshold_krw": 171.0,
+      "distance_to_invalidation_pct": 4.09,
       "status": "near"
     },
     {
       "icon": "🧬",
       "symbol": "BIO",
-      "last_price_krw": 52.2,
-      "threshold_krw": 50.4,
-      "distance_to_invalidation_pct": 3.57,
-      "status": "near"
-    },
-    {
-      "icon": "🏗️",
-      "symbol": "CFG",
-      "last_price_krw": 363.0,
-      "threshold_krw": 356.0,
-      "distance_to_invalidation_pct": 1.97,
+      "last_price_krw": 53.4,
+      "threshold_krw": 51.6,
+      "distance_to_invalidation_pct": 3.49,
       "status": "near"
     },
     {
       "icon": "🪙",
-      "symbol": "AERO",
-      "last_price_krw": 755.0,
-      "threshold_krw": 742.0,
-      "distance_to_invalidation_pct": 1.75,
+      "symbol": "ENA",
+      "last_price_krw": 140.0,
+      "threshold_krw": 136.0,
+      "distance_to_invalidation_pct": 2.94,
+      "status": "near"
+    },
+    {
+      "icon": "✨",
+      "symbol": "XLM",
+      "last_price_krw": 339.0,
+      "threshold_krw": 334.0,
+      "distance_to_invalidation_pct": 1.5,
+      "status": "near"
+    },
+    {
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "last_price_krw": 565.0,
+      "threshold_krw": 559.0,
+      "distance_to_invalidation_pct": 1.07,
       "status": "near"
     }
   ],
@@ -780,10 +776,73 @@
   },
   "portfolio_health": {
     "discipline_alert_count": 0,
-    "green_position_count": 5,
-    "red_position_count": 0
+    "green_position_count": 4,
+    "red_position_count": 1
   },
   "recent_rotation_log_24h": [
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 565.0,
+      "amount_delta": 939.4911703685117,
+      "cash_delta_krw": -530812.5112582091,
+      "reason": "ONDO는 565원, +1.44%, 24h 대금 383.3억원, 위치 55.2%로 메이저 회복 초입에서 다시 잡히는 기관서사형 유동성 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "ENA",
+      "action": "BUY",
+      "price_krw": 140.0,
+      "amount_delta": 3791.5179375586367,
+      "cash_delta_krw": -530812.5112582091,
+      "reason": "ENA는 140원, +8.53%, 24h 대금 112.9억원, 위치 76.5%로 이번 회차의 가장 깔끔한 중형 stablecoin beta continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 53.4,
+      "amount_delta": 572.2065863861923,
+      "cash_delta_krw": -30555.831713022664,
+      "reason": "BIO는 53.4원, +16.59%, 24h 대금 298.2억원, 위치 82.8%로 XPL 다음으로 읽기 쉬운 high-range continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 339.0,
+      "amount_delta": 135.9503236862923,
+      "cash_delta_krw": -46087.159729653096,
+      "reason": "XLM은 339원, +3.67%, 24h 대금 906.4억원으로 range는 식었지만 여전히 업비트에서 가장 큰 양수 유동성 축입니다."
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 178.0,
+      "amount_delta": -36.51808215538176,
+      "cash_delta_krw": 6500.218623657954,
+      "reason": "가장 강한 리더는 유지하되 80% 동일비중 공격 분산을 맞추기 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "AERO",
+      "action": "SELL",
+      "price_krw": 773.0,
+      "amount_delta": -647.7019290189929,
+      "cash_delta_krw": 500673.5911316815,
+      "reason": "AERO는 나쁘지 않지만 대금 체급이 너무 얕아 부분 breadth 회복 구간에서 ONDO보다 설명력이 약해 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-18T04:00:00+09:00",
+      "symbol": "CFG",
+      "action": "SELL",
+      "price_krw": 356.0,
+      "amount_delta": -1347.1486402461148,
+      "cash_delta_krw": 479584.9159276169,
+      "reason": "CFG는 구조가 50%까지 식었고 major rebound 구간에서 ENA·ONDO 대비 승격 우선순위가 밀려 전량 교체"
+    },
     {
       "timestamp": "2026-06-17T22:00:00+09:00",
       "symbol": "AERO",
@@ -810,127 +869,64 @@
       "amount_delta": 9368.10261320574,
       "cash_delta_krw": -489014.9564093397,
       "reason": "BIO는 52.2원, +13.97%, 24h 대금 259.5억원, 위치 69.9%로 ID보다 day-high gap이 덜 벌어진 attention continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "XPL",
-      "action": "BUY",
-      "price_krw": 162.0,
-      "amount_delta": 3018.610842032961,
-      "cash_delta_krw": -489014.9564093397,
-      "reason": "XPL은 162원, +17.39%, 24h 대금 134.8억원, 위치 78.1%로 카드 런치 기대가 붙은 저체급 고베타 공격 슬롯입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "XLM",
-      "action": "BUY",
-      "price_krw": 342.0,
-      "amount_delta": 1429.8682935945606,
-      "cash_delta_krw": -489014.9564093397,
-      "reason": "XLM은 342원, +4.59%, 24h 대금 933.3억원, 위치 84.2%로 현재 업비트에서 가장 읽기 쉬운 초대금 survivor/reclaim 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "SPX",
-      "action": "SELL",
-      "price_krw": 660.0,
-      "amount_delta": -704.6822483287325,
-      "cash_delta_krw": 465090.28389696346,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "AERO",
-      "action": "SELL",
-      "price_krw": 755.0,
-      "amount_delta": -661.5766852660706,
-      "cash_delta_krw": 499490.3973758833,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "CFG",
-      "action": "SELL",
-      "price_krw": 363.0,
-      "amount_delta": -1374.325047845539,
-      "cash_delta_krw": 498879.9923679307,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "ID",
-      "action": "SELL",
-      "price_krw": 49.3,
-      "amount_delta": -10300.324375157043,
-      "cash_delta_krw": 507805.9916952422,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-17T22:00:00+09:00",
-      "symbol": "UNI",
-      "action": "SELL",
-      "price_krw": 5040.0,
-      "amount_delta": -91.20177219433275,
-      "cash_delta_krw": 459656.931859437,
-      "reason": "fresh 0 환경에서 UNI·SPX 무효화와 ID 약화가 확인돼 22:00 가격 기준 XLM·XPL·BIO·CFG·AERO 5종 균등 공격 분산으로 전량 재편"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- ✨ **XLM** — 342원 / **+4.59%** / 933.3억원 / 위치 84.2% / 초대금 survivor",
-      "- 💳 **XPL** — 162원 / **+17.39%** / 134.8억원 / 위치 78.1% / 카드 기대 고베타",
-      "- 🧬 **BIO** — 52.2원 / **+13.97%** / 259.5억원 / 위치 69.9% / attention continuation",
-      "- 🏗️ **CFG** — 363원 / **+6.45%** / 70.5억원 / 위치 81.5% / RWA clean continuation",
-      "- 🛫 **AERO** — 755원 / **+6.79%** / 57.3억원 / 위치 79.1% / Base DeFi continuation"
+      "- 💳 **XPL** — 178원 / **+28.99%** / 330.9억원 / 위치 85.4% / 카드·락업 고베타 코어",
+      "- 🧬 **BIO** — 53.4원 / **+16.59%** / 298.2억원 / 위치 82.8% / attention continuation",
+      "- 🏦 **ENA** — 140원 / **+8.53%** / 112.9억원 / 위치 76.5% / stablecoin beta continuation",
+      "- ✨ **XLM** — 339원 / **+3.67%** / 906.4억원 / 위치 52.0% / 초대금 survivor",
+      "- 🌐 **ONDO** — 565원 / **+1.44%** / 383.3억원 / 위치 55.2% / 기관서사 RWA survivor"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC 32.3% 위치 / ETH 22.7% / XRP 25.4% / SOL 23.8%",
-      "- 메이저 평균 **26.05% 위치**, 직전 대비 **+4.12p** 반등",
-      "- 그래도 4종 모두 음수라 메이저는 매수 후보 제외, 실제 배치는 **75% 유지**"
+      "- BTC 48.2% 위치 / ETH 35.0% / XRP 50.8% / SOL 62.8%",
+      "- 메이저 평균 **49.2% 위치**, 직전 대비 **+23.15p**",
+      "- 그래도 4종 모두 음수라 메이저는 여전히 참고 신호로만 사용"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **75%**, 5종 **동일비중**",
-      "- 타깃: XLM / XPL / BIO / CFG / AERO 각 약 **48.87만원**",
-      "- 현금: 약 **81.44만원 (25%)**",
-      "- 핵심 논리: **fresh 0 + UNI·SPX broken + WLD stalled**라서, 오늘은 **깨끗한 생존주와 continuation으로 재조합**"
+      "- 실투입: **80%**, 5종 **동일비중**",
+      "- 타깃: XPL / BIO / ENA / XLM / ONDO 각 약 **53.08만원**",
+      "- 현금: 약 **66.35만원 (20%)**",
+      "- 핵심 논리: **fresh 0 + major rebound + SPX·ID gap 과열** → **고베타 2개 + clean continuation 1개 + survivor 2개**"
     ],
     "가상 매매 실행 내용": [
-      "- SELL UNI / ID / CFG / AERO / SPX",
-      "- BUY XLM / XPL / BIO / CFG / AERO",
-      "- 마지막 액션: **RESET_75_XLM_XPL_BIO_CFG_AERO**"
+      "- SELL CFG / AERO / XPL(소폭 트림)",
+      "- BUY ENA / ONDO / XLM(보강) / BIO(보강)",
+      "- 마지막 액션: **ROTATE_80_XPL_BIO_ENA_XLM_ONDO**"
     ],
     "현재 포트폴리오 현황": [
-      "- XLM 1429.8683개 @ 342원",
-      "- XPL 3018.6108개 @ 162원",
-      "- BIO 9368.1026개 @ 52.2원",
-      "- CFG 1347.1486개 @ 363원",
-      "- AERO 647.7019개 @ 755원",
-      "- 현금 815024.9원 / 총평가 3260099.7원"
+      "- XPL 2982.0928개 @ 162.00원",
+      "- BIO 9940.3092개 @ 52.2691원",
+      "- ENA 3791.5179개 @ 140원",
+      "- XLM 1565.8186개 @ 341.74원",
+      "- ONDO 939.4912개 @ 565원",
+      "- 현금 663515.6원 / 총평가 3317578.2원"
     ],
     "자기 평가": [
-      "- 장점: **무효화가 나온 UNI·SPX를 미련 없이 정리**한 점은 좋았습니다.",
-      "- 아쉬움: 직전 회차에서 ID의 과열 gap 리스크를 조금 더 빨리 경계했어야 했습니다.",
-      "- 점수: **8.8 / 10**"
+      "- 장점: **XPL·BIO 강세를 계속 유지하면서 breadth 회복에 맞춰 survivor 축을 다시 조합**한 점은 좋았습니다.",
+      "- 아쉬움: 직전 회차에서 **CFG·AERO를 한 사이클 더 빨리 정리**했어도 됐습니다.",
+      "- 점수: **8.6 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- PROJECT에 **fresh=0 + 보유 무효화 시 turnover보다 clean structure 우선 교체** 규칙 추가",
-      "- dashboard 아이콘 맵에 **XPL** 추가",
-      "- 리포트에서 **exhausted leader vs clean continuation** 구분을 더 선명하게 표시"
+      "- PROJECT에 **major rebound + fresh 0일 때 -8% 이하 gap leader 추격 금지** 규칙 추가",
+      "- 톱5를 **고베타 2 / continuation 1 / survivor 2** 구조로 표준화해 가독성 개선",
+      "- watchlist를 **승격 후보 vs 과열 감시 후보** 중심으로 재정렬"
     ],
     "판단": [
-      "- controlled aggressive survivor rotation"
+      "- aggressive selective rotation"
     ],
     "신뢰도": [
       "- medium"
     ],
     "추천 행동": [
-      "- **XLM을 코어로 두고 XPL·BIO로 공격성, CFG·AERO로 구조 안정 보강**. 단 **XLM 337 / XPL 156 / BIO 50.4 / CFG 356 / AERO 742** 하회 시 즉시 재평가"
+      "- **XPL·BIO를 공격 코어로 유지하고 ENA·ONDO로 breadth 회복을 따라가되, XLM은 대형 유동성 생존주로만 취급**. **XPL 171 / BIO 51.6 / ENA 136 / XLM 334 / ONDO 559** 하회 시 즉시 재평가"
     ],
     "리스크 메모": [
-      "- 메이저 4종이 모두 음수라 급반락이 다시 오면 75%도 과할 수 있음",
-      "- XPL은 가장 공격적인 슬롯이라 카드 기대가 식으면 되밀림 속도가 빠를 수 있음",
-      "- BIO는 강하지만 ID 대비 상대우위일 뿐, 절대적 저위험 자리는 아님",
-      "- WLD·SPX처럼 **대금이 커도 gap/위치가 무너지면 방어 금지**"
+      "- 메이저는 반등했지만 아직 4종 모두 음수라 80% 이상 확대는 이릅니다",
+      "- **XPL은 7월 대규모 언락 리스크**가 있어 가장 빠르게 흔들릴 수 있습니다",
+      "- SPX·ID는 강해 보여도 **고점 대비 gap이 너무 커 늦은 추격 금지**",
+      "- WLD는 최대 대금이어도 여전히 **mega-turnover trap**입니다"
     ]
   }
 }
