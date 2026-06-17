@@ -35,6 +35,7 @@ ICONS = {
     'FLOCK': '🐦',
     'OPEN': '📬',
     'XLM': '✨',
+    'XPL': '💳',
     'MET2': '🧱',
     'CPOOL': '🌊',
     'AVNT': '🚀',
