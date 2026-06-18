@@ -102,6 +102,7 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 - When major average range-position falls by roughly 30 points or more within one cycle and 2개 이상 held preferred names break invalidation together, force an immediate reset around exactly 1 fresh breakout plus all-positive survivors/continuations, and cap deployment around 70% instead of defending broken leaders.
 
 - When major average range-position rebounds above roughly 45 while fresh breakouts are still 0, force at least 2 of 5 preferred picks into 75%+ clean continuation names and reject same-day leaders with worse than roughly -8% day-high gap even if they remain top-turnover; this prevents chasing exhausted rebound headlines during partial breadth recovery.
+- When a 90%-deployed breadth-reclaim basket is followed by a next-cycle major-average collapse below roughly 20 and 2개 이상 held names slip below roughly 30% of the day range, force an immediate reset toward roughly 70%, keep only 1 mega-turnover salvage core, and refill the remaining slots with cleaner positive survivors/continuations instead of defending the prior 90% basket.
 
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
