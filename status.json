@@ -1,142 +1,147 @@
 {
   "project": "bit's today",
-  "judgment": "defensive-aggressive reset: 70% equal-weight deployment into SAHARA ID XLM TRAC CHZ",
-  "confidence": "medium-low",
+  "judgment": "aggressive rebound rotation: 80% equal-weight deployment into MEGA BIO ZAMA NEAR JTO",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-18 09:58 KST",
-  "market_status": "메이저 평균 위치가 **49.2% → 13.2%**로 급락했고 top15 비메이저 양수는 **4/15**까지 줄었습니다. 그래도 **fresh 1 / survivor 5 / reclaim 5**는 남아 있어 **all-cash보다 70% 선별 공격**이 낫습니다.",
+  "updated_at": "2026-06-18 15:58 KST",
+  "market_status": "메이저 4종은 모두 음수지만 평균 위치가 **13.2% → 35.3%**로 회복됐고, top15 비메이저 양수는 **8/15**로 늘었습니다. 다만 **fresh 0 / conviction 2 / survivor 5 / reclaim 5**라서 **90% 추격보다 80% 선별 공격**이 적절합니다.",
   "fear_greed": "15 (Extreme Fear)",
-  "btc_snapshot": "BTC 97.003M원 / ETH 2.638M원 / XRP 1,786원 / SOL 108.7K원",
-  "cash_krw": "980,995 KRW",
-  "realized_pnl_krw": "-6,862,073 KRW",
-  "last_valuation_krw": "3,269,985 KRW",
+  "btc_snapshot": "BTC 96.351M원 / ETH 2.612M원 / XRP 1,763원 / SOL 107.4K원",
+  "cash_krw": "636,395 KRW",
+  "realized_pnl_krw": "-6,947,075 KRW",
+  "last_valuation_krw": "3,181,975 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -67.3,
-  "last_action": "RESET_70_SAHARA_ID_XLM_TRAC_CHZ",
-  "trade_count": 907,
-  "last_updated": "2026-06-18T09:58:00+09:00",
+  "return_pct": -68.18,
+  "last_action": "ROTATE_80_MEGA_BIO_ZAMA_NEAR_JTO",
+  "trade_count": 917,
+  "last_updated": "2026-06-18T15:58:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 22,
     "recent_sell_count": 18,
     "recent_rotation_count": 18,
-    "recent_trade_actions_24h": 16,
+    "recent_trade_actions_24h": 26,
     "recent_24h_buy_count": 23,
     "recent_24h_sell_count": 23,
     "recent_24h_replacement_count": 23,
     "portfolio_churn_24h_pct": 460.0
   },
   "summary": [
-    "🏜️ **SAHARA** — 22.9원 / **+8.02%** / 166.5억원 / 위치 100.0% / 유일한 fresh breakout",
-    "🆔 **ID** — 49.5원 / **+4.87%** / 736.0억원 / 위치 65.1% / mega-turnover reclaim",
-    "✨ **XLM** — 344원 / **+0.88%** / 973.6억원 / 위치 50.0% / 기관서사 survivor",
-    "🧭 **TRAC** — 575원 / **+9.73%** / 41.2억원 / 위치 79.7% / mid-cap continuation",
-    "⚽ **CHZ** — 36.6원 / **+0.55%** / 49.6억원 / 위치 75.0% / 저베타 continuation",
-    "BTC 0.6% 위치 / ETH 14.3% / XRP 9.1% / SOL 28.6%",
-    "메이저 평균 **13.2% 위치**, 직전 대비 **-36.05p**",
-    "메이저 4종이 이렇게 낮을 땐 **85~90% 공격 배치 금지**",
-    "실투입: **70%**, 5종 **동일비중**",
-    "타깃: SAHARA / ID / XLM / TRAC / CHZ 각 약 **45.78만원**",
-    "현금: 약 **98.10만원 (30%)**",
-    "핵심 논리: **major collapse + held break 2개 이상 + fresh 1개만 생존** → **broken leader 청산 후 선별 재구축**",
-    "SELL XPL / BIO / ENA / ONDO / XLM(일부 축소)",
-    "BUY SAHARA / ID / TRAC / CHZ",
-    "마지막 액션: **RESET_70_SAHARA_ID_XLM_TRAC_CHZ**",
-    "SAHARA 19991.1738개 @ 22.9원",
-    "ID 9248.4420개 @ 49.5원",
-    "XLM 1330.8078개 @ 341.7395원",
-    "TRAC 796.1702개 @ 575원",
-    "CHZ 12508.1388개 @ 36.6원",
-    "현금 980995.5원 / 총평가 3269984.8원",
-    "장점: **새 snapshot 기준으로 XPL·ONDO 붕괴를 즉시 인정하고 바스켓을 재설정**한 점은 괜찮았습니다.",
-    "아쉬움: **04시 회차에서 메이저 반등을 너무 오래 믿어 ENA·ONDO 정리를 늦춘 것**은 분명한 실수였습니다.",
-    "점수: **7.9 / 10**",
-    "PROJECT에 **메이저 평균 위치 30p+ 급락 + 보유 2개 이상 무효화 시 70% cap 즉시 리셋** 규칙 추가",
-    "리포트에서 **청산 대상과 신규 승격 대상**을 더 직접적으로 보여주도록 정리",
-    "watchlist를 **rebound 대기군 / 저체급 실험군**으로 재정렬",
-    "defensive-aggressive reset",
-    "medium-low",
-    "**SAHARA 한 개만 공격 코어로 두고, ID·XLM·TRAC·CHZ로 분산 유지**. **SAHARA 22.0 / ID 48.0 / XLM 340 / TRAC 565 / CHZ 36.2** 하회 시 즉시 재평가",
-    "**XPL·ONDO는 오늘 이미 broken leader**라 반등 보여도 성급한 재진입 금지",
-    "WLD는 최대 대금이어도 **위치 20% trap**이라 신규 코어 불가",
-    "fresh breakout이 **SAHARA 1개뿐**이라 SAHARA 실패 시 전체 공격성도 바로 낮춰야 합니다",
-    "XLM이 무너지면 현재 바스켓의 유동성 앵커가 사라집니다"
+    "🚀 **MEGA** — 102원 / **+18.47%** / 331.5억원 / 위치 89.3% / 최강 베타 리더",
+    "🧬 **BIO** — 53.3원 / **+1.91%** / 285.7억원 / 위치 63.2% / liquid recovery 코어",
+    "🛡️ **ZAMA** — 53.2원 / **+3.30%** / 86.9억원 / 위치 76.2% / 중형 continuation",
+    "🌉 **NEAR** — 3,317원 / **+0.76%** / 188.0억원 / 위치 57.0% / 대형 survivor",
+    "🪂 **JTO** — 1,068원 / **+1.23%** / 196.2억원 / 위치 52.5% / 솔라나 생존축",
+    "BTC 34.2% 위치 / ETH 36.9% / XRP 32.7% / SOL 37.5%",
+    "메이저 평균 **35.3% 위치**, 오전 대비 **+22.18p**",
+    "전부 음수라서 **완전 risk-on은 아직 아님**",
+    "실투입: **80%**, 5종 **동일비중**",
+    "타깃: 각 약 **50.91만원**",
+    "현금: 약 **63.64만원 (20%)**",
+    "핵심 논리: **메이저 반등 + breadth 회복 + fresh 0** → **오전 실패 리더 정리 후 continuation/survivor 혼합 재공격**",
+    "SELL **SAHARA / ID / XLM / TRAC / CHZ**",
+    "BUY **MEGA / BIO / ZAMA / NEAR / JTO**",
+    "마지막 액션: **ROTATE_80_MEGA_BIO_ZAMA_NEAR_JTO**",
+    "MEGA 4991.3336개 @ 102원",
+    "BIO 9551.8955개 @ 53.3원",
+    "ZAMA 9569.8502개 @ 53.2원",
+    "NEAR 153.4869개 @ 3317원",
+    "JTO 476.7004개 @ 1068원",
+    "현금 636395.0원 / 총평가 3181975.2원",
+    "장점: **오전 리셋 바스켓에 앵커링하지 않고 15:58 실시간 스냅샷으로 전면 교체**했습니다.",
+    "아쉬움: **SAHARA·ID·TRAC·CHZ 약화를 더 일찍 버렸으면 손실 압박을 조금 더 줄일 수 있었습니다.**",
+    "점수: **8.3 / 10**",
+    "PROJECT에 **메이저가 십대에서 30대로 반등해도 fresh 0이면 75%+ continuation 2개 + liquid survivor 2개 강제** 규칙 추가",
+    "리포트에 **오전 퇴출 바스켓 ↔ 신규 rebound 바스켓**을 더 직접적으로 표기",
+    "**15:58 업비트 스냅샷 재수집**으로 오전 데이터 앵커링 제거",
+    "aggressive rebound rotation",
+    "medium",
+    "**MEGA를 베타 코어**, **BIO·NEAR를 유동성 앵커**, **ZAMA·JTO를 후속 분산축**으로 유지",
+    "**MEGA 96 / BIO 52.0 / ZAMA 52.0 / NEAR 3260 / JTO 1040** 하회 시 즉시 재평가",
+    "**WLD·SPX는 top-turnover trap**이라 반등 보여도 재진입 금지",
+    "**XLM은 초대금이지만 위치 36.7%**라 오늘은 참고 신호만 유지",
+    "**fresh breakout 0**이라 90% 이상 확대는 아직 이릅니다",
+    "**MEGA가 무너지면 전체 rebound 가설도 빠르게 약해질 수 있습니다**"
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "CHZ",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 36.6,
-      "amount_delta": 12508.138768410992,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "CHZ는 36.6원, +0.55%, 49.6억원, 75.0% 위치로 낮은 변동성 continuation 보조축입니다."
+      "price_krw": 1068.0,
+      "amount_delta": 476.700401308879,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "TRAC",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 575.0,
-      "amount_delta": 796.170224215378,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "TRAC는 575원, +9.73%, 41.2억원, 79.7% 위치로 약한 장세에서 드문 mid-cap continuation입니다."
+      "price_krw": 3317.0,
+      "amount_delta": 153.48689436173734,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "ID",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "ZAMA",
       "action": "BUY",
-      "price_krw": 49.5,
-      "amount_delta": 9248.441998461461,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "ID는 49.5원, +4.87%, 736.0억원, 65.1% 위치로 mega-turnover reclaim 성격이 가장 뚜렷합니다."
+      "price_krw": 53.2,
+      "amount_delta": 9569.850161614337,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "SAHARA",
-      "action": "BUY",
-      "price_krw": 22.9,
-      "amount_delta": 19991.173752132854,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "SAHARA는 22.9원, +8.02%, 166.5억원, 100% 위치로 현재 보드 유일 fresh breakout입니다."
-    },
-    {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "ONDO",
-      "action": "SELL",
-      "price_krw": 547.0,
-      "amount_delta": -939.4911703685117,
-      "cash_delta_krw": 513901.6701915759,
-      "reason": "ONDO는 Mirae 서사는 남아도 실제 업비트 구조가 8.3% 위치까지 무너져 RWA survivor 해석을 철회"
-    },
-    {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "ENA",
-      "action": "SELL",
-      "price_krw": 144.0,
-      "amount_delta": -3791.5179375586367,
-      "cash_delta_krw": 545978.5830084437,
-      "reason": "ENA는 40% 위치까지 후퇴해 clean continuation 슬롯 지위를 잃어 전량 정리"
-    },
-    {
-      "timestamp": "2026-06-18T09:58:00+09:00",
+      "timestamp": "2026-06-18T15:58:00+09:00",
       "symbol": "BIO",
-      "action": "SELL",
-      "price_krw": 52.2,
-      "amount_delta": -9940.309199591931,
-      "cash_delta_krw": 518884.1402186988,
-      "reason": "BIO는 대금은 남았지만 음전환과 50% 위치로 식어 all-positive 재구축 원칙에 따라 교체"
+      "action": "BUY",
+      "price_krw": 53.3,
+      "amount_delta": 9551.895470879603,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "XPL",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 102.0,
+      "amount_delta": 4991.333613704733,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "CHZ",
       "action": "SELL",
-      "price_krw": 164.0,
-      "amount_delta": -2982.0927598775793,
-      "cash_delta_krw": 489063.212619923,
-      "reason": "XPL은 20% 위치·-3.53%로 직전 고베타 리더 가정이 깨졌고 7월 28일 미국 물량 unlock 리스크까지 남아 전량 정리"
+      "price_krw": 35.4,
+      "amount_delta": -12508.138768410992,
+      "cash_delta_krw": 442788.1124017491,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "TRAC",
+      "action": "SELL",
+      "price_krw": 524.0,
+      "amount_delta": -796.170224215378,
+      "cash_delta_krw": 417193.1974888581,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 47.8,
+      "amount_delta": -9248.441998461461,
+      "cash_delta_krw": 442075.52752645785,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-18-1558.md",
+      "title": "2026-06-18-1558"
+    },
     {
       "file": "2026-06-18-0958.md",
       "title": "2026-06-18-0958"
@@ -164,187 +169,86 @@
     {
       "file": "2026-06-16-2158.md",
       "title": "2026-06-16-2158"
-    },
-    {
-      "file": "2026-06-16-1558.md",
-      "title": "2026-06-16-1558"
     }
   ],
   "positions": [
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "amount": 1330.807787569309,
-      "avg_buy_price_krw": "342 KRW",
-      "last_price_krw": "344 KRW",
-      "thesis": "DTCC-스텔라 토큰화 연결 서사는 남아 있고, 메이저 붕괴 구간에서도 업비트 초대금 양수 생존축 역할이 가능합니다.",
-      "strategy": "institutional liquidity survivor",
-      "role": "institutional liquidity survivor",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 7,
-      "pnl_krw": "3,008 KRW",
-      "pnl_pct": 0.66
-    },
-    {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "amount": 19991.173752132854,
-      "avg_buy_price_krw": "23 KRW",
-      "last_price_krw": "23 KRW",
-      "thesis": "SAHARA는 이번 보드에서 유일한 fresh breakout이며 100% 위치와 166.5억원 대금이 동시 확인됩니다.",
-      "strategy": "fresh AI breakout",
-      "role": "fresh AI breakout",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 14,
+      "icon": "🪙",
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "amount": 4991.333613704733,
+      "avg_buy_price_krw": "102 KRW",
+      "last_price_krw": "102 KRW",
+      "thesis": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다.",
+      "strategy": "high-beta continuation leader",
+      "role": "high-beta continuation leader",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 16,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🆔",
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "amount": 9248.441998461461,
-      "avg_buy_price_krw": "50 KRW",
-      "last_price_krw": "50 KRW",
-      "thesis": "ID는 735.98억원 대금과 65.1% 위치를 지키며 overnight trap 후보에서 mega-turnover reclaim으로 복귀했습니다.",
-      "strategy": "mega-turnover reclaim",
-      "role": "mega-turnover reclaim",
+      "icon": "🧬",
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "amount": 9551.895470879603,
+      "avg_buy_price_krw": "53 KRW",
+      "last_price_krw": "53 KRW",
+      "thesis": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다.",
+      "strategy": "liquid recovery core",
+      "role": "liquid recovery core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🛡️",
+      "symbol": "ZAMA",
+      "market": "KRW-ZAMA",
+      "amount": 9569.850161614337,
+      "avg_buy_price_krw": "53 KRW",
+      "last_price_krw": "53 KRW",
+      "thesis": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다.",
+      "strategy": "mid-cap continuation",
+      "role": "mid-cap continuation",
       "risk_limit_pct": 6,
       "profit_take_pct": 12,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "amount": 796.170224215378,
-      "avg_buy_price_krw": "575 KRW",
-      "last_price_krw": "575 KRW",
-      "thesis": "TRAC는 79.7% 위치와 +9.73%가 유지되는 몇 안 되는 mid-cap continuation이라 공격 슬롯으로 적합합니다.",
-      "strategy": "mid-cap continuation",
-      "role": "mid-cap continuation",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 14,
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "amount": 153.48689436173734,
+      "avg_buy_price_krw": "3,317 KRW",
+      "last_price_krw": "3,317 KRW",
+      "thesis": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다.",
+      "strategy": "large-cap survivor",
+      "role": "large-cap survivor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "⚽",
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "amount": 12508.138768410992,
-      "avg_buy_price_krw": "37 KRW",
-      "last_price_krw": "37 KRW",
-      "thesis": "CHZ는 75% 위치와 -0.27% gap로 붕괴장 속 가장 단순한 저베타 continuation 보조축입니다.",
-      "strategy": "low-beta continuation",
-      "role": "low-beta continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8,
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "amount": 476.700401308879,
+      "avg_buy_price_krw": "1,068 KRW",
+      "last_price_krw": "1,068 KRW",
+      "thesis": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다.",
+      "strategy": "solana ecosystem survivor",
+      "role": "solana ecosystem survivor",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 9,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "ID": [
-      {
-        "timestamp": "2026-06-17T15:58:00+09:00",
-        "price_krw": 48.3,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 49.3,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-18T09:58:00+09:00",
-        "price_krw": 49.5,
-        "action": "BUY"
-      }
-    ],
-    "CFG": [
-      {
-        "timestamp": "2026-06-17T15:58:00+09:00",
-        "price_krw": 362.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 363.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 363.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-18T04:00:00+09:00",
-        "price_krw": 356.0,
-        "action": "SELL"
-      }
-    ],
-    "AERO": [
-      {
-        "timestamp": "2026-06-17T15:58:00+09:00",
-        "price_krw": 752.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 755.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 755.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-18T04:00:00+09:00",
-        "price_krw": 773.0,
-        "action": "SELL"
-      }
-    ],
-    "SPX": [
-      {
-        "timestamp": "2026-06-17T15:58:00+09:00",
-        "price_krw": 706.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 660.0,
-        "action": "SELL"
-      }
-    ],
-    "UNI": [
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 5040.0,
-        "action": "SELL"
-      }
-    ],
-    "XLM": [
-      {
-        "timestamp": "2026-06-17T22:00:00+09:00",
-        "price_krw": 342.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-18T04:00:00+09:00",
-        "price_krw": 339.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-18T09:58:00+09:00",
-        "price_krw": 344.0,
-        "action": "SELL"
-      }
-    ],
     "XPL": [
       {
         "timestamp": "2026-06-17T22:00:00+09:00",
@@ -377,6 +281,52 @@
         "timestamp": "2026-06-18T09:58:00+09:00",
         "price_krw": 52.2,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 53.3,
+        "action": "BUY"
+      }
+    ],
+    "CFG": [
+      {
+        "timestamp": "2026-06-17T22:00:00+09:00",
+        "price_krw": 363.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 356.0,
+        "action": "SELL"
+      }
+    ],
+    "AERO": [
+      {
+        "timestamp": "2026-06-17T22:00:00+09:00",
+        "price_krw": 755.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 773.0,
+        "action": "SELL"
+      }
+    ],
+    "XLM": [
+      {
+        "timestamp": "2026-06-18T04:00:00+09:00",
+        "price_krw": 339.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T09:58:00+09:00",
+        "price_krw": 344.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 351.0,
+        "action": "SELL"
       }
     ],
     "ENA": [
@@ -408,6 +358,23 @@
         "timestamp": "2026-06-18T09:58:00+09:00",
         "price_krw": 22.9,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 21.6,
+        "action": "SELL"
+      }
+    ],
+    "ID": [
+      {
+        "timestamp": "2026-06-18T09:58:00+09:00",
+        "price_krw": 49.5,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 47.8,
+        "action": "SELL"
       }
     ],
     "TRAC": [
@@ -415,6 +382,11 @@
         "timestamp": "2026-06-18T09:58:00+09:00",
         "price_krw": 575.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 524.0,
+        "action": "SELL"
       }
     ],
     "CHZ": [
@@ -422,298 +394,331 @@
         "timestamp": "2026-06-18T09:58:00+09:00",
         "price_krw": 36.6,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 35.4,
+        "action": "SELL"
+      }
+    ],
+    "MEGA": [
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 102.0,
+        "action": "BUY"
+      }
+    ],
+    "ZAMA": [
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 53.2,
+        "action": "BUY"
+      }
+    ],
+    "NEAR": [
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 3317.0,
+        "action": "BUY"
+      }
+    ],
+    "JTO": [
+      {
+        "timestamp": "2026-06-18T15:58:00+09:00",
+        "price_krw": 1068.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-18-0958.md",
+  "latest_report_file": "2026-06-18-1558.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "price_krw": 22.9,
-      "change_pct_24h": 8.01886792,
-      "turnover_krw_24h": 16652003178.697134,
-      "reason": "SAHARA는 22.9원, +8.02%, 24h 대금 166.5억원, 위치 100%로 현재 업비트에서 유일하게 fresh breakout으로 남은 AI 리더입니다.",
-      "score": 57.43,
-      "community": "야간 리테일 자금은 XPL·ONDO에서 빠져나와 SAHARA 같은 명확한 새 리더로 재집중했습니다.",
+      "icon": "🪙",
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "price_krw": 102.0,
+      "change_pct_24h": 18.46689895,
+      "turnover_krw_24h": 33150495230.268837,
+      "reason": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다.",
+      "score": 70.95,
+      "community": "업비트 리테일 자금이 WLD·SPX 같은 대금 함정에서 빠져나와 MEGA 같은 고위치 강세 리더로 회전한 흔적이 가장 선명합니다.",
       "risk": null,
-      "allocation_krw": 457797.87892384233,
-      "role": "fresh AI breakout",
-      "invalidated_if": "22.0원 하회 시 fresh breakout 붕괴",
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0
+      "allocation_krw": 509116.0285978828,
+      "role": "high-beta continuation leader",
+      "invalidated_if": "96원 하회 시 고베타 continuation 붕괴",
+      "range_position_pct": 89.3,
+      "day_high_gap_pct": -1.92
     },
-    {
-      "icon": "🆔",
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "price_krw": 49.5,
-      "change_pct_24h": 4.87288136,
-      "turnover_krw_24h": 73597727666.11902,
-      "reason": "ID는 49.5원, +4.87%, 24h 대금 736.0억원, 위치 65.1%로 아침 붕괴장에서 가장 큰 reclaim 성공 사례입니다.",
-      "score": 48.06,
-      "community": "업비트 커뮤니티는 오늘 ID를 어제의 exhausted blowoff가 아니라 재점화된 대금축으로 다시 보기 시작했습니다.",
-      "risk": null,
-      "allocation_krw": 457797.87892384233,
-      "role": "mega-turnover reclaim",
-      "invalidated_if": "48.0원 하회 시 reclaim 구조 훼손",
-      "range_position_pct": 65.1,
-      "day_high_gap_pct": -2.94
-    },
-    {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "price_krw": 344.0,
-      "change_pct_24h": 0.8797654,
-      "turnover_krw_24h": 97362124907.98404,
-      "reason": "XLM은 344원, +0.88%, 24h 대금 973.6억원, 위치 50.0%로 메이저 붕괴 속에서도 살아남은 최상위 유동성 생존주입니다.",
-      "score": 44.21,
-      "community": "국내 자금은 아직도 WLD보다 XLM을 더 안전한 대형 양수 축으로 취급합니다.",
-      "risk": null,
-      "allocation_krw": 457797.87892384233,
-      "role": "institutional liquidity survivor",
-      "invalidated_if": "340원 하회 시 mega-liquidity survivor 약화",
-      "range_position_pct": 50.0,
-      "day_high_gap_pct": -1.15
-    },
-    {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "price_krw": 575.0,
-      "change_pct_24h": 9.73282443,
-      "turnover_krw_24h": 4122173658.195146,
-      "reason": "TRAC는 575원, +9.73%, 24h 대금 41.2억원, 위치 79.7%로 붕괴장에서도 읽기 쉬운 중형 continuation입니다.",
-      "score": 47.3,
-      "community": "과열 밈보다 구조가 선명한 데이터/AI 중형주로 트레이더가 이동하는 흐름이 TRAC에 보입니다.",
-      "risk": null,
-      "allocation_krw": 457797.87892384233,
-      "role": "mid-cap continuation",
-      "invalidated_if": "565원 하회 시 continuation 실패",
-      "range_position_pct": 79.7,
-      "day_high_gap_pct": -2.04
-    },
-    {
-      "icon": "⚽",
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "price_krw": 36.6,
-      "change_pct_24h": 0.54945055,
-      "turnover_krw_24h": 4956657924.264508,
-      "reason": "CHZ는 36.6원, +0.55%, 24h 대금 49.6억원, 위치 75.0%로 붕괴장 속 비정상 급등 없이 버틴 저베타 continuation입니다.",
-      "score": 33.79,
-      "community": "공격 자금의 나머지 한 축은 급등주보다 덜 흔들리는 CHZ 같은 방어형 알트로 분산되는 모습입니다.",
-      "risk": null,
-      "allocation_krw": 457797.87892384233,
-      "role": "low-beta continuation",
-      "invalidated_if": "36.2원 하회 시 continuation 약화",
-      "range_position_pct": 75.0,
-      "day_high_gap_pct": -0.27
-    }
-  ],
-  "reference_watchlist": [
     {
       "icon": "🧬",
       "symbol": "BIO",
       "market": "KRW-BIO",
-      "reason": "52.2원, 대금 319.5억원이지만 50% 위치·음전환이라 재상단 회복 전까진 2선."
+      "price_krw": 53.3,
+      "change_pct_24h": 1.91204589,
+      "turnover_krw_24h": 28571936638.703175,
+      "reason": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다.",
+      "score": 34.04,
+      "community": "BIO는 과열 급등보다 거래대금이 남은 채 양전환을 유지해 재진입 자금의 품질이 나쁘지 않습니다.",
+      "risk": null,
+      "allocation_krw": 509116.0285978828,
+      "role": "liquid recovery core",
+      "invalidated_if": "52.0원 하회 시 liquid recovery 약화",
+      "range_position_pct": 63.2,
+      "day_high_gap_pct": -2.56
+    },
+    {
+      "icon": "🛡️",
+      "symbol": "ZAMA",
+      "market": "KRW-ZAMA",
+      "price_krw": 53.2,
+      "change_pct_24h": 3.30097087,
+      "turnover_krw_24h": 8687321942.078627,
+      "reason": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다.",
+      "score": 38.59,
+      "community": "국내 보드는 지금 ZAMA를 급등 추격보다 구조형 continuation으로 다루고 있어 중형 분산축으로 적합합니다.",
+      "risk": null,
+      "allocation_krw": 509116.0285978828,
+      "role": "mid-cap continuation",
+      "invalidated_if": "52.0원 하회 시 continuation 실패",
+      "range_position_pct": 76.2,
+      "day_high_gap_pct": -0.93
     },
     {
       "icon": "🌉",
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "reason": "3299원, 180.2억원, +0.21%지만 위치 40%라 체급만 남은 대기 survivor."
+      "price_krw": 3317.0,
+      "change_pct_24h": 0.75941677,
+      "turnover_krw_24h": 18798169663.04771,
+      "reason": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다.",
+      "score": 28.74,
+      "community": "완전 공격주만 고르기보다 NEAR 같은 체급형 survivor를 섞는 쪽이 포트폴리오 효율이 낫습니다.",
+      "risk": null,
+      "allocation_krw": 509116.0285978828,
+      "role": "large-cap survivor",
+      "invalidated_if": "3260원 하회 시 large-cap survivor 훼손",
+      "range_position_pct": 57.0,
+      "day_high_gap_pct": -1.89
     },
     {
-      "icon": "🪙",
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "88.1원, +2.32%, 109.8억원, 위치 45.9%로 약한 반등형."
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "price_krw": 1068.0,
+      "change_pct_24h": 1.23222749,
+      "turnover_krw_24h": 19617175971.335228,
+      "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다.",
+      "score": 26.99,
+      "community": "JTO는 솔라나계 종목 중 아직 대금과 위치가 모두 완전히 깨지지 않은 몇 안 되는 생존 슬롯입니다.",
+      "risk": null,
+      "allocation_krw": 509116.0285978828,
+      "role": "solana ecosystem survivor",
+      "invalidated_if": "1040원 하회 시 솔라나 survivor 약화",
+      "range_position_pct": 52.5,
+      "day_high_gap_pct": -2.64
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "351원, 대금 1139.8억원이지만 위치 36.7%·gap -5.14%라 당장은 참고 신호만 유지."
     },
     {
-      "icon": "🐧",
-      "symbol": "PENGU",
-      "market": "KRW-PENGU",
-      "reason": "10.5원, +0.96%, 43.3억원, 위치 100%라 저체급 실험 후보."
+      "icon": "🧩",
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "53.8원, +4.47%, 위치 84.8%, 대금 42.3억원으로 JTO보다 공격적이라 다음 승격 1순위."
     },
     {
-      "icon": "🪪",
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "481원, +0.63%, 58.9억원, 위치 50%라 방어형 보조 survivor."
+      "icon": "🧿",
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "reason": "209원, +8.85%, 위치 100%지만 체급이 작아 보조 실험군으로 대기."
     },
     {
-      "icon": "🪙",
-      "symbol": "AERO",
-      "market": "KRW-AERO",
-      "reason": "667원, +0.60%, 위치 33.3%로 상단 체력 상실."
+      "icon": "📬",
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "358원, +3.77%, 위치 100%지만 대금 24.8억원으로 2선."
+    },
+    {
+      "icon": "🏜️",
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "21.6원, 양수는 유지했지만 위치 31.6%로 오전 fresh 리더 지위 상실."
+    },
+    {
+      "icon": "🆔",
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "47.8원, 대금 632.6억원이라 무시 못하지만 위치 28.6%·gap -7.72%로 재상단 회복 전까지 제외."
     }
   ],
   "cycle_improvements": [
-    "PROJECT에 메이저 평균 위치가 한 사이클에 30p 이상 급락하고 2개 이상 보유 종목이 무효화될 때는 broken leader를 즉시 청산하고 70% cap으로 재구축하는 규칙을 추가했습니다.",
-    "이번 리포트부터 청산 대상(XPL·ENA·ONDO)과 유지 대상(XLM) 구분을 더 직접적으로 적어 스캔 속도를 높였습니다.",
-    "watchlist를 rebound 대기군과 저체급 실험군으로 다시 정리해 다음 회차 비교 비용을 줄였습니다."
+    "PROJECT에 메이저 평균 위치가 십대에서 30대로 반등해도 fresh가 0이면 75%+ continuation 2개와 50%+ liquid survivor 2개를 강제하는 규칙을 추가했습니다.",
+    "이번 리포트부터 오전 바스켓 퇴출 종목과 새 rebound 바스켓을 더 직접적으로 보여주도록 정리했습니다.",
+    "15:58 실시간 스냅샷으로 오전 전략 앵커링을 끊고 후보 5개를 완전히 새로 고쳤습니다."
   ],
   "rejected_candidates": [
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "992원, 최대 대금이지만 위치 20.0%라 여전히 mega-turnover trap입니다."
-    },
-    {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "164원, -3.53%, 위치 20.0%로 직전 리더가 완전히 깨졌습니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "547원, -0.73%, 위치 8.3%로 기관서사보다 가격 붕괴가 더 큽니다."
+      "reason": "923원, 최대 대금이지만 위치 10.1%·gap -8.79%로 명확한 turnover trap입니다."
     },
     {
       "symbol": "SPX",
       "market": "KRW-SPX",
-      "reason": "636원, -1.55%, 위치 29.2%로 top-turnover trap으로 재분류됩니다."
+      "reason": "598원, -7.43%, 위치 18.3%, gap -10.08%로 완전 함정 구간입니다."
     },
     {
-      "symbol": "UNI",
-      "market": "KRW-UNI",
-      "reason": "4798원, 위치 8.6%로 구조 붕괴가 명확합니다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "21.6원, 양수는 유지했지만 위치 31.6%로 오전 fresh 리더 지위가 끝났습니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "1049원, 위치 0%로 follow-through가 완전히 사라졌습니다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "47.8원, 초대금이지만 위치 28.6%·gap -7.72%라 faded leader입니다."
+    },
+    {
+      "symbol": "TRAC",
+      "market": "KRW-TRAC",
+      "reason": "524원, 위치 4.9%, gap -12.96%로 즉시 퇴출이 맞습니다."
+    },
+    {
+      "symbol": "CHZ",
+      "market": "KRW-CHZ",
+      "reason": "35.4원, -2.75%, 위치 16.7%로 continuation 구조가 깨졌습니다."
     }
   ],
-  "top_line": "**메이저 평균 위치 13.2% 급락**. **XPL·ONDO 붕괴 확인**, 그래서 **SAHARA·ID·XLM·TRAC·CHZ 70% 재구축**이 최선입니다.",
-  "ui_version": "v15.3",
+  "top_line": "**메이저 평균 위치 35.3% 반등**, 하지만 **fresh 0**. 오전 바스켓은 끝났고 **MEGA·BIO·ZAMA·NEAR·JTO 80% 재공격**이 맞습니다.",
+  "ui_version": "v15.4",
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. 메이저 평균 위치가 20 아래면 70% 이상 확대 금지.",
-    "review_trigger": "SAHARA 22.0원 / ID 48.0원 / XLM 340원 / TRAC 565원 / CHZ 36.2원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. fresh가 0이면 90% 이상 확대 금지.",
+    "review_trigger": "MEGA 96원 / BIO 52.0원 / ZAMA 52.0원 / NEAR 3260원 / JTO 1040원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 위치가 20 아래면 실제 포트폴리오 투입은 최대 70%",
-      "fresh가 1개뿐이면 그 1개를 포함하되 나머지는 all-positive survivor/continuation으로 채운다",
-      "무효화 이탈한 직전 코어(XPL·ONDO)는 구조 회복 전까지 즉시 복귀 금지"
+      "fresh가 0이면 최소 2개는 75%+ continuation으로 구성",
+      "WLD·SPX 같은 top-turnover trap 재매수 금지",
+      "오전 fresh 실패 종목(SAHARA·ID)은 60%+ 재상단 회복 전까지 즉시 복귀 금지"
     ],
     "exit_rules": [
-      "SAHARA 22.0원 / ID 48.0원 / XLM 340원 / TRAC 565원 / CHZ 36.2원 하회 시 즉시 재평가",
+      "MEGA 96원 / BIO 52.0원 / ZAMA 52.0원 / NEAR 3260원 / JTO 1040원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 위치가 20 아래면 실제 포트폴리오 투입은 최대 70%",
-      "fresh가 1개뿐이면 그 1개를 포함하되 나머지는 all-positive survivor/continuation으로 채운다",
-      "무효화 이탈한 직전 코어(XPL·ONDO)는 구조 회복 전까지 즉시 복귀 금지"
+      "fresh가 0이면 최소 2개는 75%+ continuation으로 구성",
+      "WLD·SPX 같은 top-turnover trap 재매수 금지",
+      "오전 fresh 실패 종목(SAHARA·ID)은 60%+ 재상단 회복 전까지 즉시 복귀 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1966.9억원이며, XLM 비중은 49.50%입니다.",
-    "momentum_discipline": "SAHARA fresh core + ID reclaim + XLM survivor + TRAC/CHZ continuation",
-    "diversification": "AI 2 + identity 1 + payments 1 + sports/consumer 1",
-    "cash_usage": "70%",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 910.6억원이며, XLM 제외 후에도 MEGA·BIO·NEAR·JTO로 충분한 유동성을 확보했습니다.",
+    "momentum_discipline": "MEGA leader + BIO/NEAR survivor + ZAMA continuation + JTO ecosystem survivor",
+    "diversification": "beta 1 + large/liquid survivor 2 + mid-cap continuation 1 + ecosystem survivor 1",
+    "cash_usage": "80%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh 1 / conviction 1 / survivor 5 / reclaim 5"
+    "summary": "fresh 0 / conviction 2 / survivor 5 / reclaim 5"
   },
   "rotation_map": [
     {
-      "bucket": "XPL → SAHARA",
+      "bucket": "SAHARA → MEGA",
       "symbols": [
-        "XPL",
-        "SAHARA"
+        "SAHARA",
+        "MEGA"
       ],
-      "note": "broken high-beta leader를 유일한 fresh breakout으로 교체합니다."
+      "note": "오전 fresh 실패를 오후 최강 베타 continuation으로 교체합니다."
     },
     {
-      "bucket": "ONDO → ID",
+      "bucket": "ID → BIO",
       "symbols": [
-        "ONDO",
-        "ID"
+        "ID",
+        "BIO"
       ],
-      "note": "무너진 RWA survivor 대신 실제 reclaim이 확인된 mega-turnover 코어로 이동합니다."
+      "note": "faded mega-turnover를 더 건강한 liquid recovery 코어로 이동합니다."
     },
     {
-      "bucket": "ENA → TRAC",
+      "bucket": "TRAC → ZAMA",
       "symbols": [
-        "ENA",
-        "TRAC"
+        "TRAC",
+        "ZAMA"
       ],
-      "note": "40%로 식은 continuation 대신 79.7% mid-cap continuation을 승격합니다."
+      "note": "붕괴한 continuation 대신 상단 유지력이 더 좋은 중형 continuation을 승격합니다."
     },
     {
-      "bucket": "BIO → CHZ",
+      "bucket": "CHZ → NEAR",
       "symbols": [
-        "BIO",
-        "CHZ"
+        "CHZ",
+        "NEAR"
       ],
-      "note": "음전환된 former leader 대신 all-positive 저베타 continuation으로 바꿉니다."
+      "note": "저베타 방어형 알트 대신 체급형 survivor로 품질을 높입니다."
     },
     {
-      "bucket": "XLM → XLM",
+      "bucket": "XLM → JTO",
       "symbols": [
         "XLM",
-        "XLM"
+        "JTO"
       ],
-      "note": "유일한 초대금 survivor라 유지하되 70% 동일비중에 맞춰 일부만 축소합니다."
+      "note": "초대금이지만 둔한 XLM 대신 구조가 더 깨끗한 솔라나계 survivor로 교체합니다."
     }
   ],
   "self_evaluation": {
-    "score": 7.9,
-    "summary": "04시 회차에서 메이저 반등을 한 사이클 더 믿어 XPL·ONDO 손실 정리가 늦었습니다. 대신 이번에는 새 snapshot을 즉시 반영해 broken leaders를 잘라내고 70%로 다운시프트한 점이 개선입니다."
+    "score": 8.3,
+    "summary": "09:58 회차의 70% 방어 리셋 자체는 맞았지만, 오후엔 SAHARA·ID·TRAC·CHZ 약화를 더 빨리 버려야 했습니다. 이번엔 실시간 스냅샷으로 오전 가정을 끊고 전면 교체한 점이 개선입니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 4.81,
+    "preferred_avg_change_pct_24h": 5.13,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 196690687335.25983,
-    "leader_turnover_share_pct": 49.5,
-    "leader_symbol": "XLM",
-    "leader_concentration_warning": "high"
+    "preferred_turnover_total_krw_24h": 108825099445.4336,
+    "leader_turnover_share_pct": 30.46,
+    "leader_symbol": "MEGA",
+    "leader_concentration_warning": "low"
   },
-  "snapshot_updated_at_utc": "2026-06-18T00:59:07.758090+00:00",
+  "snapshot_updated_at_utc": "2026-06-18T07:00:09.343230+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": -5,
-    "top15_alt_low_range_count_delta": 3,
+    "top15_alt_positive_count_delta": 4,
+    "top15_alt_low_range_count_delta": -3,
     "weak_breadth_warning_changed": true,
     "entered_top5_turnover": [],
     "exited_top5_turnover": []
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -36.05,
-    "major_positive_count_delta": 1,
-    "major_negative_count_delta": -2
+    "major_avg_range_position_pct_delta": 22.18,
+    "major_positive_count_delta": -1,
+    "major_negative_count_delta": 2
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 1,
-    "high_conviction_count": 1,
+    "fresh_breakout_count": 0,
+    "high_conviction_count": 2,
     "quality_survivor_count": 5,
     "relative_strength_reclaim_count": 5,
     "breakout_cluster_active": false,
-    "summary": "fresh 1 / conviction 1 / survivor 5 / reclaim 5"
+    "summary": "fresh 0 / conviction 2 / survivor 5 / reclaim 5"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 0.6,
-    "major_avg_range_position_pct": 13.15,
-    "preferred_avg_change_pct_24h": 4.81,
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 34.2,
+    "major_avg_range_position_pct": 35.33,
+    "preferred_avg_change_pct_24h": 5.13,
     "preferred_high_range_count": 1,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 73.96,
-    "avg_day_high_gap_pct": -1.28,
+    "avg_range_position_pct": 67.64,
+    "avg_day_high_gap_pct": -1.99,
     "above_80_range_count": 1,
-    "summary": "고위치(80%+) 후보 1개 / 평균 위치 73.96%"
+    "summary": "고위치(80%+) 후보 1개 / 평균 위치 67.64%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -724,49 +729,49 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "last_price_krw": 22.9,
-      "threshold_krw": 22.0,
-      "distance_to_invalidation_pct": 4.09,
+      "icon": "🪙",
+      "symbol": "MEGA",
+      "last_price_krw": 102.0,
+      "threshold_krw": 96.0,
+      "distance_to_invalidation_pct": 6.25,
+      "status": "healthy"
+    },
+    {
+      "icon": "🧬",
+      "symbol": "BIO",
+      "last_price_krw": 53.3,
+      "threshold_krw": 52.0,
+      "distance_to_invalidation_pct": 2.5,
       "status": "near"
     },
     {
-      "icon": "🆔",
-      "symbol": "ID",
-      "last_price_krw": 49.5,
-      "threshold_krw": 48.0,
-      "distance_to_invalidation_pct": 3.12,
+      "icon": "🛡️",
+      "symbol": "ZAMA",
+      "last_price_krw": 53.2,
+      "threshold_krw": 52.0,
+      "distance_to_invalidation_pct": 2.31,
       "status": "near"
     },
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "last_price_krw": 344.0,
-      "threshold_krw": 340.0,
-      "distance_to_invalidation_pct": 1.18,
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "last_price_krw": 3317.0,
+      "threshold_krw": 3260.0,
+      "distance_to_invalidation_pct": 1.75,
       "status": "near"
     },
     {
-      "icon": "🧭",
-      "symbol": "TRAC",
-      "last_price_krw": 575.0,
-      "threshold_krw": 565.0,
-      "distance_to_invalidation_pct": 1.77,
-      "status": "near"
-    },
-    {
-      "icon": "⚽",
-      "symbol": "CHZ",
-      "last_price_krw": 36.6,
-      "threshold_krw": 36.2,
-      "distance_to_invalidation_pct": 1.1,
+      "icon": "🪂",
+      "symbol": "JTO",
+      "last_price_krw": 1068.0,
+      "threshold_krw": 1040.0,
+      "distance_to_invalidation_pct": 2.69,
       "status": "near"
     }
   ],
   "preferred_health_summary": {
-    "healthy_count": 0,
-    "near_count": 5,
+    "healthy_count": 1,
+    "near_count": 4,
     "broken_count": 0,
     "unknown_count": 0
   },
@@ -777,152 +782,153 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "CHZ",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 36.6,
-      "amount_delta": 12508.138768410992,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "CHZ는 36.6원, +0.55%, 49.6억원, 75.0% 위치로 낮은 변동성 continuation 보조축입니다."
+      "price_krw": 1068.0,
+      "amount_delta": 476.700401308879,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "TRAC",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "NEAR",
       "action": "BUY",
-      "price_krw": 575.0,
-      "amount_delta": 796.170224215378,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "TRAC는 575원, +9.73%, 41.2억원, 79.7% 위치로 약한 장세에서 드문 mid-cap continuation입니다."
+      "price_krw": 3317.0,
+      "amount_delta": 153.48689436173734,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "ID",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "ZAMA",
       "action": "BUY",
-      "price_krw": 49.5,
-      "amount_delta": 9248.441998461461,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "ID는 49.5원, +4.87%, 736.0억원, 65.1% 위치로 mega-turnover reclaim 성격이 가장 뚜렷합니다."
+      "price_krw": 53.2,
+      "amount_delta": 9569.850161614337,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "SAHARA",
-      "action": "BUY",
-      "price_krw": 22.9,
-      "amount_delta": 19991.173752132854,
-      "cash_delta_krw": -457797.87892384233,
-      "reason": "SAHARA는 22.9원, +8.02%, 166.5억원, 100% 위치로 현재 보드 유일 fresh breakout입니다."
-    },
-    {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "ONDO",
-      "action": "SELL",
-      "price_krw": 547.0,
-      "amount_delta": -939.4911703685117,
-      "cash_delta_krw": 513901.6701915759,
-      "reason": "ONDO는 Mirae 서사는 남아도 실제 업비트 구조가 8.3% 위치까지 무너져 RWA survivor 해석을 철회"
-    },
-    {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "ENA",
-      "action": "SELL",
-      "price_krw": 144.0,
-      "amount_delta": -3791.5179375586367,
-      "cash_delta_krw": 545978.5830084437,
-      "reason": "ENA는 40% 위치까지 후퇴해 clean continuation 슬롯 지위를 잃어 전량 정리"
-    },
-    {
-      "timestamp": "2026-06-18T09:58:00+09:00",
+      "timestamp": "2026-06-18T15:58:00+09:00",
       "symbol": "BIO",
-      "action": "SELL",
-      "price_krw": 52.2,
-      "amount_delta": -9940.309199591931,
-      "cash_delta_krw": 518884.1402186988,
-      "reason": "BIO는 대금은 남았지만 음전환과 50% 위치로 식어 all-positive 재구축 원칙에 따라 교체"
+      "action": "BUY",
+      "price_krw": 53.3,
+      "amount_delta": 9551.895470879603,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
-      "symbol": "XPL",
-      "action": "SELL",
-      "price_krw": 164.0,
-      "amount_delta": -2982.0927598775793,
-      "cash_delta_krw": 489063.212619923,
-      "reason": "XPL은 20% 위치·-3.53%로 직전 고베타 리더 가정이 깨졌고 7월 28일 미국 물량 unlock 리스크까지 남아 전량 정리"
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 102.0,
+      "amount_delta": 4991.333613704733,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다."
     },
     {
-      "timestamp": "2026-06-18T09:58:00+09:00",
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 35.4,
+      "amount_delta": -12508.138768410992,
+      "cash_delta_krw": 442788.1124017491,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "TRAC",
+      "action": "SELL",
+      "price_krw": 524.0,
+      "amount_delta": -796.170224215378,
+      "cash_delta_krw": 417193.1974888581,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 47.8,
+      "amount_delta": -9248.441998461461,
+      "cash_delta_krw": 442075.52752645785,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 21.6,
+      "amount_delta": -19991.173752132854,
+      "cash_delta_krw": 431809.3530460697,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
       "symbol": "XLM",
       "action": "SELL",
-      "price_krw": 344.0,
-      "amount_delta": -235.0108297115437,
-      "cash_delta_krw": 80843.72542077104,
-      "reason": "XLM은 유지하되 메이저 평균 위치 13.2% 붕괴에 맞춰 70% 동일비중 리셋을 위해 일부 축소"
-    },
-    {
-      "timestamp": "2026-06-18T04:00:00+09:00",
-      "symbol": "ONDO",
-      "action": "BUY",
-      "price_krw": 565.0,
-      "amount_delta": 939.4911703685117,
-      "cash_delta_krw": -530812.5112582091,
-      "reason": "ONDO는 565원, +1.44%, 24h 대금 383.3억원, 위치 55.2%로 메이저 회복 초입에서 다시 잡히는 기관서사형 유동성 코어입니다."
+      "price_krw": 351.0,
+      "amount_delta": -1330.807787569309,
+      "cash_delta_krw": 467113.5334368275,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🏜️ **SAHARA** — 22.9원 / **+8.02%** / 166.5억원 / 위치 100.0% / 유일한 fresh breakout",
-      "- 🆔 **ID** — 49.5원 / **+4.87%** / 736.0억원 / 위치 65.1% / mega-turnover reclaim",
-      "- ✨ **XLM** — 344원 / **+0.88%** / 973.6억원 / 위치 50.0% / 기관서사 survivor",
-      "- 🧭 **TRAC** — 575원 / **+9.73%** / 41.2억원 / 위치 79.7% / mid-cap continuation",
-      "- ⚽ **CHZ** — 36.6원 / **+0.55%** / 49.6억원 / 위치 75.0% / 저베타 continuation"
+      "- 🚀 **MEGA** — 102원 / **+18.47%** / 331.5억원 / 위치 89.3% / 최강 베타 리더",
+      "- 🧬 **BIO** — 53.3원 / **+1.91%** / 285.7억원 / 위치 63.2% / liquid recovery 코어",
+      "- 🛡️ **ZAMA** — 53.2원 / **+3.30%** / 86.9억원 / 위치 76.2% / 중형 continuation",
+      "- 🌉 **NEAR** — 3,317원 / **+0.76%** / 188.0억원 / 위치 57.0% / 대형 survivor",
+      "- 🪂 **JTO** — 1,068원 / **+1.23%** / 196.2억원 / 위치 52.5% / 솔라나 생존축"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC 0.6% 위치 / ETH 14.3% / XRP 9.1% / SOL 28.6%",
-      "- 메이저 평균 **13.2% 위치**, 직전 대비 **-36.05p**",
-      "- 메이저 4종이 이렇게 낮을 땐 **85~90% 공격 배치 금지**"
+      "- BTC 34.2% 위치 / ETH 36.9% / XRP 32.7% / SOL 37.5%",
+      "- 메이저 평균 **35.3% 위치**, 오전 대비 **+22.18p**",
+      "- 전부 음수라서 **완전 risk-on은 아직 아님**"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **70%**, 5종 **동일비중**",
-      "- 타깃: SAHARA / ID / XLM / TRAC / CHZ 각 약 **45.78만원**",
-      "- 현금: 약 **98.10만원 (30%)**",
-      "- 핵심 논리: **major collapse + held break 2개 이상 + fresh 1개만 생존** → **broken leader 청산 후 선별 재구축**"
+      "- 실투입: **80%**, 5종 **동일비중**",
+      "- 타깃: 각 약 **50.91만원**",
+      "- 현금: 약 **63.64만원 (20%)**",
+      "- 핵심 논리: **메이저 반등 + breadth 회복 + fresh 0** → **오전 실패 리더 정리 후 continuation/survivor 혼합 재공격**"
     ],
     "가상 매매 실행 내용": [
-      "- SELL XPL / BIO / ENA / ONDO / XLM(일부 축소)",
-      "- BUY SAHARA / ID / TRAC / CHZ",
-      "- 마지막 액션: **RESET_70_SAHARA_ID_XLM_TRAC_CHZ**"
+      "- SELL **SAHARA / ID / XLM / TRAC / CHZ**",
+      "- BUY **MEGA / BIO / ZAMA / NEAR / JTO**",
+      "- 마지막 액션: **ROTATE_80_MEGA_BIO_ZAMA_NEAR_JTO**"
     ],
     "현재 포트폴리오 현황": [
-      "- SAHARA 19991.1738개 @ 22.9원",
-      "- ID 9248.4420개 @ 49.5원",
-      "- XLM 1330.8078개 @ 341.7395원",
-      "- TRAC 796.1702개 @ 575원",
-      "- CHZ 12508.1388개 @ 36.6원",
-      "- 현금 980995.5원 / 총평가 3269984.8원"
+      "- MEGA 4991.3336개 @ 102원",
+      "- BIO 9551.8955개 @ 53.3원",
+      "- ZAMA 9569.8502개 @ 53.2원",
+      "- NEAR 153.4869개 @ 3317원",
+      "- JTO 476.7004개 @ 1068원",
+      "- 현금 636395.0원 / 총평가 3181975.2원"
     ],
     "자기 평가": [
-      "- 장점: **새 snapshot 기준으로 XPL·ONDO 붕괴를 즉시 인정하고 바스켓을 재설정**한 점은 괜찮았습니다.",
-      "- 아쉬움: **04시 회차에서 메이저 반등을 너무 오래 믿어 ENA·ONDO 정리를 늦춘 것**은 분명한 실수였습니다.",
-      "- 점수: **7.9 / 10**"
+      "- 장점: **오전 리셋 바스켓에 앵커링하지 않고 15:58 실시간 스냅샷으로 전면 교체**했습니다.",
+      "- 아쉬움: **SAHARA·ID·TRAC·CHZ 약화를 더 일찍 버렸으면 손실 압박을 조금 더 줄일 수 있었습니다.**",
+      "- 점수: **8.3 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- PROJECT에 **메이저 평균 위치 30p+ 급락 + 보유 2개 이상 무효화 시 70% cap 즉시 리셋** 규칙 추가",
-      "- 리포트에서 **청산 대상과 신규 승격 대상**을 더 직접적으로 보여주도록 정리",
-      "- watchlist를 **rebound 대기군 / 저체급 실험군**으로 재정렬"
+      "- PROJECT에 **메이저가 십대에서 30대로 반등해도 fresh 0이면 75%+ continuation 2개 + liquid survivor 2개 강제** 규칙 추가",
+      "- 리포트에 **오전 퇴출 바스켓 ↔ 신규 rebound 바스켓**을 더 직접적으로 표기",
+      "- **15:58 업비트 스냅샷 재수집**으로 오전 데이터 앵커링 제거"
     ],
     "판단": [
-      "- defensive-aggressive reset"
+      "- aggressive rebound rotation"
     ],
     "신뢰도": [
-      "- medium-low"
+      "- medium"
     ],
     "추천 행동": [
-      "- **SAHARA 한 개만 공격 코어로 두고, ID·XLM·TRAC·CHZ로 분산 유지**. **SAHARA 22.0 / ID 48.0 / XLM 340 / TRAC 565 / CHZ 36.2** 하회 시 즉시 재평가"
+      "- **MEGA를 베타 코어**, **BIO·NEAR를 유동성 앵커**, **ZAMA·JTO를 후속 분산축**으로 유지",
+      "- **MEGA 96 / BIO 52.0 / ZAMA 52.0 / NEAR 3260 / JTO 1040** 하회 시 즉시 재평가"
     ],
     "리스크 메모": [
-      "- **XPL·ONDO는 오늘 이미 broken leader**라 반등 보여도 성급한 재진입 금지",
-      "- WLD는 최대 대금이어도 **위치 20% trap**이라 신규 코어 불가",
-      "- fresh breakout이 **SAHARA 1개뿐**이라 SAHARA 실패 시 전체 공격성도 바로 낮춰야 합니다",
-      "- XLM이 무너지면 현재 바스켓의 유동성 앵커가 사라집니다"
+      "- **WLD·SPX는 top-turnover trap**이라 반등 보여도 재진입 금지",
+      "- **XLM은 초대금이지만 위치 36.7%**라 오늘은 참고 신호만 유지",
+      "- **fresh breakout 0**이라 90% 이상 확대는 아직 이릅니다",
+      "- **MEGA가 무너지면 전체 rebound 가설도 빠르게 약해질 수 있습니다**"
     ]
   }
 }

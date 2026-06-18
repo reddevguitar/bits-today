@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 980995.4548368054,
-  "realized_pnl_krw": -6862073.206661863,
-  "last_valuation_krw": 3269984.849456017,
-  "last_action": "RESET_70_SAHARA_ID_XLM_TRAC_CHZ",
-  "last_updated": "2026-06-18T09:58:00+09:00",
-  "trade_count": 907,
+  "cash_krw": 636395.0357473532,
+  "realized_pnl_krw": -6947074.624435297,
+  "last_valuation_krw": 3181975.1787367673,
+  "last_action": "ROTATE_80_MEGA_BIO_ZAMA_NEAR_JTO",
+  "last_updated": "2026-06-18T15:58:00+09:00",
+  "trade_count": 917,
   "positions": {
-    "XLM": {
-      "market": "KRW-XLM",
-      "amount": 1330.807787569309,
-      "avg_buy_price_krw": 341.73952859765643,
-      "last_price_krw": 344.0,
-      "value_krw": 457797.87892384233,
-      "thesis": "DTCC-스텔라 토큰화 연결 서사는 남아 있고, 메이저 붕괴 구간에서도 업비트 초대금 양수 생존축 역할이 가능합니다.",
-      "strategy": "institutional liquidity survivor",
-      "role": "institutional liquidity survivor",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 7
+    "MEGA": {
+      "market": "KRW-MEGA",
+      "amount": 4991.333613704733,
+      "avg_buy_price_krw": 102.0,
+      "last_price_krw": 102.0,
+      "value_krw": 509116.0285978828,
+      "thesis": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다.",
+      "strategy": "high-beta continuation leader",
+      "role": "high-beta continuation leader",
+      "risk_limit_pct": 8,
+      "profit_take_pct": 16
     },
-    "SAHARA": {
-      "market": "KRW-SAHARA",
-      "amount": 19991.173752132854,
-      "avg_buy_price_krw": 22.9,
-      "last_price_krw": 22.9,
-      "value_krw": 457797.87892384233,
-      "thesis": "SAHARA는 이번 보드에서 유일한 fresh breakout이며 100% 위치와 166.5억원 대금이 동시 확인됩니다.",
-      "strategy": "fresh AI breakout",
-      "role": "fresh AI breakout",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 14
+    "BIO": {
+      "market": "KRW-BIO",
+      "amount": 9551.895470879603,
+      "avg_buy_price_krw": 53.3,
+      "last_price_krw": 53.3,
+      "value_krw": 509116.0285978828,
+      "thesis": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다.",
+      "strategy": "liquid recovery core",
+      "role": "liquid recovery core",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
     },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 9248.441998461461,
-      "avg_buy_price_krw": 49.5,
-      "last_price_krw": 49.5,
-      "value_krw": 457797.87892384233,
-      "thesis": "ID는 735.98억원 대금과 65.1% 위치를 지키며 overnight trap 후보에서 mega-turnover reclaim으로 복귀했습니다.",
-      "strategy": "mega-turnover reclaim",
-      "role": "mega-turnover reclaim",
+    "ZAMA": {
+      "market": "KRW-ZAMA",
+      "amount": 9569.850161614337,
+      "avg_buy_price_krw": 53.2,
+      "last_price_krw": 53.2,
+      "value_krw": 509116.0285978828,
+      "thesis": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다.",
+      "strategy": "mid-cap continuation",
+      "role": "mid-cap continuation",
       "risk_limit_pct": 6,
       "profit_take_pct": 12
     },
-    "TRAC": {
-      "market": "KRW-TRAC",
-      "amount": 796.170224215378,
-      "avg_buy_price_krw": 575.0,
-      "last_price_krw": 575.0,
-      "value_krw": 457797.87892384233,
-      "thesis": "TRAC는 79.7% 위치와 +9.73%가 유지되는 몇 안 되는 mid-cap continuation이라 공격 슬롯으로 적합합니다.",
-      "strategy": "mid-cap continuation",
-      "role": "mid-cap continuation",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 14
-    },
-    "CHZ": {
-      "market": "KRW-CHZ",
-      "amount": 12508.138768410992,
-      "avg_buy_price_krw": 36.6,
-      "last_price_krw": 36.6,
-      "value_krw": 457797.87892384233,
-      "thesis": "CHZ는 75% 위치와 -0.27% gap로 붕괴장 속 가장 단순한 저베타 continuation 보조축입니다.",
-      "strategy": "low-beta continuation",
-      "role": "low-beta continuation",
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 153.48689436173734,
+      "avg_buy_price_krw": 3317.0,
+      "last_price_krw": 3317.0,
+      "value_krw": 509116.0285978828,
+      "thesis": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다.",
+      "strategy": "large-cap survivor",
+      "role": "large-cap survivor",
       "risk_limit_pct": 4,
       "profit_take_pct": 8
+    },
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 476.700401308879,
+      "avg_buy_price_krw": 1068.0,
+      "last_price_krw": 1068.0,
+      "value_krw": 509116.0285978828,
+      "thesis": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다.",
+      "strategy": "solana ecosystem survivor",
+      "role": "solana ecosystem survivor",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 9
     }
   },
   "watchlist": [
     {
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "52.2원, 대금 319.5억원이지만 50% 위치·음전환이라 재상단 회복 전까진 2선."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "351원, 대금 1139.8억원이지만 위치 36.7%·gap -5.14%라 당장은 참고 신호만 유지."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3299원, 180.2억원, +0.21%지만 위치 40%라 체급만 남은 대기 survivor."
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "53.8원, +4.47%, 위치 84.8%, 대금 42.3억원으로 JTO보다 공격적이라 다음 승격 1순위."
     },
     {
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "88.1원, +2.32%, 109.8억원, 위치 45.9%로 약한 반등형."
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "reason": "209원, +8.85%, 위치 100%지만 체급이 작아 보조 실험군으로 대기."
     },
     {
-      "symbol": "PENGU",
-      "market": "KRW-PENGU",
-      "reason": "10.5원, +0.96%, 43.3억원, 위치 100%라 저체급 실험 후보."
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "358원, +3.77%, 위치 100%지만 대금 24.8억원으로 2선."
     },
     {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "481원, +0.63%, 58.9억원, 위치 50%라 방어형 보조 survivor."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "21.6원, 양수는 유지했지만 위치 31.6%로 오전 fresh 리더 지위 상실."
     },
     {
-      "symbol": "AERO",
-      "market": "KRW-AERO",
-      "reason": "667원, +0.60%, 위치 33.3%로 상단 체력 상실."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "47.8원, 대금 632.6억원이라 무시 못하지만 위치 28.6%·gap -7.72%로 재상단 회복 전까지 제외."
     }
   ],
   "history": [
@@ -8265,6 +8265,96 @@
       "amount_delta": 12508.138768410992,
       "cash_delta_krw": -457797.87892384233,
       "reason": "CHZ는 36.6원, +0.55%, 49.6억원, 75.0% 위치로 낮은 변동성 continuation 보조축입니다."
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 351.0,
+      "amount_delta": -1330.807787569309,
+      "cash_delta_krw": 467113.5334368275,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "SAHARA",
+      "action": "SELL",
+      "price_krw": 21.6,
+      "amount_delta": -19991.173752132854,
+      "cash_delta_krw": 431809.3530460697,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 47.8,
+      "amount_delta": -9248.441998461461,
+      "cash_delta_krw": 442075.52752645785,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "TRAC",
+      "action": "SELL",
+      "price_krw": 524.0,
+      "amount_delta": -796.170224215378,
+      "cash_delta_krw": 417193.1974888581,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "CHZ",
+      "action": "SELL",
+      "price_krw": 35.4,
+      "amount_delta": -12508.138768410992,
+      "cash_delta_krw": 442788.1124017491,
+      "reason": "15:58 스냅샷 기준 SAHARA·ID·XLM·TRAC·CHZ 중 4개가 40% 이하 또는 무효화 근처로 밀려, rebound basket인 MEGA·BIO·ZAMA·NEAR·JTO로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 102.0,
+      "amount_delta": 4991.333613704733,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "BIO",
+      "action": "BUY",
+      "price_krw": 53.3,
+      "amount_delta": 9551.895470879603,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "ZAMA",
+      "action": "BUY",
+      "price_krw": 53.2,
+      "amount_delta": 9569.850161614337,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다."
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3317.0,
+      "amount_delta": 153.48689436173734,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-18T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1068.0,
+      "amount_delta": 476.700401308879,
+      "cash_delta_krw": -509116.0285978828,
+      "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다."
     }
   ]
 }
