@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 636395.0357473532,
-  "realized_pnl_krw": -6947074.624435297,
-  "last_valuation_krw": 3181975.1787367673,
-  "last_action": "ROTATE_80_MEGA_BIO_ZAMA_NEAR_JTO",
-  "last_updated": "2026-06-18T15:58:00+09:00",
-  "trade_count": 917,
+  "cash_krw": 316420.5037687719,
+  "realized_pnl_krw": -6964844.765484345,
+  "last_valuation_krw": 3164205.037687719,
+  "last_action": "ROTATE_90_XLM_ONDO_NEAR_JTO_MEGA",
+  "last_updated": "2026-06-18T21:58:00+09:00",
+  "trade_count": 927,
   "positions": {
-    "MEGA": {
-      "market": "KRW-MEGA",
-      "amount": 4991.333613704733,
-      "avg_buy_price_krw": 102.0,
-      "last_price_krw": 102.0,
-      "value_krw": 509116.0285978828,
-      "thesis": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다.",
-      "strategy": "high-beta continuation leader",
-      "role": "high-beta continuation leader",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 16
-    },
-    "BIO": {
-      "market": "KRW-BIO",
-      "amount": 9551.895470879603,
-      "avg_buy_price_krw": 53.3,
-      "last_price_krw": 53.3,
-      "value_krw": 509116.0285978828,
-      "thesis": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다.",
-      "strategy": "liquid recovery core",
-      "role": "liquid recovery core",
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 1543.5146525305945,
+      "avg_buy_price_krw": 369.0,
+      "last_price_krw": 369.0,
+      "value_krw": 569556.9067837894,
+      "thesis": "DTCC-Stellar 토큰화 서사가 단순 뉴스가 아니라 실제 업비트 체결 강도로 이어졌습니다.",
+      "strategy": "mega-liquidity reclaim leader",
+      "role": "mega-liquidity reclaim leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 10
     },
-    "ZAMA": {
-      "market": "KRW-ZAMA",
-      "amount": 9569.850161614337,
-      "avg_buy_price_krw": 53.2,
-      "last_price_krw": 53.2,
-      "value_krw": 509116.0285978828,
-      "thesis": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다.",
-      "strategy": "mid-cap continuation",
-      "role": "mid-cap continuation",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 1006.2842876038682,
+      "avg_buy_price_krw": 566.0,
+      "last_price_krw": 566.0,
+      "value_krw": 569556.9067837894,
+      "thesis": "메이저 반등 구간의 기관/토큰화 대표주로 ONDO가 가장 읽기 쉽습니다.",
+      "strategy": "institutional tokenization core",
+      "role": "institutional tokenization core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8
     },
     "NEAR": {
       "market": "KRW-NEAR",
-      "amount": 153.48689436173734,
-      "avg_buy_price_krw": 3317.0,
-      "last_price_krw": 3317.0,
-      "value_krw": 509116.0285978828,
-      "thesis": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다.",
-      "strategy": "large-cap survivor",
-      "role": "large-cap survivor",
+      "amount": 166.732115569025,
+      "avg_buy_price_krw": 3416.0,
+      "last_price_krw": 3416.0,
+      "value_krw": 569556.9067837894,
+      "thesis": "고베타와 메가유동성 사이의 균형 축으로 NEAR가 가장 안정적입니다.",
+      "strategy": "large-cap continuation anchor",
+      "role": "large-cap continuation anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 8
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 476.700401308879,
-      "avg_buy_price_krw": 1068.0,
-      "last_price_krw": 1068.0,
-      "value_krw": 509116.0285978828,
-      "thesis": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다.",
-      "strategy": "solana ecosystem survivor",
-      "role": "solana ecosystem survivor",
+      "amount": 523.0090971384659,
+      "avg_buy_price_krw": 1089.0,
+      "last_price_krw": 1089.0,
+      "value_krw": 569556.9067837894,
+      "thesis": "메이저 반등에 실리는 솔라나 생태계 follow-through 슬롯으로 JTO가 적합합니다.",
+      "strategy": "solana ecosystem continuation",
+      "role": "solana ecosystem continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 9
+    },
+    "MEGA": {
+      "market": "KRW-MEGA",
+      "amount": 5823.6902534129795,
+      "avg_buy_price_krw": 97.8,
+      "last_price_krw": 97.8,
+      "value_krw": 569556.9067837894,
+      "thesis": "XLM·ONDO·NEAR·JTO가 상단을 잡는 동안 MEGA를 베타 보조축으로 섞는 편이 공격성과 분산을 함께 챙깁니다.",
+      "strategy": "high-beta turnover survivor",
+      "role": "high-beta turnover survivor",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 14
     }
   },
   "watchlist": [
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "351원, 대금 1139.8억원이지만 위치 36.7%·gap -5.14%라 당장은 참고 신호만 유지."
-    },
-    {
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "reason": "53.8원, +4.47%, 위치 84.8%, 대금 42.3억원으로 JTO보다 공격적이라 다음 승격 1순위."
+      "reason": "55원, +6.80%, 위치 64.5%, 대금 88.5억원으로 MEGA 대체/추가 승격 1순위."
     },
     {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "209원, +8.85%, 위치 100%지만 체급이 작아 보조 실험군으로 대기."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "930원, +11.51%, 위치 71.9%, 대금 77.6억원으로 중형 추세 지속주."
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "358원, +3.77%, 위치 100%지만 대금 24.8억원으로 2선."
+      "symbol": "AERO",
+      "market": "KRW-AERO",
+      "reason": "727원, +9.65%, 위치 70.6%, 대금 34.0억원으로 2선 모멘텀."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "21.6원, 양수는 유지했지만 위치 31.6%로 오전 fresh 리더 지위 상실."
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "732원, +3.98%, 위치 77.8%지만 대금 10.1억원이라 체급이 아쉽습니다."
     },
     {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "47.8원, 대금 632.6억원이라 무시 못하지만 위치 28.6%·gap -7.72%로 재상단 회복 전까지 제외."
+      "symbol": "PROVE",
+      "market": "KRW-PROVE",
+      "reason": "321원, +3.88%, 위치 61.9%, 대금 19.1억원으로 보조 continuation."
+    },
+    {
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "87.4원, +4.67%, 위치 54.4%, 대금 71.4억원이지만 상단 체류는 아직 약합니다."
     }
   ],
   "history": [
@@ -8355,6 +8355,96 @@
       "amount_delta": 476.700401308879,
       "cash_delta_krw": -509116.0285978828,
       "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다."
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 97.8,
+      "amount_delta": -4991.333613704733,
+      "cash_delta_krw": 488152.42742032284,
+      "reason": "메가 대금은 남았지만 66.8% 위치로 한 단계 식어, 저녁엔 XLM·ONDO 메가 리클레임과 함께 90% 균등 재편을 위해 전량 재정렬"
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "BIO",
+      "action": "SELL",
+      "price_krw": 53.4,
+      "amount_delta": -9551.895470879603,
+      "cash_delta_krw": 510071.2181449708,
+      "reason": "53.4원 양수라도 33.3% 위치로 구조가 약해져 XLM 메가 리클레임 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "ZAMA",
+      "action": "SELL",
+      "price_krw": 50.8,
+      "amount_delta": -9569.850161614337,
+      "cash_delta_krw": 486148.38821000827,
+      "reason": "50.8원, -1.36%, 2.8% 위치로 continuation 붕괴가 확인돼 전량 퇴출"
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3416.0,
+      "amount_delta": -153.48689436173734,
+      "cash_delta_krw": 524311.2311396948,
+      "reason": "핵심 코어는 유지하되 21:58 가격 기준 5종 균등 공격 분산을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1089.0,
+      "amount_delta": -476.700401308879,
+      "cash_delta_krw": 519126.73702536925,
+      "reason": "핵심 continuation은 유지하되 21:58 가격 기준 5종 균등 공격 분산을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 369.0,
+      "amount_delta": 1543.5146525305945,
+      "cash_delta_krw": -569556.9067837894,
+      "reason": "XLM은 369원, +8.21%, 24h 대금 1317.5억원, 위치 85.3%로 현재 업비트 최상위 메가 리클레임입니다."
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 566.0,
+      "amount_delta": 1006.2842876038682,
+      "cash_delta_krw": -569556.9067837894,
+      "reason": "ONDO는 566원, +2.72%, 24h 대금 470.1억원, 위치 97.2%로 가장 깔끔한 기관서사형 고가 유지 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3416.0,
+      "amount_delta": 166.732115569025,
+      "cash_delta_krw": -569556.9067837894,
+      "reason": "NEAR는 3416원, +3.77%, 24h 대금 177.2억원, 위치 95.3%로 대형 알트 중 가장 깨끗한 continuation 앵커입니다."
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1089.0,
+      "amount_delta": 523.0090971384659,
+      "cash_delta_krw": -569556.9067837894,
+      "reason": "JTO는 1089원, +3.22%, 24h 대금 162.9억원, 위치 84.1%로 솔라나계에서 가장 깔끔한 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-18T21:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 97.8,
+      "amount_delta": 5823.6902534129795,
+      "cash_delta_krw": -569556.9067837894,
+      "reason": "MEGA는 97.8원, +13.59%, 24h 대금 446.6억원으로 장중 식었어도 여전히 업비트 최상위 고베타 자금축입니다."
     }
   ]
 }

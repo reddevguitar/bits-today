@@ -114,3 +114,5 @@ The dashboard should evolve toward a compact portal experience:
 - When major average range-position falls below roughly 25 and 3개 이상 held preferred names simultaneously slip below roughly 35% of the day range or break invalidation, force the next cycle to reset around exactly 1 fresh 85%+ leader plus 4 stronger 60%+ continuation/survivor names, and cap deployment around 75% instead of defending the broken basket.
 
 - When major average range-position rebounds from roughly the teens into the 30s within one cycle but fresh breakouts stay at 0, force the next cycle to replace sub-40% stalled survivors with at least 2 clean 75%+ continuation names, 2 liquid 50%+ survivors/reclaims, and at most 1 mid-cap beta slot instead of defending the earlier defensive reset.
+
+- When major average range-position rebounds above roughly 60 and at least 3 non-major alts simultaneously hold 80%+ of the day range with real multi-10B KRW turnover, force at least 2 of 5 preferred picks into those mega-liquidity reclaim leaders and allow paper deployment toward roughly 90% instead of staying stuck in the prior 70-80% survivor basket.

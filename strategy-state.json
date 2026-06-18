@@ -1,310 +1,305 @@
 {
-  "updated_at": "2026-06-18T15:58:00+09:00",
-  "top_line": "메이저 평균 위치가 35.3%까지 회복됐지만 fresh는 0입니다. 오전 바스켓은 끝났고 MEGA·BIO·ZAMA·NEAR·JTO로 80% 재공격이 맞습니다.",
-  "macro_summary": "BTC·ETH·XRP·SOL은 전부 음수지만 평균 위치가 13.2%에서 35.3%로 반등했습니다. top15 비메이저 양수는 8/15로 회복됐고 low-range는 6/15로 줄어 weak breadth warning이 해제됐습니다. 다만 fresh breakout은 0이라 무작정 90% 추격보다 80% 선별 공격이 적절합니다.",
-  "news_summary": "Alternative.me 공포탐욕은 15 Extreme Fear로 동일합니다. 외부 재료로는 미래에셋-온도 토큰화 ETF MOU, DTCC의 Stellar 연계 계획, 그리고 XPL의 6월 25일 및 7월 말 unlock 부담이 계속 참고 신호입니다. 하지만 이번 회차 선택은 뉴스보다 업비트 실시간 구조 회복을 우선했습니다.",
-  "community_summary": "업비트 자금은 WLD·SPX 같은 대금 함정과 오전 fresh였던 SAHARA·ID에서 빠져나와 MEGA·BIO·ZAMA·CHIP·OPEN처럼 지금도 상단을 지키는 종목으로 압축됐습니다. XLM은 여전히 초대금이지만 체결 품질은 오전보다 둔합니다.",
-  "public_figure_summary": "미래에셋-온도 MOU와 DTCC-Stellar 서사는 살아 있지만, 15:58 보드는 그 서사보다 가격 체력을 더 엄격하게 평가합니다. 따라서 이번 회차는 headline hero보다 현재 range-position을 우선했습니다.",
-  "major_coin_summary": "BTC -0.89%·34.2% 위치 / ETH -0.99%·36.9% 위치 / XRP -1.34%·32.7% 위치 / SOL -1.01%·37.5% 위치 / 메이저 평균 35.3% 위치",
-  "altcoin_selection_summary": "preferred buy는 MEGA, BIO, ZAMA, NEAR, JTO입니다. 구성은 high-beta leader 1개(MEGA) + liquid recovery 2개(BIO·NEAR) + clean continuation 1개(ZAMA) + ecosystem survivor 1개(JTO)입니다. SAHARA·ID·TRAC·CHZ는 오전 우위가 사라져 탈락했고 WLD·SPX는 여전히 명확한 trap입니다.",
-  "overall_bias": "aggressive rebound rotation: 80% equal-weight deployment into MEGA BIO ZAMA NEAR JTO",
-  "confidence": "medium",
+  "updated_at": "2026-06-18T21:58:00+09:00",
+  "top_line": "메이저 평균 위치가 63.1%까지 올라왔고 XLM·ONDO가 메가 리클레임으로 복귀했습니다. BIO·ZAMA는 버리고 XLM·ONDO·NEAR·JTO·MEGA로 90% 재공격합니다.",
+  "macro_summary": "BTC 77.6%·ETH 83.1%·SOL 53.1%로 메이저 구조가 오후 대비 크게 좋아졌고, XRP만 38.8%로 뒤처집니다. 메이저 평균 위치는 35.3%에서 63.1%로 상승해 더 이상 방어형 80%에 머물 이유가 약합니다. 대신 저녁 보드는 XLM·ONDO·NEAR·JTO처럼 80%+ 상단 복귀/지속주와 MEGA 같은 고베타 생존주 조합이 더 적합합니다.",
+  "news_summary": "Alternative.me 공포탐욕은 15 Extreme Fear로 같지만, 실제 보드는 회복 쪽으로 움직였습니다. 외부 재료는 DTCC의 Stellar 연계 계획, Franklin Templeton-Ondo 토큰화 ETF 유통 뉴스, 그리고 기존 미래에셋-온도 서사가 유효합니다. 다만 XPL unlock 부담과 WLD·SPX 같은 과열 후 피로 종목은 계속 경계합니다.",
+  "community_summary": "업비트 자금은 저녁 들어 XLM·ONDO 같은 메가 유동성 리클레임과 NEAR·JTO 상단 지속주로 압축됐습니다. 반면 BIO·ZAMA·ID·SAHARA는 양수 여부보다 구조 약화가 더 크게 보였고, WLD·SPX는 대금 대비 체결 품질이 여전히 나쁩니다.",
+  "public_figure_summary": "기관/전통금융 서사 측면에서는 Stellar-DTCC, Franklin Templeton-Ondo가 가장 직접적인 체결 재료입니다. 이번 회차는 인물 코멘트보다 실제 업비트 자금이 붙는 토큰화/메가유동성 축을 우선했습니다.",
+  "major_coin_summary": "BTC +0.09%·77.6% 위치 / ETH +0.15%·83.1% 위치 / XRP -1.18%·38.8% 위치 / SOL -0.55%·53.1% 위치 / 메이저 평균 63.1% 위치",
+  "altcoin_selection_summary": "preferred buy는 XLM, ONDO, NEAR, JTO, MEGA입니다. 구조는 mega-liquidity reclaim 2개(XLM·ONDO) + clean continuation 2개(NEAR·JTO) + high-beta survivor 1개(MEGA)입니다. BIO·ZAMA는 구조 붕괴로 탈락했고, CHIP·PROS·AERO는 2선 추세 후보로 감시만 유지합니다.",
+  "overall_bias": "aggressive breadth-reclaim rotation: 90% equal-weight deployment into XLM ONDO NEAR JTO MEGA",
+  "confidence": "medium-high",
   "preferred_buy_candidates": [
     {
-      "market": "KRW-MEGA",
-      "symbol": "MEGA",
-      "korean_name": "메가이더",
-      "english_name": "MegaETH",
-      "price_krw": 102.0,
-      "change_pct_24h": 18.46689895,
-      "turnover_krw_24h": 33150495230.268837,
-      "opening_price": 86.1,
-      "high_price": 104.0,
-      "low_price": 85.3,
-      "range_position_pct": 89.3,
-      "day_high_gap_pct": -1.92,
-      "selection_score": 70.95,
-      "role": "high-beta continuation leader",
-      "risk_limit_pct": 8,
-      "profit_take_pct": 16,
-      "invalidated_if": "96원 하회 시 고베타 continuation 붕괴",
-      "reason": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다.",
-      "community": "업비트 리테일 자금이 WLD·SPX 같은 대금 함정에서 빠져나와 MEGA 같은 고위치 강세 리더로 회전한 흔적이 가장 선명합니다.",
-      "thesis": "브레드스가 회복되기 시작한 구간의 1순위 베타는 지금 MEGA입니다.",
-      "strategy": "high-beta continuation leader",
-      "score": 70.95,
-      "allocation_krw": 509116.0285978828
-    },
-    {
-      "market": "KRW-BIO",
-      "symbol": "BIO",
-      "korean_name": "바이오프로토콜",
-      "english_name": "Bio Protocol",
-      "price_krw": 53.3,
-      "change_pct_24h": 1.91204589,
-      "turnover_krw_24h": 28571936638.703175,
-      "opening_price": 52.5,
-      "high_price": 54.7,
-      "low_price": 50.9,
-      "range_position_pct": 63.2,
-      "day_high_gap_pct": -2.56,
-      "selection_score": 34.04,
-      "role": "liquid recovery core",
+      "market": "KRW-XLM",
+      "symbol": "XLM",
+      "korean_name": "스텔라루멘",
+      "english_name": "Lumen",
+      "price_krw": 369.0,
+      "change_pct_24h": 8.2111437,
+      "turnover_krw_24h": 131751912167.5767,
+      "opening_price": 341.0,
+      "high_price": 374.0,
+      "low_price": 340.0,
+      "range_position_pct": 85.3,
+      "day_high_gap_pct": -1.34,
+      "role": "mega-liquidity reclaim leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 10,
-      "invalidated_if": "52.0원 하회 시 liquid recovery 약화",
-      "reason": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다.",
-      "community": "BIO는 과열 급등보다 거래대금이 남은 채 양전환을 유지해 재진입 자금의 품질이 나쁘지 않습니다.",
-      "thesis": "오전 방어 바스켓을 버리고도 대형 양수 슬롯 하나는 유지해야 하는데 BIO가 그 조건에 가장 가깝습니다.",
-      "strategy": "liquid recovery core",
-      "score": 34.04,
-      "allocation_krw": 509116.0285978828
+      "invalidated_if": "360원 하회 시 DTCC·토큰화 리클레임 약화",
+      "reason": "XLM은 369원, +8.21%, 24h 대금 1317.5억원, 위치 85.3%로 현재 업비트 최상위 메가 리클레임입니다.",
+      "community": "저녁 업비트 보드에서 가장 큰 관심 자금이 XLM으로 다시 몰렸고, 장중 고가권 복귀가 확인됐습니다.",
+      "thesis": "DTCC-Stellar 토큰화 서사가 단순 뉴스가 아니라 실제 업비트 체결 강도로 이어졌습니다.",
+      "strategy": "mega-liquidity reclaim leader",
+      "score": 76.42,
+      "allocation_krw": 569556.9067837894
     },
     {
-      "market": "KRW-ZAMA",
-      "symbol": "ZAMA",
-      "korean_name": "자마",
-      "english_name": "Zama",
-      "price_krw": 53.2,
-      "change_pct_24h": 3.30097087,
-      "turnover_krw_24h": 8687321942.078627,
-      "opening_price": 51.7,
-      "high_price": 53.7,
-      "low_price": 51.6,
-      "range_position_pct": 76.2,
-      "day_high_gap_pct": -0.93,
-      "selection_score": 38.59,
-      "role": "mid-cap continuation",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12,
-      "invalidated_if": "52.0원 하회 시 continuation 실패",
-      "reason": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다.",
-      "community": "국내 보드는 지금 ZAMA를 급등 추격보다 구조형 continuation으로 다루고 있어 중형 분산축으로 적합합니다.",
-      "thesis": "fresh 0 환경에서는 ZAMA 같은 75%+ continuation이 핵심입니다.",
-      "strategy": "mid-cap continuation",
-      "score": 38.59,
-      "allocation_krw": 509116.0285978828
+      "market": "KRW-ONDO",
+      "symbol": "ONDO",
+      "korean_name": "온도파이낸스",
+      "english_name": "Ondo Finance",
+      "price_krw": 566.0,
+      "change_pct_24h": 2.72232305,
+      "turnover_krw_24h": 47006890976.013885,
+      "opening_price": 551.0,
+      "high_price": 567.0,
+      "low_price": 531.0,
+      "range_position_pct": 97.2,
+      "day_high_gap_pct": -0.18,
+      "role": "institutional tokenization core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8,
+      "invalidated_if": "556원 하회 시 기관서사형 리클레임 훼손",
+      "reason": "ONDO는 566원, +2.72%, 24h 대금 470.1억원, 위치 97.2%로 가장 깔끔한 기관서사형 고가 유지 코어입니다.",
+      "community": "Franklin Templeton·Ondo 토큰화 ETF 뉴스와 기존 미래에셋-온도 연결 서사가 업비트 체결로 재확인됐습니다.",
+      "thesis": "메이저 반등 구간의 기관/토큰화 대표주로 ONDO가 가장 읽기 쉽습니다.",
+      "strategy": "institutional tokenization core",
+      "score": 74.85,
+      "allocation_krw": 569556.9067837894
     },
     {
       "market": "KRW-NEAR",
       "symbol": "NEAR",
       "korean_name": "니어프로토콜",
       "english_name": "NEAR Protocol",
-      "price_krw": 3317.0,
-      "change_pct_24h": 0.75941677,
-      "turnover_krw_24h": 18798169663.04771,
+      "price_krw": 3416.0,
+      "change_pct_24h": 3.76670717,
+      "turnover_krw_24h": 17720256131.407303,
       "opening_price": 3290.0,
-      "high_price": 3381.0,
+      "high_price": 3425.0,
       "low_price": 3232.0,
-      "range_position_pct": 57.0,
-      "day_high_gap_pct": -1.89,
-      "selection_score": 28.74,
-      "role": "large-cap survivor",
+      "range_position_pct": 95.3,
+      "day_high_gap_pct": -0.26,
+      "role": "large-cap continuation anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 8,
-      "invalidated_if": "3260원 하회 시 large-cap survivor 훼손",
-      "reason": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다.",
-      "community": "완전 공격주만 고르기보다 NEAR 같은 체급형 survivor를 섞는 쪽이 포트폴리오 효율이 낫습니다.",
-      "thesis": "메이저가 아직 음수일 때는 NEAR 같은 품질 survivor가 전체 바스켓의 붕괴 속도를 줄여줍니다.",
-      "strategy": "large-cap survivor",
-      "score": 28.74,
-      "allocation_krw": 509116.0285978828
+      "invalidated_if": "3360원 하회 시 대형 continuation 약화",
+      "reason": "NEAR는 3416원, +3.77%, 24h 대금 177.2억원, 위치 95.3%로 대형 알트 중 가장 깨끗한 continuation 앵커입니다.",
+      "community": "메이저가 완전 risk-on은 아니어서, 저녁 바스켓엔 NEAR 같은 체급형 상단 지속주가 꼭 필요합니다.",
+      "thesis": "고베타와 메가유동성 사이의 균형 축으로 NEAR가 가장 안정적입니다.",
+      "strategy": "large-cap continuation anchor",
+      "score": 63.88,
+      "allocation_krw": 569556.9067837894
     },
     {
       "market": "KRW-JTO",
       "symbol": "JTO",
       "korean_name": "지토",
       "english_name": "Jito",
-      "price_krw": 1068.0,
-      "change_pct_24h": 1.23222749,
-      "turnover_krw_24h": 19617175971.335228,
+      "price_krw": 1089.0,
+      "change_pct_24h": 3.22274882,
+      "turnover_krw_24h": 16286847356.02141,
       "opening_price": 1055.0,
-      "high_price": 1097.0,
+      "high_price": 1099.0,
       "low_price": 1036.0,
-      "range_position_pct": 52.5,
-      "day_high_gap_pct": -2.64,
-      "selection_score": 26.99,
-      "role": "solana ecosystem survivor",
+      "range_position_pct": 84.1,
+      "day_high_gap_pct": -0.91,
+      "role": "solana ecosystem continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 9,
-      "invalidated_if": "1040원 하회 시 솔라나 survivor 약화",
-      "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다.",
-      "community": "JTO는 솔라나계 종목 중 아직 대금과 위치가 모두 완전히 깨지지 않은 몇 안 되는 생존 슬롯입니다.",
-      "thesis": "XLM보다 체급은 작지만 현재 구조는 JTO가 더 덜 상했습니다.",
-      "strategy": "solana ecosystem survivor",
-      "score": 26.99,
-      "allocation_krw": 509116.0285978828
+      "invalidated_if": "1065원 하회 시 솔라나 continuation 약화",
+      "reason": "JTO는 1089원, +3.22%, 24h 대금 162.9억원, 위치 84.1%로 솔라나계에서 가장 깔끔한 continuation입니다.",
+      "community": "SOL 자체보다 JTO가 더 높은 위치를 유지해 업비트 단기 베타의 질이 더 좋습니다.",
+      "thesis": "메이저 반등에 실리는 솔라나 생태계 follow-through 슬롯으로 JTO가 적합합니다.",
+      "strategy": "solana ecosystem continuation",
+      "score": 60.71,
+      "allocation_krw": 569556.9067837894
+    },
+    {
+      "market": "KRW-MEGA",
+      "symbol": "MEGA",
+      "korean_name": "메가이더",
+      "english_name": "MegaETH",
+      "price_krw": 97.8,
+      "change_pct_24h": 13.58885017,
+      "turnover_krw_24h": 44656726720.03765,
+      "opening_price": 86.1,
+      "high_price": 104.0,
+      "low_price": 85.3,
+      "range_position_pct": 66.8,
+      "day_high_gap_pct": -5.96,
+      "role": "high-beta turnover survivor",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 14,
+      "invalidated_if": "95원 하회 시 고베타 생존 가설 약화",
+      "reason": "MEGA는 97.8원, +13.59%, 24h 대금 446.6억원으로 장중 식었어도 여전히 업비트 최상위 고베타 자금축입니다.",
+      "community": "상단에서 한 번 식었지만 거래대금이 남아 있어 완전 탈락보다 5번째 공격 슬롯 가치가 있습니다.",
+      "thesis": "XLM·ONDO·NEAR·JTO가 상단을 잡는 동안 MEGA를 베타 보조축으로 섞는 편이 공격성과 분산을 함께 챙깁니다.",
+      "strategy": "high-beta turnover survivor",
+      "score": 58.41,
+      "allocation_krw": 569556.9067837894
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "MEGA는 102원, +18.47%, 24h 대금 331.5억원, 위치 89.3%로 이번 회차 업비트 최강 베타 리더입니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "XLM은 369원, +8.21%, 24h 대금 1317.5억원, 위치 85.3%로 현재 업비트 최상위 메가 리클레임입니다."
     },
     {
-      "symbol": "BIO",
-      "market": "KRW-BIO",
-      "reason": "BIO는 53.3원, +1.91%, 24h 대금 285.7억원, 위치 63.2%로 과열 없이 버티는 대형 리커버리 코어입니다."
-    },
-    {
-      "symbol": "ZAMA",
-      "market": "KRW-ZAMA",
-      "reason": "ZAMA는 53.2원, +3.30%, 24h 대금 86.9억원, 위치 76.2%로 구조가 가장 깔끔한 중형 continuation 축입니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "ONDO는 566원, +2.72%, 24h 대금 470.1억원, 위치 97.2%로 가장 깔끔한 기관서사형 고가 유지 코어입니다."
     },
     {
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "reason": "NEAR는 3317원, +0.76%, 24h 대금 188.0억원, 위치 57.0%로 체급형 생존주 중 가장 읽기 쉬운 품질 슬롯입니다."
+      "reason": "NEAR는 3416원, +3.77%, 24h 대금 177.2억원, 위치 95.3%로 대형 알트 중 가장 깨끗한 continuation 앵커입니다."
     },
     {
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "reason": "JTO는 1068원, +1.23%, 24h 대금 196.2억원, 위치 52.5%로 솔라나계 유동성 생존축 역할을 유지합니다."
+      "reason": "JTO는 1089원, +3.22%, 24h 대금 162.9억원, 위치 84.1%로 솔라나계에서 가장 깔끔한 continuation입니다."
+    },
+    {
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "MEGA는 97.8원, +13.59%, 24h 대금 446.6억원으로 장중 식었어도 여전히 업비트 최상위 고베타 자금축입니다."
     }
   ],
   "watchlist": [
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "351원, 대금 1139.8억원이지만 위치 36.7%·gap -5.14%라 당장은 참고 신호만 유지."
-    },
-    {
       "symbol": "CHIP",
       "market": "KRW-CHIP",
-      "reason": "53.8원, +4.47%, 위치 84.8%, 대금 42.3억원으로 JTO보다 공격적이라 다음 승격 1순위."
+      "reason": "55원, +6.80%, 위치 64.5%, 대금 88.5억원으로 MEGA 대체/추가 승격 1순위."
     },
     {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "209원, +8.85%, 위치 100%지만 체급이 작아 보조 실험군으로 대기."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "930원, +11.51%, 위치 71.9%, 대금 77.6억원으로 중형 추세 지속주."
     },
     {
-      "symbol": "OPEN",
-      "market": "KRW-OPEN",
-      "reason": "358원, +3.77%, 위치 100%지만 대금 24.8억원으로 2선."
+      "symbol": "AERO",
+      "market": "KRW-AERO",
+      "reason": "727원, +9.65%, 위치 70.6%, 대금 34.0억원으로 2선 모멘텀."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "21.6원, 양수는 유지했지만 위치 31.6%로 오전 fresh 리더 지위 상실."
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "732원, +3.98%, 위치 77.8%지만 대금 10.1억원이라 체급이 아쉽습니다."
     },
     {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "47.8원, 대금 632.6억원이라 무시 못하지만 위치 28.6%·gap -7.72%로 재상단 회복 전까지 제외."
+      "symbol": "PROVE",
+      "market": "KRW-PROVE",
+      "reason": "321원, +3.88%, 위치 61.9%, 대금 19.1억원으로 보조 continuation."
+    },
+    {
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "87.4원, +4.67%, 위치 54.4%, 대금 71.4억원이지만 상단 체류는 아직 약합니다."
     }
   ],
   "risk_notes": [
-    "fresh breakout이 0이라 90% 이상 확대는 금지하고 현금 20%를 유지합니다.",
-    "WLD와 SPX는 각각 10.1%, 18.3% 위치의 top-turnover trap이라 신규 복귀 금지입니다.",
-    "XLM은 초대금이지만 36.7% 위치와 -5.14% gap라 preferred 승격 대신 참고 신호로만 둡니다.",
-    "MEGA가 가장 강하지만 고베타라 96원 하회 시 즉시 공격성 축소가 필요합니다.",
-    "BIO·NEAR 같은 liquid survivor가 동시에 무너지면 rebound 가설 자체를 다시 낮춰야 합니다."
+    "XLM이 대금 비중 51%대로 가장 커서, 360원 하회 시 과열 해소 신호로 바로 재평가해야 합니다.",
+    "ONDO는 97.2% 위치지만 567원 고가 바로 아래라 556원 이탈 시 추격 리스크가 커집니다.",
+    "MEGA는 +13.6%지만 위치가 66.8%로 이미 한 번 식어, 95원 하회 시 가장 먼저 축소할 슬롯입니다.",
+    "XRP가 메이저 중 가장 약한 38.8% 위치라, 메이저 전반이 다시 흔들리면 알트 breadth도 빠르게 꺾일 수 있습니다.",
+    "WLD·SPX·ID·SAHARA는 대금보다 구조가 나빠 신규 복귀 금지입니다."
   ],
   "fear_greed": "15 (Extreme Fear, Alternative.me)",
-  "btc_reference": "BTC 96.351M원대 / ETH 2.612M원대 / XRP 1763원대 / SOL 107.4K원대",
+  "btc_reference": "BTC 97.136M원대 / ETH 2.642M원대 / XRP 1766원대 / SOL 107.9K원대",
   "improvement_log": [
-    "PROJECT에 메이저 평균 위치가 십대에서 30대로 반등해도 fresh가 0이면 75%+ continuation 2개와 50%+ liquid survivor 2개를 강제하는 규칙을 추가했습니다.",
-    "이번 리포트부터 오전 바스켓 퇴출 종목과 새 rebound 바스켓을 더 직접적으로 보여주도록 정리했습니다.",
-    "15:58 실시간 스냅샷으로 오전 전략 앵커링을 끊고 후보 5개를 완전히 새로 고쳤습니다."
+    "PROJECT에 메이저 평균 위치가 60%+로 회복되고 3개 이상 비메이저가 80%+ 상단과 실대금을 동시에 잡으면 90% 공격 허용 규칙을 추가했습니다.",
+    "저녁 회차는 단순 보유 방어 대신 BIO·ZAMA 붕괴를 명시적으로 퇴출하고 XLM·ONDO 메가 리클레임을 바로 승격하도록 정리했습니다.",
+    "리포트에서 메가 리클레임/상단 지속/고베타 보조축을 분리해 한눈에 읽히도록 개선했습니다."
   ],
   "self_evaluation": {
-    "score": 8.3,
-    "summary": "09:58 회차의 70% 방어 리셋 자체는 맞았지만, 오후엔 SAHARA·ID·TRAC·CHZ 약화를 더 빨리 버려야 했습니다. 이번엔 실시간 스냅샷으로 오전 가정을 끊고 전면 교체한 점이 개선입니다."
+    "score": 8.7,
+    "summary": "15:58 회차의 rebound 재공격은 방향은 맞았지만, 저녁에는 BIO·ZAMA 잔존보다 XLM·ONDO 리클레임 승격이 더 빨랐어야 했습니다. 이번엔 구조가 무너진 슬롯을 바로 버리고 메가 유동성 쪽으로 옮긴 점이 개선입니다."
   },
   "rejected_candidates": [
     {
+      "symbol": "BIO",
+      "market": "KRW-BIO",
+      "reason": "53.4원, 양수지만 위치 33.3%로 저녁 코어 자격 상실."
+    },
+    {
+      "symbol": "ZAMA",
+      "market": "KRW-ZAMA",
+      "reason": "50.8원, -1.36%, 위치 2.8%로 오후 continuation이 완전히 붕괴."
+    },
+    {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "923원, 최대 대금이지만 위치 10.1%·gap -8.79%로 명확한 turnover trap입니다."
+      "reason": "960원, 대금은 거대하지만 위치 47.5%·음수라 메가 함정 해소가 덜 됐습니다."
     },
     {
       "symbol": "SPX",
       "market": "KRW-SPX",
-      "reason": "598원, -7.43%, 위치 18.3%, gap -10.08%로 완전 함정 구간입니다."
-    },
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "21.6원, 양수는 유지했지만 위치 31.6%로 오전 fresh 리더 지위가 끝났습니다."
+      "reason": "599원, -7.28%, 위치 19.5%로 명확한 turnover trap 유지."
     },
     {
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "47.8원, 초대금이지만 위치 28.6%·gap -7.72%라 faded leader입니다."
+      "reason": "45.8원, -2.97%, 위치 7.7%로 faded leader가 더 심해졌습니다."
     },
     {
-      "symbol": "TRAC",
-      "market": "KRW-TRAC",
-      "reason": "524원, 위치 4.9%, gap -12.96%로 즉시 퇴출이 맞습니다."
-    },
-    {
-      "symbol": "CHZ",
-      "market": "KRW-CHZ",
-      "reason": "35.4원, -2.75%, 위치 16.7%로 continuation 구조가 깨졌습니다."
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "21.2원, 보합이지만 위치 10.5%로 복귀 명분이 없습니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 910.6억원이며, XLM 제외 후에도 MEGA·BIO·NEAR·JTO로 충분한 유동성을 확보했습니다.",
-    "momentum_discipline": "MEGA leader + BIO/NEAR survivor + ZAMA continuation + JTO ecosystem survivor",
-    "diversification": "beta 1 + large/liquid survivor 2 + mid-cap continuation 1 + ecosystem survivor 1",
-    "cash_usage": "80%",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2574.2억원이며, XLM·ONDO·MEGA 3종만으로도 메가 유동성이 확보됩니다.",
+    "momentum_discipline": "XLM/ONDO mega reclaim + NEAR/JTO continuation + MEGA beta survivor",
+    "diversification": "mega-liquidity 2 + large-cap continuation 1 + ecosystem continuation 1 + beta survivor 1",
+    "cash_usage": "90%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh 0 / conviction 2 / survivor 5 / reclaim 5"
+    "summary": "fresh/high-range 4 / mega-reclaim 2 / continuation 4 / weak-held purge 2"
   },
   "rotation_map": [
     {
-      "out": "SAHARA",
+      "out": "BIO",
+      "in": "XLM",
+      "why": "약한 33% survivor를 85% 메가 리클레임으로 교체합니다."
+    },
+    {
+      "out": "ZAMA",
+      "in": "ONDO",
+      "why": "붕괴한 continuation을 97% 기관서사 리클레임으로 교체합니다."
+    },
+    {
+      "out": "MEGA",
       "in": "MEGA",
-      "why": "오전 fresh 실패를 오후 최강 베타 continuation으로 교체합니다."
+      "why": "심볼은 유지하지만 21:58 가격으로 90% 균등 재편해 5번째 베타 슬롯으로만 제한합니다."
     },
     {
-      "out": "ID",
-      "in": "BIO",
-      "why": "faded mega-turnover를 더 건강한 liquid recovery 코어로 이동합니다."
-    },
-    {
-      "out": "TRAC",
-      "in": "ZAMA",
-      "why": "붕괴한 continuation 대신 상단 유지력이 더 좋은 중형 continuation을 승격합니다."
-    },
-    {
-      "out": "CHZ",
+      "out": "NEAR",
       "in": "NEAR",
-      "why": "저베타 방어형 알트 대신 체급형 survivor로 품질을 높입니다."
+      "why": "대형 continuation 코어는 유지하되 새 바스켓 가격으로 재편합니다."
     },
     {
-      "out": "XLM",
+      "out": "JTO",
       "in": "JTO",
-      "why": "초대금이지만 둔한 XLM 대신 구조가 더 깨끗한 솔라나계 survivor로 교체합니다."
+      "why": "솔라나 continuation 코어는 유지하되 새 바스켓 가격으로 재편합니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 20% 유지. fresh가 0이면 90% 이상 확대 금지.",
-    "review_trigger": "MEGA 96원 / BIO 52.0원 / ZAMA 52.0원 / NEAR 3260원 / JTO 1040원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 10% 유지. 메이저 평균 위치 60%+와 80%+ 비메이저 3개 이상일 때만 90% 허용.",
+    "review_trigger": "XLM 360원 / ONDO 556원 / NEAR 3360원 / JTO 1065원 / MEGA 95원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "fresh가 0이면 최소 2개는 75%+ continuation으로 구성",
-      "WLD·SPX 같은 top-turnover trap 재매수 금지",
-      "오전 fresh 실패 종목(SAHARA·ID)은 60%+ 재상단 회복 전까지 즉시 복귀 금지"
+      "메이저 평균 위치 60%+와 고위치 알트 3개 이상일 때만 90% 공격 허용",
+      "WLD·SPX·ID·SAHARA 같은 구조 붕괴 대금주는 재매수 금지",
+      "MEGA는 베타 보조축이지 메가 리클레임 코어가 아니므로 비중 추가 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 5.13,
+    "preferred_avg_change_pct_24h": 6.3,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
-    "preferred_turnover_total_krw_24h": 91058717050.77426,
-    "leader_turnover_share_pct": 36.41,
-    "leader_symbol": "MEGA"
+    "preferred_turnover_total_krw_24h": 257422632351.05695,
+    "leader_turnover_share_pct": 51.18,
+    "leader_symbol": "XLM"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "MEGA가 주도권, BIO·NEAR가 유동성 축, ZAMA·JTO가 follow-through 보조축입니다. 오전 실패 리더 재매수는 금지합니다."
+    "comment": "XLM·ONDO가 메가 리클레임 중심이고, NEAR·JTO가 상단 지속, MEGA가 고베타 보조축입니다."
   },
-  "ui_version": "v15.4"
+  "ui_version": "v15.5"
 }
