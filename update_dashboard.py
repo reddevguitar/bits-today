@@ -99,6 +99,7 @@ ICONS = {
     'PRL': '💠',
     'RENDER': '🎨',
     'WLD': '🌍',
+    'WCT': '🔗',
     'MEGA': '🚀',
     'KERNEL': '🌰',
     'TRUST': '🤝',
@@ -343,6 +344,31 @@ preferred_health_summary = {
     'broken_count': sum(1 for item in candidate_health if item.get('status') == 'broken'),
     'unknown_count': sum(1 for item in candidate_health if item.get('status') == 'unknown')
 }
+rotation_pressure = {
+    'active': bool(
+        preferred_health_summary['near_count'] + preferred_health_summary['broken_count'] >= 2
+        or market_breadth.get('leader_concentration_warning') == 'high'
+        or (
+            (snapshot.get('breakout_breadth', {}) or {}).get('fresh_breakout_count', 0) == 0
+            and preferred_setup_quality.get('avg_range_position_pct', 0) < 75
+        )
+    ),
+    'near_or_broken_count': preferred_health_summary['near_count'] + preferred_health_summary['broken_count'],
+    'leader_concentration_warning': market_breadth.get('leader_concentration_warning'),
+    'avg_range_position_pct': preferred_setup_quality.get('avg_range_position_pct', 0),
+    'summary': (
+        '무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태'
+        if bool(
+            preferred_health_summary['near_count'] + preferred_health_summary['broken_count'] >= 2
+            or market_breadth.get('leader_concentration_warning') == 'high'
+            or (
+                (snapshot.get('breakout_breadth', {}) or {}).get('fresh_breakout_count', 0) == 0
+                and preferred_setup_quality.get('avg_range_position_pct', 0) < 75
+            )
+        )
+        else '현재 바스켓의 즉각적 교체 압력은 제한적'
+    )
+}
 latest_ts = parse_ts(portfolio.get('last_updated')) or max((parse_ts(item.get('timestamp')) for item in history), default=None)
 snapshot_age_hours = max(0, round((latest_ts - snapshot_ts).total_seconds() / 3600, 2)) if latest_ts and snapshot_ts else None
 window_start = latest_ts - timedelta(hours=24) if latest_ts else None
@@ -445,6 +471,7 @@ status = {
     'discipline_alerts': discipline_alerts,
     'candidate_health': candidate_health,
     'preferred_health_summary': preferred_health_summary,
+    'rotation_pressure': rotation_pressure,
     'portfolio_health': portfolio_health,
     'recent_rotation_log_24h': recent_rotation_log_24h,
     'report_sections': sections,
