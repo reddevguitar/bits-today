@@ -290,6 +290,12 @@ regime_shift_alert = {
     'top15_low_range_count': leadership_health_snapshot.get('top15_alt_low_range_count'),
     'summary': '메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태' if bool((major_delta_snapshot.get('major_avg_range_position_pct_delta') or 0) <= -20 or leadership_health_snapshot.get('weak_breadth_warning')) else '급격한 레짐 붕괴 경고는 아직 없음'
 }
+rebound_without_fresh_alert = {
+    'active': bool((major_delta_snapshot.get('major_avg_range_position_pct_delta') or 0) > 0 and (snapshot.get('breakout_breadth', {}) or {}).get('fresh_breakout_count', 0) == 0 and leadership_health_snapshot.get('weak_breadth_warning')),
+    'major_avg_delta_pct': major_delta_snapshot.get('major_avg_range_position_pct_delta'),
+    'fresh_breakout_count': (snapshot.get('breakout_breadth', {}) or {}).get('fresh_breakout_count', 0),
+    'summary': '메이저 평균은 반등했지만 fresh breakout이 0이라, 고대금 반등주보다 상단 유지 continuation만 선별해야 하는 상태' if bool((major_delta_snapshot.get('major_avg_range_position_pct_delta') or 0) > 0 and (snapshot.get('breakout_breadth', {}) or {}).get('fresh_breakout_count', 0) == 0 and leadership_health_snapshot.get('weak_breadth_warning')) else '반등 대비 fresh 부족 경고는 없음'
+}
 
 risk_exit_rules = []
 if risk_plan.get('review_trigger'):
@@ -433,6 +439,7 @@ status = {
     'snapshot_breakout_breadth': snapshot.get('breakout_breadth', {}),
     'scenario_view': scenario_view,
     'regime_shift_alert': regime_shift_alert,
+    'rebound_without_fresh_alert': rebound_without_fresh_alert,
     'preferred_setup_quality': preferred_setup_quality,
     'selection_checks': selection_checks,
     'discipline_alerts': discipline_alerts,

@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 749392.5490206927,
-  "realized_pnl_krw": -7016919.014035364,
-  "last_valuation_krw": 2997570.1960827713,
-  "last_action": "RESET_75_WLD_TRUST_MET2_BLEND_ZBT",
-  "last_updated": "2026-06-19T15:58:00+09:00",
-  "trade_count": 957,
+  "cash_krw": 735215.8233075144,
+  "realized_pnl_krw": -7073625.916888078,
+  "last_valuation_krw": 2940863.2932300577,
+  "last_action": "RESET_75_MET2_ZBT_VIRTUAL_KAITO_WCT",
+  "last_updated": "2026-06-19T21:58:00+09:00",
+  "trade_count": 967,
   "positions": {
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 450.988494897107,
-      "avg_buy_price_krw": 997.0,
-      "last_price_krw": 997.0,
-      "value_krw": 449635.5294124157,
-      "thesis": "Sam Altman/OpenAI 연상 attention은 흔들려도 업비트에서는 WLD만 90.9% 위치와 약 994.1억원 대금을 동시에 지켜 메가 코어 자격을 유지합니다.",
-      "strategy": "fresh mega-liquidity anchor",
-      "role": "fresh mega-liquidity anchor",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 7
-    },
-    "TRUST": {
-      "market": "KRW-TRUST",
-      "amount": 5204.114923754811,
-      "avg_buy_price_krw": 86.4,
-      "last_price_krw": 86.4,
-      "value_krw": 449635.5294124157,
-      "thesis": "TRUST는 장중 흔들림에도 +11.05%와 70.8% 위치를 유지해 약세장 생존 continuation 슬롯으로 적합합니다.",
-      "strategy": "surviving mid-cap continuation",
-      "role": "surviving mid-cap continuation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 9
-    },
     "MET2": {
       "market": "KRW-MET2",
-      "amount": 2270.8865121839176,
-      "avg_buy_price_krw": 198.0,
-      "last_price_krw": 198.0,
-      "value_krw": 449635.5294124157,
-      "thesis": "Meteora는 오늘 보드에서 가장 신선한 강세 대안으로, 약한 구보유분을 대체할 새 베타 축입니다.",
-      "strategy": "new high-beta rotation leader",
-      "role": "new high-beta rotation leader",
+      "amount": 2250.660683594432,
+      "avg_buy_price_krw": 196.0,
+      "last_price_krw": 196.0,
+      "value_krw": 441129.4939845087,
+      "thesis": "fresh breakout은 사라졌지만 MET2는 여전히 가장 높은 절대 모멘텀과 상단 체류를 동시에 지키는 핵심 베타 축입니다.",
+      "strategy": "primary high-beta continuation",
+      "role": "primary high-beta continuation",
       "risk_limit_pct": 6,
-      "profit_take_pct": 12
-    },
-    "BLEND": {
-      "market": "KRW-BLEND",
-      "amount": 4602.206032880406,
-      "avg_buy_price_krw": 97.7,
-      "last_price_krw": 97.7,
-      "value_krw": 449635.5294124157,
-      "thesis": "BLEND는 고점 대비 밀렸지만 여전히 +15.76%와 156.3억원 대금이 남아 있어 완전 붕괴 전의 잔존 베타 슬롯 가치가 있습니다.",
-      "strategy": "residual momentum beta",
-      "role": "residual momentum beta",
-      "risk_limit_pct": 6,
-      "profit_take_pct": 12
+      "profit_take_pct": 11
     },
     "ZBT": {
       "market": "KRW-ZBT",
-      "amount": 2341.851715689665,
-      "avg_buy_price_krw": 192.0,
-      "last_price_krw": 192.0,
-      "value_krw": 449635.5294124157,
-      "thesis": "ZBT는 체급은 작지만 84.6% 위치와 얕은 고점 괴리로 약세장 보조 생존 슬롯에 적합합니다.",
-      "strategy": "secondary stability survivor",
-      "role": "secondary stability survivor",
+      "amount": 2227.9267372954982,
+      "avg_buy_price_krw": 198.0,
+      "last_price_krw": 198.0,
+      "value_krw": 441129.4939845087,
+      "thesis": "대금은 작아도 종가 구조가 가장 예쁘게 남아 있어 5종 분산 안의 품질 continuation 슬롯으로 적합합니다.",
+      "strategy": "clean secondary continuation",
+      "role": "clean secondary continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 9
+    },
+    "VIRTUAL": {
+      "market": "KRW-VIRTUAL",
+      "amount": 483.694620597049,
+      "avg_buy_price_krw": 912.0,
+      "last_price_krw": 912.0,
+      "value_krw": 441129.4939845087,
+      "thesis": "Virtuals의 CCIP 이전 보안 강화 뉴스가 겹친 상태에서 87.9% 위치를 지켜, 이번 회차의 가장 읽기 쉬운 품질형 survivor입니다.",
+      "strategy": "quality reclaim survivor",
+      "role": "quality reclaim survivor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8
+    },
+    "KAITO": {
+      "market": "KRW-KAITO",
+      "amount": 574.3873619589957,
+      "avg_buy_price_krw": 768.0,
+      "last_price_krw": 768.0,
+      "value_krw": 441129.4939845087,
+      "thesis": "토큰 unlock 부담은 있지만 현재 업비트 구조 자체는 살아 있어, 한 개 정도의 attention continuation 슬롯으로는 허용 가능합니다.",
+      "strategy": "attention continuation slot",
+      "role": "attention continuation slot",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 9
+    },
+    "WCT": {
+      "market": "KRW-WCT",
+      "amount": 6221.854640120009,
+      "avg_buy_price_krw": 70.9,
+      "last_price_krw": 70.9,
+      "value_krw": 441129.4939845087,
+      "thesis": "fresh 부족 장세에서 WalletConnect는 과열감이 덜하고 day-high gap도 얕아 5번째 슬롯 품질이 무난합니다.",
+      "strategy": "mid-cap continuation filler",
+      "role": "mid-cap continuation filler",
       "risk_limit_pct": 5,
       "profit_take_pct": 8
     }
   },
   "watchlist": [
     {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "21,930원, +0.41%, 78.2% 위치, 22.1억원. 더 안전한 대체 continuation 후보."
+      "symbol": "HYPER",
+      "market": "KRW-HYPER",
+      "reason": "122원, +5.17%, 60.0% 위치, 30.5억원. 5번째 슬롯 대체 후보."
     },
     {
-      "symbol": "MOVE",
-      "market": "KRW-MOVE",
-      "reason": "17.8원, +1.14%, 57.1% 위치, 41.5억원. breadth 회복 시 5번째 슬롯 승격 후보."
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "23.8원, +0.42%, 77.8% 위치, 21.7억원. 저가 continuation 보조 후보."
     },
     {
-      "symbol": "ZKP",
-      "market": "KRW-ZKP",
-      "reason": "87.4원, +0.69%, 56.7% 위치, 36.8억원. 보조 reclaim 후보."
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "reason": "1,236원, +2.23%, 48.4% 위치, 532.3억원. 대금은 압도적이지만 상단 재장악 전까진 보류."
     },
     {
-      "symbol": "AERGO",
-      "market": "KRW-AERGO",
-      "reason": "51.4원, +5.98%, 43.2% 위치지만 고점 대비 -8.21%라 fade 경계."
+      "symbol": "TRUST",
+      "market": "KRW-TRUST",
+      "reason": "84.7원, +8.87%, 43.0% 위치, -11.12% gap. 상승률은 크지만 구조는 피로."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "538원, -2.71%, 33.3% 위치, 471.6억원. 메가 대금이지만 trap 유지."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "930원, -4.22%, 31.8% 위치, 1247.8억원. mega turnover trap, 60%+ 재탈환 전 금지."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "336원, -5.08%, 28.6% 위치, 1515.1억원. 최대 turnover trap이라 반등 전 금지."
+      "symbol": "TRX",
+      "market": "KRW-TRX",
+      "reason": "489원, +1.03%, 100% 위치, 29.4억원. 준메이저 성격이라 참고용 고위치 대안."
     }
   ],
   "history": [
@@ -8715,6 +8715,96 @@
       "amount_delta": 2341.851715689665,
       "cash_delta_krw": -449635.5294124157,
       "reason": "ZBT는 192원, +2.13%, 24h 대금 40.1억원, 위치 84.6%로 조용한 보조 survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 930.0,
+      "amount_delta": -450.988494897107,
+      "cash_delta_krw": 419419.3002543095,
+      "reason": "31.8% 위치와 -4.22%로 mega turnover trap이 확인돼 VIRTUAL로 교체"
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "TRUST",
+      "action": "SELL",
+      "price_krw": 84.7,
+      "amount_delta": -5204.114923754811,
+      "cash_delta_krw": 440788.5340420325,
+      "reason": "+8.87%여도 43.0% 위치·-11.12% gap로 exhausted rebound 성격이 강해 KAITO로 교체"
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "MET2",
+      "action": "SELL",
+      "price_krw": 196.0,
+      "amount_delta": -2270.8865121839176,
+      "cash_delta_krw": 445093.7563880478,
+      "reason": "핵심 리더는 유지하되 21:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "BLEND",
+      "action": "SELL",
+      "price_krw": 91.8,
+      "amount_delta": -4602.206032880406,
+      "cash_delta_krw": 422482.5138184213,
+      "reason": "39.8% 위치와 -10.87% gap로 구조가 훼손돼 WCT로 교체"
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "SELL",
+      "price_krw": 198.0,
+      "amount_delta": -2341.851715689665,
+      "cash_delta_krw": 463686.63970655366,
+      "reason": "고위치 유지 코어는 유지하되 21:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "MET2",
+      "action": "BUY",
+      "price_krw": 196.0,
+      "amount_delta": 2250.660683594432,
+      "cash_delta_krw": -441129.4939845087,
+      "reason": "MET2는 196원, +21.74%, 24h 대금 198.6억원, 위치 77.8%로 현재 보드에서 가장 강한 실전 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 198.0,
+      "amount_delta": 2227.9267372954982,
+      "cash_delta_krw": -441129.4939845087,
+      "reason": "ZBT는 198원, +5.32%, 24h 대금 32.1억원, 위치 100%로 고점 붙들기가 가장 깔끔합니다."
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 912.0,
+      "amount_delta": 483.694620597049,
+      "cash_delta_krw": -441129.4939845087,
+      "reason": "VIRTUAL은 912원, +0.66%, 24h 대금 58.8억원, 위치 87.9%로 약한 장에서도 상단을 지키는 품질 회복주입니다."
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "BUY",
+      "price_krw": 768.0,
+      "amount_delta": 574.3873619589957,
+      "cash_delta_krw": -441129.4939845087,
+      "reason": "KAITO는 768원, +7.11%, 24h 대금 34.3억원, 위치 74.3%로 fresh는 아니지만 상단 유지가 양호합니다."
+    },
+    {
+      "timestamp": "2026-06-19T21:58:00+09:00",
+      "symbol": "WCT",
+      "action": "BUY",
+      "price_krw": 70.9,
+      "amount_delta": 6221.854640120009,
+      "cash_delta_krw": -441129.4939845087,
+      "reason": "WCT는 70.9원, +4.88%, 24h 대금 26.0억원, 위치 67.2%로 무리하지 않은 continuation 구조가 남아 있습니다."
     }
   ]
 }
