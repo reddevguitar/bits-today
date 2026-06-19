@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 914893.3333901372,
-  "realized_pnl_krw": -6964844.765484345,
-  "last_valuation_krw": 3049644.4446337903,
-  "last_action": "ROTATE_70_XLM_BIO_JTO_PROS_MEGA",
-  "last_updated": "2026-06-19T03:58:00+09:00",
-  "trade_count": 937,
+  "cash_krw": 749392.5490206927,
+  "realized_pnl_krw": -7016919.014035364,
+  "last_valuation_krw": 2997570.1960827713,
+  "last_action": "RESET_75_WLD_TRUST_MET2_BLEND_ZBT",
+  "last_updated": "2026-06-19T15:58:00+09:00",
+  "trade_count": 957,
   "positions": {
-    "XLM": {
-      "market": "KRW-XLM",
-      "amount": 1216.382399569033,
-      "avg_buy_price_krw": 351.0,
-      "last_price_krw": 351.0,
-      "value_krw": 426950.2222487306,
-      "thesis": "DTCC-Stellar 토큰화 연결 기대가 밤사이 식었어도, 새벽 보드에서 마지막까지 남은 메가 유동성 코어는 XLM입니다.",
-      "strategy": "mega-liquidity salvage core",
-      "role": "mega-liquidity salvage core",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 8
+    "WLD": {
+      "market": "KRW-WLD",
+      "amount": 450.988494897107,
+      "avg_buy_price_krw": 997.0,
+      "last_price_krw": 997.0,
+      "value_krw": 449635.5294124157,
+      "thesis": "Sam Altman/OpenAI 연상 attention은 흔들려도 업비트에서는 WLD만 90.9% 위치와 약 994.1억원 대금을 동시에 지켜 메가 코어 자격을 유지합니다.",
+      "strategy": "fresh mega-liquidity anchor",
+      "role": "fresh mega-liquidity anchor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 7
     },
-    "BIO": {
-      "market": "KRW-BIO",
-      "amount": 7720.6188471741525,
-      "avg_buy_price_krw": 55.3,
-      "last_price_krw": 55.3,
-      "value_krw": 426950.2222487306,
-      "thesis": "메가 대금주가 무너질 때 중형 생존주 한 자리를 BIO가 가장 무난하게 채웁니다.",
-      "strategy": "mid-cap survivor",
-      "role": "mid-cap survivor",
+    "TRUST": {
+      "market": "KRW-TRUST",
+      "amount": 5204.114923754811,
+      "avg_buy_price_krw": 86.4,
+      "last_price_krw": 86.4,
+      "value_krw": 449635.5294124157,
+      "thesis": "TRUST는 장중 흔들림에도 +11.05%와 70.8% 위치를 유지해 약세장 생존 continuation 슬롯으로 적합합니다.",
+      "strategy": "surviving mid-cap continuation",
+      "role": "surviving mid-cap continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 9
     },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 394.9585774733863,
-      "avg_buy_price_krw": 1081.0,
-      "last_price_krw": 1081.0,
-      "value_krw": 426950.2222487306,
-      "thesis": "JTX/바이백 기대가 과열 구간은 지났어도, 새벽 보드에선 JTO가 가장 읽기 쉬운 continuation 축입니다.",
-      "strategy": "solana continuation survivor",
-      "role": "solana continuation survivor",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8
-    },
-    "PROS": {
-      "market": "KRW-PROS",
-      "amount": 454.2023640943942,
-      "avg_buy_price_krw": 940.0,
-      "last_price_krw": 940.0,
-      "value_krw": 426950.2222487306,
-      "thesis": "메이저가 붕괴한 구간에서는 70%대 fresh continuation 하나를 꼭 섞는 편이 공격성과 효율이 좋습니다.",
-      "strategy": "fresh mid-cap continuation leader",
-      "role": "fresh mid-cap continuation leader",
+    "MET2": {
+      "market": "KRW-MET2",
+      "amount": 2270.8865121839176,
+      "avg_buy_price_krw": 198.0,
+      "last_price_krw": 198.0,
+      "value_krw": 449635.5294124157,
+      "thesis": "Meteora는 오늘 보드에서 가장 신선한 강세 대안으로, 약한 구보유분을 대체할 새 베타 축입니다.",
+      "strategy": "new high-beta rotation leader",
+      "role": "new high-beta rotation leader",
       "risk_limit_pct": 6,
       "profit_take_pct": 12
     },
-    "MEGA": {
-      "market": "KRW-MEGA",
-      "amount": 4585.93149568991,
-      "avg_buy_price_krw": 93.1,
-      "last_price_krw": 93.1,
-      "value_krw": 426950.2222487306,
-      "thesis": "메이저 붕괴장에서도 1개 정도의 고베타 슬롯은 유지하되, 코어가 아니라 5번째 슬롯으로만 제한합니다.",
-      "strategy": "high-beta turnover slot",
-      "role": "high-beta turnover slot",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 14
+    "BLEND": {
+      "market": "KRW-BLEND",
+      "amount": 4602.206032880406,
+      "avg_buy_price_krw": 97.7,
+      "last_price_krw": 97.7,
+      "value_krw": 449635.5294124157,
+      "thesis": "BLEND는 고점 대비 밀렸지만 여전히 +15.76%와 156.3억원 대금이 남아 있어 완전 붕괴 전의 잔존 베타 슬롯 가치가 있습니다.",
+      "strategy": "residual momentum beta",
+      "role": "residual momentum beta",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 12
+    },
+    "ZBT": {
+      "market": "KRW-ZBT",
+      "amount": 2341.851715689665,
+      "avg_buy_price_krw": 192.0,
+      "last_price_krw": 192.0,
+      "value_krw": 449635.5294124157,
+      "thesis": "ZBT는 체급은 작지만 84.6% 위치와 얕은 고점 괴리로 약세장 보조 생존 슬롯에 적합합니다.",
+      "strategy": "secondary stability survivor",
+      "role": "secondary stability survivor",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 8
     }
   },
   "watchlist": [
     {
+      "symbol": "VVV",
+      "market": "KRW-VVV",
+      "reason": "21,930원, +0.41%, 78.2% 위치, 22.1억원. 더 안전한 대체 continuation 후보."
+    },
+    {
+      "symbol": "MOVE",
+      "market": "KRW-MOVE",
+      "reason": "17.8원, +1.14%, 57.1% 위치, 41.5억원. breadth 회복 시 5번째 슬롯 승격 후보."
+    },
+    {
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "87.4원, +0.69%, 56.7% 위치, 36.8억원. 보조 reclaim 후보."
+    },
+    {
+      "symbol": "AERGO",
+      "market": "KRW-AERGO",
+      "reason": "51.4원, +5.98%, 43.2% 위치지만 고점 대비 -8.21%라 fade 경계."
+    },
+    {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "532원, -3.45%, 위치 2.4%로 무너졌지만 550원대 재회복이면 재평가 가능."
+      "reason": "538원, -2.71%, 33.3% 위치, 471.6억원. 메가 대금이지만 trap 유지."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "3,290원, -0.06%, 대금 208.4억원으로 체급은 살아 있어 반등 확인용."
-    },
-    {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "53.2원, +3.30%, 위치 35.5%로 MEGA 대체 1순위 감시."
-    },
-    {
-      "symbol": "KERNEL",
-      "market": "KRW-KERNEL",
-      "reason": "87.4원, +3.68%, 대금 108.2억원이지만 상단 회복은 더 필요."
-    },
-    {
-      "symbol": "TRUST",
-      "market": "KRW-TRUST",
-      "reason": "76.7원, +2.82%이나 고점 대비 되밀림이 커 추격 금지."
-    },
-    {
-      "symbol": "PROVE",
-      "market": "KRW-PROVE",
-      "reason": "321.0원, +3.88%, 위치 61.9%지만 대금이 약해 보조 후보만 유지."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "336원, -5.08%, 28.6% 위치, 1515.1억원. 최대 turnover trap이라 반등 전 금지."
     }
   ],
   "history": [
@@ -8535,6 +8535,186 @@
       "amount_delta": 4585.93149568991,
       "cash_delta_krw": -426950.2222487306,
       "reason": "MEGA는 93.1원, +8.13%, 24h 대금 516.0억원으로 베타 자금은 아직 남아 있습니다."
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 351.0,
+      "amount_delta": -1216.382399569033,
+      "cash_delta_krw": 426950.22224873054,
+      "reason": "메이저 반등 + fresh breakout 복귀를 반영해 09:58 가격 기준 90% 동일비중 공격 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "BIO",
+      "action": "SELL",
+      "price_krw": 56.2,
+      "amount_delta": -7720.6188471741525,
+      "cash_delta_krw": 433898.7792111874,
+      "reason": "메이저 반등 + fresh breakout 복귀를 반영해 09:58 가격 기준 90% 동일비중 공격 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1146.0,
+      "amount_delta": -394.9585774733863,
+      "cash_delta_krw": 452622.5297845007,
+      "reason": "메이저 반등 + fresh breakout 복귀를 반영해 09:58 가격 기준 90% 동일비중 공격 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "PROS",
+      "action": "SELL",
+      "price_krw": 880.0,
+      "amount_delta": -454.2023640943942,
+      "cash_delta_krw": 399698.08040306694,
+      "reason": "메이저 반등 + fresh breakout 복귀를 반영해 09:58 가격 기준 90% 동일비중 공격 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 91.9,
+      "amount_delta": -4585.93149568991,
+      "cash_delta_krw": 421447.10445390275,
+      "reason": "메이저 반등 + fresh breakout 복귀를 반영해 09:58 가격 기준 90% 동일비중 공격 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 996.0,
+      "amount_delta": 551.1162740044927,
+      "cash_delta_krw": -548911.8089084746,
+      "reason": "OpenAI·Sam Altman attention과 81.1% 위치가 겹친 mega attention reclaim 코어로 신규 편입"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "TRUST",
+      "action": "BUY",
+      "price_krw": 84.4,
+      "amount_delta": 6503.694418346855,
+      "cash_delta_krw": -548911.8089084746,
+      "reason": "84.4원·+8.48%·88.5% 위치의 fresh continuation으로 BIO보다 공격성 상향"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1146.0,
+      "amount_delta": 478.98063604578937,
+      "cash_delta_krw": -548911.8089084746,
+      "reason": "JTX 서사와 97.6% 위치가 유지돼 continuation 코어를 90% 바스켓 가격으로 재편"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "CHIP",
+      "action": "BUY",
+      "price_krw": 56.2,
+      "amount_delta": 9767.114037517342,
+      "cash_delta_krw": -548911.8089084746,
+      "reason": "94.7% 위치·104.8억원 대금의 fresh breakout이라 PROS 대체 신규 편입"
+    },
+    {
+      "timestamp": "2026-06-19T09:58:00+09:00",
+      "symbol": "BLEND",
+      "action": "BUY",
+      "price_krw": 97.5,
+      "amount_delta": 5629.864706753586,
+      "cash_delta_krw": -548911.8089084746,
+      "reason": "15.52% 상승·98.5% 위치의 최고 모멘텀 breakout이라 MEGA 대체 신규 편입"
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 997.0,
+      "amount_delta": -551.1162740044927,
+      "cash_delta_krw": 549462.9251824792,
+      "reason": "메이저 평균 급락과 held breakout 2종 무효화가 동시에 발생해 75% shock-reset 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "TRUST",
+      "action": "SELL",
+      "price_krw": 86.4,
+      "amount_delta": -6503.694418346855,
+      "cash_delta_krw": 561919.1977451683,
+      "reason": "메이저 평균 급락과 held breakout 2종 무효화가 동시에 발생해 75% shock-reset 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1064.0,
+      "amount_delta": -478.98063604578937,
+      "cash_delta_krw": 509635.3967527199,
+      "reason": "메이저 평균 급락과 held breakout 2종 무효화가 동시에 발생해 75% shock-reset 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "CHIP",
+      "action": "SELL",
+      "price_krw": 53.4,
+      "amount_delta": -9767.114037517342,
+      "cash_delta_krw": 521563.88960342604,
+      "reason": "메이저 평균 급락과 held breakout 2종 무효화가 동시에 발생해 75% shock-reset 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "BLEND",
+      "action": "SELL",
+      "price_krw": 97.7,
+      "amount_delta": -5629.864706753586,
+      "cash_delta_krw": 550037.7818498253,
+      "reason": "메이저 평균 급락과 held breakout 2종 무효화가 동시에 발생해 75% shock-reset 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 997.0,
+      "amount_delta": 450.988494897107,
+      "cash_delta_krw": -449635.5294124157,
+      "reason": "WLD는 997원, +2.68%, 24h 대금 994.1억원, 위치 90.9%로 레짐 악화 속에서도 유일한 fresh mega leader입니다."
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "TRUST",
+      "action": "BUY",
+      "price_krw": 86.4,
+      "amount_delta": 5204.114923754811,
+      "cash_delta_krw": -449635.5294124157,
+      "reason": "TRUST는 86.4원, +11.05%, 24h 대금 218.0억원, 위치 70.8%로 상단 유지가 아직 살아 있습니다."
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "MET2",
+      "action": "BUY",
+      "price_krw": 198.0,
+      "amount_delta": 2270.8865121839176,
+      "cash_delta_krw": -449635.5294124157,
+      "reason": "MET2는 198원, +22.98%, 24h 대금 117.8억원, 위치 82.2%로 새 회전 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "BLEND",
+      "action": "BUY",
+      "price_krw": 97.7,
+      "amount_delta": 4602.206032880406,
+      "cash_delta_krw": -449635.5294124157,
+      "reason": "BLEND는 97.7원, +15.76%, 24h 대금 156.3억원, 위치 71.5%로 고점 이탈 후에도 플러스 생존입니다."
+    },
+    {
+      "timestamp": "2026-06-19T15:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 192.0,
+      "amount_delta": 2341.851715689665,
+      "cash_delta_krw": -449635.5294124157,
+      "reason": "ZBT는 192원, +2.13%, 24h 대금 40.1억원, 위치 84.6%로 조용한 보조 survivor입니다."
     }
   ]
 }

@@ -78,6 +78,7 @@ ICONS = {
     'META': '🏛️',
     'VVV': '🕶️',
     'SUI': '🌊',
+    'SPX': '💥',
     'TAO': '🧠',
     'SLX': '🌞',
     'IRYS': '🪻',
@@ -280,6 +281,15 @@ market_breadth = {
     'leader_concentration_warning': 'high' if leader_turnover_share >= 45 else ('moderate' if leader_turnover_share >= 35 else 'low')
 }
 scenario_view = build_scenario_view(strategy, market_breadth, preferred_setup_quality)
+leadership_health_snapshot = snapshot.get('leadership_health', {}) or {}
+major_delta_snapshot = snapshot.get('major_delta', {}) or {}
+regime_shift_alert = {
+    'active': bool((major_delta_snapshot.get('major_avg_range_position_pct_delta') or 0) <= -20 or leadership_health_snapshot.get('weak_breadth_warning')),
+    'major_avg_delta_pct': major_delta_snapshot.get('major_avg_range_position_pct_delta'),
+    'top15_positive_count': leadership_health_snapshot.get('top15_alt_positive_count'),
+    'top15_low_range_count': leadership_health_snapshot.get('top15_alt_low_range_count'),
+    'summary': '메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태' if bool((major_delta_snapshot.get('major_avg_range_position_pct_delta') or 0) <= -20 or leadership_health_snapshot.get('weak_breadth_warning')) else '급격한 레짐 붕괴 경고는 아직 없음'
+}
 
 risk_exit_rules = []
 if risk_plan.get('review_trigger'):
@@ -422,6 +432,7 @@ status = {
     'snapshot_major_delta': snapshot.get('major_delta', {}),
     'snapshot_breakout_breadth': snapshot.get('breakout_breadth', {}),
     'scenario_view': scenario_view,
+    'regime_shift_alert': regime_shift_alert,
     'preferred_setup_quality': preferred_setup_quality,
     'selection_checks': selection_checks,
     'discipline_alerts': discipline_alerts,
