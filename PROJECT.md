@@ -124,3 +124,5 @@ The dashboard should evolve toward a compact portal experience:
 - When major average range-position rebounds from roughly the teens into the 30s within one cycle but fresh breakouts stay at 0, force the next cycle to replace sub-40% stalled survivors with at least 2 clean 75%+ continuation names, 2 liquid 50%+ survivors/reclaims, and at most 1 mid-cap beta slot instead of defending the earlier defensive reset.
 
 - When major average range-position rebounds above roughly 60 and at least 3 non-major alts simultaneously hold 80%+ of the day range with real multi-10B KRW turnover, force at least 2 of 5 preferred picks into those mega-liquidity reclaim leaders and allow paper deployment toward roughly 90% instead of staying stuck in the prior 70-80% survivor basket.
+
+- When major average range-position cools into roughly 60-75 after a prior breadth surge but 4개 이상 비메이저 알트가 여전히 70%+ range-position과 실거래대금을 유지하면, 45% 미만으로 식은 기존 보유 슬롯을 방치하지 말고 상단 continuation/reclaim 군으로 즉시 교체하며 paper deployment는 대체로 85-90%를 유지한다.
