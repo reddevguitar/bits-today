@@ -1,63 +1,63 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-20 03:58 KST
-- 기준 한줄: **메이저 평균 위치 54.7%까지 추가 반등**, 하지만 **fresh breakout 0**입니다. **ZBT·KAITO 제거**, **MET2·WCT·JTO·VIRTUAL·SLX 75% 재편**이 맞습니다.
-- 시장 한줄 요약: BTC는 72.5% 위치까지 회복했지만 업비트 톱15 비메이저 양봉은 아직 **5개뿐**입니다. 지금은 **rebound 추격보다 clean continuation 선별**이 우선입니다.
-- 공포탐욕지수: 14 (Extreme Fear)
-- BTC 참고: BTC 95.302M원 / ETH 2.570M원 / XRP 1,708원 / SOL 104.3K원
+- 시각: 2026-06-20 09:58 KST
+- 기준 한줄: **메이저 평균 위치 35.7%로 재후퇴**, **fresh breakout 0**, **톱15 비메이저 양봉 3개**뿐입니다. **WCT·JTO·VIRTUAL 정리**, **MET2·IP·SLX·ADA·CFG 70% 재편**이 맞습니다.
+- 시장 한줄 요약: 초대금은 많지만 살아있는 양수 구조는 얇습니다. 지금은 **대금 함정 회피 + 양수 생존주 5개 유지**가 우선입니다.
+- 공포탐욕지수: **23 (Extreme Fear)**
+- BTC 참고: **BTC 96.113M원 / ETH 2.586M원 / XRP 1,721원 / SOL 105.5K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🧱 **MET2** — 207원 / **+28.57%** / 310.7억원 / 위치 74.2% / high-beta leader
-- 🔗 **WCT** — 79.4원 / **+17.46%** / 111.1억원 / 위치 71.1% / liquid continuation
-- 🪂 **JTO** — 1,128원 / **+0.36%** / 176.3억원 / 위치 70.8% / catalyst continuation
-- 🤖 **VIRTUAL** — 922원 / **+1.77%** / 70.0억원 / 위치 78.0% / quality AI survivor
-- 🌞 **SLX** — 240원 / **+2.56%** / 41.9억원 / 위치 83.3% / clean continuation
+- 🧱 **MET2** — 231원 / **+12.14%** / 429.9억원 / 위치 64.4% / 대금 리더
+- 📚 **IP** — 465원 / **+1.31%** / 93.9억원 / 위치 61.1% / 유동성 continuation
+- 🌞 **SLX** — 256원 / **+1.59%** / 41.8억원 / 위치 85.7% / clean continuation
+- 🛡️ **ADA** — 247원 / **+0.41%** / 51.5억원 / 위치 66.7% / 대형 생존주
+- 🎯 **CFG** — 361원 / **+0.28%** / 26.6억원 / 위치 100% / micro breakout
 
 ## 제외된 메이저 참고 신호
-- BTC 72.5% 위치 / ETH 57.4% / XRP 34.7% / SOL 54.3%
-- 메이저 평균 **54.7% 위치**, 직전 회차 대비 **+12.1p 개선**
-- 다만 **fresh breakout 0 / top15 양봉 5개 / weak breadth 유지**
+- BTC 41.9% 위치 / ETH 25.0% / XRP 38.5% / SOL 37.5%
+- 메이저 평균 **35.7% 위치**, 직전 대비 **-19.0p 악화**
+- **fresh breakout 0 / top15 양봉 3개 / low-range 13개**
 
 ## 공격 포트폴리오 전략
-- 실투입: **75%**, 5종 **동일비중**
-- 타깃: 각 약 **44.69만원**
-- 현금: 약 **74.48만원 (25%)**
-- 핵심 논리: **sub-30% 붕괴 보유주 제거 + 70%대 상단 유지 5종으로 재편**
+- 실투입: **70%**, 5종 **동일비중**
+- 타깃: 각 약 **42.76만원**
+- 현금: 약 **91.63만원 (30%)**
+- 핵심 논리: **깨진 기존 보유주 정리 + all-positive 생존 바스켓 전환**
 
 ## 가상 매매 실행 내용
-- SELL **MET2 / ZBT / VIRTUAL / KAITO / WCT**
-- BUY **MET2 / WCT / JTO / VIRTUAL / SLX**
-- 마지막 액션: **RESET_75_MET2_WCT_JTO_VIRTUAL_SLX**
+- SELL **MET2 / WCT / JTO / VIRTUAL / SLX**
+- BUY **MET2 / IP / SLX / ADA / CFG**
+- 마지막 액션: **RESET_70_MET2_IP_SLX_ADA_CFG**
 
 ## 현재 포트폴리오 현황
-- MET2 2158.9685개 @ 207원
-- WCT 5628.5451개 @ 79.4원
-- JTO 396.1937개 @ 1,128원
-- VIRTUAL 484.7142개 @ 922원
-- SLX 1862.1103개 @ 240원
-- 현금 744,844.1원 / 총평가 2,979,376.5원
+- MET2 **1851.0837개 @ 231원**
+- IP **919.5706개 @ 465원**
+- SLX **1670.3138개 @ 256원**
+- ADA **1731.1754개 @ 247원**
+- CFG **1184.4884개 @ 361원**
+- 현금 **916,286.4원** / 총평가 **3,054,288.1원**
 
 ## 자기 평가
-- 장점: **ZBT·KAITO의 구조 붕괴를 인정하고 즉시 교체했습니다.**
-- 아쉬움: **직전 회차 ZBT·KAITO를 한 사이클 더 강하게 의심했어야 했습니다.**
-- 점수: **8.9 / 10**
+- 장점: **양봉 3개뿐인 얇은 breadth를 인정하고 broken hold를 정리했습니다.**
+- 아쉬움: **직전 회차 WCT·JTO·VIRTUAL의 동시 약화를 한 박자 더 빨리 반영했어야 했습니다.**
+- 점수: **9.1 / 10**
 
 ## 이번 사이클 개선점
-- dashboard status에 **rotation_pressure** 추가
-- **30% 안팎 붕괴 보유주 즉시 교체** 규율 강화
-- watchlist를 **upgrade 후보 / mega-turnover trap 감시**로 더 명확히 정리
+- ✅ **PROJECT.md에 'top15 양봉 3개 이하 + 보유 3개 이상 sub-30%면 70% all-positive 재편' 규칙 추가**
+- ✅ 리포트 문구를 **"양수 생존 5개"** 중심으로 더 명확히 정리
+- ✅ watchlist를 **breakout 대기군 / turnover trap 감시군** 시각으로 재정리
 
 ## 판단
-- majors-rebounding-but-fresh-zero / selective aggressive continuation
+- thin-breadth-survivor-mode / selective aggressive 70%
 
 ## 신뢰도
-- medium
+- **medium**
 
 ## 추천 행동
-- **MET2·WCT를 공격 코어**, **JTO·VIRTUAL·SLX를 품질 continuation**로 운용
-- **MET2 198 / WCT 75.5 / JTO 1,100 / VIRTUAL 910 / SLX 233** 하회 시 즉시 재평가
+- **MET2를 리더**, **IP·SLX를 continuation**, **ADA를 균형축**, **CFG를 소형 실험 슬롯**으로 운용
+- **MET2 223 / IP 459 / SLX 252 / ADA 245 / CFG 357** 하회 시 즉시 재평가
 
 ## 리스크 메모
-- **fresh breakout 0**이라 85% 이상 재확대는 아직 이릅니다
-- **WCT unlock 여진**, **JTO 촉매 둔화**, **MET2 day-high gap 확대**를 경계해야 합니다
-- **RE·WLD·XLM mega turnover trap 재진입 금지**
+- **fresh breakout 0**이라 75% 초과 재확대는 아직 이릅니다
+- **MET2 high-gap -6.48%**, **CFG 저대금**, **RE·WLD 초대금 trap**을 경계해야 합니다
+- **WCT·JTO·VIRTUAL 재진입은 60%+ 구조 회복 전 금지**

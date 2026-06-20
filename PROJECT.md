@@ -107,6 +107,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When major average range-position rebounds above roughly 60 while a held mega-turnover salvage core remains negative and below roughly 35% of the day range, force that salvage slot out next cycle and rotate into a positive 80%+ leader with real turnover instead of defending old liquidity.
 
+- When top15 non-major positives shrink to 3 or fewer while 3개 이상 current holdings simultaneously sit below roughly 30% of the day range, force the next cycle to rebuild around 5 all-positive names where possible, cap deployment around 70%, and prefer cleaner mid-turnover survivors over larger turnover traps.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
