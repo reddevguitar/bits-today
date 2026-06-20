@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 916286.4221596862,
-  "realized_pnl_krw": -6960201.136252514,
-  "last_valuation_krw": 3054288.073865621,
-  "last_action": "RESET_70_MET2_IP_SLX_ADA_CFG",
-  "last_updated": "2026-06-20T09:58:00+09:00",
-  "trade_count": 987,
+  "cash_krw": 306632.60510820616,
+  "realized_pnl_krw": -6947763.159036075,
+  "last_valuation_krw": 3066326.05108206,
+  "last_action": "RESET_90_ENSO_SLX_RE_ADA_AERO",
+  "last_updated": "2026-06-20T15:58:00+09:00",
+  "trade_count": 997,
   "positions": {
-    "MET2": {
-      "market": "KRW-MET2",
-      "amount": 1851.0836811306795,
-      "avg_buy_price_krw": 231.0,
-      "last_price_krw": 231.0,
-      "value_krw": 427600.33034118696,
-      "thesis": "headline 리스크는 남아도 현재 업비트 보드에서 대금·수익률·중상단 위치를 동시에 유지한 핵심 베타 축입니다.",
-      "strategy": "primary leader salvage",
-      "role": "primary leader salvage",
+    "ENSO": {
+      "market": "KRW-ENSO",
+      "amount": 563.7770063276516,
+      "avg_buy_price_krw": 979.0,
+      "last_price_krw": 979.0,
+      "value_krw": 551938.6891947709,
+      "thesis": "메이저 동반 반등 구간에서 90%대 상단 유지와 실거래대금이 겹치는 이름은 우선 코어로 잡아야 합니다.",
+      "strategy": "fresh breakout core",
+      "role": "fresh breakout core",
       "risk_limit_pct": 4,
       "profit_take_pct": 10
     },
-    "IP": {
-      "market": "KRW-IP",
-      "amount": 919.5706028842731,
-      "avg_buy_price_krw": 465.0,
-      "last_price_krw": 465.0,
-      "value_krw": 427600.33034118696,
-      "thesis": "외부 보도 기준 초기 unlock 부담이 8월로 밀린 해석이 있어 단기 공급 리스크가 상대적으로 덜합니다.",
-      "strategy": "liquid narrative continuation",
-      "role": "liquid narrative continuation",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 7
-    },
     "SLX": {
       "market": "KRW-SLX",
-      "amount": 1670.3137903952615,
-      "avg_buy_price_krw": 256.0,
-      "last_price_krw": 256.0,
-      "value_krw": 427600.33034118696,
-      "thesis": "fresh 0 장세에서 80%대 후반 위치와 얕은 high gap은 희소한 장점입니다.",
-      "strategy": "clean secondary continuation",
-      "role": "clean secondary continuation",
-      "risk_limit_pct": 3,
-      "profit_take_pct": 7
+      "amount": 1957.2293943076982,
+      "avg_buy_price_krw": 282.0,
+      "last_price_krw": 282.0,
+      "value_krw": 551938.6891947709,
+      "thesis": "직전 회차 보유 정당성이 살아 있었고, 이번에는 실제 수익률과 유동성이 함께 확장됐습니다.",
+      "strategy": "beta continuation leader",
+      "role": "beta continuation leader",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 10
+    },
+    "RE": {
+      "market": "KRW-RE",
+      "amount": 407.3355647186505,
+      "avg_buy_price_krw": 1355.0,
+      "last_price_krw": 1355.0,
+      "value_krw": 551938.6891947709,
+      "thesis": "고점 대비 gap은 남았지만 메이저 평균 80%대 회복 구간에서는 초대금 reclaim 1개를 동행시키는 편이 공격 기대값이 높습니다.",
+      "strategy": "mega-turnover reclaim",
+      "role": "mega-turnover reclaim",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8
     },
     "ADA": {
       "market": "KRW-ADA",
-      "amount": 1731.1754264825383,
-      "avg_buy_price_krw": 247.0,
-      "last_price_krw": 247.0,
-      "value_krw": 427600.33034118696,
-      "thesis": "얇은 breadth에서 고베타만 담기보다 안정적 대형 생존주 1개를 섞는 편이 기대값이 낫습니다.",
-      "strategy": "large-cap survivor",
-      "role": "large-cap survivor",
+      "amount": 2225.5592306240765,
+      "avg_buy_price_krw": 248.0,
+      "last_price_krw": 248.0,
+      "value_krw": 551938.6891947709,
+      "thesis": "이번 회차는 완전 소형주 바스켓보다 대형 생존주 1개를 섞는 편이 기대값이 더 좋습니다.",
+      "strategy": "large-cap balance survivor",
+      "role": "large-cap balance survivor",
       "risk_limit_pct": 2,
       "profit_take_pct": 5
     },
-    "CFG": {
-      "market": "KRW-CFG",
-      "amount": 1184.4884496985787,
-      "avg_buy_price_krw": 361.0,
-      "last_price_krw": 361.0,
-      "value_krw": 427600.33034118696,
-      "thesis": "대금은 작아도 100% 위치·0% gap 조합이 매우 깨끗해 마지막 공격 슬롯으로 채택합니다.",
-      "strategy": "micro clean breakout",
-      "role": "micro clean breakout",
+    "AERO": {
+      "market": "KRW-AERO",
+      "amount": 745.8630935064472,
+      "avg_buy_price_krw": 740.0,
+      "last_price_krw": 740.0,
+      "value_krw": 551938.6891947709,
+      "thesis": "대형 attention 1개(RE)와 별도로 중형 reclaim 1개를 섞어 베타를 분산하는 구성이 더 낫습니다.",
+      "strategy": "secondary liquidity reclaim",
+      "role": "secondary liquidity reclaim",
       "risk_limit_pct": 3,
-      "profit_take_pct": 6
+      "profit_take_pct": 7
     }
   },
   "watchlist": [
     {
-      "symbol": "AERO",
-      "market": "KRW-AERO",
-      "reason": "733원, +1.10%, 100% 위치, 25.6억원. CFG 대체용 micro-breakout 후보."
+      "symbol": "AAVE",
+      "market": "KRW-AAVE",
+      "reason": "112,900원, +1.53%, 66.7% 위치, 12.0억원. AERO 대체용 품질 방어 슬롯."
     },
     {
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "9.18원, +6.62%, 50.9% 위치, 119.3억원. 대금은 크지만 상단 유지 추가 확인 필요."
+      "symbol": "SIGN",
+      "market": "KRW-SIGN",
+      "reason": "14.1원, +0.71%, 100% 위치, 6.3억원. 대금만 더 붙으면 소형 breakout 승격 가능."
     },
     {
-      "symbol": "AVAX",
-      "market": "KRW-AVAX",
-      "reason": "8,945원, +0.28%, 34.5% 위치, 121.3억원. stalled-liquidity 관찰용."
+      "symbol": "LA",
+      "market": "KRW-LA",
+      "reason": "111원, +0.91%, 75.0% 위치, 6.7억원. micro breakout 감시용."
     },
     {
-      "symbol": "WCT",
-      "market": "KRW-WCT",
-      "reason": "78.1원, +0.13%, 22.2% 위치, 149.0억원. 구조 재회복 전 재진입 금지."
+      "symbol": "MET2",
+      "market": "KRW-MET2",
+      "reason": "220원, +6.80%, 40.0% 위치. 오전 리더였지만 오후에는 위치가 너무 낮아졌습니다."
     },
     {
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "1,316원, -2.52%, 39.8% 위치, 1,957.0억원. mega-turnover trap 감시용."
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "458원, -0.22%, 30.0% 위치. 안정성은 남아도 이번 회차 공격성 경쟁에서 밀립니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "934원, -0.85%, 16.7% 위치, 1,139.9억원. headline 대비 실제 구조 약함."
+      "reason": "914원, -2.97%, 37.5% 위치. 브랜드 attention 대비 실제 follow-through가 약합니다."
     }
   ],
   "history": [
@@ -8985,6 +8985,96 @@
       "amount_delta": 1184.4884496985787,
       "cash_delta_krw": -427600.33034118696,
       "reason": "CFG는 361원, +0.28%, 24h 대금 26.6억원, 100% 위치를 지키는 clean micro-breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "MET2",
+      "action": "SELL",
+      "price_krw": 220.0,
+      "amount_delta": -1851.0836811306795,
+      "cash_delta_krw": 407238.4098487495,
+      "reason": "오전 리더였지만 오후 40% 위치로 밀려 ENSO로 교체"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "IP",
+      "action": "SELL",
+      "price_krw": 458.0,
+      "amount_delta": -919.5706028842731,
+      "cash_delta_krw": 421163.336121797,
+      "reason": "30% 위치와 음전환으로 RE attention reclaim에 자리 양보"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "SLX",
+      "action": "SELL",
+      "price_krw": 282.0,
+      "amount_delta": -1670.3137903952615,
+      "cash_delta_krw": 471028.4888914637,
+      "reason": "핵심 코어는 유지하되 15:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "ADA",
+      "action": "SELL",
+      "price_krw": 248.0,
+      "amount_delta": -1731.1754264825383,
+      "cash_delta_krw": 429331.5057676695,
+      "reason": "균형축은 유지하되 15:58 가격 기준 5종 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "CFG",
+      "action": "SELL",
+      "price_krw": 356.0,
+      "amount_delta": -1184.4884496985787,
+      "cash_delta_krw": 421277.88829269406,
+      "reason": "micro breakout 명분이 사라져 AERO reclaim 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "BUY",
+      "price_krw": 979.0,
+      "amount_delta": 563.7770063276516,
+      "cash_delta_krw": -551938.6891947709,
+      "reason": "93.8% 위치와 +7.94% 강세, 76.3억원 대금이 동행한 이번 오후 fresh breakout 코어"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "SLX",
+      "action": "BUY",
+      "price_krw": 282.0,
+      "amount_delta": 1957.2293943076982,
+      "cash_delta_krw": -551938.6891947709,
+      "reason": "오전 continuation에서 오후 베타 리더로 승격돼 동일비중 재편입"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "RE",
+      "action": "BUY",
+      "price_krw": 1355.0,
+      "amount_delta": 407.3355647186505,
+      "cash_delta_krw": -551938.6891947709,
+      "reason": "2,599.9억원 초대금과 양전환 복귀가 겹친 mega-turnover reclaim 슬롯"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "ADA",
+      "action": "BUY",
+      "price_krw": 248.0,
+      "amount_delta": 2225.5592306240765,
+      "cash_delta_krw": -551938.6891947709,
+      "reason": "메이저 반등장에서도 66.7% 위치를 지키는 대형 균형축이라 재편입"
+    },
+    {
+      "timestamp": "2026-06-20T15:58:00+09:00",
+      "symbol": "AERO",
+      "action": "BUY",
+      "price_krw": 740.0,
+      "amount_delta": 745.8630935064472,
+      "cash_delta_krw": -551938.6891947709,
+      "reason": "31.9억원 대금과 56.4% 위치의 보조 유동성 reclaim 슬롯으로 신규 편입"
     }
   ]
 }

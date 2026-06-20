@@ -109,6 +109,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When top15 non-major positives shrink to 3 or fewer while 3개 이상 current holdings simultaneously sit below roughly 30% of the day range, force the next cycle to rebuild around 5 all-positive names where possible, cap deployment around 70%, and prefer cleaner mid-turnover survivors over larger turnover traps.
 
+- When major average range-position rebounds above roughly 80 within one cycle while 2개 이상 held survivor names are still below roughly 45% of the day range, and at least 1 non-major leader is printing a 90%+ upper-range breakout with real multi-5B KRW turnover, force the next cycle to raise deployment toward roughly 90%, keep at least 1 mega-liquidity reclaim slot, and replace those stale survivors instead of leaving the older 70% defensive basket intact.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
