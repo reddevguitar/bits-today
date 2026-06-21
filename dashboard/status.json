@@ -1,143 +1,147 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive-selective-continuation: 90% deployed, remove broken fresh, keep mega core + 3 high-range alts + 1 balance slot",
-  "confidence": "medium-high",
+  "judgment": "aggressive-rotation-85: remove stalled-liquidity, keep 3 high-range leaders, add 2 liquid continuation balances, leave 15% cash",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-21 04:01 KST",
-  "market_status": "메이저는 아직 안 무너졌지만 breadth가 약해졌습니다. **상장 잔열 추격보다 상단 continuation만 남기는 장**입니다.",
+  "updated_at": "2026-06-21 09:58 KST",
+  "market_status": "메이저는 식었지만 알트 breadth가 완전히 죽진 않았습니다. **대금만 큰 저위치 코어를 버리고 상단 continuation만 남기는 장**입니다.",
   "fear_greed": "**23 (Extreme Fear)**",
-  "btc_snapshot": "**BTC 96.520M원 / ETH 2.610M원 / XRP 1,728원 / SOL 108.5K원**",
-  "cash_krw": "313,098 KRW",
-  "realized_pnl_krw": "-6,814,267 KRW",
-  "last_valuation_krw": "3,130,977 KRW",
+  "btc_snapshot": "**BTC 97.286M원 / ETH 2.631M원 / XRP 1,737원 / SOL 110.8K원**",
+  "cash_krw": "473,999 KRW",
+  "realized_pnl_krw": "-6,785,253 KRW",
+  "last_valuation_krw": "3,159,991 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -68.69,
-  "last_action": "RESET_90_RE_AXS_SAND_MANA_IP",
-  "trade_count": 1017,
-  "last_updated": "2026-06-21T04:01:00+09:00",
+  "return_pct": -68.4,
+  "last_action": "RESET_85_AXS_SAND_MANA_ENSO_JTO",
+  "trade_count": 1027,
+  "last_updated": "2026-06-21T09:58:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 10,
-    "recent_24h_buy_count": 20,
-    "recent_24h_sell_count": 20,
-    "recent_24h_replacement_count": 20,
-    "portfolio_churn_24h_pct": 400.0
+    "recent_trade_actions_24h": 20,
+    "recent_24h_buy_count": 25,
+    "recent_24h_sell_count": 25,
+    "recent_24h_replacement_count": 25,
+    "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "🧲 **RE** — 1,561원 / **+15.63%** / 2,735.8억원 / 위치 84.4% / mega reclaim 코어",
-    "🎮 **AXS** — 1,772원 / **+22.88%** / 888.4억원 / 위치 86.7% / 게임 베타 리더",
-    "🏖️ **SAND** — 94.1원 / **+21.73%** / 436.1억원 / 위치 89.0% / 메타버스 continuation",
-    "🏙️ **MANA** — 122원 / **+20.79%** / 55.5억원 / 위치 95.5% / 고위치 secondary breakout",
-    "📖 **IP** — 478원 / **+4.14%** / 83.1억원 / 위치 65.1% / 균형 continuation",
-    "BTC 56.8% / ETH 48.4% / XRP 45.5% / SOL 75.6%",
-    "메이저 평균 **56.6% 위치**, 4대 메이저 **전부 양전환 유지**",
-    "하지만 top15 알트 저위치 종목이 **8개**라 광범위 추격장은 아님",
-    "실투입: **90%**, 5종 **동일비중**",
-    "타깃: 각 약 **56.36만원**",
-    "현금: 약 **31.31만원 (10%)**",
-    "핵심 논리: **SLX fresh 상실 / AVAX 둔화 제거 → RE 코어 + AXS·SAND·MANA 상단 + IP 균형축**",
-    "SELL **RE / SLX / AXS / SAND / AVAX**",
-    "BUY **RE / AXS / SAND / MANA / IP**",
-    "마지막 액션: **RESET_90_RE_AXS_SAND_MANA_IP**",
-    "RE **361.0351개 @ 1,561원**",
-    "AXS **318.0440개 @ 1,772원**",
-    "SAND **5,989.1159개 @ 94.1원**",
-    "MANA **4,619.4738개 @ 122원**",
-    "IP **1,179.0297개 @ 478원**",
-    "현금 **313,097.7원** / 총평가 **3,130,976.7원**",
-    "장점: **무효화 근처 SLX를 fresh처럼 고집하지 않고 바로 제외했습니다.**",
-    "아쉬움: **RE 집중도와 게임/메타버스 쏠림은 여전히 큽니다.**",
-    "점수: **9.2 / 10**",
-    "✅ **PROJECT.md에 “fresh 0 + old-fresh 무효화 근접 시 continuation 강제 승격” 규칙 추가**",
-    "✅ dashboard 아이콘에 **RE·AVAX·MANA** 등을 추가해 가독성 보강",
-    "✅ 리포트에서 제외 이유를 **fresh 상실 / balance 약화 / turnover trap** 식으로 더 짧게 표기",
-    "aggressive-selective-continuation / aggressive 90%",
-    "**medium-high**",
-    "**RE 코어 유지**, **AXS·SAND 상단 베타 유지**, **MANA 고위치 실험**, **IP 균형 유지**",
-    "**RE 1510 / AXS 1705 / SAND 90.0 / MANA 118 / IP 470** 하회 시 즉시 재평가",
-    "**RE 초대금 집중**이 매우 큼",
-    "**AXS·SAND·MANA**는 테마 동조화가 있어 함께 식을 수 있음",
-    "**fresh breakout 0개** 상태라 late chase 재가속은 조심해야 함",
-    "메이저 평균이 **50% 아래**로 더 밀리면 90% 배치는 줄여야 함"
+    "🎮 **AXS** — 1,904원 / **+7.81%** / 1,112.6억원 / 위치 84.3% / 게임 대장 코어",
+    "🏖️ **SAND** — 94.8원 / **+4.29%** / 512.9억원 / 위치 91.9% / fresh 메타버스 리더",
+    "🏙️ **MANA** — 121원 / **+2.54%** / 66.5억원 / 위치 100.0% / secondary breakout",
+    "🌀 **ENSO** — 1,002원 / **+3.83%** / 166.0억원 / 위치 69.3% / 균형 reclaim",
+    "🪂 **JTO** — 1,028원 / **+1.68%** / 117.1억원 / 위치 76.9% / SOL 베타 continuation",
+    "BTC 45.0% / ETH 44.4% / XRP 20.0% / SOL 66.7%",
+    "메이저 평균 **44.0% 위치**, 4대 메이저 중 **SOL만 양전환**",
+    "top15 비메이저 양수는 **8개**, fresh breakout은 **2개(SAND, DOGE)**",
+    "실투입: **85%**, 5종 **동일비중**",
+    "타깃: 각 약 **53.72만원**",
+    "현금: 약 **47.40만원 (15%)**",
+    "핵심 논리: **RE stalled-liquidity / IP 저위치 이탈 제거 → AXS·SAND·MANA 상단 + ENSO·JTO 분산 보강**",
+    "SELL **RE / AXS / SAND / MANA / IP**",
+    "BUY **AXS / SAND / MANA / ENSO / JTO**",
+    "마지막 액션: **RESET_85_AXS_SAND_MANA_ENSO_JTO**",
+    "AXS **282.1421개 @ 1,904원**",
+    "SAND **5,666.6510개 @ 94.8원**",
+    "MANA **4,439.6571개 @ 121원**",
+    "ENSO **536.1263개 @ 1,002원**",
+    "JTO **522.5666개 @ 1,028원**",
+    "현금 **473,998.7원** / 총평가 **3,159,991.2원**",
+    "장점: **RE처럼 대금이 큰 코어도 26.6% stalled-liquidity가 되면 바로 강등했습니다.**",
+    "아쉬움: **게임/메타버스 비중이 여전히 높아 다음 회차엔 분산 질 보강이 필요합니다.**",
+    "점수: **9.4 / 10**",
+    "✅ **PROJECT.md에 “stalled mega-turnover core 자동 강등” 규칙 추가**",
+    "✅ **RE 같은 대금 앵커도 상단 구조가 꺾이면 즉시 제외하는 기준으로 단순화**",
+    "✅ 제외 사유를 **stalled-liquidity / turnover trap / headline mismatch** 중심으로 더 짧게 정리",
+    "aggressive-rotation-85 / selective but still aggressive",
+    "**medium**",
+    "**AXS 코어 유지**, **SAND·MANA 메타버스 상단 유지**, **ENSO·JTO 분산 continuation 유지**",
+    "**AXS 1830 / SAND 92.0 / MANA 118 / ENSO 980 / JTO 1010** 하회 시 즉시 재평가",
+    "메이저 평균이 **35% 아래**로 더 밀리면 85%도 과할 수 있음",
+    "**AXS·SAND·MANA**는 동조화 리스크가 큼",
+    "**RE·SLX·IP** 같은 대금 상위 저위치 종목은 재진입 금지",
+    "**SOL 상대강도 약화** 시 JTO 슬롯도 빠르게 식을 수 있음"
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "IP",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 478.0,
-      "amount_delta": 1179.0288819643345,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "IP는 478원, +4.14%, 위치 65.1%, 24h 대금 83.1억원으로 과열이 덜한 균형 continuation입니다."
+      "price_krw": 1028.0,
+      "amount_delta": 522.5666455052501,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "지토는 솔라나 상대강도와 함께 76.9% 위치를 지키는 고유동성 continuation입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "BUY",
+      "price_krw": 1002.0,
+      "amount_delta": 536.1262590612746,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "대금 166억원, 위치 69.3%로 이번 회차의 균형 continuation 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "MANA",
       "action": "BUY",
-      "price_krw": 122.0,
-      "amount_delta": 4619.473816220917,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "MANA는 122원, +20.79%, 위치 95.5%로 소형이지만 상단 체류가 가장 깨끗한 secondary breakout입니다."
+      "price_krw": 121.0,
+      "amount_delta": 4439.657120490885,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "MANA는 100% 위치 마감으로 SAND 보조축이 아니라 독립 continuation입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "SAND",
       "action": "BUY",
-      "price_krw": 94.1,
-      "amount_delta": 5989.115893506396,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "SAND는 94.1원, +21.73%, 위치 89.0%, 24h 대금 436.1억원으로 메타버스 continuation 품질이 좋습니다."
+      "price_krw": 94.8,
+      "amount_delta": 5666.650966027396,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "메타버스 축 중 대금·위치가 가장 깔끔한 fresh breakout입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "AXS",
       "action": "BUY",
-      "price_krw": 1772.0,
-      "amount_delta": 318.0450370084378,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "AXS는 1,772원, +22.88%, 24h 대금 888.4억원으로 게임 베타 리더 역할이 가장 선명합니다."
+      "price_krw": 1904.0,
+      "amount_delta": 282.1420754093472,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "게임/메타버스 순환의 1순위 실전 코어입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "RE",
-      "action": "BUY",
-      "price_krw": 1561.0,
-      "amount_delta": 361.03510927543357,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "RE는 1,561원, +15.63%, 24h 대금 2,735.8억원으로 여전히 업비트 최상위 실전 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "AVAX",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "IP",
       "action": "SELL",
-      "price_krw": 9215.0,
-      "amount_delta": -59.12572996194652,
-      "cash_delta_krw": 544843.6015993372,
-      "reason": "메이저 평균이 56.6%로 식고 fresh가 0이어서, 무효화 근처 SLX와 둔한 AVAX를 제외한 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 479.0,
+      "amount_delta": -1179.0288819643345,
+      "cash_delta_krw": 564754.8344609162,
+      "reason": "16.7% 위치 붕괴로 JTO로 교체"
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "MANA",
+      "action": "SELL",
+      "price_krw": 121.0,
+      "amount_delta": -4619.473816220917,
+      "cash_delta_krw": 558956.331762731,
+      "reason": "85% 동일비중 재정렬을 위해 전량 재편 후 즉시 재매수"
+    },
+    {
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "SAND",
       "action": "SELL",
-      "price_krw": 94.1,
-      "amount_delta": -6410.437737453784,
-      "cash_delta_krw": 603222.1910944011,
-      "reason": "핵심은 유지하되 03:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "AXS",
-      "action": "SELL",
-      "price_krw": 1772.0,
-      "amount_delta": -320.8945867411458,
-      "cash_delta_krw": 568625.2077053104,
-      "reason": "핵심은 유지하되 03:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 94.8,
+      "amount_delta": -5989.115893506396,
+      "cash_delta_krw": 567768.1867044063,
+      "reason": "85% 동일비중 재정렬을 위해 전량 재편 후 즉시 재매수"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-21-0958.md",
+      "title": "2026-06-21-0958"
+    },
     {
       "file": "2026-06-21-0401.md",
       "title": "2026-06-21-0401"
@@ -165,38 +169,19 @@
     {
       "file": "2026-06-19-1558.md",
       "title": "2026-06-19-1558"
-    },
-    {
-      "file": "2026-06-19-0958.md",
-      "title": "2026-06-19-0958"
     }
   ],
   "positions": [
     {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "amount": 361.03510927543357,
-      "avg_buy_price_krw": "1,561 KRW",
-      "last_price_krw": "1,561 KRW",
-      "thesis": "fresh는 사라졌지만 초대금 mega reclaim은 계속 코어로 둘 가치가 큽니다.",
-      "strategy": "mega-turnover reclaim core",
-      "role": "mega-turnover reclaim core",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
       "icon": "🎮",
       "symbol": "AXS",
       "market": "KRW-AXS",
-      "amount": 318.0450370084378,
-      "avg_buy_price_krw": "1,772 KRW",
-      "last_price_krw": "1,772 KRW",
-      "thesis": "메이저 혼조 속에서도 가장 강한 상단 continuation 베타입니다.",
-      "strategy": "gaming-beta leader",
-      "role": "gaming-beta leader",
+      "amount": 282.1420754093472,
+      "avg_buy_price_krw": "1,904 KRW",
+      "last_price_krw": "1,904 KRW",
+      "thesis": "초대금과 상단 체류가 동시에 살아 있어 RE보다 더 건강한 코어로 승격합니다.",
+      "strategy": "mega-turnover gaming leader",
+      "role": "mega-turnover gaming leader",
       "risk_limit_pct": 5,
       "profit_take_pct": 10,
       "pnl_krw": "0 KRW",
@@ -206,12 +191,12 @@
       "icon": "🪙",
       "symbol": "SAND",
       "market": "KRW-SAND",
-      "amount": 5989.115893506396,
-      "avg_buy_price_krw": "94 KRW",
-      "last_price_krw": "94 KRW",
-      "thesis": "게임/메타버스 테마의 두 번째 유동성 축으로 바스켓 유지력을 높입니다.",
-      "strategy": "liquid metaverse continuation",
-      "role": "liquid metaverse continuation",
+      "amount": 5666.650966027396,
+      "avg_buy_price_krw": "95 KRW",
+      "last_price_krw": "95 KRW",
+      "thesis": "fresh 2개 중 하나이며 메이저 둔화 속에서도 90%대 위치를 유지합니다.",
+      "strategy": "fresh metaverse breakout",
+      "role": "fresh metaverse breakout",
       "risk_limit_pct": 4,
       "profit_take_pct": 9,
       "pnl_krw": "0 KRW",
@@ -221,64 +206,62 @@
       "icon": "🏙️",
       "symbol": "MANA",
       "market": "KRW-MANA",
-      "amount": 4619.473816220917,
-      "avg_buy_price_krw": "122 KRW",
-      "last_price_krw": "122 KRW",
-      "thesis": "SLX처럼 상장잔열이 식는 이름보다 고위치 유지가 더 깨끗한 후속 breakout입니다.",
-      "strategy": "high-range secondary breakout",
-      "role": "high-range secondary breakout",
+      "amount": 4439.657120490885,
+      "avg_buy_price_krw": "121 KRW",
+      "last_price_krw": "121 KRW",
+      "thesis": "낮은 체급이지만 range 100%를 지켜 고베타 보조 리더로 적합합니다.",
+      "strategy": "high-range secondary metaverse",
+      "role": "high-range secondary metaverse",
       "risk_limit_pct": 5,
-      "profit_take_pct": 12,
+      "profit_take_pct": 11,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🪪",
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "amount": 1179.0288819643345,
-      "avg_buy_price_krw": "478 KRW",
-      "last_price_krw": "478 KRW",
-      "thesis": "같은 고베타만 4개 쌓기보다 과열이 덜한 균형 continuation이 필요합니다.",
-      "strategy": "quality balance continuation",
-      "role": "quality balance continuation",
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "amount": 536.1262590612746,
+      "avg_buy_price_krw": "1,002 KRW",
+      "last_price_krw": "1,002 KRW",
+      "thesis": "RE·IP 대신 덜 지친 구조의 중대금 continuation을 채웁니다.",
+      "strategy": "liquid balance reclaim",
+      "role": "liquid balance reclaim",
       "risk_limit_pct": 4,
-      "profit_take_pct": 7,
+      "profit_take_pct": 8,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "amount": 522.5666455052501,
+      "avg_buy_price_krw": "1,028 KRW",
+      "last_price_krw": "1,028 KRW",
+      "thesis": "메이저 4종 중 SOL만 플러스라 그 수혜를 받는 알트 베타로 적합합니다.",
+      "strategy": "solana-beta continuation",
+      "role": "solana-beta continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "MET2": [
+    "ENSO": [
       {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 220.0,
-        "action": "SELL"
-      }
-    ],
-    "IP": [
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 458.0,
+        "timestamp": "2026-06-20T21:58:00+09:00",
+        "price_krw": 938.0,
         "action": "SELL"
       },
       {
-        "timestamp": "2026-06-21T04:01:00+09:00",
-        "price_krw": 478.0,
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 1002.0,
         "action": "BUY"
       }
     ],
     "SLX": [
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 282.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 282.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-20T21:58:00+09:00",
         "price_krw": 332.0,
@@ -295,75 +278,41 @@
         "action": "SELL"
       }
     ],
-    "ADA": [
+    "RE": [
       {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 248.0,
+        "timestamp": "2026-06-20T21:58:00+09:00",
+        "price_krw": 1501.0,
         "action": "SELL"
       },
       {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 248.0,
+        "timestamp": "2026-06-20T21:58:00+09:00",
+        "price_krw": 1501.0,
         "action": "BUY"
       },
+      {
+        "timestamp": "2026-06-21T04:01:00+09:00",
+        "price_krw": 1561.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-21T04:01:00+09:00",
+        "price_krw": 1561.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 1523.0,
+        "action": "SELL"
+      }
+    ],
+    "ADA": [
       {
         "timestamp": "2026-06-20T21:58:00+09:00",
         "price_krw": 246.0,
         "action": "SELL"
       }
     ],
-    "CFG": [
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 356.0,
-        "action": "SELL"
-      }
-    ],
-    "ENSO": [
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 979.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-20T21:58:00+09:00",
-        "price_krw": 938.0,
-        "action": "SELL"
-      }
-    ],
-    "RE": [
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 1355.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-20T21:58:00+09:00",
-        "price_krw": 1501.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-20T21:58:00+09:00",
-        "price_krw": 1501.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-21T04:01:00+09:00",
-        "price_krw": 1561.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-21T04:01:00+09:00",
-        "price_krw": 1561.0,
-        "action": "BUY"
-      }
-    ],
     "AERO": [
-      {
-        "timestamp": "2026-06-20T15:58:00+09:00",
-        "price_krw": 740.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-20T21:58:00+09:00",
         "price_krw": 745.0,
@@ -385,6 +334,16 @@
         "timestamp": "2026-06-21T04:01:00+09:00",
         "price_krw": 1772.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 1904.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 1904.0,
+        "action": "BUY"
       }
     ],
     "SAND": [
@@ -401,6 +360,16 @@
       {
         "timestamp": "2026-06-21T04:01:00+09:00",
         "price_krw": 94.1,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 94.8,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 94.8,
         "action": "BUY"
       }
     ],
@@ -421,222 +390,248 @@
         "timestamp": "2026-06-21T04:01:00+09:00",
         "price_krw": 122.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 121.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 121.0,
+        "action": "BUY"
+      }
+    ],
+    "IP": [
+      {
+        "timestamp": "2026-06-21T04:01:00+09:00",
+        "price_krw": 478.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 479.0,
+        "action": "SELL"
+      }
+    ],
+    "JTO": [
+      {
+        "timestamp": "2026-06-21T09:58:00+09:00",
+        "price_krw": 1028.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-21-0401.md",
+  "latest_report_file": "2026-06-21-0958.md",
   "preferred_buy_candidates": [
-    {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "price_krw": 1561.0,
-      "change_pct_24h": 15.62962963,
-      "turnover_krw_24h": 273582340930.99896,
-      "reason": "RE는 1,561원, +15.63%, 24h 대금 2,735.8억원으로 여전히 업비트 최상위 실전 코어입니다.",
-      "score": 90.0,
-      "community": "한국 리테일 관심과 실제 체결이 계속 RE에 가장 강하게 몰립니다.",
-      "risk": null,
-      "allocation_krw": 563575.8055789518,
-      "role": "mega-turnover reclaim core",
-      "invalidated_if": "1510원 하회 시 mega reclaim 지속 해석 약화",
-      "range_position_pct": 84.4,
-      "day_high_gap_pct": -3.7
-    },
     {
       "icon": "🎮",
       "symbol": "AXS",
       "market": "KRW-AXS",
-      "price_krw": 1772.0,
-      "change_pct_24h": 22.88488211,
-      "turnover_krw_24h": 88835253774.21568,
-      "reason": "AXS는 1,772원, +22.88%, 24h 대금 888.4억원으로 게임 베타 리더 역할이 가장 선명합니다.",
-      "score": 72.31,
-      "community": "게임 섹터 회전의 중심이 AXS로 모이고 있습니다.",
+      "price_krw": 1904.0,
+      "change_pct_24h": 7.81426954,
+      "turnover_krw_24h": 111263419207.82477,
+      "reason": "게임/메타버스 순환의 1순위 실전 코어입니다.",
+      "score": 61.45,
+      "community": "한국 리테일이 오늘도 AXS를 중심 축으로 보고 있습니다.",
       "risk": null,
-      "allocation_krw": 563575.8055789518,
-      "role": "gaming-beta leader",
-      "invalidated_if": "1705원 하회 시 게임 베타 리더 해석 약화",
-      "range_position_pct": 86.7,
-      "day_high_gap_pct": -2.8
+      "allocation_krw": 537198.5115793971,
+      "role": "mega-turnover gaming leader",
+      "invalidated_if": "1830원 하회 시 게임 리더 continuation 약화",
+      "range_position_pct": 84.3,
+      "day_high_gap_pct": -1.65
     },
     {
       "icon": "🪙",
       "symbol": "SAND",
       "market": "KRW-SAND",
-      "price_krw": 94.1,
-      "change_pct_24h": 21.73350582,
-      "turnover_krw_24h": 43611558019.56095,
-      "reason": "SAND는 94.1원, +21.73%, 위치 89.0%, 24h 대금 436.1억원으로 메타버스 continuation 품질이 좋습니다.",
-      "score": 68.26,
-      "community": "AXS를 쫓는 메타버스 follow-through 자금이 이어집니다.",
+      "price_krw": 94.8,
+      "change_pct_24h": 4.29042904,
+      "turnover_krw_24h": 51294785158.47783,
+      "reason": "메타버스 축 중 대금·위치가 가장 깔끔한 fresh breakout입니다.",
+      "score": 51.59,
+      "community": "AXS 다음 순환매가 샌드박스로 붙는 흐름이 선명합니다.",
       "risk": null,
-      "allocation_krw": 563575.8055789518,
-      "role": "liquid metaverse continuation",
-      "invalidated_if": "90.0원 하회 시 상단 continuation 명분 약화",
-      "range_position_pct": 89.0,
-      "day_high_gap_pct": -2.18
+      "allocation_krw": 537198.5115793971,
+      "role": "fresh metaverse breakout",
+      "invalidated_if": "92.0원 하회 시 fresh breakout 해석 약화",
+      "range_position_pct": 91.9,
+      "day_high_gap_pct": -0.52
     },
     {
       "icon": "🏙️",
       "symbol": "MANA",
       "market": "KRW-MANA",
-      "price_krw": 122.0,
-      "change_pct_24h": 20.79207921,
-      "turnover_krw_24h": 5547322122.622882,
-      "reason": "MANA는 122원, +20.79%, 위치 95.5%로 소형이지만 상단 체류가 가장 깨끗한 secondary breakout입니다.",
-      "score": 67.72,
-      "community": "샌드박스와 함께 메타버스 테마 확장 수혜를 받는 보조 리더입니다.",
+      "price_krw": 121.0,
+      "change_pct_24h": 2.54237288,
+      "turnover_krw_24h": 6646930135.3659725,
+      "reason": "MANA는 100% 위치 마감으로 SAND 보조축이 아니라 독립 continuation입니다.",
+      "score": 46.02,
+      "community": "샌드박스와 묶여 언급되지만 체결은 별도 follow-through가 확인됩니다.",
       "risk": null,
-      "allocation_krw": 563575.8055789518,
-      "role": "high-range secondary breakout",
-      "invalidated_if": "118원 하회 시 고위치 breakout 슬롯 철회",
-      "range_position_pct": 95.5,
-      "day_high_gap_pct": -0.81
+      "allocation_krw": 537198.5115793971,
+      "role": "high-range secondary metaverse",
+      "invalidated_if": "118원 하회 시 secondary breakout 슬롯 철회",
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0
+    },
+    {
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "price_krw": 1002.0,
+      "change_pct_24h": 3.83419689,
+      "turnover_krw_24h": 16598180401.113895,
+      "reason": "대금 166억원, 위치 69.3%로 이번 회차의 균형 continuation 슬롯입니다.",
+      "score": 35.4,
+      "community": "게임/메타버스 외 자금을 받는 실전 분산축으로 읽힙니다.",
+      "risk": null,
+      "allocation_krw": 537198.5115793971,
+      "role": "liquid balance reclaim",
+      "invalidated_if": "980원 하회 시 balance reclaim 명분 약화",
+      "range_position_pct": 69.3,
+      "day_high_gap_pct": -2.24
+    },
+    {
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "price_krw": 1028.0,
+      "change_pct_24h": 1.68150346,
+      "turnover_krw_24h": 11710516187.960434,
+      "reason": "지토는 솔라나 상대강도와 함께 76.9% 위치를 지키는 고유동성 continuation입니다.",
+      "score": 36.41,
+      "community": "국내 커뮤니티에서도 솔라나계 회전 보조축으로 꾸준히 언급됩니다.",
+      "risk": null,
+      "allocation_krw": 537198.5115793971,
+      "role": "solana-beta continuation",
+      "invalidated_if": "1010원 하회 시 솔라나 베타 슬롯 재평가",
+      "range_position_pct": 76.9,
+      "day_high_gap_pct": -0.58
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🧲",
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "reason": "24h 대금 2,446.5억원은 압도적이지만 일중 위치 26.6%로 stalled-liquidity가 됐습니다. 60%+ 재회복 전 관찰만."
     },
     {
       "icon": "🪪",
       "symbol": "IP",
       "market": "KRW-IP",
-      "price_krw": 478.0,
-      "change_pct_24h": 4.13943355,
-      "turnover_krw_24h": 8310733767.587615,
-      "reason": "IP는 478원, +4.14%, 위치 65.1%, 24h 대금 83.1억원으로 과열이 덜한 균형 continuation입니다.",
-      "score": 31.91,
-      "community": "과열 테마 밖에서 조용히 살아남는 품질 슬롯으로 읽힙니다.",
-      "risk": null,
-      "allocation_krw": 563575.8055789518,
-      "role": "quality balance continuation",
-      "invalidated_if": "470원 하회 시 균형 continuation 슬롯 철회",
-      "range_position_pct": 65.1,
-      "day_high_gap_pct": -3.04
-    }
-  ],
-  "reference_watchlist": [
+      "reason": "거래대금은 충분하지만 16.7% 위치와 음전환으로 continuation 명분이 붕괴했습니다."
+    },
     {
       "icon": "🌞",
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "27.38% 상승은 강하지만 321원으로 직전 무효화에 닿아 fresh 지위를 잃었습니다. 330원대 재안착 전까진 감시."
-    },
-    {
-      "icon": "🏔️",
-      "symbol": "AVAX",
-      "market": "KRW-AVAX",
-      "reason": "체급 균형축 가치는 남지만 59.1% 위치로 IP보다 상단 체류가 약합니다."
-    },
-    {
-      "icon": "🧱",
-      "symbol": "MET2",
-      "market": "KRW-MET2",
-      "reason": "대금은 충분하지만 -7.29% day-high-gap이 커 late chase 품질이 떨어집니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "YGG",
-      "market": "KRW-YGG",
-      "reason": "73.3% 위치와 44.8억원 대금으로 게임 회전 보조 후보입니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "AERO",
-      "market": "KRW-AERO",
-      "reason": "86.5% 위치는 좋지만 25.1억원 대금이라 톱5 승격은 보류합니다."
+      "reason": "49.3억원 대금에도 20% 위치, -2.61%로 turnover trap 전환입니다."
     },
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "Sam Altman 연상도는 강하지만 24h -3.29%, 32.1% 위치로 전형적 turnover trap입니다."
+      "reason": "Sam Altman 연상도는 남지만 -0.76%, 46.2% 위치라 아직 headline 대비 가격이 약합니다."
+    },
+    {
+      "icon": "🧱",
+      "symbol": "MET2",
+      "market": "KRW-MET2",
+      "reason": "28.6억원 대금은 좋지만 36.4% 위치와 -5.36% gap로 late reclaim 품질이 부족합니다."
+    },
+    {
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "fresh 100% 구조지만 밈 메이저 성격이 강해 이번 회차는 참고 신호로만 유지합니다."
     }
   ],
   "cycle_improvements": [
-    "PROJECT.md에 “fresh 0 + held fresh가 무효화 수준일 때는 80%+ continuation으로 강제 교체” 규칙을 추가했습니다.",
-    "dashboard 아이콘 맵에 RE·AVAX·MANA 등 현재 자주 쓰는 심볼을 추가해 후보 가독성을 높였습니다.",
-    "이번 회차부터 리포트에서 제외 이유를 “fresh 상실 / balance 약화 / turnover trap”으로 더 짧게 표기합니다."
+    "PROJECT.md에 “stalled mega-turnover core(30% 이하) 자동 강등” 규칙을 추가했습니다.",
+    "이번 회차부터 RE 같은 대금 앵커도 상단 구조가 꺾이면 동일비중 바스켓에서 즉시 제외하도록 판단 기준을 단순화했습니다.",
+    "리포트의 제외 사유를 stalled-liquidity / turnover trap / headline mismatch 중심으로 더 짧게 정리했습니다."
   ],
   "rejected_candidates": [
     {
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "reason": "2,446.5억원 대금에도 26.6% 위치라 stalled-liquidity 판정입니다."
+    },
+    {
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "음전환과 16.7% 위치로 continuation 명분이 사라졌습니다."
+    },
+    {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "+27.38%여도 321원으로 직전 무효화에 닿았고 gap이 -5.59%까지 벌어져 fresh 슬롯 방어 명분이 약해졌습니다."
-    },
-    {
-      "symbol": "AVAX",
-      "market": "KRW-AVAX",
-      "reason": "양수는 유지했지만 59.1% 위치로 더 강한 IP·MANA 대비 상단 체류가 약합니다."
-    },
-    {
-      "symbol": "MET2",
-      "market": "KRW-MET2",
-      "reason": "대금은 크지만 -7.29% high-gap이라 late-session continuation 품질이 떨어집니다."
+      "reason": "49.3억원 대금에도 -2.61%, 20.0% 위치라 turnover trap입니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "상위 대금이지만 -3.29%, 32.1% 위치로 headline trap 성격이 강합니다."
+      "reason": "Sam Altman headline은 남지만 -0.76%, 46.2% 위치로 실전 강도가 부족합니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "25.8억원 대금에도 6.5% 위치라 turnover trap 판정입니다."
+      "symbol": "MET2",
+      "market": "KRW-MET2",
+      "reason": "1.65% 플러스라도 36.4% 위치와 -5.36% gap가 커 late reclaim 품질이 낮습니다."
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "구조는 강하지만 이번 회차는 상위 밈 메이저 성격이 강해 참고 신호로만 둡니다."
     }
   ],
-  "top_line": "**메이저 평균 56.6%로 둔화, fresh breakout 0개**입니다. **SLX·AVAX를 내리고 RE·AXS·SAND·MANA·IP 90% 재편**이 맞습니다.",
-  "ui_version": "v16.4",
+  "top_line": "**메이저 평균 44.0%로 추가 둔화**, 그래도 **fresh breakout 2개**는 살아 있습니다. **RE·IP를 빼고 AXS·SAND·MANA·ENSO·JTO 85% 재편**이 맞습니다.",
+  "ui_version": "v16.5",
   "risk_plan": {
-    "portfolio_cash_target": "기본 10% 유지. 메이저 평균 50% 하회 또는 preferred 2개 이상 60% 밑 붕괴 시 80% 이하 감속 검토.",
-    "review_trigger": "RE 1510원 / AXS 1705원 / SAND 90.0원 / MANA 118원 / IP 470원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 15% 유지. 메이저 평균 35% 하회 또는 preferred 2개 이상 60% 밑 붕괴 시 75% 이하 감속 검토.",
+    "review_trigger": "AXS 1830원 / SAND 92.0원 / MANA 118원 / ENSO 980원 / JTO 1010원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "fresh breakout이 0이면 무효화 근처 old-fresh 슬롯 방어 금지",
-      "headline turnover trap 재매수는 60%+ range reclaim 전 금지"
+      "stalled-liquidity mega core(30% 이하)는 다음 회차 강등",
+      "headline mismatch 종목은 60%+ range reclaim 전 재진입 금지"
     ],
     "exit_rules": [
-      "RE 1510원 / AXS 1705원 / SAND 90.0원 / MANA 118원 / IP 470원 하회 시 즉시 재평가",
+      "AXS 1830원 / SAND 92.0원 / MANA 118원 / ENSO 980원 / JTO 1010원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "fresh breakout이 0이면 무효화 근처 old-fresh 슬롯 방어 금지",
-      "headline turnover trap 재매수는 60%+ range reclaim 전 금지"
+      "stalled-liquidity mega core(30% 이하)는 다음 회차 강등",
+      "headline mismatch 종목은 60%+ range reclaim 전 재진입 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 3,322.8억원이며 RE 비중이 압도적이라 추가 집중 대신 동일비중으로 통제합니다.",
-    "momentum_discipline": "SLX·AVAX out / MANA·IP in / RE·AXS·SAND keep",
-    "diversification": "mega reclaim 1 + gaming/metaverse beta 3 + balance continuation 1",
-    "cash_usage": "90%",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2,014.7억원이며 AXS 비중이 가장 큽니다. RE 집중 대신 바스켓 동일비중으로 통제합니다.",
+    "momentum_discipline": "RE·IP out / ENSO·JTO in / AXS·SAND·MANA keep",
+    "diversification": "gaming-metaverse 3 + balance continuation 2",
+    "cash_usage": "85%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "mega reclaim 1 / beta 3 / balance 1"
+    "summary": "leader 1 / metaverse 2 / balance 2"
   },
   "rotation_map": [
     {
-      "bucket": "SLX → MANA",
-      "symbols": [
-        "SLX",
-        "MANA"
-      ],
-      "note": "상장 잔열 fresh가 꺾인 SLX 대신 95.5% 위치의 MANA를 승격합니다."
-    },
-    {
-      "bucket": "AVAX → IP",
-      "symbols": [
-        "AVAX",
-        "IP"
-      ],
-      "note": "59.1% 위치의 AVAX보다 65.1% 위치와 더 나은 구조를 가진 IP로 균형축을 교체합니다."
-    },
-    {
-      "bucket": "RE → RE",
+      "bucket": "RE → ENSO",
       "symbols": [
         "RE",
-        "RE"
+        "ENSO"
       ],
-      "note": "초대금 mega reclaim 코어는 유지하되 동일비중으로 재정렬합니다."
+      "note": "초대금 RE가 26.6% stalled-liquidity로 식어 69.3% ENSO로 교체합니다."
+    },
+    {
+      "bucket": "IP → JTO",
+      "symbols": [
+        "IP",
+        "JTO"
+      ],
+      "note": "16.7% 위치의 IP 대신 SOL 상대강도를 받는 76.9% JTO로 교체합니다."
     },
     {
       "bucket": "AXS → AXS",
@@ -644,7 +639,7 @@
         "AXS",
         "AXS"
       ],
-      "note": "게임 베타 리더는 유지합니다."
+      "note": "게임 대장주는 유지하되 85% 동일비중으로 다시 맞춥니다."
     },
     {
       "bucket": "SAND → SAND",
@@ -652,79 +647,81 @@
         "SAND",
         "SAND"
       ],
-      "note": "메타버스 continuation 핵심은 유지합니다."
+      "note": "fresh breakout 2개 중 하나라 유지합니다."
+    },
+    {
+      "bucket": "MANA → MANA",
+      "symbols": [
+        "MANA",
+        "MANA"
+      ],
+      "note": "100% range 마감의 secondary leader라 유지합니다."
     }
   ],
   "self_evaluation": {
-    "score": 9.2,
-    "summary": "직전 90% 배치는 맞았지만 SLX를 fresh처럼 오래 보유하면 관성이 됩니다. 이번 회차는 무효화 근처 SLX와 둔한 AVAX를 정리하고, 더 깨끗한 MANA·IP로 재편한 점이 좋았습니다."
+    "score": 9.4,
+    "summary": "직전 RE 코어 유지 자체는 이해 가능했지만, 이번 회차에 stalled-liquidity를 끝까지 방어하지 않고 RE·IP를 동시에 정리한 판단은 좋았습니다. 다만 게임/메타버스 비중이 아직 높아 다음 회차엔 분산 질을 더 보강할 필요가 있습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 17.04,
+    "preferred_avg_change_pct_24h": 4.03,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 419887208614.9861,
-    "leader_turnover_share_pct": 65.16,
-    "leader_symbol": "RE",
+    "preferred_turnover_total_krw_24h": 197513831090.74292,
+    "leader_turnover_share_pct": 56.33,
+    "leader_symbol": "AXS",
     "leader_concentration_warning": "high"
   },
-  "snapshot_updated_at_utc": "2026-06-20T18:58:57.983998+00:00",
-  "snapshot_age_hours": 0.03,
+  "snapshot_updated_at_utc": "2026-06-21T00:59:14.714320+00:00",
+  "snapshot_age_hours": 0,
   "snapshot_delta": {
     "top15_alt_positive_count_delta": 0,
-    "top15_alt_low_range_count_delta": 1,
+    "top15_alt_low_range_count_delta": -2,
     "weak_breadth_warning_changed": true,
-    "entered_top5_turnover": [
-      "SLX",
-      "SAND"
-    ],
-    "exited_top5_turnover": [
-      "XLM",
-      "MET2"
-    ]
+    "entered_top5_turnover": [],
+    "exited_top5_turnover": []
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -11.81,
-    "major_positive_count_delta": 0,
-    "major_negative_count_delta": 0
+    "major_avg_range_position_pct_delta": -12.54,
+    "major_positive_count_delta": -3,
+    "major_negative_count_delta": 3
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 0,
+    "fresh_breakout_count": 2,
     "high_conviction_count": 5,
-    "quality_survivor_count": 7,
+    "quality_survivor_count": 8,
     "relative_strength_reclaim_count": 6,
     "breakout_cluster_active": false,
-    "summary": "fresh 0 / conviction 5 / survivor 7 / reclaim 6"
+    "summary": "fresh 2 / conviction 5 / survivor 8 / reclaim 6"
   },
   "scenario_view": {
     "regime": "mixed_selective_rotation",
     "regime_label_ko": "혼조·빠른 순환 대응",
     "regime_icon": "🟡",
-    "btc_range_position_pct": 56.8,
-    "major_avg_range_position_pct": 56.57,
-    "preferred_avg_change_pct_24h": 17.04,
-    "preferred_high_range_count": 4,
+    "btc_range_position_pct": 45.0,
+    "major_avg_range_position_pct": 44.03,
+    "preferred_avg_change_pct_24h": 4.03,
+    "preferred_high_range_count": 3,
     "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "regime_shift_alert": {
-    "active": true,
-    "major_avg_delta_pct": -11.81,
+    "active": false,
+    "major_avg_delta_pct": -12.54,
     "top15_positive_count": 8,
-    "top15_low_range_count": 8,
-    "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
+    "top15_low_range_count": 6,
+    "summary": "급격한 레짐 붕괴 경고는 아직 없음"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -11.81,
-    "fresh_breakout_count": 0,
+    "major_avg_delta_pct": -12.54,
+    "fresh_breakout_count": 2,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 84.14,
-    "avg_day_high_gap_pct": -2.51,
-    "above_80_range_count": 4,
-    "summary": "고위치(80%+) 후보 4개 / 평균 위치 84.14%"
+    "avg_range_position_pct": 84.48,
+    "avg_day_high_gap_pct": -1.0,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 84.48%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -735,43 +732,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🧲",
-      "symbol": "RE",
-      "last_price_krw": 1561.0,
-      "threshold_krw": 1510.0,
-      "distance_to_invalidation_pct": 3.38,
-      "status": "near"
-    },
-    {
       "icon": "🎮",
       "symbol": "AXS",
-      "last_price_krw": 1772.0,
-      "threshold_krw": 1705.0,
-      "distance_to_invalidation_pct": 3.93,
+      "last_price_krw": 1904.0,
+      "threshold_krw": 1830.0,
+      "distance_to_invalidation_pct": 4.04,
       "status": "near"
     },
     {
       "icon": "🪙",
       "symbol": "SAND",
-      "last_price_krw": 94.1,
-      "threshold_krw": 90.0,
-      "distance_to_invalidation_pct": 4.56,
+      "last_price_krw": 94.8,
+      "threshold_krw": 92.0,
+      "distance_to_invalidation_pct": 3.04,
       "status": "near"
     },
     {
       "icon": "🏙️",
       "symbol": "MANA",
-      "last_price_krw": 122.0,
+      "last_price_krw": 121.0,
       "threshold_krw": 118.0,
-      "distance_to_invalidation_pct": 3.39,
+      "distance_to_invalidation_pct": 2.54,
       "status": "near"
     },
     {
-      "icon": "🪪",
-      "symbol": "IP",
-      "last_price_krw": 478.0,
-      "threshold_krw": 470.0,
-      "distance_to_invalidation_pct": 1.7,
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "last_price_krw": 1002.0,
+      "threshold_krw": 980.0,
+      "distance_to_invalidation_pct": 2.24,
+      "status": "near"
+    },
+    {
+      "icon": "🪂",
+      "symbol": "JTO",
+      "last_price_krw": 1028.0,
+      "threshold_krw": 1010.0,
+      "distance_to_invalidation_pct": 1.78,
       "status": "near"
     }
   ],
@@ -785,7 +782,7 @@
     "active": true,
     "near_or_broken_count": 5,
     "leader_concentration_warning": "high",
-    "avg_range_position_pct": 84.14,
+    "avg_range_position_pct": 84.48,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -795,153 +792,153 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "IP",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 478.0,
-      "amount_delta": 1179.0288819643345,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "IP는 478원, +4.14%, 위치 65.1%, 24h 대금 83.1억원으로 과열이 덜한 균형 continuation입니다."
+      "price_krw": 1028.0,
+      "amount_delta": 522.5666455052501,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "지토는 솔라나 상대강도와 함께 76.9% 위치를 지키는 고유동성 continuation입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "BUY",
+      "price_krw": 1002.0,
+      "amount_delta": 536.1262590612746,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "대금 166억원, 위치 69.3%로 이번 회차의 균형 continuation 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "MANA",
       "action": "BUY",
-      "price_krw": 122.0,
-      "amount_delta": 4619.473816220917,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "MANA는 122원, +20.79%, 위치 95.5%로 소형이지만 상단 체류가 가장 깨끗한 secondary breakout입니다."
+      "price_krw": 121.0,
+      "amount_delta": 4439.657120490885,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "MANA는 100% 위치 마감으로 SAND 보조축이 아니라 독립 continuation입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "SAND",
       "action": "BUY",
-      "price_krw": 94.1,
-      "amount_delta": 5989.115893506396,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "SAND는 94.1원, +21.73%, 위치 89.0%, 24h 대금 436.1억원으로 메타버스 continuation 품질이 좋습니다."
+      "price_krw": 94.8,
+      "amount_delta": 5666.650966027396,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "메타버스 축 중 대금·위치가 가장 깔끔한 fresh breakout입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "AXS",
       "action": "BUY",
-      "price_krw": 1772.0,
-      "amount_delta": 318.0450370084378,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "AXS는 1,772원, +22.88%, 24h 대금 888.4억원으로 게임 베타 리더 역할이 가장 선명합니다."
+      "price_krw": 1904.0,
+      "amount_delta": 282.1420754093472,
+      "cash_delta_krw": -537198.5115793971,
+      "reason": "게임/메타버스 순환의 1순위 실전 코어입니다."
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "RE",
-      "action": "BUY",
-      "price_krw": 1561.0,
-      "amount_delta": 361.03510927543357,
-      "cash_delta_krw": -563575.8055789518,
-      "reason": "RE는 1,561원, +15.63%, 24h 대금 2,735.8억원으로 여전히 업비트 최상위 실전 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "AVAX",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "IP",
       "action": "SELL",
-      "price_krw": 9215.0,
-      "amount_delta": -59.12572996194652,
-      "cash_delta_krw": 544843.6015993372,
-      "reason": "메이저 평균이 56.6%로 식고 fresh가 0이어서, 무효화 근처 SLX와 둔한 AVAX를 제외한 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 479.0,
+      "amount_delta": -1179.0288819643345,
+      "cash_delta_krw": 564754.8344609162,
+      "reason": "16.7% 위치 붕괴로 JTO로 교체"
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
+      "symbol": "MANA",
+      "action": "SELL",
+      "price_krw": 121.0,
+      "amount_delta": -4619.473816220917,
+      "cash_delta_krw": 558956.331762731,
+      "reason": "85% 동일비중 재정렬을 위해 전량 재편 후 즉시 재매수"
+    },
+    {
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "SAND",
       "action": "SELL",
-      "price_krw": 94.1,
-      "amount_delta": -6410.437737453784,
-      "cash_delta_krw": 603222.1910944011,
-      "reason": "핵심은 유지하되 03:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 94.8,
+      "amount_delta": -5989.115893506396,
+      "cash_delta_krw": 567768.1867044063,
+      "reason": "85% 동일비중 재정렬을 위해 전량 재편 후 즉시 재매수"
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "AXS",
       "action": "SELL",
-      "price_krw": 1772.0,
-      "amount_delta": -320.8945867411458,
-      "cash_delta_krw": 568625.2077053104,
-      "reason": "핵심은 유지하되 03:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 1904.0,
+      "amount_delta": -318.0450370084378,
+      "cash_delta_krw": 605557.7504640656,
+      "reason": "85% 동일비중 재정렬을 위해 전량 재편 후 즉시 재매수"
     },
     {
-      "timestamp": "2026-06-21T04:01:00+09:00",
-      "symbol": "SLX",
-      "action": "SELL",
-      "price_krw": 321.0,
-      "amount_delta": -1662.4659313095506,
-      "cash_delta_krw": 533651.5639503658,
-      "reason": "메이저 평균이 56.6%로 식고 fresh가 0이어서, 무효화 근처 SLX와 둔한 AVAX를 제외한 5종 균등 공격 분산으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-21T04:01:00+09:00",
+      "timestamp": "2026-06-21T09:58:00+09:00",
       "symbol": "RE",
       "action": "SELL",
-      "price_krw": 1561.0,
-      "amount_delta": -367.71398347419773,
-      "cash_delta_krw": 574001.5282032227,
-      "reason": "핵심은 유지하되 03:59 가격 기준 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 1523.0,
+      "amount_delta": -361.03510927543357,
+      "cash_delta_krw": 549856.4714264853,
+      "reason": "stalled-liquidity 제거: 26.6% 위치의 초대금 코어 대신 ENSO로 교체"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🧲 **RE** — 1,561원 / **+15.63%** / 2,735.8억원 / 위치 84.4% / mega reclaim 코어",
-      "- 🎮 **AXS** — 1,772원 / **+22.88%** / 888.4억원 / 위치 86.7% / 게임 베타 리더",
-      "- 🏖️ **SAND** — 94.1원 / **+21.73%** / 436.1억원 / 위치 89.0% / 메타버스 continuation",
-      "- 🏙️ **MANA** — 122원 / **+20.79%** / 55.5억원 / 위치 95.5% / 고위치 secondary breakout",
-      "- 📖 **IP** — 478원 / **+4.14%** / 83.1억원 / 위치 65.1% / 균형 continuation"
+      "- 🎮 **AXS** — 1,904원 / **+7.81%** / 1,112.6억원 / 위치 84.3% / 게임 대장 코어",
+      "- 🏖️ **SAND** — 94.8원 / **+4.29%** / 512.9억원 / 위치 91.9% / fresh 메타버스 리더",
+      "- 🏙️ **MANA** — 121원 / **+2.54%** / 66.5억원 / 위치 100.0% / secondary breakout",
+      "- 🌀 **ENSO** — 1,002원 / **+3.83%** / 166.0억원 / 위치 69.3% / 균형 reclaim",
+      "- 🪂 **JTO** — 1,028원 / **+1.68%** / 117.1억원 / 위치 76.9% / SOL 베타 continuation"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC 56.8% / ETH 48.4% / XRP 45.5% / SOL 75.6%",
-      "- 메이저 평균 **56.6% 위치**, 4대 메이저 **전부 양전환 유지**",
-      "- 하지만 top15 알트 저위치 종목이 **8개**라 광범위 추격장은 아님"
+      "- BTC 45.0% / ETH 44.4% / XRP 20.0% / SOL 66.7%",
+      "- 메이저 평균 **44.0% 위치**, 4대 메이저 중 **SOL만 양전환**",
+      "- top15 비메이저 양수는 **8개**, fresh breakout은 **2개(SAND, DOGE)**"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **90%**, 5종 **동일비중**",
-      "- 타깃: 각 약 **56.36만원**",
-      "- 현금: 약 **31.31만원 (10%)**",
-      "- 핵심 논리: **SLX fresh 상실 / AVAX 둔화 제거 → RE 코어 + AXS·SAND·MANA 상단 + IP 균형축**"
+      "- 실투입: **85%**, 5종 **동일비중**",
+      "- 타깃: 각 약 **53.72만원**",
+      "- 현금: 약 **47.40만원 (15%)**",
+      "- 핵심 논리: **RE stalled-liquidity / IP 저위치 이탈 제거 → AXS·SAND·MANA 상단 + ENSO·JTO 분산 보강**"
     ],
     "가상 매매 실행 내용": [
-      "- SELL **RE / SLX / AXS / SAND / AVAX**",
-      "- BUY **RE / AXS / SAND / MANA / IP**",
-      "- 마지막 액션: **RESET_90_RE_AXS_SAND_MANA_IP**"
+      "- SELL **RE / AXS / SAND / MANA / IP**",
+      "- BUY **AXS / SAND / MANA / ENSO / JTO**",
+      "- 마지막 액션: **RESET_85_AXS_SAND_MANA_ENSO_JTO**"
     ],
     "현재 포트폴리오 현황": [
-      "- RE **361.0351개 @ 1,561원**",
-      "- AXS **318.0440개 @ 1,772원**",
-      "- SAND **5,989.1159개 @ 94.1원**",
-      "- MANA **4,619.4738개 @ 122원**",
-      "- IP **1,179.0297개 @ 478원**",
-      "- 현금 **313,097.7원** / 총평가 **3,130,976.7원**"
+      "- AXS **282.1421개 @ 1,904원**",
+      "- SAND **5,666.6510개 @ 94.8원**",
+      "- MANA **4,439.6571개 @ 121원**",
+      "- ENSO **536.1263개 @ 1,002원**",
+      "- JTO **522.5666개 @ 1,028원**",
+      "- 현금 **473,998.7원** / 총평가 **3,159,991.2원**"
     ],
     "자기 평가": [
-      "- 장점: **무효화 근처 SLX를 fresh처럼 고집하지 않고 바로 제외했습니다.**",
-      "- 아쉬움: **RE 집중도와 게임/메타버스 쏠림은 여전히 큽니다.**",
-      "- 점수: **9.2 / 10**"
+      "- 장점: **RE처럼 대금이 큰 코어도 26.6% stalled-liquidity가 되면 바로 강등했습니다.**",
+      "- 아쉬움: **게임/메타버스 비중이 여전히 높아 다음 회차엔 분산 질 보강이 필요합니다.**",
+      "- 점수: **9.4 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **PROJECT.md에 “fresh 0 + old-fresh 무효화 근접 시 continuation 강제 승격” 규칙 추가**",
-      "- ✅ dashboard 아이콘에 **RE·AVAX·MANA** 등을 추가해 가독성 보강",
-      "- ✅ 리포트에서 제외 이유를 **fresh 상실 / balance 약화 / turnover trap** 식으로 더 짧게 표기"
+      "- ✅ **PROJECT.md에 “stalled mega-turnover core 자동 강등” 규칙 추가**",
+      "- ✅ **RE 같은 대금 앵커도 상단 구조가 꺾이면 즉시 제외하는 기준으로 단순화**",
+      "- ✅ 제외 사유를 **stalled-liquidity / turnover trap / headline mismatch** 중심으로 더 짧게 정리"
     ],
     "판단": [
-      "- aggressive-selective-continuation / aggressive 90%"
+      "- aggressive-rotation-85 / selective but still aggressive"
     ],
     "신뢰도": [
-      "- **medium-high**"
+      "- **medium**"
     ],
     "추천 행동": [
-      "- **RE 코어 유지**, **AXS·SAND 상단 베타 유지**, **MANA 고위치 실험**, **IP 균형 유지**",
-      "- **RE 1510 / AXS 1705 / SAND 90.0 / MANA 118 / IP 470** 하회 시 즉시 재평가"
+      "- **AXS 코어 유지**, **SAND·MANA 메타버스 상단 유지**, **ENSO·JTO 분산 continuation 유지**",
+      "- **AXS 1830 / SAND 92.0 / MANA 118 / ENSO 980 / JTO 1010** 하회 시 즉시 재평가"
     ],
     "리스크 메모": [
-      "- **RE 초대금 집중**이 매우 큼",
-      "- **AXS·SAND·MANA**는 테마 동조화가 있어 함께 식을 수 있음",
-      "- **fresh breakout 0개** 상태라 late chase 재가속은 조심해야 함",
-      "- 메이저 평균이 **50% 아래**로 더 밀리면 90% 배치는 줄여야 함"
+      "- 메이저 평균이 **35% 아래**로 더 밀리면 85%도 과할 수 있음",
+      "- **AXS·SAND·MANA**는 동조화 리스크가 큼",
+      "- **RE·SLX·IP** 같은 대금 상위 저위치 종목은 재진입 금지",
+      "- **SOL 상대강도 약화** 시 JTO 슬롯도 빠르게 식을 수 있음"
     ]
   }
 }
