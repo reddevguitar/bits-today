@@ -111,6 +111,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When major average range-position rebounds above roughly 80 within one cycle while 2개 이상 held survivor names are still below roughly 45% of the day range, and at least 1 non-major leader is printing a 90%+ upper-range breakout with real multi-5B KRW turnover, force the next cycle to raise deployment toward roughly 90%, keep at least 1 mega-liquidity reclaim slot, and replace those stale survivors instead of leaving the older 70% defensive basket intact.
 
+- When 2개 이상 current holdings collapse to roughly 20% or less of the day range but breadth improves enough to clear the weak_breadth_warning flag, force the next cycle to abandon those broken survivors and rebuild around 5 all-positive candidates instead of defending the older basket.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list
