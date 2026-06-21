@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 473998.6866877033,
-  "realized_pnl_krw": -6785252.810201072,
-  "last_valuation_krw": 3159991.244584689,
-  "last_action": "RESET_85_AXS_SAND_MANA_ENSO_JTO",
-  "last_updated": "2026-06-21T09:58:00+09:00",
-  "trade_count": 1027,
+  "cash_krw": 754815.3447258743,
+  "realized_pnl_krw": -6925982.675882265,
+  "last_valuation_krw": 3019261.378903496,
+  "last_action": "RESET_75_STRAX_NEAR_MEGA_JTO_CHIP",
+  "last_updated": "2026-06-21T15:58:00+09:00",
+  "trade_count": 1037,
   "positions": {
-    "AXS": {
-      "market": "KRW-AXS",
-      "amount": 282.1420754093472,
-      "avg_buy_price_krw": 1904.0,
-      "last_price_krw": 1904.0,
-      "value_krw": 537198.5115793971,
-      "thesis": "초대금과 상단 체류가 동시에 살아 있어 RE보다 더 건강한 코어로 승격합니다.",
-      "strategy": "mega-turnover gaming leader",
-      "role": "mega-turnover gaming leader",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
+    "STRAX": {
+      "market": "KRW-STRAX",
+      "amount": 25021.503140084216,
+      "avg_buy_price_krw": 18.1,
+      "last_price_krw": 18.1,
+      "value_krw": 452889.20683552435,
+      "thesis": "저위치 함정이 대부분인 세션에서 드문 95%대 상단 체류라 가장 공격적인 신규 코어입니다.",
+      "strategy": "high-beta breakout leader",
+      "role": "high-beta breakout leader",
+      "risk_limit_pct": 6,
+      "profit_take_pct": 12
     },
-    "SAND": {
-      "market": "KRW-SAND",
-      "amount": 5666.650966027396,
-      "avg_buy_price_krw": 94.8,
-      "last_price_krw": 94.8,
-      "value_krw": 537198.5115793971,
-      "thesis": "fresh 2개 중 하나이며 메이저 둔화 속에서도 90%대 위치를 유지합니다.",
-      "strategy": "fresh metaverse breakout",
-      "role": "fresh metaverse breakout",
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 134.30878020033344,
+      "avg_buy_price_krw": 3372.0,
+      "last_price_krw": 3372.0,
+      "value_krw": 452889.20683552435,
+      "thesis": "메이저 붕괴 구간에서도 range 90%대를 지키는 대형 알트라 바스켓 안정축 역할이 가능합니다.",
+      "strategy": "quality large-cap survivor",
+      "role": "quality large-cap survivor",
       "risk_limit_pct": 4,
+      "profit_take_pct": 7
+    },
+    "MEGA": {
+      "market": "KRW-MEGA",
+      "amount": 5229.66751542176,
+      "avg_buy_price_krw": 86.6,
+      "last_price_krw": 86.6,
+      "value_krw": 452889.20683552435,
+      "thesis": "JTO·CHIP보다 덜 과열된 80%대 continuation이라 중간 속도의 균형 슬롯으로 적합합니다.",
+      "strategy": "weekly-beta continuation",
+      "role": "weekly-beta continuation",
+      "risk_limit_pct": 5,
       "profit_take_pct": 9
-    },
-    "MANA": {
-      "market": "KRW-MANA",
-      "amount": 4439.657120490885,
-      "avg_buy_price_krw": 121.0,
-      "last_price_krw": 121.0,
-      "value_krw": 537198.5115793971,
-      "thesis": "낮은 체급이지만 range 100%를 지켜 고베타 보조 리더로 적합합니다.",
-      "strategy": "high-range secondary metaverse",
-      "role": "high-range secondary metaverse",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 11
-    },
-    "ENSO": {
-      "market": "KRW-ENSO",
-      "amount": 536.1262590612746,
-      "avg_buy_price_krw": 1002.0,
-      "last_price_krw": 1002.0,
-      "value_krw": 537198.5115793971,
-      "thesis": "RE·IP 대신 덜 지친 구조의 중대금 continuation을 채웁니다.",
-      "strategy": "liquid balance reclaim",
-      "role": "liquid balance reclaim",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 522.5666455052501,
-      "avg_buy_price_krw": 1028.0,
-      "last_price_krw": 1028.0,
-      "value_krw": 537198.5115793971,
-      "thesis": "메이저 4종 중 SOL만 플러스라 그 수혜를 받는 알트 베타로 적합합니다.",
-      "strategy": "solana-beta continuation",
-      "role": "solana-beta continuation",
+      "amount": 425.2480815357036,
+      "avg_buy_price_krw": 1065.0,
+      "last_price_krw": 1065.0,
+      "value_krw": 452889.20683552435,
+      "thesis": "JTX 기대와 솔라나 인프라 관심이 남아 있어 이번 약세 세션에서도 상대강도가 분명합니다.",
+      "strategy": "solana catalyst continuation",
+      "role": "solana catalyst continuation",
       "risk_limit_pct": 4,
       "profit_take_pct": 8
+    },
+    "CHIP": {
+      "market": "KRW-CHIP",
+      "amount": 8029.95047580717,
+      "avg_buy_price_krw": 56.4,
+      "last_price_krw": 56.4,
+      "value_krw": 452889.20683552435,
+      "thesis": "주간 리더 잔열이 아직 남아 있어 5번째 슬롯의 공격성 확보에 가장 효율적입니다.",
+      "strategy": "aggressive recovery beta",
+      "role": "aggressive recovery beta",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
       "symbol": "RE",
       "market": "KRW-RE",
-      "reason": "24h 대금 2,446.5억원은 압도적이지만 일중 위치 26.6%로 stalled-liquidity가 됐습니다. 60%+ 재회복 전 관찰만."
+      "reason": "2284억원 초대금에도 -6.04%, 22.9% 위치, -10.9% gap이라 대표 turnover trap입니다."
     },
     {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "거래대금은 충분하지만 16.7% 위치와 음전환으로 continuation 명분이 붕괴했습니다."
+      "symbol": "AXS",
+      "market": "KRW-AXS",
+      "reason": "91.6억원 대금이 남아도 9.1% 위치로 직전 게임 코어가 완전히 무너졌습니다."
     },
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "49.3억원 대금에도 20% 위치, -2.61%로 turnover trap 전환입니다."
+      "symbol": "SAND",
+      "market": "KRW-SAND",
+      "reason": "48.3억원 대금에도 9.6% 위치라 메타버스 리더 해석이 종료됐습니다."
+    },
+    {
+      "symbol": "WAVES",
+      "market": "KRW-WAVES",
+      "reason": "+14.25%와 247.3억원 대금은 강하지만 59.0% 위치·-7.85% gap, TokenPost 기준 매도 체결강도 0%라 과열 추격은 보류합니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "Sam Altman 연상도는 남지만 -0.76%, 46.2% 위치라 아직 headline 대비 가격이 약합니다."
+      "reason": "Sam Altman attention은 남지만 -1.62%, 33.3% 위치라 headline 대비 실제 가격이 약합니다."
     },
     {
       "symbol": "MET2",
       "market": "KRW-MET2",
-      "reason": "28.6억원 대금은 좋지만 36.4% 위치와 -5.36% gap로 late reclaim 품질이 부족합니다."
-    },
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "fresh 100% 구조지만 밈 메이저 성격이 강해 이번 회차는 참고 신호로만 유지합니다."
+      "reason": "양전환이지만 26.8% 위치와 -10.71% gap이 커 stalled positive liquidity로 분류합니다."
     }
   ],
   "history": [
@@ -9345,6 +9345,96 @@
       "amount_delta": 522.5666455052501,
       "cash_delta_krw": -537198.5115793971,
       "reason": "지토는 솔라나 상대강도와 함께 76.9% 위치를 지키는 고유동성 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "AXS",
+      "action": "SELL",
+      "price_krw": 1727.0,
+      "amount_delta": -282.1420754093472,
+      "cash_delta_krw": 487259.3642319427,
+      "reason": "메이저 평균 35.0%, fresh 0, weak breadth warning이라 게임·메타버스 붕괴 바스켓을 버리고 STRAX·NEAR·MEGA·JTO·CHIP 75% 동일비중으로 재편"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "SAND",
+      "action": "SELL",
+      "price_krw": 87.0,
+      "amount_delta": -5666.650966027396,
+      "cash_delta_krw": 492998.6340443834,
+      "reason": "메이저 평균 35.0%, fresh 0, weak breadth warning이라 게임·메타버스 붕괴 바스켓을 버리고 STRAX·NEAR·MEGA·JTO·CHIP 75% 동일비중으로 재편"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "MANA",
+      "action": "SELL",
+      "price_krw": 114.0,
+      "amount_delta": -4439.657120490885,
+      "cash_delta_krw": 506120.9117359609,
+      "reason": "메이저 평균 35.0%, fresh 0, weak breadth warning이라 게임·메타버스 붕괴 바스켓을 버리고 STRAX·NEAR·MEGA·JTO·CHIP 75% 동일비중으로 재편"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "SELL",
+      "price_krw": 937.0,
+      "amount_delta": -536.1262590612746,
+      "cash_delta_krw": 502350.3047404143,
+      "reason": "메이저 평균 35.0%, fresh 0, weak breadth warning이라 게임·메타버스 붕괴 바스켓을 버리고 STRAX·NEAR·MEGA·JTO·CHIP 75% 동일비중으로 재편"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1065.0,
+      "amount_delta": -522.5666455052501,
+      "cash_delta_krw": 556533.4774630914,
+      "reason": "메이저 평균 35.0%, fresh 0, weak breadth warning이라 게임·메타버스 붕괴 바스켓을 버리고 STRAX·NEAR·MEGA·JTO·CHIP 75% 동일비중으로 재편"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "STRAX",
+      "action": "BUY",
+      "price_krw": 18.1,
+      "amount_delta": 25021.503140084216,
+      "cash_delta_krw": -452889.20683552435,
+      "reason": "Compass 출시 이후 저위치 알트들 사이에서 드물게 95.3% 상단을 유지한 초고베타 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3372.0,
+      "amount_delta": 134.30878020033344,
+      "cash_delta_krw": -452889.20683552435,
+      "reason": "메이저 제외 체급 알트 중 92.9% 위치와 얕은 -0.21% gap이 가장 깔끔한 품질 생존주입니다."
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 86.6,
+      "amount_delta": 5229.66751542176,
+      "cash_delta_krw": -452889.20683552435,
+      "reason": "주간 강세 잔열과 110.9억원 대금, 82.3% 위치가 겹친 균형형 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1065.0,
+      "amount_delta": 425.2480815357036,
+      "cash_delta_krw": -452889.20683552435,
+      "reason": "JTX 수수료 환원 기대와 업비트 관심이 남아 있는 솔라나 인프라 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-21T15:58:00+09:00",
+      "symbol": "CHIP",
+      "action": "BUY",
+      "price_krw": 56.4,
+      "amount_delta": 8029.95047580717,
+      "cash_delta_krw": -452889.20683552435,
+      "reason": "주간 급등 후에도 118.3억원 대금과 62.1% 위치를 유지한 공격 보조축입니다."
     }
   ]
 }
