@@ -2,109 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 733174.7175560449,
-  "realized_pnl_krw": -7012545.184561582,
-  "last_valuation_krw": 2932698.8702241797,
-  "last_action": "ROTATE_75_WLD_MEGA_ID_JUP_SPK",
-  "last_updated": "2026-06-22T03:58:00+09:00",
-  "trade_count": 1057,
+  "cash_krw": 583314.5969358946,
+  "realized_pnl_krw": -7028671.070106288,
+  "last_valuation_krw": 2916572.9846794726,
+  "last_action": "ROTATE_80_WLD_ENA_ONDO_NEAR_MMT",
+  "last_updated": "2026-06-22T15:58:00+09:00",
+  "trade_count": 1077,
   "positions": {
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 459.19084606850413,
-      "avg_buy_price_krw": 958.0,
-      "last_price_krw": 958.0,
-      "value_krw": 439904.83053362696,
-      "thesis": "public-figure 연상도는 남지만 오늘은 실제 거래대금과 상단 유지가 함께 붙었습니다.",
-      "strategy": "mega-liquidity attention continuation",
-      "role": "mega-liquidity attention continuation",
+      "amount": 481.5806785848459,
+      "avg_buy_price_krw": 969.0,
+      "last_price_krw": 969.0,
+      "value_krw": 466651.67754871567,
+      "thesis": "공격성은 유지하되 public-figure/attention 슬롯은 WLD 1개로 제한합니다.",
+      "strategy": "mega-liquidity AI attention anchor",
+      "role": "mega-liquidity AI attention anchor",
       "risk_limit_pct": 4,
       "profit_take_pct": 8
     },
-    "MEGA": {
-      "market": "KRW-MEGA",
-      "amount": 5103.304298533955,
-      "avg_buy_price_krw": 86.2,
-      "last_price_krw": 86.2,
-      "value_krw": 439904.83053362696,
-      "thesis": "WLD보다 덜 시끄럽고 ID보다 gap이 훨씬 깨끗해 이번 회차 균형 코어입니다.",
-      "strategy": "clean continuation core",
-      "role": "clean continuation core",
+    "ENA": {
+      "market": "KRW-ENA",
+      "amount": 3286.2794193571526,
+      "avg_buy_price_krw": 142.0,
+      "last_price_krw": 142.0,
+      "value_krw": 466651.67754871567,
+      "thesis": "체급은 WLD보다 작지만 오늘 톱5 중 가장 깨끗한 고위치 continuation 중 하나입니다.",
+      "strategy": "high-range onchain-savings continuation",
+      "role": "high-range onchain-savings continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 10
+    },
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 920.4175099580191,
+      "avg_buy_price_krw": 507.0,
+      "last_price_krw": 507.0,
+      "value_krw": 466651.67754871567,
+      "thesis": "fresh는 아니지만 장이 식을 때 바스켓을 버티는 대형 quality slot입니다.",
+      "strategy": "institutional RWA reclaim",
+      "role": "institutional RWA reclaim",
       "risk_limit_pct": 4,
       "profit_take_pct": 7
     },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 9399.67586610314,
-      "avg_buy_price_krw": 46.8,
-      "last_price_krw": 46.8,
-      "value_krw": 439904.83053362696,
-      "thesis": "gap은 아쉽지만 WLD·MEGA 다음으로 실제 수익률과 대금이 강해 바스켓에 남길 가치가 있습니다.",
-      "strategy": "high-beta mid-cap continuation",
-      "role": "high-beta mid-cap continuation",
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 143.71779413265034,
+      "avg_buy_price_krw": 3247.0,
+      "last_price_krw": 3247.0,
+      "value_krw": 466651.67754871567,
+      "thesis": "메이저 제외 체급 보강 슬롯으로 변동성을 낮추면서도 추세를 유지합니다.",
+      "strategy": "large-cap AI infra continuation",
+      "role": "large-cap AI infra continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 7
+    },
+    "MMT": {
+      "market": "KRW-MMT",
+      "amount": 1787.937461872474,
+      "avg_buy_price_krw": 261.0,
+      "last_price_krw": 261.0,
+      "value_krw": 466651.67754871567,
+      "thesis": "JTO·XLM 대신 더 높은 위치와 더 나은 구조를 가진 중형 continuation으로 승격합니다.",
+      "strategy": "mid-cap momentum continuation",
+      "role": "mid-cap momentum continuation",
       "risk_limit_pct": 5,
       "profit_take_pct": 9
-    },
-    "JUP": {
-      "market": "KRW-JUP",
-      "amount": 1333.0449410109907,
-      "avg_buy_price_krw": 330.0,
-      "last_price_krw": 330.0,
-      "value_krw": 439904.83053362696,
-      "thesis": "대금은 메인 코어보다 작지만 JTO보다 상단 회복 품질이 좋아 교체 승격합니다.",
-      "strategy": "secondary structured continuation",
-      "role": "secondary structured continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8
-    },
-    "SPK": {
-      "market": "KRW-SPK",
-      "amount": 16172.97171079511,
-      "avg_buy_price_krw": 27.2,
-      "last_price_krw": 27.2,
-      "value_krw": 439904.83053362696,
-      "thesis": "저유동성 리스크는 있지만 현 시점 STRAX·SOON보다 구조가 훨씬 깨끗해 마무리 슬롯에 적합합니다.",
-      "strategy": "small-cap high-range finisher",
-      "role": "small-cap high-range finisher",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
     }
   },
   "watchlist": [
     {
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "75.6% 위치와 758.1억원 대금은 강하지만 오늘 토큰 unlock 리스크와 -6.43% gap 때문에 preferred에서는 한 칸 뒤로 둡니다."
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "63.3% 위치와 87.7억원 대금으로 깨끗하지만 ENA·NEAR 대비 업사이드가 약간 덜 공격적입니다."
+    },
+    {
+      "symbol": "W",
+      "market": "KRW-W",
+      "reason": "62.5% 위치와 74.0억원 대금으로 양호하나 WLD·ENA가 더 강한 AI/주의집중 슬롯입니다."
+    },
+    {
+      "symbol": "AQT",
+      "market": "KRW-AQT",
+      "reason": "상승률은 가장 강하지만 -8.40% gap가 커서 현재는 추격보다 재정비 확인이 우선입니다."
+    },
+    {
       "symbol": "STRAX",
       "market": "KRW-STRAX",
-      "reason": "35.6억원 대금은 남았지만 46.3% 위치와 -14.95% gap로 전형적인 fade leader입니다."
+      "reason": "대금은 매우 크지만 52.2% 위치·-6.29% gap로 preferred 톱5보다는 한 단계 아래입니다."
     },
     {
       "symbol": "TRUMP",
       "market": "KRW-TRUMP",
-      "reason": "양수는 유지했지만 40.0% 위치와 -6.61% gap라 headline 슬롯 우위가 사라졌습니다."
+      "reason": "332.8억원 대금은 강하지만 39.2% 위치라 public-figure 슬롯 재진입 근거가 약합니다."
     },
     {
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "reason": "대금은 충분해도 34.0% 위치라 JUP보다 구조가 무겁습니다."
+      "reason": "대금은 남아도 44.3% 위치로 breakout 해석이 무너져 watchlist로 후퇴합니다."
     },
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "45.1억원 대금은 크지만 -10.14% gap라 late rebound trap 가능성이 큽니다."
-    },
-    {
-      "symbol": "MET2",
-      "market": "KRW-MET2",
-      "reason": "+7.82%는 좋지만 46.9% 위치와 -9.03% gap로 추격 품질이 떨어집니다."
-    },
-    {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "속도는 남아도 45.7% 위치와 -6.76% gap라 상단 유지력이 약해졌습니다."
-    },
-    {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "79.1% 위치와 -2.15% gap는 매력적이지만 19.2억원 대금이라 메인 승격은 보류합니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "245.7억원 대금에도 27.3% 위치라 유동성 대비 구조가 나쁩니다."
     }
   ],
   "history": [
@@ -9620,6 +9625,186 @@
       "amount_delta": 16172.97171079511,
       "cash_delta_krw": -439904.83053362696,
       "reason": "+4.62%, 20.0억원, 86.7% 위치, -0.73% gap으로 오늘 보드에서 가장 깨끗한 소형 상단 유지주 중 하나입니다."
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 943.0,
+      "amount_delta": -459.19084606850413,
+      "cash_delta_krw": 433016.9678425994,
+      "reason": "메이저 평균 83.3%·fresh breakout 7로 레짐이 강세 확장으로 전환돼 85% 동일비중 breakout/continuation 바스켓으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 86.9,
+      "amount_delta": -5103.304298533955,
+      "cash_delta_krw": 443477.14354260074,
+      "reason": "메이저 평균 83.3%·fresh breakout 7로 레짐이 강세 확장으로 전환돼 85% 동일비중 breakout/continuation 바스켓으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 48.0,
+      "amount_delta": -9399.67586610314,
+      "cash_delta_krw": 451184.4415729507,
+      "reason": "메이저 평균 83.3%·fresh breakout 7로 레짐이 강세 확장으로 전환돼 85% 동일비중 breakout/continuation 바스켓으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "JUP",
+      "action": "SELL",
+      "price_krw": 321.0,
+      "amount_delta": -1333.0449410109907,
+      "cash_delta_krw": 427907.426064528,
+      "reason": "메이저 평균 83.3%·fresh breakout 7로 레짐이 강세 확장으로 전환돼 85% 동일비중 breakout/continuation 바스켓으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "SPK",
+      "action": "SELL",
+      "price_krw": 27.9,
+      "amount_delta": -16172.97171079511,
+      "cash_delta_krw": 451225.91073118354,
+      "reason": "메이저 평균 83.3%·fresh breakout 7로 레짐이 강세 확장으로 전환돼 85% 동일비중 breakout/continuation 바스켓으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 943.0,
+      "amount_delta": 530.0081900770775,
+      "cash_delta_krw": -499797.72324268415,
+      "reason": "WLD는 823.3억원 최대급 대금과 76.3% 위치, -0.95% gap로 이번 레짐 전환의 앵커입니다."
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 998.0,
+      "amount_delta": 500.79932188645705,
+      "cash_delta_krw": -499797.72324268415,
+      "reason": "JTO는 202.6억원 대금과 97.0% 위치, 0% gap로 오늘 가장 깔끔한 fresh breakout 중 하나입니다."
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 321.0,
+      "amount_delta": 1557.002253092474,
+      "cash_delta_krw": -499797.72324268415,
+      "reason": "XLM은 222.2억원 대금과 100% 위치, 0% gap로 저체력장과 전혀 다른 확장 신호를 보여줍니다."
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 508.0,
+      "amount_delta": 983.8537859107955,
+      "cash_delta_krw": -499797.72324268415,
+      "reason": "ONDO는 225.3억원 대금과 81.8% 위치, -0.39% gap로 기관/RWA 서사가 가장 단정하게 살아 있습니다."
+    },
+    {
+      "timestamp": "2026-06-22T09:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 86.9,
+      "amount_delta": 5751.412235243776,
+      "cash_delta_krw": -499797.72324268415,
+      "reason": "MEGA는 116.5억원 대금과 82.1% 위치, -0.57% gap로 중형 확장 바스켓의 가장 깨끗한 지속축입니다."
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 969.0,
+      "amount_delta": -530.0081900770775,
+      "cash_delta_krw": 513577.9361846881,
+      "reason": "코어는 유지하되 15:58 기준 80% survivor/reclaim 바스켓 동일비중으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 979.0,
+      "amount_delta": -500.79932188645705,
+      "cash_delta_krw": 490282.53612684144,
+      "reason": "fresh breakout이 0으로 줄었고 JTO는 44.3% 위치로 식어 ENA로 교체"
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 319.0,
+      "amount_delta": -1557.002253092474,
+      "cash_delta_krw": 496683.7187364992,
+      "reason": "245.7억원 대금에도 27.3% 위치라 large-cap continuation인 NEAR로 교체"
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 507.0,
+      "amount_delta": -983.8537859107955,
+      "cash_delta_krw": 498813.86945677333,
+      "reason": "기관서사 코어는 유지하되 15:58 가격 기준 80% 바스켓 동일비중으로 재편"
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "MEGA",
+      "action": "SELL",
+      "price_krw": 82.8,
+      "amount_delta": -5751.412235243776,
+      "cash_delta_krw": 476216.93307818467,
+      "reason": "-3.04%와 17.7% 위치로 구조가 깨져 MMT continuation으로 교체"
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 969.0,
+      "amount_delta": 481.5806785848459,
+      "cash_delta_krw": -466651.67754871567,
+      "reason": "913.9억원 대금, 87.7% 위치, -0.82% gap로 지금도 가장 읽기 쉬운 업비트 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "ENA",
+      "action": "BUY",
+      "price_krw": 142.0,
+      "amount_delta": 3286.2794193571526,
+      "cash_delta_krw": -466651.67754871567,
+      "reason": "72.2억원 대금이어도 91.7% 위치와 -0.70% gap가 매우 깔끔해 소형 고품질 돌파 잔존주입니다."
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 507.0,
+      "amount_delta": 920.4175099580191,
+      "cash_delta_krw": -466651.67754871567,
+      "reason": "240.6억원 대금과 -1.36% gap 대비 58.8% 위치로 대형 RWA 축 중 가장 안정적인 reclaim입니다."
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 3247.0,
+      "amount_delta": 143.71779413265034,
+      "cash_delta_krw": -466651.67754871567,
+      "reason": "134.1억원 대금, 66.7% 위치, -1.28% gap로 대형 체급 중 가장 매끈한 continuation 구조입니다."
+    },
+    {
+      "timestamp": "2026-06-22T15:58:00+09:00",
+      "symbol": "MMT",
+      "action": "BUY",
+      "price_krw": 261.0,
+      "amount_delta": 1787.937461872474,
+      "cash_delta_krw": -466651.67754871567,
+      "reason": "127.5억원 대금과 73.7% 위치, -1.88% gap 조합이 좋아 중형 베타 슬롯으로 적합합니다."
     }
   ]
 }
