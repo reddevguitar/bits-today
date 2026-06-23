@@ -2,119 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 426395.73529831605,
+  "cash_krw": 820711.8924708026,
   "realized_pnl_krw": -7102605.819463654,
-  "last_valuation_krw": 2842638.235322107,
-  "last_action": "REBALANCE_85_ID_WLD_SUI_JTO_ENSO",
-  "last_updated": "2026-06-23T09:59:00+09:00",
-  "trade_count": 1098,
+  "last_valuation_krw": 2735706.3082360085,
+  "last_action": "REBALANCE_70_ZETA_XPL_MET2_ID_LAYER",
+  "last_updated": "2026-06-23T15:58:00+09:00",
+  "trade_count": 1108,
   "positions": {
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 8135.496633076738,
-      "avg_buy_price_krw": 59.4,
-      "last_price_krw": 59.4,
-      "value_krw": 483248.50000475824,
-      "thesis": "공급 이벤트를 소화한 identity rail 리더로 오전 공격 바스켓의 1번 슬롯입니다.",
-      "strategy": "unlock-absorbed identity breakout",
-      "role": "unlock-absorbed identity breakout",
+    "ZETA": {
+      "market": "KRW-ZETA",
+      "amount": 6351.55693454463,
+      "avg_buy_price_krw": 60.3,
+      "last_price_krw": 60.3,
+      "value_krw": 382998.8831530412,
+      "thesis": "메이저 붕괴 구간에서 드문 90%+ 고위치 생존주라 방어적 공격 슬롯 1번입니다.",
+      "strategy": "clean secondary breakout survivor",
+      "role": "clean secondary breakout survivor",
       "risk_limit_pct": 5,
-      "profit_take_pct": 9
+      "profit_take_pct": 10
     },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 509.75580169278294,
-      "avg_buy_price_krw": 948.0,
-      "last_price_krw": 948.0,
-      "value_krw": 483248.50000475824,
-      "thesis": "headline 슬롯은 1개만 두되, 이번 오전엔 WLD가 다시 상단 체류를 회복해 유지보다 재강화 해석이 맞습니다.",
-      "strategy": "mega-liquidity proof-of-human continuation",
-      "role": "mega-liquidity proof-of-human continuation",
+    "XPL": {
+      "market": "KRW-XPL",
+      "amount": 2923.6555965881007,
+      "avg_buy_price_krw": 131.0,
+      "last_price_krw": 131.0,
+      "value_krw": 382998.8831530412,
+      "thesis": "폭락장에서는 대형보다 깨끗한 고가권 유지가 우선이라, XPL을 순수 구조 슬롯으로 채택합니다.",
+      "strategy": "micro-liquidity full-range continuation",
+      "role": "micro-liquidity full-range continuation",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8
+    },
+    "MET2": {
+      "market": "KRW-MET2",
+      "amount": 1589.2069840375152,
+      "avg_buy_price_krw": 241.0,
+      "last_price_krw": 241.0,
+      "value_krw": 382998.8831530412,
+      "thesis": "5종 중 한 자리는 70%대 clean continuation으로 두어 바스켓 품질을 유지합니다.",
+      "strategy": "secondary continuation balance",
+      "role": "secondary continuation balance",
       "risk_limit_pct": 4,
       "profit_take_pct": 7
     },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 443.34724771078737,
-      "avg_buy_price_krw": 1090.0,
-      "last_price_krw": 1090.0,
-      "value_krw": 483248.50000475824,
-      "thesis": "급등주 대신 체급 있는 continuation 1개는 남겨 포트폴리오 변동성 균형을 잡습니다.",
-      "strategy": "large-cap continuation balance",
-      "role": "large-cap continuation balance",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 6
-    },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 479.4131944491649,
-      "avg_buy_price_krw": 1008.0,
-      "last_price_krw": 1008.0,
-      "value_krw": 483248.50000475824,
-      "thesis": "fresh breakout 수가 1개로 줄었기 때문에 그 1개를 반드시 바스켓에 넣는 편이 기대값이 높습니다.",
-      "strategy": "fresh solana-defi breakout",
-      "role": "fresh solana-defi breakout",
+    "ID": {
+      "market": "KRW-ID",
+      "amount": 6546.9894556075415,
+      "avg_buy_price_krw": 58.5,
+      "last_price_krw": 58.5,
+      "value_krw": 382998.8831530412,
+      "thesis": "완전히 버리기엔 유동성과 양수가 남아 있어, 이번 회차 유일한 mega-turnover salvage 코어로 유지합니다.",
+      "strategy": "mega-liquidity salvage core",
+      "role": "mega-liquidity salvage core",
       "risk_limit_pct": 5,
       "profit_take_pct": 8
     },
-    "ENSO": {
-      "market": "KRW-ENSO",
-      "amount": 465.55732177722376,
-      "avg_buy_price_krw": 1038.0,
-      "last_price_krw": 1038.0,
-      "value_krw": 483248.50000475824,
-      "thesis": "fresh가 부족한 오전엔 ENA 같은 실패한 새벽 브레이크아웃보다 ENSO 같은 실전 continuation이 더 낫습니다.",
-      "strategy": "mid-cap continuation upgrade",
-      "role": "mid-cap continuation upgrade",
+    "LAYER": {
+      "market": "KRW-LAYER",
+      "amount": 3191.6573596086764,
+      "avg_buy_price_krw": 120.0,
+      "last_price_krw": 120.0,
+      "value_krw": 382998.8831530412,
+      "thesis": "강한 대금과 양수는 남았으나 과열은 식은 회복형이라, 저품질 폭등주 대신 제한적으로 채택합니다.",
+      "strategy": "high-turnover recovery salvage",
+      "role": "high-turnover recovery salvage",
       "risk_limit_pct": 5,
       "profit_take_pct": 9
     }
   },
   "watchlist": [
     {
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "reason": "양수는 남았지만 35.4% 위치와 -6.91% gap라 salvage 3순위입니다."
+    },
+    {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "뉴스는 있지만 19.3% 위치, -7.05% gap로 headline trap입니다."
+    },
+    {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "24.95억원 대금과 83.3% 위치 회복은 좋지만 24시간 음수라 이번 회차는 watchlist로 한 단계 내렸습니다."
+      "reason": "29.5억원 대금이어도 -4.63%, 22.6% 위치라 아직 구조 복구가 없습니다."
     },
     {
-      "symbol": "ENA",
-      "market": "KRW-ENA",
-      "reason": "Coinbase 연계 서사는 여전히 좋지만 가격은 137원·50% 위치로 식어 JTO·ENSO보다 뒤입니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "체급은 좋지만 25.3% 위치로 메이저 하락을 방어하지 못했습니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "34.36억원 대금은 강해도 304원·40% 위치로 무효화 복구가 부족합니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "failed breakout 확인 뒤 14.0% 위치까지 밀려 freshness가 사라졌습니다."
     },
     {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "18.45억원 대금과 66.7% 위치는 회복됐지만 품질과 내러티브 면에서 ID·WLD·SUI·JTO·ENSO보다 한 단계 약합니다."
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "50% 위치와 -3.27% gap로 애매한 중립 회복이라 한 단계 더 지켜봅니다."
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "100% 위치와 64.3억원 대금은 좋지만 체급이 아직 5종 코어보다 작아 2순위입니다."
+      "symbol": "MOC",
+      "market": "KRW-MOC",
+      "reason": "50% 위치와 -2.83% gap는 무난하지만 코어 승격할 정도의 추세는 아닙니다."
     },
     {
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "96.4% 위치는 좋지만 59.2억원 대금이라 이번 회차는 보조 fresh 후보로만 둡니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "87.5% 위치는 좋지만 46.6억원 대금이라 오전 코어 승격은 보류합니다."
-    },
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "100% 위치라도 톱4 메이저 제외 규칙 때문에 참고 신호로만 유지합니다."
-    },
-    {
-      "symbol": "TRUMP",
-      "market": "KRW-TRUMP",
-      "reason": "100.4억원 대금과 100% 위치는 강하지만 meme/political 슬롯을 늘릴 이유는 없습니다."
+      "symbol": "AVAX",
+      "market": "KRW-AVAX",
+      "reason": "-1.22%지만 44.3% 위치라 quality rebound 후보로만 둡니다."
     }
   ],
   "history": [
@@ -9999,6 +9994,96 @@
       "amount_delta": 465.55732177722376,
       "cash_delta_krw": -483248.50000475824,
       "reason": "106.6억원 대금과 +6.9%, 80.6% 위치 조합이 가장 공격적인 중형 continuation입니다. ENA보다 실제 follow-through가 더 강합니다."
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 58.5,
+      "amount_delta": -8135.496633076738,
+      "cash_delta_krw": 475926.5530349892,
+      "reason": "오전 mega-liquidity 리더였지만 메이저 평균이 80.6%→26.0%로 붕괴했고 range 39.1%까지 밀려 salvage 1슬롯만 허용하는 70% 재편으로 축소"
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 884.0,
+      "amount_delta": -509.75580169278294,
+      "cash_delta_krw": 450624.1286964201,
+      "reason": "World 호재에도 19.3% 위치와 -7.05% gap로 완전한 turnover trap이 확인돼 전량 정리"
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1041.0,
+      "amount_delta": -443.34724771078737,
+      "cash_delta_krw": 461524.48486692965,
+      "reason": "대형 균형축 역할이 깨지고 25.3% 위치, -4.32% 약세가 확인돼 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 967.0,
+      "amount_delta": -479.4131944491649,
+      "cash_delta_krw": 463592.55903234245,
+      "reason": "유일한 fresh breakout이 14.0% 위치까지 붕괴해 failed breakout으로 전량 정리"
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "SELL",
+      "price_krw": 983.0,
+      "amount_delta": -465.55732177722376,
+      "cash_delta_krw": 457642.84730701096,
+      "reason": "양수는 남았지만 35.4% 위치와 -6.91% gap로 salvage 우선순위가 ID·LAYER보다 낮아 watchlist로 이동"
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "ZETA",
+      "action": "BUY",
+      "price_krw": 60.3,
+      "amount_delta": 6351.55693454463,
+      "cash_delta_krw": -382998.8831530412,
+      "reason": "3.09억원이 아니라 30.9억원급 대금은 아니지만 30.9억원도 아니고 30.94억원, 97.6% 위치, -0.17% gap으로 이번 약세장에 가장 깔끔한 상단 유지입니다."
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "XPL",
+      "action": "BUY",
+      "price_krw": 131.0,
+      "amount_delta": 2923.6555965881007,
+      "cash_delta_krw": -382998.8831530412,
+      "reason": "38.9억원 대금과 100% 위치, 0% gap 조합으로 오늘 업비트 보드에서 가장 명확한 full-range 유지 종목입니다."
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "MET2",
+      "action": "BUY",
+      "price_krw": 241.0,
+      "amount_delta": 1589.2069840375152,
+      "cash_delta_krw": -382998.8831530412,
+      "reason": "34.7억원 대금과 73.9% 위치, -2.43% gap로 저유동성 과열주보다 훨씬 읽기 쉬운 2차 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 58.5,
+      "amount_delta": 6546.9894556075415,
+      "cash_delta_krw": -382998.8831530412,
+      "reason": "90.0억원이 아니라 900.3억원급 대금 속에서도 여전히 +3.9%를 지키는 유일한 초대금 양수 리더입니다. 다만 고점 대비 -8.31% gap이라 추격이 아니라 salvage 코어로만 다룹니다."
+    },
+    {
+      "timestamp": "2026-06-23T15:58:00+09:00",
+      "symbol": "LAYER",
+      "action": "BUY",
+      "price_krw": 120.0,
+      "amount_delta": 3191.6573596086764,
+      "cash_delta_krw": -382998.8831530412,
+      "reason": "449.6억원 대금과 +7.14%는 강하지만 위치 45.5%, gap -9.09%로 이미 많이 식었습니다. 그래도 TT 같은 blowoff보다 훨씬 정상적인 대형 회복 슬롯입니다."
     }
   ]
 }

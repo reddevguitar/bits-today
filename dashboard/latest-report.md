@@ -1,65 +1,65 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-23 09:59 KST
-- 기준 한줄: **기존 5종 중 4개가 사실상 깨졌습니다.** 이번 오전은 HOLD가 아니라 **ID·WLD·SUI·JTO·ENSO 85% 재편**이 맞습니다.
-- 시장 한줄 요약: 메이저는 아직 버티지만 알트 breadth는 **12개 → 4개 양수**로 급격히 좁아졌습니다. 그래서 **깨진 바스켓 방어보다 소수 강자 재편**이 우선입니다.
+- 시각: 2026-06-23 15:58 KST
+- 기준 한줄: **메이저 평균 위치 26.0 / fresh breakout 0.** 이번 오후는 **85% 유지가 아니라 ZETA·XPL·MET2·ID·LAYER 70% 축소 재편**이 맞습니다.
+- 시장 한줄 요약: 메이저 4종이 모두 음수이고 top15 비메이저 저위치가 **11개**라, **대금 큰 종목보다 실제로 버티는 종목**이 우선입니다.
 - 공포탐욕지수: **23 (Extreme Fear, Alternative.me API)**
-- BTC 참고: **BTC 96.797M원 / ETH 2.611M원 / XRP 1,707원 / SOL 108.5K원**
+- BTC 참고: **BTC 94.870M원 / ETH 2.550M원 / XRP 1,679원 / SOL 106.1K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🆔 **ID** — 59.4원 / **+5.51%** / 962.2억원 / 위치 86.4% / unlock-absorbed identity breakout
-- 🌍 **WLD** — 948원 / **+1.39%** / 877.5억원 / 위치 88.2% / mega-liquidity proof-of-human continuation
-- 🌊 **SUI** — 1,090원 / **+0.18%** / 126.0억원 / 위치 84.6% / large-cap continuation balance
-- 🪂 **JTO** — 1,008원 / **+1.72%** / 110.7억원 / 위치 100.0% / fresh solana-defi breakout
-- 🌀 **ENSO** — 1,038원 / **+6.90%** / 106.6억원 / 위치 80.6% / mid-cap continuation upgrade
+- 🟣 **ZETA** — 60.3원 / **+6.54%** / 30.9억원 / 위치 **97.6%** / clean secondary breakout survivor
+- 💳 **XPL** — 131원 / **+1.55%** / 38.9억원 / 위치 **100.0%** / full-range continuation
+- 🧱 **MET2** — 241원 / **+1.26%** / 34.7억원 / 위치 **73.9%** / secondary continuation balance
+- 🆔 **ID** — 58.5원 / **+3.91%** / 900.3억원 / 위치 **39.1%** / mega-liquidity salvage core
+- ☀️ **LAYER** — 120원 / **+7.14%** / 449.6억원 / 위치 **45.5%** / high-turnover recovery salvage
 
 ## 제외된 메이저 참고 신호
-- BTC 99.3% / ETH 83.3% / XRP 70.0% / SOL 70.0%
-- 메이저 평균 **80.65% 위치**
-- top15 비메이저 양수 **4개**, fresh breakout **1개**, high conviction **8개**
+- BTC **23.7%** / ETH **20.5%** / XRP **27.3%** / SOL **32.5%**
+- 메이저 평균 **26.0% 위치**
+- top15 비메이저 양수 **4개**, 저위치 **11개**, fresh breakout **0개**
 
 ## 공격 포트폴리오 전략
-- 실투입: **85%**, 5종 **동일비중 재편**
-- 타깃: 각 약 **483,249원**
-- 현금: 약 **426,396원 (15%)**
-- 핵심 논리: **메이저는 안 무너졌지만 기존 5종은 대부분 무효화** → 바스켓 방어보다 **ID/JTO 중심 hard reset**이 유리합니다.
+- 실투입: **70%**, 5종 **동일비중**
+- 타깃: 각 약 **382,999원**
+- 현금: 약 **820,712원 (30%)**
+- 핵심 논리: **오전 바스켓 5종 중 4종이 사실상 실패** → 이번엔 **3개 clean continuation + 2개 salvage**만 유지
 
 ## 가상 매매 실행 내용
-- 실행: **SELL WLD·ENA·ONDO·SUI·XLM / BUY ID·WLD·SUI·JTO·ENSO**
-- 교체 핵심: **ENA→ENSO / ONDO→ID / XLM→JTO**
-- 마지막 액션: **REBALANCE_85_ID_WLD_SUI_JTO_ENSO**
+- 실행: **SELL ID·WLD·SUI·JTO·ENSO / BUY ZETA·XPL·MET2·ID·LAYER**
+- 교체 핵심: **WLD→ZETA / SUI→XPL / JTO→MET2 / ENSO→LAYER / ID는 축소 유지**
+- 마지막 액션: **REBALANCE_70_ZETA_XPL_MET2_ID_LAYER**
 
 ## 현재 포트폴리오 현황
-- ID **8,135.4966개 @ 59.4원**
-- WLD **509.7569개 @ 948원**
-- SUI **443.3472개 @ 1,090원**
-- JTO **479.4132개 @ 1,008원**
-- ENSO **465.5573개 @ 1,038원**
-- 현금 **426,395.7원** / 총평가 **2,842,638.2원**
+- ZETA **6,351.5569개 @ 60.3원**
+- XPL **2,923.6556개 @ 131원**
+- MET2 **1,589.2070개 @ 241원**
+- ID **6,546.9895개 @ 58.5원**
+- LAYER **3,191.6574개 @ 120원**
+- 현금 **820,711.9원** / 총평가 **2,735,706.3원**
 
 ## 자기 평가
-- 장점: **broken basket을 인정하고 HOLD 관성을 끊었습니다.**
-- 아쉬움: **직전 새벽에 near-invalidation 5종을 너무 오래 방어했습니다.**
-- 점수: **7.8 / 10**
+- 장점: **failed breakout과 turnover trap을 인정하고 오후에 바로 감속했습니다.**
+- 아쉬움: **오전 85% hard reset이 breadth 붕괴 속도 대비 너무 공격적이었습니다.**
+- 점수: **6.9 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **메이저가 버텨도 보유 4개 이상이 무효화되면 hard reset을 강제하는 규칙 추가**
-- ✅ **리포트 첫 줄에 기존 바스켓 붕괴 여부를 바로 보이게 단순화**
-- ✅ **뉴스는 좋지만 가격이 못 받는 종목을 watchlist 강등하는 문구를 더 명확히 기록**
+- ✅ **weak_breadth_warning + 메이저 평균 40p 이상 급락 + fresh 0이면 70%로 제한하는 규칙 추가**
+- ✅ **리포트 첫 문단에 fresh breakout 0 / 저위치 개수 / 메이저 평균 위치를 바로 노출**
+- ✅ **TT 같은 폭등주를 exhausted blowoff로 명시해 추격 제외 근거를 강화**
 
 ## 판단
-- aggressive-85-hard-reset / **ID·WLD 중심 + SUI 균형 + JTO fresh + ENSO continuation**
+- defensive-aggressive-70-full-reset / **clean continuation 3 + salvage 2 + 현금 30%**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **ID 57.8 / WLD 940 / SUI 1082 / JTO 1000 / ENSO 1010** 하회 시 즉시 재평가
-- **ONDO는 음수라 watchlist**, **ENA는 뉴스는 좋지만 구조가 약함**
-- **다음 회차에도 breadth가 더 줄면 75~80%로 추가 감속 검토**
+- **ZETA 58.8 / XPL 129 / MET2 236 / ID 56.0 / LAYER 116** 하회 시 즉시 재평가
+- **WLD·SUI·JTO는 구조 붕괴**, **ENSO는 watchlist**, **ONDO는 아직 복구 전**
+- 다음 회차에도 fresh가 **0**이고 메이저 평균이 **20 아래**면 **60~65%**까지 추가 감속 검토
 
 ## 리스크 메모
-- **ID**는 unlock 흡수형 강세지만 공급 이벤트 직후라 변동성 확대 가능
-- **WLD**는 여전히 headline 슬롯이라 동일가중 이상 집중 금지
-- **JTO**는 유일한 fresh breakout이라 1000원 이탈 시 freshness 훼손이 빠를 수 있음
-- 메이저 평균이 **75 아래**로 더 밀리거나 top15 비메이저 양수가 **3개 이하**로 줄면 공격도를 낮춰야 합니다
+- **ID·LAYER는 salvage 슬롯**이라 반등 실패 시 재차 무너지기 쉽습니다.
+- **XPL·ZETA·MET2는 체급이 작아** 유동성 이탈이 빠를 수 있습니다.
+- CoinShares 기준 **암호화폐 ETP 3주 연속 순유출**이라 외부 자금 환경도 우호적이지 않습니다.
+- **World/Solayer 뉴스도 가격 방어에 실패**했기 때문에, 지금은 headline보다 가격 구조를 더 믿어야 합니다.
