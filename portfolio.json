@@ -2,114 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 820711.8924708026,
-  "realized_pnl_krw": -7102605.819463654,
-  "last_valuation_krw": 2735706.3082360085,
-  "last_action": "REBALANCE_70_ZETA_XPL_MET2_ID_LAYER",
-  "last_updated": "2026-06-23T15:58:00+09:00",
-  "trade_count": 1108,
+  "cash_krw": 794354.6123533334,
+  "realized_pnl_krw": -7190463.4198552165,
+  "last_valuation_krw": 2647848.707844446,
+  "last_action": "REBALANCE_70_G_MMT_AWE_ZETA_IN",
+  "last_updated": "2026-06-23T21:58:00+09:00",
+  "trade_count": 1118,
   "positions": {
-    "ZETA": {
-      "market": "KRW-ZETA",
-      "amount": 6351.55693454463,
-      "avg_buy_price_krw": 60.3,
-      "last_price_krw": 60.3,
-      "value_krw": 382998.8831530412,
-      "thesis": "메이저 붕괴 구간에서 드문 90%+ 고위치 생존주라 방어적 공격 슬롯 1번입니다.",
-      "strategy": "clean secondary breakout survivor",
-      "role": "clean secondary breakout survivor",
+    "G": {
+      "market": "KRW-G",
+      "amount": 72828.84461654664,
+      "avg_buy_price_krw": 5.09,
+      "last_price_krw": 5.09,
+      "value_krw": 370698.8190982224,
+      "thesis": "5.09원, +27.89%, 86.7억원 대금, 96.9% 위치로 이번 밤 유일한 fresh breakout 핵심 리더입니다.",
+      "strategy": "fresh breakout leader",
+      "role": "fresh breakout leader",
+      "risk_limit_pct": 7,
+      "profit_take_pct": 14
+    },
+    "MMT": {
+      "market": "KRW-MMT",
+      "amount": 1184.341275074193,
+      "avg_buy_price_krw": 313.0,
+      "last_price_krw": 313.0,
+      "value_krw": 370698.8190982224,
+      "thesis": "313원, +8.30%, 151.7억원 대금, 85.5% 위치로 체급과 상단 유지가 함께 남은 최우선 continuation 코어입니다.",
+      "strategy": "high-turnover continuation core",
+      "role": "high-turnover continuation core",
       "risk_limit_pct": 5,
       "profit_take_pct": 10
     },
-    "XPL": {
-      "market": "KRW-XPL",
-      "amount": 2923.6555965881007,
-      "avg_buy_price_krw": 131.0,
-      "last_price_krw": 131.0,
-      "value_krw": 382998.8831530412,
-      "thesis": "폭락장에서는 대형보다 깨끗한 고가권 유지가 우선이라, XPL을 순수 구조 슬롯으로 채택합니다.",
-      "strategy": "micro-liquidity full-range continuation",
-      "role": "micro-liquidity full-range continuation",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 8
-    },
-    "MET2": {
-      "market": "KRW-MET2",
-      "amount": 1589.2069840375152,
-      "avg_buy_price_krw": 241.0,
-      "last_price_krw": 241.0,
-      "value_krw": 382998.8831530412,
-      "thesis": "5종 중 한 자리는 70%대 clean continuation으로 두어 바스켓 품질을 유지합니다.",
-      "strategy": "secondary continuation balance",
-      "role": "secondary continuation balance",
-      "risk_limit_pct": 4,
-      "profit_take_pct": 7
-    },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 6546.9894556075415,
-      "avg_buy_price_krw": 58.5,
-      "last_price_krw": 58.5,
-      "value_krw": 382998.8831530412,
-      "thesis": "완전히 버리기엔 유동성과 양수가 남아 있어, 이번 회차 유일한 mega-turnover salvage 코어로 유지합니다.",
-      "strategy": "mega-liquidity salvage core",
-      "role": "mega-liquidity salvage core",
+    "AWE": {
+      "market": "KRW-AWE",
+      "amount": 3897.98968557542,
+      "avg_buy_price_krw": 95.1,
+      "last_price_krw": 95.1,
+      "value_krw": 370698.8190982224,
+      "thesis": "95.1원, +6.02%, 45.7억원 대금, 92.5% 위치로 저체급이지만 day-high gap -0.73%가 매우 깔끔합니다.",
+      "strategy": "tight-gap high-range continuation",
+      "role": "tight-gap high-range continuation",
       "risk_limit_pct": 5,
-      "profit_take_pct": 8
+      "profit_take_pct": 10
     },
-    "LAYER": {
-      "market": "KRW-LAYER",
-      "amount": 3191.6573596086764,
-      "avg_buy_price_krw": 120.0,
-      "last_price_krw": 120.0,
-      "value_krw": 382998.8831530412,
-      "thesis": "강한 대금과 양수는 남았으나 과열은 식은 회복형이라, 저품질 폭등주 대신 제한적으로 채택합니다.",
-      "strategy": "high-turnover recovery salvage",
-      "role": "high-turnover recovery salvage",
+    "ZETA": {
+      "market": "KRW-ZETA",
+      "amount": 6147.575772773174,
+      "avg_buy_price_krw": 60.3,
+      "last_price_krw": 60.3,
+      "value_krw": 370698.8190982224,
+      "thesis": "60.3원, +6.54%, 74.5억원 대금, 71.4% 위치로 기존 보유 중 유일하게 재편 바스켓에 남을 자격이 있는 survivor입니다.",
+      "strategy": "liquid survivor continuation",
+      "role": "liquid survivor continuation",
+      "risk_limit_pct": 5,
+      "profit_take_pct": 9
+    },
+    "IN": {
+      "market": "KRW-IN",
+      "amount": 2989.506605630826,
+      "avg_buy_price_krw": 124.0,
+      "last_price_krw": 124.0,
+      "value_krw": 370698.8190982224,
+      "thesis": "124원, +5.08%, 54.8억원 대금, 75.0% 위치로 과열되지 않은 5번째 continuation 슬롯으로 적합합니다.",
+      "strategy": "balanced continuation slot",
+      "role": "balanced continuation slot",
       "risk_limit_pct": 5,
       "profit_take_pct": 9
     }
   },
   "watchlist": [
     {
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "reason": "양수는 남았지만 35.4% 위치와 -6.91% gap라 salvage 3순위입니다."
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "130원·75% 위치로 여전히 건강하지만 점수와 대금이 AWE·IN에 소폭 밀려 예비 1순위입니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "뉴스는 있지만 19.3% 위치, -7.05% gap로 headline trap입니다."
+      "symbol": "ALGO",
+      "market": "KRW-ALGO",
+      "reason": "143원·+5.93%·76.9% 위치로 품질은 좋지만 29.7억원 대금이라 코어 승격은 보류합니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "29.5억원 대금이어도 -4.63%, 22.6% 위치라 아직 구조 복구가 없습니다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "체급은 좋지만 25.3% 위치로 메이저 하락을 방어하지 못했습니다."
-    },
-    {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "failed breakout 확인 뒤 14.0% 위치까지 밀려 freshness가 사라졌습니다."
-    },
-    {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "50% 위치와 -3.27% gap로 애매한 중립 회복이라 한 단계 더 지켜봅니다."
-    },
-    {
-      "symbol": "MOC",
-      "market": "KRW-MOC",
-      "reason": "50% 위치와 -2.83% gap는 무난하지만 코어 승격할 정도의 추세는 아닙니다."
+      "symbol": "BREV",
+      "market": "KRW-BREV",
+      "reason": "134원·80.0% 위치로 구조는 깔끔하나 31.5억원 대금의 확인 시간이 더 필요합니다."
     },
     {
       "symbol": "AVAX",
       "market": "KRW-AVAX",
-      "reason": "-1.22%지만 44.3% 위치라 quality rebound 후보로만 둡니다."
+      "reason": "0.21% 양수와 80.7% 위치로 대형 품질형 후보지만 공격성은 G·MMT보다 약합니다."
+    },
+    {
+      "symbol": "MET2",
+      "market": "KRW-MET2",
+      "reason": "65.2% 위치로 살아있지만 대금이 줄어 이번 사이클 톱5에서는 한 단계 밀렸습니다."
+    },
+    {
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "70.1% 위치는 양호하지만 음수라 지금은 실전보다 감시용이 맞습니다."
     }
   ],
   "history": [
@@ -10084,6 +10074,96 @@
       "amount_delta": 3191.6573596086764,
       "cash_delta_krw": -382998.8831530412,
       "reason": "449.6억원 대금과 +7.14%는 강하지만 위치 45.5%, gap -9.09%로 이미 많이 식었습니다. 그래도 TT 같은 blowoff보다 훨씬 정상적인 대형 회복 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "ZETA",
+      "action": "SELL",
+      "price_krw": 60.3,
+      "amount_delta": -6351.55693454463,
+      "cash_delta_krw": 382998.8831530412,
+      "reason": "clean survivor는 맞지만 MMT·G·AWE보다 상단 탄력이 약해 70% 전량 재편 기준으로 동일가 재배치합니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 130.0,
+      "amount_delta": -2923.6555965881007,
+      "cash_delta_krw": 380075.2275564531,
+      "reason": "129원 방어는 지켰지만 75% 구조와 42.1억원 대금이면 상위 5개 all-positive continuation 대비 우선순위가 밀립니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "MET2",
+      "action": "SELL",
+      "price_krw": 239.0,
+      "amount_delta": -1589.2069840375152,
+      "cash_delta_krw": 379820.4691849661,
+      "reason": "239원으로 아직 유효하지만 대금이 20.0억원대로 줄어 MMT·AWE·IN 대비 공격 효율이 낮아 교체합니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 50.4,
+      "amount_delta": -6546.9894556075415,
+      "cash_delta_krw": 329968.2685626201,
+      "reason": "56원 무효화가 완전히 깨졌고 3.6% 위치·-21.0% gap라 mega-turnover salvage 가정을 철회합니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "LAYER",
+      "action": "SELL",
+      "price_krw": 111.0,
+      "amount_delta": -3191.6573596086764,
+      "cash_delta_krw": 354273.9669165631,
+      "reason": "116원 무효화가 깨졌고 4.5% 위치·-15.91% gap라 salvage 재시도보다 all-positive 바스켓 재편이 맞습니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "G",
+      "action": "BUY",
+      "price_krw": 5.09,
+      "amount_delta": 72828.84461654664,
+      "cash_delta_krw": -370698.8190982224,
+      "reason": "G는 5.09원, +27.89%, 86.7억원 대금, 96.9% 위치로 이번 밤 유일한 fresh breakout 핵심 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "MMT",
+      "action": "BUY",
+      "price_krw": 313.0,
+      "amount_delta": 1184.341275074193,
+      "cash_delta_krw": -370698.8190982224,
+      "reason": "MMT는 313원, +8.30%, 151.7억원 대금, 85.5% 위치로 체급과 상단 유지가 함께 남은 최우선 continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "AWE",
+      "action": "BUY",
+      "price_krw": 95.1,
+      "amount_delta": 3897.98968557542,
+      "cash_delta_krw": -370698.8190982224,
+      "reason": "AWE는 95.1원, +6.02%, 45.7억원 대금, 92.5% 위치로 저체급이지만 day-high gap -0.73%가 매우 깔끔합니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "ZETA",
+      "action": "BUY",
+      "price_krw": 60.3,
+      "amount_delta": 6147.575772773174,
+      "cash_delta_krw": -370698.8190982224,
+      "reason": "ZETA는 60.3원, +6.54%, 74.5억원 대금, 71.4% 위치로 기존 보유 중 유일하게 재편 바스켓에 남을 자격이 있는 survivor입니다."
+    },
+    {
+      "timestamp": "2026-06-23T21:58:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 124.0,
+      "amount_delta": 2989.506605630826,
+      "cash_delta_krw": -370698.8190982224,
+      "reason": "IN은 124원, +5.08%, 54.8억원 대금, 75.0% 위치로 과열되지 않은 5번째 continuation 슬롯으로 적합합니다."
     }
   ]
 }
