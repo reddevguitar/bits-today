@@ -113,6 +113,8 @@ Actual exchange execution remains manual. The agent may simulate trades in a vir
 
 - When 2개 이상 current holdings collapse to roughly 20% or less of the day range but breadth improves enough to clear the weak_breadth_warning flag, force the next cycle to abandon those broken survivors and rebuild around 5 all-positive candidates instead of defending the older basket.
 
+- When fresh breakouts are 0, major average range-position sits roughly in the 40-60 zone, and at least 1 held preferred slot actually breaks invalidation, allow exactly 1 neutral mega-liquidity reclaim/survivor (roughly flat daily change is acceptable) only if it still holds about 75%+ of the day range with a cleaner gap than the fading positive leaders; do not defend the invalidated green laggard for momentum memory alone.
+
 ## Dashboard direction
 The dashboard should evolve toward a compact portal experience:
 - icon-rich candidate list

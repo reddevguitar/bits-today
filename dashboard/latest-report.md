@@ -1,66 +1,67 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-24 15:58 KST
-- 기준 한줄: **보유 5종 중 3종(TT·XLM·ARX)이 실제 무효화.** breadth는 **fresh 3→2 / top15 양수 11→6**으로 식어, 이번 오후는 **ID·SLX·MMT·G·SUI 85% reset**이 맞습니다.
-- 시장 한줄 요약: 메이저 평균 위치는 **69.90→66.15%**로 아직 버티지만, 알트 breadth가 둔화돼 **실패한 오전 breakout 방어보다 양수·고위치 5종 재편**이 유리합니다.
+- 시각: 2026-06-24 21:58 KST
+- 기준 한줄: **G가 실제 무효화, SUI도 사실상 경계선입니다.** fresh는 **2→0**, 메이저 평균 위치는 **66.15→46.60%**로 식어 tonight은 **WLD·SLX·MMT·AXS·JTO 80% reset**이 맞습니다.
+- 시장 한줄 요약: 메이저는 **완전 붕괴는 아니지만 확실히 냉각**, 알트는 **양수 7개 / 저위치 9개**라서 **85% 유지보다 invalidation 정리 + 상단 유지주 재편**이 유리합니다.
 - 공포탐욕지수: **17 (Extreme Fear, Alternative.me)**
-- BTC 참고: **BTC 94.684M원 / ETH 2.528M원 / XRP 1,664원 / SOL 105.3K원**
+- BTC 참고: **BTC 94.781M원 / ETH 2.529M원 / XRP 1,650원 / SOL 105.1K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🆔 **ID** — 58원 / **+14.85%** / 423.1억원 / 위치 **94.6%** / fresh breakout core
-- 🌞 **SLX** — 433원 / **+25.14%** / 257.1억원 / 위치 **85.5%** / high-beta continuation core
-- 🎯 **MMT** — 279원 / **+2.20%** / 87.6억원 / 위치 **93.9%** / secondary breakout
-- 🧲 **G** — 4.77원 / **+8.16%** / 240.6억원 / 위치 **67.6%** / liquid momentum continuation
-- 🌊 **SUI** — 1,064원 / **+0.09%** / 115.2억원 / 위치 **79.3%** / liquid quality survivor
+- 🌐 **WLD** — 820원 / **0.00%** / 783.1억원 / 위치 **82.6%** / mega-liquidity reclaim core
+- 🌞 **SLX** — 441원 / **+27.46%** / 538.2억원 / 위치 **76.1%** / high-beta continuation core
+- 🎯 **MMT** — 298원 / **+9.16%** / 80.9억원 / 위치 **83.3%** / clean continuation core
+- 🕹️ **AXS** — 1,587원 / **+3.52%** / 60.3억원 / 위치 **79.1%** / quality continuation survivor
+- 🧭 **JTO** — 1,039원 / **+2.67%** / 73.5억원 / 위치 **53.8%** / liquid recovery survivor
 
 ## 제외된 메이저 참고 신호
-- BTC **68.4%** / ETH **86.8%** / XRP **44.4%** / SOL **65.0%**
-- 메이저 평균 **66.15% 위치**
-- fresh breakout **2개**, top15 비메이저 양수 **6개**, 저위치 **7개**
+- BTC **53.9%** / ETH **55.7%** / XRP **31.0%** / SOL **45.8%**
+- 메이저 평균 **46.60% 위치**
+- fresh breakout **0개**, top15 비메이저 양수 **7개**, 저위치 **9개**
 
 ## 공격 포트폴리오 전략
-- 실투입: **85%**, 5종 **동일비중**
-- 타깃: 각 약 **446,579원**
-- 현금: 약 **394,040원 (15%)**
-- 핵심 논리: **메이저는 아직 안 무너졌지만 오전 돌파주 3개가 실패** → 90% 유지보다 **양수 5종 85% reset**
+- 실투입: **80%**, 5종 **동일비중**
+- 타깃: 각 약 **422,039원**
+- 현금: 약 **527,548원 (20%)**
+- 핵심 논리: **fresh 0 + held invalidation 발생(G) + 메이저 냉각** → aggressive는 유지하되 **late-session 함정 슬롯은 제거**
 
 ## 가상 매매 실행 내용
-- 실행: **SELL TT·XLM·SLX·ID·ARX / BUY ID·SLX·MMT·G·SUI**
-- 핵심 교체: **TT→MMT / XLM→G / ARX→SUI**
-- 유지 재매수형 리밸런싱: **ID, SLX**
-- 마지막 액션: **REBALANCE_85_ID_SLX_MMT_G_SUI**
+- 실행: **SELL ID·SLX·MMT·G·SUI / BUY SLX·WLD·MMT·AXS·JTO**
+- 핵심 교체: **ID→WLD / G→AXS / SUI→JTO**
+- 유지 재매수형 리밸런싱: **SLX, MMT**
+- 마지막 액션: **REBALANCE_80_SLX_WLD_MMT_AXS_JTO**
 
 ## 현재 포트폴리오 현황
-- ID **7,699.6368개 @ 58원**
-- SLX **1,031.3601개 @ 433원**
-- MMT **1,600.6413개 @ 279원**
-- G **93,622.4176개 @ 4.77원**
-- SUI **419.7170개 @ 1,064원**
-- 현금 **394,040.2원** / 총평가 **2,626,934.9원**
+- WLD **514.6813개 @ 820원**
+- SLX **957.0038개 @ 441원**
+- MMT **1,416.2372개 @ 298원**
+- AXS **265.9349개 @ 1,587원**
+- JTO **406.1970개 @ 1,039원**
+- 현금 **527,548.3원** / 총평가 **2,637,741.7원**
 
 ## 자기 평가
-- 장점: **TT·XLM·ARX 3개 손상을 인정하고 규율대로 버렸습니다.**
-- 아쉬움: **오전 90% 바스켓에서 TT·ARX 과열 구간을 더 빨리 경계했어야 했습니다.**
-- 점수: **8.6 / 10**
+- 장점: **G actual invalidation과 SUI near-break를 바로 인정하고 방어를 중단했습니다.**
+- 아쉬움: **ID의 거대한 대금 때문에 late-session gap 악화를 한 사이클 더 늦게 반영할 뻔했습니다.**
+- 점수: **8.7 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **"3개 이상 보유 종목 무효화 시 85% all-positive reset" 규칙을 PROJECT.md에 추가**
-- ✅ **리포트 첫 줄에 broken slot 개수(3/5)를 바로 표기**
-- ✅ **watchlist를 차순위 승격 / 메이저 참고 / headline trap / turnover trap으로 분리**
+- ✅ **"fresh 0 + major avg 40~60 + 실제 invalidation 발생 시 neutral mega-reclaim 1개 허용" 규칙을 PROJECT.md에 추가**
+- ✅ **리포트 첫 줄에 actual invalidation과 near-break를 함께 표기**
+- ✅ **watchlist를 재진입 후보 / 저대금 베타 / survivor 대체 / 명확한 퇴출로 재분류**
 
 ## 판단
-- aggressive-diversified-85-cooling-breadth / **fresh 2 + continuation 2 + survivor 1 + 현금 15%**
+- aggressive-diversified-80-weak-breadth / **mega reclaim 1 + continuation 2 + survivor 2 + 현금 20%**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **ID 56.0 / SLX 421 / MMT 272 / G 4.58 / SUI 1052** 하회 시 즉시 재평가
-- **JTO·MEGA**는 차순위 승격 후보, **DOGE**는 메이저 참고 신호
-- 메이저 평균이 **60 아래**로 밀리거나 top15 양수가 **4 이하**면 **75~80%**로 추가 감속 검토
+- **WLD 803 / SLX 428 / MMT 289 / AXS 1548 / JTO 1012** 하회 시 즉시 재평가
+- **ID·SAHARA**는 재진입 후보, **IRYS**는 저대금 고베타 실험 후보
+- 메이저 평균이 **40 아래**로 밀리거나 top15 양수가 **5 이하**면 **70~75%**로 추가 감속 검토
 
 ## 리스크 메모
-- **공포탐욕 17**이라 반등 추격이 다시 꺾일 수 있습니다.
-- **SLX**는 강하지만 이미 큰 폭 상승 뒤라 intraday 흔들림이 빠를 수 있습니다.
-- **G**는 대금은 좋지만 gap이 완벽하진 않아 follow-through 약화 시 가장 먼저 교체될 수 있습니다.
-- **WLD**는 OpenAI buzz가 있어도 현재 업비트 구조는 preferred 승격 단계가 아닙니다.
+- **공포탐욕 17**이라 야간 반등이 쉽게 꺾일 수 있습니다.
+- **SLX**는 가장 강하지만 이미 큰 폭 상승 뒤라 위꼬리 재확대 위험이 큽니다.
+- **WLD**는 구조는 좋지만 당일 수익률이 0%라 headline 약화 시 중단으로 빠질 수 있습니다.
+- **JTO**는 회복 슬롯이라 5개 중 가장 먼저 재평가될 수 있습니다.
+- **ARX·RE·QKC·G**는 여전히 turnover trap 경계 구간입니다.
