@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 794354.6123533334,
-  "realized_pnl_krw": -7190463.4198552165,
-  "last_valuation_krw": 2647848.707844446,
-  "last_action": "REBALANCE_70_G_MMT_AWE_ZETA_IN",
-  "last_updated": "2026-06-23T21:58:00+09:00",
-  "trade_count": 1118,
+  "cash_krw": 258612.27819058945,
+  "realized_pnl_krw": -7252189.345793764,
+  "last_valuation_krw": 2586122.781905898,
+  "last_action": "REBALANCE_90_TT_XLM_SLX_ID_ARX",
+  "last_updated": "2026-06-24T09:58:00+09:00",
+  "trade_count": 1138,
   "positions": {
-    "G": {
-      "market": "KRW-G",
-      "amount": 72828.84461654664,
-      "avg_buy_price_krw": 5.09,
-      "last_price_krw": 5.09,
-      "value_krw": 370698.8190982224,
-      "thesis": "5.09원, +27.89%, 86.7억원 대금, 96.9% 위치로 이번 밤 유일한 fresh breakout 핵심 리더입니다.",
-      "strategy": "fresh breakout leader",
-      "role": "fresh breakout leader",
-      "risk_limit_pct": 7,
-      "profit_take_pct": 14
+    "TT": {
+      "market": "KRW-TT",
+      "amount": 404784.4354287493,
+      "avg_buy_price_krw": 1.15,
+      "last_price_krw": 1.15,
+      "value_krw": 465502.1007430617,
+      "thesis": "1.15원, +3.60%, 325.7억원 대금, 90.9% 위치로 메이저 반등 국면에서 실제 상단 고정이 확인된 초반 공격 코어입니다.",
+      "strategy": "fresh breakout core",
+      "role": "fresh breakout core",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 11
     },
-    "MMT": {
-      "market": "KRW-MMT",
-      "amount": 1184.341275074193,
-      "avg_buy_price_krw": 313.0,
-      "last_price_krw": 313.0,
-      "value_krw": 370698.8190982224,
-      "thesis": "313원, +8.30%, 151.7억원 대금, 85.5% 위치로 체급과 상단 유지가 함께 남은 최우선 continuation 코어입니다.",
-      "strategy": "high-turnover continuation core",
-      "role": "high-turnover continuation core",
-      "risk_limit_pct": 5,
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 1562.0875863861131,
+      "avg_buy_price_krw": 298.0,
+      "last_price_krw": 298.0,
+      "value_krw": 465502.1007430617,
+      "thesis": "298.0원, +1.02%, 275.1억원 대금, 100.0% 위치로 상단 체류가 완전하고 유동성이 커 90% 공격 바스켓의 유동성 앵커로 적합합니다.",
+      "strategy": "mega-liquidity continuation core",
+      "role": "mega-liquidity continuation core",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 8
+    },
+    "SLX": {
+      "market": "KRW-SLX",
+      "amount": 1285.9174053675738,
+      "avg_buy_price_krw": 362.0,
+      "last_price_krw": 362.0,
+      "value_krw": 465502.1007430617,
+      "thesis": "362.0원, +4.62%, 112.4억원 대금, 85.2% 위치로 메가유동성 리더 사이에 넣을 수 있는 가장 읽기 쉬운 중형 고베타 슬롯입니다.",
+      "strategy": "mid-cap momentum core",
+      "role": "mid-cap momentum core",
+      "risk_limit_pct": 4,
       "profit_take_pct": 10
     },
-    "AWE": {
-      "market": "KRW-AWE",
-      "amount": 3897.98968557542,
-      "avg_buy_price_krw": 95.1,
-      "last_price_krw": 95.1,
-      "value_krw": 370698.8190982224,
-      "thesis": "95.1원, +6.02%, 45.7억원 대금, 92.5% 위치로 저체급이지만 day-high gap -0.73%가 매우 깔끔합니다.",
-      "strategy": "tight-gap high-range continuation",
-      "role": "tight-gap high-range continuation",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 10
-    },
-    "ZETA": {
-      "market": "KRW-ZETA",
-      "amount": 6147.575772773174,
-      "avg_buy_price_krw": 60.3,
-      "last_price_krw": 60.3,
-      "value_krw": 370698.8190982224,
-      "thesis": "60.3원, +6.54%, 74.5억원 대금, 71.4% 위치로 기존 보유 중 유일하게 재편 바스켓에 남을 자격이 있는 survivor입니다.",
-      "strategy": "liquid survivor continuation",
-      "role": "liquid survivor continuation",
-      "risk_limit_pct": 5,
+    "ID": {
+      "market": "KRW-ID",
+      "amount": 8917.664765192752,
+      "avg_buy_price_krw": 52.2,
+      "last_price_krw": 52.2,
+      "value_krw": 465502.1007430617,
+      "thesis": "52.2원, +3.37%, 560.3억원 대금, 59.2% 위치로 뉴스 테마가 붙는 DID 흐름을 WLD 대신 더 건강한 차트로 잡는 선택입니다.",
+      "strategy": "DID reclaim core",
+      "role": "DID reclaim core",
+      "risk_limit_pct": 4,
       "profit_take_pct": 9
     },
-    "IN": {
-      "market": "KRW-IN",
-      "amount": 2989.506605630826,
-      "avg_buy_price_krw": 124.0,
-      "last_price_krw": 124.0,
-      "value_krw": 370698.8190982224,
-      "thesis": "124원, +5.08%, 54.8억원 대금, 75.0% 위치로 과열되지 않은 5번째 continuation 슬롯으로 적합합니다.",
-      "strategy": "balanced continuation slot",
-      "role": "balanced continuation slot",
-      "risk_limit_pct": 5,
-      "profit_take_pct": 9
+    "ARX": {
+      "market": "KRW-ARX",
+      "amount": 927.2950214005213,
+      "avg_buy_price_krw": 502.0,
+      "last_price_krw": 502.0,
+      "value_krw": 465502.1007430617,
+      "thesis": "502.0원, +1.21%, 1347.8억원 대금, 56.1% 위치로 초대금 알트를 완전히 빼지 않고도 함정 회피를 유지할 수 있는 균형형 대형 리더입니다.",
+      "strategy": "mega-turnover reclaim anchor",
+      "role": "mega-turnover reclaim anchor",
+      "risk_limit_pct": 4,
+      "profit_take_pct": 8
     }
   },
   "watchlist": [
     {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "130원·75% 위치로 여전히 건강하지만 점수와 대금이 AWE·IN에 소폭 밀려 예비 1순위입니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "100% 위치와 260.2억원 대금은 강하지만 메이저성 베타 성격이 강해 이번 회차는 참고 신호로만 둡니다."
     },
     {
-      "symbol": "ALGO",
-      "market": "KRW-ALGO",
-      "reason": "143원·+5.93%·76.9% 위치로 품질은 좋지만 29.7억원 대금이라 코어 승격은 보류합니다."
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "279.5억원 대금과 75.0% 위치로 깨끗하지만 모멘텀 속도는 SLX보다 한 단계 느립니다."
     },
     {
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "134원·80.0% 위치로 구조는 깔끔하나 31.5억원 대금의 확인 시간이 더 필요합니다."
+      "symbol": "BORA",
+      "market": "KRW-BORA",
+      "reason": "+7.94%와 149.8억원 대금은 강하지만 -3.33% gap이라 과열 추격 직전 구간으로 watch 우선입니다."
     },
     {
-      "symbol": "AVAX",
-      "market": "KRW-AVAX",
-      "reason": "0.21% 양수와 80.7% 위치로 대형 품질형 후보지만 공격성은 G·MMT보다 약합니다."
+      "symbol": "MMT",
+      "market": "KRW-MMT",
+      "reason": "119.8억원 대금과 75.0% 위치 회복은 긍정적이지만 상대 점수는 TT·SLX·XLM보다 뒤입니다."
     },
     {
-      "symbol": "MET2",
-      "market": "KRW-MET2",
-      "reason": "65.2% 위치로 살아있지만 대금이 줄어 이번 사이클 톱5에서는 한 단계 밀렸습니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "159.5억원 대금과 75.0% 위치로 체급형 대안이지만 오늘은 더 빠른 알트가 많습니다."
     },
     {
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "70.1% 위치는 양호하지만 음수라 지금은 실전보다 감시용이 맞습니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "외부 AI 기대는 남아도 업비트에서는 -1.22%, 5.0% 위치라 headline trap 경고가 더 강합니다."
     }
   ],
   "history": [
@@ -10164,6 +10164,186 @@
       "amount_delta": 2989.506605630826,
       "cash_delta_krw": -370698.8190982224,
       "reason": "IN은 124원, +5.08%, 54.8억원 대금, 75.0% 위치로 과열되지 않은 5번째 continuation 슬롯으로 적합합니다."
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "G",
+      "action": "SELL",
+      "price_krw": 4.37,
+      "amount_delta": -72828.84461654664,
+      "cash_delta_krw": 318262.05097430886,
+      "reason": "fresh breakout 0 전환과 G·MMT 구조 붕괴 확인으로, 새벽 가격 기준 5종 균등 70% continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "MMT",
+      "action": "SELL",
+      "price_krw": 288.0,
+      "amount_delta": -1184.341275074193,
+      "cash_delta_krw": 341090.2872213676,
+      "reason": "fresh breakout 0 전환과 G·MMT 구조 붕괴 확인으로, 새벽 가격 기준 5종 균등 70% continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "AWE",
+      "action": "SELL",
+      "price_krw": 94.4,
+      "amount_delta": -3897.98968557542,
+      "cash_delta_krw": 367970.2263183197,
+      "reason": "fresh breakout 0 전환과 G·MMT 구조 붕괴 확인으로, 새벽 가격 기준 5종 균등 70% continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "ZETA",
+      "action": "SELL",
+      "price_krw": 59.2,
+      "amount_delta": -6147.575772773174,
+      "cash_delta_krw": 363936.4857481719,
+      "reason": "fresh breakout 0 전환과 G·MMT 구조 붕괴 확인으로, 새벽 가격 기준 5종 균등 70% continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "IN",
+      "action": "SELL",
+      "price_krw": 125.0,
+      "amount_delta": -2989.506605630826,
+      "cash_delta_krw": 373688.3257038533,
+      "reason": "fresh breakout 0 전환과 G·MMT 구조 붕괴 확인으로, 새벽 가격 기준 5종 균등 70% continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "AWE",
+      "action": "BUY",
+      "price_krw": 94.4,
+      "amount_delta": 3795.5749826770093,
+      "cash_delta_krw": -358302.2783647097,
+      "reason": "51.0억원 대금, 84.9% 위치, -1.46% gap으로 새벽 보드에서 가장 읽기 쉬운 상단 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 125.0,
+      "amount_delta": 2866.4182269176777,
+      "cash_delta_krw": -358302.2783647097,
+      "reason": "55.7억원 대금과 +5.93%, 81.2% 위치를 동시에 지켜 이번 회차의 가장 안정적인 고베타 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "XPL",
+      "action": "BUY",
+      "price_krw": 135.0,
+      "amount_delta": 2654.0909508497016,
+      "cash_delta_krw": -358302.2783647097,
+      "reason": "44.1억원 대금, 78.6% 위치, -2.17% gap으로 G·MMT보다 훨씬 깔끔한 continuation 승격 후보입니다."
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "ALGO",
+      "action": "BUY",
+      "price_krw": 141.0,
+      "amount_delta": 2541.150910388012,
+      "cash_delta_krw": -358302.2783647097,
+      "reason": "37.8억원 대금과 +4.44%, 61.5% 위치로 과열 없이 살아남은 중형 품질 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-24T03:58:00+09:00",
+      "symbol": "AVAX",
+      "action": "BUY",
+      "price_krw": 9510.0,
+      "amount_delta": 37.676369964743394,
+      "cash_delta_krw": -358302.2783647097,
+      "reason": "34.5억원 대금과 66.2% 위치, -2.26% gap으로 약한 장에서도 비교적 덜 깨진 대형 분산축입니다."
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "AWE",
+      "action": "SELL",
+      "price_krw": 94.3,
+      "amount_delta": -3795.5749826770093,
+      "cash_delta_krw": 357922.72086644196,
+      "reason": "메이저 평균 17.77→69.90, fresh breakout 0→3, top15 양수 2→11로 breadth가 급반등해 70% survivor 바스켓을 90% 공격 리바운드 바스켓으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "IN",
+      "action": "SELL",
+      "price_krw": 127.0,
+      "amount_delta": -2866.4182269176777,
+      "cash_delta_krw": 364035.11481854506,
+      "reason": "메이저 평균 17.77→69.90, fresh breakout 0→3, top15 양수 2→11로 breadth가 급반등해 70% survivor 바스켓을 90% 공격 리바운드 바스켓으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 135.0,
+      "amount_delta": -2654.0909508497016,
+      "cash_delta_krw": 358302.2783647097,
+      "reason": "메이저 평균 17.77→69.90, fresh breakout 0→3, top15 양수 2→11로 breadth가 급반등해 70% survivor 바스켓을 90% 공격 리바운드 바스켓으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "ALGO",
+      "action": "SELL",
+      "price_krw": 145.0,
+      "amount_delta": -2541.150910388012,
+      "cash_delta_krw": 368466.88200626173,
+      "reason": "메이저 평균 17.77→69.90, fresh breakout 0→3, top15 양수 2→11로 breadth가 급반등해 70% survivor 바스켓을 90% 공격 리바운드 바스켓으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "AVAX",
+      "action": "SELL",
+      "price_krw": 9810.0,
+      "amount_delta": -37.676369964743394,
+      "cash_delta_krw": 369605.1893541327,
+      "reason": "메이저 평균 17.77→69.90, fresh breakout 0→3, top15 양수 2→11로 breadth가 급반등해 70% survivor 바스켓을 90% 공격 리바운드 바스켓으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "TT",
+      "action": "BUY",
+      "price_krw": 1.15,
+      "amount_delta": 404784.4354287493,
+      "cash_delta_krw": -465502.1007430617,
+      "reason": "325.7억원 대금, +3.60%, 90.9% 위치, -0.86% gap으로 이번 오전 업비트 보드의 가장 선명한 fresh breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 298.0,
+      "amount_delta": 1562.0875863861131,
+      "cash_delta_krw": -465502.1007430617,
+      "reason": "275.1억원 대금과 100% 위치, 0% gap이 동시 확인돼 이번 반등장의 가장 깔끔한 대형 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "SLX",
+      "action": "BUY",
+      "price_krw": 362.0,
+      "amount_delta": 1285.9174053675738,
+      "cash_delta_krw": -465502.1007430617,
+      "reason": "112.4억원 대금, +4.62%, 85.2% 위치라 TT 다음으로 깨끗한 중형 모멘텀 확장축입니다."
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 52.2,
+      "amount_delta": 8917.664765192752,
+      "cash_delta_krw": -465502.1007430617,
+      "reason": "560.3억원 초대금과 +3.37% 회복, 59.2% 위치가 겹쳐 DID 섹터 반등을 가장 실전적으로 받는 reclaim 후보입니다."
+    },
+    {
+      "timestamp": "2026-06-24T09:58:00+09:00",
+      "symbol": "ARX",
+      "action": "BUY",
+      "price_krw": 502.0,
+      "amount_delta": 927.2950214005213,
+      "cash_delta_krw": -465502.1007430617,
+      "reason": "1347.8억원으로 업비트 알트 대금 1위이며 56.1% 위치를 지켜 단순 함정이 아닌 reclaim 앵커 역할이 가능합니다."
     }
   ]
 }
