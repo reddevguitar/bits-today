@@ -1,300 +1,300 @@
 {
-  "updated_at": "2026-06-25T21:58:00+09:00",
-  "top_line": "메이저 평균 위치는 38.1%까지 반등했지만 weak breadth warning이 유지됩니다. 21:58은 90% 추격 유지보다 SLX 중심 80% 선별 지속형 바스켓(SLX·XPL·LAYER·AAVE·SUI)으로 재정렬하는 쪽이 낫습니다.",
-  "macro_summary": "BTC 38.8% / ETH 45.0% / XRP 35.3% / SOL 33.3% 위치로 메이저는 저점권 탈출은 했지만 상단 장악까지는 못 갔습니다. 오후 후반은 full risk-on보다 selective continuation이 유리합니다.",
-  "news_summary": "KuCoin 6월 25일 리포트는 미국 인플레이션 지표 대기 속 저유동성 박스와 공포탐욕 12를 강조했습니다. Forbes는 2026년 알트 자금이 broad altseason보다 실사용·수익형·체급형 프로젝트로 더 선택적으로 몰릴 수 있다고 봤습니다.",
-  "community_summary": "직접 커뮤니티 크롤링은 제한적이라 Upbit 대금, 상위 turnover 교체, selection leaderboard를 attention proxy로 사용했습니다. 그 기준에서 오늘 밤 관심은 WLD·SAHARA headline보다 SLX 단일 강세와 XPL·LAYER 같은 clean continuation 쪽에 남았습니다.",
-  "public_figure_summary": "Sam Altman/Worldcoin 서사는 여전히 검색 가치는 있지만, 이번 회차 시장은 headline보다 체결 구조를 더 냉정하게 평가했습니다. WLD가 대금 580억원대에도 18.2% 위치에 머문 점이 그 증거입니다.",
-  "major_coin_summary": "BTC +0.18%·38.8% 위치 / ETH +0.77%·45.0% 위치 / XRP -0.06%·35.3% 위치 / SOL +0.19%·33.3% 위치 / 메이저 평균 38.10% 위치",
-  "altcoin_selection_summary": "preferred buy는 SLX, XPL, LAYER, AAVE, SUI입니다. 1개 mega-breakout(SLX), 2개 clean continuation(XPL·LAYER), 2개 liquid survivor/quality rebound(AAVE·SUI)로 묶었습니다. 약해진 ID·IN·SAHARA·WLD류 late-session fade는 제외했습니다.",
-  "overall_bias": "selective-continuation-80-after-partial-major-rebound",
+  "updated_at": "2026-06-26T03:58:00+09:00",
+  "top_line": "메이저는 다시 약하지만 weak breadth warning은 해제됐습니다. 03:58은 SLX 1개만 남기고 IP·XPL·G·IRYS로 갈아탄 75% continuation 바스켓이 더 낫습니다.",
+  "macro_summary": "BTC 29.3% / ETH 24.2% / XRP 25.3% / SOL 38.4% 위치로 메이저는 다시 모두 음전환했습니다. 다만 상위 비메이저 15개 중 7개가 플러스이고 low-range 비중이 40%까지 내려와, 완전 붕괴보다 '메이저 약세 속 선별 continuation' 구간에 가깝습니다.",
+  "news_summary": "6월 중순 매크로 리캡은 미국 CPI·PPI 강세와 Fed/ETF 민감도를 다시 강조했습니다. 동시에 Worldcoin은 Robinhood 상장과 Altman 서사가 있어도 가격이 못 따라오며 sell-the-news 성격을 보였습니다.",
+  "community_summary": "직접 커뮤니티 크롤링은 제한적이라 Upbit 거래대금, selection leaderboard, weak breadth warning 변화로 관심 흐름을 읽었습니다. 그 기준에서 새벽 관심은 WLD·ID 같은 소음형보다 IP·XPL·G·IRYS 같은 upper-range continuation 쪽으로 이동했습니다.",
+  "public_figure_summary": "Sam Altman 관련 attention은 여전히 WLD 거래대금을 만들지만, 현재 보드는 그 관심을 가격으로 인정하지 않고 있습니다. headline보다 실제 upper-range 체류 여부를 더 엄격하게 봐야 합니다.",
+  "major_coin_summary": "BTC -2.09%·29.3% 위치 / ETH -2.97%·24.2% 위치 / XRP -3.26%·25.3% 위치 / SOL -2.23%·38.4% 위치 / 메이저 평균 29.3% 위치",
+  "altcoin_selection_summary": "preferred buy는 SLX, IP, XPL, G, IRYS입니다. 구성은 mega-turnover salvage core 1개(SLX) + clean liquid continuation 2개(IP·XPL) + lighter continuation 2개(G·IRYS)입니다. LAYER·AAVE·SUI 같은 기존 보유 약화 슬롯과 WLD·ID·EDGE·UP2 같은 trap/boiloff는 제외했습니다.",
+  "overall_bias": "one-salvage-core-plus-four-clean-continuations-75",
   "confidence": "medium",
   "preferred_buy_candidates": [
     {
-      "symbol": "SLX",
       "market": "KRW-SLX",
-      "role": "mega-breakout core",
-      "strategy": "top-turnover breakout leader",
-      "risk_limit_pct": 6.0,
-      "profit_take_pct": 10,
-      "invalidated_if": "558원 하회 시 breakout 실패",
-      "reason": "1162.5억원 대금 1위, +17.48%, 91.5% 위치로 이번 회차 유일한 fresh breakout 코어입니다.",
-      "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
-      "thesis": "mega breakout with real liquidity",
-      "price_krw": 578.0,
-      "change_pct_24h": 17.4796748,
-      "turnover_krw_24h": 116253547662.26479,
+      "symbol": "SLX",
+      "price_krw": 589.0,
+      "change_pct_24h": 19.71544715,
+      "turnover_krw_24h": 152939104031.16904,
       "opening_price": 492.0,
-      "high_price": 588.0,
+      "high_price": 645.0,
       "low_price": 470.0,
-      "range_position_pct": 91.5,
-      "day_high_gap_pct": -1.7,
-      "selection_score": 82.37,
-      "score": 82.37,
-      "allocation_krw": 407756.9851988914
+      "range_position_pct": 68.0,
+      "day_high_gap_pct": -8.68,
+      "role": "mega-liquidity salvage core",
+      "strategy": "single salvage core with reduced size",
+      "risk_limit_pct": 5.0,
+      "profit_take_pct": 8.0,
+      "invalidated_if": "568원 하회 시 salvage core 철회",
+      "reason": "1529.4억원 대금 1위와 +19.72%는 유지되지만 고점 대비 -8.68%로 이미 식기 시작해, 추격 확대가 아니라 1개 salvage core로만 남깁니다.",
+      "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
+      "thesis": "keep only one mega-liquidity salvage core",
+      "selection_score": 80.58,
+      "score": 80.58,
+      "allocation_krw": 376410.31890299794
     },
     {
-      "symbol": "XPL",
+      "market": "KRW-IP",
+      "symbol": "IP",
+      "price_krw": 531.0,
+      "change_pct_24h": 6.84104628,
+      "turnover_krw_24h": 16126152920.841625,
+      "opening_price": 497.0,
+      "high_price": 548.0,
+      "low_price": 459.0,
+      "range_position_pct": 80.9,
+      "day_high_gap_pct": -3.1,
+      "role": "clean liquid continuation",
+      "strategy": "high-range liquid continuation",
+      "risk_limit_pct": 4.5,
+      "profit_take_pct": 7.0,
+      "invalidated_if": "512원 하회 시 clean continuation 훼손",
+      "reason": "161.3억원 대금, +6.84%, 80.9% 위치, 고점 대비 -3.10%로 현재 보드에서 가장 읽기 쉬운 고유동성 continuation입니다.",
+      "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
+      "thesis": "best clean continuation with real liquidity",
+      "selection_score": 44.3,
+      "score": 44.3,
+      "allocation_krw": 376410.31890299794
+    },
+    {
       "market": "KRW-XPL",
-      "role": "clean continuation",
-      "strategy": "upper-range continuation",
-      "risk_limit_pct": 4.5,
-      "profit_take_pct": 7,
-      "invalidated_if": "142원 하회 시 upper-range continuation 훼손",
-      "reason": "50.2억원 대금, +4.29%, 90.0% 위치, 고점 대비 -0.68%로 매우 깔끔합니다.",
-      "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
-      "thesis": "90% range clean continuation",
-      "price_krw": 146.0,
-      "change_pct_24h": 4.28571429,
-      "turnover_krw_24h": 5015842336.652954,
+      "symbol": "XPL",
+      "price_krw": 147.0,
+      "change_pct_24h": 5.0,
+      "turnover_krw_24h": 6069467319.4698105,
       "opening_price": 140.0,
-      "high_price": 147.0,
-      "low_price": 137.0,
-      "range_position_pct": 90.0,
-      "day_high_gap_pct": -0.68,
-      "selection_score": 44.15,
-      "score": 44.15,
-      "allocation_krw": 407756.9851988914
-    },
-    {
-      "symbol": "LAYER",
-      "market": "KRW-LAYER",
-      "role": "quality continuation",
-      "strategy": "clean secondary continuation",
+      "high_price": 151.0,
+      "low_price": 135.0,
+      "range_position_pct": 75.0,
+      "day_high_gap_pct": -2.65,
+      "role": "structured continuation",
+      "strategy": "upper-range continuation",
       "risk_limit_pct": 4.0,
-      "profit_take_pct": 6,
-      "invalidated_if": "103원 하회 시 clean continuation 훼손",
-      "reason": "49.1억원 대금, +1.92%, 83.3% 위치로 noise가 적은 continuation 슬롯입니다.",
+      "profit_take_pct": 6.0,
+      "invalidated_if": "143원 하회 시 upper-range continuation 훼손",
+      "reason": "60.7억원 대금, +5.00%, 75.0% 위치, 고점 대비 -2.65%로 새벽에도 구조가 가장 깨끗한 continuation 중 하나입니다.",
       "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
-      "thesis": "83% range clean continuation",
-      "price_krw": 106.0,
-      "change_pct_24h": 1.92307692,
-      "turnover_krw_24h": 4913694589.958934,
-      "opening_price": 104.0,
-      "high_price": 107.0,
-      "low_price": 101.0,
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -0.93,
-      "selection_score": 37.64,
-      "score": 37.64,
-      "allocation_krw": 407756.9851988914
+      "thesis": "clean upper-range continuation",
+      "selection_score": 37.66,
+      "score": 37.66,
+      "allocation_krw": 376410.31890299794
     },
     {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "role": "large-cap quality survivor",
-      "strategy": "liquid quality rebound",
+      "market": "KRW-G",
+      "symbol": "G",
+      "price_krw": 5.12,
+      "change_pct_24h": 9.87124464,
+      "turnover_krw_24h": 5084251334.4566765,
+      "opening_price": 4.66,
+      "high_price": 5.28,
+      "low_price": 4.45,
+      "range_position_pct": 80.7,
+      "day_high_gap_pct": -3.03,
+      "role": "secondary beta continuation",
+      "strategy": "small-cap clean continuation",
       "risk_limit_pct": 4.5,
-      "profit_take_pct": 7,
-      "invalidated_if": "122,000원 하회 시 quality rebound 약화",
-      "reason": "87.2억원 대금, +3.36%, 69.5% 위치로 품질형 강세가 읽힙니다.",
+      "profit_take_pct": 8.0,
+      "invalidated_if": "4.90원 하회 시 80%대 continuation 무효",
+      "reason": "50.8억원 대금, +9.87%, 80.7% 위치, 고점 대비 -3.03%로 저체급이지만 chart가 매우 단순합니다.",
       "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
-      "thesis": "large-cap quality rebound anchor",
-      "price_krw": 126000.0,
-      "change_pct_24h": 3.36341263,
-      "turnover_krw_24h": 8719147386.42596,
-      "opening_price": 122000.0,
-      "high_price": 128900.0,
-      "low_price": 119400.0,
-      "range_position_pct": 69.5,
-      "day_high_gap_pct": -2.25,
-      "selection_score": 33.75,
-      "score": 33.75,
-      "allocation_krw": 407756.9851988914
+      "thesis": "small but very clean continuation",
+      "selection_score": 46.66,
+      "score": 46.66,
+      "allocation_krw": 376410.31890299794
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "role": "large-cap survivor anchor",
-      "strategy": "liquid survivor",
-      "risk_limit_pct": 4.0,
-      "profit_take_pct": 6,
-      "invalidated_if": "1,036원 하회 시 survivor 앵커 명분 약화",
-      "reason": "143.3억원 대금, +0.77%, 56.8% 위치로 체급형 생존주 역할이 유효합니다.",
+      "market": "KRW-IRYS",
+      "symbol": "IRYS",
+      "price_krw": 24.1,
+      "change_pct_24h": 1.2605042,
+      "turnover_krw_24h": 4769634730.4238615,
+      "opening_price": 23.7,
+      "high_price": 24.6,
+      "low_price": 22.8,
+      "range_position_pct": 72.2,
+      "day_high_gap_pct": -2.03,
+      "role": "quiet survivor continuation",
+      "strategy": "secondary steady continuation",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 5.5,
+      "invalidated_if": "23.4원 하회 시 steady continuation 훼손",
+      "reason": "47.7억원 대금, +1.26%, 72.2% 위치, 고점 대비 -2.03%로 noisy 리더 대신 조용한 생존 continuation 슬롯입니다.",
       "community": "직접 커뮤니티 크롤링 대신 Upbit 거래대금·leaderboard 잔존도를 attention proxy로 사용했습니다.",
-      "thesis": "large-cap breadth anchor",
-      "price_krw": 1047.0,
-      "change_pct_24h": 0.76997113,
-      "turnover_krw_24h": 14330106240.94937,
-      "opening_price": 1040.0,
-      "high_price": 1063.0,
-      "low_price": 1026.0,
-      "range_position_pct": 56.8,
-      "day_high_gap_pct": -1.51,
-      "selection_score": 27.18,
-      "score": 27.18,
-      "allocation_krw": 407756.9851988914
+      "thesis": "quiet continuation survivor",
+      "selection_score": 31.33,
+      "score": 31.33,
+      "allocation_krw": 376410.31890299794
     }
   ],
   "selected_altcoins": [
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "1162.5억원 대금 1위, +17.48%, 91.5% 위치로 이번 회차 유일한 fresh breakout 코어입니다."
+      "reason": "1529.4억원 대금 1위와 +19.72%는 유지되지만 고점 대비 -8.68%로 이미 식기 시작해, 추격 확대가 아니라 1개 salvage core로만 남깁니다."
+    },
+    {
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "161.3억원 대금, +6.84%, 80.9% 위치, 고점 대비 -3.10%로 현재 보드에서 가장 읽기 쉬운 고유동성 continuation입니다."
     },
     {
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "reason": "50.2억원 대금, +4.29%, 90.0% 위치, 고점 대비 -0.68%로 매우 깔끔합니다."
+      "reason": "60.7억원 대금, +5.00%, 75.0% 위치, 고점 대비 -2.65%로 새벽에도 구조가 가장 깨끗한 continuation 중 하나입니다."
     },
     {
-      "symbol": "LAYER",
-      "market": "KRW-LAYER",
-      "reason": "49.1억원 대금, +1.92%, 83.3% 위치로 noise가 적은 continuation 슬롯입니다."
+      "symbol": "G",
+      "market": "KRW-G",
+      "reason": "50.8억원 대금, +9.87%, 80.7% 위치, 고점 대비 -3.03%로 저체급이지만 chart가 매우 단순합니다."
     },
     {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "reason": "87.2억원 대금, +3.36%, 69.5% 위치로 품질형 강세가 읽힙니다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "143.3억원 대금, +0.77%, 56.8% 위치로 체급형 생존주 역할이 유효합니다."
+      "symbol": "IRYS",
+      "market": "KRW-IRYS",
+      "reason": "47.7억원 대금, +1.26%, 72.2% 위치, 고점 대비 -2.03%로 noisy 리더 대신 조용한 생존 continuation 슬롯입니다."
     }
   ],
   "watchlist": [
     {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "544.7억원 대금은 크지만 46.7% 위치, 고점 대비 -7.20%라 late-session fade 경계가 필요합니다."
+      "symbol": "SOON",
+      "market": "KRW-SOON",
+      "reason": "21.4억원으로 대금은 얕지만 83.8% 위치라 백업 continuation 후보입니다."
     },
     {
       "symbol": "SEI",
       "market": "KRW-SEI",
-      "reason": "+4.76%, 67.6% 위치로 여전히 좋지만 체급과 대금이 XPL·AAVE보다 한 단계 얕습니다."
-    },
-    {
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "+5.85%, 74.3% 위치로 구조는 좋지만 33.6억원 대금이라 톱5 본선에선 약간 얕습니다."
-    },
-    {
-      "symbol": "SPK",
-      "market": "KRW-SPK",
-      "reason": "+9.20%와 60.1억원은 매력적이지만 고점 대비 -4.04%라 눌림이 큽니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "대금 297.5억원에도 음전환·31.8% 위치면 이번 회차는 salvage보다 제외가 낫습니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "대금 580.4억원과 Altman/Robinhood headline이 있어도 -6.09%·18.2% 위치면 명확한 turnover trap입니다."
-    }
-  ],
-  "risk_notes": [
-    "weak breadth warning이 아직 true라 90% 추격을 유지하면 late-session 되밀림에 취약합니다.",
-    "SLX는 최강 주도주지만 단일 leader turnover 비중이 높아 558원 이탈 시 전체 바스켓 심리가 급냉할 수 있습니다.",
-    "XPL·LAYER는 구조는 깨끗하지만 절대 대금은 SLX보다 훨씬 작아 새벽 유동성 둔화에 민감합니다.",
-    "AAVE·SUI는 대형 품질주라 방어는 되지만, majors가 다시 20%대 위치로 밀리면 먼저 현금 비중을 늘려야 합니다.",
-    "WLD·SAHARA·ARX처럼 headline/turnover trap 구간은 재추격 금지입니다."
-  ],
-  "fear_greed": "12 (Extreme Fear, Alternative.me)",
-  "btc_reference": "BTC 92.75M원 / ETH 2.479M원 / XRP 1,627원 / SOL 103.4K원",
-  "improvement_log": [
-    "PROJECT.md에 partial-major rebound + weak breadth 지속 시 90% 바스켓을 고집하지 않고 80% selective continuation으로 감속하는 규칙을 추가했습니다.",
-    "이번 회차는 selection leaderboard의 과열/함정 분류를 직접 반영해 EDGE·UP2·BLEND 같은 high-gap 리더를 preferred에서 제외했습니다.",
-    "리포트에서 유지/제외 이유를 한줄 비교형으로 써서 late-session fade 관리가 더 빨리 보이게 다듬었습니다."
-  ],
-  "self_evaluation": {
-    "score": 8.6,
-    "summary": "15:58의 90% 공격 상향은 당시 메이저 급반등엔 맞았지만, 21:58엔 breadth가 따라오지 않아 그대로 방치하면 과도했습니다. 이번에는 SLX만 유지하고 나머지를 clean continuation·quality survivor로 재편해 과열 추격을 줄였습니다."
-  },
-  "ui_version": "v18.3",
-  "rejected_candidates": [
-    {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "대금은 크지만 46.7% 위치·-7.20% gap면 오후 리더에서 저녁 fading leader로 바뀌었습니다."
-    },
-    {
-      "symbol": "EDGE",
-      "market": "KRW-EDGE",
-      "reason": "42.70% 급등에도 고점 대비 -16.34% gap면 exhausted blowoff로 봐야 합니다."
-    },
-    {
-      "symbol": "UP2",
-      "market": "KRW-UP2",
-      "reason": "24.03% 급등과 225.2억원 대금은 강하지만 -15.00% gap라 late chase 금지입니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "580.4억원 대금에도 -6.09%·18.2% 위치면 headline trap입니다."
-    },
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "247.3억원 대금이어도 -7.0%·11.5% 위치면 완전한 breakdown입니다."
+      "reason": "61.9억원과 +3.21%는 괜찮지만 위치가 50.0%라 본선 5개보다 한 단계 약합니다."
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "양수는 남아도 28.6% 위치와 -7.19% gap로 기존 high-beta follow-through 가정이 깨졌습니다."
+      "reason": "59.5억원, +3.94%, 56.2% 위치로 무난하지만 XPL·IP보다 구조 우위가 없습니다."
+    },
+    {
+      "symbol": "AXS",
+      "market": "KRW-AXS",
+      "reason": "52.6% 위치와 52.6억원 대금으로 방어는 되지만 더 강한 continuation 5개가 먼저입니다."
+    },
+    {
+      "symbol": "PRL",
+      "market": "KRW-PRL",
+      "reason": "21.0억원과 70.0% 위치로 후보는 되지만 유동성이 G·IRYS보다 얕습니다."
+    },
+    {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "Robinhood 상장/Altman 서사에도 -6.09%, 27.0% 위치라 여전히 대표적 turnover trap입니다."
+    }
+  ],
+  "risk_notes": [
+    "fresh breakout이 0이라 90% 재공격을 정당화할 근거는 아직 없습니다.",
+    "SLX는 대금 1위지만 고점 대비 괴리가 커 salvage core 이상으로 확대하면 late fade를 다시 맞을 수 있습니다.",
+    "G·IRYS는 구조는 좋지만 절대 대금이 IP·SLX보다 얕아 체결 공백 리스크가 있습니다.",
+    "메이저 4종이 모두 음전환이라 BTC/ETH가 추가 하락하면 continuation 후보도 동반 눌림이 나올 수 있습니다.",
+    "WLD·ID·EDGE·UP2류 headline/과열 종목은 대금이 커도 재추격 금지입니다."
+  ],
+  "fear_greed": "12 (Extreme Fear, Alternative.me)",
+  "btc_reference": "BTC 90.652M원 / ETH 2.387M원 / XRP 1,575원 / SOL 100.9K원",
+  "improvement_log": [
+    "PROJECT.md에 \"weak breadth warning은 해제됐지만 fresh breakout이 0이고 major average가 35 미만이면 1개 salvage core + 4개 70%+ continuation\" 규칙을 추가했습니다.",
+    "이번 회차는 weak breadth warning true/false만 보지 않고 fresh breakout count와 major average를 함께 묶어 레짐을 나눴습니다.",
+    "리포트에 왜 75%까지만 쓰는지와 어떤 슬롯을 왜 버렸는지를 더 짧게 한눈에 보이도록 정리했습니다."
+  ],
+  "self_evaluation": {
+    "score": 8.4,
+    "summary": "21:58의 80% 바스켓은 weak breadth warning 하에선 합리적이었지만, 새벽에는 fresh breakout이 0이 되고 LAYER·SUI·AAVE가 실제로 식었습니다. 이번에는 weak breadth warning 해제만 보고 재공격하지 않고, 메이저 약세와 구조 훼손을 함께 반영해 continuation 4종으로 교체한 점이 개선입니다."
+  },
+  "ui_version": "v18.4",
+  "rejected_candidates": [
+    {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "584.0억원 대금에도 -6.09%·27.0% 위치면 headline trap입니다."
+    },
+    {
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "565.9억원 대금은 남지만 27.8% 위치·-9.75% gap라 fading leader입니다."
+    },
+    {
+      "symbol": "EDGE",
+      "market": "KRW-EDGE",
+      "reason": "40.47% 급등에도 -17.65% gap면 exhausted blowoff로 봐야 합니다."
+    },
+    {
+      "symbol": "UP2",
+      "market": "KRW-UP2",
+      "reason": "286.3억원 대금과 +17.74%에도 38.8% 위치·-19.31% gap면 late chase 금지입니다."
+    },
+    {
+      "symbol": "LAYER",
+      "market": "KRW-LAYER",
+      "reason": "현재 98원, -5.77%, 5.3% 위치로 기존 continuation 가정이 붕괴했습니다."
+    },
+    {
+      "symbol": "AAVE",
+      "market": "KRW-AAVE",
+      "reason": "100.1억원 대금이어도 25.9% 위치·-8.69% gap면 품질주보다 stale laggard입니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1492.3억원입니다.",
-    "momentum_discipline": "keep SLX breakout, reject WLD/SAHARA traps, reject EDGE/UP2 blowoff chases",
-    "diversification": "mega breakout 1 + clean continuation 2 + quality survivor 2",
-    "cash_usage": "80%",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2315.2억원입니다.",
+    "momentum_discipline": "keep only 1 salvage core (SLX), promote IP/XPL/G/IRYS continuations, reject WLD/ID/EDGE/UP2 traps",
+    "diversification": "salvage core 1 + liquid continuation 2 + lighter continuation 2",
+    "cash_usage": "75%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh breakout 1 / clean continuation 2 / quality survivor 2 / headline trap rejection 3+"
+    "summary": "fresh breakout 0 / continuation 4 / salvage core 1 / headline trap rejection 4+"
   },
   "rotation_map": [
     {
-      "out": "ID",
-      "in": "XPL",
-      "why": "fading leader를 90% upper-range continuation으로 교체합니다."
+      "out": "LAYER",
+      "in": "IP",
+      "why": "기존 continuation 붕괴(5.3% 위치)를 더 강한 80.9% liquid continuation으로 교체합니다."
     },
     {
-      "out": "SEI",
-      "in": "LAYER",
-      "why": "비슷한 beta보다 더 깨끗한 83.3% continuation을 선택합니다."
+      "out": "AAVE",
+      "in": "G",
+      "why": "25.9% stale 품질주 대신 80%대 clean beta continuation으로 공격성은 유지하되 구조를 개선합니다."
     },
     {
-      "out": "IN",
-      "in": "AAVE",
-      "why": "약해진 high-beta follow-through를 quality rebound로 낮춥니다."
+      "out": "SUI",
+      "in": "IRYS",
+      "why": "음전환된 체급 앵커보다 72.2% 조용한 생존 continuation이 더 낫습니다."
     },
     {
-      "out": "현금 없음",
-      "in": "현금 20%",
-      "why": "weak breadth warning 지속으로 90%→80% 감속합니다."
+      "out": "현금 20%",
+      "in": "현금 25%",
+      "why": "fresh breakout 0 + major average 28.95%라 80%보다 75%가 더 낫습니다."
     },
     {
-      "out": "SLX 외 4개 기존 공격 바스켓",
-      "in": "SUI 유지 재편",
-      "why": "체급형 생존축 1개는 남겨 분산을 보강합니다."
+      "out": "SLX 동일비중 공격",
+      "in": "SLX 축소 salvage core",
+      "why": "SLX는 유지하되 -8.68% high-gap 때문에 1개 salvage core로만 남깁니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 20% 유지. major average가 50% 이상으로 추가 회복하고 weak breadth warning이 꺼지면 85~90% 재상향 검토.",
-    "review_trigger": "SLX 558원 / XPL 142원 / LAYER 103원 / AAVE 122,000원 / SUI 1,036원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 25% 유지. major average가 40% 이상으로 회복하고 fresh breakout이 2개 이상으로 늘면 80~85% 재상향 검토.",
+    "review_trigger": "SLX 568원 / IP 512원 / XPL 143원 / G 4.90원 / IRYS 23.4원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "weak breadth warning true일 때는 90% 추격 유지 금지",
+      "fresh breakout 0 + major average 35 미만이면 salvage core는 최대 1개만 허용",
       "exhausted blowoff 후보는 대금이 커도 preferred 진입 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 5.56,
+    "preferred_avg_change_pct_24h": 8.54,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 149232338216.252,
-    "leader_turnover_share_pct": 77.9,
+    "preferred_turnover_total_krw_24h": 184988610336.361,
+    "leader_turnover_share_pct": 82.7,
     "leader_symbol": "SLX"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "이번 회차 핵심은 partial rebound를 이유로 90% 그대로 두지 않고, clean continuation·quality survivor 4종으로 재편한 점입니다."
+    "comment": "이번 회차 핵심은 weak breadth warning 해제만 보고 방심하지 않고, fresh breakout 0과 메이저 재약세를 반영해 SLX 1개만 남긴 점입니다."
   }
 }
