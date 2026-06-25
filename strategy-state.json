@@ -1,300 +1,300 @@
 {
-  "updated_at": "2026-06-25T09:58:00+09:00",
-  "top_line": "메이저 평균 위치가 16.9%→5.7%로 더 악화됐지만 비메이저 양수 4→6, fresh 0→2로 회복 조짐이 생겼습니다. 09:58은 STRAX·AAVE·XPL을 줄이고 ID·SAHARA·XLM·ONDO·IN 70% selective rotation이 맞습니다.",
-  "macro_summary": "BTC 0.2% / ETH 0.0% / XRP 12.5% / SOL 10.0% 위치로 상위 4대 메이저는 여전히 하루 저점권입니다. 다만 비메이저 top15 양수 수는 6개로 늘고 fresh breakout도 2개로 늘어, 전면 현금화보다 살아 있는 상단 구조 5종을 70%로 보유하는 쪽이 낫습니다.",
-  "news_summary": "Alternative.me 공포탐욕지수는 12로 더 낮아졌습니다. 외부 검색 기준 WLD는 Robinhood 상장 헤드라인에도 가격이 밀렸고 Sam Altman 관련 scrutiny가 오히려 부담으로 작용했습니다. 즉 headline 자체보다 상단 체류 구조가 더 중요합니다.",
-  "community_summary": "직접 커뮤니티 크롤링은 제한적이라 공개 검색과 업비트 대금 구조를 attention proxy로 사용했습니다. 그 기준에서 자금은 SLX·WLD 같은 초대금 trap보다 ID·SAHARA·XLM·ONDO·IN 같은 상단 체류형으로 이동했습니다.",
-  "public_figure_summary": "Sam Altman/WLD 서사는 이번 회차에도 순매수 근거가 되지 못했습니다. 유명인·브랜드 서사보다 실제 체결 구조와 day-high gap 확인이 우선이라는 점이 다시 확인됐습니다.",
-  "major_coin_summary": "BTC -0.35%·0.2% 위치 / ETH -0.16%·0.0% 위치 / XRP 0.00%·12.5% 위치 / SOL -0.48%·10.0% 위치 / 메이저 평균 5.67% 위치",
-  "altcoin_selection_summary": "preferred buy는 ID, SAHARA, XLM, ONDO, IN입니다. 초대금 리더 2개(ID·SAHARA), liquid fresh-hold 1개(XLM), 체급형 reclaim 1개(ONDO), 조용한 상단 support 1개(IN)로 구성했습니다. 좁은 박스 100% 종목은 1개만 허용하는 새 규칙을 적용해 DOGE는 보류했습니다.",
-  "overall_bias": "extreme-major-weakness-70-selective-rotation",
-  "confidence": "medium",
+  "updated_at": "2026-06-25T15:58:00+09:00",
+  "top_line": "메이저 평균 위치가 5.67%→92.25%로 급반등했고 Upbit 자금도 mega reclaim 2종+clean high-range 3종으로 넓어졌습니다. 15:58은 SAHARA·XLM·ONDO 정리 후 SLX·ID·SUI·SEI·IN 90% aggressive upshift가 맞습니다.",
+  "macro_summary": "BTC 92.6% / ETH 86.7% / XRP 96.4% / SOL 93.3% 위치로 상위 4대 메이저가 모두 하루 상단권으로 복귀했습니다. 오전 panic 방어보다 오후 breadth 추종이 유리하며, paper deployment도 70%에서 90%로 올릴 만한 레짐 변화가 확인됐습니다.",
+  "news_summary": "Alternative.me 공포탐욕지수는 여전히 12로 극단 공포지만, 실제 장내 구조는 반대로 risk-on 반등이 강합니다. WLD는 Robinhood 상장 및 Sam Altman 연상 headline에도 가격이 음수·중하단에 머물러, 이번 사이클도 headline보다 체결 구조가 우선이라는 점이 확인됐습니다.",
+  "community_summary": "직접 커뮤니티 크롤링은 제한적이라 업비트 거래대금과 공개 검색을 attention proxy로 사용했습니다. 그 기준에서 자금은 WLD·SAHARA 같은 headline 서사보다 SLX·ID 같은 mega reclaim과 SUI·SEI·IN 같은 clean follow-through 쪽으로 이동했습니다.",
+  "public_figure_summary": "Sam Altman/WLD 서사는 다시 화제가 됐지만 가격 follow-through가 없었습니다. 이번 회차는 유명인·브랜드보다 실제 range position과 대금 재유입이 훨씬 중요했습니다.",
+  "major_coin_summary": "BTC +0.93%·92.6% 위치 / ETH +1.79%·86.7% 위치 / XRP +1.23%·96.4% 위치 / SOL +1.94%·93.3% 위치 / 메이저 평균 92.25% 위치",
+  "altcoin_selection_summary": "preferred buy는 SLX, ID, SUI, SEI, IN입니다. mega-liquidity reclaim 2개(SLX·ID), clean large-cap breakout 1개(SUI), fresh mid-cap beta 1개(SEI), high-beta continuation 1개(IN)로 구성했습니다. 메이저 급반등 국면이라 오전의 방어형 ONDO·XLM보다 속도 있는 상단 구조를 우선했습니다.",
+  "overall_bias": "major-breadth-rebound-90-aggressive-upshift",
+  "confidence": "medium-high",
   "preferred_buy_candidates": [
+    {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "role": "mega-liquidity reclaim core",
+      "strategy": "risk-on reclaim leader",
+      "risk_limit_pct": 5.5,
+      "profit_take_pct": 10,
+      "invalidated_if": "518원 하회 시 mega reclaim follow-through 약화",
+      "reason": "1,015.2억원 대금 1위, +11.38%, 69.7% 위치로 오전 trap에서 오후 risk-on reclaim 리더로 성격이 바뀌었습니다.",
+      "community": "업비트 리테일 자금이 가장 크게 재유입된 축이며, '다시 잡을 수 있나' 심리가 실제 대금으로 확인됩니다.",
+      "thesis": "메이저 급반등 직후엔 가장 큰 대금 회복주를 무시하기보다 clean high-range 슬롯과 함께 공격적으로 가져가는 편이 기대값이 높습니다.",
+      "price_krw": 548.0,
+      "change_pct_24h": 11.38211382,
+      "turnover_krw_24h": 101522226292.77005,
+      "opening_price": 492.0,
+      "high_price": 581.0,
+      "low_price": 472.0,
+      "range_position_pct": 69.7,
+      "day_high_gap_pct": -5.68,
+      "selection_score": 55.8,
+      "score": 55.8,
+      "allocation_krw": 462433.3991802157
+    },
     {
       "symbol": "ID",
       "market": "KRW-ID",
-      "role": "liquid leader core",
-      "strategy": "mega-liquidity reclaim core",
-      "risk_limit_pct": 4.5,
-      "profit_take_pct": 8,
-      "invalidated_if": "60.0원 하회 시 liquid leader 코어 훼손",
-      "reason": "618.7억원 대금, +7.80%, 83.3% 위치, -1.43% gap로 이번 회차 최상위 리더입니다.",
-      "community": "공개 커뮤니티 직접 크롤링은 제한적이지만, 업비트 대금 흐름상 리테일 중심축이 ID로 가장 또렷하게 모입니다.",
-      "thesis": "메이저가 하루 저점권에 머무는 동안에도 대금과 상단 체류를 동시에 유지한 실전 코어입니다.",
-      "price_krw": 62.2,
-      "change_pct_24h": 7.79896014,
-      "turnover_krw_24h": 61869037026.17181,
+      "role": "mega-liquidity continuation core",
+      "strategy": "broad risk-on continuation",
+      "risk_limit_pct": 5.0,
+      "profit_take_pct": 9,
+      "invalidated_if": "61.5원 하회 시 risk-on continuation 훼손",
+      "reason": "626.7억원 대금, +11.44%, 73.3% 위치로 오전 리더 지위를 유지한 채 오후에도 자금이 붙습니다.",
+      "community": "리테일 attention이 여전히 ID에 강하게 남아 있고, 업비트 장내 회전의 중심축입니다.",
+      "thesis": "SLX보다 갭이 덜 벌어졌고 대금이 충분해 mega-liquidity continuation 코어로 적합합니다.",
+      "price_krw": 64.3,
+      "change_pct_24h": 11.43847487,
+      "turnover_krw_24h": 62669998033.28361,
       "opening_price": 57.7,
-      "high_price": 63.1,
+      "high_price": 66.7,
       "low_price": 57.7,
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -1.43,
-      "selection_score": 56.5,
-      "score": 56.5,
-      "allocation_krw": 358211.85618074314
+      "range_position_pct": 73.3,
+      "day_high_gap_pct": -3.6,
+      "selection_score": 54.6,
+      "score": 54.6,
+      "allocation_krw": 462433.3991802157
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "role": "high-liquidity narrative continuation",
-      "strategy": "ai continuation core",
-      "risk_limit_pct": 4.5,
-      "profit_take_pct": 8,
-      "invalidated_if": "19.8원 하회 시 AI continuation 훼손",
-      "reason": "469.8억원 대금, +2.00%, 83.3% 위치, -0.97% gap로 headline보다 구조가 훨씬 깔끔합니다.",
-      "community": "AI/리테일 관심은 남아 있지만 이번엔 과열이 아니라 상단 유지형으로 바뀐 점이 긍정적입니다.",
-      "thesis": "SLX·WLD 같은 trap 대비 같은 대금권에서 훨씬 건강한 continuation입니다.",
-      "price_krw": 20.4,
-      "change_pct_24h": 2.0,
-      "turnover_krw_24h": 46981500550.26205,
-      "opening_price": 20.0,
-      "high_price": 20.6,
-      "low_price": 19.4,
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -0.97,
-      "selection_score": 45.26,
-      "score": 45.3,
-      "allocation_krw": 358211.85618074314
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "role": "liquid fresh-hold",
-      "strategy": "tight-range liquid breakout hold",
-      "risk_limit_pct": 3.5,
-      "profit_take_pct": 5,
-      "invalidated_if": "281원 하회 시 tight-range fresh-hold 해석 취소",
-      "reason": "322.4억원 대금과 100% 위치, 0% gap로 상단 고정이 확인됐습니다.",
-      "community": "대형 함정주보다 좁은 박스 상단 고정형으로 자금이 피신하는 흐름의 대표 사례입니다.",
-      "thesis": "변동폭은 작지만 대금 체급이 커 단기 생존 확인용 fresh-hold 슬롯으로 가치가 있습니다.",
-      "price_krw": 283.0,
-      "change_pct_24h": 0.35460993,
-      "turnover_krw_24h": 32242869193.256626,
-      "opening_price": 282.0,
-      "high_price": 283.0,
-      "low_price": 280.0,
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0,
-      "selection_score": 47.31,
-      "score": 47.3,
-      "allocation_krw": 358211.85618074314
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "role": "reclaim balance core",
-      "strategy": "liquid reclaim balance",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "role": "clean large-cap breakout",
+      "strategy": "high-range large-cap follow-through",
       "risk_limit_pct": 4.0,
       "profit_take_pct": 6,
-      "invalidated_if": "476원 하회 시 reclaim balance 약화",
-      "reason": "245.6억원 대금, +0.84%, 62.5% 위치, -0.62% gap로 broad-beta 대비 구조가 가장 단정합니다.",
-      "community": "공격성은 낮아도 리테일이 완전히 떠나지 않은 체급형 알트라 균형축 역할이 좋습니다.",
-      "thesis": "메이저가 약한 구간에서 과열주 대신 읽기 쉬운 체급형 reclaim으로 분산을 보완합니다.",
-      "price_krw": 481.0,
-      "change_pct_24h": 0.83857442,
-      "turnover_krw_24h": 24559140191.31403,
-      "opening_price": 477.0,
-      "high_price": 484.0,
-      "low_price": 476.0,
-      "range_position_pct": 62.5,
-      "day_high_gap_pct": -0.62,
-      "selection_score": 32.66,
-      "score": 32.7,
-      "allocation_krw": 358211.85618074314
+      "invalidated_if": "1040원 하회 시 clean breakout 해석 취소",
+      "reason": "128.1억원 대금, +1.25%, 96.3% 위치, -0.09% gap로 체급형 중 가장 깔끔한 상단 유지입니다.",
+      "community": "대형 알트 선호 자금이 붙을 때 가장 읽기 쉬운 품질형 회복축입니다.",
+      "thesis": "메이저 rebound 구간에 소형주만 쫓지 않고 SUI 같은 clean large-cap leader를 섞는 것이 분산에 유리합니다.",
+      "price_krw": 1052.0,
+      "change_pct_24h": 1.25120308,
+      "turnover_krw_24h": 12805456225.192421,
+      "opening_price": 1040.0,
+      "high_price": 1053.0,
+      "low_price": 1026.0,
+      "range_position_pct": 96.3,
+      "day_high_gap_pct": -0.09,
+      "selection_score": 44.2,
+      "score": 44.2,
+      "allocation_krw": 462433.3991802157
+    },
+    {
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "role": "fresh high-range beta",
+      "strategy": "high-range mid-cap breakout",
+      "risk_limit_pct": 4.5,
+      "profit_take_pct": 7,
+      "invalidated_if": "84.5원 하회 시 fresh breakout 훼손",
+      "reason": "33.2억원 대금, +3.93%, 95.6% 위치, -0.23% gap로 이번 표본에서 가장 단정한 중형 breakout입니다.",
+      "community": "대금은 메가급이 아니지만, 구조가 너무 깨끗해 risk-on 장세의 속도 슬롯으로 가치가 있습니다.",
+      "thesis": "메이저 rebound 때 1개 정도는 high-range beta를 넣어야 공격성이 살아납니다.",
+      "price_krw": 87.3,
+      "change_pct_24h": 3.92857143,
+      "turnover_krw_24h": 3315602309.3118157,
+      "opening_price": 84.0,
+      "high_price": 87.5,
+      "low_price": 83.0,
+      "range_position_pct": 95.6,
+      "day_high_gap_pct": -0.23,
+      "selection_score": 42.1,
+      "score": 42.1,
+      "allocation_krw": 462433.3991802157
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "role": "quiet support slot",
-      "strategy": "quiet upper-range support",
-      "risk_limit_pct": 4.0,
-      "profit_take_pct": 6,
-      "invalidated_if": "128원 하회 시 quiet support 훼손",
-      "reason": "34.4억원 대금, +3.15%, 100% 위치, 0% gap로 군더더기 없는 5번째 슬롯입니다.",
-      "community": "직접 주목도는 크지 않지만 조용한 플러스 지속형을 선호하는 방어성 추세가 맞습니다.",
-      "thesis": "초대금 함정주를 줄이고 5번째 완충 슬롯을 깨끗한 상단 고정형으로 유지하는 선택입니다.",
-      "price_krw": 131.0,
-      "change_pct_24h": 3.1496063,
-      "turnover_krw_24h": 3437949792.5112295,
+      "role": "high-beta follow-through",
+      "strategy": "late-session clean continuation",
+      "risk_limit_pct": 5.0,
+      "profit_take_pct": 8,
+      "invalidated_if": "132원 하회 시 continuation 약화",
+      "reason": "47.9억원 대금, +8.66%, 92.9% 위치, -0.72% gap로 오전 조용한 생존주에서 오후 고베타 continuation으로 승격됐습니다.",
+      "community": "직접 커뮤니티 데이터는 제한적이지만 업비트 체결 흐름상 follow-through 매수가 이어집니다.",
+      "thesis": "리스크온 전환 직후 가장 빠르게 확장된 소형 상단 체류형이라 5번째 공격 슬롯으로 적합합니다.",
+      "price_krw": 138.0,
+      "change_pct_24h": 8.66141732,
+      "turnover_krw_24h": 4786660051.760071,
       "opening_price": 126.0,
-      "high_price": 131.0,
+      "high_price": 139.0,
       "low_price": 125.0,
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0,
-      "selection_score": 46.65,
-      "score": 46.7,
-      "allocation_krw": 358211.85618074314
+      "range_position_pct": 92.9,
+      "day_high_gap_pct": -0.72,
+      "selection_score": 41.4,
+      "score": 41.4,
+      "allocation_krw": 462433.3991802157
     }
   ],
   "selected_altcoins": [
     {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "1,015.2억원 대금 1위, +11.38%, 69.7% 위치로 오전 trap에서 오후 risk-on reclaim 리더로 성격이 바뀌었습니다."
+    },
+    {
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "618.7억원 대금, +7.80%, 83.3% 위치, -1.43% gap로 이번 회차 최상위 리더입니다."
+      "reason": "626.7억원 대금, +11.44%, 73.3% 위치로 오전 리더 지위를 유지한 채 오후에도 자금이 붙습니다."
     },
     {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "469.8억원 대금, +2.00%, 83.3% 위치, -0.97% gap로 headline보다 구조가 훨씬 깔끔합니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "128.1억원 대금, +1.25%, 96.3% 위치, -0.09% gap로 체급형 중 가장 깔끔한 상단 유지입니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "322.4억원 대금과 100% 위치, 0% gap로 상단 고정이 확인됐습니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "245.6억원 대금, +0.84%, 62.5% 위치, -0.62% gap로 broad-beta 대비 구조가 가장 단정합니다."
+      "symbol": "SEI",
+      "market": "KRW-SEI",
+      "reason": "33.2억원 대금, +3.93%, 95.6% 위치, -0.23% gap로 이번 표본에서 가장 단정한 중형 breakout입니다."
     },
     {
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "34.4억원 대금, +3.15%, 100% 위치, 0% gap로 군더더기 없는 5번째 슬롯입니다."
+      "reason": "47.9억원 대금, +8.66%, 92.9% 위치, -0.72% gap로 오전 조용한 생존주에서 오후 고베타 continuation으로 승격됐습니다."
     }
   ],
   "watchlist": [
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "84.8억원 대금 1위지만 -2.44%, 22.2% 위치라 여전히 turnover trap입니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "79.3억원 대금에도 0% 위치라 Sam Altman/Robinhood headline이 실제 매수 방어로 이어지지 못했습니다."
-    },
-    {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "플러스와 대금은 남아 있어 SAHARA·ONDO 약화 시 재승격 가능한 백업 continuation입니다."
-    },
-    {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "75.0% 위치와 -0.70% gap는 좋지만 대금 34.5억원이라 이번 회차는 후보 6위입니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "+1.05%, 64.3% 위치, 285.6억원 대금으로 여전히 읽기 쉬운 대형 앵커지만 이번엔 90% 공격 바스켓의 속도에 밀렸습니다."
     },
     {
       "symbol": "DOGE",
       "market": "KRW-DOGE",
-      "reason": "28.1억원 대금과 100% 위치는 강하지만 좁은 박스 100%라 full breakout보다 broad-beta 참고 신호로만 봅니다."
+      "reason": "269.7억원 대금과 66.7% 위치는 좋지만 박스가 너무 좁아 이번 회차는 메가 reclaim 2종과 clean breakout 3종이 더 낫습니다."
     },
     {
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "reason": "60.4억원 대금에도 -5.05%, 8.6% 위치로 전형적인 trap입니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "597.3억원 대금에도 -1.99%, 43.2% 위치라 Robinhood/Altman headline이 아직 가격 follow-through로 이어지지 못했습니다."
+    },
+    {
+      "symbol": "LINK",
+      "market": "KRW-LINK",
+      "reason": "44.5억원 대금, 86.4% 위치, -0.26% gap로 매우 깨끗한 품질주라 IN 약화 시 바로 승격 가능합니다."
+    },
+    {
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "+5.39%, 83.9% 위치는 좋지만 대금 23.6억원으로 톱5 공격 바스켓엔 약간 얕습니다."
+    },
+    {
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "490.9억원 대금에도 -4.5%, 14.3% 위치면 오전 continuation 가정이 깨졌다고 봐야 합니다."
     }
   ],
   "risk_notes": [
-    "메이저 평균 위치 5.67%는 여전히 매우 나빠 추가 하방 한 번이면 알트도 바로 꺾일 수 있습니다.",
-    "XLM·IN은 100% 위치라도 일중 변동폭이 좁아 과대해석 금지입니다.",
-    "SAHARA는 대금은 크지만 AI 내러티브 변동성이 커 19.8원 하회 시 바로 약해질 수 있습니다.",
-    "ONDO는 구조는 좋지만 강도 자체는 얕아 476원 이탈 시 의미가 급격히 줄어듭니다.",
-    "SLX·WLD·ARX 같은 top-turnover trap 재추격은 금지입니다."
+    "SLX는 대금 1위지만 고점 대비 -5.68% gap가 남아 있어 518원 이탈 시 trap 복귀를 의심해야 합니다.",
+    "ID는 강하지만 intraday 고점과의 간격이 있어 61.5원 아래로 밀리면 오후 continuation 명분이 약해집니다.",
+    "SEI·IN은 구조는 좋지만 체급이 아주 크진 않아 메이저가 다시 꺾이면 가장 먼저 흔들릴 수 있습니다.",
+    "WLD·SAHARA처럼 headline은 강하지만 가격이 못 따라오는 이름은 재추격 금지입니다.",
+    "major average가 다시 80 아래로 급락하면 90% 공격 배치는 과감히 70%대로 축소해야 합니다."
   ],
   "fear_greed": "12 (Extreme Fear, Alternative.me)",
-  "btc_reference": "BTC 92.258M원 / ETH 2.456M원 / XRP 1,628원 / SOL 102.7K원",
+  "btc_reference": "BTC 93.444M원 / ETH 2.504M원 / XRP 1,648원 / SOL 105.2K원",
   "improvement_log": [
-    "PROJECT.md에 \"좁은 박스 95~100% 위치는 full breakout이 아니라 tight-range hold로 취급하고, 그런 종목은 원칙적으로 1개만 허용\" 규칙을 추가했습니다.",
-    "이번 회차는 100% 위치라도 일중 변동폭이 매우 좁은 종목을 별도 경고해 DOGE 과대평가를 줄였습니다.",
-    "전 회차 5종을 시가평가한 뒤 약한 3종만 교체하고 ID·IN은 유지해 불필요한 churn을 줄였습니다."
+    "PROJECT.md에 '메이저 평균 위치가 15 미만에서 85 초과로 한 사이클에 급반등하면, 65~75% mega reclaim 2개 + 80%+ clean leader 3개 조합으로 90%까지 올릴 수 있다' 규칙을 추가했습니다.",
+    "이번 회차는 오전 defensive basket을 기계적으로 유지하지 않고, 오후 레짐 전환을 인정해 70%→90% 공격 상향 로직을 반영했습니다.",
+    "보고서에서 'mega reclaim vs clean breakout' 구분을 더 명확히 써서 왜 former trap 일부를 다시 허용했는지 한눈에 보이게 했습니다."
   ],
   "self_evaluation": {
-    "score": 9.1,
-    "summary": "메이저 추가 붕괴를 인정하면서도 breadth 개선 2가지를 놓치지 않고 full panic 대신 selective rotation으로 정리한 점은 좋았습니다. 다만 XLM·IN 같은 좁은 박스 100% 구조는 다음 회차에도 반드시 지속 확인이 필요합니다."
+    "score": 8.8,
+    "summary": "09:58의 70% selective defense는 당시 메이저 붕괴를 반영한 합리적 대응이었지만, 오후 급반등에서는 SAHARA·XLM 방어를 빨리 버리고 risk-on 리더로 갈아타야 했습니다. 이번엔 mega-liquidity reclaim과 clean high-range leaders를 함께 담아 대응 속도를 개선했습니다."
   },
-  "ui_version": "v18.1",
+  "ui_version": "v18.2",
   "rejected_candidates": [
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "28.1억원 대금과 100% 위치는 강하지만 좁은 박스 100% broad-beta라 이번 회차는 1개 제한 규칙상 제외했습니다."
-    },
-    {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "84.8억원 대금 1위여도 -2.44%, 22.2% 위치면 trap입니다."
-    },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "79.3억원 대금에도 0% 위치라 headline 회복 명분이 없습니다."
+      "reason": "597.3억원 대금이어도 -1.99%, 43.2% 위치면 headline 대비 구조가 약합니다."
+    },
+    {
+      "symbol": "SAHARA",
+      "market": "KRW-SAHARA",
+      "reason": "490.9억원 대금에도 -4.5%, 14.3% 위치면 오전 continuation 붕괴입니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "328.6억원 대금은 좋지만 44.4% 위치로 오전의 100% 상단 고정이 식었습니다."
     },
     {
       "symbol": "ARX",
       "market": "KRW-ARX",
-      "reason": "60.4억원 대금과 -5.05%, 8.6% 위치는 전형적인 turnover trap입니다."
+      "reason": "563.5억원 대금에도 -3.61%, 56.7% 위치라 여전히 turnover trap 성격이 남습니다."
     },
     {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "reason": "체급형 품질은 맞지만 이번 회차엔 4.0% 위치 저점형이라 공격 바스켓 우선순위에서 밀렸습니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "구조는 깨끗하지만 이번 회차는 major rebound 공격성 때문에 90% 바스켓 6위로 밀렸습니다."
     },
     {
-      "symbol": "STRAX",
-      "market": "KRW-STRAX",
-      "reason": "3.05% 플러스여도 57.1% 위치라 상단 지속 리더 5종보다 매력이 떨어집니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "66.7% 위치와 269.7억원 대금은 좋지만 좁은 박스 broad-beta라 cleaner 90%+ leaders보다 한 단계 아래입니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1,709.5억원입니다.",
-    "momentum_discipline": "reject SLX/WLD/ARX traps, keep only one tight-range 100% hold",
-    "diversification": "liquid leader 2 + fresh-hold 1 + reclaim 1 + quiet support 1",
-    "cash_usage": "70%",
-    "rotation_speed": "high but selective"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2,145.0억원입니다.",
+    "momentum_discipline": "promote SLX/ID mega reclaims, reject WLD/SAHARA headline laggards",
+    "diversification": "mega reclaim 2 + large-cap breakout 1 + beta breakout 1 + continuation 1",
+    "cash_usage": "90%",
+    "rotation_speed": "very high"
   },
   "signal_balance": {
-    "summary": "leader 2 / fresh-hold 1 / reclaim 1 / quiet support 1 / trap rejection 4"
+    "summary": "mega reclaim 2 / clean breakout 2 / high-beta continuation 1 / headline rejection 3"
   },
   "rotation_map": [
     {
-      "out": "STRAX",
-      "in": "SAHARA",
-      "why": "57.1% survivor보다 83.3% 고대금 continuation이 우위입니다."
+      "out": "SAHARA",
+      "in": "SLX",
+      "why": "오전 AI continuation 붕괴를 오후 mega-liquidity reclaim 1위로 교체합니다."
     },
     {
-      "out": "AAVE",
-      "in": "XLM",
-      "why": "4.0% 저점형 품질주보다 100% 상단 고정 liquid fresh-hold가 낫습니다."
+      "out": "XLM",
+      "in": "SUI",
+      "why": "좁은 박스 100% hold보다 96.3% 위치의 대형 clean breakout이 낫습니다."
     },
     {
-      "out": "XPL",
-      "in": "ONDO",
-      "why": "34.5억원 clean 구조보다 245.6억원 체급 reclaim이 이번 회차엔 더 안전하고 공격적입니다."
+      "out": "ONDO",
+      "in": "SEI",
+      "why": "안정적 앵커보다 95.6% 위치 high-range beta가 이번 risk-on 구간에서 더 공격적입니다."
     },
     {
-      "out": "ID 일부",
-      "in": "현금",
-      "why": "70% cap 유지 및 동일비중 복원"
+      "out": "현금",
+      "in": "ID 추가",
+      "why": "기존 코어를 mega continuation로 90% 비중까지 확대합니다."
     },
     {
-      "out": "IN 일부",
-      "in": "현금",
-      "why": "70% cap 유지 및 동일비중 복원"
+      "out": "현금",
+      "in": "IN 추가",
+      "why": "follow-through 유지 확인 후 5번째 공격 슬롯을 보강합니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. fresh 2개가 다시 0으로 줄면 60~65%까지 감속 검토.",
-    "review_trigger": "ID 60.0원 / SAHARA 19.8원 / XLM 281원 / ONDO 476원 / IN 128원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 10% 유지. major average가 80 미만으로 재하락하면 70~75%까지 즉시 감속 검토.",
+    "review_trigger": "SLX 518원 / ID 61.5원 / SUI 1040원 / SEI 84.5원 / IN 132원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "major avg 10 미만이면 총투입 70% 이상 확대 금지",
-      "좁은 박스 95~100% 위치 종목은 1개만 허용"
+      "major avg 85 이상·breadth 확장 시 90%까지 허용 가능",
+      "headline laggard는 대금이 커도 50% 미만 위치면 preferred 재진입 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 2.03,
+    "preferred_avg_change_pct_24h": 7.33,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 170954723113.51675,
-    "leader_turnover_share_pct": 36.19,
-    "leader_symbol": "ID"
+    "preferred_turnover_total_krw_24h": 214500064912.31796,
+    "leader_turnover_share_pct": 47.33,
+    "leader_symbol": "SLX"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "이번 회차는 메이저 추가 붕괴 속에서도 trap 제거와 5개 all-positive 유지가 핵심입니다."
+    "comment": "이번 회차 핵심은 major rebound에 맞춰 방어형 오전 바스켓을 즉시 공격형 오후 바스켓으로 바꾼 점입니다."
   }
 }
