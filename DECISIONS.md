@@ -14,3 +14,4 @@
 - Real exchange execution remains out of scope for now
 - External information gathering may use web search, web fetch, and local reasoning, but should stay selective rather than noisy
 - In weak breadth sessions with major average range-position under roughly 20 and only 2-3 non-major all-positive 60%+ leaders, prefer a 70% all-positive support basket over defending mega-turnover salvage names.
+- In a breadth-snapback session where major average range-position jumps from below roughly 20 to above roughly 80 within one cycle and 2개 이상 held breakout names collapse into clear trap territory, immediately abandon the old basket, raise paper deployment toward roughly 85%, and rebuild around current 85%+ leaders instead of defending the failed morning names.
