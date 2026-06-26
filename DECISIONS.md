@@ -13,3 +13,4 @@
 - Each 6-hour cycle should include self-evaluation plus at least one concrete improvement to the strategy, report structure, or UI when feasible
 - Real exchange execution remains out of scope for now
 - External information gathering may use web search, web fetch, and local reasoning, but should stay selective rather than noisy
+- In weak breadth sessions with major average range-position under roughly 20 and only 2-3 non-major all-positive 60%+ leaders, prefer a 70% all-positive support basket over defending mega-turnover salvage names.

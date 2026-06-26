@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 627350.5315049966,
-  "realized_pnl_krw": -7360004.383982102,
-  "last_valuation_krw": 2509402.1260199863,
-  "last_action": "REBALANCE_75_SLX_IP_XPL_G_IRYS",
-  "last_updated": "2026-06-26T03:58:00+09:00",
-  "trade_count": 1204,
+  "cash_krw": 801491.7604882759,
+  "realized_pnl_krw": -7197767.308374502,
+  "last_valuation_krw": 2671639.2016275865,
+  "last_action": "REBALANCE_70_IP_UP2_SAFE_LAYER_PRL",
+  "last_updated": "2026-06-26T09:58:00+09:00",
+  "trade_count": 1214,
   "positions": {
-    "SLX": {
-      "market": "KRW-SLX",
-      "amount": 639.0667553531374,
-      "avg_buy_price_krw": 589.0,
-      "last_price_krw": 589.0,
-      "value_krw": 376410.31890299794,
-      "thesis": "1529.4억원 대금 1위와 +19.72%는 유지되지만 고점 대비 -8.68%로 이미 식기 시작해, 추격 확대가 아니라 1개 salvage core로만 남깁니다.",
-      "strategy": "single salvage core with reduced size",
-      "role": "mega-liquidity salvage core",
-      "risk_limit_pct": 5.0,
-      "profit_take_pct": 8.0
-    },
     "IP": {
       "market": "KRW-IP",
-      "amount": 708.8706570677928,
-      "avg_buy_price_krw": 531.0,
-      "last_price_krw": 531.0,
-      "value_krw": 376410.31890299794,
-      "thesis": "161.3억원 대금, +6.84%, 80.9% 위치, 고점 대비 -3.10%로 현재 보드에서 가장 읽기 쉬운 고유동성 continuation입니다.",
-      "strategy": "high-range liquid continuation",
-      "role": "clean liquid continuation",
-      "risk_limit_pct": 4.5,
-      "profit_take_pct": 7.0
+      "amount": 589.0228161068694,
+      "avg_buy_price_krw": 635.0,
+      "last_price_krw": 635.0,
+      "value_krw": 374029.48822786205,
+      "thesis": "358.4억원 대금, +9.11%, 82.8% 위치, 고점 대비 -1.70%로 현재 보드에서 가장 신뢰도 높은 실유동성 fresh leader입니다.",
+      "strategy": "fresh breakout with real liquidity",
+      "role": "fresh liquid breakout core",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 7.5
     },
-    "XPL": {
-      "market": "KRW-XPL",
-      "amount": 2560.6144143061083,
-      "avg_buy_price_krw": 147.0,
-      "last_price_krw": 147.0,
-      "value_krw": 376410.31890299794,
-      "thesis": "60.7억원 대금, +5.00%, 75.0% 위치, 고점 대비 -2.65%로 새벽에도 구조가 가장 깨끗한 continuation 중 하나입니다.",
-      "strategy": "upper-range continuation",
-      "role": "structured continuation",
-      "risk_limit_pct": 4.0,
-      "profit_take_pct": 6.0
+    "UP2": {
+      "market": "KRW-UP2",
+      "amount": 2968.488001808429,
+      "avg_buy_price_krw": 126.0,
+      "last_price_krw": 126.0,
+      "value_krw": 374029.48822786205,
+      "thesis": "341.2억원 대금, +26.00%, 96.3% 위치, 고점 대비 -0.79%로 breadth가 약한 날에도 실제로 살아남은 공격형 1순위입니다.",
+      "strategy": "aggressive fresh breakout slot",
+      "role": "high-beta fresh breakout",
+      "risk_limit_pct": 5.0,
+      "profit_take_pct": 10.0
     },
-    "G": {
-      "market": "KRW-G",
-      "amount": 73517.64041074178,
-      "avg_buy_price_krw": 5.12,
-      "last_price_krw": 5.12,
-      "value_krw": 376410.31890299794,
-      "thesis": "50.8억원 대금, +9.87%, 80.7% 위치, 고점 대비 -3.03%로 저체급이지만 chart가 매우 단순합니다.",
-      "strategy": "small-cap clean continuation",
-      "role": "secondary beta continuation",
-      "risk_limit_pct": 4.5,
-      "profit_take_pct": 8.0
-    },
-    "IRYS": {
-      "market": "KRW-IRYS",
-      "amount": 15618.685431659665,
-      "avg_buy_price_krw": 24.1,
-      "last_price_krw": 24.1,
-      "value_krw": 376410.31890299794,
-      "thesis": "47.7억원 대금, +1.26%, 72.2% 위치, 고점 대비 -2.03%로 noisy 리더 대신 조용한 생존 continuation 슬롯입니다.",
-      "strategy": "secondary steady continuation",
-      "role": "quiet survivor continuation",
+    "SAFE": {
+      "market": "KRW-SAFE",
+      "amount": 2730.142249838409,
+      "avg_buy_price_krw": 137.0,
+      "last_price_krw": 137.0,
+      "value_krw": 374029.48822786205,
+      "thesis": "68.0억원 대금, +3.79%, 87.5% 위치, 고점 대비 -0.72%로 fresh 2개를 받쳐줄 가장 단순한 support continuation입니다.",
+      "strategy": "upper-range support continuation",
+      "role": "clean defensive continuation",
       "risk_limit_pct": 3.5,
       "profit_take_pct": 5.5
+    },
+    "LAYER": {
+      "market": "KRW-LAYER",
+      "amount": 3703.2622596818023,
+      "avg_buy_price_krw": 101.0,
+      "last_price_krw": 101.0,
+      "value_krw": 374029.48822786205,
+      "thesis": "56.8억원 대금, +1.20%, 60.0% 위치, 고점 대비 -0.98%로 today board에서 드문 all-positive liquid survivor라 4번째 슬롯 가치가 있습니다.",
+      "strategy": "all-positive survivor slot",
+      "role": "liquid survivor support",
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 5.0
+    },
+    "PRL": {
+      "market": "KRW-PRL",
+      "amount": 1633.3165424797469,
+      "avg_buy_price_krw": 229.0,
+      "last_price_krw": 229.0,
+      "value_krw": 374029.48822786205,
+      "thesis": "22.4억원 대금은 얕지만 +4.09%, 61.1% 위치, 고점 대비 -2.97%라 G·TT 같은 trap성 강세보다 훨씬 읽기 쉽습니다.",
+      "strategy": "smaller-turnover clean support",
+      "role": "small-cap continuation support",
+      "risk_limit_pct": 4.0,
+      "profit_take_pct": 6.0
     }
   },
   "watchlist": [
     {
-      "symbol": "SOON",
-      "market": "KRW-SOON",
-      "reason": "21.4억원으로 대금은 얕지만 83.8% 위치라 백업 continuation 후보입니다."
+      "symbol": "OPEN",
+      "market": "KRW-OPEN",
+      "reason": "26.7억원, 100% 위치지만 일중 범위가 너무 좁아 tight-range hold로만 관찰합니다."
     },
     {
-      "symbol": "SEI",
-      "market": "KRW-SEI",
-      "reason": "61.9억원과 +3.21%는 괜찮지만 위치가 50.0%라 본선 5개보다 한 단계 약합니다."
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "reason": "23.8억원, 100% 위치지만 narrow-box 성격이라 본선보다 한 단계 아래입니다."
     },
     {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "59.5억원, +3.94%, 56.2% 위치로 무난하지만 XPL·IP보다 구조 우위가 없습니다."
+      "symbol": "AWE",
+      "market": "KRW-AWE",
+      "reason": "28.3억원, 100% 위치지만 거래대금과 범위가 아직 얕아 watch 전용입니다."
     },
     {
-      "symbol": "AXS",
-      "market": "KRW-AXS",
-      "reason": "52.6% 위치와 52.6억원 대금으로 방어는 되지만 더 강한 continuation 5개가 먼저입니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "75.7억원 대금은 좋지만 43.5% 위치라 아직 survivor 승격 전입니다."
     },
     {
-      "symbol": "PRL",
-      "market": "KRW-PRL",
-      "reason": "21.0억원과 70.0% 위치로 후보는 되지만 유동성이 G·IRYS보다 얕습니다."
+      "symbol": "G",
+      "market": "KRW-G",
+      "reason": "164.3억원과 +5.96%에도 36.0% 위치·-9.33% gap면 fading leader입니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "Robinhood 상장/Altman 서사에도 -6.09%, 27.0% 위치라 여전히 대표적 turnover trap입니다."
+      "reason": "Robinhood 상장 headline에도 -1.06%, 23.1% 위치라 여전히 attention trap입니다."
     }
   ],
   "history": [
@@ -10938,6 +10938,96 @@
       "amount_delta": 15618.685431659665,
       "cash_delta_krw": -376410.31890299794,
       "reason": "47.7억원 대금, +1.26%, 72.2% 위치, 고점 대비 -2.03%로 noisy 리더 대신 조용한 생존 continuation 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "SLX",
+      "action": "SELL",
+      "price_krw": 584.0,
+      "amount_delta": -639.0667553531374,
+      "cash_delta_krw": 373214.98512623226,
+      "reason": "1504.5억원 대금 1위여도 22.2% 위치·음전환이면 salvage 명분이 약해져 전량 정리"
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "IP",
+      "action": "SELL",
+      "price_krw": 634.0,
+      "amount_delta": -708.8706570677928,
+      "cash_delta_krw": 449423.9965809806,
+      "reason": "바스켓을 70% all-positive 기준으로 재구성하기 위해 09:58 가격 기준 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 157.0,
+      "amount_delta": -2560.6144143061083,
+      "cash_delta_krw": 402016.463046059,
+      "reason": "현재 -1.88%와 저위치 구조로 previous continuation 가정이 무너져 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "G",
+      "action": "SELL",
+      "price_krw": 6.22,
+      "amount_delta": -73517.64041074178,
+      "cash_delta_krw": 457279.7233548138,
+      "reason": "플러스는 유지됐지만 -9.33% gap와 36.0% 위치면 fade 성격이 강해 전량 교체"
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "IRYS",
+      "action": "SELL",
+      "price_krw": 23.2,
+      "amount_delta": -15618.685431659665,
+      "cash_delta_krw": 362353.5020145042,
+      "reason": "음전환과 저위치로 survivor 슬롯 명분이 약해져 PRL·LAYER 쪽으로 자금 이동"
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "IP",
+      "action": "BUY",
+      "price_krw": 635.0,
+      "amount_delta": 589.0228161068694,
+      "cash_delta_krw": -374029.48822786205,
+      "reason": "358.4억원 대금, +9.11%, 82.8% 위치, 고점 대비 -1.70%로 현재 보드에서 가장 신뢰도 높은 실유동성 fresh leader입니다."
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "UP2",
+      "action": "BUY",
+      "price_krw": 126.0,
+      "amount_delta": 2968.488001808429,
+      "cash_delta_krw": -374029.48822786205,
+      "reason": "341.2억원 대금, +26.00%, 96.3% 위치, 고점 대비 -0.79%로 breadth가 약한 날에도 실제로 살아남은 공격형 1순위입니다."
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "SAFE",
+      "action": "BUY",
+      "price_krw": 137.0,
+      "amount_delta": 2730.142249838409,
+      "cash_delta_krw": -374029.48822786205,
+      "reason": "68.0억원 대금, +3.79%, 87.5% 위치, 고점 대비 -0.72%로 fresh 2개를 받쳐줄 가장 단순한 support continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "LAYER",
+      "action": "BUY",
+      "price_krw": 101.0,
+      "amount_delta": 3703.2622596818023,
+      "cash_delta_krw": -374029.48822786205,
+      "reason": "56.8억원 대금, +1.20%, 60.0% 위치, 고점 대비 -0.98%로 today board에서 드문 all-positive liquid survivor라 4번째 슬롯 가치가 있습니다."
+    },
+    {
+      "timestamp": "2026-06-26T09:58:00+09:00",
+      "symbol": "PRL",
+      "action": "BUY",
+      "price_krw": 229.0,
+      "amount_delta": 1633.3165424797469,
+      "cash_delta_krw": -374029.48822786205,
+      "reason": "22.4억원 대금은 얕지만 +4.09%, 61.1% 위치, 고점 대비 -2.97%라 G·TT 같은 trap성 강세보다 훨씬 읽기 쉽습니다."
     }
   ]
 }
