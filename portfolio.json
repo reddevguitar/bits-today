@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 372985.2286226005,
-  "realized_pnl_krw": -7382838.319184751,
-  "last_valuation_krw": 2486568.1908173366,
-  "last_action": "REBALANCE_85_MLK_BORA_ARX_AAVE_SUI",
-  "last_updated": "2026-06-26T15:58:00+09:00",
-  "trade_count": 1224,
+  "cash_krw": 690388.1479011194,
+  "realized_pnl_krw": -7568112.683665022,
+  "last_valuation_krw": 2301293.8263370646,
+  "last_action": "REBALANCE_70_AGLD_JTO_AAVE_KAITO_IN",
+  "last_updated": "2026-06-26T21:58:00+09:00",
+  "trade_count": 1234,
   "positions": {
-    "MLK": {
-      "market": "KRW-MLK",
-      "amount": 5105.272855542841,
-      "avg_buy_price_krw": 82.8,
-      "last_price_krw": 82.8,
-      "value_krw": 422716.59243894723,
-      "thesis": "168.5억원 대금, +61.09%, 100% 위치, 고점 이탈 없음으로 이번 회차 최강 리테일 돌파 코어입니다.",
-      "strategy": "highest-momentum breakout anchor",
-      "role": "fresh vertical breakout core",
-      "risk_limit_pct": 6.0,
-      "profit_take_pct": 12.0
-    },
-    "BORA": {
-      "market": "KRW-BORA",
-      "amount": 9629.079554417933,
-      "avg_buy_price_krw": 43.9,
-      "last_price_krw": 43.9,
-      "value_krw": 422716.59243894723,
-      "thesis": "112.5억원 대금, +21.27%, 93.3% 위치로 과열 스파이크가 아니라 상단 체류가 확인된 고베타 continuation입니다.",
-      "strategy": "high-range continuation with real turnover",
-      "role": "gaming-beta continuation",
+    "AGLD": {
+      "market": "KRW-AGLD",
+      "amount": 1431.916158609729,
+      "avg_buy_price_krw": 225.0,
+      "last_price_krw": 225.0,
+      "value_krw": 322181.13568718906,
+      "thesis": "217.1억원 대금, +19.05%, 79.3% 위치로 breadth 약화 속에서도 가장 강한 실전 코어입니다.",
+      "strategy": "highest-strength survivor core",
+      "role": "late-session momentum core",
       "risk_limit_pct": 4.5,
-      "profit_take_pct": 9.0
+      "profit_take_pct": 8.0
     },
-    "ARX": {
-      "market": "KRW-ARX",
-      "amount": 983.0618428812726,
-      "avg_buy_price_krw": 430.0,
-      "last_price_krw": 430.0,
-      "value_krw": 422716.59243894723,
-      "thesis": "512.9억원 대금, +7.50%, 87.3% 위치로 체급·모멘텀·신규 주목도를 동시에 만족하는 비메이저 메가 리더입니다.",
-      "strategy": "broad-risk-on liquidity leader",
-      "role": "mega-liquidity breakout leader",
-      "risk_limit_pct": 3.0,
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 280.40133654237513,
+      "avg_buy_price_krw": 1149.0,
+      "last_price_krw": 1149.0,
+      "value_krw": 322181.13568718906,
+      "thesis": "225.2억원 대금, +8.09%, 66.9% 위치, 고점 대비 -3.93%로 대형 유동성 survivor 중 가장 읽기 쉽습니다.",
+      "strategy": "liquid upper-range continuation",
+      "role": "liquid survivor continuation",
+      "risk_limit_pct": 4.0,
       "profit_take_pct": 7.0
     },
     "AAVE": {
       "market": "KRW-AAVE",
-      "amount": 3.2416916598078775,
-      "avg_buy_price_krw": 130400.0,
-      "last_price_krw": 130400.0,
-      "value_krw": 422716.59243894723,
-      "thesis": "81.7억원 대금, +4.15%, 94.7% 위치로 메이저 제외 대형 알트 중 가장 깔끔한 디파이 quality breakout입니다.",
-      "strategy": "high-quality large-alt continuation",
-      "role": "quality DeFi breakout",
+      "amount": 2.4593979823449548,
+      "avg_buy_price_krw": 131000.0,
+      "last_price_krw": 131000.0,
+      "value_krw": 322181.13568718906,
+      "thesis": "99.4억원 대금, +4.63%, 69.0% 위치의 품질형 디파이 지속주라 약한 장에서도 버팀목 역할이 가능합니다.",
+      "strategy": "quality large-alt support",
+      "role": "quality DeFi anchor",
       "risk_limit_pct": 2.5,
-      "profit_take_pct": 6.0
+      "profit_take_pct": 5.5
     },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 403.35552713640004,
-      "avg_buy_price_krw": 1048.0,
-      "last_price_krw": 1048.0,
-      "value_krw": 422716.59243894723,
-      "thesis": "146.4억원 대금, +0.87%, 92.2% 위치로 메이저 제외 체급 알트 중 breadth 회복 수혜를 가장 읽기 쉽게 보여줍니다.",
-      "strategy": "broad-beta upper-range anchor",
-      "role": "large-cap L1 breadth anchor",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 5.0
+    "KAITO": {
+      "market": "KRW-KAITO",
+      "amount": 417.33307731501174,
+      "avg_buy_price_krw": 772.0,
+      "last_price_krw": 772.0,
+      "value_krw": 322181.13568718906,
+      "thesis": "36.4억원 대금, +11.24%, 96.5% 위치로 소형이지만 지금 보드에서 가장 깨끗한 fresh-like continuation입니다.",
+      "strategy": "small-cap clean continuation",
+      "role": "fresh-like secondary breakout",
+      "risk_limit_pct": 5.5,
+      "profit_take_pct": 9.0
+    },
+    "IN": {
+      "market": "KRW-IN",
+      "amount": 2301.2938263370647,
+      "avg_buy_price_krw": 140.0,
+      "last_price_krw": 140.0,
+      "value_krw": 322181.13568718906,
+      "thesis": "45.4억원 대금, +2.19%, 71.4% 위치로 과열 없이 상단을 지키는 보조 공격축입니다.",
+      "strategy": "balanced secondary continuation",
+      "role": "balanced support continuation",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 5.5
     }
   },
   "watchlist": [
     {
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "413.2억원, +2.47%, 61.4% 위치지만 고점 대비 -6.27%로 preferred 바로 승격하기엔 느슨합니다."
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "98.8억원, 61.5% 위치, 0%로 방어력은 좋지만 공격성은 AGLD·JTO보다 약합니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "180.6억원, +7.34%, 61.3% 위치로 continuation 후보지만 MLK·BORA·ARX보다 상단 체류가 약합니다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "113.4억원, +0.61%, 88.4% 위치의 품질형 L1이라 다음 회차 대체 후보로 유효합니다."
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "58.4억원, 57.6% 위치의 무난한 survivor지만 우선순위는 JTO·AAVE 아래입니다."
     },
     {
       "symbol": "CARV",
       "market": "KRW-CARV",
-      "reason": "288.9억원, +9.59%지만 고점 대비 -5.82%라 top5보다 한 단계 아래입니다."
+      "reason": "281.5억원, +13.35%라도 고점 대비 -10.80%라 same-day 피로가 너무 큽니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "Robinhood 상장 headline에도 -3.58%, 55.4% 위치라 여전히 headline laggard입니다."
+      "symbol": "MLK",
+      "market": "KRW-MLK",
+      "reason": "493.9억원, +34.63%지만 43.9% 위치·-25.67% gap로 late blowoff 실패입니다."
     },
     {
-      "symbol": "IP",
-      "market": "KRW-IP",
-      "reason": "575.3억원 대금이어도 -9.11%, 6.4% 위치면 failed leader로 재진입 금지입니다."
+      "symbol": "BORA",
+      "market": "KRW-BORA",
+      "reason": "162.4억원, +4.97%여도 24.5% 위치·-16.30% gap면 재진입 금지 구간입니다."
+    },
+    {
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "545.2억원 대금이어도 -5.75%·12.7% 위치면 TGE headline만 남은 turnover trap입니다."
     }
   ],
   "history": [
@@ -11118,6 +11118,96 @@
       "amount_delta": 403.35552713640004,
       "cash_delta_krw": -422716.59243894723,
       "reason": "146.4억원 대금, +0.87%, 92.2% 위치로 메이저 제외 체급 알트 중 breadth 회복 수혜를 가장 읽기 쉽게 보여줍니다."
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "MLK",
+      "action": "SELL",
+      "price_krw": 69.2,
+      "amount_delta": -5105.272855542841,
+      "cash_delta_krw": 353284.8816035646,
+      "reason": "15:58 breadth-surge basket가 6시간 안에 붕괴해, 21:58 가격 기준 70% all-positive survivor 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "BORA",
+      "action": "SELL",
+      "price_krw": 38.0,
+      "amount_delta": -9629.079554417933,
+      "cash_delta_krw": 365905.02306788147,
+      "reason": "15:58 breadth-surge basket가 6시간 안에 붕괴해, 21:58 가격 기준 70% all-positive survivor 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "ARX",
+      "action": "SELL",
+      "price_krw": 377.0,
+      "amount_delta": -983.0618428812726,
+      "cash_delta_krw": 370614.3147662398,
+      "reason": "15:58 breadth-surge basket가 6시간 안에 붕괴해, 21:58 가격 기준 70% all-positive survivor 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "AAVE",
+      "action": "SELL",
+      "price_krw": 131000.0,
+      "amount_delta": -3.2416916598078775,
+      "cash_delta_krw": 424661.60743483197,
+      "reason": "15:58 breadth-surge basket가 6시간 안에 붕괴해, 21:58 가격 기준 70% all-positive survivor 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1026.0,
+      "amount_delta": -403.35552713640004,
+      "cash_delta_krw": 413842.7708419464,
+      "reason": "15:58 breadth-surge basket가 6시간 안에 붕괴해, 21:58 가격 기준 70% all-positive survivor 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "AGLD",
+      "action": "BUY",
+      "price_krw": 225.0,
+      "amount_delta": 1431.916158609729,
+      "cash_delta_krw": -322181.13568718906,
+      "reason": "217.1억원 대금, +19.05%, 79.3% 위치로 breadth 약화 속에서도 가장 강한 실전 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1149.0,
+      "amount_delta": 280.40133654237513,
+      "cash_delta_krw": -322181.13568718906,
+      "reason": "225.2억원 대금, +8.09%, 66.9% 위치, 고점 대비 -3.93%로 대형 유동성 survivor 중 가장 읽기 쉽습니다."
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "AAVE",
+      "action": "BUY",
+      "price_krw": 131000.0,
+      "amount_delta": 2.4593979823449548,
+      "cash_delta_krw": -322181.13568718906,
+      "reason": "99.4억원 대금, +4.63%, 69.0% 위치의 품질형 디파이 지속주라 약한 장에서도 버팀목 역할이 가능합니다."
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "BUY",
+      "price_krw": 772.0,
+      "amount_delta": 417.33307731501174,
+      "cash_delta_krw": -322181.13568718906,
+      "reason": "36.4억원 대금, +11.24%, 96.5% 위치로 소형이지만 지금 보드에서 가장 깨끗한 fresh-like continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-26T21:58:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 140.0,
+      "amount_delta": 2301.2938263370647,
+      "cash_delta_krw": -322181.13568718906,
+      "reason": "45.4억원 대금, +2.19%, 71.4% 위치로 과열 없이 상단을 지키는 보조 공격축입니다."
     }
   ]
 }
