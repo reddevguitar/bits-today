@@ -1,145 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive-80-single-breakout-selective-continuation",
+  "judgment": "aggressive-80-fresh-duo-plus-clean-continuations",
   "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-27 21:58 KST",
-  "market_status": "메이저는 안 죽었지만 알트 보드는 **fresh 1 / conviction 4 / survivor 6 / reclaim 5**입니다. 즉 **한 종목 fresh 리더 + 검증된 continuation만 골라야 하는 구간**입니다.",
-  "fear_greed": "**13~14 (Extreme Fear)**",
-  "btc_snapshot": "**BTC 91.599M원 / ETH 2.404M원 / XRP 1,610원 / SOL 109.5K원**",
-  "cash_krw": "487,679 KRW",
-  "realized_pnl_krw": "-7,660,852 KRW",
-  "last_valuation_krw": "2,438,395 KRW",
+  "updated_at": "2026-06-28 03:59 KST",
+  "market_status": "메이저는 완전 붕괴는 아니지만 보드 질은 아직 거칩니다. **fresh 2 / conviction 3 / survivor 6 / reclaim 6 / weak breadth 유지**라서 **큰 양봉보다 실제 상단 체류**가 더 중요합니다.",
+  "fear_greed": "**15 (Extreme Fear)**",
+  "btc_snapshot": "**BTC 91.823M원 / ETH 2.416M원 / XRP 1,607원 / SOL 109.1K원**",
+  "cash_krw": "510,187 KRW",
+  "realized_pnl_krw": "-7,548,311 KRW",
+  "last_valuation_krw": "2,550,936 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -75.62,
-  "last_action": "REBALANCE_80_SLX_ARX_PIEVERSE_KAITO_AAVE",
-  "trade_count": 1274,
-  "last_updated": "2026-06-27T21:58:00+09:00",
+  "return_pct": -74.49,
+  "last_action": "REBALANCE_80_RE_PIEVERSE_ARX_IN_KAITO",
+  "trade_count": 1284,
+  "last_updated": "2026-06-28T03:59:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 40,
-    "recent_24h_buy_count": 25,
-    "recent_24h_sell_count": 25,
-    "recent_24h_replacement_count": 25,
-    "portfolio_churn_24h_pct": 500.0
+    "recent_trade_actions_24h": 10,
+    "recent_24h_buy_count": 20,
+    "recent_24h_sell_count": 20,
+    "recent_24h_replacement_count": 20,
+    "portfolio_churn_24h_pct": 400.0
   },
   "summary": [
-    "🌞 **SLX** — 719원 / **+12.87%** / 903.5억원 / 위치 **90.8%** / only fresh breakout core",
-    "🧪 **ARX** — 445원 / **+9.61%** / 448.9억원 / 위치 **67.4%** / high-turnover beta continuation",
-    "🎮 **PIEVERSE** — 1,171원 / **+17.45%** / 119.4억원 / 위치 **73.4%** / fast continuation",
-    "🧠 **KAITO** — 852원 / **+7.44%** / 78.0억원 / 위치 **72.4%** / clean continuation",
-    "🛡️ **AAVE** — 147,000원 / **+1.80%** / 106.1억원 / 위치 **85.0%** / quality anchor",
-    "BTC **75.1%** / ETH **84.0%** / XRP **75.7%** / SOL **66.7%**",
-    "메이저 평균 **75.38% 위치**, **4종 모두 양수**",
-    "하지만 top15 비메이저는 **양수 7개뿐** → 메이저 강세를 알트 전면 확산으로 보면 안 됩니다.",
+    "🧲 **RE** — 1,031원 / **+21.58%** / 446.9억원 / 위치 **90.4%** / fresh listing breakout core",
+    "🎮 **PIEVERSE** — 1,267원 / **+27.08%** / 199.9억원 / 위치 **90.2%** / secondary fresh breakout",
+    "🧪 **ARX** — 463원 / **+14.04%** / 490.6억원 / 위치 **83.9%** / liquid continuation anchor",
+    "♾️ **IN** — 162원 / **+5.88%** / 42.3억원 / 위치 **87.5%** / small-cap clean continuation",
+    "🧠 **KAITO** — 856원 / **+7.94%** / 35.5억원 / 위치 **76.5%** / attention continuation",
+    "BTC **68.7%** / ETH **57.9%** / XRP **51.0%** / SOL **35.7%**",
+    "메이저 평균 **53.33% 위치**, **3종 양수·1종 보합**",
+    "즉 **메이저는 버티지만 추세 확산 속도는 둔화**된 상태입니다.",
     "실투입: **80%**, 5종 동일비중",
-    "타깃: 각 약 **390,143원**",
-    "현금: 약 **487,679원 (20.0%)**",
-    "핵심 논리: **major hold + breadth downgrade + broken slot purge**",
-    "❌ **퇴출:** SUI / JTO",
-    "🔁 **유지·재균등:** SLX / ARX / KAITO",
-    "✅ **신규:** PIEVERSE / AAVE",
-    "마지막 액션: **REBALANCE_80_SLX_ARX_PIEVERSE_KAITO_AAVE**",
-    "SLX **542.6192개 @ 719원**",
-    "ARX **876.7263개 @ 445원**",
-    "PIEVERSE **333.1710개 @ 1,171원**",
-    "KAITO **457.9146개 @ 852원**",
-    "AAVE **2.6540개 @ 147,000원**",
-    "현금 **487,679원** / 총평가 **2,438,395원**",
-    "장점: **JTO 7.8%·SUI 44.4% 약화를 즉시 반영해 교체했습니다.**",
-    "아쉬움: **직전 회차 85% 노출을 breadth 재악화 직전까지 유지한 점은 다소 공격적이었습니다.**",
-    "점수: **8.8 / 10**",
-    "✅ **DECISIONS.md에 ‘weak breadth 재점등 + 10% 이하 보유 즉시 퇴출 + 80% 감속’ 규칙 추가**",
-    "✅ **리포트 첫 줄에 top15 positives / low-range 개수를 같이 표기해 breadth 변화를 더 빨리 읽게 개선**",
-    "✅ **85% 고정 대신 80% 중간 감속 시나리오를 명시해 대응 폭을 넓혔습니다**",
-    "**aggressive-80-single-breakout-selective-continuation**",
+    "타깃: 각 약 **408,150원**",
+    "현금: 약 **510,187원 (20.0%)**",
+    "핵심 논리: **fresh 2 + continuation 3 / exhausted leader 배제 / weak breadth 대응 유지**",
+    "❌ **전량 정리:** SLX / AAVE",
+    "🔁 **유지·재편:** ARX / PIEVERSE / KAITO",
+    "✅ **신규:** RE / IN",
+    "마지막 액션: **REBALANCE_80_RE_PIEVERSE_ARX_IN_KAITO**",
+    "RE **395.8776개 @ 1,031원**",
+    "PIEVERSE **322.1387개 @ 1,267원**",
+    "ARX **881.5330개 @ 463원**",
+    "IN **2,519.4431개 @ 162원**",
+    "KAITO **476.8105개 @ 856원**",
+    "현금 **510,187원** / 총평가 **2,550,936원**",
+    "장점: **SLX의 초대금 함정을 인정하고 fresh/continuation 리더로 빠르게 갈아탔습니다.**",
+    "아쉬움: **직전 회차 fresh 1개로 너무 의존한 점은 리더 붕괴 시 리스크를 키웠습니다.**",
+    "점수: **9.0 / 10**",
+    "✅ **DECISIONS.md에 ‘+25% 이상 급등 후 60% 미만 위치·-15% 이하 gap이면 exhausted blowoff’ 규칙 추가**",
+    "✅ **리포트에서 fresh 후보와 exhausted leader를 분리해 SLX 같은 함정 대금을 더 빨리 보이게 개선**",
+    "✅ **대금 1위 고집 대신 fresh 2 + continuation 3 구조로 바스켓 설계를 단순화**",
+    "**aggressive-80-fresh-duo-plus-clean-continuations**",
     "**medium**",
-    "**SLX 706 / ARX 432 / PIEVERSE 1130 / KAITO 835 / AAVE 144000** 하회 시 즉시 재평가",
-    "**RE / NEAR / IN**은 대체 후보로 계속 감시",
-    "**JTO·WLD·PUNDIX·AGLD**처럼 대금만 크고 구조가 무너진 종목은 재진입 보류",
-    "**SLX**가 여전히 바스켓 핵심이라 리더 의존도가 높습니다.",
-    "**ARX·PIEVERSE**는 공격 슬롯이라 갭이 벌어지면 손실 속도도 빠를 수 있습니다.",
-    "**weak_breadth_warning=true** 상태라 메이저가 버텨도 알트 개별 실패가 잦을 수 있습니다.",
-    "**AAVE**는 품질형이지만 과한 수익 가속 기대보다 균형 앵커 역할로 봐야 합니다."
+    "**RE 997 / PIEVERSE 1225 / ARX 449 / IN 157 / KAITO 840** 하회 시 즉시 재평가",
+    "**SLX**는 70%+ range 재회복 전까진 재진입 보류",
+    "**NEAR / CELO / CHIP**은 대체 후보로 계속 감시",
+    "**weak_breadth_warning=true**라 개별 실패가 바로 나올 수 있습니다.",
+    "**RE·PIEVERSE**는 fresh 코어지만 급등 후속주라 변동성이 큽니다.",
+    "**IN·KAITO**는 구조는 좋지만 절대 대금이 작아 흔들림이 빠를 수 있습니다.",
+    "**SLX**처럼 초대금도 same-day gap이 크게 벌어지면 더는 리더가 아닙니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "AAVE",
-      "action": "BUY",
-      "price_krw": 147000.0,
-      "amount_delta": 2.6540355418026715,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "106.1억원 대금, +1.80%, 85.0% 위치, 고점 대비 -0.81%라 메이저 제외 체급형 품질 앵커로 가장 안정적입니다."
-    },
-    {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "KAITO",
       "action": "BUY",
-      "price_krw": 852.0,
-      "amount_delta": 457.91458291665816,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "78.0억원 대금, +7.44%, 72.4% 위치, 고점 대비 -3.07%로 깨끗한 상단 지속 구조입니다."
+      "price_krw": 856.0,
+      "amount_delta": 476.8104919026293,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "35.5억원 대금, +7.94%, 76.5% 위치, -2.62% gap으로 과열보다 유지형에 가까운 attention continuation입니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "PIEVERSE",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "IN",
       "action": "BUY",
-      "price_krw": 1171.0,
-      "amount_delta": 333.1709860332987,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "119.4억원 대금, +17.45%, 73.4% 위치로 과열주 중 드물게 상단 체류가 남은 continuation입니다."
+      "price_krw": 162.0,
+      "amount_delta": 2519.443093016362,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "42.3억원 대금은 크지 않지만 +5.88%, 87.5% 위치, -1.22% gap이라 작은 체급 중 가장 깨끗한 continuation입니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "ARX",
       "action": "BUY",
-      "price_krw": 445.0,
-      "amount_delta": 876.7263475168376,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "448.9억원 대금과 +9.61%가 남아 있고 67.4% 위치를 지켜 아직 공격 슬롯 가치가 있습니다."
+      "price_krw": 463.0,
+      "amount_delta": 881.533004467928,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "490.6억원 대금과 +14.04%, 83.9% 위치가 동시에 남아 있어 가장 믿을 만한 대금형 continuation 축입니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "SLX",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "PIEVERSE",
       "action": "BUY",
-      "price_krw": 719.0,
-      "amount_delta": 542.6192276008244,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "903.5억원 대금, +12.87%, 90.8% 위치, 고점 대비 -1.51%로 지금 업비트에서 가장 읽기 쉬운 유일 fresh breakout 코어입니다."
+      "price_krw": 1267.0,
+      "amount_delta": 322.1387380178774,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "199.9억원 대금, +27.08%, 90.2% 위치, -2.24% gap으로 상장 잔열이 다시 상단 유지형으로 번졌습니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "JTO",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "RE",
+      "action": "BUY",
+      "price_krw": 1031.0,
+      "amount_delta": 395.8775762062567,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "446.9억원 대금, +21.58%, 90.4% 위치, 고점 대비 -2.18%로 이번 새벽 업비트에서 가장 읽기 쉬운 신규 주도주입니다."
+    },
+    {
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "AAVE",
       "action": "SELL",
-      "price_krw": 1202.0,
-      "amount_delta": -329.5782576743679,
-      "cash_delta_krw": 396153.0657245902,
-      "reason": "241.5억원 대금에도 -1.15%·7.8% 위치로 구조가 무너져 PIEVERSE로 교체"
+      "price_krw": 147000.0,
+      "amount_delta": -2.6540355418026715,
+      "cash_delta_krw": 390143.22464499273,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "KAITO",
       "action": "SELL",
-      "price_krw": 852.0,
-      "amount_delta": -515.5574992084681,
-      "cash_delta_krw": 439254.9893256148,
-      "reason": "핵심 코어는 유지하되 21:58 가격 기준 80% 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 856.0,
+      "amount_delta": -457.91458291665816,
+      "cash_delta_krw": 391974.8829766594,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "SUI",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "PIEVERSE",
       "action": "SELL",
-      "price_krw": 1069.0,
-      "amount_delta": -382.01809145789355,
-      "cash_delta_krw": 408377.3397684882,
-      "reason": "44.4% 위치로 survivor 앵커 명분이 약해져 AAVE로 교체"
+      "price_krw": 1267.0,
+      "amount_delta": -333.1709860332987,
+      "cash_delta_krw": 422127.6393041894,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-28-0359.md",
+      "title": "2026-06-28-0359"
+    },
     {
       "file": "2026-06-27-2158.md",
       "title": "2026-06-27-2158"
@@ -167,40 +171,21 @@
     {
       "file": "2026-06-26-0958.md",
       "title": "2026-06-26-0958"
-    },
-    {
-      "file": "2026-06-26-0358.md",
-      "title": "2026-06-26-0358"
     }
   ],
   "positions": [
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "amount": 542.6192276008244,
-      "avg_buy_price_krw": "719 KRW",
-      "last_price_krw": "719 KRW",
-      "thesis": "903.5억원 대금, +12.87%, 90.8% 위치, 고점 대비 -1.51%로 지금 업비트에서 가장 읽기 쉬운 유일 fresh breakout 코어입니다.",
-      "strategy": "dominant upper-range leader",
-      "role": "mega-liquidity breakout anchor",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 7.5,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "amount": 876.7263475168376,
-      "avg_buy_price_krw": "445 KRW",
-      "last_price_krw": "445 KRW",
-      "thesis": "448.9억원 대금과 +9.61%가 남아 있고 67.4% 위치를 지켜 아직 공격 슬롯 가치가 있습니다.",
-      "strategy": "size-backed continuation",
-      "role": "high-beta continuation slot",
-      "risk_limit_pct": 4.4,
-      "profit_take_pct": 8.5,
+      "icon": "🧲",
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "amount": 395.8775762062567,
+      "avg_buy_price_krw": "1,031 KRW",
+      "last_price_krw": "1,031 KRW",
+      "thesis": "446.9억원 대금, +21.58%, 90.4% 위치, 고점 대비 -2.18%로 이번 새벽 업비트에서 가장 읽기 쉬운 신규 주도주입니다.",
+      "strategy": "clean high-range breakout continuation",
+      "role": "fresh listing breakout core",
+      "risk_limit_pct": 3.8,
+      "profit_take_pct": 9.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -208,14 +193,44 @@
       "icon": "🥧",
       "symbol": "PIEVERSE",
       "market": "KRW-PIEVERSE",
-      "amount": 333.1709860332987,
-      "avg_buy_price_krw": "1,171 KRW",
-      "last_price_krw": "1,171 KRW",
-      "thesis": "119.4억원 대금, +17.45%, 73.4% 위치로 과열주 중 드물게 상단 체류가 남은 continuation입니다.",
-      "strategy": "fast continuation with real turnover",
-      "role": "eventy high-beta continuation",
-      "risk_limit_pct": 4.8,
-      "profit_take_pct": 9.0,
+      "amount": 322.1387380178774,
+      "avg_buy_price_krw": "1,267 KRW",
+      "last_price_krw": "1,267 KRW",
+      "thesis": "199.9억원 대금, +27.08%, 90.2% 위치, -2.24% gap으로 상장 잔열이 다시 상단 유지형으로 번졌습니다.",
+      "strategy": "listing-tail continuation with real hold",
+      "role": "secondary fresh breakout",
+      "risk_limit_pct": 4.4,
+      "profit_take_pct": 10.0,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "amount": 881.533004467928,
+      "avg_buy_price_krw": "463 KRW",
+      "last_price_krw": "463 KRW",
+      "thesis": "490.6억원 대금과 +14.04%, 83.9% 위치가 동시에 남아 있어 가장 믿을 만한 대금형 continuation 축입니다.",
+      "strategy": "size-backed continuation leader",
+      "role": "liquid continuation anchor",
+      "risk_limit_pct": 3.6,
+      "profit_take_pct": 8.0,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "♾️",
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "amount": 2519.443093016362,
+      "avg_buy_price_krw": "162 KRW",
+      "last_price_krw": "162 KRW",
+      "thesis": "42.3억원 대금은 크지 않지만 +5.88%, 87.5% 위치, -1.22% gap이라 작은 체급 중 가장 깨끗한 continuation입니다.",
+      "strategy": "secondary high-range momentum",
+      "role": "small-cap clean continuation",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 7.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -223,29 +238,14 @@
       "icon": "🧠",
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "amount": 457.91458291665816,
-      "avg_buy_price_krw": "852 KRW",
-      "last_price_krw": "852 KRW",
-      "thesis": "78.0억원 대금, +7.44%, 72.4% 위치, 고점 대비 -3.07%로 깨끗한 상단 지속 구조입니다.",
-      "strategy": "clean upper-range continuation",
-      "role": "tight continuation slot",
-      "risk_limit_pct": 2.6,
-      "profit_take_pct": 5.8,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🏦",
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "amount": 2.6540355418026715,
-      "avg_buy_price_krw": "147,000 KRW",
-      "last_price_krw": "147,000 KRW",
-      "thesis": "106.1억원 대금, +1.80%, 85.0% 위치, 고점 대비 -0.81%라 메이저 제외 체급형 품질 앵커로 가장 안정적입니다.",
-      "strategy": "defensive-aggressive quality continuation",
-      "role": "quality large-cap anchor",
-      "risk_limit_pct": 2.2,
-      "profit_take_pct": 5.0,
+      "amount": 476.8104919026293,
+      "avg_buy_price_krw": "856 KRW",
+      "last_price_krw": "856 KRW",
+      "thesis": "35.5억원 대금, +7.94%, 76.5% 위치, -2.62% gap으로 과열보다 유지형에 가까운 attention continuation입니다.",
+      "strategy": "clean attention continuation",
+      "role": "attention-backed continuation",
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 6.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
@@ -253,16 +253,6 @@
   "chart_series": {
     "SLX": [
       {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 695.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 695,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-27T15:58:00+09:00",
         "price_krw": 710.0,
         "action": "SELL"
@@ -281,67 +271,14 @@
         "timestamp": "2026-06-27T21:58:00+09:00",
         "price_krw": 719.0,
         "action": "BUY"
-      }
-    ],
-    "JTO": [
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 1212.0,
-        "action": "SELL"
       },
       {
-        "timestamp": "2026-06-27T15:58:00+09:00",
-        "price_krw": 1253.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-27T21:58:00+09:00",
-        "price_krw": 1202.0,
-        "action": "SELL"
-      }
-    ],
-    "AAVE": [
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 143100.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-27T21:58:00+09:00",
-        "price_krw": 147000.0,
-        "action": "BUY"
-      }
-    ],
-    "ID": [
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 61.9,
-        "action": "SELL"
-      }
-    ],
-    "SUI": [
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 1058.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-27T15:58:00+09:00",
-        "price_krw": 1081.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-27T21:58:00+09:00",
-        "price_krw": 1069.0,
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 835.0,
         "action": "SELL"
       }
     ],
     "PUNDIX": [
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 180,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-27T15:58:00+09:00",
         "price_krw": 161.0,
@@ -350,11 +287,6 @@
     ],
     "MLK": [
       {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 69.3,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-27T15:58:00+09:00",
         "price_krw": 60.8,
         "action": "SELL"
@@ -362,22 +294,12 @@
     ],
     "AQT": [
       {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 327,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-27T15:58:00+09:00",
         "price_krw": 322.0,
         "action": "SELL"
       }
     ],
     "WLD": [
-      {
-        "timestamp": "2026-06-27T09:58:00+09:00",
-        "price_krw": 709,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-27T15:58:00+09:00",
         "price_krw": 712.0,
@@ -399,6 +321,28 @@
         "timestamp": "2026-06-27T21:58:00+09:00",
         "price_krw": 445.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 463.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 463.0,
+        "action": "BUY"
+      }
+    ],
+    "SUI": [
+      {
+        "timestamp": "2026-06-27T15:58:00+09:00",
+        "price_krw": 1081.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-27T21:58:00+09:00",
+        "price_krw": 1069.0,
+        "action": "SELL"
       }
     ],
     "KAITO": [
@@ -416,6 +360,28 @@
         "timestamp": "2026-06-27T21:58:00+09:00",
         "price_krw": 852.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 856.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 856.0,
+        "action": "BUY"
+      }
+    ],
+    "JTO": [
+      {
+        "timestamp": "2026-06-27T15:58:00+09:00",
+        "price_krw": 1253.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-27T21:58:00+09:00",
+        "price_krw": 1202.0,
+        "action": "SELL"
       }
     ],
     "PIEVERSE": [
@@ -423,323 +389,357 @@
         "timestamp": "2026-06-27T21:58:00+09:00",
         "price_krw": 1171.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 1267.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 1267.0,
+        "action": "BUY"
+      }
+    ],
+    "AAVE": [
+      {
+        "timestamp": "2026-06-27T21:58:00+09:00",
+        "price_krw": 147000.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 147000.0,
+        "action": "SELL"
+      }
+    ],
+    "RE": [
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 1031.0,
+        "action": "BUY"
+      }
+    ],
+    "IN": [
+      {
+        "timestamp": "2026-06-28T03:59:00+09:00",
+        "price_krw": 162.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-27-2158.md",
+  "latest_report_file": "2026-06-28-0359.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "price_krw": 719.0,
-      "change_pct_24h": 12.87284144,
-      "turnover_krw_24h": 90345640136.78662,
-      "reason": "903.5억원 대금, +12.87%, 90.8% 위치, 고점 대비 -1.51%로 지금 업비트에서 가장 읽기 쉬운 유일 fresh breakout 코어입니다.",
-      "score": 87.41,
-      "community": "상장 잔열이 끝났는데도 한국 리테일 유동성 중심이 계속 SLX에 남아 있습니다.",
+      "icon": "🧲",
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "price_krw": 1031.0,
+      "change_pct_24h": 21.58018868,
+      "turnover_krw_24h": 44694886644.160515,
+      "reason": "446.9억원 대금, +21.58%, 90.4% 위치, 고점 대비 -2.18%로 이번 새벽 업비트에서 가장 읽기 쉬운 신규 주도주입니다.",
+      "score": 76.76,
+      "community": "6월 19일 업비트 상장 뉴스 뒤에도 한국 유동성이 다시 RE로 몰리며 breakout follow-through가 유지됩니다.",
       "risk": null,
-      "allocation_krw": 390143.22464499273,
-      "role": "mega-liquidity breakout anchor",
-      "invalidated_if": "706원 하회 시 메가 상단 체류 구조 훼손",
-      "range_position_pct": 90.8,
-      "day_high_gap_pct": -1.51
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "price_krw": 445.0,
-      "change_pct_24h": 9.60591133,
-      "turnover_krw_24h": 44890599997.27102,
-      "reason": "448.9억원 대금과 +9.61%가 남아 있고 67.4% 위치를 지켜 아직 공격 슬롯 가치가 있습니다.",
-      "score": 51.33,
-      "community": "초과 대금이 붙는 고베타 슬롯 중 아직 구조가 덜 깨져 후속 추격 자금이 남아 있습니다.",
-      "risk": null,
-      "allocation_krw": 390143.22464499273,
-      "role": "high-beta continuation slot",
-      "invalidated_if": "432원 하회 시 continuation 해석 약화",
-      "range_position_pct": 67.4,
-      "day_high_gap_pct": -6.12
+      "allocation_krw": 408149.78106865066,
+      "role": "fresh listing breakout core",
+      "invalidated_if": "997원 하회 시 fresh breakout 유지력 훼손",
+      "range_position_pct": 90.4,
+      "day_high_gap_pct": -2.18
     },
     {
       "icon": "🥧",
       "symbol": "PIEVERSE",
       "market": "KRW-PIEVERSE",
-      "price_krw": 1171.0,
-      "change_pct_24h": 17.45235707,
-      "turnover_krw_24h": 11940542086.822086,
-      "reason": "119.4억원 대금, +17.45%, 73.4% 위치로 과열주 중 드물게 상단 체류가 남은 continuation입니다.",
-      "score": 56.21,
-      "community": "급등 후 무너진 종목이 많은데 PIEVERSE는 상대적으로 상단 체류가 유지돼 체감 선호가 살아 있습니다.",
+      "price_krw": 1267.0,
+      "change_pct_24h": 27.08124373,
+      "turnover_krw_24h": 19990274938.637814,
+      "reason": "199.9억원 대금, +27.08%, 90.2% 위치, -2.24% gap으로 상장 잔열이 다시 상단 유지형으로 번졌습니다.",
+      "score": 69.09,
+      "community": "한국 리테일이 예전 상장 급등주 중 PIEVERSE만 다시 고가권에서 붙잡고 있는 흐름입니다.",
       "risk": null,
-      "allocation_krw": 390143.22464499273,
-      "role": "eventy high-beta continuation",
-      "invalidated_if": "1130원 하회 시 추격 구조 둔화",
-      "range_position_pct": 73.4,
-      "day_high_gap_pct": -5.03
+      "allocation_krw": 408149.78106865066,
+      "role": "secondary fresh breakout",
+      "invalidated_if": "1225원 하회 시 fresh breakout 해석 약화",
+      "range_position_pct": 90.2,
+      "day_high_gap_pct": -2.24
     },
     {
-      "icon": "🧠",
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "price_krw": 852.0,
-      "change_pct_24h": 7.44010088,
-      "turnover_krw_24h": 7800399217.421147,
-      "reason": "78.0억원 대금, +7.44%, 72.4% 위치, 고점 대비 -3.07%로 깨끗한 상단 지속 구조입니다.",
-      "score": 41.34,
-      "community": "과열보다 박스 상단 체류형이라 후행 추격 리스크가 상대적으로 낮습니다.",
+      "icon": "🪙",
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "price_krw": 463.0,
+      "change_pct_24h": 14.03940887,
+      "turnover_krw_24h": 49063523225.31337,
+      "reason": "490.6억원 대금과 +14.04%, 83.9% 위치가 동시에 남아 있어 가장 믿을 만한 대금형 continuation 축입니다.",
+      "score": 68.04,
+      "community": "SLX chase가 식는 동안 실제 체류 자금은 ARX 같은 cleaner continuation으로 옮겨 붙는 모습입니다.",
       "risk": null,
-      "allocation_krw": 390143.22464499273,
-      "role": "tight continuation slot",
-      "invalidated_if": "835원 하회 시 상단 체류 약화",
-      "range_position_pct": 72.4,
-      "day_high_gap_pct": -3.07
-    },
-    {
-      "icon": "🏦",
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "price_krw": 147000.0,
-      "change_pct_24h": 1.80055402,
-      "turnover_krw_24h": 10607598661.97849,
-      "reason": "106.1억원 대금, +1.80%, 85.0% 위치, 고점 대비 -0.81%라 메이저 제외 체급형 품질 앵커로 가장 안정적입니다.",
-      "score": 41.09,
-      "community": "리테일 과열주 외에도 체급 있는 품질 알트로 자금 일부가 피신하는 흐름이 보입니다.",
-      "risk": null,
-      "allocation_krw": 390143.22464499273,
-      "role": "quality large-cap anchor",
-      "invalidated_if": "144000원 하회 시 품질 앵커 약화",
-      "range_position_pct": 85.0,
-      "day_high_gap_pct": -0.81
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "289.2억원, +3.77%, 57.0% 위치라 체급은 좋지만 preferred 5종보다 상단 탄력이 약합니다."
-    },
-    {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "52.8억원, +0.95%, 64.2% 위치, -0.86% gap의 품질형 survivor라 대체 1순위 후보입니다."
+      "allocation_krw": 408149.78106865066,
+      "role": "liquid continuation anchor",
+      "invalidated_if": "449원 하회 시 continuation 구조 훼손",
+      "range_position_pct": 83.9,
+      "day_high_gap_pct": -3.14
     },
     {
       "icon": "♾️",
       "symbol": "IN",
       "market": "KRW-IN",
-      "reason": "40.3억원, +4.58%, 80.0% 위치로 모양은 좋지만 절대 대금이 한 단계 작습니다."
+      "price_krw": 162.0,
+      "change_pct_24h": 5.88235294,
+      "turnover_krw_24h": 4229436477.28355,
+      "reason": "42.3억원 대금은 크지 않지만 +5.88%, 87.5% 위치, -1.22% gap이라 작은 체급 중 가장 깨끗한 continuation입니다.",
+      "score": 45.49,
+      "community": "대형 주도주 외에 한국 보드에서 아직 상단 체류가 남은 소형 추세 슬롯으로 읽힙니다.",
+      "risk": null,
+      "allocation_krw": 408149.78106865066,
+      "role": "small-cap clean continuation",
+      "invalidated_if": "157원 하회 시 upper-range 지속 해석 종료",
+      "range_position_pct": 87.5,
+      "day_high_gap_pct": -1.22
+    },
+    {
+      "icon": "🧠",
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "price_krw": 856.0,
+      "change_pct_24h": 7.9445145,
+      "turnover_krw_24h": 3553270159.5333786,
+      "reason": "35.5억원 대금, +7.94%, 76.5% 위치, -2.62% gap으로 과열보다 유지형에 가까운 attention continuation입니다.",
+      "score": 42.64,
+      "community": "토큰 언락 이슈에도 매도 압박이 폭발하지 않고 있어 단기 attention 잔존을 확인할 수 있습니다.",
+      "risk": null,
+      "allocation_krw": 408149.78106865066,
+      "role": "attention-backed continuation",
+      "invalidated_if": "840원 하회 시 attention continuation 약화",
+      "range_position_pct": 76.5,
+      "day_high_gap_pct": -2.62
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🌞",
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "1,150.9억원 초대금이어도 54.0% 위치·-18.62% gap이면 exhausted blowoff에 가깝습니다. 70%+ 재회복 전까진 재진입 보류입니다."
+    },
+    {
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "67.5억원, +4.39%, 66.2% 위치라 품질형 대체 1순위입니다."
     },
     {
       "icon": "🪙",
-      "symbol": "SYRUP",
-      "market": "KRW-SYRUP",
-      "reason": "35.4억원, +14.78%, 96.9% 위치로 모양은 매우 좋지만 liquidity tier가 톱5 핵심들보다 낮습니다."
+      "symbol": "CELO",
+      "market": "KRW-CELO",
+      "reason": "57.4억원, +9.08%, 65.9% 위치로 mid-cap continuation 대체 후보입니다."
     },
     {
-      "icon": "🪙",
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "reason": "26.5억원, +2.78%, 100% 위치지만 초타이트 박스형이라 이번 회차는 보조 감시만 유지합니다."
+      "icon": "🧩",
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "27.3억원, +6.58%, 84.8% 위치로 모양은 좋지만 liquidity tier가 톱5보다 낮습니다."
+    },
+    {
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "83.8억원, +0.88%, 66.7% 위치로 메이저성 컨텍스트는 좋지만 preferred 톱5보단 둔합니다."
+    },
+    {
+      "icon": "🏦",
+      "symbol": "AAVE",
+      "market": "KRW-AAVE",
+      "reason": "체급은 좋지만 이번 새벽 보드에서는 대금과 속도가 RE·ARX·PIEVERSE보다 약해 우선순위가 밀렸습니다."
     },
     {
       "icon": "🪂",
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "reason": "241.5억원 대금이어도 -1.15%·7.8% 위치면 구조가 이미 무너진 turnover trap입니다."
-    },
-    {
-      "icon": "🌊",
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "+0.94%라도 44.4% 위치면 survivor 앵커 명분이 약해져 이번 회차는 제외합니다."
+      "reason": "176.5억원과 양수 전환에도 41.7% 위치면 아직 중단 bounce라 톱5 승격은 이릅니다."
     }
   ],
   "cycle_improvements": [
-    "DECISIONS.md에 weak_breadth_warning 재점등 + 메이저 평균 70%대 유지 상황에서도 10% 이하 day-range 붕괴 보유는 즉시 제거하는 규칙을 추가했습니다.",
-    "이번 회차부터 리포트 한줄에 top15 positives와 low-range 개수를 함께 넣어 breadth 악화를 더 빨리 읽히게 했습니다.",
-    "85% 고정 노출 대신 breadth 재악화 시 80%로 한 단계 감속하는 중간 대응을 명시했습니다."
+    "DECISIONS.md에 same-day mega leader가 +25% 이상 급등 후 60% 미만 위치와 -15% 이하 gap으로 식으면 즉시 exhausted blowoff로 강등하는 규칙을 추가했습니다.",
+    "이번 회차 리포트에서 fresh 후보와 exhausted leader를 더 분리해 보여, SLX 같은 함정 대금을 한눈에 거르기 쉽게 했습니다.",
+    "포트폴리오를 fresh 2 + continuation 3 구조로 재정의해 단순히 대금 1위에 묶이지 않도록 개선했습니다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "241.5억원 대금이어도 -1.15%·7.8% 위치면 전형적인 turnover trap입니다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "+0.94%라도 44.4% 위치면 quality survivor 명분이 약합니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "headline는 살아도 -0.71%·23.5% 위치면 preferred 톱5로는 부족합니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "31.08% 급등에도 54.0% 위치·-18.62% gap이면 same-day exhausted blowoff로 분류해야 합니다."
     },
     {
       "symbol": "EDGE",
       "market": "KRW-EDGE",
-      "reason": "+30.39%라도 35.9% 위치와 -34.8% gap면 exhausted blowoff에 가깝습니다."
-    },
-    {
-      "symbol": "PUNDIX",
-      "market": "KRW-PUNDIX",
-      "reason": "38.9억원 대금과 플러스 수익률에도 19.3% 위치면 추격 금지 구간입니다."
+      "reason": "29.41%여도 35.0% 위치와 -35.29% gap이면 후행 추격 금지 구간입니다."
     },
     {
       "symbol": "AGLD",
       "market": "KRW-AGLD",
-      "reason": "1,010.4억원 초대금에도 -6.38%·10.7% 위치라 대금 함정으로 봐야 합니다."
+      "reason": "918.6억원 초대금이어도 -2.74%·21.4% 위치면 전형적인 turnover trap입니다."
+    },
+    {
+      "symbol": "PUNDIX",
+      "market": "KRW-PUNDIX",
+      "reason": "347.8억원 대금에도 19.3% 위치면 상단 유지 실패가 너무 큽니다."
+    },
+    {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "headline는 남아도 -0.71%·23.5% 위치면 attention 우선순위가 부족합니다."
+    },
+    {
+      "symbol": "AAVE",
+      "market": "KRW-AAVE",
+      "reason": "구조는 나쁘지 않지만 이번 회차는 fresh 2개와 고속 continuation 3개가 더 공격 기대값이 높습니다."
     }
   ],
-  "top_line": "**메이저 4종은 전부 양수**지만 **top15 알트 positives 7 / low-range 9 / weak breadth 재점등**입니다. 그래서 **JTO·SUI를 빼고 SLX·ARX·PIEVERSE·KAITO·AAVE 80% 바스켓**으로 재편합니다.",
-  "ui_version": "v19.1",
+  "top_line": "**메이저 평균 위치 53.3%로 급락**했지만 **RE·PIEVERSE fresh 2개 + ARX continuation**은 살아 있습니다. 그래서 **SLX·AAVE를 빼고 RE·PIEVERSE·ARX·IN·KAITO 80% 바스켓**으로 재편합니다.",
+  "ui_version": "v19.2",
   "risk_plan": {
-    "portfolio_cash_target": "기본 20% 유지. weak_breadth_warning이 해제되고 fresh breakout이 3개 이상으로 늘면 다시 85%까지 상향 검토.",
-    "review_trigger": "SLX 706원 / ARX 432원 / PIEVERSE 1130원 / KAITO 835원 / AAVE 144000원 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. 메이저 평균이 다시 65%+로 회복하고 weak_breadth_warning이 해제되면 85% 재상향 검토.",
+    "review_trigger": "RE 997원 / PIEVERSE 1225원 / ARX 449원 / IN 157원 / KAITO 840원 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "weak_breadth_warning true 상태에서 10% 이하 range-position 보유는 즉시 퇴출",
-      "fresh breakout이 1개 이하일 때는 80% 안팎 노출 유지",
-      "headline보다 현재 day-range 구조를 우선"
+      "weak_breadth_warning true 상태에서는 same-day exhausted blowoff 추격 금지",
+      "fresh breakout과 continuation 혼합 유지",
+      "headline보다 day-range 구조를 우선"
     ],
     "exit_rules": [
-      "SLX 706원 / ARX 432원 / PIEVERSE 1130원 / KAITO 835원 / AAVE 144000원 하회 시 즉시 재평가",
+      "RE 997원 / PIEVERSE 1225원 / ARX 449원 / IN 157원 / KAITO 840원 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "weak_breadth_warning true 상태에서 10% 이하 range-position 보유는 즉시 퇴출",
-      "fresh breakout이 1개 이하일 때는 80% 안팎 노출 유지",
-      "headline보다 현재 day-range 구조를 우선"
+      "weak_breadth_warning true 상태에서는 same-day exhausted blowoff 추격 금지",
+      "fresh breakout과 continuation 혼합 유지",
+      "headline보다 day-range 구조를 우선"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1,655.9억원입니다.",
-    "momentum_discipline": "유일 fresh breakout 1개 + 상단 유지 continuation + 체급형 품질 앵커 조합 유지",
-    "diversification": "fresh breakout 1 + beta continuation 2 + clean continuation 1 + quality anchor 1",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 1,215.3억원입니다.",
+    "momentum_discipline": "fresh 2개 + high-range continuation 3개 유지, same-day exhausted leader 배제",
+    "diversification": "fresh breakout 2 + liquid continuation 1 + secondary continuation 2",
     "cash_usage": "80%",
-    "rotation_speed": "medium-high"
+    "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh 1 / conviction 4 / survivor 6 / reclaim 5"
+    "summary": "fresh 2 / conviction 3 / survivor 6 / reclaim 6"
   },
   "rotation_map": [
     {
-      "bucket": "JTO → PIEVERSE",
+      "bucket": "SLX → RE",
       "symbols": [
-        "JTO",
-        "PIEVERSE"
+        "SLX",
+        "RE"
       ],
-      "note": "7.8% 위치로 무너진 JTO를 17.45%·73.4% 위치의 cleaner continuation으로 교체합니다."
+      "note": "초대금이지만 54.0% 위치·-18.62% gap로 꺾인 SLX 대신 90.4% 위치 fresh RE로 교체합니다."
     },
     {
-      "bucket": "SUI → AAVE",
+      "bucket": "AAVE → IN",
       "symbols": [
-        "SUI",
-        "AAVE"
+        "AAVE",
+        "IN"
       ],
-      "note": "44.4% 위치로 둔화된 SUI를 85.0% 위치 품질 앵커로 상향 교체합니다."
+      "note": "AAVE의 방어형 성격보다 87.5% 위치 IN의 공격 continuation 기대값이 더 높아 교체합니다."
     },
     {
-      "bucket": "SLX(기존 보유) → SLX(유지·재균등)",
+      "bucket": "PIEVERSE(기존 보유) → PIEVERSE(유지·상향)",
       "symbols": [
-        "SLX(기존 보유)",
-        "SLX(유지·재균등)"
+        "PIEVERSE(기존 보유)",
+        "PIEVERSE(유지·상향)"
       ],
-      "note": "유일 fresh breakout 코어는 유지하되 80% 동일비중 기준으로 다시 맞춥니다."
+      "note": "상단 유지가 강화돼 fresh breakout core로 승격 유지합니다."
     },
     {
-      "bucket": "ARX(기존 보유) → ARX(유지·재균등)",
+      "bucket": "ARX(기존 보유) → ARX(유지·상향)",
       "symbols": [
         "ARX(기존 보유)",
-        "ARX(유지·재균등)"
+        "ARX(유지·상향)"
       ],
-      "note": "gap은 다소 벌어졌지만 대금형 beta 슬롯으로는 여전히 우위가 있어 유지합니다."
+      "note": "83.9% 위치와 490.6억원 대금이 동시에 살아 가장 믿을 만한 continuation이라 유지합니다."
     },
     {
-      "bucket": "KAITO(기존 보유) → KAITO(유지·재균등)",
+      "bucket": "KAITO(기존 보유) → KAITO(유지)",
       "symbols": [
         "KAITO(기존 보유)",
-        "KAITO(유지·재균등)"
+        "KAITO(유지)"
       ],
-      "note": "72.4% upper-range continuation 구조가 아직 살아 있어 유지합니다."
+      "note": "절대 대금은 작지만 76.5% 위치를 지켜 5번째 clean continuation 슬롯으로 유지합니다."
     }
   ],
   "self_evaluation": {
-    "score": 8.8,
-    "summary": "직전 회차에서 메이저 회복을 잘 잡았지만 JTO와 SUI의 후속 약화를 더 일찍 경계했어야 했습니다. 이번 회차는 무작정 all-in을 유지하지 않고 breadth 악화를 반영해 80%로 감속한 점이 개선입니다."
+    "score": 9.0,
+    "summary": "직전 회차에서 SLX를 fresh 리더로 본 판단은 맞았지만, 이번 새벽처럼 gap이 급격히 벌어질 때는 대금보다 구조를 더 빨리 버려야 했습니다. 이번 회차는 초대금 함정을 인정하고 fresh duo + cleaner continuation으로 교체한 점이 개선입니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 9.83,
+    "preferred_avg_change_pct_24h": 15.31,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 165584780100.27936,
-    "leader_turnover_share_pct": 54.56,
-    "leader_symbol": "SLX",
-    "leader_concentration_warning": "high"
+    "preferred_turnover_total_krw_24h": 121531391444.92862,
+    "leader_turnover_share_pct": 40.37,
+    "leader_symbol": "ARX",
+    "leader_concentration_warning": "moderate"
   },
-  "snapshot_updated_at_utc": "2026-06-27T12:58:49.232283+00:00",
+  "snapshot_updated_at_utc": "2026-06-27T18:59:01.133848+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": -2,
-    "top15_alt_low_range_count_delta": 3,
-    "weak_breadth_warning_changed": true,
+    "top15_alt_positive_count_delta": 3,
+    "top15_alt_low_range_count_delta": 1,
+    "weak_breadth_warning_changed": false,
     "entered_top5_turnover": [
-      "EDGE",
-      "PUNDIX"
+      "RE"
     ],
     "exited_top5_turnover": [
-      "MLK",
-      "WLD"
+      "PUNDIX"
     ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -0.97,
-    "major_positive_count_delta": 0,
+    "major_avg_range_position_pct_delta": -22.05,
+    "major_positive_count_delta": -1,
     "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 1,
-    "high_conviction_count": 4,
+    "fresh_breakout_count": 2,
+    "high_conviction_count": 3,
     "quality_survivor_count": 6,
-    "relative_strength_reclaim_count": 5,
+    "relative_strength_reclaim_count": 6,
     "breakout_cluster_active": false,
-    "summary": "fresh 1 / conviction 4 / survivor 6 / reclaim 5"
+    "summary": "fresh 2 / conviction 3 / survivor 6 / reclaim 6"
   },
   "scenario_view": {
-    "regime": "btc_stabilizing_alt_continuation",
-    "regime_label_ko": "메이저 안정·알트 지속",
-    "regime_icon": "🟢",
-    "btc_range_position_pct": 75.1,
-    "major_avg_range_position_pct": 75.38,
-    "preferred_avg_change_pct_24h": 9.83,
-    "preferred_high_range_count": 2,
-    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 68.7,
+    "major_avg_range_position_pct": 53.33,
+    "preferred_avg_change_pct_24h": 15.31,
+    "preferred_high_range_count": 4,
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "regime_shift_alert": {
     "active": true,
-    "major_avg_delta_pct": -0.97,
-    "top15_positive_count": 7,
-    "top15_low_range_count": 9,
+    "major_avg_delta_pct": -22.05,
+    "top15_positive_count": 10,
+    "top15_low_range_count": 10,
     "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -0.97,
-    "fresh_breakout_count": 1,
+    "major_avg_delta_pct": -22.05,
+    "fresh_breakout_count": 2,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 77.8,
-    "avg_day_high_gap_pct": -3.31,
-    "above_80_range_count": 2,
-    "summary": "고위치(80%+) 후보 2개 / 평균 위치 77.8%"
+    "avg_range_position_pct": 85.7,
+    "avg_day_high_gap_pct": -2.28,
+    "above_80_range_count": 4,
+    "summary": "고위치(80%+) 후보 4개 / 평균 위치 85.7%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -750,43 +750,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "last_price_krw": 719.0,
-      "threshold_krw": 706.0,
-      "distance_to_invalidation_pct": 1.84,
-      "status": "near"
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ARX",
-      "last_price_krw": 445.0,
-      "threshold_krw": 432.0,
-      "distance_to_invalidation_pct": 3.01,
+      "icon": "🧲",
+      "symbol": "RE",
+      "last_price_krw": 1031.0,
+      "threshold_krw": 997.0,
+      "distance_to_invalidation_pct": 3.41,
       "status": "near"
     },
     {
       "icon": "🥧",
       "symbol": "PIEVERSE",
-      "last_price_krw": 1171.0,
-      "threshold_krw": 1130.0,
-      "distance_to_invalidation_pct": 3.63,
+      "last_price_krw": 1267.0,
+      "threshold_krw": 1225.0,
+      "distance_to_invalidation_pct": 3.43,
+      "status": "near"
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ARX",
+      "last_price_krw": 463.0,
+      "threshold_krw": 449.0,
+      "distance_to_invalidation_pct": 3.12,
+      "status": "near"
+    },
+    {
+      "icon": "♾️",
+      "symbol": "IN",
+      "last_price_krw": 162.0,
+      "threshold_krw": 157.0,
+      "distance_to_invalidation_pct": 3.18,
       "status": "near"
     },
     {
       "icon": "🧠",
       "symbol": "KAITO",
-      "last_price_krw": 852.0,
-      "threshold_krw": 835.0,
-      "distance_to_invalidation_pct": 2.04,
-      "status": "near"
-    },
-    {
-      "icon": "🏦",
-      "symbol": "AAVE",
-      "last_price_krw": 147000.0,
-      "threshold_krw": 144000.0,
-      "distance_to_invalidation_pct": 2.08,
+      "last_price_krw": 856.0,
+      "threshold_krw": 840.0,
+      "distance_to_invalidation_pct": 1.9,
       "status": "near"
     }
   ],
@@ -799,8 +799,8 @@
   "rotation_pressure": {
     "active": true,
     "near_or_broken_count": 5,
-    "leader_concentration_warning": "high",
-    "avg_range_position_pct": 77.8,
+    "leader_concentration_warning": "moderate",
+    "avg_range_position_pct": 85.7,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -810,155 +810,155 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "AAVE",
-      "action": "BUY",
-      "price_krw": 147000.0,
-      "amount_delta": 2.6540355418026715,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "106.1억원 대금, +1.80%, 85.0% 위치, 고점 대비 -0.81%라 메이저 제외 체급형 품질 앵커로 가장 안정적입니다."
-    },
-    {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "KAITO",
       "action": "BUY",
-      "price_krw": 852.0,
-      "amount_delta": 457.91458291665816,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "78.0억원 대금, +7.44%, 72.4% 위치, 고점 대비 -3.07%로 깨끗한 상단 지속 구조입니다."
+      "price_krw": 856.0,
+      "amount_delta": 476.8104919026293,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "35.5억원 대금, +7.94%, 76.5% 위치, -2.62% gap으로 과열보다 유지형에 가까운 attention continuation입니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 162.0,
+      "amount_delta": 2519.443093016362,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "42.3억원 대금은 크지 않지만 +5.88%, 87.5% 위치, -1.22% gap이라 작은 체급 중 가장 깨끗한 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "ARX",
+      "action": "BUY",
+      "price_krw": 463.0,
+      "amount_delta": 881.533004467928,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "490.6억원 대금과 +14.04%, 83.9% 위치가 동시에 남아 있어 가장 믿을 만한 대금형 continuation 축입니다."
+    },
+    {
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "PIEVERSE",
       "action": "BUY",
-      "price_krw": 1171.0,
-      "amount_delta": 333.1709860332987,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "119.4억원 대금, +17.45%, 73.4% 위치로 과열주 중 드물게 상단 체류가 남은 continuation입니다."
+      "price_krw": 1267.0,
+      "amount_delta": 322.1387380178774,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "199.9억원 대금, +27.08%, 90.2% 위치, -2.24% gap으로 상장 잔열이 다시 상단 유지형으로 번졌습니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "ARX",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "RE",
       "action": "BUY",
-      "price_krw": 445.0,
-      "amount_delta": 876.7263475168376,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "448.9억원 대금과 +9.61%가 남아 있고 67.4% 위치를 지켜 아직 공격 슬롯 가치가 있습니다."
+      "price_krw": 1031.0,
+      "amount_delta": 395.8775762062567,
+      "cash_delta_krw": -408149.78106865066,
+      "reason": "446.9억원 대금, +21.58%, 90.4% 위치, 고점 대비 -2.18%로 이번 새벽 업비트에서 가장 읽기 쉬운 신규 주도주입니다."
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "SLX",
-      "action": "BUY",
-      "price_krw": 719.0,
-      "amount_delta": 542.6192276008244,
-      "cash_delta_krw": -390143.22464499273,
-      "reason": "903.5억원 대금, +12.87%, 90.8% 위치, 고점 대비 -1.51%로 지금 업비트에서 가장 읽기 쉬운 유일 fresh breakout 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "JTO",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "AAVE",
       "action": "SELL",
-      "price_krw": 1202.0,
-      "amount_delta": -329.5782576743679,
-      "cash_delta_krw": 396153.0657245902,
-      "reason": "241.5억원 대금에도 -1.15%·7.8% 위치로 구조가 무너져 PIEVERSE로 교체"
+      "price_krw": 147000.0,
+      "amount_delta": -2.6540355418026715,
+      "cash_delta_krw": 390143.22464499273,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "KAITO",
       "action": "SELL",
-      "price_krw": 852.0,
-      "amount_delta": -515.5574992084681,
-      "cash_delta_krw": 439254.9893256148,
-      "reason": "핵심 코어는 유지하되 21:58 가격 기준 80% 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 856.0,
+      "amount_delta": -457.91458291665816,
+      "cash_delta_krw": 391974.8829766594,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
-      "symbol": "SUI",
+      "timestamp": "2026-06-28T03:59:00+09:00",
+      "symbol": "PIEVERSE",
       "action": "SELL",
-      "price_krw": 1069.0,
-      "amount_delta": -382.01809145789355,
-      "cash_delta_krw": 408377.3397684882,
-      "reason": "44.4% 위치로 survivor 앵커 명분이 약해져 AAVE로 교체"
+      "price_krw": 1267.0,
+      "amount_delta": -333.1709860332987,
+      "cash_delta_krw": 422127.6393041894,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "ARX",
       "action": "SELL",
-      "price_krw": 445.0,
-      "amount_delta": -925.9227732421142,
-      "cash_delta_krw": 412035.63409274083,
-      "reason": "핵심 코어는 유지하되 21:58 가격 기준 80% 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 463.0,
+      "amount_delta": -876.7263475168376,
+      "cash_delta_krw": 405924.2989002958,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-27T21:58:00+09:00",
+      "timestamp": "2026-06-28T03:59:00+09:00",
       "symbol": "SLX",
       "action": "SELL",
-      "price_krw": 719.0,
-      "amount_delta": -581.6359955858915,
-      "cash_delta_krw": 418196.28082625597,
-      "reason": "핵심 코어는 유지하되 21:58 가격 기준 80% 5종 균등 공격 분산으로 전량 재편"
+      "price_krw": 835.0,
+      "amount_delta": -542.6192276008244,
+      "cash_delta_krw": 453087.05504668836,
+      "reason": "메이저 평균 위치가 53.3%로 급락했고 SLX가 -18.6% gap의 exhausted blowoff로 바뀌어, 80% fresh/continuation 새 바스켓으로 전량 재편"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🌞 **SLX** — 719원 / **+12.87%** / 903.5억원 / 위치 **90.8%** / only fresh breakout core",
-      "- 🧪 **ARX** — 445원 / **+9.61%** / 448.9억원 / 위치 **67.4%** / high-turnover beta continuation",
-      "- 🎮 **PIEVERSE** — 1,171원 / **+17.45%** / 119.4억원 / 위치 **73.4%** / fast continuation",
-      "- 🧠 **KAITO** — 852원 / **+7.44%** / 78.0억원 / 위치 **72.4%** / clean continuation",
-      "- 🛡️ **AAVE** — 147,000원 / **+1.80%** / 106.1억원 / 위치 **85.0%** / quality anchor"
+      "- 🧲 **RE** — 1,031원 / **+21.58%** / 446.9억원 / 위치 **90.4%** / fresh listing breakout core",
+      "- 🎮 **PIEVERSE** — 1,267원 / **+27.08%** / 199.9억원 / 위치 **90.2%** / secondary fresh breakout",
+      "- 🧪 **ARX** — 463원 / **+14.04%** / 490.6억원 / 위치 **83.9%** / liquid continuation anchor",
+      "- ♾️ **IN** — 162원 / **+5.88%** / 42.3억원 / 위치 **87.5%** / small-cap clean continuation",
+      "- 🧠 **KAITO** — 856원 / **+7.94%** / 35.5억원 / 위치 **76.5%** / attention continuation"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **75.1%** / ETH **84.0%** / XRP **75.7%** / SOL **66.7%**",
-      "- 메이저 평균 **75.38% 위치**, **4종 모두 양수**",
-      "- 하지만 top15 비메이저는 **양수 7개뿐** → 메이저 강세를 알트 전면 확산으로 보면 안 됩니다."
+      "- BTC **68.7%** / ETH **57.9%** / XRP **51.0%** / SOL **35.7%**",
+      "- 메이저 평균 **53.33% 위치**, **3종 양수·1종 보합**",
+      "- 즉 **메이저는 버티지만 추세 확산 속도는 둔화**된 상태입니다."
     ],
     "공격 포트폴리오 전략": [
       "- 실투입: **80%**, 5종 동일비중",
-      "- 타깃: 각 약 **390,143원**",
-      "- 현금: 약 **487,679원 (20.0%)**",
-      "- 핵심 논리: **major hold + breadth downgrade + broken slot purge**"
+      "- 타깃: 각 약 **408,150원**",
+      "- 현금: 약 **510,187원 (20.0%)**",
+      "- 핵심 논리: **fresh 2 + continuation 3 / exhausted leader 배제 / weak breadth 대응 유지**"
     ],
     "가상 매매 실행 내용": [
-      "- ❌ **퇴출:** SUI / JTO",
-      "- 🔁 **유지·재균등:** SLX / ARX / KAITO",
-      "- ✅ **신규:** PIEVERSE / AAVE",
-      "- 마지막 액션: **REBALANCE_80_SLX_ARX_PIEVERSE_KAITO_AAVE**"
+      "- ❌ **전량 정리:** SLX / AAVE",
+      "- 🔁 **유지·재편:** ARX / PIEVERSE / KAITO",
+      "- ✅ **신규:** RE / IN",
+      "- 마지막 액션: **REBALANCE_80_RE_PIEVERSE_ARX_IN_KAITO**"
     ],
     "현재 포트폴리오 현황": [
-      "- SLX **542.6192개 @ 719원**",
-      "- ARX **876.7263개 @ 445원**",
-      "- PIEVERSE **333.1710개 @ 1,171원**",
-      "- KAITO **457.9146개 @ 852원**",
-      "- AAVE **2.6540개 @ 147,000원**",
-      "- 현금 **487,679원** / 총평가 **2,438,395원**"
+      "- RE **395.8776개 @ 1,031원**",
+      "- PIEVERSE **322.1387개 @ 1,267원**",
+      "- ARX **881.5330개 @ 463원**",
+      "- IN **2,519.4431개 @ 162원**",
+      "- KAITO **476.8105개 @ 856원**",
+      "- 현금 **510,187원** / 총평가 **2,550,936원**"
     ],
     "자기 평가": [
-      "- 장점: **JTO 7.8%·SUI 44.4% 약화를 즉시 반영해 교체했습니다.**",
-      "- 아쉬움: **직전 회차 85% 노출을 breadth 재악화 직전까지 유지한 점은 다소 공격적이었습니다.**",
-      "- 점수: **8.8 / 10**"
+      "- 장점: **SLX의 초대금 함정을 인정하고 fresh/continuation 리더로 빠르게 갈아탔습니다.**",
+      "- 아쉬움: **직전 회차 fresh 1개로 너무 의존한 점은 리더 붕괴 시 리스크를 키웠습니다.**",
+      "- 점수: **9.0 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **DECISIONS.md에 ‘weak breadth 재점등 + 10% 이하 보유 즉시 퇴출 + 80% 감속’ 규칙 추가**",
-      "- ✅ **리포트 첫 줄에 top15 positives / low-range 개수를 같이 표기해 breadth 변화를 더 빨리 읽게 개선**",
-      "- ✅ **85% 고정 대신 80% 중간 감속 시나리오를 명시해 대응 폭을 넓혔습니다**"
+      "- ✅ **DECISIONS.md에 ‘+25% 이상 급등 후 60% 미만 위치·-15% 이하 gap이면 exhausted blowoff’ 규칙 추가**",
+      "- ✅ **리포트에서 fresh 후보와 exhausted leader를 분리해 SLX 같은 함정 대금을 더 빨리 보이게 개선**",
+      "- ✅ **대금 1위 고집 대신 fresh 2 + continuation 3 구조로 바스켓 설계를 단순화**"
     ],
     "판단": [
-      "- **aggressive-80-single-breakout-selective-continuation**"
+      "- **aggressive-80-fresh-duo-plus-clean-continuations**"
     ],
     "신뢰도": [
       "- **medium**"
     ],
     "추천 행동": [
-      "- **SLX 706 / ARX 432 / PIEVERSE 1130 / KAITO 835 / AAVE 144000** 하회 시 즉시 재평가",
-      "- **RE / NEAR / IN**은 대체 후보로 계속 감시",
-      "- **JTO·WLD·PUNDIX·AGLD**처럼 대금만 크고 구조가 무너진 종목은 재진입 보류"
+      "- **RE 997 / PIEVERSE 1225 / ARX 449 / IN 157 / KAITO 840** 하회 시 즉시 재평가",
+      "- **SLX**는 70%+ range 재회복 전까진 재진입 보류",
+      "- **NEAR / CELO / CHIP**은 대체 후보로 계속 감시"
     ],
     "리스크 메모": [
-      "- **SLX**가 여전히 바스켓 핵심이라 리더 의존도가 높습니다.",
-      "- **ARX·PIEVERSE**는 공격 슬롯이라 갭이 벌어지면 손실 속도도 빠를 수 있습니다.",
-      "- **weak_breadth_warning=true** 상태라 메이저가 버텨도 알트 개별 실패가 잦을 수 있습니다.",
-      "- **AAVE**는 품질형이지만 과한 수익 가속 기대보다 균형 앵커 역할로 봐야 합니다."
+      "- **weak_breadth_warning=true**라 개별 실패가 바로 나올 수 있습니다.",
+      "- **RE·PIEVERSE**는 fresh 코어지만 급등 후속주라 변동성이 큽니다.",
+      "- **IN·KAITO**는 구조는 좋지만 절대 대금이 작아 흔들림이 빠를 수 있습니다.",
+      "- **SLX**처럼 초대금도 same-day gap이 크게 벌어지면 더는 리더가 아닙니다."
     ]
   }
 }
