@@ -1,301 +1,306 @@
 {
-  "updated_at": "2026-06-28T15:58:00+09:00",
-  "top_line": "메이저 평균 위치가 68.3%→29.95%로 급락했고 fresh가 0이 됐습니다. 그래서 깨진 QKC·AQT·CBK를 버리고 EDGE·POWR·CELO·KAITO·WIF 70% 생존형 바스켓으로 낮춥니다.",
-  "macro_summary": "BTC·ETH·XRP·SOL 평균 위치가 29.95%까지 밀리며 직전 breadth 회복이 거의 되돌려졌습니다. fresh breakout은 0, high conviction은 3개뿐이라 광범위 추격보다 현재 녹색 상단 생존주만 선별하는 쪽이 낫습니다.",
-  "news_summary": "Alternative.me 공포탐욕지수는 18로 여전히 Extreme Fear입니다. 선별 검색에선 KAITO가 6월 중순 약 855만달러 규모 언락 이슈 뒤에도 7월 20일 추가 언락(약 1,780만개, 1.8% 공급) 일정이 남아 있고, CELO·POWR는 오늘 확정형 신규 호재보다 보드 구조와 거래대금이 더 중요했습니다.",
-  "community_summary": "업비트 리테일 자금은 아침 fresh였던 QKC·PIEVERSE·RE 쪽에서 이탈하고, 오후에는 EDGE·POWR·CELO처럼 여전히 녹색을 지키는 종목으로만 좁게 몰렸습니다. WIF는 절대 체급은 작지만 밈/커뮤니티 관심이 아직 깨끗한 상단 구조로 남아 있습니다.",
-  "public_figure_summary": "Sam Altman 연상도가 큰 WLD는 -1.32%, 46.7% 위치로 이번 사이클도 인물 서사가 가격 우위를 만들지 못했습니다. 반대로 KAITO는 언락 부담이 남아도 실제 가격이 플러스를 유지해 data-backed attention 슬롯으로만 제한 채택합니다.",
-  "major_coin_summary": "BTC -0.14%·32.8% 위치 / ETH -0.42%·25.0% 위치 / XRP -0.19%·23.5% 위치 / SOL +0.09%·38.5% 위치 / 메이저 평균 29.95% 위치",
-  "altcoin_selection_summary": "preferred buy는 EDGE, POWR, CELO, KAITO, WIF입니다. 구조는 mega-liquidity survivor 1(EDGE) + high-beta continuation 1(POWR) + clean upper-range 1(CELO) + attention survivor 1(KAITO) + small clean beta 1(WIF)입니다. QKC·AQT·CBK는 실제 상단 붕괴로 퇴출합니다.",
-  "overall_bias": "aggressive-70-selective-survivor-basket",
+  "updated_at": "2026-06-28T21:58:00+09:00",
+  "top_line": "메이저 평균 위치가 42.53%로 여전히 낮고 fresh breakout은 0입니다. 그래서 깨진 EDGE·POWR를 버리고 TOSHI·PUMP·CELO·WIF·SYRUP 80% all-positive 바스켓으로 재정렬합니다.",
+  "macro_summary": "BTC·ETH·XRP·SOL 평균 위치는 42.53%로 직전 30%대보다는 약간 나아졌지만 여전히 낮습니다. 업비트 상위 대금 알트 15개 중 양수는 7개뿐이고 low-range가 11개라 broad risk-on으로 보기 어렵고, 현재는 메이저 약반등 + 좁은 알트 생존주 장세에 가깝습니다.",
+  "news_summary": "Alternative.me 공포탐욕지수는 18로 여전히 Extreme Fear입니다. 외부 검색 기준 TOSHI는 Upbit 상장 후 급등 서사가 계속 붙어 있고, Pump.fun은 최근 Grayscale의 저평가 언급과 플랫폼 화제성이 남아 있지만 논란성 기사도 있어 1개 슬롯만 허용했습니다. KAITO는 7월 20일 약 1,780만개(1.8%) 언락 일정이 남아 있어 이번 회차는 watch로 내립니다.",
+  "community_summary": "업비트 리테일 자금은 초대금이었던 EDGE·POWR·HUNT를 끝까지 방어하지 않았고, 지금은 TOSHI·PUMP·WIF 같은 상단 유지형 밈 슬롯과 CELO·SYRUP 같은 구조형 continuation으로 더 좁게 몰립니다.",
+  "public_figure_summary": "Sam Altman 연상도가 큰 WLD는 여전히 실전 선도주가 아니고, 이번 회차 public attention의 핵심은 인물보다 플랫폼/상장 화제성입니다. Pump.fun은 화제성이 높지만 잡음도 크기 때문에 1슬롯 제한을 유지합니다.",
+  "major_coin_summary": "BTC -0.08%·33.1% 위치 / ETH +0.08%·52.8% 위치 / XRP 보합·28.0% 위치 / SOL +1.31%·56.2% 위치 / 메이저 평균 42.53% 위치",
+  "altcoin_selection_summary": "preferred buy는 TOSHI, PUMP, CELO, WIF, SYRUP입니다. 구조는 listing momentum 1 + clean meme/platform 1 + liquid continuation 1 + small clean meme 1 + DeFi continuation 1입니다. 핵심은 고대금 실패주보다 all-positive upper-range 유지력을 우선한 점입니다.",
+  "overall_bias": "aggressive-80-all-positive-cleaners",
   "confidence": "medium-low",
   "preferred_buy_candidates": [
     {
-      "market": "KRW-EDGE",
-      "symbol": "EDGE",
-      "price_krw": 163.0,
-      "change_pct_24h": 28.34645669,
-      "turnover_krw_24h": 70887222541.00674,
-      "opening_price": 127.0,
-      "high_price": 175.0,
-      "low_price": 123.0,
-      "range_position_pct": 76.9,
-      "day_high_gap_pct": -6.86,
-      "selection_score": 71.42,
-      "role": "high-turnover survivor core",
-      "strategy": "largest live continuation despite fade",
-      "risk_limit_pct": 5.5,
-      "profit_take_pct": 10.0,
-      "invalidated_if": "154원 하회 시 late-session survivor 코어 훼손",
-      "reason": "708.9억원 대금과 +28.35%가 남아 있고 76.9% 위치를 유지해, 약한 장에서도 실제 돈이 버틴 핵심 리더입니다.",
-      "community": "한국 보드에서 가장 강하게 살아남은 실전 거래대금 축입니다.",
-      "thesis": "only mega-liquidity leader still holding upper-range structure",
-      "allocation_krw": 344720.20938174304
+      "market": "KRW-TOSHI",
+      "symbol": "TOSHI",
+      "korean_name": "토시",
+      "english_name": "Toshi",
+      "price_krw": 0.219,
+      "change_pct_24h": 31.92771084,
+      "turnover_krw_24h": 10153159553.919027,
+      "opening_price": 0.166,
+      "high_price": 0.228,
+      "low_price": 0.165,
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -3.95,
+      "role": "upbit-listing momentum core",
+      "strategy": "listing-follow-through with still-live meme demand",
+      "risk_limit_pct": 5.8,
+      "profit_take_pct": 11.5,
+      "invalidated_if": "0.209원 하회 시 상장 후속 추격 구조 약화",
+      "community": "업비트 상장 이후 한국 리테일 추격이 가장 분명하게 남은 밈 슬롯입니다.",
+      "thesis": "Upbit listing attention is still translating into real turnover and upper-range hold",
+      "reason": "101.5억원 대금과 +31.93%, 85.7% 위치가 남아 있어 업비트 상장 후속 모멘텀이 아직 살아 있습니다.",
+      "allocation_krw": 381180.885359343
     },
     {
-      "market": "KRW-POWR",
-      "symbol": "POWR",
-      "price_krw": 81.4,
-      "change_pct_24h": 27.98742138,
-      "turnover_krw_24h": 36851367880.86677,
-      "opening_price": 63.6,
-      "high_price": 87.1,
-      "low_price": 63.5,
-      "range_position_pct": 75.8,
-      "day_high_gap_pct": -6.54,
-      "selection_score": 61.92,
-      "role": "beta continuation core",
-      "strategy": "high-beta green survivor",
-      "risk_limit_pct": 4.8,
-      "profit_take_pct": 9.5,
-      "invalidated_if": "77.5원 하회 시 고베타 continuation 약화",
-      "reason": "368.5억원 대금, +27.99%, 75.8% 위치로 오후 약세장에서도 실제 추격 유동성이 남은 두 번째 코어입니다.",
-      "community": "뚜렷한 재료 확인보다 업비트 보드형 추세 지속이 먼저 보이는 종목입니다.",
-      "thesis": "pure board-led beta continuation",
-      "allocation_krw": 344720.20938174304
+      "market": "KRW-PUMP",
+      "symbol": "PUMP",
+      "korean_name": "펌프펀",
+      "english_name": "Pump.fun",
+      "price_krw": 2.24,
+      "change_pct_24h": 8.73786408,
+      "turnover_krw_24h": 4345088873.04805,
+      "opening_price": 2.05,
+      "high_price": 2.31,
+      "low_price": 2.05,
+      "range_position_pct": 73.1,
+      "day_high_gap_pct": -3.03,
+      "role": "clean meme-platform continuation",
+      "strategy": "high-range continuation with tighter gap than old leaders",
+      "risk_limit_pct": 4.6,
+      "profit_take_pct": 9.0,
+      "invalidated_if": "2.19원 하회 시 clean continuation 훼손",
+      "community": "Pump.fun 관련 글로벌 화제성과 밈 트레이더 유입이 유지되고 있습니다.",
+      "thesis": "best-structured meme-platform continuation among current non-major positives",
+      "reason": "43.5억원 대금, +8.74%, 73.1% 위치와 -3% 안쪽 갭으로 현재 밈/플랫폼 계열 중 구조가 가장 깔끔합니다.",
+      "allocation_krw": 381180.885359343
     },
     {
       "market": "KRW-CELO",
       "symbol": "CELO",
+      "korean_name": "셀로",
+      "english_name": "Celo",
       "price_krw": 104.0,
       "change_pct_24h": 10.40339703,
-      "turnover_krw_24h": 7763976755.275945,
+      "turnover_krw_24h": 7666548330.273627,
       "opening_price": 94.1,
-      "high_price": 105.0,
+      "high_price": 111.0,
       "low_price": 93.3,
-      "range_position_pct": 91.5,
-      "day_high_gap_pct": -0.95,
-      "selection_score": 55.44,
-      "role": "clean structure leader",
-      "strategy": "tight-gap upper-range continuation",
-      "risk_limit_pct": 3.6,
-      "profit_take_pct": 7.5,
-      "invalidated_if": "101원 하회 시 clean continuation 손상",
-      "reason": "77.6억원 대금에 91.5% 위치와 -0.95% gap이 겹쳐, 오늘 톱5 중 구조가 가장 깔끔합니다.",
-      "community": "별도 대형 뉴스보다 가격 구조 방어와 회전력이 더 선명합니다.",
-      "thesis": "cleanest upper-range chart among non-major survivors",
-      "allocation_krw": 344720.20938174304
-    },
-    {
-      "market": "KRW-KAITO",
-      "symbol": "KAITO",
-      "price_krw": 882.0,
-      "change_pct_24h": 5.62874251,
-      "turnover_krw_24h": 5466448096.114403,
-      "opening_price": 837.0,
-      "high_price": 903.0,
-      "low_price": 837.0,
-      "range_position_pct": 68.2,
-      "day_high_gap_pct": -2.33,
-      "selection_score": 36.92,
-      "role": "attention-backed survivor",
-      "strategy": "supply-overhang name that still holds green",
-      "risk_limit_pct": 2.5,
-      "profit_take_pct": 6.3,
-      "invalidated_if": "865원 하회 시 survivor 구조 약화",
-      "reason": "54.7억원 대금과 +5.63% 양수 유지로, 7월 20일 언락 전에도 attention이 완전히 꺼지지 않았습니다.",
-      "community": "언락 경계가 남아도 한국 보드에서 아직 녹색으로 버티는 attention 슬롯입니다.",
-      "thesis": "attention name surviving supply-overhang zone",
-      "allocation_krw": 344720.20938174304
+      "range_position_pct": 60.5,
+      "day_high_gap_pct": -6.31,
+      "role": "liquid clean continuation",
+      "strategy": "survivor continuation with real turnover",
+      "risk_limit_pct": 3.8,
+      "profit_take_pct": 8.0,
+      "invalidated_if": "101원 하회 시 survivor continuation 손상",
+      "community": "오늘 보드에서 과열 급등보다 구조 유지가 더 잘 보이는 대표 슬롯입니다.",
+      "thesis": "best liquid continuation still holding positive structure after failed leaders faded",
+      "reason": "76.7억원 대금에 +10.40%를 유지하고 있어, 깨진 대금주보다 지금 남아 있는 continuation이 더 낫습니다.",
+      "allocation_krw": 381180.885359343
     },
     {
       "market": "KRW-WIF",
       "symbol": "WIF",
-      "price_krw": 255.0,
-      "change_pct_24h": 1.19047619,
-      "turnover_krw_24h": 2844483233.3903065,
+      "korean_name": "도그위프햇",
+      "english_name": "dogwifhat",
+      "price_krw": 263.0,
+      "change_pct_24h": 4.36507937,
+      "turnover_krw_24h": 1900986164.5437756,
       "opening_price": 252.0,
-      "high_price": 256.0,
+      "high_price": 274.0,
       "low_price": 249.0,
-      "range_position_pct": 85.7,
-      "day_high_gap_pct": -0.39,
-      "selection_score": 38.12,
-      "role": "small clean meme slot",
-      "strategy": "tight-range high-position beta filler",
-      "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.5,
-      "invalidated_if": "252원 하회 시 small-beta hold 약화",
-      "reason": "절대 대금은 28.4억원으로 작지만 85.7% 위치와 -0.39% gap이 매우 깨끗해 5번째 분산 슬롯으로 적합합니다.",
-      "community": "밈/커뮤니티 관심이 남아 있으면서도 오늘 보드는 무너지지 않은 편입니다.",
-      "thesis": "clean low-liquidity high-range meme continuation",
-      "allocation_krw": 344720.20938174304
+      "range_position_pct": 56.0,
+      "day_high_gap_pct": -4.01,
+      "role": "small-beta clean meme slot",
+      "strategy": "small but clean high-range continuation",
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 7.0,
+      "invalidated_if": "261원 하회 시 소형 밈 continuation 약화",
+      "community": "체급은 작지만 상단 유지가 깨끗해 분산용 공격 슬롯으로 적합합니다.",
+      "thesis": "small-cap meme beta still holding a manageable continuation structure",
+      "reason": "절대 대금은 19.0억원으로 작지만 +4.37%, 56.0% 위치와 -4%대 갭이 아직 관리 가능한 수준이라 분산용 공격 슬롯으로 적합합니다.",
+      "allocation_krw": 381180.885359343
+    },
+    {
+      "market": "KRW-SYRUP",
+      "symbol": "SYRUP",
+      "korean_name": "메이플파이낸스",
+      "english_name": "Maple Finance",
+      "price_krw": 225.0,
+      "change_pct_24h": 4.16666667,
+      "turnover_krw_24h": 3521350778.4694304,
+      "opening_price": 217.0,
+      "high_price": 232.0,
+      "low_price": 215.0,
+      "range_position_pct": 58.8,
+      "day_high_gap_pct": -3.02,
+      "role": "defi continuation slot",
+      "strategy": "clean mid-cap continuation with tight gap",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 7.2,
+      "invalidated_if": "220원 하회 시 mid-cap continuation 약화",
+      "community": "대금은 중간급이지만 오늘 디파이 계열 중 구조 유지가 가장 읽기 쉽습니다.",
+      "thesis": "clean mid-cap DeFi continuation with disciplined gap control",
+      "reason": "35.2억원 대금, +4.17%, 58.8% 위치와 -2.6% 갭으로 5번째 분산 continuation 슬롯에 적합합니다.",
+      "allocation_krw": 381180.885359343
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "EDGE",
-      "market": "KRW-EDGE",
-      "reason": "708.9억원 대금과 +28.35%가 남아 있고 76.9% 위치를 유지해, 약한 장에서도 실제 돈이 버틴 핵심 리더입니다."
+      "symbol": "TOSHI",
+      "market": "KRW-TOSHI",
+      "reason": "101.5억원 대금과 +31.93%, 85.7% 위치가 남아 있어 업비트 상장 후속 모멘텀이 아직 살아 있습니다."
     },
     {
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "368.5억원 대금, +27.99%, 75.8% 위치로 오후 약세장에서도 실제 추격 유동성이 남은 두 번째 코어입니다."
+      "symbol": "PUMP",
+      "market": "KRW-PUMP",
+      "reason": "43.5억원 대금, +8.74%, 73.1% 위치와 -3% 안쪽 갭으로 현재 밈/플랫폼 계열 중 구조가 가장 깔끔합니다."
     },
     {
       "symbol": "CELO",
       "market": "KRW-CELO",
-      "reason": "77.6억원 대금에 91.5% 위치와 -0.95% gap이 겹쳐, 오늘 톱5 중 구조가 가장 깔끔합니다."
-    },
-    {
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "reason": "54.7억원 대금과 +5.63% 양수 유지로, 7월 20일 언락 전에도 attention이 완전히 꺼지지 않았습니다."
+      "reason": "76.7억원 대금에 +10.40%를 유지하고 있어, 깨진 대금주보다 지금 남아 있는 continuation이 더 낫습니다."
     },
     {
       "symbol": "WIF",
       "market": "KRW-WIF",
-      "reason": "절대 대금은 28.4억원으로 작지만 85.7% 위치와 -0.39% gap이 매우 깨끗해 5번째 분산 슬롯으로 적합합니다."
+      "reason": "절대 대금은 19.0억원으로 작지만 +4.37%, 56.0% 위치와 -4%대 갭이 아직 관리 가능한 수준이라 분산용 공격 슬롯으로 적합합니다."
+    },
+    {
+      "symbol": "SYRUP",
+      "market": "KRW-SYRUP",
+      "reason": "35.2억원 대금, +4.17%, 58.8% 위치와 -2.6% 갭으로 5번째 분산 continuation 슬롯에 적합합니다."
     }
   ],
   "watchlist": [
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "1,240.7억원 초대금은 여전히 강하지만 52.6% 위치면 core는 아님. 60%+ 재회복 전까진 관찰만."
+      "reason": "1,700억원대 초대금은 압도적이지만 day-high gap -7%대와 60%대 위치라 headline liquidity 성격이 남습니다."
     },
     {
-      "symbol": "POLYX",
-      "market": "KRW-POLYX",
-      "reason": "79.9억원 대금과 +4.50%는 좋지만 위치가 51.6%로 낮아 톱5 진입 직전 대기."
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "양수와 54%대 위치는 유지했지만 7월 20일 언락 부담 때문에 이번엔 watch로 한 칸 낮춥니다."
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "75.0% 위치와 -1.05% gap은 깔끔하지만 27.9억원 체급이라 core 승격 전 한 번 더 확인 필요."
+      "symbol": "WAL",
+      "market": "KRW-WAL",
+      "reason": "62%대 구조와 +5%는 좋지만 SYRUP보다 체급/구조 우위가 약간 밀려 보조 감시로 둡니다."
     },
     {
-      "symbol": "QKC",
-      "market": "KRW-QKC",
-      "reason": "아침 fresh 코어였지만 현재 20.7% 위치·-17.92% gap로 완전 실패. 재상단 회복 전 재진입 금지."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "체급은 좋지만 현재는 음수권·47%대 위치라 preferred 바스켓보다 watch가 맞습니다."
     },
     {
-      "symbol": "ELF",
-      "market": "KRW-ELF",
-      "reason": "288.7억원 대금은 좋지만 -6.19% gap과 51.0% 위치가 거칠어 후순위."
+      "symbol": "EDGE",
+      "market": "KRW-EDGE",
+      "reason": "458억원대 대금에도 28% 위치·-21% 갭이면 이번 회차는 명확한 turnover trap입니다."
     },
     {
-      "symbol": "SAFE",
-      "market": "KRW-SAFE",
-      "reason": "+7.38%지만 20.6억원 체급과 57.1% 위치라 보조 감시만."
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "495억원대 대금과 양수에도 45% 위치·-14% 갭이면 late-session fade가 너무 큽니다."
     },
     {
-      "symbol": "CBK",
-      "market": "KRW-CBK",
-      "reason": "양수 유지에도 15.6% 위치로 무너져 재정비 전까진 탈락 유지."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "대금은 충분하지만 현재 음수권·40% 위치라 공격 포트폴리오 5위보다 후순위입니다."
     }
   ],
   "risk_notes": [
-    "메이저 평균 위치가 30% 부근이라 broad risk-on이 아니라 일부 생존주 장세로 봐야 합니다.",
-    "EDGE·POWR는 강하지만 day-high gap이 각각 -6.86%, -6.54%라 late-session 되밀림이 더 나올 수 있습니다.",
-    "KAITO는 7월 20일 추가 언락 일정이 남아 있어 attention은 살아도 공급 부담이 완전히 해소된 상태는 아닙니다.",
-    "WIF는 구조는 좋지만 절대 거래대금이 가장 작아 변동성 체감이 가장 클 수 있습니다.",
-    "QKC·PIEVERSE처럼 같은 날 fresh가 20% 이하 위치로 붕괴하면 평균단가 방어보다 즉시 퇴출이 우선입니다."
+    "메이저 평균이 아직 50% 미만이라 broad risk-on으로 오판하면 안 됩니다.",
+    "TOSHI는 상장 후속성과 커뮤니티 열기가 강하지만 late-session 흔들림이 나올 수 있습니다.",
+    "PUMP는 구조는 좋지만 밈/플랫폼 뉴스 흐름이 양면적이라 headline 리스크를 무시하면 안 됩니다.",
+    "WIF와 SYRUP은 체급이 중소형이라 변동성 체감이 클 수 있습니다.",
+    "EDGE·POWR처럼 +수익률이 남아 있어도 45% 이하 range와 두 자릿수 day-high gap이면 바로 퇴출하는 규율을 유지합니다."
   ],
   "fear_greed": "18 (Extreme Fear; Alternative.me)",
-  "btc_reference": "BTC 91.018M원 / ETH 2.378M원 / XRP 1,586원 / SOL 107.0K원",
+  "btc_reference": "BTC 91.068M원 / ETH 2.390M원 / XRP 1,589.0원 / SOL 108.3K원",
   "improvement_log": [
-    "DECISIONS.md에 “85% all-positive 바스켓 직후 메이저 평균이 30% 안팎으로 급락하고 3개 이상 보유 슬롯이 35% 아래로 무너지면 70% survivor 바스켓으로 즉시 축소” 규칙을 추가했습니다.",
-    "이번 회차는 리포트에서 “무너진 carry-over 슬롯”과 “현재 녹색 생존 슬롯”을 더 명확히 분리해 why-now 판단을 빠르게 읽게 했습니다.",
-    "선정 로직에서 절대 거래대금만 보지 않고, 약세장에서는 70%+ range-position의 작은 체급 클린 구조(WIF)도 5번째 슬롯으로 허용하는 예외를 기록했습니다."
+    "DECISIONS.md에 “메이저 평균이 60%대까지 반등해도 weak breadth_warning이 true이고 2개 이상 보유 리더가 45% 이하 range 또는 -15% 이하 gap이면 80% 클린 리바운드 바스켓으로 즉시 재편” 규칙을 추가했습니다.",
+    "리포트 첫 줄에서 메이저 상태와 알트 breadth 경고를 함께 보여 주도록 정리해 risk-on 오해를 줄였습니다.",
+    "선정 로직에서 단순 거래대금보다 현재 all-positive upper-range 유지력을 더 강하게 반영해 EDGE·POWR를 제거하고 SYRUP을 승격했습니다."
   ],
   "self_evaluation": {
-    "score": 9.0,
-    "summary": "아침 85% 바스켓을 오후까지 고집하지 않고 깨진 QKC·AQT·CBK를 바로 버린 점은 좋았습니다. 다만 breadth 붕괴 속도가 빨랐던 만큼 방어 전환을 한 사이클 더 빠르게 상상했어야 했고, 이번 회차는 그 반성을 규칙으로 남겼습니다."
+    "score": 9.2,
+    "summary": "EDGE·POWR가 아직 양수여도 구조 붕괴를 이유로 바로 버린 점은 좋았습니다. 다만 메이저가 완전히 살아난 것은 아니라서 90%까지 과속하지 않고 80% all-positive 바스켓에 그친 판단이 이번 회차 핵심이었습니다."
   },
-  "ui_version": "v19.4",
+  "ui_version": "v19.5",
   "rejected_candidates": [
     {
-      "symbol": "QKC",
-      "market": "KRW-QKC",
-      "reason": "아침 fresh 코어였지만 현재 20.7% 위치와 -17.92% gap이면 failed breakout입니다."
+      "symbol": "EDGE",
+      "market": "KRW-EDGE",
+      "reason": "458억원대 대금에도 28% 위치·-21% 갭이면 깨진 same-day leader입니다."
     },
     {
-      "symbol": "AQT",
-      "market": "KRW-AQT",
-      "reason": "-1.53% 음전환과 29.2% 위치로 clean continuation 명분이 사라졌습니다."
-    },
-    {
-      "symbol": "CBK",
-      "market": "KRW-CBK",
-      "reason": "+0.72%라도 15.6% 위치면 상단 지배력이 없어 코어 유지 불가입니다."
-    },
-    {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "-6.16%, 0.0% 위치, -18.08% gap으로 완전 붕괴했습니다."
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "495억원대 대금과 +16%대 수익률이 남아도 45% 위치·-14% 갭이면 exhausted fade입니다."
     },
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "거래대금 1위라도 52.6% 위치와 flat 수익률이면 headline liquidity일 뿐입니다."
+      "reason": "거래대금 1위지만 63% 위치와 -7%대 갭으로 cleaner top5 대비 우위가 부족합니다."
     },
     {
-      "symbol": "POLYX",
-      "market": "KRW-POLYX",
-      "reason": "+4.50%와 대금은 좋지만 51.6% 위치라 더 위에 있는 WIF·KAITO보다 후순위입니다."
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "구조는 버티지만 SYRUP·WIF보다 현재 상단 유지력이 약간 밀립니다."
+    },
+    {
+      "symbol": "HUNT",
+      "market": "KRW-HUNT",
+      "reason": "상승률은 높아도 27%대 위치·-28%대 갭이면 chase 금지 구간입니다."
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "체급은 좋지만 지금은 음수권·47%대 위치라 all-positive 바스켓 우선순위에서 밀립니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 1,221.2억원입니다.",
-    "momentum_discipline": "failed fresh 3종 퇴출, 현재 all-positive 5종으로 재편",
-    "diversification": "mega survivor 1 + beta continuation 1 + clean leader 1 + attention survivor 1 + small meme 1",
-    "cash_usage": "70%",
-    "rotation_speed": "very high"
+    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 275.9억원입니다.",
+    "momentum_discipline": "EDGE·POWR 전량 퇴출, all-positive 5종으로 재편",
+    "diversification": "listing momentum 1 + meme/platform 2 + liquid continuation 1 + defi continuation 1",
+    "cash_usage": "80%",
+    "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh 0 / conviction 3 / survivor 4 / reclaim 2"
+    "summary": "fresh 0 / conviction 1 / survivor 2 / reclaim 1"
   },
   "rotation_map": [
     {
-      "out": "QKC",
-      "in": "POWR",
-      "why": "20.7% failed fresh QKC 대신 75%+ 상단을 지키는 POWR로 교체합니다."
+      "out": "EDGE",
+      "in": "TOSHI",
+      "why": "깨진 mega-turnover leader 대신 상장 후속 85%대 range 모멘텀으로 교체합니다."
     },
     {
-      "out": "AQT",
-      "in": "CELO",
-      "why": "음전환한 AQT 대신 91.5% 위치의 CELO clean continuation을 승격합니다."
+      "out": "POWR",
+      "in": "PUMP",
+      "why": "fade가 큰 POWR 대신 70%대 clean continuation인 PUMP로 교체합니다."
     },
     {
-      "out": "CBK",
-      "in": "WIF",
-      "why": "15.6% 위치로 무너진 CBK 대신 85.7% 위치의 WIF clean beta를 채택합니다."
+      "out": "KAITO",
+      "in": "SYRUP",
+      "why": "attention survivor보다 구조가 더 안정적인 all-positive continuation으로 이동합니다."
     },
     {
-      "out": "EDGE(기존 유지)",
-      "in": "EDGE(유지)",
-      "why": "가장 큰 실거래대금 생존 코어라 비중만 줄여 유지합니다."
+      "out": "CELO(유지)",
+      "in": "CELO(유지)",
+      "why": "오늘도 실전 대금과 양수 구조가 남은 continuation이라 유지합니다."
     },
     {
-      "out": "KAITO(기존 유지)",
-      "in": "KAITO(유지)",
-      "why": "언락 부담에도 녹색을 지켜 attention survivor 슬롯으로 남깁니다."
+      "out": "WIF(유지)",
+      "in": "WIF(유지)",
+      "why": "작지만 가장 읽기 쉬운 밈 continuation 구조라 유지합니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. 메이저 평균이 45%+ 회복하고 fresh가 2개 이상 늘면 80% 재상향 검토.",
-    "review_trigger": "EDGE 154 / POWR 77.5 / CELO 101 / KAITO 865 / WIF 252 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. weak breadth_warning 해제 + fresh 2개 이상 복귀 시 85% 재상향 검토.",
+    "review_trigger": "TOSHI 0.209 / PUMP 2.19 / CELO 101 / WIF 261 / SYRUP 220 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "fresh 0 + major average 30%대면 85% 추격보다 70% 생존 바스켓 우선",
-      "같은 날 failed fresh는 재매수 금지",
-      "headline turnover보다 현재 range-position 유지력을 우선"
+      "weak breadth_warning true + fresh 0이면 90% 추격 금지",
+      "same-day leader가 45% 이하 range와 -15% 이하 gap이면 대금만 보고 보유 금지",
+      "현재 상단 유지력 > headline turnover"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 15.71,
+    "preferred_avg_change_pct_24h": 11.92,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 122124171462.99745,
-    "leader_turnover_share_pct": 58.05,
-    "leader_symbol": "EDGE"
+    "preferred_turnover_total_krw_24h": 27587133700.253906,
+    "leader_turnover_share_pct": 36.8,
+    "leader_symbol": "TOSHI"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "이번 회차 핵심은 메이저 붕괴에도 all-positive 5종을 유지하되, 실패한 오전 breakout을 모두 버리고 현재 생존주만 남긴 점입니다."
+    "comment": "이번 회차 핵심은 메이저가 완전히 살아나지 않은 상태에서 broken turnover leaders를 버리고 all-positive continuation 5종으로 다시 맞춘 점입니다."
   }
 }
