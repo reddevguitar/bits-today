@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 375358.706353419,
-  "realized_pnl_krw": -7596855.664191291,
-  "last_valuation_krw": 2502391.37568946,
-  "last_action": "REBALANCE_85_QKC_EDGE_AQT_CBK_KAITO",
-  "last_updated": "2026-06-28T09:58:00+09:00",
-  "trade_count": 1294,
+  "cash_krw": 738686.1629608781,
+  "realized_pnl_krw": -7636959.830011157,
+  "last_valuation_krw": 2462287.2098695934,
+  "last_action": "RESET_70_EDGE_POWR_CELO_KAITO_WIF",
+  "last_updated": "2026-06-28T15:58:00+09:00",
+  "trade_count": 1304,
   "positions": {
-    "QKC": {
-      "market": "KRW-QKC",
-      "amount": 113140.0356029809,
-      "avg_buy_price_krw": 3.76,
-      "last_price_krw": 3.76,
-      "value_krw": 425406.53386720817,
-      "thesis": "91.8억원 대금, +26.17%, 91.8% 위치로 현재 업비트 보드에서 유일하게 fresh breakout 성격이 가장 분명합니다.",
-      "strategy": "single fresh breakout with follow-through",
-      "role": "fresh breakout core",
-      "risk_limit_pct": 5.2,
-      "profit_take_pct": 11.0
-    },
     "EDGE": {
       "market": "KRW-EDGE",
-      "amount": 2995.8206610366774,
-      "avg_buy_price_krw": 142.0,
-      "last_price_krw": 142.0,
-      "value_krw": 425406.53386720817,
-      "thesis": "540.2억원 대금과 +11.81%, 76.0% 위치 조합으로 이번 회차 최상위 유동성 continuation 축입니다.",
-      "strategy": "high-turnover upper-range continuation",
-      "role": "liquid continuation anchor",
-      "risk_limit_pct": 4.6,
-      "profit_take_pct": 9.0
+      "amount": 2114.847910317442,
+      "avg_buy_price_krw": 163.0,
+      "last_price_krw": 163.0,
+      "value_krw": 344720.20938174304,
+      "thesis": "708.9억원 대금과 +28.35%가 남아 있고 76.9% 위치를 유지해, 약한 장에서도 실제 돈이 버틴 핵심 리더입니다.",
+      "strategy": "largest live continuation despite fade",
+      "role": "high-turnover survivor core",
+      "risk_limit_pct": 5.5,
+      "profit_take_pct": 10.0
     },
-    "AQT": {
-      "market": "KRW-AQT",
-      "amount": 1266.0908746047862,
-      "avg_buy_price_krw": 336.0,
-      "last_price_krw": 336.0,
-      "value_krw": 425406.53386720817,
-      "thesis": "94.1억원 대금, +3.07%, 84.6% 위치, -0.59% gap으로 과열보다 유지력이 더 선명합니다.",
-      "strategy": "tight-gap high-range continuation",
-      "role": "clean continuation core",
-      "risk_limit_pct": 3.3,
-      "profit_take_pct": 7.2
+    "POWR": {
+      "market": "KRW-POWR",
+      "amount": 4234.89200714672,
+      "avg_buy_price_krw": 81.4,
+      "last_price_krw": 81.4,
+      "value_krw": 344720.20938174304,
+      "thesis": "368.5억원 대금, +27.99%, 75.8% 위치로 오후 약세장에서도 실제 추격 유동성이 남은 두 번째 코어입니다.",
+      "strategy": "high-beta green survivor",
+      "role": "beta continuation core",
+      "risk_limit_pct": 4.8,
+      "profit_take_pct": 9.5
     },
-    "CBK": {
-      "market": "KRW-CBK",
-      "amount": 1427.5387042523764,
-      "avg_buy_price_krw": 298.0,
-      "last_price_krw": 298.0,
-      "value_krw": 425406.53386720817,
-      "thesis": "76.1억원 대금과 +7.97%, 78.1% 위치가 동시에 남아 5번째 공격 슬롯으로 충분히 읽힙니다.",
-      "strategy": "mid-cap momentum continuation",
-      "role": "secondary momentum slot",
-      "risk_limit_pct": 4.0,
-      "profit_take_pct": 8.5
+    "CELO": {
+      "market": "KRW-CELO",
+      "amount": 3314.6173979013756,
+      "avg_buy_price_krw": 104.0,
+      "last_price_krw": 104.0,
+      "value_krw": 344720.20938174304,
+      "thesis": "77.6억원 대금에 91.5% 위치와 -0.95% gap이 겹쳐, 오늘 톱5 중 구조가 가장 깔끔합니다.",
+      "strategy": "tight-gap upper-range continuation",
+      "role": "clean structure leader",
+      "risk_limit_pct": 3.6,
+      "profit_take_pct": 7.5
     },
     "KAITO": {
       "market": "KRW-KAITO",
-      "amount": 496.390354570838,
-      "avg_buy_price_krw": 857.0,
-      "last_price_krw": 857.0,
-      "value_krw": 425406.53386720817,
-      "thesis": "36.2억원으로 대금은 작지만 83.3% 위치와 -0.46% gap이 매우 깔끔해 attention 분산축으로 유지 가치가 있습니다.",
-      "strategy": "attention-backed clean hold",
-      "role": "attention continuation slot",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 6.8
+      "amount": 390.83923966184017,
+      "avg_buy_price_krw": 882.0,
+      "last_price_krw": 882.0,
+      "value_krw": 344720.20938174304,
+      "thesis": "54.7억원 대금과 +5.63% 양수 유지로, 7월 20일 언락 전에도 attention이 완전히 꺼지지 않았습니다.",
+      "strategy": "supply-overhang name that still holds green",
+      "role": "attention-backed survivor",
+      "risk_limit_pct": 2.5,
+      "profit_take_pct": 6.3
+    },
+    "WIF": {
+      "market": "KRW-WIF",
+      "amount": 1351.8439583597767,
+      "avg_buy_price_krw": 255.0,
+      "last_price_krw": 255.0,
+      "value_krw": 344720.20938174304,
+      "thesis": "절대 대금은 28.4억원으로 작지만 85.7% 위치와 -0.39% gap이 매우 깨끗해 5번째 분산 슬롯으로 적합합니다.",
+      "strategy": "tight-range high-position beta filler",
+      "role": "small clean meme slot",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.5
     }
   },
   "watchlist": [
     {
-      "symbol": "PIEVERSE",
-      "market": "KRW-PIEVERSE",
-      "reason": "228.9억원 대금은 크지만 위치가 88.2%→64.7%로 미끄러져 core에서는 강등. 75%+ 재회복 시 복귀 검토."
-    },
-    {
-      "symbol": "PROS",
-      "market": "KRW-PROS",
-      "reason": "+14.49%, 84.0억원 대금으로 뜨겁지만 -5.34% gap이 톱5보다 거칠어 watch 유지."
-    },
-    {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "reason": "84.6% 위치와 -0.28% gap은 좋지만 속도가 둔해 공격 바스켓보다는 품질 대체 후보입니다."
-    },
-    {
-      "symbol": "GLM",
-      "market": "KRW-GLM",
-      "reason": "117.3억원 대금과 +3.36% 양수지만 60.0% 위치로 톱5보단 한 단계 아래입니다."
-    },
-    {
-      "symbol": "MIRA",
-      "market": "KRW-MIRA",
-      "reason": "89.5% 위치는 좋지만 46.7억원 체급이라 core 승격 전 추가 확인이 필요합니다."
-    },
-    {
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "82.0% 위치와 +6.29%로 모양은 좋지만 대금 tier가 selected 5보다 낮습니다."
-    },
-    {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "1,337.3억원 초대금이어도 51.1% 위치면 여전히 headline liquidity일 뿐 core continuation은 아닙니다."
+      "reason": "1,240.7억원 초대금은 여전히 강하지만 52.6% 위치면 core는 아님. 60%+ 재회복 전까진 관찰만."
+    },
+    {
+      "symbol": "POLYX",
+      "market": "KRW-POLYX",
+      "reason": "79.9억원 대금과 +4.50%는 좋지만 위치가 51.6%로 낮아 톱5 진입 직전 대기."
+    },
+    {
+      "symbol": "CHIP",
+      "market": "KRW-CHIP",
+      "reason": "75.0% 위치와 -1.05% gap은 깔끔하지만 27.9억원 체급이라 core 승격 전 한 번 더 확인 필요."
+    },
+    {
+      "symbol": "QKC",
+      "market": "KRW-QKC",
+      "reason": "아침 fresh 코어였지만 현재 20.7% 위치·-17.92% gap로 완전 실패. 재상단 회복 전 재진입 금지."
+    },
+    {
+      "symbol": "ELF",
+      "market": "KRW-ELF",
+      "reason": "288.7억원 대금은 좋지만 -6.19% gap과 51.0% 위치가 거칠어 후순위."
+    },
+    {
+      "symbol": "SAFE",
+      "market": "KRW-SAFE",
+      "reason": "+7.38%지만 20.6억원 체급과 57.1% 위치라 보조 감시만."
+    },
+    {
+      "symbol": "CBK",
+      "market": "KRW-CBK",
+      "reason": "양수 유지에도 15.6% 위치로 무너져 재정비 전까진 탈락 유지."
     }
   ],
   "history": [
@@ -11753,6 +11753,96 @@
       "amount_delta": 496.390354570838,
       "cash_delta_krw": -425406.53386720817,
       "reason": "36.2억원으로 대금은 작지만 83.3% 위치와 -0.46% gap이 매우 깔끔해 attention 분산축으로 유지 가치가 있습니다."
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "QKC",
+      "action": "SELL",
+      "price_krw": 3.16,
+      "amount_delta": -113140.0356029809,
+      "cash_delta_krw": 357522.51250541967,
+      "reason": "메이저 평균 위치가 29.95%로 급락하고 fresh가 0이 돼, 깨진 85% 바스켓을 70% 생존형 바스켓으로 재설정"
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "EDGE",
+      "action": "SELL",
+      "price_krw": 163.0,
+      "amount_delta": -2995.8206610366774,
+      "cash_delta_krw": 488318.7677489784,
+      "reason": "메이저 평균 위치가 29.95%로 급락하고 fresh가 0이 돼, 깨진 85% 바스켓을 70% 생존형 바스켓으로 재설정"
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "AQT",
+      "action": "SELL",
+      "price_krw": 321.0,
+      "amount_delta": -1266.0908746047862,
+      "cash_delta_krw": 406415.17074813636,
+      "reason": "메이저 평균 위치가 29.95%로 급락하고 fresh가 0이 돼, 깨진 85% 바스켓을 70% 생존형 바스켓으로 재설정"
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "CBK",
+      "action": "SELL",
+      "price_krw": 278.0,
+      "amount_delta": -1427.5387042523764,
+      "cash_delta_krw": 396855.75978216063,
+      "reason": "메이저 평균 위치가 29.95%로 급락하고 fresh가 0이 돼, 깨진 85% 바스켓을 70% 생존형 바스켓으로 재설정"
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 882.0,
+      "amount_delta": -496.390354570838,
+      "cash_delta_krw": 437816.2927314791,
+      "reason": "메이저 평균 위치가 29.95%로 급락하고 fresh가 0이 돼, 깨진 85% 바스켓을 70% 생존형 바스켓으로 재설정"
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "EDGE",
+      "action": "BUY",
+      "price_krw": 163.0,
+      "amount_delta": 2114.847910317442,
+      "cash_delta_krw": -344720.20938174304,
+      "reason": "708.9억원 대금과 +28.35%가 남아 있고 76.9% 위치를 유지해, 약한 장에서도 실제 돈이 버틴 핵심 리더입니다."
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "POWR",
+      "action": "BUY",
+      "price_krw": 81.4,
+      "amount_delta": 4234.89200714672,
+      "cash_delta_krw": -344720.20938174304,
+      "reason": "368.5억원 대금, +27.99%, 75.8% 위치로 오후 약세장에서도 실제 추격 유동성이 남은 두 번째 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "CELO",
+      "action": "BUY",
+      "price_krw": 104.0,
+      "amount_delta": 3314.6173979013756,
+      "cash_delta_krw": -344720.20938174304,
+      "reason": "77.6억원 대금에 91.5% 위치와 -0.95% gap이 겹쳐, 오늘 톱5 중 구조가 가장 깔끔합니다."
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "BUY",
+      "price_krw": 882.0,
+      "amount_delta": 390.83923966184017,
+      "cash_delta_krw": -344720.20938174304,
+      "reason": "54.7억원 대금과 +5.63% 양수 유지로, 7월 20일 언락 전에도 attention이 완전히 꺼지지 않았습니다."
+    },
+    {
+      "timestamp": "2026-06-28T15:58:00+09:00",
+      "symbol": "WIF",
+      "action": "BUY",
+      "price_krw": 255.0,
+      "amount_delta": 1351.8439583597767,
+      "cash_delta_krw": -344720.20938174304,
+      "reason": "절대 대금은 28.4억원으로 작지만 85.7% 위치와 -0.39% gap이 매우 깨끗해 5번째 분산 슬롯으로 적합합니다."
     }
   ]
 }
