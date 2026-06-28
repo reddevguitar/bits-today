@@ -1,66 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-28 03:59 KST
-- 기준 한줄: **메이저 평균 위치 53.3%로 급락**했지만 **RE·PIEVERSE fresh 2개 + ARX continuation**은 살아 있습니다. 그래서 **SLX·AAVE를 빼고 RE·PIEVERSE·ARX·IN·KAITO 80% 바스켓**으로 재편합니다.
-- 시장 한줄 요약: 메이저는 완전 붕괴는 아니지만 보드 질은 아직 거칩니다. **fresh 2 / conviction 3 / survivor 6 / reclaim 6 / weak breadth 유지**라서 **큰 양봉보다 실제 상단 체류**가 더 중요합니다.
+- 시각: 2026-06-28 09:58 KST
+- 기준 한줄: **메이저 평균 위치 68.3%로 회복**했지만 **RE·ARX는 실제로 깨졌습니다.** 그래서 **QKC·EDGE·AQT·CBK·KAITO 85% 바스켓**으로 즉시 리셋합니다.
+- 시장 한줄 요약: **메이저는 회복, breadth 경고는 해제**됐지만 fresh는 **QKC 1개**뿐입니다. 그래서 **old leader 평균단가 방어보다 all-positive 상단 보유군**이 우선입니다.
 - 공포탐욕지수: **15 (Extreme Fear)**
-- BTC 참고: **BTC 91.823M원 / ETH 2.416M원 / XRP 1,607원 / SOL 109.1K원**
+- BTC 참고: **BTC 91.271M원 / ETH 2.388M원 / XRP 1,594원 / SOL 107.4K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🧲 **RE** — 1,031원 / **+21.58%** / 446.9억원 / 위치 **90.4%** / fresh listing breakout core
-- 🎮 **PIEVERSE** — 1,267원 / **+27.08%** / 199.9억원 / 위치 **90.2%** / secondary fresh breakout
-- 🧪 **ARX** — 463원 / **+14.04%** / 490.6억원 / 위치 **83.9%** / liquid continuation anchor
-- ♾️ **IN** — 162원 / **+5.88%** / 42.3억원 / 위치 **87.5%** / small-cap clean continuation
-- 🧠 **KAITO** — 856원 / **+7.94%** / 35.5억원 / 위치 **76.5%** / attention continuation
+- 🧨 **QKC** — 3.76원 / **+26.17%** / 92.0억원 / 위치 **91.8%** / fresh breakout core
+- 🗡️ **EDGE** — 142원 / **+11.81%** / 540.2억원 / 위치 **76.0%** / liquid continuation anchor
+- 🔷 **AQT** — 336원 / **+3.07%** / 94.1억원 / 위치 **84.6%** / clean continuation core
+- 🏦 **CBK** — 298원 / **+7.97%** / 76.1억원 / 위치 **78.1%** / secondary momentum slot
+- 🧠 **KAITO** — 857원 / **+2.63%** / 36.2억원 / 위치 **83.3%** / attention continuation slot
 
 ## 제외된 메이저 참고 신호
-- BTC **68.7%** / ETH **57.9%** / XRP **51.0%** / SOL **35.7%**
-- 메이저 평균 **53.33% 위치**, **3종 양수·1종 보합**
-- 즉 **메이저는 버티지만 추세 확산 속도는 둔화**된 상태입니다.
+- BTC **87.5%** / ETH **22.2%** / XRP **77.8%** / SOL **85.7%**
+- 메이저 평균 **68.30% 위치**, **3종 양수·1종 보합**
+- 즉 **메이저는 회복했지만 ETH가 아직 눌려 있어 선택적 공격**이 맞습니다.
 
 ## 공격 포트폴리오 전략
-- 실투입: **80%**, 5종 동일비중
-- 타깃: 각 약 **408,150원**
-- 현금: 약 **510,187원 (20.0%)**
-- 핵심 논리: **fresh 2 + continuation 3 / exhausted leader 배제 / weak breadth 대응 유지**
+- 실투입: **85%**, 5종 동일비중
+- 타깃: 각 약 **425,407원**
+- 현금: 약 **375,359원 (15.0%)**
+- 핵심 논리: **failed fresh 퇴출 / fresh 1 + clean continuation 4 / weak breadth 해제 반영**
 
 ## 가상 매매 실행 내용
-- ❌ **전량 정리:** SLX / AAVE
-- 🔁 **유지·재편:** ARX / PIEVERSE / KAITO
-- ✅ **신규:** RE / IN
-- 마지막 액션: **REBALANCE_80_RE_PIEVERSE_ARX_IN_KAITO**
+- ❌ **전량 정리:** RE / PIEVERSE / ARX / IN / KAITO(재매수 전 리밸런스)
+- ✅ **신규:** QKC / EDGE / AQT / CBK
+- 🔁 **유지 재편:** KAITO
+- 마지막 액션: **REBALANCE_85_QKC_EDGE_AQT_CBK_KAITO**
 
 ## 현재 포트폴리오 현황
-- RE **395.8776개 @ 1,031원**
-- PIEVERSE **322.1387개 @ 1,267원**
-- ARX **881.5330개 @ 463원**
-- IN **2,519.4431개 @ 162원**
-- KAITO **476.8105개 @ 856원**
-- 현금 **510,187원** / 총평가 **2,550,936원**
+- QKC **113,140.0356개 @ 3.76원**
+- EDGE **2,995.8207개 @ 142원**
+- AQT **1,266.0909개 @ 336원**
+- CBK **1,427.5387개 @ 298원**
+- KAITO **496.3904개 @ 857원**
+- 현금 **375,359원** / 총평가 **2,502,391원**
 
 ## 자기 평가
-- 장점: **SLX의 초대금 함정을 인정하고 fresh/continuation 리더로 빠르게 갈아탔습니다.**
-- 아쉬움: **직전 회차 fresh 1개로 너무 의존한 점은 리더 붕괴 시 리스크를 키웠습니다.**
-- 점수: **9.0 / 10**
+- 장점: **RE·ARX broken fresh를 바로 인정하고 평균단가 방어를 하지 않았습니다.**
+- 아쉬움: **PIEVERSE 약화도 더 빨리 줄일 수 있었는데 한 사이클 더 기다렸습니다.**
+- 점수: **9.1 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 ‘+25% 이상 급등 후 60% 미만 위치·-15% 이하 gap이면 exhausted blowoff’ 규칙 추가**
-- ✅ **리포트에서 fresh 후보와 exhausted leader를 분리해 SLX 같은 함정 대금을 더 빨리 보이게 개선**
-- ✅ **대금 1위 고집 대신 fresh 2 + continuation 3 구조로 바스켓 설계를 단순화**
+- ✅ **DECISIONS.md에 ‘breadth 회복 후에도 기존 fresh 2개 이상이 invalidation을 깨면 85% all-positive 리셋’ 규칙 추가**
+- ✅ **리포트에서 failed fresh 퇴출과 clean continuation 승격을 더 분리해 표기**
+- ✅ **80%→85% 단계형 재리스크 규칙을 실제 포트폴리오에 반영**
 
 ## 판단
-- **aggressive-80-fresh-duo-plus-clean-continuations**
+- **aggressive-85-one-fresh-four-clean-continuations**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **RE 997 / PIEVERSE 1225 / ARX 449 / IN 157 / KAITO 840** 하회 시 즉시 재평가
-- **SLX**는 70%+ range 재회복 전까진 재진입 보류
-- **NEAR / CELO / CHIP**은 대체 후보로 계속 감시
+- **QKC 3.57 / EDGE 136 / AQT 330 / CBK 290 / KAITO 848** 하회 시 즉시 재평가
+- **PIEVERSE**는 75%+ range 재회복 전까진 watch 유지
+- **PROS / AAVE / GLM**은 대체 후보로 계속 감시
 
 ## 리스크 메모
-- **weak_breadth_warning=true**라 개별 실패가 바로 나올 수 있습니다.
-- **RE·PIEVERSE**는 fresh 코어지만 급등 후속주라 변동성이 큽니다.
-- **IN·KAITO**는 구조는 좋지만 절대 대금이 작아 흔들림이 빠를 수 있습니다.
-- **SLX**처럼 초대금도 same-day gap이 크게 벌어지면 더는 리더가 아닙니다.
+- **fresh breakout은 QKC 1개뿐**이라 이 슬롯 실패 시 회전 속도가 빨라질 수 있습니다.
+- **ETH 22.2% 위치**가 회복되지 않으면 breadth 재악화가 다시 나올 수 있습니다.
+- **KAITO·CBK**는 구조는 좋지만 절대 대금이 작아 흔들림이 빠를 수 있습니다.
+- **SLX**는 초대금이어도 mid-range라 headline liquidity 함정 가능성이 큽니다.

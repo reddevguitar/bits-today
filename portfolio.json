@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 510187.2263358135,
-  "realized_pnl_krw": -7548310.908201683,
-  "last_valuation_krw": 2550936.1316790665,
-  "last_action": "REBALANCE_80_RE_PIEVERSE_ARX_IN_KAITO",
-  "last_updated": "2026-06-28T03:59:00+09:00",
-  "trade_count": 1284,
+  "cash_krw": 375358.706353419,
+  "realized_pnl_krw": -7596855.664191291,
+  "last_valuation_krw": 2502391.37568946,
+  "last_action": "REBALANCE_85_QKC_EDGE_AQT_CBK_KAITO",
+  "last_updated": "2026-06-28T09:58:00+09:00",
+  "trade_count": 1294,
   "positions": {
-    "RE": {
-      "market": "KRW-RE",
-      "amount": 395.8775762062567,
-      "avg_buy_price_krw": 1031.0,
-      "last_price_krw": 1031.0,
-      "value_krw": 408149.78106865066,
-      "thesis": "446.9억원 대금, +21.58%, 90.4% 위치, 고점 대비 -2.18%로 이번 새벽 업비트에서 가장 읽기 쉬운 신규 주도주입니다.",
-      "strategy": "clean high-range breakout continuation",
-      "role": "fresh listing breakout core",
-      "risk_limit_pct": 3.8,
+    "QKC": {
+      "market": "KRW-QKC",
+      "amount": 113140.0356029809,
+      "avg_buy_price_krw": 3.76,
+      "last_price_krw": 3.76,
+      "value_krw": 425406.53386720817,
+      "thesis": "91.8억원 대금, +26.17%, 91.8% 위치로 현재 업비트 보드에서 유일하게 fresh breakout 성격이 가장 분명합니다.",
+      "strategy": "single fresh breakout with follow-through",
+      "role": "fresh breakout core",
+      "risk_limit_pct": 5.2,
+      "profit_take_pct": 11.0
+    },
+    "EDGE": {
+      "market": "KRW-EDGE",
+      "amount": 2995.8206610366774,
+      "avg_buy_price_krw": 142.0,
+      "last_price_krw": 142.0,
+      "value_krw": 425406.53386720817,
+      "thesis": "540.2억원 대금과 +11.81%, 76.0% 위치 조합으로 이번 회차 최상위 유동성 continuation 축입니다.",
+      "strategy": "high-turnover upper-range continuation",
+      "role": "liquid continuation anchor",
+      "risk_limit_pct": 4.6,
       "profit_take_pct": 9.0
     },
-    "PIEVERSE": {
-      "market": "KRW-PIEVERSE",
-      "amount": 322.1387380178774,
-      "avg_buy_price_krw": 1267.0,
-      "last_price_krw": 1267.0,
-      "value_krw": 408149.78106865066,
-      "thesis": "199.9억원 대금, +27.08%, 90.2% 위치, -2.24% gap으로 상장 잔열이 다시 상단 유지형으로 번졌습니다.",
-      "strategy": "listing-tail continuation with real hold",
-      "role": "secondary fresh breakout",
-      "risk_limit_pct": 4.4,
-      "profit_take_pct": 10.0
+    "AQT": {
+      "market": "KRW-AQT",
+      "amount": 1266.0908746047862,
+      "avg_buy_price_krw": 336.0,
+      "last_price_krw": 336.0,
+      "value_krw": 425406.53386720817,
+      "thesis": "94.1억원 대금, +3.07%, 84.6% 위치, -0.59% gap으로 과열보다 유지력이 더 선명합니다.",
+      "strategy": "tight-gap high-range continuation",
+      "role": "clean continuation core",
+      "risk_limit_pct": 3.3,
+      "profit_take_pct": 7.2
     },
-    "ARX": {
-      "market": "KRW-ARX",
-      "amount": 881.533004467928,
-      "avg_buy_price_krw": 463.0,
-      "last_price_krw": 463.0,
-      "value_krw": 408149.78106865066,
-      "thesis": "490.6억원 대금과 +14.04%, 83.9% 위치가 동시에 남아 있어 가장 믿을 만한 대금형 continuation 축입니다.",
-      "strategy": "size-backed continuation leader",
-      "role": "liquid continuation anchor",
-      "risk_limit_pct": 3.6,
-      "profit_take_pct": 8.0
-    },
-    "IN": {
-      "market": "KRW-IN",
-      "amount": 2519.443093016362,
-      "avg_buy_price_krw": 162.0,
-      "last_price_krw": 162.0,
-      "value_krw": 408149.78106865066,
-      "thesis": "42.3억원 대금은 크지 않지만 +5.88%, 87.5% 위치, -1.22% gap이라 작은 체급 중 가장 깨끗한 continuation입니다.",
-      "strategy": "secondary high-range momentum",
-      "role": "small-cap clean continuation",
-      "risk_limit_pct": 3.5,
-      "profit_take_pct": 7.5
+    "CBK": {
+      "market": "KRW-CBK",
+      "amount": 1427.5387042523764,
+      "avg_buy_price_krw": 298.0,
+      "last_price_krw": 298.0,
+      "value_krw": 425406.53386720817,
+      "thesis": "76.1억원 대금과 +7.97%, 78.1% 위치가 동시에 남아 5번째 공격 슬롯으로 충분히 읽힙니다.",
+      "strategy": "mid-cap momentum continuation",
+      "role": "secondary momentum slot",
+      "risk_limit_pct": 4.0,
+      "profit_take_pct": 8.5
     },
     "KAITO": {
       "market": "KRW-KAITO",
-      "amount": 476.8104919026293,
-      "avg_buy_price_krw": 856.0,
-      "last_price_krw": 856.0,
-      "value_krw": 408149.78106865066,
-      "thesis": "35.5억원 대금, +7.94%, 76.5% 위치, -2.62% gap으로 과열보다 유지형에 가까운 attention continuation입니다.",
-      "strategy": "clean attention continuation",
-      "role": "attention-backed continuation",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 6.5
+      "amount": 496.390354570838,
+      "avg_buy_price_krw": 857.0,
+      "last_price_krw": 857.0,
+      "value_krw": 425406.53386720817,
+      "thesis": "36.2억원으로 대금은 작지만 83.3% 위치와 -0.46% gap이 매우 깔끔해 attention 분산축으로 유지 가치가 있습니다.",
+      "strategy": "attention-backed clean hold",
+      "role": "attention continuation slot",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 6.8
     }
   },
   "watchlist": [
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "1,150.9억원 초대금이어도 54.0% 위치·-18.62% gap이면 exhausted blowoff에 가깝습니다. 70%+ 재회복 전까진 재진입 보류입니다."
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "228.9억원 대금은 크지만 위치가 88.2%→64.7%로 미끄러져 core에서는 강등. 75%+ 재회복 시 복귀 검토."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "67.5억원, +4.39%, 66.2% 위치라 품질형 대체 1순위입니다."
-    },
-    {
-      "symbol": "CELO",
-      "market": "KRW-CELO",
-      "reason": "57.4억원, +9.08%, 65.9% 위치로 mid-cap continuation 대체 후보입니다."
-    },
-    {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "27.3억원, +6.58%, 84.8% 위치로 모양은 좋지만 liquidity tier가 톱5보다 낮습니다."
-    },
-    {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "83.8억원, +0.88%, 66.7% 위치로 메이저성 컨텍스트는 좋지만 preferred 톱5보단 둔합니다."
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "reason": "+14.49%, 84.0억원 대금으로 뜨겁지만 -5.34% gap이 톱5보다 거칠어 watch 유지."
     },
     {
       "symbol": "AAVE",
       "market": "KRW-AAVE",
-      "reason": "체급은 좋지만 이번 새벽 보드에서는 대금과 속도가 RE·ARX·PIEVERSE보다 약해 우선순위가 밀렸습니다."
+      "reason": "84.6% 위치와 -0.28% gap은 좋지만 속도가 둔해 공격 바스켓보다는 품질 대체 후보입니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "176.5억원과 양수 전환에도 41.7% 위치면 아직 중단 bounce라 톱5 승격은 이릅니다."
+      "symbol": "GLM",
+      "market": "KRW-GLM",
+      "reason": "117.3억원 대금과 +3.36% 양수지만 60.0% 위치로 톱5보단 한 단계 아래입니다."
+    },
+    {
+      "symbol": "MIRA",
+      "market": "KRW-MIRA",
+      "reason": "89.5% 위치는 좋지만 46.7억원 체급이라 core 승격 전 추가 확인이 필요합니다."
+    },
+    {
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "82.0% 위치와 +6.29%로 모양은 좋지만 대금 tier가 selected 5보다 낮습니다."
+    },
+    {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "1,337.3억원 초대금이어도 51.1% 위치면 여전히 headline liquidity일 뿐 core continuation은 아닙니다."
     }
   ],
   "history": [
@@ -11663,6 +11663,96 @@
       "amount_delta": 476.8104919026293,
       "cash_delta_krw": -408149.78106865066,
       "reason": "35.5억원 대금, +7.94%, 76.5% 위치, -2.62% gap으로 과열보다 유지형에 가까운 attention continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "RE",
+      "action": "SELL",
+      "price_krw": 977.0,
+      "amount_delta": -395.8775762062567,
+      "cash_delta_krw": 386772.3919535128,
+      "reason": "RE·ARX invalidation 이탈과 breadth 정상화에 맞춰 failed fresh 바스켓을 all-positive high-range 5종으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "PIEVERSE",
+      "action": "SELL",
+      "price_krw": 1241.0,
+      "amount_delta": -322.1387380178774,
+      "cash_delta_krw": 399774.1738801859,
+      "reason": "RE·ARX invalidation 이탈과 breadth 정상화에 맞춰 failed fresh 바스켓을 all-positive high-range 5종으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "ARX",
+      "action": "SELL",
+      "price_krw": 444.0,
+      "amount_delta": -881.533004467928,
+      "cash_delta_krw": 391400.65398376004,
+      "reason": "RE·ARX invalidation 이탈과 breadth 정상화에 맞춰 failed fresh 바스켓을 all-positive high-range 5종으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "IN",
+      "action": "SELL",
+      "price_krw": 161.0,
+      "amount_delta": -2519.443093016362,
+      "cash_delta_krw": 405630.3379756343,
+      "reason": "RE·ARX invalidation 이탈과 breadth 정상화에 맞춰 failed fresh 바스켓을 all-positive high-range 5종으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 857.0,
+      "amount_delta": -476.8104919026293,
+      "cash_delta_krw": 408626.5915605533,
+      "reason": "RE·ARX invalidation 이탈과 breadth 정상화에 맞춰 failed fresh 바스켓을 all-positive high-range 5종으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "QKC",
+      "action": "BUY",
+      "price_krw": 3.76,
+      "amount_delta": 113140.0356029809,
+      "cash_delta_krw": -425406.53386720817,
+      "reason": "91.8억원 대금, +26.17%, 91.8% 위치로 현재 업비트 보드에서 유일하게 fresh breakout 성격이 가장 분명합니다."
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "EDGE",
+      "action": "BUY",
+      "price_krw": 142.0,
+      "amount_delta": 2995.8206610366774,
+      "cash_delta_krw": -425406.53386720817,
+      "reason": "540.2억원 대금과 +11.81%, 76.0% 위치 조합으로 이번 회차 최상위 유동성 continuation 축입니다."
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "AQT",
+      "action": "BUY",
+      "price_krw": 336.0,
+      "amount_delta": 1266.0908746047862,
+      "cash_delta_krw": -425406.53386720817,
+      "reason": "94.1억원 대금, +3.07%, 84.6% 위치, -0.59% gap으로 과열보다 유지력이 더 선명합니다."
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "CBK",
+      "action": "BUY",
+      "price_krw": 298.0,
+      "amount_delta": 1427.5387042523764,
+      "cash_delta_krw": -425406.53386720817,
+      "reason": "76.1억원 대금과 +7.97%, 78.1% 위치가 동시에 남아 5번째 공격 슬롯으로 충분히 읽힙니다."
+    },
+    {
+      "timestamp": "2026-06-28T09:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "BUY",
+      "price_krw": 857.0,
+      "amount_delta": 496.390354570838,
+      "cash_delta_krw": -425406.53386720817,
+      "reason": "36.2억원으로 대금은 작지만 83.3% 위치와 -0.46% gap이 매우 깔끔해 attention 분산축으로 유지 가치가 있습니다."
     }
   ]
 }
