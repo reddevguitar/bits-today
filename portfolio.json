@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 476476.10669917846,
+  "cash_krw": 568223.8049741728,
   "realized_pnl_krw": -7716866.506384857,
-  "last_valuation_krw": 2382380.5334958937,
-  "last_action": "RESET_80_TOSHI_PUMP_CELO_WIF_SYRUP",
-  "last_updated": "2026-06-28T21:58:00+09:00",
-  "trade_count": 1314,
+  "last_valuation_krw": 2272895.2198966914,
+  "last_action": "RESET_75_SLX_KAITO_JTO_CELO_PUMP",
+  "last_updated": "2026-06-29T03:58:00+09:00",
+  "trade_count": 1324,
   "positions": {
-    "TOSHI": {
-      "market": "KRW-TOSHI",
-      "amount": 1740551.9879422055,
-      "avg_buy_price_krw": 0.219,
-      "last_price_krw": 0.219,
-      "value_krw": 381180.885359343,
-      "thesis": "101.5억원 대금과 +31.93%, 85.7% 위치가 남아 있어 업비트 상장 후속 모멘텀이 아직 살아 있습니다.",
-      "strategy": "listing-follow-through with still-live meme demand",
-      "role": "upbit-listing momentum core",
-      "risk_limit_pct": 5.8,
-      "profit_take_pct": 11.5
+    "SLX": {
+      "market": "KRW-SLX",
+      "amount": 389.6391805537185,
+      "avg_buy_price_krw": 875.0,
+      "last_price_krw": 875.0,
+      "value_krw": 340934.2829845037,
+      "thesis": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다.",
+      "strategy": "fresh breakout anchor with strongest real turnover",
+      "role": "mega-liquidity fresh breakout core",
+      "risk_limit_pct": 3.8,
+      "profit_take_pct": 9.5
     },
-    "PUMP": {
-      "market": "KRW-PUMP",
-      "amount": 170170.03810684956,
-      "avg_buy_price_krw": 2.24,
-      "last_price_krw": 2.24,
-      "value_krw": 381180.8853593431,
-      "thesis": "43.5억원 대금, +8.74%, 73.1% 위치와 -3% 안쪽 갭으로 현재 밈/플랫폼 계열 중 구조가 가장 깔끔합니다.",
-      "strategy": "high-range continuation with tighter gap than old leaders",
-      "role": "clean meme-platform continuation",
-      "risk_limit_pct": 4.6,
-      "profit_take_pct": 9.0
+    "KAITO": {
+      "market": "KRW-KAITO",
+      "amount": 386.5468061048795,
+      "avg_buy_price_krw": 882.0,
+      "last_price_krw": 882.0,
+      "value_krw": 340934.2829845037,
+      "thesis": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다.",
+      "strategy": "positive survivor with cleaner gap than other mid-cap leaders",
+      "role": "clean attention survivor",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 7.0
+    },
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 272.9657990268244,
+      "avg_buy_price_krw": 1249.0,
+      "last_price_krw": 1249.0,
+      "value_krw": 340934.2829845037,
+      "thesis": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다.",
+      "strategy": "liquid 60% survivor paired with SOL relative strength",
+      "role": "solana-ecosystem survivor",
+      "risk_limit_pct": 3.6,
+      "profit_take_pct": 6.8
     },
     "CELO": {
       "market": "KRW-CELO",
-      "amount": 3665.2008207629137,
-      "avg_buy_price_krw": 104.0,
-      "last_price_krw": 104.0,
-      "value_krw": 381180.885359343,
-      "thesis": "76.7억원 대금에 +10.40%를 유지하고 있어, 깨진 대금주보다 지금 남아 있는 continuation이 더 낫습니다.",
-      "strategy": "survivor continuation with real turnover",
-      "role": "liquid clean continuation",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 8.0
+      "amount": 3310.0415823738226,
+      "avg_buy_price_krw": 103.0,
+      "last_price_krw": 103.0,
+      "value_krw": 340934.2829845037,
+      "thesis": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다.",
+      "strategy": "keep only as smaller equal-weight survivor, not a chase",
+      "role": "liquid continuation survivor",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 6.5
     },
-    "WIF": {
-      "market": "KRW-WIF",
-      "amount": 1449.3569785526352,
-      "avg_buy_price_krw": 263.0,
-      "last_price_krw": 263.0,
-      "value_krw": 381180.885359343,
-      "thesis": "절대 대금은 19.0억원으로 작지만 +4.37%, 56.0% 위치, -2% 안쪽 갭이 매우 깨끗합니다.",
-      "strategy": "small but clean high-range continuation",
-      "role": "small-beta clean meme slot",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 7.0
-    },
-    "SYRUP": {
-      "market": "KRW-SYRUP",
-      "amount": 1694.1372682637468,
-      "avg_buy_price_krw": 225.0,
-      "last_price_krw": 225.0,
-      "value_krw": 381180.885359343,
-      "thesis": "35.2억원 대금, +4.17%, 58.8% 위치와 -2.6% 갭으로 5번째 분산 continuation 슬롯에 적합합니다.",
-      "strategy": "clean mid-cap continuation with tight gap",
-      "role": "defi continuation slot",
-      "risk_limit_pct": 3.2,
-      "profit_take_pct": 7.2
+    "PUMP": {
+      "market": "KRW-PUMP",
+      "amount": 156391.87292867142,
+      "avg_buy_price_krw": 2.18,
+      "last_price_krw": 2.18,
+      "value_krw": 340934.2829845037,
+      "thesis": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다.",
+      "strategy": "reduced-size equal-weight beta slot with tighter stop",
+      "role": "headline-beta survivor",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 6.0
     }
   },
   "watchlist": [
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "1,700억원대 초대금은 압도적이지만 day-high gap -7%대와 60%대 위치라 headline liquidity 성격이 남습니다."
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "21% 상승과 592억원 대금은 강하지만 -11.6% 갭이 너무 커 exhausted blowoff 경고를 무시하기 어렵습니다."
     },
     {
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "reason": "양수와 54%대 위치는 유지했지만 7월 20일 언락 부담 때문에 이번엔 watch로 한 칸 낮춥니다."
+      "symbol": "TOSHI",
+      "market": "KRW-TOSHI",
+      "reason": "152억원 대금과 +9.64%가 남아도 27.0% 위치·-20.18% 갭이면 상장 follow-through는 이미 깨졌습니다."
     },
     {
-      "symbol": "WAL",
-      "market": "KRW-WAL",
-      "reason": "62%대 구조와 +5%는 좋지만 SYRUP보다 체급/구조 우위가 약간 밀려 보조 감시로 둡니다."
+      "symbol": "HUNT",
+      "market": "KRW-HUNT",
+      "reason": "387억원 대금과 +13.28%에도 25.0% 위치·-29.27% 갭이라 전형적인 turnover trap입니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "체급은 좋지만 현재는 음수권·47%대 위치라 preferred 바스켓보다 watch가 맞습니다."
-    },
-    {
-      "symbol": "EDGE",
-      "market": "KRW-EDGE",
-      "reason": "458억원대 대금에도 28% 위치·-21% 갭이면 이번 회차는 명확한 turnover trap입니다."
-    },
-    {
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "495억원대 대금과 양수에도 45% 위치·-14% 갭이면 late-session fade가 너무 큽니다."
+      "reason": "체급과 갭은 깔끔하지만 현재는 -0.10%와 52.4% 위치라 5개 긍정 후보보다 한 단계 아래입니다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "대금은 충분하지만 현재 음수권·40% 위치라 공격 포트폴리오 5위보다 후순위입니다."
+      "reason": "-1.06%라도 갭은 단정하지만 33.3% 위치로 새벽 생존주 승격 기준에는 미달입니다."
+    },
+    {
+      "symbol": "WIF",
+      "market": "KRW-WIF",
+      "reason": "+2.78%를 지켜도 40.0% 위치·16억원 대금이면 이번 회차 공격 바스켓 우선순위에서 밀립니다."
+    },
+    {
+      "symbol": "SYRUP",
+      "market": "KRW-SYRUP",
+      "reason": "가격이 음전환되고 18.5% 위치로 무너져 디파이 continuation 가정이 깨졌습니다."
     }
   ],
   "history": [
@@ -11933,6 +11933,96 @@
       "amount_delta": 1694.1372682637468,
       "cash_delta_krw": -381180.885359343,
       "reason": "35.2억원 대금, +4.17%, 58.8% 위치와 -2.6% 갭으로 5번째 분산 continuation 슬롯에 적합합니다."
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "TOSHI",
+      "action": "SELL",
+      "price_krw": 0.182,
+      "amount_delta": -1740551.9879422055,
+      "cash_delta_krw": 316780.4618054814,
+      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "PUMP",
+      "action": "SELL",
+      "price_krw": 2.18,
+      "amount_delta": -170170.03810684956,
+      "cash_delta_krw": 370970.68307293206,
+      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "CELO",
+      "action": "SELL",
+      "price_krw": 103.0,
+      "amount_delta": -3665.2008207629137,
+      "cash_delta_krw": 377515.6845385801,
+      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "WIF",
+      "action": "SELL",
+      "price_krw": 259.0,
+      "amount_delta": -1449.3569785526352,
+      "cash_delta_krw": 375383.4574451325,
+      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "SYRUP",
+      "action": "SELL",
+      "price_krw": 210.0,
+      "amount_delta": -1694.1372682637468,
+      "cash_delta_krw": 355768.82633538684,
+      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "SLX",
+      "action": "BUY",
+      "price_krw": 875.0,
+      "amount_delta": 389.6391805537185,
+      "cash_delta_krw": -340934.2829845037,
+      "reason": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "BUY",
+      "price_krw": 882.0,
+      "amount_delta": 386.5468061048795,
+      "cash_delta_krw": -340934.2829845037,
+      "reason": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다."
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1249.0,
+      "amount_delta": 272.9657990268244,
+      "cash_delta_krw": -340934.2829845037,
+      "reason": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다."
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "CELO",
+      "action": "BUY",
+      "price_krw": 103.0,
+      "amount_delta": 3310.0415823738226,
+      "cash_delta_krw": -340934.2829845037,
+      "reason": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다."
+    },
+    {
+      "timestamp": "2026-06-29T03:58:00+09:00",
+      "symbol": "PUMP",
+      "action": "BUY",
+      "price_krw": 2.18,
+      "amount_delta": 156391.87292867142,
+      "cash_delta_krw": -340934.2829845037,
+      "reason": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다."
     }
   ]
 }

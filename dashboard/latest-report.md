@@ -1,66 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-28 21:58 KST
-- 기준 한줄: **메이저 평균 위치 42.53%로 아직 낮고** **fresh breakout 0개**입니다. 그래서 **EDGE·POWR를 버리고 TOSHI·PUMP·CELO·WIF·SYRUP 80% 바스켓**으로 재편합니다.
-- 시장 한줄 요약: **메이저는 약반등 수준**, **알트 breadth는 아직 약함**입니다. 지금은 **고대금 실패주 방어보다 현재 상단을 지키는 all-positive 5종**이 더 낫습니다.
+- 시각: 2026-06-29 03:58 KST
+- 기준 한줄: **메이저 평균 위치 31.12%로 재붕괴**, **기존 보유 3종(TOSHI·WIF·SYRUP)이 사실상 깨졌습니다.** 그래서 **SLX 중심 75% 바스켓**으로 즉시 재편합니다.
+- 시장 한줄 요약: **메이저는 다시 약해졌고**, **알트 breadth도 매우 좁습니다.** 지금은 **SLX 1개 fresh + 4개 clean survivor** 구성이 최선입니다.
 - 공포탐욕지수: **18 (Extreme Fear)**
-- BTC 참고: **BTC 91.068M원 / ETH 2.390M원 / XRP 1,589.0원 / SOL 108.3K원**
+- BTC 참고: **BTC 90.380M원 / ETH 2.385M원 / XRP 1,587.0원 / SOL 108.0K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🐱 **TOSHI** — 0.219원 / **+31.93%** / 101.5억원 / 위치 **85.7%** / upbit-listing momentum core
-- 🚀 **PUMP** — 2.24원 / **+8.74%** / 43.5억원 / 위치 **73.1%** / clean meme-platform continuation
-- 🟡 **CELO** — 104.0원 / **+10.40%** / 76.7억원 / 위치 **60.5%** / liquid clean continuation
-- 🐶 **WIF** — 263.0원 / **+4.37%** / 19.0억원 / 위치 **56.0%** / small-beta clean meme slot
-- 🏦 **SYRUP** — 225.0원 / **+4.17%** / 35.2억원 / 위치 **58.8%** / defi continuation slot
+- 🌞 **SLX** — 875원 / **+8.56%** / 1,548.2억원 / 위치 **95.4%** / mega-liquidity fresh breakout core
+- 🧠 **KAITO** — 882원 / **+5.63%** / 63.4억원 / 위치 **57.0%** / clean attention survivor
+- 🪂 **JTO** — 1,249원 / **+0.89%** / 63.3억원 / 위치 **60.3%** / solana-ecosystem survivor
+- 🟡 **CELO** — 103원 / **+9.34%** / 84.0억원 / 위치 **54.8%** / liquid continuation survivor
+- 🚀 **PUMP** — 2.18원 / **+5.83%** / 45.3억원 / 위치 **50.0%** / headline-beta survivor
 
 ## 제외된 메이저 참고 신호
-- BTC **33.1%** / ETH **52.8%** / XRP **28.0%** / SOL **56.2%**
-- 메이저 평균 **42.53% 위치**, **2종 양수·1종 보합·1종 약세**
-- 즉 **메이저 완전 회복 전까진 80%만 공격**하는 게 맞습니다.
+- BTC **15.6%** / ETH **38.9%** / XRP **23.1%** / SOL **46.9%**
+- 메이저 평균 **31.12% 위치**, **1종만 양수**
+- 즉 **80~90% 과공격은 금지**, **75%만 허용**이 맞습니다.
 
 ## 공격 포트폴리오 전략
-- 실투입: **80%**, 5종 동일비중
-- 타깃: 각 약 **381,181원**
-- 현금: 약 **476,476원 (20.0%)**
-- 핵심 논리: **fresh 0 / weak breadth true / broken turnover leaders purge / all-positive cleaners**
+- 실투입: **75%**, 5종 동일비중
+- 타깃: 각 약 **340,934원**
+- 현금: 약 **568,224원 (25.0%)**
+- 핵심 논리: **major breakdown / held-basket failure / fresh 1 + survivor 4 / no late chase of broken leaders**
 
 ## 가상 매매 실행 내용
-- ❌ **전량 정리:** EDGE / POWR / CELO / KAITO / WIF
-- ✅ **신규 재편:** TOSHI / PUMP / CELO / WIF / SYRUP
-- 마지막 액션: **RESET_80_TOSHI_PUMP_CELO_WIF_SYRUP**
+- ❌ **전량 정리:** TOSHI / PUMP / CELO / WIF / SYRUP
+- ✅ **신규 재편:** SLX / KAITO / JTO / CELO / PUMP
+- 마지막 액션: **RESET_75_SLX_KAITO_JTO_CELO_PUMP**
 
 ## 현재 포트폴리오 현황
-- TOSHI **1740551.9879개 @ 0.219원**
-- PUMP **170170.0381개 @ 2.24원**
-- CELO **3665.2008개 @ 104.0원**
-- WIF **1449.3570개 @ 263.0원**
-- SYRUP **1694.1373개 @ 225.0원**
-- 현금 **476,476원** / 총평가 **2,382,381원**
+- SLX **389.6392개 @ 875원**
+- KAITO **386.5468개 @ 882원**
+- JTO **272.9658개 @ 1,249원**
+- CELO **3309.0707개 @ 103원**
+- PUMP **156392.7904개 @ 2.18원**
+- 현금 **568,224원** / 총평가 **2,272,895원**
 
 ## 자기 평가
-- 장점: **EDGE·POWR가 아직 양수여도 실제 구조 붕괴를 이유로 바로 버린 점**은 좋았습니다.
-- 아쉬움: **메이저가 완전히 살아난 것도 아닌데 반등 숫자만 보면 과속하기 쉬운 장**이라, 다음에도 90% 과속 유혹을 더 경계해야 합니다.
-- 점수: **9.2 / 10**
+- 장점: **깨진 상장 후속(TOSHI)·소형 밈(WIF)·디파이 보조축(SYRUP)을 미련 없이 버린 점**은 좋았습니다.
+- 아쉬움: **SLX가 너무 강해 한 종목 집중 유혹이 큰데**, 이번엔 equal-weight와 75% 제한으로만 대응한 점이 더 맞았습니다.
+- 점수: **9.3 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 “메이저 반등 + weak breadth 유지 + held leader 2개 이상 붕괴 시 80% 클린 리바운드 바스켓으로 즉시 재편” 규칙 추가**
-- ✅ **리포트 첫 줄에서 메이저 상태와 알트 breadth 경고를 같이 보이도록 개선**
-- ✅ **단순 거래대금보다 현재 all-positive upper-range 유지력을 더 강하게 반영해 EDGE·POWR 대신 SYRUP을 승격**
+- ✅ **DECISIONS.md에 “메이저 35% 하회 + 보유 3종 이상 붕괴 시 75% fresh1+survivor4 재편” 규칙 추가**
+- ✅ **리포트 첫 줄에 ‘보유 붕괴 종목 수’를 직접 반영해 교체 이유를 더 빨리 읽히게 개선**
+- ✅ **상승률보다 day-high gap·range 붕괴를 더 강하게 반영해 TOSHI·POWR·HUNT 추격을 차단**
 
 ## 판단
-- **aggressive-80-all-positive-cleaners**
+- **aggressive-75-slx-anchored-reset**
 
 ## 신뢰도
 - **medium-low**
 
 ## 추천 행동
-- **TOSHI 0.209 / PUMP 2.19 / CELO 101 / WIF 261 / SYRUP 220** 하회 시 즉시 재평가
-- **SLX**는 초대금이지만 -7%대 갭이라 지금은 watch 유지
-- **KAITO / WAL / SUI**는 다음 교체 후보로 계속 감시
+- **SLX 842 / KAITO 868 / JTO 1220 / CELO 101 / PUMP 2.15** 하회 시 즉시 재평가
+- **POWR**는 초대금이어도 **-11.6% 갭**이라 지금은 watch만 유지
+- **TOSHI / HUNT / SUI**는 다음 회차 교체 후보로 계속 감시
 
 ## 리스크 메모
-- **메이저 반등과 알트 breadth 회복은 아직 동일하지 않습니다.**
-- **TOSHI**는 상장 후속 열기가 강하지만 late-session 흔들림이 나올 수 있습니다.
-- **PUMP**는 뉴스/커뮤니티 화제성이 크지만 논란성 headline도 함께 존재합니다.
-- **WIF·SYRUP**은 체급이 상대적으로 작아 변동성 체감이 큽니다.
-- **EDGE·POWR형 고대금 fade**는 수익률이 남아 있어도 재매수보다 퇴출이 우선입니다.
+- **메이저 재약세가 다시 커졌습니다.**
+- **SLX**는 가장 강하지만 single-leader 장세라 이탈 시 회전이 빨라질 수 있습니다.
+- **KAITO**는 7월 20일 언락 부담이 남아 있습니다.
+- **PUMP**는 화제성은 남아도 GO 바운티·내부자 의혹 리스크가 큽니다.
+- **TOSHI·WIF·SYRUP형 깨진 바스켓**은 지난 회차 수익률 기억보다 즉시 퇴출이 우선입니다.
