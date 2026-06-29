@@ -1,65 +1,65 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-29 09:58 KST
-- 기준 한줄: **메이저 평균 위치 31.12% → 88.30% 급반등**, **weak breadth 경고 해제**. 그래서 **SLX·KAITO·CELO salvage 바스켓을 버리고 PROS·POKT·WLD·EDGE·JTO 85% 바스켓**으로 재가속합니다.
-- 시장 한줄 요약: **외부 심리는 공포(12)지만 업비트 테이프는 확실히 강해졌습니다.** 지금은 **late chase POWR보다 상단 유지가 깨끗한 fresh/reclaim 리더**가 우선입니다.
-- 공포탐욕지수: **12 (Extreme Fear)**
-- BTC 참고: **BTC 90.324M원 / ETH 2.386M원 / XRP 1,586원 / SOL 108.5K원**
+- 시각: 2026-06-29 15:59 KST
+- 기준 한줄: **fresh breakout 4 → 0**, **기존 보유 5종 중 4종 무효화**. 메이저 평균은 **76.7%**로 아직 살아 있어 **SLX·RE·ARX·XLM·IP 80% survivor/reclaim 바스켓**으로 즉시 리셋합니다.
+- 시장 한줄 요약: **메이저는 아직 버티지만 오전 breakout 장은 끝났습니다.** 지금은 **깨진 급등주 방어보다 상단 생존주 추종**이 우선입니다.
+- 공포탐욕지수: **12 (Extreme Fear, 어제 18)**
+- BTC 참고: **BTC 91.026M원 / ETH 2.399M원 / XRP 1,588.0원 / SOL 109.7K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🧱 **PROS** — 803원 / **+14.39%** / 212.6억원 / 위치 **96.2%** / fresh breakout momentum core
-- 📶 **POKT** — 13.6원 / **+3.03%** / 220.8억원 / 위치 **100%** / high-range continuation core
-- 🌍 **WLD** — 670원 / **0.00%** / 209.9억원 / 위치 **84.6%** / attention-liquidity reclaim
-- 🗡️ **EDGE** — 146원 / **+5.04%** / 388.1억원 / 위치 **66.7%** / high-turnover continuation
-- 🪂 **JTO** — 1,258원 / **+1.04%** / 61.4억원 / 위치 **77.4%** / solana beta continuation
+- 🌞 **SLX** — 957원 / **+8.63%** / 1,497.1억원 / 위치 **65.3%** / mega-turnover reclaim core
+- 🧲 **RE** — 967원 / **+5.11%** / 389.8억원 / 위치 **85.0%** / high-conviction continuation
+- 🧬 **ARX** — 392원 / **+1.03%** / 199.7억원 / 위치 **81.2%** / liquid continuation
+- ✨ **XLM** — 264원 / **+0.76%** / 139.8억원 / 위치 **75.0%** / large-liquid survivor
+- 🪪 **IP** — 480원 / **+2.78%** / 67.0억원 / 위치 **100%** / clean high-range hold
 
 ## 제외된 메이저 참고 신호
-- BTC **83.7%** / ETH **96.8%** / XRP **78.3%** / SOL **94.4%**
-- 메이저 평균 **88.30% 위치**, **3종 양수**
-- 즉 **방어보다 공격 우위**지만, **동일비중 + 현금 15%**는 유지합니다.
+- BTC **85.2%** / ETH **86.5%** / XRP **67.7%** / SOL **67.4%**
+- 메이저 평균 **76.7% 위치**, **4종 모두 비음전**
+- 즉 **시장 전체 붕괴는 아니지만**, **fresh 0**이라 small-cap breakout chase는 중단합니다.
 
 ## 공격 포트폴리오 전략
-- 실투입: **85%**, 5종 동일비중
-- 타깃: 각 약 **385,721원**
-- 현금: 약 **340,342원 (15.0%)**
-- 핵심 논리: **majors rebound / fresh 4 / weak breadth 해제 / salvage 제거 / current leaders 추종**
+- 실투입: **80%**, 5종 동일비중
+- 타깃: 각 약 **342,437원**
+- 현금: 약 **428,046원 (20.0%)**
+- 핵심 논리: **majors still okay / fresh 0 / held 4 invalidations / survivor-reclaim reset**
 
 ## 가상 매매 실행 내용
-- ❌ **전량 정리:** SLX / KAITO / JTO / CELO / PUMP
-- ✅ **신규 재편:** PROS / POKT / WLD / EDGE / JTO
-- 마지막 액션: **RESET_85_PROS_POKT_WLD_EDGE_JTO**
+- ❌ **전량 정리:** PROS / POKT / WLD / EDGE / JTO
+- ✅ **신규 재편:** SLX / RE / ARX / XLM / IP
+- 마지막 액션: **RESET_80_SLX_RE_ARX_XLM_IP**
 
 ## 현재 포트폴리오 현황
-- PROS **480.3505개 @ 803원**
-- POKT **28,361.8687개 @ 13.6원**
-- WLD **575.7036개 @ 670원**
-- EDGE **2,641.9275개 @ 146원**
-- JTO **306.6148개 @ 1,258원**
-- 현금 **340,342원** / 총평가 **2,268,949원**
+- SLX **357.8230개 @ 957원**
+- RE **354.1227개 @ 967원**
+- ARX **873.5628개 @ 392원**
+- XLM **1297.1084개 @ 264원**
+- IP **713.4096개 @ 480원**
+- 현금 **428,046원** / 총평가 **2,140,229원**
 
 ## 자기 평가
-- 장점: **75% 방어 모드에서 88% 메이저 반등으로 넘어온 변화를 바로 반영해 salvage를 고집하지 않은 점**이 좋았습니다.
-- 아쉬움: **SLX 대금 1위**에 다시 끌릴 수 있었지만, 이번엔 **현재 위치 50%**를 더 중요하게 본 판단이 맞습니다.
-- 점수: **9.5 / 10**
+- 장점: **오전 85% breakout 바스켓이 깨졌다는 사실을 미련 없이 인정하고 6시간 내 전면 교체한 점**이 좋았습니다.
+- 아쉬움: **09:58 리더였던 PROS·POKT를 더 오래 믿었으면 손실이 커질 구조**였고, 이번엔 그 집착을 바로 끊은 정도에 만족해야 합니다.
+- 점수: **8.8 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 “메이저 평균 +50%p 반등 + weak breadth 해제 + held salvage 55% 미만이면 전면 교체” 규칙 추가**
-- ✅ **리포트 첫 줄에 snapshot delta를 직접 반영해 공격도 상향 이유를 즉시 읽히게 개선**
-- ✅ **fresh breakout 4개 이상일 때 직전 대금 1위 보유를 자동 우대하지 않도록 판단 메모 강화**
+- ✅ **DECISIONS.md에 “85% fresh basket → fresh 0 + 3개 이상 invalidation break면 80% survivor reset” 규칙 추가**
+- ✅ **리포트 첫 줄에 “fresh 4→0 / held 4종 붕괴”를 넣어 교체 사유를 즉시 읽히게 개선**
+- ✅ **watchlist를 승격 후보와 late-chase 경고 후보 중심으로 재정렬**
 
 ## 판단
-- **aggressive-85-fresh-breadth-reset**
+- **aggressive-80-survivor-reclaim-reset**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **PROS 782 / POKT 13.3 / WLD 664 / EDGE 142 / JTO 1242** 하회 시 즉시 재평가
-- **POWR**는 대금이 압도적이어도 **-7.98% 갭**이라 아직 추격 금지
-- **SLX / HUNT / AGLD / XLM**은 다음 회차 승격 후보로 감시 유지
+- **SLX 927 / RE 940 / ARX 385 / XLM 262 / IP 472** 하회 시 즉시 재평가
+- **POWR·TT**는 상승률이 커도 **day-high gap 악화**로 추격 금지
+- **SUI / AGLD / ONDO / GAS**는 다음 회차 승격 후보로 유지
 
 ## 리스크 메모
-- **공포탐욕 12**라 뉴스 헤드라인 한두 개에 장중 흔들림이 다시 커질 수 있습니다.
-- **WLD**는 Altman attention 장점이 있지만 실제 가격이 **664원**을 잃으면 reclaim 논리가 약해집니다.
-- **EDGE·JTO**는 continuation 슬롯이라 fresh 리더가 줄면 교체 속도를 늦추지 말아야 합니다.
-- **POWR형 과열 리더**는 상승률보다 **day-high gap**을 우선해서 걸러야 합니다.
+- **공포탐욕 12**라 한 번 더 흔들리면 survivor 바스켓도 빠르게 약해질 수 있습니다.
+- **SLX**는 최강 대금주지만 **-5.06% 갭**이 남아 있어 완전한 fresh는 아닙니다.
+- **WLD**는 Robinhood/Altman 헤드라인이 있어도 현재는 **뉴스보다 테이프가 약한 상태**입니다.
+- fresh breakout이 다시 늘면 **다음 회차엔 80% survivor 바스켓도 더 빠른 beta 업그레이드**가 필요합니다.
