@@ -1,145 +1,148 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive-75-slx-anchored-reset",
-  "confidence": "medium-low",
+  "judgment": "aggressive-85-fresh-breadth-reset",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-29 03:58 KST",
-  "market_status": "**메이저는 다시 약해졌고**, **알트 breadth도 매우 좁습니다.** 지금은 **SLX 1개 fresh + 4개 clean survivor** 구성이 최선입니다.",
-  "fear_greed": "**18 (Extreme Fear)**",
-  "btc_snapshot": "**BTC 90.380M원 / ETH 2.385M원 / XRP 1,587.0원 / SOL 108.0K원**",
-  "cash_krw": "568,224 KRW",
-  "realized_pnl_krw": "-7,716,867 KRW",
-  "last_valuation_krw": "2,272,895 KRW",
+  "updated_at": "2026-06-29 09:58 KST",
+  "market_status": "**외부 심리는 공포(12)지만 업비트 테이프는 확실히 강해졌습니다.** 지금은 **late chase POWR보다 상단 유지가 깨끗한 fresh/reclaim 리더**가 우선입니다.",
+  "fear_greed": "**12 (Extreme Fear)**",
+  "btc_snapshot": "**BTC 90.324M원 / ETH 2.386M원 / XRP 1,586원 / SOL 108.5K원**",
+  "cash_krw": "340,342 KRW",
+  "realized_pnl_krw": "-7,720,812 KRW",
+  "last_valuation_krw": "2,268,949 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -77.27,
-  "last_action": "RESET_75_SLX_KAITO_JTO_CELO_PUMP",
-  "trade_count": 1324,
-  "last_updated": "2026-06-29T03:58:00+09:00",
+  "return_pct": -77.31,
+  "last_action": "RESET_85_PROS_POKT_WLD_EDGE_JTO",
+  "trade_count": 1334,
+  "last_updated": "2026-06-29T09:58:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 10,
+    "recent_trade_actions_24h": 20,
     "recent_24h_buy_count": 25,
     "recent_24h_sell_count": 25,
     "recent_24h_replacement_count": 25,
     "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "🌞 **SLX** — 875원 / **+8.56%** / 1,548.2억원 / 위치 **95.4%** / mega-liquidity fresh breakout core",
-    "🧠 **KAITO** — 882원 / **+5.63%** / 63.4억원 / 위치 **57.0%** / clean attention survivor",
-    "🪂 **JTO** — 1,249원 / **+0.89%** / 63.3억원 / 위치 **60.3%** / solana-ecosystem survivor",
-    "🟡 **CELO** — 103원 / **+9.34%** / 84.0억원 / 위치 **54.8%** / liquid continuation survivor",
-    "🚀 **PUMP** — 2.18원 / **+5.83%** / 45.3억원 / 위치 **50.0%** / headline-beta survivor",
-    "BTC **15.6%** / ETH **38.9%** / XRP **23.1%** / SOL **46.9%**",
-    "메이저 평균 **31.12% 위치**, **1종만 양수**",
-    "즉 **80~90% 과공격은 금지**, **75%만 허용**이 맞습니다.",
-    "실투입: **75%**, 5종 동일비중",
-    "타깃: 각 약 **340,934원**",
-    "현금: 약 **568,224원 (25.0%)**",
-    "핵심 논리: **major breakdown / held-basket failure / fresh 1 + survivor 4 / no late chase of broken leaders**",
-    "❌ **전량 정리:** TOSHI / PUMP / CELO / WIF / SYRUP",
-    "✅ **신규 재편:** SLX / KAITO / JTO / CELO / PUMP",
-    "마지막 액션: **RESET_75_SLX_KAITO_JTO_CELO_PUMP**",
-    "SLX **389.6392개 @ 875원**",
-    "KAITO **386.5468개 @ 882원**",
-    "JTO **272.9658개 @ 1,249원**",
-    "CELO **3309.0707개 @ 103원**",
-    "PUMP **156392.7904개 @ 2.18원**",
-    "현금 **568,224원** / 총평가 **2,272,895원**",
-    "장점: **깨진 상장 후속(TOSHI)·소형 밈(WIF)·디파이 보조축(SYRUP)을 미련 없이 버린 점**은 좋았습니다.",
-    "아쉬움: **SLX가 너무 강해 한 종목 집중 유혹이 큰데**, 이번엔 equal-weight와 75% 제한으로만 대응한 점이 더 맞았습니다.",
-    "점수: **9.3 / 10**",
-    "✅ **DECISIONS.md에 “메이저 35% 하회 + 보유 3종 이상 붕괴 시 75% fresh1+survivor4 재편” 규칙 추가**",
-    "✅ **리포트 첫 줄에 ‘보유 붕괴 종목 수’를 직접 반영해 교체 이유를 더 빨리 읽히게 개선**",
-    "✅ **상승률보다 day-high gap·range 붕괴를 더 강하게 반영해 TOSHI·POWR·HUNT 추격을 차단**",
-    "**aggressive-75-slx-anchored-reset**",
-    "**medium-low**",
-    "**SLX 842 / KAITO 868 / JTO 1220 / CELO 101 / PUMP 2.15** 하회 시 즉시 재평가",
-    "**POWR**는 초대금이어도 **-11.6% 갭**이라 지금은 watch만 유지",
-    "**TOSHI / HUNT / SUI**는 다음 회차 교체 후보로 계속 감시",
-    "**메이저 재약세가 다시 커졌습니다.**",
-    "**SLX**는 가장 강하지만 single-leader 장세라 이탈 시 회전이 빨라질 수 있습니다.",
-    "**KAITO**는 7월 20일 언락 부담이 남아 있습니다.",
-    "**PUMP**는 화제성은 남아도 GO 바운티·내부자 의혹 리스크가 큽니다.",
-    "**TOSHI·WIF·SYRUP형 깨진 바스켓**은 지난 회차 수익률 기억보다 즉시 퇴출이 우선입니다."
+    "🧱 **PROS** — 803원 / **+14.39%** / 212.6억원 / 위치 **96.2%** / fresh breakout momentum core",
+    "📶 **POKT** — 13.6원 / **+3.03%** / 220.8억원 / 위치 **100%** / high-range continuation core",
+    "🌍 **WLD** — 670원 / **0.00%** / 209.9억원 / 위치 **84.6%** / attention-liquidity reclaim",
+    "🗡️ **EDGE** — 146원 / **+5.04%** / 388.1억원 / 위치 **66.7%** / high-turnover continuation",
+    "🪂 **JTO** — 1,258원 / **+1.04%** / 61.4억원 / 위치 **77.4%** / solana beta continuation",
+    "BTC **83.7%** / ETH **96.8%** / XRP **78.3%** / SOL **94.4%**",
+    "메이저 평균 **88.30% 위치**, **3종 양수**",
+    "즉 **방어보다 공격 우위**지만, **동일비중 + 현금 15%**는 유지합니다.",
+    "실투입: **85%**, 5종 동일비중",
+    "타깃: 각 약 **385,721원**",
+    "현금: 약 **340,342원 (15.0%)**",
+    "핵심 논리: **majors rebound / fresh 4 / weak breadth 해제 / salvage 제거 / current leaders 추종**",
+    "❌ **전량 정리:** SLX / KAITO / JTO / CELO / PUMP",
+    "✅ **신규 재편:** PROS / POKT / WLD / EDGE / JTO",
+    "마지막 액션: **RESET_85_PROS_POKT_WLD_EDGE_JTO**",
+    "PROS **480.3505개 @ 803원**",
+    "POKT **28,361.8687개 @ 13.6원**",
+    "WLD **575.7036개 @ 670원**",
+    "EDGE **2,641.9275개 @ 146원**",
+    "JTO **306.6148개 @ 1,258원**",
+    "현금 **340,342원** / 총평가 **2,268,949원**",
+    "장점: **75% 방어 모드에서 88% 메이저 반등으로 넘어온 변화를 바로 반영해 salvage를 고집하지 않은 점**이 좋았습니다.",
+    "아쉬움: **SLX 대금 1위**에 다시 끌릴 수 있었지만, 이번엔 **현재 위치 50%**를 더 중요하게 본 판단이 맞습니다.",
+    "점수: **9.5 / 10**",
+    "✅ **DECISIONS.md에 “메이저 평균 +50%p 반등 + weak breadth 해제 + held salvage 55% 미만이면 전면 교체” 규칙 추가**",
+    "✅ **리포트 첫 줄에 snapshot delta를 직접 반영해 공격도 상향 이유를 즉시 읽히게 개선**",
+    "✅ **fresh breakout 4개 이상일 때 직전 대금 1위 보유를 자동 우대하지 않도록 판단 메모 강화**",
+    "**aggressive-85-fresh-breadth-reset**",
+    "**medium**",
+    "**PROS 782 / POKT 13.3 / WLD 664 / EDGE 142 / JTO 1242** 하회 시 즉시 재평가",
+    "**POWR**는 대금이 압도적이어도 **-7.98% 갭**이라 아직 추격 금지",
+    "**SLX / HUNT / AGLD / XLM**은 다음 회차 승격 후보로 감시 유지",
+    "**공포탐욕 12**라 뉴스 헤드라인 한두 개에 장중 흔들림이 다시 커질 수 있습니다.",
+    "**WLD**는 Altman attention 장점이 있지만 실제 가격이 **664원**을 잃으면 reclaim 논리가 약해집니다.",
+    "**EDGE·JTO**는 continuation 슬롯이라 fresh 리더가 줄면 교체 속도를 늦추지 말아야 합니다.",
+    "**POWR형 과열 리더**는 상승률보다 **day-high gap**을 우선해서 걸러야 합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "PUMP",
-      "action": "BUY",
-      "price_krw": 2.18,
-      "amount_delta": 156391.87292867142,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다."
-    },
-    {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "CELO",
-      "action": "BUY",
-      "price_krw": 103.0,
-      "amount_delta": 3310.0415823738226,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다."
-    },
-    {
-      "timestamp": "2026-06-29T03:58:00+09:00",
+      "timestamp": "2026-06-29T09:58:00+09:00",
       "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 1249.0,
-      "amount_delta": 272.9657990268244,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다."
+      "price_krw": 1258.0,
+      "amount_delta": 306.61479676442156,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "61.4억원 대금, +1.04%, 77.4% 위치로 SOL 94.4% 상대강도를 가장 자연스럽게 받는 베타 continuation입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "KAITO",
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "EDGE",
       "action": "BUY",
-      "price_krw": 882.0,
-      "amount_delta": 386.5468061048795,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다."
+      "price_krw": 146.0,
+      "amount_delta": 2641.927495408509,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "388.1억원 대금, +5.04%, 66.7% 위치와 -3.95% 갭으로 POWR보다 훨씬 덜 과열된 실전 continuation입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "SLX",
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 875.0,
-      "amount_delta": 389.6391805537185,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다."
+      "price_krw": 670.0,
+      "amount_delta": 575.7036034770781,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "209.9억원 대금, 84.6% 위치와 -0.30% 갭으로 Altman 연상 attention이 붙는 고유동성 reclaim 축입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "SYRUP",
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "POKT",
+      "action": "BUY",
+      "price_krw": 13.6,
+      "amount_delta": 28361.868700708994,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "220.8억원 대금, +3.03%, 100% 위치로 상단 종가권 유지가 가장 깔끔한 continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "PROS",
+      "action": "BUY",
+      "price_krw": 803.0,
+      "amount_delta": 480.350453710638,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "212.6억원 대금, +14.39%, 96.2% 위치와 -0.50% 갭이 동시에 살아 있어 이번 회차 최우선 fresh breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "PUMP",
       "action": "SELL",
-      "price_krw": 210.0,
-      "amount_delta": -1694.1372682637468,
-      "cash_delta_krw": 355768.82633538684,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+      "price_krw": 2.18,
+      "amount_delta": -156391.87292867142,
+      "cash_delta_krw": 340934.2829845037,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "WIF",
-      "action": "SELL",
-      "price_krw": 259.0,
-      "amount_delta": -1449.3569785526352,
-      "cash_delta_krw": 375383.4574451325,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
-    },
-    {
-      "timestamp": "2026-06-29T03:58:00+09:00",
+      "timestamp": "2026-06-29T09:58:00+09:00",
       "symbol": "CELO",
       "action": "SELL",
-      "price_krw": 103.0,
-      "amount_delta": -3665.2008207629137,
-      "cash_delta_krw": 377515.6845385801,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+      "price_krw": 102.0,
+      "amount_delta": -3310.0415823738226,
+      "cash_delta_krw": 337624.24140212993,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1258.0,
+      "amount_delta": -272.9657990268244,
+      "cash_delta_krw": 343390.9751757451,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-29-0958.md",
+      "title": "2026-06-29-0958"
+    },
     {
       "file": "2026-06-29-0358.md",
       "title": "2026-06-29-0358"
@@ -167,39 +170,65 @@
     {
       "file": "2026-06-27-1558.md",
       "title": "2026-06-27-1558"
-    },
-    {
-      "file": "2026-06-27-0958.md",
-      "title": "2026-06-27-0958"
     }
   ],
   "positions": [
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "amount": 389.6391805537185,
-      "avg_buy_price_krw": "875 KRW",
-      "last_price_krw": "875 KRW",
-      "thesis": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다.",
-      "strategy": "fresh breakout anchor with strongest real turnover",
-      "role": "mega-liquidity fresh breakout core",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 9.5,
+      "icon": "🧱",
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "amount": 480.350453710638,
+      "avg_buy_price_krw": "803 KRW",
+      "last_price_krw": "803 KRW",
+      "thesis": "212.6억원 대금, +14.39%, 96.2% 위치와 -0.50% 갭이 동시에 살아 있어 이번 회차 최우선 fresh breakout입니다.",
+      "strategy": "fresh breakout with strongest clean momentum",
+      "role": "fresh breakout momentum core",
+      "risk_limit_pct": 4.0,
+      "profit_take_pct": 9.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🧠",
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "amount": 386.5468061048795,
-      "avg_buy_price_krw": "882 KRW",
-      "last_price_krw": "882 KRW",
-      "thesis": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다.",
-      "strategy": "positive survivor with cleaner gap than other mid-cap leaders",
-      "role": "clean attention survivor",
-      "risk_limit_pct": 3.2,
+      "icon": "📶",
+      "symbol": "POKT",
+      "market": "KRW-POKT",
+      "amount": 28361.868700708994,
+      "avg_buy_price_krw": "14 KRW",
+      "last_price_krw": "14 KRW",
+      "thesis": "220.8억원 대금, +3.03%, 100% 위치로 상단 종가권 유지가 가장 깔끔한 continuation 코어입니다.",
+      "strategy": "hold only while perfect upper-range structure persists",
+      "role": "high-range continuation core",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 7.5,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "amount": 575.7036034770781,
+      "avg_buy_price_krw": "670 KRW",
+      "last_price_krw": "670 KRW",
+      "thesis": "209.9억원 대금, 84.6% 위치와 -0.30% 갭으로 Altman 연상 attention이 붙는 고유동성 reclaim 축입니다.",
+      "strategy": "use as attention-backed liquid reclaim anchor",
+      "role": "attention-liquidity reclaim",
+      "risk_limit_pct": 2.7,
+      "profit_take_pct": 6.0,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🗡️",
+      "symbol": "EDGE",
+      "market": "KRW-EDGE",
+      "amount": 2641.927495408509,
+      "avg_buy_price_krw": "146 KRW",
+      "last_price_krw": "146 KRW",
+      "thesis": "388.1억원 대금, +5.04%, 66.7% 위치와 -3.95% 갭으로 POWR보다 훨씬 덜 과열된 실전 continuation입니다.",
+      "strategy": "follow-through continuation with real turnover",
+      "role": "high-turnover continuation",
+      "risk_limit_pct": 3.4,
       "profit_take_pct": 7.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
@@ -208,98 +237,66 @@
       "icon": "🪂",
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "amount": 272.9657990268244,
-      "avg_buy_price_krw": "1,249 KRW",
-      "last_price_krw": "1,249 KRW",
-      "thesis": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다.",
-      "strategy": "liquid 60% survivor paired with SOL relative strength",
-      "role": "solana-ecosystem survivor",
-      "risk_limit_pct": 3.6,
-      "profit_take_pct": 6.8,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪙",
-      "symbol": "CELO",
-      "market": "KRW-CELO",
-      "amount": 3310.0415823738226,
-      "avg_buy_price_krw": "103 KRW",
-      "last_price_krw": "103 KRW",
-      "thesis": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다.",
-      "strategy": "keep only as smaller equal-weight survivor, not a chase",
-      "role": "liquid continuation survivor",
-      "risk_limit_pct": 3.5,
+      "amount": 306.61479676442156,
+      "avg_buy_price_krw": "1,258 KRW",
+      "last_price_krw": "1,258 KRW",
+      "thesis": "61.4억원 대금, +1.04%, 77.4% 위치로 SOL 94.4% 상대강도를 가장 자연스럽게 받는 베타 continuation입니다.",
+      "strategy": "SOL-relative-strength beta continuation",
+      "role": "solana beta continuation",
+      "risk_limit_pct": 3.1,
       "profit_take_pct": 6.5,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪙",
-      "symbol": "PUMP",
-      "market": "KRW-PUMP",
-      "amount": 156391.87292867142,
-      "avg_buy_price_krw": "2 KRW",
-      "last_price_krw": "2 KRW",
-      "thesis": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다.",
-      "strategy": "reduced-size equal-weight beta slot with tighter stop",
-      "role": "headline-beta survivor",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 6.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "QKC": [
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 3.16,
-        "action": "SELL"
-      }
-    ],
     "EDGE": [
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 163.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 163.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-28T21:58:00+09:00",
         "price_krw": 137.0,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 146.0,
+        "action": "BUY"
       }
     ],
-    "AQT": [
+    "POWR": [
       {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 321.0,
+        "timestamp": "2026-06-28T21:58:00+09:00",
+        "price_krw": 73.7,
         "action": "SELL"
       }
     ],
-    "CBK": [
+    "CELO": [
       {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 278.0,
+        "timestamp": "2026-06-28T21:58:00+09:00",
+        "price_krw": 104.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-28T21:58:00+09:00",
+        "price_krw": 104.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-29T03:58:00+09:00",
+        "price_krw": 103.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-29T03:58:00+09:00",
+        "price_krw": 103.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 102.0,
         "action": "SELL"
       }
     ],
     "KAITO": [
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 882.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 882.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-28T21:58:00+09:00",
         "price_krw": 874.0,
@@ -309,53 +306,14 @@
         "timestamp": "2026-06-29T03:58:00+09:00",
         "price_krw": 882.0,
         "action": "BUY"
-      }
-    ],
-    "POWR": [
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 81.4,
-        "action": "BUY"
       },
       {
-        "timestamp": "2026-06-28T21:58:00+09:00",
-        "price_krw": 73.7,
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 874.0,
         "action": "SELL"
-      }
-    ],
-    "CELO": [
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 104.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-28T21:58:00+09:00",
-        "price_krw": 104.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-28T21:58:00+09:00",
-        "price_krw": 104.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-29T03:58:00+09:00",
-        "price_krw": 103.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-29T03:58:00+09:00",
-        "price_krw": 103.0,
-        "action": "BUY"
       }
     ],
     "WIF": [
-      {
-        "timestamp": "2026-06-28T15:58:00+09:00",
-        "price_krw": 255.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-28T21:58:00+09:00",
         "price_krw": 263.0,
@@ -399,6 +357,11 @@
         "timestamp": "2026-06-29T03:58:00+09:00",
         "price_krw": 2.18,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 2.18,
+        "action": "SELL"
       }
     ],
     "SYRUP": [
@@ -418,6 +381,11 @@
         "timestamp": "2026-06-29T03:58:00+09:00",
         "price_krw": 875.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 875.0,
+        "action": "SELL"
       }
     ],
     "JTO": [
@@ -425,321 +393,348 @@
         "timestamp": "2026-06-29T03:58:00+09:00",
         "price_krw": 1249.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 1258.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 1258.0,
+        "action": "BUY"
+      }
+    ],
+    "PROS": [
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 803.0,
+        "action": "BUY"
+      }
+    ],
+    "POKT": [
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 13.6,
+        "action": "BUY"
+      }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-06-29T09:58:00+09:00",
+        "price_krw": 670.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-29-0358.md",
+  "latest_report_file": "2026-06-29-0958.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "price_krw": 875.0,
-      "change_pct_24h": 8.56079404,
-      "turnover_krw_24h": 154817392308.14352,
-      "reason": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다.",
+      "icon": "🧱",
+      "symbol": "PROS",
+      "market": "KRW-PROS",
+      "price_krw": 803.0,
+      "change_pct_24h": 14.38746439,
+      "turnover_krw_24h": 21258272841.87108,
+      "reason": "212.6억원 대금, +14.39%, 96.2% 위치와 -0.50% 갭이 동시에 살아 있어 이번 회차 최우선 fresh breakout입니다.",
       "score": null,
-      "community": "업비트 리테일 자금이 지금 가장 명확하게 몰리는 단일 핵심 주도주입니다.",
+      "community": "업비트 리테일이 이번 아침 가장 공격적으로 추격하는 신규 상단 리더입니다.",
       "risk": null,
-      "allocation_krw": 340934.2829845037,
-      "role": "mega-liquidity fresh breakout core",
-      "invalidated_if": "842원 하회 시 fresh breakout 구조 훼손",
-      "range_position_pct": 95.4,
-      "day_high_gap_pct": -0.91
+      "allocation_krw": 385721.4143296423,
+      "role": "fresh breakout momentum core",
+      "invalidated_if": "782원 하회 시 fresh breakout 상단 체류 훼손",
+      "range_position_pct": 96.2,
+      "day_high_gap_pct": -0.5
     },
     {
-      "icon": "🧠",
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "price_krw": 882.0,
-      "change_pct_24h": 5.62874251,
-      "turnover_krw_24h": 6343298658.089225,
-      "reason": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다.",
+      "icon": "📶",
+      "symbol": "POKT",
+      "market": "KRW-POKT",
+      "price_krw": 13.6,
+      "change_pct_24h": 3.03030303,
+      "turnover_krw_24h": 22075091667.768322,
+      "reason": "220.8억원 대금, +3.03%, 100% 위치로 상단 종가권 유지가 가장 깔끔한 continuation 코어입니다.",
       "score": null,
-      "community": "언락 부담은 남지만 현재 보드에서는 밈/상장주보다 구조가 더 단정합니다.",
+      "community": "거래대금과 상단 고정이 동시에 살아 있어 커뮤니티 체감 체력이 가장 깔끔합니다.",
       "risk": null,
-      "allocation_krw": 340934.2829845037,
-      "role": "clean attention survivor",
-      "invalidated_if": "868원 하회 시 clean survivor 구조 약화",
-      "range_position_pct": 57.0,
-      "day_high_gap_pct": -3.71
+      "allocation_krw": 385721.4143296423,
+      "role": "high-range continuation core",
+      "invalidated_if": "13.3원 하회 시 100% 박스 유지 실패",
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0
+    },
+    {
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "price_krw": 670.0,
+      "change_pct_24h": 0,
+      "turnover_krw_24h": 20993761591.53195,
+      "reason": "209.9억원 대금, 84.6% 위치와 -0.30% 갭으로 Altman 연상 attention이 붙는 고유동성 reclaim 축입니다.",
+      "score": null,
+      "community": "뉴스·커뮤니티 모두 Altman/Worldcoin attention이 끊기지 않아 재주목이 쉽습니다.",
+      "risk": null,
+      "allocation_krw": 385721.4143296423,
+      "role": "attention-liquidity reclaim",
+      "invalidated_if": "664원 하회 시 attention reclaim 약화",
+      "range_position_pct": 84.6,
+      "day_high_gap_pct": -0.3
+    },
+    {
+      "icon": "🗡️",
+      "symbol": "EDGE",
+      "market": "KRW-EDGE",
+      "price_krw": 146.0,
+      "change_pct_24h": 5.03597122,
+      "turnover_krw_24h": 38805433029.71192,
+      "reason": "388.1억원 대금, +5.04%, 66.7% 위치와 -3.95% 갭으로 POWR보다 훨씬 덜 과열된 실전 continuation입니다.",
+      "score": null,
+      "community": "과열 밈보다 구조가 말끔한 실전 대금주로 커뮤니티 회전 자금이 붙는 모습입니다.",
+      "risk": null,
+      "allocation_krw": 385721.4143296423,
+      "role": "high-turnover continuation",
+      "invalidated_if": "142원 하회 시 continuation 구조 훼손",
+      "range_position_pct": 66.7,
+      "day_high_gap_pct": -3.95
     },
     {
       "icon": "🪂",
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "price_krw": 1249.0,
-      "change_pct_24h": 0.88852989,
-      "turnover_krw_24h": 6325141675.20145,
-      "reason": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다.",
+      "price_krw": 1258.0,
+      "change_pct_24h": 1.04417671,
+      "turnover_krw_24h": 6136777861.758934,
+      "reason": "61.4억원 대금, +1.04%, 77.4% 위치로 SOL 94.4% 상대강도를 가장 자연스럽게 받는 베타 continuation입니다.",
       "score": null,
-      "community": "SOL이 메이저 중 유일한 녹색이라 JTO가 솔라나 베타 보조축으로 남습니다.",
+      "community": "솔라나가 메이저 중 가장 강한 축이라 JTO 보조 베타 선호가 유지됩니다.",
       "risk": null,
-      "allocation_krw": 340934.2829845037,
-      "role": "solana-ecosystem survivor",
-      "invalidated_if": "1220원 하회 시 60%대 survivor 훼손",
-      "range_position_pct": 60.3,
-      "day_high_gap_pct": -5.24
-    },
-    {
-      "icon": "🪙",
-      "symbol": "CELO",
-      "market": "KRW-CELO",
-      "price_krw": 103.0,
-      "change_pct_24h": 9.3418259,
-      "turnover_krw_24h": 8402332243.391513,
-      "reason": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다.",
-      "score": null,
-      "community": "대금 대비 구조는 완벽하진 않지만 아직 녹색을 지키는 몇 안 되는 실전 유동성 슬롯입니다.",
-      "risk": null,
-      "allocation_krw": 340934.2829845037,
-      "role": "liquid continuation survivor",
-      "invalidated_if": "101원 하회 시 survivor continuation 손상",
-      "range_position_pct": 54.8,
-      "day_high_gap_pct": -7.21
-    },
-    {
-      "icon": "🪙",
-      "symbol": "PUMP",
-      "market": "KRW-PUMP",
-      "price_krw": 2.18,
-      "change_pct_24h": 5.82524272,
-      "turnover_krw_24h": 4533722466.3456745,
-      "reason": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다.",
-      "score": null,
-      "community": "화제성은 남아 있지만 내부자/GO 논란이 있어 비중 확대 대신 동일비중 제한만 유지합니다.",
-      "risk": null,
-      "allocation_krw": 340934.2829845037,
-      "role": "headline-beta survivor",
-      "invalidated_if": "2.15원 하회 시 headline-beta 슬롯 철수",
-      "range_position_pct": 50.0,
-      "day_high_gap_pct": -5.63
+      "allocation_krw": 385721.4143296423,
+      "role": "solana beta continuation",
+      "invalidated_if": "1242원 하회 시 SOL 베타 continuation 약화",
+      "range_position_pct": 77.4,
+      "day_high_gap_pct": -0.55
     }
   ],
   "reference_watchlist": [
     {
-      "icon": "🪙",
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "21% 상승과 592억원 대금은 강하지만 -11.6% 갭이 너무 커 exhausted blowoff 경고를 무시하기 어렵습니다."
+      "icon": "🌞",
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "대금 1위는 맞지만 현재 -0.68%·50.0% 위치라 메이저 반등장 핵심 바스켓 기준에서는 이미 식은 salvage 코어입니다."
     },
     {
       "icon": "🪙",
-      "symbol": "TOSHI",
-      "market": "KRW-TOSHI",
-      "reason": "152억원 대금과 +9.64%가 남아도 27.0% 위치·-20.18% 갭이면 상장 follow-through는 이미 깨졌습니다."
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "+11.04%와 744.5억원 대금은 강하지만 54.5% 위치·-7.98% 갭이면 여전히 exhausted blowoff 경고가 큽니다."
     },
     {
       "icon": "🪙",
       "symbol": "HUNT",
       "market": "KRW-HUNT",
-      "reason": "387억원 대금과 +13.28%에도 25.0% 위치·-29.27% 갭이라 전형적인 turnover trap입니다."
+      "reason": "414.8억원 대금과 64.3% 위치는 좋지만 +0.70%라 EDGE·JTO보다 속도가 한 단계 느립니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "AGLD",
+      "market": "KRW-AGLD",
+      "reason": "100% 위치와 143.6억원 대금은 훌륭하지만 커뮤니티 확장성과 테마성은 WLD보다 약합니다."
+    },
+    {
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "구조는 매우 깨끗하지만 강한 스토리와 업비트 attention은 PROS·POKT·WLD보다 약합니다."
+    },
+    {
+      "icon": "🪪",
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "87.5% 위치와 깔끔한 갭은 좋지만 대금 체급이 JTO와 비슷하고 확장성은 다소 낮습니다."
     },
     {
       "icon": "🌊",
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "체급과 갭은 깔끔하지만 현재는 -0.10%와 52.4% 위치라 5개 긍정 후보보다 한 단계 아래입니다."
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "-1.06%라도 갭은 단정하지만 33.3% 위치로 새벽 생존주 승격 기준에는 미달입니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "WIF",
-      "market": "KRW-WIF",
-      "reason": "+2.78%를 지켜도 40.0% 위치·16억원 대금이면 이번 회차 공격 바스켓 우선순위에서 밀립니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "SYRUP",
-      "market": "KRW-SYRUP",
-      "reason": "가격이 음전환되고 18.5% 위치로 무너져 디파이 continuation 가정이 깨졌습니다."
+      "reason": "체급형 품질 코어로는 좋지만 top4 majors 제외 이후에는 이번 회차 톱5 알트보다 한 단계 아래입니다."
     }
   ],
   "cycle_improvements": [
-    "DECISIONS.md에 “메이저 평균이 35% 아래로 재붕괴하고 보유 3개 이상이 30% 이하 range 또는 무효화 이탈이면 75%로 즉시 축소하고 fresh 1개+clean survivor 4개로 재편” 규칙을 추가했습니다.",
-    "리포트에서 기존 보유 붕괴 여부를 첫 줄 판단 근거에 직접 반영해 왜 교체했는지 한눈에 보이게 정리했습니다.",
-    "선정 로직에서 headline 상승률보다 day-high gap과 실제 range 붕괴를 더 강하게 반영해 TOSHI·POWR·HUNT 추격을 막았습니다."
+    "DECISIONS.md에 “메이저 평균이 50%p 이상 급반등하고 weak breadth 경고가 해제됐는데 held salvage 코어가 55% 미만이면, 현재 75~100% 상단 리더 5종으로 즉시 전면 교체” 규칙을 추가했습니다.",
+    "리포트에 snapshot delta(메이저 평균 변화폭, weak breadth 해제)를 첫 줄 근거로 넣어 왜 공격도를 다시 올렸는지 더 빨리 읽히게 정리했습니다.",
+    "선정 로직에서 fresh breakout 4개 이상일 때는 직전 대금 1위 salvage 보유를 자동 우대하지 않도록 판단 메모를 강화했습니다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "592억원 대금과 +21.07%에도 -11.6% 갭이면 late chase 금지입니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "대금 1위라도 -0.68%·50.0% 위치면 rebound cycle 톱5 코어로는 늦었습니다."
     },
     {
-      "symbol": "TOSHI",
-      "market": "KRW-TOSHI",
-      "reason": "152억원 대금이 남아도 27.0% 위치·-20.18% 갭이면 follow-through 실패입니다."
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "+11.04%와 744.5억원 대금에도 -7.98% 갭이면 exhausted chase 경고가 큽니다."
     },
     {
       "symbol": "HUNT",
       "market": "KRW-HUNT",
-      "reason": "387억원 대금, +13.28%가 있어도 25.0% 위치·-29.27% 갭은 turnover trap입니다."
+      "reason": "구조는 괜찮지만 속도와 내러티브 확장성은 EDGE·JTO보다 약간 부족합니다."
     },
     {
-      "symbol": "SYRUP",
-      "market": "KRW-SYRUP",
-      "reason": "음전환과 18.5% 위치로 직전 continuation 가정이 무효화됐습니다."
+      "symbol": "AGLD",
+      "market": "KRW-AGLD",
+      "reason": "매우 깨끗하지만 WLD보다 attention 우위가 약해 6위권으로 둡니다."
     },
     {
-      "symbol": "WIF",
-      "market": "KRW-WIF",
-      "reason": "40.0% 위치와 16억원 대금이면 새벽 공격 바스켓 생존축으로 약합니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "고위치 품질은 좋지만 이번 회차는 더 공격적인 attention/tech 축이 우선입니다."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "갭은 깨끗하지만 미세 음수와 52.4% 위치라 current positive 5종보다 약간 밀립니다."
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "87.5% 위치는 좋지만 대금과 확장성이 JTO·WLD보다 한 단계 아래입니다."
     }
   ],
-  "top_line": "**메이저 평균 위치 31.12%로 재붕괴**, **기존 보유 3종(TOSHI·WIF·SYRUP)이 사실상 깨졌습니다.** 그래서 **SLX 중심 75% 바스켓**으로 즉시 재편합니다.",
-  "ui_version": "v19.6",
+  "top_line": "**메이저 평균 위치 31.12% → 88.30% 급반등**, **weak breadth 경고 해제**. 그래서 **SLX·KAITO·CELO salvage 바스켓을 버리고 PROS·POKT·WLD·EDGE·JTO 85% 바스켓**으로 재가속합니다.",
+  "ui_version": "v19.7",
   "risk_plan": {
-    "portfolio_cash_target": "기본 25% 유지. 메이저 평균 45% 재상향 + SLX 외 2개 이상이 60%대 상단 회복 시 80% 재확대 검토.",
-    "review_trigger": "SLX 842 / KAITO 868 / JTO 1220 / CELO 101 / PUMP 2.15 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 15% 유지. 메이저 평균이 75% 아래로 재하락하거나 fresh breakout이 1개 이하로 줄면 75~80%로 축소 재검토.",
+    "review_trigger": "PROS 782 / POKT 13.3 / WLD 664 / EDGE 142 / JTO 1242 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 35% 미만 + weak breadth true면 90% 추격 금지",
-      "보유 종목 3개 이상이 30% 이하 range 또는 무효화 이탈이면 75% 이하로 즉시 축소",
-      "headline turnover보다 현재 range 유지력과 day-high gap을 우선"
+      "fresh breakout 4개 이상 + 메이저 평균 80% 이상이면 salvage 보유보다 현재 상단 리더 우선",
+      "day-high gap -7% 이하 고대금 급등주는 late chase 금지",
+      "한 종목 대금이 커도 100% 집중 금지"
     ],
     "exit_rules": [
-      "SLX 842 / KAITO 868 / JTO 1220 / CELO 101 / PUMP 2.15 하회 시 즉시 재평가",
+      "PROS 782 / POKT 13.3 / WLD 664 / EDGE 142 / JTO 1242 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 35% 미만 + weak breadth true면 90% 추격 금지",
-      "보유 종목 3개 이상이 30% 이하 range 또는 무효화 이탈이면 75% 이하로 즉시 축소",
-      "headline turnover보다 현재 range 유지력과 day-high gap을 우선"
+      "fresh breakout 4개 이상 + 메이저 평균 80% 이상이면 salvage 보유보다 현재 상단 리더 우선",
+      "day-high gap -7% 이하 고대금 급등주는 late chase 금지",
+      "한 종목 대금이 커도 100% 집중 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 2,282.0억원입니다.",
-    "momentum_discipline": "TOSHI·WIF·SYRUP 퇴출, SLX 중심 75% 리셋",
-    "diversification": "fresh breakout 1 + clean survivor 3 + headline beta 1",
-    "cash_usage": "75%",
+    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 1,094.2억원입니다.",
+    "momentum_discipline": "salvage 3종(SLX·KAITO·CELO) 축출, fresh/reclaim 5종으로 전면 재편",
+    "diversification": "fresh breakout 2 + attention reclaim 1 + continuation 2",
+    "cash_usage": "85%",
     "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "fresh 1 / conviction 1 / survivor 3 / reclaim 1"
+    "summary": "fresh 2 / attention 1 / continuation 2 / salvage 0"
   },
   "rotation_map": [
     {
-      "bucket": "TOSHI → SLX",
+      "bucket": "SLX → PROS",
       "symbols": [
-        "TOSHI",
-        "SLX"
+        "SLX",
+        "PROS"
       ],
-      "note": "깨진 상장 후속 27% range 대신 95.4% fresh mega-breakout으로 교체합니다."
+      "note": "50.0% salvage 대금주 대신 96.2% fresh breakout 리더로 교체합니다."
     },
     {
-      "bucket": "WIF → KAITO",
+      "bucket": "KAITO → POKT",
       "symbols": [
-        "WIF",
-        "KAITO"
+        "KAITO",
+        "POKT"
       ],
-      "note": "40%대 소형 밈 잔존주 대신 구조가 더 단정한 clean survivor로 교체합니다."
+      "note": "31.2% 약화 attention survivor 대신 100% continuation 코어로 교체합니다."
     },
     {
-      "bucket": "SYRUP → JTO",
+      "bucket": "CELO → WLD",
       "symbols": [
-        "SYRUP",
-        "JTO"
+        "CELO",
+        "WLD"
       ],
-      "note": "음전환 디파이 슬롯 대신 SOL 상대강도를 받는 생존주로 이동합니다."
+      "note": "33.3% 저위치 슬롯 대신 84.6% attention-liquidity reclaim으로 올립니다."
     },
     {
-      "bucket": "CELO(축소 유지) → CELO(유지)",
+      "bucket": "PUMP → EDGE",
       "symbols": [
-        "CELO(축소 유지)",
-        "CELO(유지)"
+        "PUMP",
+        "EDGE"
       ],
-      "note": "완벽하진 않지만 녹색 유동성 슬롯이라 동일비중 재편 후 유지합니다."
+      "note": "headline beta 대신 388억원 실거래 continuation으로 교체합니다."
     },
     {
-      "bucket": "PUMP(축소 유지) → PUMP(유지)",
+      "bucket": "JTO(유지 보강) → JTO(유지)",
       "symbols": [
-        "PUMP(축소 유지)",
-        "PUMP(유지)"
+        "JTO(유지 보강)",
+        "JTO(유지)"
       ],
-      "note": "논란성 headline 리스크가 있어도 아직 양수 구조가 남아 제한적 베타 슬롯으로 유지합니다."
+      "note": "SOL 상대강도가 강해 남기되 85% 동일비중 바스켓에 맞춰 재편합니다."
     }
   ],
   "self_evaluation": {
-    "score": 9.3,
-    "summary": "직전 80% all-positive 바스켓을 그대로 방어하지 않고 실제로 무너진 TOSHI·WIF·SYRUP를 버린 점은 좋았습니다. 다만 SLX 한 종목이 너무 강해 과도한 집중 유혹이 커지므로 75%로 낮춘 절제가 이번 회차 핵심입니다."
+    "score": 9.5,
+    "summary": "직전 회차에서 빠르게 75%로 줄인 건 맞았고, 이번 회차에서는 반대로 majors rebound와 breadth 회복을 확인하자마자 salvage를 고집하지 않고 85% 리더 바스켓으로 재가속한 점이 좋았습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 6.05,
-    "preferred_positive_count": 5,
+    "preferred_avg_change_pct_24h": 4.7,
+    "preferred_positive_count": 4,
     "preferred_negative_count": 0,
-    "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 180421887351.1714,
-    "leader_turnover_share_pct": 85.81,
-    "leader_symbol": "SLX",
-    "leader_concentration_warning": "high"
+    "preferred_positive_ratio_pct": 80.0,
+    "preferred_turnover_total_krw_24h": 109269336992.64221,
+    "leader_turnover_share_pct": 35.51,
+    "leader_symbol": "EDGE",
+    "leader_concentration_warning": "moderate"
   },
-  "snapshot_updated_at_utc": "2026-06-28T18:59:13.382198+00:00",
+  "snapshot_updated_at_utc": "2026-06-29T00:59:00.777054+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 1,
-    "top15_alt_low_range_count_delta": 2,
-    "weak_breadth_warning_changed": false,
-    "entered_top5_turnover": [
-      "HUNT"
-    ],
-    "exited_top5_turnover": [
-      "AGLD"
-    ]
+    "top15_alt_positive_count_delta": 0,
+    "top15_alt_low_range_count_delta": -10,
+    "weak_breadth_warning_changed": true,
+    "entered_top5_turnover": [],
+    "exited_top5_turnover": []
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -35.91,
-    "major_positive_count_delta": -3,
-    "major_negative_count_delta": 3
+    "major_avg_range_position_pct_delta": 57.18,
+    "major_positive_count_delta": 2,
+    "major_negative_count_delta": -2
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 1,
-    "high_conviction_count": 1,
-    "quality_survivor_count": 3,
-    "relative_strength_reclaim_count": 1,
-    "breakout_cluster_active": false,
-    "summary": "fresh 1 / conviction 1 / survivor 3 / reclaim 1"
+    "fresh_breakout_count": 4,
+    "high_conviction_count": 9,
+    "quality_survivor_count": 13,
+    "relative_strength_reclaim_count": 20,
+    "breakout_cluster_active": true,
+    "summary": "fresh 4 / conviction 9 / survivor 13 / reclaim 20"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 15.6,
-    "major_avg_range_position_pct": 31.12,
-    "preferred_avg_change_pct_24h": 6.05,
-    "preferred_high_range_count": 1,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "regime": "btc_stabilizing_alt_continuation",
+    "regime_label_ko": "메이저 안정·알트 지속",
+    "regime_icon": "🟢",
+    "btc_range_position_pct": 83.7,
+    "major_avg_range_position_pct": 88.3,
+    "preferred_avg_change_pct_24h": 4.7,
+    "preferred_high_range_count": 3,
+    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
   },
   "regime_shift_alert": {
-    "active": true,
-    "major_avg_delta_pct": -35.91,
+    "active": false,
+    "major_avg_delta_pct": 57.18,
     "top15_positive_count": 7,
-    "top15_low_range_count": 13,
-    "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
+    "top15_low_range_count": 3,
+    "summary": "급격한 레짐 붕괴 경고는 아직 없음"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -35.91,
-    "fresh_breakout_count": 1,
+    "major_avg_delta_pct": 57.18,
+    "fresh_breakout_count": 4,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 63.5,
-    "avg_day_high_gap_pct": -4.54,
-    "above_80_range_count": 1,
-    "summary": "고위치(80%+) 후보 1개 / 평균 위치 63.5%"
+    "avg_range_position_pct": 84.98,
+    "avg_day_high_gap_pct": -1.06,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 84.98%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -750,43 +745,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "last_price_krw": 875.0,
-      "threshold_krw": 842.0,
-      "distance_to_invalidation_pct": 3.92,
+      "icon": "🧱",
+      "symbol": "PROS",
+      "last_price_krw": 803.0,
+      "threshold_krw": 782.0,
+      "distance_to_invalidation_pct": 2.69,
       "status": "near"
     },
     {
-      "icon": "🧠",
-      "symbol": "KAITO",
-      "last_price_krw": 882.0,
-      "threshold_krw": 868.0,
-      "distance_to_invalidation_pct": 1.61,
+      "icon": "📶",
+      "symbol": "POKT",
+      "last_price_krw": 13.6,
+      "threshold_krw": 13.3,
+      "distance_to_invalidation_pct": 2.26,
+      "status": "near"
+    },
+    {
+      "icon": "🌍",
+      "symbol": "WLD",
+      "last_price_krw": 670.0,
+      "threshold_krw": 664.0,
+      "distance_to_invalidation_pct": 0.9,
+      "status": "near"
+    },
+    {
+      "icon": "🗡️",
+      "symbol": "EDGE",
+      "last_price_krw": 146.0,
+      "threshold_krw": 142.0,
+      "distance_to_invalidation_pct": 2.82,
       "status": "near"
     },
     {
       "icon": "🪂",
       "symbol": "JTO",
-      "last_price_krw": 1249.0,
-      "threshold_krw": 1220.0,
-      "distance_to_invalidation_pct": 2.38,
-      "status": "near"
-    },
-    {
-      "icon": "🪙",
-      "symbol": "CELO",
-      "last_price_krw": 103.0,
-      "threshold_krw": 101.0,
-      "distance_to_invalidation_pct": 1.98,
-      "status": "near"
-    },
-    {
-      "icon": "🪙",
-      "symbol": "PUMP",
-      "last_price_krw": 2.18,
-      "threshold_krw": 2.15,
-      "distance_to_invalidation_pct": 1.4,
+      "last_price_krw": 1258.0,
+      "threshold_krw": 1242.0,
+      "distance_to_invalidation_pct": 1.29,
       "status": "near"
     }
   ],
@@ -799,8 +794,8 @@
   "rotation_pressure": {
     "active": true,
     "near_or_broken_count": 5,
-    "leader_concentration_warning": "high",
-    "avg_range_position_pct": 63.5,
+    "leader_concentration_warning": "moderate",
+    "avg_range_position_pct": 84.98,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -810,155 +805,154 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "PUMP",
-      "action": "BUY",
-      "price_krw": 2.18,
-      "amount_delta": 156391.87292867142,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다."
-    },
-    {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "CELO",
-      "action": "BUY",
-      "price_krw": 103.0,
-      "amount_delta": 3310.0415823738226,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다."
-    },
-    {
-      "timestamp": "2026-06-29T03:58:00+09:00",
+      "timestamp": "2026-06-29T09:58:00+09:00",
       "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 1249.0,
-      "amount_delta": 272.9657990268244,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다."
+      "price_krw": 1258.0,
+      "amount_delta": 306.61479676442156,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "61.4억원 대금, +1.04%, 77.4% 위치로 SOL 94.4% 상대강도를 가장 자연스럽게 받는 베타 continuation입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "KAITO",
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "EDGE",
       "action": "BUY",
-      "price_krw": 882.0,
-      "amount_delta": 386.5468061048795,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다."
+      "price_krw": 146.0,
+      "amount_delta": 2641.927495408509,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "388.1억원 대금, +5.04%, 66.7% 위치와 -3.95% 갭으로 POWR보다 훨씬 덜 과열된 실전 continuation입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "SLX",
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 875.0,
-      "amount_delta": 389.6391805537185,
-      "cash_delta_krw": -340934.2829845037,
-      "reason": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다."
+      "price_krw": 670.0,
+      "amount_delta": 575.7036034770781,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "209.9억원 대금, 84.6% 위치와 -0.30% 갭으로 Altman 연상 attention이 붙는 고유동성 reclaim 축입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "SYRUP",
-      "action": "SELL",
-      "price_krw": 210.0,
-      "amount_delta": -1694.1372682637468,
-      "cash_delta_krw": 355768.82633538684,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "POKT",
+      "action": "BUY",
+      "price_krw": 13.6,
+      "amount_delta": 28361.868700708994,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "220.8억원 대금, +3.03%, 100% 위치로 상단 종가권 유지가 가장 깔끔한 continuation 코어입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "WIF",
-      "action": "SELL",
-      "price_krw": 259.0,
-      "amount_delta": -1449.3569785526352,
-      "cash_delta_krw": 375383.4574451325,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "PROS",
+      "action": "BUY",
+      "price_krw": 803.0,
+      "amount_delta": 480.350453710638,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "212.6억원 대금, +14.39%, 96.2% 위치와 -0.50% 갭이 동시에 살아 있어 이번 회차 최우선 fresh breakout입니다."
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "CELO",
-      "action": "SELL",
-      "price_krw": 103.0,
-      "amount_delta": -3665.2008207629137,
-      "cash_delta_krw": 377515.6845385801,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
-    },
-    {
-      "timestamp": "2026-06-29T03:58:00+09:00",
+      "timestamp": "2026-06-29T09:58:00+09:00",
       "symbol": "PUMP",
       "action": "SELL",
       "price_krw": 2.18,
-      "amount_delta": -170170.03810684956,
-      "cash_delta_krw": 370970.68307293206,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+      "amount_delta": -156391.87292867142,
+      "cash_delta_krw": 340934.2829845037,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
     },
     {
-      "timestamp": "2026-06-29T03:58:00+09:00",
-      "symbol": "TOSHI",
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "CELO",
       "action": "SELL",
-      "price_krw": 0.182,
-      "amount_delta": -1740551.9879422055,
-      "cash_delta_krw": 316780.4618054814,
-      "reason": "메이저 평균 위치가 31.12%로 급락했고 기존 바스켓 3개가 구조 붕괴해 03:58 가격 기준 75% SLX 중심 5종 균등 재편"
+      "price_krw": 102.0,
+      "amount_delta": -3310.0415823738226,
+      "cash_delta_krw": 337624.24140212993,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1258.0,
+      "amount_delta": -272.9657990268244,
+      "cash_delta_krw": 343390.9751757451,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 874.0,
+      "amount_delta": -386.5468061048795,
+      "cash_delta_krw": 337841.9085356647,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "SLX",
+      "action": "SELL",
+      "price_krw": 875.0,
+      "amount_delta": -389.6391805537185,
+      "cash_delta_krw": 340934.2829845037,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🌞 **SLX** — 875원 / **+8.56%** / 1,548.2억원 / 위치 **95.4%** / mega-liquidity fresh breakout core",
-      "- 🧠 **KAITO** — 882원 / **+5.63%** / 63.4억원 / 위치 **57.0%** / clean attention survivor",
-      "- 🪂 **JTO** — 1,249원 / **+0.89%** / 63.3억원 / 위치 **60.3%** / solana-ecosystem survivor",
-      "- 🟡 **CELO** — 103원 / **+9.34%** / 84.0억원 / 위치 **54.8%** / liquid continuation survivor",
-      "- 🚀 **PUMP** — 2.18원 / **+5.83%** / 45.3억원 / 위치 **50.0%** / headline-beta survivor"
+      "- 🧱 **PROS** — 803원 / **+14.39%** / 212.6억원 / 위치 **96.2%** / fresh breakout momentum core",
+      "- 📶 **POKT** — 13.6원 / **+3.03%** / 220.8억원 / 위치 **100%** / high-range continuation core",
+      "- 🌍 **WLD** — 670원 / **0.00%** / 209.9억원 / 위치 **84.6%** / attention-liquidity reclaim",
+      "- 🗡️ **EDGE** — 146원 / **+5.04%** / 388.1억원 / 위치 **66.7%** / high-turnover continuation",
+      "- 🪂 **JTO** — 1,258원 / **+1.04%** / 61.4억원 / 위치 **77.4%** / solana beta continuation"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **15.6%** / ETH **38.9%** / XRP **23.1%** / SOL **46.9%**",
-      "- 메이저 평균 **31.12% 위치**, **1종만 양수**",
-      "- 즉 **80~90% 과공격은 금지**, **75%만 허용**이 맞습니다."
+      "- BTC **83.7%** / ETH **96.8%** / XRP **78.3%** / SOL **94.4%**",
+      "- 메이저 평균 **88.30% 위치**, **3종 양수**",
+      "- 즉 **방어보다 공격 우위**지만, **동일비중 + 현금 15%**는 유지합니다."
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **75%**, 5종 동일비중",
-      "- 타깃: 각 약 **340,934원**",
-      "- 현금: 약 **568,224원 (25.0%)**",
-      "- 핵심 논리: **major breakdown / held-basket failure / fresh 1 + survivor 4 / no late chase of broken leaders**"
+      "- 실투입: **85%**, 5종 동일비중",
+      "- 타깃: 각 약 **385,721원**",
+      "- 현금: 약 **340,342원 (15.0%)**",
+      "- 핵심 논리: **majors rebound / fresh 4 / weak breadth 해제 / salvage 제거 / current leaders 추종**"
     ],
     "가상 매매 실행 내용": [
-      "- ❌ **전량 정리:** TOSHI / PUMP / CELO / WIF / SYRUP",
-      "- ✅ **신규 재편:** SLX / KAITO / JTO / CELO / PUMP",
-      "- 마지막 액션: **RESET_75_SLX_KAITO_JTO_CELO_PUMP**"
+      "- ❌ **전량 정리:** SLX / KAITO / JTO / CELO / PUMP",
+      "- ✅ **신규 재편:** PROS / POKT / WLD / EDGE / JTO",
+      "- 마지막 액션: **RESET_85_PROS_POKT_WLD_EDGE_JTO**"
     ],
     "현재 포트폴리오 현황": [
-      "- SLX **389.6392개 @ 875원**",
-      "- KAITO **386.5468개 @ 882원**",
-      "- JTO **272.9658개 @ 1,249원**",
-      "- CELO **3309.0707개 @ 103원**",
-      "- PUMP **156392.7904개 @ 2.18원**",
-      "- 현금 **568,224원** / 총평가 **2,272,895원**"
+      "- PROS **480.3505개 @ 803원**",
+      "- POKT **28,361.8687개 @ 13.6원**",
+      "- WLD **575.7036개 @ 670원**",
+      "- EDGE **2,641.9275개 @ 146원**",
+      "- JTO **306.6148개 @ 1,258원**",
+      "- 현금 **340,342원** / 총평가 **2,268,949원**"
     ],
     "자기 평가": [
-      "- 장점: **깨진 상장 후속(TOSHI)·소형 밈(WIF)·디파이 보조축(SYRUP)을 미련 없이 버린 점**은 좋았습니다.",
-      "- 아쉬움: **SLX가 너무 강해 한 종목 집중 유혹이 큰데**, 이번엔 equal-weight와 75% 제한으로만 대응한 점이 더 맞았습니다.",
-      "- 점수: **9.3 / 10**"
+      "- 장점: **75% 방어 모드에서 88% 메이저 반등으로 넘어온 변화를 바로 반영해 salvage를 고집하지 않은 점**이 좋았습니다.",
+      "- 아쉬움: **SLX 대금 1위**에 다시 끌릴 수 있었지만, 이번엔 **현재 위치 50%**를 더 중요하게 본 판단이 맞습니다.",
+      "- 점수: **9.5 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **DECISIONS.md에 “메이저 35% 하회 + 보유 3종 이상 붕괴 시 75% fresh1+survivor4 재편” 규칙 추가**",
-      "- ✅ **리포트 첫 줄에 ‘보유 붕괴 종목 수’를 직접 반영해 교체 이유를 더 빨리 읽히게 개선**",
-      "- ✅ **상승률보다 day-high gap·range 붕괴를 더 강하게 반영해 TOSHI·POWR·HUNT 추격을 차단**"
+      "- ✅ **DECISIONS.md에 “메이저 평균 +50%p 반등 + weak breadth 해제 + held salvage 55% 미만이면 전면 교체” 규칙 추가**",
+      "- ✅ **리포트 첫 줄에 snapshot delta를 직접 반영해 공격도 상향 이유를 즉시 읽히게 개선**",
+      "- ✅ **fresh breakout 4개 이상일 때 직전 대금 1위 보유를 자동 우대하지 않도록 판단 메모 강화**"
     ],
     "판단": [
-      "- **aggressive-75-slx-anchored-reset**"
+      "- **aggressive-85-fresh-breadth-reset**"
     ],
     "신뢰도": [
-      "- **medium-low**"
+      "- **medium**"
     ],
     "추천 행동": [
-      "- **SLX 842 / KAITO 868 / JTO 1220 / CELO 101 / PUMP 2.15** 하회 시 즉시 재평가",
-      "- **POWR**는 초대금이어도 **-11.6% 갭**이라 지금은 watch만 유지",
-      "- **TOSHI / HUNT / SUI**는 다음 회차 교체 후보로 계속 감시"
+      "- **PROS 782 / POKT 13.3 / WLD 664 / EDGE 142 / JTO 1242** 하회 시 즉시 재평가",
+      "- **POWR**는 대금이 압도적이어도 **-7.98% 갭**이라 아직 추격 금지",
+      "- **SLX / HUNT / AGLD / XLM**은 다음 회차 승격 후보로 감시 유지"
     ],
     "리스크 메모": [
-      "- **메이저 재약세가 다시 커졌습니다.**",
-      "- **SLX**는 가장 강하지만 single-leader 장세라 이탈 시 회전이 빨라질 수 있습니다.",
-      "- **KAITO**는 7월 20일 언락 부담이 남아 있습니다.",
-      "- **PUMP**는 화제성은 남아도 GO 바운티·내부자 의혹 리스크가 큽니다.",
-      "- **TOSHI·WIF·SYRUP형 깨진 바스켓**은 지난 회차 수익률 기억보다 즉시 퇴출이 우선입니다."
+      "- **공포탐욕 12**라 뉴스 헤드라인 한두 개에 장중 흔들림이 다시 커질 수 있습니다.",
+      "- **WLD**는 Altman attention 장점이 있지만 실제 가격이 **664원**을 잃으면 reclaim 논리가 약해집니다.",
+      "- **EDGE·JTO**는 continuation 슬롯이라 fresh 리더가 줄면 교체 속도를 늦추지 말아야 합니다.",
+      "- **POWR형 과열 리더**는 상승률보다 **day-high gap**을 우선해서 걸러야 합니다."
     ]
   }
 }

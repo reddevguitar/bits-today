@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 568223.8049741728,
-  "realized_pnl_krw": -7716866.506384857,
-  "last_valuation_krw": 2272895.2198966914,
-  "last_action": "RESET_75_SLX_KAITO_JTO_CELO_PUMP",
-  "last_updated": "2026-06-29T03:58:00+09:00",
-  "trade_count": 1324,
+  "cash_krw": 340342.42440850794,
+  "realized_pnl_krw": -7720812.230224828,
+  "last_valuation_krw": 2268949.4960567197,
+  "last_action": "RESET_85_PROS_POKT_WLD_EDGE_JTO",
+  "last_updated": "2026-06-29T09:58:00+09:00",
+  "trade_count": 1334,
   "positions": {
-    "SLX": {
-      "market": "KRW-SLX",
-      "amount": 389.6391805537185,
-      "avg_buy_price_krw": 875.0,
-      "last_price_krw": 875.0,
-      "value_krw": 340934.2829845037,
-      "thesis": "1,548억원 대금, +8.56%, 95.4% 위치와 -0.91% 갭이 동시에 살아 있어 이번 회차 유일한 fresh breakout 코어입니다.",
-      "strategy": "fresh breakout anchor with strongest real turnover",
-      "role": "mega-liquidity fresh breakout core",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 9.5
+    "PROS": {
+      "market": "KRW-PROS",
+      "amount": 480.350453710638,
+      "avg_buy_price_krw": 803.0,
+      "last_price_krw": 803.0,
+      "value_krw": 385721.4143296423,
+      "thesis": "212.6억원 대금, +14.39%, 96.2% 위치와 -0.50% 갭이 동시에 살아 있어 이번 회차 최우선 fresh breakout입니다.",
+      "strategy": "fresh breakout with strongest clean momentum",
+      "role": "fresh breakout momentum core",
+      "risk_limit_pct": 4.0,
+      "profit_take_pct": 9.0
     },
-    "KAITO": {
-      "market": "KRW-KAITO",
-      "amount": 386.5468061048795,
-      "avg_buy_price_krw": 882.0,
-      "last_price_krw": 882.0,
-      "value_krw": 340934.2829845037,
-      "thesis": "63.4억원 대금, +5.63%, 57.0% 위치와 -3.71% 갭으로 현 시점 중형 attention 계열 중 가장 깔끔한 생존 구조입니다.",
-      "strategy": "positive survivor with cleaner gap than other mid-cap leaders",
-      "role": "clean attention survivor",
-      "risk_limit_pct": 3.2,
+    "POKT": {
+      "market": "KRW-POKT",
+      "amount": 28361.868700708994,
+      "avg_buy_price_krw": 13.6,
+      "last_price_krw": 13.6,
+      "value_krw": 385721.4143296423,
+      "thesis": "220.8억원 대금, +3.03%, 100% 위치로 상단 종가권 유지가 가장 깔끔한 continuation 코어입니다.",
+      "strategy": "hold only while perfect upper-range structure persists",
+      "role": "high-range continuation core",
+      "risk_limit_pct": 3.5,
+      "profit_take_pct": 7.5
+    },
+    "WLD": {
+      "market": "KRW-WLD",
+      "amount": 575.7036034770781,
+      "avg_buy_price_krw": 670.0,
+      "last_price_krw": 670.0,
+      "value_krw": 385721.4143296423,
+      "thesis": "209.9억원 대금, 84.6% 위치와 -0.30% 갭으로 Altman 연상 attention이 붙는 고유동성 reclaim 축입니다.",
+      "strategy": "use as attention-backed liquid reclaim anchor",
+      "role": "attention-liquidity reclaim",
+      "risk_limit_pct": 2.7,
+      "profit_take_pct": 6.0
+    },
+    "EDGE": {
+      "market": "KRW-EDGE",
+      "amount": 2641.927495408509,
+      "avg_buy_price_krw": 146.0,
+      "last_price_krw": 146.0,
+      "value_krw": 385721.4143296423,
+      "thesis": "388.1억원 대금, +5.04%, 66.7% 위치와 -3.95% 갭으로 POWR보다 훨씬 덜 과열된 실전 continuation입니다.",
+      "strategy": "follow-through continuation with real turnover",
+      "role": "high-turnover continuation",
+      "risk_limit_pct": 3.4,
       "profit_take_pct": 7.0
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 272.9657990268244,
-      "avg_buy_price_krw": 1249.0,
-      "last_price_krw": 1249.0,
-      "value_krw": 340934.2829845037,
-      "thesis": "63.3억원 대금, 60.3% 위치와 SOL 상대강도가 겹쳐 5번째 보조축보다 읽기 쉬운 생존주입니다.",
-      "strategy": "liquid 60% survivor paired with SOL relative strength",
-      "role": "solana-ecosystem survivor",
-      "risk_limit_pct": 3.6,
-      "profit_take_pct": 6.8
-    },
-    "CELO": {
-      "market": "KRW-CELO",
-      "amount": 3310.0415823738226,
-      "avg_buy_price_krw": 103.0,
-      "last_price_krw": 103.0,
-      "value_krw": 340934.2829845037,
-      "thesis": "84.0억원 대금과 +9.34%가 남아 있고, 현재 보드에서 broken turnover leaders보다 보유 명분이 낫습니다.",
-      "strategy": "keep only as smaller equal-weight survivor, not a chase",
-      "role": "liquid continuation survivor",
-      "risk_limit_pct": 3.5,
+      "amount": 306.61479676442156,
+      "avg_buy_price_krw": 1258.0,
+      "last_price_krw": 1258.0,
+      "value_krw": 385721.4143296423,
+      "thesis": "61.4억원 대금, +1.04%, 77.4% 위치로 SOL 94.4% 상대강도를 가장 자연스럽게 받는 베타 continuation입니다.",
+      "strategy": "SOL-relative-strength beta continuation",
+      "role": "solana beta continuation",
+      "risk_limit_pct": 3.1,
       "profit_take_pct": 6.5
-    },
-    "PUMP": {
-      "market": "KRW-PUMP",
-      "amount": 156391.87292867142,
-      "avg_buy_price_krw": 2.18,
-      "last_price_krw": 2.18,
-      "value_krw": 340934.2829845037,
-      "thesis": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다.",
-      "strategy": "reduced-size equal-weight beta slot with tighter stop",
-      "role": "headline-beta survivor",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 6.0
     }
   },
   "watchlist": [
     {
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "21% 상승과 592억원 대금은 강하지만 -11.6% 갭이 너무 커 exhausted blowoff 경고를 무시하기 어렵습니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "대금 1위는 맞지만 현재 -0.68%·50.0% 위치라 메이저 반등장 핵심 바스켓 기준에서는 이미 식은 salvage 코어입니다."
     },
     {
-      "symbol": "TOSHI",
-      "market": "KRW-TOSHI",
-      "reason": "152억원 대금과 +9.64%가 남아도 27.0% 위치·-20.18% 갭이면 상장 follow-through는 이미 깨졌습니다."
+      "symbol": "POWR",
+      "market": "KRW-POWR",
+      "reason": "+11.04%와 744.5억원 대금은 강하지만 54.5% 위치·-7.98% 갭이면 여전히 exhausted blowoff 경고가 큽니다."
     },
     {
       "symbol": "HUNT",
       "market": "KRW-HUNT",
-      "reason": "387억원 대금과 +13.28%에도 25.0% 위치·-29.27% 갭이라 전형적인 turnover trap입니다."
+      "reason": "414.8억원 대금과 64.3% 위치는 좋지만 +0.70%라 EDGE·JTO보다 속도가 한 단계 느립니다."
+    },
+    {
+      "symbol": "AGLD",
+      "market": "KRW-AGLD",
+      "reason": "100% 위치와 143.6억원 대금은 훌륭하지만 커뮤니티 확장성과 테마성은 WLD보다 약합니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "구조는 매우 깨끗하지만 강한 스토리와 업비트 attention은 PROS·POKT·WLD보다 약합니다."
+    },
+    {
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "87.5% 위치와 깔끔한 갭은 좋지만 대금 체급이 JTO와 비슷하고 확장성은 다소 낮습니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "체급과 갭은 깔끔하지만 현재는 -0.10%와 52.4% 위치라 5개 긍정 후보보다 한 단계 아래입니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "-1.06%라도 갭은 단정하지만 33.3% 위치로 새벽 생존주 승격 기준에는 미달입니다."
-    },
-    {
-      "symbol": "WIF",
-      "market": "KRW-WIF",
-      "reason": "+2.78%를 지켜도 40.0% 위치·16억원 대금이면 이번 회차 공격 바스켓 우선순위에서 밀립니다."
-    },
-    {
-      "symbol": "SYRUP",
-      "market": "KRW-SYRUP",
-      "reason": "가격이 음전환되고 18.5% 위치로 무너져 디파이 continuation 가정이 깨졌습니다."
+      "reason": "체급형 품질 코어로는 좋지만 top4 majors 제외 이후에는 이번 회차 톱5 알트보다 한 단계 아래입니다."
     }
   ],
   "history": [
@@ -12023,6 +12023,96 @@
       "amount_delta": 156391.87292867142,
       "cash_delta_krw": -340934.2829845037,
       "reason": "45.3억원 대금과 +5.83%는 남았지만 구조가 중간권이라 코어가 아니라 제한적 베타 슬롯으로만 유지합니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "SLX",
+      "action": "SELL",
+      "price_krw": 875.0,
+      "amount_delta": -389.6391805537185,
+      "cash_delta_krw": 340934.2829845037,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 874.0,
+      "amount_delta": -386.5468061048795,
+      "cash_delta_krw": 337841.9085356647,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1258.0,
+      "amount_delta": -272.9657990268244,
+      "cash_delta_krw": 343390.9751757451,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "CELO",
+      "action": "SELL",
+      "price_krw": 102.0,
+      "amount_delta": -3310.0415823738226,
+      "cash_delta_krw": 337624.24140212993,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "PUMP",
+      "action": "SELL",
+      "price_krw": 2.18,
+      "amount_delta": -156391.87292867142,
+      "cash_delta_krw": 340934.2829845037,
+      "reason": "메이저 평균 위치가 88.3%로 급반등하고 weak breadth 경고가 해제돼, 50% 안팎으로 식은 salvage 보유 대신 현재 75~100% 상단 리더 5종으로 전면 교체"
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "PROS",
+      "action": "BUY",
+      "price_krw": 803.0,
+      "amount_delta": 480.350453710638,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "212.6억원 대금, +14.39%, 96.2% 위치와 -0.50% 갭이 동시에 살아 있어 이번 회차 최우선 fresh breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "POKT",
+      "action": "BUY",
+      "price_krw": 13.6,
+      "amount_delta": 28361.868700708994,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "220.8억원 대금, +3.03%, 100% 위치로 상단 종가권 유지가 가장 깔끔한 continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 670.0,
+      "amount_delta": 575.7036034770781,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "209.9억원 대금, 84.6% 위치와 -0.30% 갭으로 Altman 연상 attention이 붙는 고유동성 reclaim 축입니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "EDGE",
+      "action": "BUY",
+      "price_krw": 146.0,
+      "amount_delta": 2641.927495408509,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "388.1억원 대금, +5.04%, 66.7% 위치와 -3.95% 갭으로 POWR보다 훨씬 덜 과열된 실전 continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-29T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1258.0,
+      "amount_delta": 306.61479676442156,
+      "cash_delta_krw": -385721.4143296423,
+      "reason": "61.4억원 대금, +1.04%, 77.4% 위치로 SOL 94.4% 상대강도를 가장 자연스럽게 받는 베타 continuation입니다."
     }
   ]
 }
