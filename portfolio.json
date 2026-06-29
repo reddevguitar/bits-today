@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 428045.7663202717,
-  "realized_pnl_krw": -7849532.894680188,
-  "last_valuation_krw": 2140228.8316013594,
-  "last_action": "RESET_80_SLX_RE_ARX_XLM_IP",
-  "last_updated": "2026-06-29T15:59+09:00",
-  "trade_count": 1344,
+  "cash_krw": 435229.0179291384,
+  "realized_pnl_krw": -7813616.636635856,
+  "last_valuation_krw": 2176145.0896456903,
+  "last_action": "RESET_80_RE_ARX_G_ONDO_XLM",
+  "last_updated": "2026-06-29T21:59+09:00",
+  "trade_count": 1354,
   "positions": {
-    "SLX": {
-      "market": "KRW-SLX",
-      "amount": 357.8230021486076,
-      "avg_buy_price_krw": 957.0,
-      "last_price_krw": 957.0,
-      "value_krw": 342436.6130562175,
-      "thesis": "1,497.1억원 대금, +8.63%, 65.3% 위치로 fresh 0 환경에서 가장 읽기 쉬운 mega-liquidity reclaim 코어입니다.",
-      "strategy": "use mega-liquidity reclaim only while upper-half structure survives",
-      "role": "mega-turnover reclaim core",
-      "risk_limit_pct": 4.4,
-      "profit_take_pct": 9.0
-    },
     "RE": {
       "market": "KRW-RE",
-      "amount": 354.1226608647544,
-      "avg_buy_price_krw": 967.0,
-      "last_price_krw": 967.0,
-      "value_krw": 342436.6130562175,
-      "thesis": "389.8억원 대금, +5.11%, 85.0% 위치와 -2.22% 갭으로 오후 continuation 품질이 가장 좋습니다.",
-      "strategy": "keep only while 80%대 상단 구조와 양수 모멘텀이 유지될 때 보유",
-      "role": "high-conviction continuation core",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 8.0
+      "amount": 298.8697118826699,
+      "avg_buy_price_krw": 1165.0,
+      "last_price_krw": 1165.0,
+      "value_krw": 348183.21434331045,
+      "thesis": "641.0억원 대금·+26.63%·88.7% 위치로 fresh 0 환경에서도 가장 공격적으로 유지할 수 있는 실주도 continuation입니다.",
+      "strategy": "hold while 1120원 above and upper-80s structure survives",
+      "role": "breakout continuation core",
+      "risk_limit_pct": 4.2,
+      "profit_take_pct": 12.0
     },
     "ARX": {
       "market": "KRW-ARX",
-      "amount": 873.5627884087181,
-      "avg_buy_price_krw": 392.0,
-      "last_price_krw": 392.0,
-      "value_krw": 342436.6130562175,
-      "thesis": "199.7억원 대금, +1.03%, 81.2% 위치와 -1.51% 갭으로 과열주보다 훨씬 정직한 continuation입니다.",
-      "strategy": "prefer cleaner 80%대 range hold over headline spikes",
+      "amount": 868.2873175643653,
+      "avg_buy_price_krw": 401.0,
+      "last_price_krw": 401.0,
+      "value_krw": 348183.21434331045,
+      "thesis": "238.7억원 대금·+3.35%·71.4% 위치로 과열주 대비 훨씬 읽기 쉬운 유동성 continuation입니다.",
+      "strategy": "keep while 392원 above and 70%대 상단 구조 유지",
       "role": "liquid continuation",
-      "risk_limit_pct": 3.2,
-      "profit_take_pct": 6.8
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 7.0
+    },
+    "G": {
+      "market": "KRW-G",
+      "amount": 57741.82659093042,
+      "avg_buy_price_krw": 6.03,
+      "last_price_krw": 6.03,
+      "value_krw": 348183.21434331045,
+      "thesis": "126.6억원 대금·+15.08%·77.5% 위치로 tonight 공격성 유지용 고베타 슬롯 가치가 있습니다.",
+      "strategy": "allow only while 5.58원 above and 75%대 구조 유지",
+      "role": "high-beta attention continuation",
+      "risk_limit_pct": 5.5,
+      "profit_take_pct": 11.0
+    },
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 733.0172933543378,
+      "avg_buy_price_krw": 475.0,
+      "last_price_krw": 475.0,
+      "value_krw": 348183.21434331045,
+      "thesis": "112.7억원 대금·+1.28%·75.0% 위치와 -0.84% 갭 조합이 tonight 보드에서 가장 깔끔한 품질형입니다.",
+      "strategy": "prefer as clean liquid survivor while 469원 above",
+      "role": "liquid RWA survivor",
+      "risk_limit_pct": 2.5,
+      "profit_take_pct": 6.0
     },
     "XLM": {
       "market": "KRW-XLM",
-      "amount": 1297.1083827887026,
-      "avg_buy_price_krw": 264.0,
-      "last_price_krw": 264.0,
-      "value_krw": 342436.6130562175,
-      "thesis": "139.8억원 대금, +0.76%, 75.0% 위치와 -0.75% 갭으로 오후 생존주 품질이 매우 안정적입니다.",
-      "strategy": "use as high-liquidity survivor instead of broken small-cap breakouts",
+      "amount": 1323.89054883388,
+      "avg_buy_price_krw": 263.0,
+      "last_price_krw": 263.0,
+      "value_krw": 348183.21434331045,
+      "thesis": "148.7억원 대금·+0.38%·62.5% 위치와 -1.13% 갭으로 여전히 방어 질이 좋습니다.",
+      "strategy": "keep as large-liquidity support while 261원 above",
       "role": "large-liquid survivor",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 5.8
-    },
-    "IP": {
-      "market": "KRW-IP",
-      "amount": 713.4096105337865,
-      "avg_buy_price_krw": 480.0,
-      "last_price_krw": 480.0,
-      "value_krw": 342436.6130562175,
-      "thesis": "67.0억원 대금, +2.78%, 100% 위치와 0.00% 갭으로 현재 보드에서 가장 깨끗한 high-range hold입니다.",
-      "strategy": "hold as clean 100% range-position continuation while turnover stays practical",
-      "role": "clean high-range hold",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 6.5
+      "risk_limit_pct": 2.2,
+      "profit_take_pct": 4.8
     }
   },
   "watchlist": [
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "85.3% 위치와 +1.55%는 좋지만 이번 회차는 RE·ARX보다 대금 체급 우위가 약합니다."
+      "reason": "68.3% 위치와 -1.23% 갭은 좋지만 tonight는 G의 공격성과 ONDO의 유동성 우위에 밀렸습니다."
     },
     {
-      "symbol": "AGLD",
-      "market": "KRW-AGLD",
-      "reason": "73.9% 위치와 105.8억원 대금이 좋아 6위권이지만 XLM이 더 큰 유동성 생존축입니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "57.0% 위치로 깨지진 않았지만 70%대 후보군보다 상단 체류가 한 단계 약합니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "66.7% 위치의 RWA survivor로 괜찮지만 상승 탄력은 IP·ARX보다 한 단계 느립니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "4.27% 상승과 70.0% 위치가 좋아 6위권이지만 대금 체급은 ONDO·XLM보다 작습니다."
     },
     {
-      "symbol": "GAS",
-      "market": "KRW-GAS",
-      "reason": "+6.17%와 210.4억원 대금은 강하지만 -6.58% 갭이면 chase 부담이 큽니다."
+      "symbol": "PYTH",
+      "market": "KRW-PYTH",
+      "reason": "9.80% 상승과 74.6% 위치는 매력적이지만 35.0억원 수준 대금이라 보조 승격 후보로 둡니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "Altman/Robinhood 헤드라인은 남아도 40.6% 위치로 tape가 뉴스보다 약합니다."
+      "symbol": "PIEVERSE",
+      "market": "KRW-PIEVERSE",
+      "reason": "74.8% 위치로 깔끔하지만 실대금이 42.8억원 수준이라 톱5 본선에는 못 올렸습니다."
     },
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "SOL은 강하지만 JTO 본체는 35.9% 위치로 베타 continuation이 식었습니다."
+      "symbol": "IP",
+      "market": "KRW-IP",
+      "reason": "34.8% 위치로 직전 100% hold 구조가 깨져 즉시 core 자격을 잃었습니다."
     },
     {
-      "symbol": "TT",
-      "market": "KRW-TT",
-      "reason": "+18.64% 급등이지만 -8.94% 갭이라 late chase 금지 watch only입니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "초대금은 여전하지만 -1.59%·38.2% 위치·-13.99% 갭이면 salvage가 아니라 trap입니다."
     }
   ],
   "history": [
@@ -12203,6 +12203,96 @@
       "amount_delta": 713.4096105337865,
       "cash_delta_krw": -342436.6130562175,
       "reason": "67.0억원 대금, +2.78%, 100% 위치와 0.00% 갭으로 현재 보드에서 가장 깨끗한 high-range hold입니다."
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "SLX",
+      "action": "SELL",
+      "price_krw": 867.0,
+      "amount_delta": -357.8230021486076,
+      "cash_delta_krw": 310232.5428628428,
+      "reason": "SLX·IP 무효화와 fresh 0 지속, weak breadth 경고 속에서 21:59 가격 기준 5종 all-positive 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "RE",
+      "action": "SELL",
+      "price_krw": 1165.0,
+      "amount_delta": -354.1226608647544,
+      "cash_delta_krw": 412552.89990743884,
+      "reason": "핵심 코어는 유지 여부와 무관하게 21:59 가격 기준 5종 all-positive 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "ARX",
+      "action": "SELL",
+      "price_krw": 401.0,
+      "amount_delta": -873.5627884087181,
+      "cash_delta_krw": 350298.678151896,
+      "reason": "핵심 코어는 유지 여부와 무관하게 21:59 가격 기준 5종 all-positive 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 263.0,
+      "amount_delta": -1297.1083827887026,
+      "cash_delta_krw": 341139.5046734288,
+      "reason": "핵심 코어는 유지 여부와 무관하게 21:59 가격 기준 5종 all-positive 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "IP",
+      "action": "SELL",
+      "price_krw": 468.0,
+      "amount_delta": -713.4096105337865,
+      "cash_delta_krw": 333875.69772981206,
+      "reason": "SLX·IP 무효화와 fresh 0 지속, weak breadth 경고 속에서 21:59 가격 기준 5종 all-positive 균등 공격 분산으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "RE",
+      "action": "BUY",
+      "price_krw": 1165.0,
+      "amount_delta": 298.8697118826699,
+      "cash_delta_krw": -348183.21434331045,
+      "reason": "RE는 1,165원, +26.63%, 641.0억원 대금, 88.7% 위치로 tonight 업비트 보드의 최우선 공격 continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "ARX",
+      "action": "BUY",
+      "price_krw": 401.0,
+      "amount_delta": 868.2873175643653,
+      "cash_delta_krw": -348183.21434331045,
+      "reason": "ARX는 401원, +3.35%, 238.7억원 대금, 71.4% 위치로 고점 피로가 덜한 clean continuation이라 편입합니다."
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "G",
+      "action": "BUY",
+      "price_krw": 6.03,
+      "amount_delta": 57741.82659093042,
+      "cash_delta_krw": -348183.21434331045,
+      "reason": "G는 6.03원, +15.08%, 126.6억원 대금, 77.5% 위치로 tonight 공격성을 유지해줄 고베타 attention continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 475.0,
+      "amount_delta": 733.0172933543378,
+      "cash_delta_krw": -348183.21434331045,
+      "reason": "ONDO는 475원, +1.28%, 112.7억원 대금, 75.0% 위치와 -0.84% 갭으로 품질형 survivor 축으로 적합합니다."
+    },
+    {
+      "timestamp": "2026-06-29T21:59+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 263.0,
+      "amount_delta": 1323.89054883388,
+      "cash_delta_krw": -348183.21434331045,
+      "reason": "XLM은 263원, +0.38%, 148.7억원 대금, 62.5% 위치로 weak breadth 구간 대형 유동성 완충축 역할이 좋습니다."
     }
   ]
 }

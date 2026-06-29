@@ -1,65 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-29 15:59 KST
-- 기준 한줄: **fresh breakout 4 → 0**, **기존 보유 5종 중 4종 무효화**. 메이저 평균은 **76.7%**로 아직 살아 있어 **SLX·RE·ARX·XLM·IP 80% survivor/reclaim 바스켓**으로 즉시 리셋합니다.
-- 시장 한줄 요약: **메이저는 아직 버티지만 오전 breakout 장은 끝났습니다.** 지금은 **깨진 급등주 방어보다 상단 생존주 추종**이 우선입니다.
+- 시각: 2026-06-29 21:59 KST
+- 기준 한줄: **메이저 4종 양전환 유지**지만 **평균 위치 64.1% / fresh breakout 0 / weak breadth=true**입니다. 그래서 **SLX·IP 퇴출**, **RE·ARX·G·ONDO·XLM 80% all-positive 바스켓**으로 다시 맞춥니다.
+- 시장 한줄 요약: **시장 전체는 안 죽었지만, 대금 큰 trap을 버리고 양봉 survivor/continuation만 고르는 장**입니다.
 - 공포탐욕지수: **12 (Extreme Fear, 어제 18)**
-- BTC 참고: **BTC 91.026M원 / ETH 2.399M원 / XRP 1,588.0원 / SOL 109.7K원**
+- BTC 참고: **BTC 90.866M원 / ETH 2.389M원 / XRP 1,600원 / SOL 111.4K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🌞 **SLX** — 957원 / **+8.63%** / 1,497.1억원 / 위치 **65.3%** / mega-turnover reclaim core
-- 🧲 **RE** — 967원 / **+5.11%** / 389.8억원 / 위치 **85.0%** / high-conviction continuation
-- 🧬 **ARX** — 392원 / **+1.03%** / 199.7억원 / 위치 **81.2%** / liquid continuation
-- ✨ **XLM** — 264원 / **+0.76%** / 139.8억원 / 위치 **75.0%** / large-liquid survivor
-- 🪪 **IP** — 480원 / **+2.78%** / 67.0억원 / 위치 **100%** / clean high-range hold
+- 🧲 **RE** — 1,165원 / **+26.63%** / 641.0억원 / 위치 **88.7%** / breakout continuation core
+- 🧬 **ARX** — 401원 / **+3.35%** / 238.7억원 / 위치 **71.4%** / liquid continuation
+- ⚽ **G** — 6.03원 / **+15.08%** / 126.6억원 / 위치 **77.5%** / high-beta attention continuation
+- 🌐 **ONDO** — 475원 / **+1.28%** / 112.7억원 / 위치 **75.0%** / liquid RWA survivor
+- ✨ **XLM** — 263원 / **+0.38%** / 148.7억원 / 위치 **62.5%** / large-liquid survivor
 
 ## 제외된 메이저 참고 신호
-- BTC **85.2%** / ETH **86.5%** / XRP **67.7%** / SOL **67.4%**
-- 메이저 평균 **76.7% 위치**, **4종 모두 비음전**
-- 즉 **시장 전체 붕괴는 아니지만**, **fresh 0**이라 small-cap breakout chase는 중단합니다.
+- BTC **56.3%** / ETH **54.7%** / XRP **70.2%** / SOL **75.4%**
+- 메이저 평균 **64.1% 위치**, **4종 모두 양전환**
+- 다만 top15 비메이저 양봉 비중은 **53.3%**뿐이라 **광범위 추격장 아님**
 
 ## 공격 포트폴리오 전략
 - 실투입: **80%**, 5종 동일비중
-- 타깃: 각 약 **342,437원**
-- 현금: 약 **428,046원 (20.0%)**
-- 핵심 논리: **majors still okay / fresh 0 / held 4 invalidations / survivor-reclaim reset**
+- 타깃: 각 약 **348,183원**
+- 현금: 약 **435,229원 (20.0%)**
+- 핵심 논리: **all-green majors / fresh 0 / weak breadth / all-positive alt rotation**
 
 ## 가상 매매 실행 내용
-- ❌ **전량 정리:** PROS / POKT / WLD / EDGE / JTO
-- ✅ **신규 재편:** SLX / RE / ARX / XLM / IP
-- 마지막 액션: **RESET_80_SLX_RE_ARX_XLM_IP**
+- ❌ **퇴출 2:** SLX / IP
+- ✅ **유지 3:** RE / ARX / XLM
+- ✅ **신규 2:** G / ONDO
+- 마지막 액션: **RESET_80_RE_ARX_G_ONDO_XLM**
 
 ## 현재 포트폴리오 현황
-- SLX **357.8230개 @ 957원**
-- RE **354.1227개 @ 967원**
-- ARX **873.5628개 @ 392원**
-- XLM **1297.1084개 @ 264원**
-- IP **713.4096개 @ 480원**
-- 현금 **428,046원** / 총평가 **2,140,229원**
+- RE **298.8697개 @ 1,165원**
+- ARX **868.2873개 @ 401원**
+- G **57,741.8266개 @ 6.03원**
+- ONDO **733.0173개 @ 475원**
+- XLM **1323.8905개 @ 263원**
+- 현금 **435,229원** / 총평가 **2,176,145원**
 
 ## 자기 평가
-- 장점: **오전 85% breakout 바스켓이 깨졌다는 사실을 미련 없이 인정하고 6시간 내 전면 교체한 점**이 좋았습니다.
-- 아쉬움: **09:58 리더였던 PROS·POKT를 더 오래 믿었으면 손실이 커질 구조**였고, 이번엔 그 집착을 바로 끊은 정도에 만족해야 합니다.
-- 점수: **8.8 / 10**
+- 장점: **SLX 같은 초대금 trap을 더 이상 core로 방어하지 않고 all-positive 5종으로 정리한 점**이 좋았습니다.
+- 아쉬움: **RE 단일 주도 의존이 커져서, 다음 회차에는 follow-through 약화 여부를 더 냉정하게 봐야 합니다.**
+- 점수: **8.9 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 “85% fresh basket → fresh 0 + 3개 이상 invalidation break면 80% survivor reset” 규칙 추가**
-- ✅ **리포트 첫 줄에 “fresh 4→0 / held 4종 붕괴”를 넣어 교체 사유를 즉시 읽히게 개선**
-- ✅ **watchlist를 승격 후보와 late-chase 경고 후보 중심으로 재정렬**
+- ✅ **DECISIONS.md에 “fresh 0 + held salvage 음전환·-10%대 gap이면 즉시 퇴출” 규칙 추가**
+- ✅ **리포트에 유지 3 / 퇴출 2를 바로 보이게 바꿔 바스켓 변화량 가독성 개선**
+- ✅ **watchlist에 재승격 후보와 탈락 복구 감시 후보를 함께 표기하도록 정리**
 
 ## 판단
-- **aggressive-80-survivor-reclaim-reset**
+- **aggressive-80-all-positive-survivor-continuation**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **SLX 927 / RE 940 / ARX 385 / XLM 262 / IP 472** 하회 시 즉시 재평가
-- **POWR·TT**는 상승률이 커도 **day-high gap 악화**로 추격 금지
-- **SUI / AGLD / ONDO / GAS**는 다음 회차 승격 후보로 유지
+- **RE 1120 / ARX 392 / G 5.58 / ONDO 469 / XLM 261** 하회 시 즉시 재평가
+- **SLX / POWR / TT**는 거래대금이 커도 **gap 악화 trap**이라 재추격 금지
+- **SUI / ENA / PYTH / NEAR**는 다음 회차 승격 후보로 유지
 
 ## 리스크 메모
-- **공포탐욕 12**라 한 번 더 흔들리면 survivor 바스켓도 빠르게 약해질 수 있습니다.
-- **SLX**는 최강 대금주지만 **-5.06% 갭**이 남아 있어 완전한 fresh는 아닙니다.
-- **WLD**는 Robinhood/Altman 헤드라인이 있어도 현재는 **뉴스보다 테이프가 약한 상태**입니다.
-- fresh breakout이 다시 늘면 **다음 회차엔 80% survivor 바스켓도 더 빠른 beta 업그레이드**가 필요합니다.
+- **공포탐욕 12**라 야간 추세도 한 번에 꺾일 수 있습니다.
+- **RE가 바스켓 대금의 50.6%**를 차지해 체감상 리더 의존도가 높습니다.
+- **G**는 공격성 유지용 슬롯이라 변동성이 가장 큽니다.
+- **WLD**는 Robinhood 상장/Altman 헤드라인이 남아도 현재는 **뉴스보다 테이프가 약합니다.**
