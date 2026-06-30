@@ -1,145 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "defensive-aggressive-70-all-positive-reset",
+  "judgment": "selective-aggressive-80-clean-continuation-reset",
   "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-30 09:58 KST",
-  "market_status": "**메이저가 다시 약해져서 과거 리더 방어보다 현재 양전환 생존주 5개로 빠르게 갈아타는 장**입니다.",
+  "updated_at": "2026-06-30 15:58 KST",
+  "market_status": "**메이저는 아직 전부 음전환이지만, 업비트는 실패한 오전 바스켓보다 cleaner continuation 5종이 더 읽기 쉬운 장**입니다.",
   "fear_greed": "**12 (Extreme Fear, latest known)**",
-  "btc_snapshot": "**BTC 90.733M원 / ETH 2.419M원 / XRP 1,591원 / SOL 112.8K원**",
-  "cash_krw": "657,637 KRW",
-  "realized_pnl_krw": "-7,797,637 KRW",
-  "last_valuation_krw": "2,192,125 KRW",
+  "btc_snapshot": "**BTC 90.462M원 / ETH 2.420M원 / XRP 1,595원 / SOL 112.6K원**",
+  "cash_krw": "420,318 KRW",
+  "realized_pnl_krw": "-7,888,173 KRW",
+  "last_valuation_krw": "2,101,589 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -78.08,
-  "last_action": "RESET_70_HUNT_ARX_GAS_MLK_WLFI",
-  "trade_count": 1374,
-  "last_updated": "2026-06-30T09:58:00+09:00",
+  "return_pct": -78.98,
+  "last_action": "RESET_80_XLM_ONDO_ID_JTO_WLD",
+  "trade_count": 1384,
+  "last_updated": "2026-06-30T15:58:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 20,
+    "recent_trade_actions_24h": 30,
     "recent_24h_buy_count": 25,
     "recent_24h_sell_count": 25,
     "recent_24h_replacement_count": 25,
     "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "🟢 **HUNT** — 142원 / **+5.97%** / 48.2억원 / 위치 **91.7%** / fresh rotation leader",
-    "🧬 **ARX** — 423원 / **+0.48%** / 293.6억원 / 위치 **60.9%** / survivor continuation",
-    "⛽ **GAS** — 1,769원 / **+3.27%** / 264.5억원 / 위치 **56.9%** / reclaim continuation",
-    "🥛 **MLK** — 56.5원 / **+3.10%** / 120.0억원 / 위치 **60.5%** / mid-cap continuation",
-    "🏛️ **WLFI** — 90.8원 / **+1.11%** / 12.4억원 / 위치 **90.0%** / attention quality slot",
-    "BTC **33.8%** / ETH **14.8%** / XRP **8.3%** / SOL **20.0%**",
-    "메이저 평균 **19.2% 위치**, **4종 모두 음전환**",
-    "breadth rebound가 빠르게 식어 **기존 continuation 방어보다 exposure 축소가 우선**",
-    "실투입: **70%**, 5종 동일비중",
-    "타깃: 각 약 **306,897원**",
-    "현금: 약 **657,637원 (30.0%)**",
-    "핵심 논리: **majors weak / prior basket broken / all-positive reset**",
-    "❌ **교체 4:** RE→HUNT / ONDO→GAS / XLM→MLK / SUI→WLFI",
-    "✅ **유지 1:** ARX",
-    "↘️ **비중 축소:** 총 노출 **85% → 70%**",
-    "마지막 액션: **RESET_70_HUNT_ARX_GAS_MLK_WLFI**",
-    "HUNT **2161.2498개 @ 142원**",
-    "ARX **725.5259개 @ 423원**",
-    "GAS **173.4870개 @ 1,769원**",
-    "MLK **5431.8137개 @ 56.5원**",
-    "WLFI **3379.9281개 @ 90.8원**",
-    "현금 **657,637원** / 총평가 **2,192,125원**",
-    "장점: **메이저 급랭 뒤 기존 바스켓 4개가 사실상 무효화됐다는 점을 바로 인정하고 survivor 1개만 남긴 채 리셋한 판단**이 좋았습니다.",
-    "아쉬움: **이번 톱5 중 WLFI는 구조는 좋지만 대금이 얇아 다음 회차 검증이 꼭 필요합니다.**",
-    "점수: **9.2 / 10**",
-    "✅ **DECISIONS.md에 “메이저 평균 25 아래 + 기존 바스켓 양전환 생존 1개 이하일 때 70% all-positive reset” 규칙 추가**",
-    "✅ **리포트 상단에 교체 4 / 유지 1 / 비중축소 15%p를 명시해 변화량 가독성 개선**",
-    "✅ **watchlist를 turnover trap 대기와 재승격 후보로 더 분명히 정리**",
-    "**defensive-aggressive-70-all-positive-reset**",
+    "✨ **XLM** — 280원 / **+5.66%** / 360.1억원 / 위치 **73.9%** / mega-liquidity continuation",
+    "🌐 **ONDO** — 482원 / **+0.42%** / 130.5억원 / 위치 **83.3%** / headline-backed continuation",
+    "🆔 **ID** — 54.1원 / **+1.50%** / 85.3억원 / 위치 **85.3%** / identity-beta continuation",
+    "🪂 **JTO** — 1,135원 / **+1.43%** / 71.7억원 / 위치 **81.2%** / solana-infra continuation",
+    "🌍 **WLD** — 643원 / **+1.10%** / 364.8억원 / 위치 **60.9%** / attention reclaim anchor",
+    "BTC **26.5%** / ETH **47.6%** / XRP **61.1%** / SOL **33.3%**",
+    "메이저 평균 **42.1% 위치**, **4종 모두 음전환**",
+    "fresh breakout **0**, top15 비메이저 플러스 **5개뿐** → 무작정 90% 공격은 아직 이릅니다",
+    "실투입: **80%**, 5종 동일비중",
+    "타깃: 각 약 **336,254원**",
+    "현금: 약 **420,318원 (20.0%)**",
+    "핵심 논리: **morning reset failed / clean continuation only / attention slot 1개 제한**",
+    "❌ **교체 5:** HUNT→XLM / ARX→ONDO / GAS→ID / MLK→JTO / WLFI→WLD",
+    "✅ **유지 0**",
+    "↗️ **비중 확대:** 총 노출 **70% → 80%**",
+    "마지막 액션: **RESET_80_XLM_ONDO_ID_JTO_WLD**",
+    "XLM **1200.9078개 @ 280원**",
+    "ONDO **697.6228개 @ 482원**",
+    "ID **6215.4192개 @ 54.1원**",
+    "JTO **296.2592개 @ 1,135원**",
+    "WLD **522.9458개 @ 643원**",
+    "현금 **420,318원** / 총평가 **2,101,589원**",
+    "장점: **오전 70% reset을 최근 결정이라는 이유만으로 방어하지 않고, 4개 무효화를 확인한 뒤 전면 교체한 점**이 좋았습니다.",
+    "아쉬움: **WLD는 체급은 좋지만 attention slot이라 broad risk-on 없이 오래 끌고 가면 다시 흔들릴 수 있습니다.**",
+    "점수: **9.0 / 10**",
+    "✅ **fetch_upbit_snapshot.py를 직전에 재실행해 stale snapshot 의존 제거**",
+    "✅ **DECISIONS.md에 ‘70% reset 직후 4개 이상 무효화되면 cleaner 80% continuation 바스켓으로 재업그레이드’ 규칙 추가**",
+    "✅ **리포트 상단에 교체 5 / 유지 0 / 비중확대 10%p를 명시해 실패 인정과 방향 전환을 더 빨리 보이게 개선**",
+    "**selective-aggressive-80-clean-continuation-reset**",
     "**medium**",
-    "**HUNT 138 / ARX 416 / GAS 1735 / MLK 55.2 / WLFI 90** 하회 시 즉시 재평가",
-    "**POWR**는 50%대 reclaim 확인 시 승격 후보",
-    "**RE / ONDO / SLX / WLD**는 구조 복구 전까지 추격 금지",
-    "**메이저 평균 19.2%**라 반등 시도 자체가 아직 약합니다.",
-    "**ARX 비중의 의미는 survivor 유지이지, 강세장 확신이 아닙니다.**",
-    "**WLFI**는 upper-range는 좋지만 대금이 작아 실패 시 빠르게 제거해야 합니다.",
-    "**POWR·SLX 같은 초대금 종목은 지금도 trap 가능성이 높습니다.**"
+    "**XLM 274 / ONDO 476 / ID 53.2 / JTO 1120 / WLD 632** 하회 시 즉시 재평가",
+    "**ONG**는 강하지만 **-8.58% gap** 축소 전까지 추격 금지",
+    "**RE / SLX / ARX / GAS / POWR**는 구조 복구 전 core 금지",
+    "**메이저 4종 전부 음전환**이라 broad risk-on으로 오해하면 안 됩니다.",
+    "**top15 플러스가 5개뿐**이라 후보 풀이 좁습니다.",
+    "**WLD**는 attention slot 1개 한정으로만 유지해야 합니다.",
+    "**ONDO·ID·JTO 중 2개 이상**이 동시에 상단 체류를 잃으면 80% 노출도 과합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "WLFI",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 90.8,
-      "amount_delta": 3379.9281352311023,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "12.4억원 대금은 작지만 +1.11%·90.0% 위치로 public-figure 계열 중 유일하게 상단 체류가 유지된 attention quality slot입니다."
+      "price_krw": 643.0,
+      "amount_delta": 522.9458421456235,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "364.8억원 대금·+1.10%·60.9% 위치로 오후 attention/reclaim 슬롯 중 체급이 가장 큰 앵커입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "MLK",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 56.5,
-      "amount_delta": 5431.813711132461,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "120.0억원 대금·+3.10%·60.5% 위치로 오전 양전환 생존군 중 리스크 대비 구조가 가장 무난한 mid-cap continuation입니다."
+      "price_krw": 1135.0,
+      "amount_delta": 296.25918634329156,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "71.7억원 대금·+1.43%·81.2% 위치로 오후 continuation 바스켓에서 가장 깔끔한 인프라 슬롯입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "GAS",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "ID",
       "action": "BUY",
-      "price_krw": 1769.0,
-      "amount_delta": 173.48641869925612,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "264.5억원 대금·+3.27%·56.9% 위치로 오전 반등 보드에서 체급과 양전환을 동시에 확보한 reclaim continuation입니다."
+      "price_krw": 54.1,
+      "amount_delta": 6215.41915895815,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "85.3억원 대금·+1.50%·85.3% 위치로 attention 과열 없이 고가권을 지키는 clean beta continuation입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "ARX",
-      "action": "BUY",
-      "price_krw": 423.0,
-      "amount_delta": 725.5259448675747,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "293.6억원 대금·+0.48%·60.9% 위치로 기존 코어 중 가장 덜 망가진 survivor continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "HUNT",
-      "action": "BUY",
-      "price_krw": 142.0,
-      "amount_delta": 2161.2498216829867,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "48.2억원 대금·+5.97%·91.7% 위치로 메이저 급랭 속에서도 가장 깨끗한 상단 유지가 확인된 현재 실주도주입니다."
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "SUI",
-      "action": "SELL",
-      "price_krw": 1062.0,
-      "amount_delta": -350.9051028748137,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "XLM",
-      "action": "SELL",
-      "price_krw": 269.0,
-      "amount_delta": -1385.3576923905284,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
+      "timestamp": "2026-06-30T15:58:00+09:00",
       "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 482.0,
+      "amount_delta": 697.6227728208214,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "130.5억원 대금·+0.42%·83.3% 위치로 headline과 실제 테이프가 동시에 살아 있는 clean continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 280.0,
+      "amount_delta": 1200.9077732129854,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "360.1억원 대금·+5.66%·73.9% 위치로 현재 원화 보드의 mega-liquidity continuation 1순위입니다."
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "WLFI",
       "action": "SELL",
-      "price_krw": 483.0,
-      "amount_delta": -771.5553193644972,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
+      "price_krw": 90.5,
+      "amount_delta": -3379.9281352311023,
+      "cash_delta_krw": 305883.4962384148,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "MLK",
+      "action": "SELL",
+      "price_krw": 53.2,
+      "amount_delta": -5431.813711132461,
+      "cash_delta_krw": 288972.48943224695,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "GAS",
+      "action": "SELL",
+      "price_krw": 1681.0,
+      "amount_delta": -173.48641869925612,
+      "cash_delta_krw": 291630.66983344953,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-06-30-1558.md",
+      "title": "2026-06-30-1558"
+    },
     {
       "file": "2026-06-30-0958.md",
       "title": "2026-06-30-0958"
@@ -167,108 +171,87 @@
     {
       "file": "2026-06-28-2158.md",
       "title": "2026-06-28-2158"
-    },
-    {
-      "file": "2026-06-28-1558.md",
-      "title": "2026-06-28-1558"
     }
   ],
   "positions": [
     {
-      "icon": "🪙",
-      "symbol": "HUNT",
-      "market": "KRW-HUNT",
-      "amount": 2161.2498216829867,
-      "avg_buy_price_krw": "142 KRW",
-      "last_price_krw": "142 KRW",
-      "thesis": "48.2억원 대금·+5.97%·91.7% 위치로 메이저 급랭 속에서도 가장 깨끗한 상단 유지가 확인된 현재 실주도주입니다.",
-      "strategy": "prefer while 138원 above and 80%+ upper-range hold persists",
-      "role": "fresh rotation leader",
-      "risk_limit_pct": 4.2,
-      "profit_take_pct": 9.0,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "amount": 725.5259448675747,
-      "avg_buy_price_krw": "423 KRW",
-      "last_price_krw": "423 KRW",
-      "thesis": "293.6억원 대금·+0.48%·60.9% 위치로 기존 코어 중 가장 덜 망가진 survivor continuation입니다.",
-      "strategy": "keep while 416원 above and mid-range hold persists",
-      "role": "survivor continuation",
-      "risk_limit_pct": 3.3,
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "amount": 1200.9077732129854,
+      "avg_buy_price_krw": "280 KRW",
+      "last_price_krw": "280 KRW",
+      "thesis": "360.1억원 대금·+5.66%·73.9% 위치로 현재 원화 보드의 mega-liquidity continuation 1순위입니다.",
+      "strategy": "keep while 274원 above and 65%+ continuation structure persists",
+      "role": "mega-liquidity continuation",
+      "risk_limit_pct": 2.1,
       "profit_take_pct": 7.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🪙",
-      "symbol": "GAS",
-      "market": "KRW-GAS",
-      "amount": 173.48641869925612,
-      "avg_buy_price_krw": "1,769 KRW",
-      "last_price_krw": "1,769 KRW",
-      "thesis": "264.5억원 대금·+3.27%·56.9% 위치로 오전 반등 보드에서 체급과 양전환을 동시에 확보한 reclaim continuation입니다.",
-      "strategy": "hold while 1735원 above and reclaim structure remains intact",
-      "role": "reclaim continuation",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 8.0,
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "amount": 697.6227728208214,
+      "avg_buy_price_krw": "482 KRW",
+      "last_price_krw": "482 KRW",
+      "thesis": "130.5억원 대금·+0.42%·83.3% 위치로 headline과 실제 테이프가 동시에 살아 있는 clean continuation입니다.",
+      "strategy": "prefer while 476원 above and 80%+ upper-range hold persists",
+      "role": "headline-backed continuation",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🪙",
-      "symbol": "MLK",
-      "market": "KRW-MLK",
-      "amount": 5431.813711132461,
-      "avg_buy_price_krw": "56 KRW",
-      "last_price_krw": "56 KRW",
-      "thesis": "120.0억원 대금·+3.10%·60.5% 위치로 오전 양전환 생존군 중 리스크 대비 구조가 가장 무난한 mid-cap continuation입니다.",
-      "strategy": "keep while 55.2원 above and 60%대 구조 유지",
-      "role": "mid-cap continuation",
-      "risk_limit_pct": 3.5,
-      "profit_take_pct": 8.0,
+      "icon": "🆔",
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "amount": 6215.41915895815,
+      "avg_buy_price_krw": "54 KRW",
+      "last_price_krw": "54 KRW",
+      "thesis": "85.3억원 대금·+1.50%·85.3% 위치로 attention 과열 없이 고가권을 지키는 clean beta continuation입니다.",
+      "strategy": "hold while 53.2원 above and 80%+ continuation remains intact",
+      "role": "identity-beta continuation",
+      "risk_limit_pct": 3.1,
+      "profit_take_pct": 6.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "⚙️",
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "amount": 3379.9281352311023,
-      "avg_buy_price_krw": "91 KRW",
-      "last_price_krw": "91 KRW",
-      "thesis": "12.4억원 대금은 작지만 +1.11%·90.0% 위치로 public-figure 계열 중 유일하게 상단 체류가 유지된 attention quality slot입니다.",
-      "strategy": "hold while 90원 above and upper-range hold persists",
-      "role": "attention quality slot",
-      "risk_limit_pct": 2.5,
-      "profit_take_pct": 6.0,
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "amount": 296.25918634329156,
+      "avg_buy_price_krw": "1,135 KRW",
+      "last_price_krw": "1,135 KRW",
+      "thesis": "71.7억원 대금·+1.43%·81.2% 위치로 오후 continuation 바스켓에서 가장 깔끔한 인프라 슬롯입니다.",
+      "strategy": "hold while 1120원 above and upper-range structure persists",
+      "role": "solana-infra continuation",
+      "risk_limit_pct": 2.6,
+      "profit_take_pct": 6.5,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "amount": 522.9458421456235,
+      "avg_buy_price_krw": "643 KRW",
+      "last_price_krw": "643 KRW",
+      "thesis": "364.8억원 대금·+1.10%·60.9% 위치로 오후 attention/reclaim 슬롯 중 체급이 가장 큰 앵커입니다.",
+      "strategy": "keep while 632원 above and 55%+ reclaim structure holds",
+      "role": "attention reclaim anchor",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 6.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "SLX": [
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 867.0,
-        "action": "SELL"
-      }
-    ],
     "RE": [
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 1165.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 1165.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-30T03:58:00+09:00",
         "price_krw": 1175.0,
@@ -286,16 +269,6 @@
       }
     ],
     "ARX": [
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 401.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 401.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-30T03:58:00+09:00",
         "price_krw": 424.0,
@@ -315,48 +288,14 @@
         "timestamp": "2026-06-30T09:58:00+09:00",
         "price_krw": 423.0,
         "action": "BUY"
-      }
-    ],
-    "XLM": [
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 263.0,
-        "action": "SELL"
       },
       {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 263.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-30T03:58:00+09:00",
-        "price_krw": 269.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-30T03:58:00+09:00",
-        "price_krw": 269.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 269.0,
-        "action": "SELL"
-      }
-    ],
-    "IP": [
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 468.0,
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 396.0,
         "action": "SELL"
       }
     ],
     "G": [
-      {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 6.03,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-30T03:58:00+09:00",
         "price_krw": 5.67,
@@ -365,11 +304,6 @@
     ],
     "ONDO": [
       {
-        "timestamp": "2026-06-29T21:59+09:00",
-        "price_krw": 475.0,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-06-30T03:58:00+09:00",
         "price_krw": 483.0,
         "action": "SELL"
@@ -383,6 +317,33 @@
         "timestamp": "2026-06-30T09:58:00+09:00",
         "price_krw": 483.0,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 482.0,
+        "action": "BUY"
+      }
+    ],
+    "XLM": [
+      {
+        "timestamp": "2026-06-30T03:58:00+09:00",
+        "price_krw": 269.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-30T03:58:00+09:00",
+        "price_krw": 269.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-30T09:58:00+09:00",
+        "price_krw": 269.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 280.0,
+        "action": "BUY"
       }
     ],
     "SUI": [
@@ -402,6 +363,11 @@
         "timestamp": "2026-06-30T09:58:00+09:00",
         "price_krw": 142.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 125.0,
+        "action": "SELL"
       }
     ],
     "GAS": [
@@ -409,6 +375,11 @@
         "timestamp": "2026-06-30T09:58:00+09:00",
         "price_krw": 1769.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 1681.0,
+        "action": "SELL"
       }
     ],
     "MLK": [
@@ -416,6 +387,11 @@
         "timestamp": "2026-06-30T09:58:00+09:00",
         "price_krw": 56.5,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 53.2,
+        "action": "SELL"
       }
     ],
     "WLFI": [
@@ -423,312 +399,343 @@
         "timestamp": "2026-06-30T09:58:00+09:00",
         "price_krw": 90.8,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 90.5,
+        "action": "SELL"
+      }
+    ],
+    "ID": [
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 54.1,
+        "action": "BUY"
+      }
+    ],
+    "JTO": [
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 1135.0,
+        "action": "BUY"
+      }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 643.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-30-0958.md",
+  "latest_report_file": "2026-06-30-1558.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🪙",
-      "symbol": "HUNT",
-      "market": "KRW-HUNT",
-      "price_krw": 142.0,
-      "change_pct_24h": 5.97014925,
-      "turnover_krw_24h": 4819708156.81359,
-      "reason": "48.2억원 대금·+5.97%·91.7% 위치로 메이저 급랭 속에서도 가장 깨끗한 상단 유지가 확인된 현재 실주도주입니다.",
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "price_krw": 280.0,
+      "change_pct_24h": 5.66037736,
+      "turnover_krw_24h": 36014517807.0,
+      "reason": "360.1억원 대금·+5.66%·73.9% 위치로 현재 원화 보드의 mega-liquidity continuation 1순위입니다.",
       "score": null,
-      "community": "원화 보드에서 오전 상대강도가 가장 또렷하게 살아남은 회전형 리더입니다.",
+      "community": "오후 업비트 보드에서 가장 읽기 쉬운 초대금 continuation 축입니다.",
       "risk": null,
-      "allocation_krw": 306897.4746789841,
-      "role": "fresh rotation leader",
-      "invalidated_if": "138원 하회 또는 80%대 상단 체류 붕괴",
-      "range_position_pct": 91.7,
-      "day_high_gap_pct": -0.7
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "price_krw": 423.0,
-      "change_pct_24h": 0.47505938,
-      "turnover_krw_24h": 29357402065.180614,
-      "reason": "293.6억원 대금·+0.48%·60.9% 위치로 기존 코어 중 가장 덜 망가진 survivor continuation입니다.",
-      "score": null,
-      "community": "직전 바스켓 5종 중 실제로 양전환 생존에 성공한 거의 유일한 코어입니다.",
-      "risk": null,
-      "allocation_krw": 306897.4746789841,
-      "role": "survivor continuation",
-      "invalidated_if": "416원 하회 시 생존 continuation 약화",
-      "range_position_pct": 60.9,
-      "day_high_gap_pct": -2.08
-    },
-    {
-      "icon": "🪙",
-      "symbol": "GAS",
-      "market": "KRW-GAS",
-      "price_krw": 1769.0,
-      "change_pct_24h": 3.26911851,
-      "turnover_krw_24h": 26446585275.477314,
-      "reason": "264.5억원 대금·+3.27%·56.9% 위치로 오전 반등 보드에서 체급과 양전환을 동시에 확보한 reclaim continuation입니다.",
-      "score": null,
-      "community": "기존 주도주 붕괴 뒤 자금이 옮겨 붙는 대형 회전 슬롯으로 읽힙니다.",
-      "risk": null,
-      "allocation_krw": 306897.4746789841,
-      "role": "reclaim continuation",
-      "invalidated_if": "1735원 하회 시 reclaim continuation 약화",
-      "range_position_pct": 56.9,
-      "day_high_gap_pct": -2.59
-    },
-    {
-      "icon": "🪙",
-      "symbol": "MLK",
-      "market": "KRW-MLK",
-      "price_krw": 56.5,
-      "change_pct_24h": 3.10218978,
-      "turnover_krw_24h": 11995626095.164373,
-      "reason": "120.0억원 대금·+3.10%·60.5% 위치로 오전 양전환 생존군 중 리스크 대비 구조가 가장 무난한 mid-cap continuation입니다.",
-      "score": null,
-      "community": "고점 추격보다 안정적인 중형 순환 생존주로 보드 반응이 차분한 편입니다.",
-      "risk": null,
-      "allocation_krw": 306897.4746789841,
-      "role": "mid-cap continuation",
-      "invalidated_if": "55.2원 하회 시 양전환 continuation 약화",
-      "range_position_pct": 60.5,
-      "day_high_gap_pct": -2.59
-    },
-    {
-      "icon": "⚙️",
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "price_krw": 90.8,
-      "change_pct_24h": 1.11358575,
-      "turnover_krw_24h": 1242027841.1739767,
-      "reason": "12.4억원 대금은 작지만 +1.11%·90.0% 위치로 public-figure 계열 중 유일하게 상단 체류가 유지된 attention quality slot입니다.",
-      "score": null,
-      "community": "정치/브랜드 attention 성격이지만 오늘은 WLD보다 훨씬 깨끗한 테이프를 보여줍니다.",
-      "risk": null,
-      "allocation_krw": 306897.4746789841,
-      "role": "attention quality slot",
-      "invalidated_if": "90원 하회 시 attention slot 약화",
-      "range_position_pct": 90.0,
-      "day_high_gap_pct": -0.11
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🪙",
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "81.4원·+1.62%·427.0억원으로 대금은 매우 크지만 27.3% 위치라 아직 turnover trap 성격이 남아 있습니다. 50%대 재회복 전까지 watchlist로 둡니다."
-    },
-    {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "1163원·-2.02%·925.8억원이어도 7.9% 위치면 직전 실주도 코어가 완전히 깨진 상태라 복구 전까지 재진입 금지입니다."
+      "allocation_krw": 336254.1764996359,
+      "role": "mega-liquidity continuation",
+      "invalidated_if": "274원 하회 또는 65%대 continuation 구조 붕괴",
+      "range_position_pct": 73.9,
+      "day_high_gap_pct": -2.1
     },
     {
       "icon": "🌐",
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "토큰화 국채 뉴스는 유효하지만 474원·-1.25%·0% 위치로 headline이 테이프를 못 살리는 중입니다."
+      "price_krw": 482.0,
+      "change_pct_24h": 0.41666667,
+      "turnover_krw_24h": 13050634466.0,
+      "reason": "130.5억원 대금·+0.42%·83.3% 위치로 headline과 실제 테이프가 동시에 살아 있는 clean continuation입니다.",
+      "score": null,
+      "community": "RWA headline이 식지 않았고 업비트에서도 고가 체류가 가장 깔끔한 편입니다.",
+      "risk": null,
+      "allocation_krw": 336254.1764996359,
+      "role": "headline-backed continuation",
+      "invalidated_if": "476원 하회 또는 80%대 상단 체류 붕괴",
+      "range_position_pct": 83.3,
+      "day_high_gap_pct": -0.41
     },
     {
-      "icon": "🏦",
-      "symbol": "ENA",
-      "market": "KRW-ENA",
-      "reason": "118원·-1.67%·122.5억원·50.0% 위치로 중립권입니다. 양전환과 60%대 회복 시 승격 여지."
+      "icon": "🆔",
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "price_krw": 54.1,
+      "change_pct_24h": 1.50093809,
+      "turnover_krw_24h": 8532592957.913793,
+      "reason": "85.3억원 대금·+1.50%·85.3% 위치로 attention 과열 없이 고가권을 지키는 clean beta continuation입니다.",
+      "score": null,
+      "community": "오늘 오후 원화 보드에서 조용하지만 가장 단정한 소형 continuation 중 하나입니다.",
+      "risk": null,
+      "allocation_krw": 336254.1764996359,
+      "role": "identity-beta continuation",
+      "invalidated_if": "53.2원 하회 시 identity-beta continuation 약화",
+      "range_position_pct": 85.3,
+      "day_high_gap_pct": -0.92
+    },
+    {
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "price_krw": 1135.0,
+      "change_pct_24h": 1.42984808,
+      "turnover_krw_24h": 7167391304.0,
+      "reason": "71.7억원 대금·+1.43%·81.2% 위치로 오후 continuation 바스켓에서 가장 깔끔한 인프라 슬롯입니다.",
+      "score": null,
+      "community": "솔라나 인프라 서사 쪽 자금이 완전히 꺼지지 않았고 테이프가 매우 차분합니다.",
+      "risk": null,
+      "allocation_krw": 336254.1764996359,
+      "role": "solana-infra continuation",
+      "invalidated_if": "1120원 하회 시 솔라나 인프라 continuation 약화",
+      "range_position_pct": 81.2,
+      "day_high_gap_pct": -0.79
     },
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "623원·-2.04%·299.2억원·15.8% 위치로 public-figure headline보다 실제 가격이 더 약합니다."
+      "price_krw": 643.0,
+      "change_pct_24h": 1.10062893,
+      "turnover_krw_24h": 36483454544.0,
+      "reason": "364.8억원 대금·+1.10%·60.9% 위치로 오후 attention/reclaim 슬롯 중 체급이 가장 큰 앵커입니다.",
+      "score": null,
+      "community": "public-figure 계열 중 실제 체결과 대금이 다시 붙는 쪽은 WLD 하나입니다.",
+      "risk": null,
+      "allocation_krw": 336254.1764996359,
+      "role": "attention reclaim anchor",
+      "invalidated_if": "632원 하회 또는 55% reclaim 구조 붕괴",
+      "range_position_pct": 60.9,
+      "day_high_gap_pct": -2.72
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "⛽",
+      "symbol": "ONG",
+      "market": "KRW-ONG",
+      "reason": "+18.21%와 250.7억원 대금은 강하지만 day-high-gap이 -8.58%라 같은 플러스여도 exhausted 성격이 남습니다. -5% 안쪽으로 조여질 때 승격 검토."
     },
     {
-      "icon": "🌞",
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "794원·-3.52%·1502.1억원·0% 위치면 여전히 mega-turnover trap입니다."
+      "icon": "🚀",
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "77원·+5.48%·48.9억원·79.4% 위치로 구조는 좋지만 체급이 톱5 대비 한 단계 작아 이번 회차는 watchlist에 둡니다."
+    },
+    {
+      "icon": "🌉",
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "2822원·0.00%·53.2억원·68.0% 위치로 neutral quality slot입니다. ONDO/JTO 중 하나가 깨지면 대체 1순위."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "221원·+0.45%·34.4억원·100% 위치지만 일중 박스가 너무 좁아 tight-range hold로 분류합니다."
+    },
+    {
+      "icon": "⚙️",
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "90.5원·+0.78%로 무효화는 안 깼지만 대금이 11.3억원 수준이라 attention 슬롯 경쟁에서 WLD에 밀렸습니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "TAIKO",
+      "market": "KRW-TAIKO",
+      "reason": "113원·+11.88%라도 38.7% 위치와 -16.91% gap이면 chase 금지입니다."
     }
   ],
   "cycle_improvements": [
-    "DECISIONS.md에 “메이저 평균 위치가 25 아래로 급락하고 기존 바스켓에서 양전환 생존이 1개 이하일 때는 70% all-positive reset을 강제” 규칙을 추가했습니다.",
-    "리포트 상단에 “교체 4 / 유지 1 / 비중축소 15%p”를 넣어 이번 회차 변화량을 한눈에 읽도록 정리했습니다.",
-    "watchlist를 “turnover trap 대기(POWR·RE·SLX)”와 “재승격 가능(ENA·ONDO)” 성격으로 더 분명하게 분리했습니다."
+    "fetch_upbit_snapshot.py를 이번 회차 직전에 재실행해 오전 stale snapshot 의존을 제거했습니다.",
+    "DECISIONS.md에 ‘70% all-positive reset 직후 4개 이상 무효화되면 cleaner 80% continuation 바스켓으로 재업그레이드’ 규칙을 추가했습니다.",
+    "리포트 상단에 ‘교체 5 / 유지 0 / 비중확대 10%p’를 넣어 실패 인정과 새 방향 전환을 더 빠르게 읽게 정리했습니다."
   ],
   "rejected_candidates": [
     {
+      "symbol": "HUNT",
+      "market": "KRW-HUNT",
+      "reason": "125원·-6.72%·11.0% 위치로 오전 fresh leader 가정이 완전히 무너졌습니다."
+    },
+    {
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "358.9억원 대금에도 -5.94%·5.7% 위치면 mega-turnover trap으로 재분류해야 합니다."
+    },
+    {
+      "symbol": "GAS",
+      "market": "KRW-GAS",
+      "reason": "274.3억원 대금에도 -1.87%·2.3% 위치면 reclaim continuation이 실패했습니다."
+    },
+    {
       "symbol": "RE",
       "market": "KRW-RE",
-      "reason": "925.8억원 대금에도 -2.02%·7.9% 위치면 기존 실주도 코어가 깨졌습니다."
+      "reason": "936.9억원 대금이어도 -8.26%·14.8% 위치면 headline volume보다 매도 압력이 훨씬 강합니다."
     },
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "1502.1억원 대금에도 -3.52%·0% 위치면 여전히 mega-turnover trap입니다."
+      "reason": "1384.2억원 대금에도 -10.94%·15.7% 위치면 여전히 mega-turnover trap입니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "뉴스는 살아 있어도 474원·-1.25%·0% 위치로 테이프가 너무 약합니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "299.2억원 대금에도 -2.04%·15.8% 위치면 attention보다 매도 압력이 강합니다."
-    },
-    {
-      "symbol": "POWR",
-      "market": "KRW-POWR",
-      "reason": "427.0억원 대금은 매력적이지만 27.3% 위치라 아직 core보다 watchlist가 맞습니다."
+      "symbol": "ONG",
+      "market": "KRW-ONG",
+      "reason": "+18.21%는 강하지만 -8.58% gap이 커서 이번 회차 core보다 watchlist가 낫습니다."
     }
   ],
-  "top_line": "**메이저 4종 평균 위치가 19.2%로 급랭**했고 기존 85% 바스켓 5종 중 **ARX만 양전환 생존**했습니다. **RE·ONDO·XLM·SUI를 정리하고 HUNT·ARX·GAS·MLK·WLFI 70% all-positive reset**으로 재편합니다.",
-  "ui_version": "v22.0",
+  "top_line": "**오전 70% reset 5종 중 4종이 재붕괴**했습니다. **HUNT·ARX·GAS·MLK·WLFI를 정리하고 XLM·ONDO·ID·JTO·WLD 80% clean continuation 바스켓**으로 갈아탑니다.",
+  "ui_version": "v22.1",
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. 메이저 평균이 35+로 회복하고 70%+ alt breadth가 재확장되면 80% 재상향 검토. 반대로 15 아래로 더 밀리면 60-65%까지 추가 축소 검토.",
-    "review_trigger": "HUNT 138 / ARX 416 / GAS 1735 / MLK 55.2 / WLFI 90 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. 메이저 평균이 50+로 회복하고 top15 비메이저 플러스가 8개 이상으로 늘면 85% 검토. 반대로 35 아래 재하락하거나 신규 5종 중 2개 이상이 동시에 무효화되면 70%대로 다시 축소 검토.",
+    "review_trigger": "XLM 274 / ONDO 476 / ID 53.2 / JTO 1120 / WLD 632 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 25 아래 + 기존 바스켓 양전환 생존 1개 이하이면 70% all-positive reset 우선",
-      "대금이 커도 30% 미만 trap은 core 금지",
-      "public-figure attention slot은 최대 1개"
+      "fresh breakouts가 0일 때는 cleaner continuation/day-high-gap을 headline보다 우선",
+      "대금이 커도 35% 미만 trap은 core 금지",
+      "public-figure attention slot은 최대 1개",
+      "70% reset 직후 4개 이상 무효화되면 morning basket 방어 금지"
     ],
     "exit_rules": [
-      "HUNT 138 / ARX 416 / GAS 1735 / MLK 55.2 / WLFI 90 하회 시 즉시 재평가",
+      "XLM 274 / ONDO 476 / ID 53.2 / JTO 1120 / WLD 632 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 25 아래 + 기존 바스켓 양전환 생존 1개 이하이면 70% all-positive reset 우선",
-      "대금이 커도 30% 미만 trap은 core 금지",
-      "public-figure attention slot은 최대 1개"
+      "fresh breakouts가 0일 때는 cleaner continuation/day-high-gap을 headline보다 우선",
+      "대금이 커도 35% 미만 trap은 core 금지",
+      "public-figure attention slot은 최대 1개",
+      "70% reset 직후 4개 이상 무효화되면 morning basket 방어 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 505.9억원입니다.",
-    "momentum_discipline": "직전 preferred 5종 중 ARX 1개만 유지하고 4개를 교체",
-    "diversification": "fresh rotation 1 + survivor continuation 1 + reclaim/continuation 2 + attention slot 1",
-    "cash_usage": "70%",
-    "rotation_speed": "high"
+    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 1012.5억원입니다.",
+    "momentum_discipline": "직전 preferred 5종을 전부 교체하고 실패한 morning reset을 즉시 폐기",
+    "diversification": "mega-liquidity continuation 1 + headline continuation 1 + beta continuation 1 + infra continuation 1 + attention reclaim 1",
+    "cash_usage": "80%",
+    "rotation_speed": "very_high"
   },
   "signal_balance": {
-    "summary": "majors weak / prior basket broken / all-positive reset / exposure down"
+    "summary": "majors red / fresh 0 / morning reset failed / rotate into clean continuation"
   },
   "rotation_map": [
     {
-      "bucket": "RE → HUNT",
+      "bucket": "HUNT → XLM",
       "symbols": [
-        "RE",
-        "HUNT"
+        "HUNT",
+        "XLM"
       ],
-      "note": "과열 주도주가 7.9% 위치로 붕괴해 91.7% 상단 체류 생존주로 교체합니다."
+      "note": "무너진 fresh leader보다 360억원대 대금과 73.9% 위치를 지키는 mega-liquidity continuation이 더 우선입니다."
     },
     {
-      "bucket": "ONDO → GAS",
-      "symbols": [
-        "ONDO",
-        "GAS"
-      ],
-      "note": "headline 지속주보다 현재 원화 보드의 양전환 reclaim 구조를 우선합니다."
-    },
-    {
-      "bucket": "XLM → MLK",
-      "symbols": [
-        "XLM",
-        "MLK"
-      ],
-      "note": "대형 breadth 축보다 실제 플러스와 60%대 구조가 남은 중형 continuation이 더 낫습니다."
-    },
-    {
-      "bucket": "SUI → WLFI",
-      "symbols": [
-        "SUI",
-        "WLFI"
-      ],
-      "note": "12.5%로 식은 대형 알트보다 90% upper-range attention slot이 더 깨끗합니다."
-    },
-    {
-      "bucket": "ARX → ARX",
+      "bucket": "ARX → ONDO",
       "symbols": [
         "ARX",
-        "ARX"
+        "ONDO"
       ],
-      "note": "기존 바스켓 유일의 양전환 survivor라 유지하되 70% 동일비중으로 재정렬합니다."
+      "note": "turnover trap으로 전락한 survivor 대신 83.3% upper-range headline continuation으로 교체합니다."
+    },
+    {
+      "bucket": "GAS → ID",
+      "symbols": [
+        "GAS",
+        "ID"
+      ],
+      "note": "2.3% 위치까지 붕괴한 reclaim보다 85.3% 고가 체류 소형 continuation이 더 깨끗합니다."
+    },
+    {
+      "bucket": "MLK → JTO",
+      "symbols": [
+        "MLK",
+        "JTO"
+      ],
+      "note": "중형 continuation 실패 슬롯을 더 강한 솔라나 인프라 continuation으로 교체합니다."
+    },
+    {
+      "bucket": "WLFI → WLD",
+      "symbols": [
+        "WLFI",
+        "WLD"
+      ],
+      "note": "attention 슬롯은 유지하되 얇은 대금의 WLFI 대신 364.8억원 유동성의 WLD로 상향합니다."
     }
   ],
   "self_evaluation": {
-    "score": 9.2,
-    "summary": "03:58 회차의 quality continuation 상향은 그 시점엔 맞았지만, 오전 메이저 급랭으로 4개 슬롯이 빠르게 무효화됐습니다. 이번에는 이를 변명 없이 인정하고 ARX만 남긴 뒤 현재 all-positive 생존주로 바로 리셋한 판단이 좋았습니다."
+    "score": 9.0,
+    "summary": "09:58의 70% reset은 그 시점엔 합리적이었지만 한 사이클도 버티지 못했습니다. 이번에는 HUNT·ARX·GAS·MLK를 변호하지 않고 바로 버리고, 현재 cleaner continuation 5종으로 재편한 대응 속도가 좋았습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 2.79,
+    "preferred_avg_change_pct_24h": 2.02,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 73861349433.80988,
-    "leader_turnover_share_pct": 39.75,
-    "leader_symbol": "ARX",
+    "preferred_turnover_total_krw_24h": 101248591078.91379,
+    "leader_turnover_share_pct": 36.03,
+    "leader_symbol": "WLD",
     "leader_concentration_warning": "moderate"
   },
-  "snapshot_updated_at_utc": "2026-06-29T12:59:11.363568+00:00",
-  "snapshot_age_hours": 11.98,
+  "snapshot_updated_at_utc": "2026-06-30T06:59:10.803927+00:00",
+  "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 2,
-    "top15_alt_low_range_count_delta": 2,
-    "weak_breadth_warning_changed": true,
+    "top15_alt_positive_count_delta": -3,
+    "top15_alt_low_range_count_delta": 1,
+    "weak_breadth_warning_changed": false,
     "entered_top5_turnover": [
-      "ARX",
-      "WLD"
+      "XLM"
     ],
     "exited_top5_turnover": [
-      "HUNT",
-      "EDGE"
+      "POWR"
     ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -12.55,
-    "major_positive_count_delta": 1,
-    "major_negative_count_delta": 0
+    "major_avg_range_position_pct_delta": -22.03,
+    "major_positive_count_delta": -4,
+    "major_negative_count_delta": 4
   },
   "snapshot_breakout_breadth": {
     "fresh_breakout_count": 0,
     "high_conviction_count": 4,
-    "quality_survivor_count": 8,
+    "quality_survivor_count": 6,
     "relative_strength_reclaim_count": 8,
     "breakout_cluster_active": false,
-    "summary": "fresh 0 / conviction 4 / survivor 8 / reclaim 8"
+    "summary": "fresh 0 / conviction 4 / survivor 6 / reclaim 8"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 33.8,
-    "major_avg_range_position_pct": 19.22,
-    "preferred_avg_change_pct_24h": 2.79,
-    "preferred_high_range_count": 2,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 26.5,
+    "major_avg_range_position_pct": 42.12,
+    "preferred_avg_change_pct_24h": 2.02,
+    "preferred_high_range_count": 3,
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "regime_shift_alert": {
     "active": true,
-    "major_avg_delta_pct": -12.55,
-    "top15_positive_count": 8,
-    "top15_low_range_count": 8,
+    "major_avg_delta_pct": -22.03,
+    "top15_positive_count": 5,
+    "top15_low_range_count": 9,
     "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -12.55,
+    "major_avg_delta_pct": -22.03,
     "fresh_breakout_count": 0,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 72.0,
-    "avg_day_high_gap_pct": -1.61,
-    "above_80_range_count": 2,
-    "summary": "고위치(80%+) 후보 2개 / 평균 위치 72.0%"
+    "avg_range_position_pct": 76.92,
+    "avg_day_high_gap_pct": -1.39,
+    "above_80_range_count": 3,
+    "summary": "고위치(80%+) 후보 3개 / 평균 위치 76.92%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -739,43 +746,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🪙",
-      "symbol": "HUNT",
-      "last_price_krw": 142.0,
-      "threshold_krw": 138.0,
-      "distance_to_invalidation_pct": 2.9,
+      "icon": "✨",
+      "symbol": "XLM",
+      "last_price_krw": 280.0,
+      "threshold_krw": 274.0,
+      "distance_to_invalidation_pct": 2.19,
       "status": "near"
     },
     {
-      "icon": "🪙",
-      "symbol": "ARX",
-      "last_price_krw": 423.0,
-      "threshold_krw": 416.0,
-      "distance_to_invalidation_pct": 1.68,
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "last_price_krw": 482.0,
+      "threshold_krw": 476.0,
+      "distance_to_invalidation_pct": 1.26,
       "status": "near"
     },
     {
-      "icon": "🪙",
-      "symbol": "GAS",
-      "last_price_krw": 1769.0,
-      "threshold_krw": 1735.0,
-      "distance_to_invalidation_pct": 1.96,
+      "icon": "🆔",
+      "symbol": "ID",
+      "last_price_krw": 54.1,
+      "threshold_krw": 53.2,
+      "distance_to_invalidation_pct": 1.69,
       "status": "near"
     },
     {
-      "icon": "🪙",
-      "symbol": "MLK",
-      "last_price_krw": 56.5,
-      "threshold_krw": 55.2,
-      "distance_to_invalidation_pct": 2.36,
+      "icon": "🪂",
+      "symbol": "JTO",
+      "last_price_krw": 1135.0,
+      "threshold_krw": 1120.0,
+      "distance_to_invalidation_pct": 1.34,
       "status": "near"
     },
     {
-      "icon": "⚙️",
-      "symbol": "WLFI",
-      "last_price_krw": 90.8,
-      "threshold_krw": 90.0,
-      "distance_to_invalidation_pct": 0.89,
+      "icon": "🌍",
+      "symbol": "WLD",
+      "last_price_krw": 643.0,
+      "threshold_krw": 632.0,
+      "distance_to_invalidation_pct": 1.74,
       "status": "near"
     }
   ],
@@ -789,7 +796,7 @@
     "active": true,
     "near_or_broken_count": 5,
     "leader_concentration_warning": "moderate",
-    "avg_range_position_pct": 72.0,
+    "avg_range_position_pct": 76.92,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -799,155 +806,155 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "WLFI",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "WLD",
       "action": "BUY",
-      "price_krw": 90.8,
-      "amount_delta": 3379.9281352311023,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "12.4억원 대금은 작지만 +1.11%·90.0% 위치로 public-figure 계열 중 유일하게 상단 체류가 유지된 attention quality slot입니다."
+      "price_krw": 643.0,
+      "amount_delta": 522.9458421456235,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "364.8억원 대금·+1.10%·60.9% 위치로 오후 attention/reclaim 슬롯 중 체급이 가장 큰 앵커입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "MLK",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "JTO",
       "action": "BUY",
-      "price_krw": 56.5,
-      "amount_delta": 5431.813711132461,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "120.0억원 대금·+3.10%·60.5% 위치로 오전 양전환 생존군 중 리스크 대비 구조가 가장 무난한 mid-cap continuation입니다."
+      "price_krw": 1135.0,
+      "amount_delta": 296.25918634329156,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "71.7억원 대금·+1.43%·81.2% 위치로 오후 continuation 바스켓에서 가장 깔끔한 인프라 슬롯입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "GAS",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "ID",
       "action": "BUY",
-      "price_krw": 1769.0,
-      "amount_delta": 173.48641869925612,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "264.5억원 대금·+3.27%·56.9% 위치로 오전 반등 보드에서 체급과 양전환을 동시에 확보한 reclaim continuation입니다."
+      "price_krw": 54.1,
+      "amount_delta": 6215.41915895815,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "85.3억원 대금·+1.50%·85.3% 위치로 attention 과열 없이 고가권을 지키는 clean beta continuation입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "ARX",
-      "action": "BUY",
-      "price_krw": 423.0,
-      "amount_delta": 725.5259448675747,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "293.6억원 대금·+0.48%·60.9% 위치로 기존 코어 중 가장 덜 망가진 survivor continuation입니다."
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "HUNT",
-      "action": "BUY",
-      "price_krw": 142.0,
-      "amount_delta": 2161.2498216829867,
-      "cash_delta_krw": -306897.4746789841,
-      "reason": "48.2억원 대금·+5.97%·91.7% 위치로 메이저 급랭 속에서도 가장 깨끗한 상단 유지가 확인된 현재 실주도주입니다."
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "SUI",
-      "action": "SELL",
-      "price_krw": 1062.0,
-      "amount_delta": -350.9051028748137,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "XLM",
-      "action": "SELL",
-      "price_krw": 269.0,
-      "amount_delta": -1385.3576923905284,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T09:58:00+09:00",
+      "timestamp": "2026-06-30T15:58:00+09:00",
       "symbol": "ONDO",
-      "action": "SELL",
-      "price_krw": 483.0,
-      "amount_delta": -771.5553193644972,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
+      "action": "BUY",
+      "price_krw": 482.0,
+      "amount_delta": 697.6227728208214,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "130.5억원 대금·+0.42%·83.3% 위치로 headline과 실제 테이프가 동시에 살아 있는 clean continuation입니다."
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 280.0,
+      "amount_delta": 1200.9077732129854,
+      "cash_delta_krw": -336254.1764996359,
+      "reason": "360.1억원 대금·+5.66%·73.9% 위치로 현재 원화 보드의 mega-liquidity continuation 1순위입니다."
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "WLFI",
+      "action": "SELL",
+      "price_krw": 90.5,
+      "amount_delta": -3379.9281352311023,
+      "cash_delta_krw": 305883.4962384148,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "MLK",
+      "action": "SELL",
+      "price_krw": 53.2,
+      "amount_delta": -5431.813711132461,
+      "cash_delta_krw": 288972.48943224695,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "GAS",
+      "action": "SELL",
+      "price_krw": 1681.0,
+      "amount_delta": -173.48641869925612,
+      "cash_delta_krw": 291630.66983344953,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
+    },
+    {
+      "timestamp": "2026-06-30T15:58:00+09:00",
       "symbol": "ARX",
       "action": "SELL",
-      "price_krw": 424.0,
-      "amount_delta": -878.9179699364437,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
+      "price_krw": 396.0,
+      "amount_delta": -725.5259448675747,
+      "cash_delta_krw": 287308.2741675596,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
     },
     {
-      "timestamp": "2026-06-30T09:58:00+09:00",
-      "symbol": "RE",
+      "timestamp": "2026-06-30T15:58:00+09:00",
+      "symbol": "HUNT",
       "action": "SELL",
-      "price_krw": 1175.0,
-      "amount_delta": -317.15848447068265,
-      "cash_delta_krw": 372661.21925305214,
-      "reason": "메이저 평균 위치가 19.2%로 급랭했고 기존 85% 바스켓에서 ARX만 양전환 생존해, 현재 all-positive 리더 5종 기준 70% 동일비중으로 전량 재편"
+      "price_krw": 125.0,
+      "amount_delta": -2161.2498216829867,
+      "cash_delta_krw": 270156.22771037335,
+      "reason": "오전 70% reset 5종 중 4종이 무효화돼, 현재 cleaner continuation 5종(XLM·ONDO·ID·JTO·WLD) 기준 80% 동일비중으로 전면 재편"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🟢 **HUNT** — 142원 / **+5.97%** / 48.2억원 / 위치 **91.7%** / fresh rotation leader",
-      "- 🧬 **ARX** — 423원 / **+0.48%** / 293.6억원 / 위치 **60.9%** / survivor continuation",
-      "- ⛽ **GAS** — 1,769원 / **+3.27%** / 264.5억원 / 위치 **56.9%** / reclaim continuation",
-      "- 🥛 **MLK** — 56.5원 / **+3.10%** / 120.0억원 / 위치 **60.5%** / mid-cap continuation",
-      "- 🏛️ **WLFI** — 90.8원 / **+1.11%** / 12.4억원 / 위치 **90.0%** / attention quality slot"
+      "- ✨ **XLM** — 280원 / **+5.66%** / 360.1억원 / 위치 **73.9%** / mega-liquidity continuation",
+      "- 🌐 **ONDO** — 482원 / **+0.42%** / 130.5억원 / 위치 **83.3%** / headline-backed continuation",
+      "- 🆔 **ID** — 54.1원 / **+1.50%** / 85.3억원 / 위치 **85.3%** / identity-beta continuation",
+      "- 🪂 **JTO** — 1,135원 / **+1.43%** / 71.7억원 / 위치 **81.2%** / solana-infra continuation",
+      "- 🌍 **WLD** — 643원 / **+1.10%** / 364.8억원 / 위치 **60.9%** / attention reclaim anchor"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **33.8%** / ETH **14.8%** / XRP **8.3%** / SOL **20.0%**",
-      "- 메이저 평균 **19.2% 위치**, **4종 모두 음전환**",
-      "- breadth rebound가 빠르게 식어 **기존 continuation 방어보다 exposure 축소가 우선**"
+      "- BTC **26.5%** / ETH **47.6%** / XRP **61.1%** / SOL **33.3%**",
+      "- 메이저 평균 **42.1% 위치**, **4종 모두 음전환**",
+      "- fresh breakout **0**, top15 비메이저 플러스 **5개뿐** → 무작정 90% 공격은 아직 이릅니다"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **70%**, 5종 동일비중",
-      "- 타깃: 각 약 **306,897원**",
-      "- 현금: 약 **657,637원 (30.0%)**",
-      "- 핵심 논리: **majors weak / prior basket broken / all-positive reset**"
+      "- 실투입: **80%**, 5종 동일비중",
+      "- 타깃: 각 약 **336,254원**",
+      "- 현금: 약 **420,318원 (20.0%)**",
+      "- 핵심 논리: **morning reset failed / clean continuation only / attention slot 1개 제한**"
     ],
     "가상 매매 실행 내용": [
-      "- ❌ **교체 4:** RE→HUNT / ONDO→GAS / XLM→MLK / SUI→WLFI",
-      "- ✅ **유지 1:** ARX",
-      "- ↘️ **비중 축소:** 총 노출 **85% → 70%**",
-      "- 마지막 액션: **RESET_70_HUNT_ARX_GAS_MLK_WLFI**"
+      "- ❌ **교체 5:** HUNT→XLM / ARX→ONDO / GAS→ID / MLK→JTO / WLFI→WLD",
+      "- ✅ **유지 0**",
+      "- ↗️ **비중 확대:** 총 노출 **70% → 80%**",
+      "- 마지막 액션: **RESET_80_XLM_ONDO_ID_JTO_WLD**"
     ],
     "현재 포트폴리오 현황": [
-      "- HUNT **2161.2498개 @ 142원**",
-      "- ARX **725.5259개 @ 423원**",
-      "- GAS **173.4870개 @ 1,769원**",
-      "- MLK **5431.8137개 @ 56.5원**",
-      "- WLFI **3379.9281개 @ 90.8원**",
-      "- 현금 **657,637원** / 총평가 **2,192,125원**"
+      "- XLM **1200.9078개 @ 280원**",
+      "- ONDO **697.6228개 @ 482원**",
+      "- ID **6215.4192개 @ 54.1원**",
+      "- JTO **296.2592개 @ 1,135원**",
+      "- WLD **522.9458개 @ 643원**",
+      "- 현금 **420,318원** / 총평가 **2,101,589원**"
     ],
     "자기 평가": [
-      "- 장점: **메이저 급랭 뒤 기존 바스켓 4개가 사실상 무효화됐다는 점을 바로 인정하고 survivor 1개만 남긴 채 리셋한 판단**이 좋았습니다.",
-      "- 아쉬움: **이번 톱5 중 WLFI는 구조는 좋지만 대금이 얇아 다음 회차 검증이 꼭 필요합니다.**",
-      "- 점수: **9.2 / 10**"
+      "- 장점: **오전 70% reset을 최근 결정이라는 이유만으로 방어하지 않고, 4개 무효화를 확인한 뒤 전면 교체한 점**이 좋았습니다.",
+      "- 아쉬움: **WLD는 체급은 좋지만 attention slot이라 broad risk-on 없이 오래 끌고 가면 다시 흔들릴 수 있습니다.**",
+      "- 점수: **9.0 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **DECISIONS.md에 “메이저 평균 25 아래 + 기존 바스켓 양전환 생존 1개 이하일 때 70% all-positive reset” 규칙 추가**",
-      "- ✅ **리포트 상단에 교체 4 / 유지 1 / 비중축소 15%p를 명시해 변화량 가독성 개선**",
-      "- ✅ **watchlist를 turnover trap 대기와 재승격 후보로 더 분명히 정리**"
+      "- ✅ **fetch_upbit_snapshot.py를 직전에 재실행해 stale snapshot 의존 제거**",
+      "- ✅ **DECISIONS.md에 ‘70% reset 직후 4개 이상 무효화되면 cleaner 80% continuation 바스켓으로 재업그레이드’ 규칙 추가**",
+      "- ✅ **리포트 상단에 교체 5 / 유지 0 / 비중확대 10%p를 명시해 실패 인정과 방향 전환을 더 빨리 보이게 개선**"
     ],
     "판단": [
-      "- **defensive-aggressive-70-all-positive-reset**"
+      "- **selective-aggressive-80-clean-continuation-reset**"
     ],
     "신뢰도": [
       "- **medium**"
     ],
     "추천 행동": [
-      "- **HUNT 138 / ARX 416 / GAS 1735 / MLK 55.2 / WLFI 90** 하회 시 즉시 재평가",
-      "- **POWR**는 50%대 reclaim 확인 시 승격 후보",
-      "- **RE / ONDO / SLX / WLD**는 구조 복구 전까지 추격 금지"
+      "- **XLM 274 / ONDO 476 / ID 53.2 / JTO 1120 / WLD 632** 하회 시 즉시 재평가",
+      "- **ONG**는 강하지만 **-8.58% gap** 축소 전까지 추격 금지",
+      "- **RE / SLX / ARX / GAS / POWR**는 구조 복구 전 core 금지"
     ],
     "리스크 메모": [
-      "- **메이저 평균 19.2%**라 반등 시도 자체가 아직 약합니다.",
-      "- **ARX 비중의 의미는 survivor 유지이지, 강세장 확신이 아닙니다.**",
-      "- **WLFI**는 upper-range는 좋지만 대금이 작아 실패 시 빠르게 제거해야 합니다.",
-      "- **POWR·SLX 같은 초대금 종목은 지금도 trap 가능성이 높습니다.**"
+      "- **메이저 4종 전부 음전환**이라 broad risk-on으로 오해하면 안 됩니다.",
+      "- **top15 플러스가 5개뿐**이라 후보 풀이 좁습니다.",
+      "- **WLD**는 attention slot 1개 한정으로만 유지해야 합니다.",
+      "- **ONDO·ID·JTO 중 2개 이상**이 동시에 상단 체류를 잃으면 80% 노출도 과합니다."
     ]
   }
 }

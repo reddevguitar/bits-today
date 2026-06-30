@@ -1,66 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-30 09:58 KST
-- 기준 한줄: **메이저 4종 평균 위치가 19.2%로 급랭**했고 기존 85% 바스켓 5종 중 **ARX만 양전환 생존**했습니다. **RE·ONDO·XLM·SUI를 정리하고 HUNT·ARX·GAS·MLK·WLFI 70% all-positive reset**으로 재편합니다.
-- 시장 한줄 요약: **메이저가 다시 약해져서 과거 리더 방어보다 현재 양전환 생존주 5개로 빠르게 갈아타는 장**입니다.
+- 시각: 2026-06-30 15:58 KST
+- 기준 한줄: **오전 70% reset 5종 중 4종이 재붕괴**했습니다. **HUNT·ARX·GAS·MLK·WLFI를 정리하고 XLM·ONDO·ID·JTO·WLD 80% clean continuation 바스켓**으로 갈아탑니다.
+- 시장 한줄 요약: **메이저는 아직 전부 음전환이지만, 업비트는 실패한 오전 바스켓보다 cleaner continuation 5종이 더 읽기 쉬운 장**입니다.
 - 공포탐욕지수: **12 (Extreme Fear, latest known)**
-- BTC 참고: **BTC 90.733M원 / ETH 2.419M원 / XRP 1,591원 / SOL 112.8K원**
+- BTC 참고: **BTC 90.462M원 / ETH 2.420M원 / XRP 1,595원 / SOL 112.6K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🟢 **HUNT** — 142원 / **+5.97%** / 48.2억원 / 위치 **91.7%** / fresh rotation leader
-- 🧬 **ARX** — 423원 / **+0.48%** / 293.6억원 / 위치 **60.9%** / survivor continuation
-- ⛽ **GAS** — 1,769원 / **+3.27%** / 264.5억원 / 위치 **56.9%** / reclaim continuation
-- 🥛 **MLK** — 56.5원 / **+3.10%** / 120.0억원 / 위치 **60.5%** / mid-cap continuation
-- 🏛️ **WLFI** — 90.8원 / **+1.11%** / 12.4억원 / 위치 **90.0%** / attention quality slot
+- ✨ **XLM** — 280원 / **+5.66%** / 360.1억원 / 위치 **73.9%** / mega-liquidity continuation
+- 🌐 **ONDO** — 482원 / **+0.42%** / 130.5억원 / 위치 **83.3%** / headline-backed continuation
+- 🆔 **ID** — 54.1원 / **+1.50%** / 85.3억원 / 위치 **85.3%** / identity-beta continuation
+- 🪂 **JTO** — 1,135원 / **+1.43%** / 71.7억원 / 위치 **81.2%** / solana-infra continuation
+- 🌍 **WLD** — 643원 / **+1.10%** / 364.8억원 / 위치 **60.9%** / attention reclaim anchor
 
 ## 제외된 메이저 참고 신호
-- BTC **33.8%** / ETH **14.8%** / XRP **8.3%** / SOL **20.0%**
-- 메이저 평균 **19.2% 위치**, **4종 모두 음전환**
-- breadth rebound가 빠르게 식어 **기존 continuation 방어보다 exposure 축소가 우선**
+- BTC **26.5%** / ETH **47.6%** / XRP **61.1%** / SOL **33.3%**
+- 메이저 평균 **42.1% 위치**, **4종 모두 음전환**
+- fresh breakout **0**, top15 비메이저 플러스 **5개뿐** → 무작정 90% 공격은 아직 이릅니다
 
 ## 공격 포트폴리오 전략
-- 실투입: **70%**, 5종 동일비중
-- 타깃: 각 약 **306,897원**
-- 현금: 약 **657,637원 (30.0%)**
-- 핵심 논리: **majors weak / prior basket broken / all-positive reset**
+- 실투입: **80%**, 5종 동일비중
+- 타깃: 각 약 **336,254원**
+- 현금: 약 **420,318원 (20.0%)**
+- 핵심 논리: **morning reset failed / clean continuation only / attention slot 1개 제한**
 
 ## 가상 매매 실행 내용
-- ❌ **교체 4:** RE→HUNT / ONDO→GAS / XLM→MLK / SUI→WLFI
-- ✅ **유지 1:** ARX
-- ↘️ **비중 축소:** 총 노출 **85% → 70%**
-- 마지막 액션: **RESET_70_HUNT_ARX_GAS_MLK_WLFI**
+- ❌ **교체 5:** HUNT→XLM / ARX→ONDO / GAS→ID / MLK→JTO / WLFI→WLD
+- ✅ **유지 0**
+- ↗️ **비중 확대:** 총 노출 **70% → 80%**
+- 마지막 액션: **RESET_80_XLM_ONDO_ID_JTO_WLD**
 
 ## 현재 포트폴리오 현황
-- HUNT **2161.2498개 @ 142원**
-- ARX **725.5259개 @ 423원**
-- GAS **173.4870개 @ 1,769원**
-- MLK **5431.8137개 @ 56.5원**
-- WLFI **3379.9281개 @ 90.8원**
-- 현금 **657,637원** / 총평가 **2,192,125원**
+- XLM **1200.9078개 @ 280원**
+- ONDO **697.6228개 @ 482원**
+- ID **6215.4192개 @ 54.1원**
+- JTO **296.2592개 @ 1,135원**
+- WLD **522.9458개 @ 643원**
+- 현금 **420,318원** / 총평가 **2,101,589원**
 
 ## 자기 평가
-- 장점: **메이저 급랭 뒤 기존 바스켓 4개가 사실상 무효화됐다는 점을 바로 인정하고 survivor 1개만 남긴 채 리셋한 판단**이 좋았습니다.
-- 아쉬움: **이번 톱5 중 WLFI는 구조는 좋지만 대금이 얇아 다음 회차 검증이 꼭 필요합니다.**
-- 점수: **9.2 / 10**
+- 장점: **오전 70% reset을 최근 결정이라는 이유만으로 방어하지 않고, 4개 무효화를 확인한 뒤 전면 교체한 점**이 좋았습니다.
+- 아쉬움: **WLD는 체급은 좋지만 attention slot이라 broad risk-on 없이 오래 끌고 가면 다시 흔들릴 수 있습니다.**
+- 점수: **9.0 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 “메이저 평균 25 아래 + 기존 바스켓 양전환 생존 1개 이하일 때 70% all-positive reset” 규칙 추가**
-- ✅ **리포트 상단에 교체 4 / 유지 1 / 비중축소 15%p를 명시해 변화량 가독성 개선**
-- ✅ **watchlist를 turnover trap 대기와 재승격 후보로 더 분명히 정리**
+- ✅ **fetch_upbit_snapshot.py를 직전에 재실행해 stale snapshot 의존 제거**
+- ✅ **DECISIONS.md에 ‘70% reset 직후 4개 이상 무효화되면 cleaner 80% continuation 바스켓으로 재업그레이드’ 규칙 추가**
+- ✅ **리포트 상단에 교체 5 / 유지 0 / 비중확대 10%p를 명시해 실패 인정과 방향 전환을 더 빨리 보이게 개선**
 
 ## 판단
-- **defensive-aggressive-70-all-positive-reset**
+- **selective-aggressive-80-clean-continuation-reset**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **HUNT 138 / ARX 416 / GAS 1735 / MLK 55.2 / WLFI 90** 하회 시 즉시 재평가
-- **POWR**는 50%대 reclaim 확인 시 승격 후보
-- **RE / ONDO / SLX / WLD**는 구조 복구 전까지 추격 금지
+- **XLM 274 / ONDO 476 / ID 53.2 / JTO 1120 / WLD 632** 하회 시 즉시 재평가
+- **ONG**는 강하지만 **-8.58% gap** 축소 전까지 추격 금지
+- **RE / SLX / ARX / GAS / POWR**는 구조 복구 전 core 금지
 
 ## 리스크 메모
-- **메이저 평균 19.2%**라 반등 시도 자체가 아직 약합니다.
-- **ARX 비중의 의미는 survivor 유지이지, 강세장 확신이 아닙니다.**
-- **WLFI**는 upper-range는 좋지만 대금이 작아 실패 시 빠르게 제거해야 합니다.
-- **POWR·SLX 같은 초대금 종목은 지금도 trap 가능성이 높습니다.**
+- **메이저 4종 전부 음전환**이라 broad risk-on으로 오해하면 안 됩니다.
+- **top15 플러스가 5개뿐**이라 후보 풀이 좁습니다.
+- **WLD**는 attention slot 1개 한정으로만 유지해야 합니다.
+- **ONDO·ID·JTO 중 2개 이상**이 동시에 상단 체류를 잃으면 80% 노출도 과합니다.
