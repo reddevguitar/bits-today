@@ -1,145 +1,149 @@
 {
   "project": "bit's today",
-  "judgment": "selective-aggressive-70-crash-reset",
-  "confidence": "medium-low",
+  "judgment": "aggressive-80-partial-rebound-reset",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-06-30 21:58 KST",
-  "market_status": "**메이저 평균 위치가 1.4%까지 붕괴**해 broad risk-on은 종료됐고, **오늘 밤 업비트는 소수 생존주만 공격적으로 분산 보유하는 장**입니다.",
-  "fear_greed": "**12 (Extreme Fear, latest known)**",
-  "btc_snapshot": "**BTC 89.300M원 / ETH 2.377M원 / XRP 1,568원 / SOL 110.2K원**",
-  "cash_krw": "616,374 KRW",
-  "realized_pnl_krw": "-7,935,181 KRW",
-  "last_valuation_krw": "2,054,581 KRW",
+  "updated_at": "2026-07-01 03:58 KST",
+  "market_status": "**반등은 왔지만 폭은 약합니다.** 지금 업비트는 **음전환 대금주보다 현재 양전환 5종을 고르는 장**입니다.",
+  "fear_greed": "**15 (Extreme Fear, Alternative.me)**",
+  "btc_snapshot": "**BTC 89.379M원 / ETH 2.403M원 / XRP 1,588원 / SOL 112.1K원**",
+  "cash_krw": "387,216 KRW",
+  "realized_pnl_krw": "-8,053,681 KRW",
+  "last_valuation_krw": "1,936,081 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -79.45,
-  "last_action": "RESET_70_AI_IN_ZRO_CPOOL_FF",
-  "trade_count": 1394,
-  "last_updated": "2026-06-30T21:58:00+09:00",
+  "return_pct": -80.64,
+  "last_action": "RESET_80_XLM_ZBT_GLM_FF_ID",
+  "trade_count": 1404,
+  "last_updated": "2026-07-01T03:58:50+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 40,
-    "recent_24h_buy_count": 25,
-    "recent_24h_sell_count": 25,
-    "recent_24h_replacement_count": 25,
-    "portfolio_churn_24h_pct": 500.0
+    "recent_trade_actions_24h": 10,
+    "recent_24h_buy_count": 20,
+    "recent_24h_sell_count": 20,
+    "recent_24h_replacement_count": 20,
+    "portfolio_churn_24h_pct": 400.0
   },
   "summary": [
-    "🤖 **AI** — 59.5원 / **+0.85%** / 702.7억원 / 위치 **85.7%** / upbit-listing AI continuation",
-    "♾️ **IN** — 212원 / **+13.98%** / 205.0억원 / 위치 **94.9%** / fresh-breakout core",
-    "🪢 **ZRO** — 1,264원 / **+3.78%** / 20.4억원 / 위치 **95.1%** / clean micro-liquidity continuation",
-    "🌊 **CPOOL** — 31.0원 / **+4.73%** / 14.3억원 / 위치 **63.0%** / defi secondary continuation",
-    "🦅 **FF** — 104원 / **+4.52%** / 10.5억원 / 위치 **69.2%** / small-cap quality survivor",
-    "BTC **0.0%** / ETH **3.0%** / XRP **0.0%** / SOL **2.6%**",
-    "메이저 평균 **1.4% 위치**, **4종 모두 음전환**",
-    "fresh breakout **1개(IN)**, top15 비메이저 플러스 **6개** → 후보 풀이 매우 좁습니다",
-    "실투입: **70%**, 5종 동일비중",
-    "타깃: 각 약 **287,641원**",
-    "현금: 약 **616,374원 (30.0%)**",
-    "핵심 논리: **majors collapse / old basket broken / only all-positive survivors**",
-    "❌ **교체 5:** XLM→AI / ONDO→IN / ID→ZRO / JTO→CPOOL / WLD→FF",
+    "💫 **XLM** — 285원 / **+7.55%** / 508.4억원 / 위치 **95.7%** / mega-liquidity fresh breakout",
+    "🧱 **ZBT** — 184원 / **+12.20%** / 36.3억원 / 위치 **82.9%** / small-cap breakout continuation",
+    "🧠 **GLM** — 170원 / **+14.09%** / 42.3억원 / 위치 **68.6%** / AI/compute beta continuation",
+    "🦅 **FF** — 108원 / **+8.54%** / 20.5억원 / 위치 **73.9%** / clean secondary continuation",
+    "🛰️ **ID** — 54.0원 / **+1.31%** / 125.2억원 / 위치 **52.8%** / liquid survivor/reclaim",
+    "BTC **17.3%** / ETH **47.3%** / XRP **60.0%** / SOL **55.8%**",
+    "메이저 평균 **45.1% 위치**, **4종 모두 음전환**",
+    "fresh breakout **1개(XLM)**, top15 비메이저 플러스 **6개**, weak breadth **true**",
+    "실투입: **80%**, 5종 동일비중",
+    "타깃: 각 약 **309,773원**",
+    "현금: 약 **387,216원 (20.0%)**",
+    "핵심 논리: **rebound yes / breadth no / all-positive only**",
+    "❌ **교체 5:** AI→XLM / IN→ZBT / ZRO→GLM / CPOOL→FF / FF(구비중)→ID",
     "✅ **유지 0**",
-    "↘️ **비중 축소:** 총 노출 **80% → 70%**",
-    "마지막 액션: **RESET_70_AI_IN_ZRO_CPOOL_FF**",
-    "AI **4,834.3071개 @ 59.5원**",
-    "IN **1,356.7985개 @ 212원**",
-    "ZRO **227.5643개 @ 1,264원**",
-    "CPOOL **9,278.7507개 @ 31.0원**",
-    "FF **2,765.7815개 @ 104원**",
-    "현금 **616,374원** / 총평가 **2,054,581원**",
-    "장점: **기존 80% 바스켓을 최근 결정이라는 이유로 붙들지 않고, 3개 actual break를 확인하자마자 70% all-positive로 재축소한 점**은 좋았습니다.",
-    "아쉬움: **ZRO·CPOOL·FF는 구조는 예쁘지만 체급이 얇아 흔들림이 커질 수 있습니다.**",
-    "점수: **8.9 / 10**",
-    "✅ **급락 직후 snapshot을 다시 받아 stale 상태를 제거**했습니다.",
-    "✅ **DECISIONS.md에 ‘major avg <5 / fresh=1 / 3개 이상 무효화’ 대응 규칙**을 추가했습니다.",
-    "✅ **리포트 상단에 실제 무효화 3 / near-break 2 / 80→70 축소를 고정 표기**해 손상도와 대응 강도를 더 빨리 읽게 했습니다.",
-    "**selective-aggressive-70-crash-reset**",
-    "**medium-low**",
-    "**AI 57.8 / IN 205 / ZRO 1240 / CPOOL 30.2 / FF 102** 하회 시 즉시 재평가",
-    "**SLX**는 아직 음전환이지만 **78.5% 위치·1022억원 대금**이라 **양전환 시 승격 1순위**입니다",
-    "**ONG / MOC / AQT / TAIKO**는 플러스여도 **day-high gap이 너무 깊어 추격 금지**입니다",
-    "**메이저 4종이 사실상 저점권**이라 강세 해석 금지입니다.",
-    "**AI 대금 집중도 73.8%**로 leader dependence가 큽니다.",
-    "**소형 3종(ZRO·CPOOL·FF)**은 유동성 급감 시 quickly 교체해야 합니다.",
-    "**AI 또는 IN**이 상단 체류를 잃고 나머지 소형주도 약해지면 **60~65%**까지 더 낮출 수 있습니다."
+    "↗️ **비중 확대:** 총 노출 **70% → 80%**",
+    "마지막 액션: **RESET_80_XLM_ZBT_GLM_FF_ID**",
+    "XLM **1,087.9754개 @ 285원**",
+    "ZBT **1,683.5488개 @ 184원**",
+    "GLM **1,822.1937개 @ 170원**",
+    "FF **2,868.2684개 @ 108원**",
+    "ID **5,736.5370개 @ 54.0원**",
+    "현금 **387,216원** / 총평가 **1,936,081원**",
+    "장점: **직전 crash-reset winners를 최근 선택이라는 이유로 고집하지 않고, 실제 보드가 바뀐 순간 전면 리셋한 점**은 좋았습니다.",
+    "아쉬움: **XLM 쏠림이 매우 강해, 리더 하나만 무너지면 80% 공격 배치가 바로 부담이 될 수 있습니다.**",
+    "점수: **9.1 / 10**",
+    "✅ **03:58 KST snapshot 재수집**으로 반등 직후 보드를 최신 상태로 맞췄습니다.",
+    "✅ **DECISIONS.md에 “40~55 반등 + weak breadth + fresh 1” 대응 규칙**을 추가했습니다.",
+    "✅ **회전표를 더 짧게 정리**해 왜 기존 바스켓을 버렸는지 한눈에 읽히게 바꿨습니다.",
+    "**aggressive-80-partial-rebound-reset**",
+    "**medium**",
+    "**XLM 281 / ZBT 177 / GLM 163 / FF 105 / ID 52.5** 하회 시 즉시 재평가",
+    "**SLX**는 아직 음전환이지만 **930.2억원 대금·72.0% 위치**라 **양전환 시 승격 1순위**입니다",
+    "**AI / IN / ONG / MOC**는 대금이 커도 **gap이 너무 깊거나 위치가 낮아 추격 금지**입니다",
+    "**메이저 4종이 전부 아직 음전환**이라 broad risk-on 해석은 금지입니다.",
+    "**XLM 대금 의존도**가 높아 리더 붕괴 시 포트폴리오 전체가 빠르게 흔들릴 수 있습니다.",
+    "**ZBT·GLM·FF**는 얇은 체급이라 손절 기준을 느슨하게 잡으면 안 됩니다.",
+    "**XLM과 ID**가 동시에 무너지면 **70~75% 재축소**가 더 맞을 수 있습니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 54.0,
+      "amount_delta": 5736.5367835633815,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "125.2억원 대금·+1.31%·52.8% 위치로 과열되지 않은 유동성 생존 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
       "symbol": "FF",
       "action": "BUY",
-      "price_krw": 104.0,
-      "amount_delta": 2765.7814560555507,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "10.5억원 대금·+4.52%·69.2% 위치·-1.89% gap으로 얇은 체급 대비 구조가 깔끔합니다."
+      "price_krw": 108.0,
+      "amount_delta": 2868.2683917816908,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "20.5억원 대금·+8.54%·73.9% 위치·-2.70% gap으로 보조 코어 품질이 좋습니다."
     },
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "GLM",
+      "action": "BUY",
+      "price_krw": 170.0,
+      "amount_delta": 1822.1940371318976,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "42.3억원 대금·+14.09%·68.6% 위치로 고베타 확장 슬롯으로 적합합니다."
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 184.0,
+      "amount_delta": 1683.5488386544707,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "36.3억원 대금·+12.20%·82.9% 위치로 소형 알트 중 구조가 가장 공격적입니다."
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 285.0,
+      "amount_delta": 1086.9227589909565,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "508.4억원 대금·+7.55%·95.7% 위치·-0.35% gap으로 현재 업비트 최우선 리더입니다."
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "FF",
+      "action": "SELL",
+      "price_krw": 108.0,
+      "amount_delta": -2765.7814560555507,
+      "cash_delta_krw": 298704.3972539995,
+      "reason": "FF 기존 crash-reset 가정이 약화돼 ID 중심 80% all-positive rebound 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
       "symbol": "CPOOL",
-      "action": "BUY",
-      "price_krw": 31.0,
-      "amount_delta": 9278.750691283138,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "14.3억원 대금·+4.73%·63.0% 위치로 얇지만 아직 살아 있는 secondary continuation입니다."
+      "action": "SELL",
+      "price_krw": 30.4,
+      "amount_delta": -9278.750691283138,
+      "cash_delta_krw": 282074.0210150074,
+      "reason": "CPOOL 기존 crash-reset 가정이 약화돼 FF 중심 80% all-positive rebound 바스켓으로 전량 재편"
     },
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
+      "timestamp": "2026-07-01T03:58:50+09:00",
       "symbol": "ZRO",
-      "action": "BUY",
-      "price_krw": 1264.0,
-      "amount_delta": 227.56429701722885,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "20.4억원 대금은 크지 않지만 +3.78%·95.1% 위치·-0.24% gap 조합이 매우 깔끔합니다."
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "IN",
-      "action": "BUY",
-      "price_krw": 212.0,
-      "amount_delta": 1356.7984501404587,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "204.9억원 대금·+13.98%·94.9% 위치로 현재 보드의 유일한 clean fresh breakout입니다."
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "AI",
-      "action": "BUY",
-      "price_krw": 59.5,
-      "amount_delta": 4834.307082853399,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "702.7억원 대금과 신규 상장 attention이 겹친 오늘 밤 최대 유동성 알트 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "WLD",
       "action": "SELL",
-      "price_krw": 623.0,
-      "amount_delta": -522.9458421456235,
-      "cash_delta_krw": 325795.2596567234,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "JTO",
-      "action": "SELL",
-      "price_krw": 1121.0,
-      "amount_delta": -296.25918634329156,
-      "cash_delta_krw": 332106.54789082985,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "ID",
-      "action": "SELL",
-      "price_krw": 53.5,
-      "amount_delta": -6215.41915895815,
-      "cash_delta_krw": 332524.925004261,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+      "price_krw": 1249.0,
+      "amount_delta": -227.56429701722885,
+      "cash_delta_krw": 284227.8069745188,
+      "reason": "ZRO 기존 crash-reset 가정이 약화돼 GLM 중심 80% all-positive rebound 바스켓으로 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-07-01-0358.md",
+      "title": "2026-07-01-0358"
+    },
     {
       "file": "2026-06-30-2158.md",
       "title": "2026-06-30-2158"
@@ -167,70 +171,51 @@
     {
       "file": "2026-06-29-0958.md",
       "title": "2026-06-29-0958"
-    },
-    {
-      "file": "2026-06-29-0358.md",
-      "title": "2026-06-29-0358"
     }
   ],
   "positions": [
     {
-      "icon": "🪙",
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "amount": 4834.307082853399,
-      "avg_buy_price_krw": "60 KRW",
-      "last_price_krw": "60 KRW",
-      "thesis": "702.7억원 대금과 신규 상장 attention이 겹친 오늘 밤 최대 유동성 알트 코어입니다.",
-      "strategy": "keep while 57.8원 above and listing-continuation structure stays intact",
-      "role": "upbit-listing AI continuation",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 8.0,
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "amount": 1086.9227589909565,
+      "avg_buy_price_krw": "285 KRW",
+      "last_price_krw": "285 KRW",
+      "thesis": "508.4억원 대금·+7.55%·95.7% 위치·-0.35% gap으로 현재 업비트 최우선 리더입니다.",
+      "strategy": "hold while 281원 above and 90%+ upper-range hold persists",
+      "role": "mega-liquidity fresh breakout",
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 9.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "♾️",
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "amount": 1356.7984501404587,
-      "avg_buy_price_krw": "212 KRW",
-      "last_price_krw": "212 KRW",
-      "thesis": "204.9억원 대금·+13.98%·94.9% 위치로 현재 보드의 유일한 clean fresh breakout입니다.",
-      "strategy": "hold while 205원 above and 90%+ upper-range hold persists",
-      "role": "fresh-breakout core",
-      "risk_limit_pct": 3.3,
+      "icon": "🧿",
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "amount": 1683.5488386544707,
+      "avg_buy_price_krw": "184 KRW",
+      "last_price_krw": "184 KRW",
+      "thesis": "36.3억원 대금·+12.20%·82.9% 위치로 소형 알트 중 구조가 가장 공격적입니다.",
+      "strategy": "hold while 177원 above and 80%+ range hold persists",
+      "role": "small-cap breakout continuation",
+      "risk_limit_pct": 3.8,
       "profit_take_pct": 10.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🪢",
-      "symbol": "ZRO",
-      "market": "KRW-ZRO",
-      "amount": 227.56429701722885,
-      "avg_buy_price_krw": "1,264 KRW",
-      "last_price_krw": "1,264 KRW",
-      "thesis": "20.4억원 대금은 크지 않지만 +3.78%·95.1% 위치·-0.24% gap 조합이 매우 깔끔합니다.",
-      "strategy": "keep while 1240원 above and micro-continuation remains clean",
-      "role": "clean micro-liquidity continuation",
-      "risk_limit_pct": 1.9,
-      "profit_take_pct": 7.0,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🌊",
-      "symbol": "CPOOL",
-      "market": "KRW-CPOOL",
-      "amount": 9278.750691283138,
-      "avg_buy_price_krw": "31 KRW",
-      "last_price_krw": "31 KRW",
-      "thesis": "14.3억원 대금·+4.73%·63.0% 위치로 얇지만 아직 살아 있는 secondary continuation입니다.",
-      "strategy": "hold while 30.2원 above and 60%+ continuation survives",
-      "role": "defi secondary continuation",
-      "risk_limit_pct": 2.6,
-      "profit_take_pct": 8.0,
+      "icon": "🪙",
+      "symbol": "GLM",
+      "market": "KRW-GLM",
+      "amount": 1822.1940371318976,
+      "avg_buy_price_krw": "170 KRW",
+      "last_price_krw": "170 KRW",
+      "thesis": "42.3억원 대금·+14.09%·68.6% 위치로 고베타 확장 슬롯으로 적합합니다.",
+      "strategy": "hold while 163원 above and 65%+ continuation survives",
+      "role": "AI/compute beta continuation",
+      "risk_limit_pct": 4.1,
+      "profit_take_pct": 10.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -238,66 +223,70 @@
       "icon": "🦅",
       "symbol": "FF",
       "market": "KRW-FF",
-      "amount": 2765.7814560555507,
-      "avg_buy_price_krw": "104 KRW",
-      "last_price_krw": "104 KRW",
-      "thesis": "10.5억원 대금·+4.52%·69.2% 위치·-1.89% gap으로 얇은 체급 대비 구조가 깔끔합니다.",
-      "strategy": "keep while 102원 above and 65%+ survivor structure persists",
-      "role": "small-cap quality survivor",
-      "risk_limit_pct": 1.9,
-      "profit_take_pct": 7.5,
+      "amount": 2868.2683917816908,
+      "avg_buy_price_krw": "108 KRW",
+      "last_price_krw": "108 KRW",
+      "thesis": "20.5억원 대금·+8.54%·73.9% 위치·-2.70% gap으로 보조 코어 품질이 좋습니다.",
+      "strategy": "hold while 105원 above and 70%+ continuation remains clean",
+      "role": "clean secondary continuation",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 8.0,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🆔",
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "amount": 5736.5367835633815,
+      "avg_buy_price_krw": "54 KRW",
+      "last_price_krw": "54 KRW",
+      "thesis": "125.2억원 대금·+1.31%·52.8% 위치로 과열되지 않은 유동성 생존 슬롯입니다.",
+      "strategy": "hold while 52.5원 above and mid-range reclaim improves",
+      "role": "liquid survivor/reclaim",
+      "risk_limit_pct": 2.9,
+      "profit_take_pct": 7.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "RE": [
+    "HUNT": [
       {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 1175.0,
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 125.0,
         "action": "SELL"
       }
     ],
     "ARX": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 424.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 423.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-06-30T15:58:00+09:00",
         "price_krw": 396.0,
         "action": "SELL"
       }
     ],
-    "ONDO": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 483.0,
-        "action": "SELL"
-      },
+    "GAS": [
       {
         "timestamp": "2026-06-30T15:58:00+09:00",
-        "price_krw": 482.0,
-        "action": "BUY"
-      },
+        "price_krw": 1681.0,
+        "action": "SELL"
+      }
+    ],
+    "MLK": [
       {
-        "timestamp": "2026-06-30T21:58:00+09:00",
-        "price_krw": 465.0,
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 53.2,
+        "action": "SELL"
+      }
+    ],
+    "WLFI": [
+      {
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 90.5,
         "action": "SELL"
       }
     ],
     "XLM": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 269.0,
-        "action": "SELL"
-      },
       {
         "timestamp": "2026-06-30T15:58:00+09:00",
         "price_krw": 280.0,
@@ -307,60 +296,22 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 266.0,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 285.0,
+        "action": "BUY"
       }
     ],
-    "SUI": [
+    "ONDO": [
       {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 1062.0,
-        "action": "SELL"
-      }
-    ],
-    "HUNT": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 142.0,
+        "timestamp": "2026-06-30T15:58:00+09:00",
+        "price_krw": 482.0,
         "action": "BUY"
       },
       {
-        "timestamp": "2026-06-30T15:58:00+09:00",
-        "price_krw": 125.0,
-        "action": "SELL"
-      }
-    ],
-    "GAS": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 1769.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-30T15:58:00+09:00",
-        "price_krw": 1681.0,
-        "action": "SELL"
-      }
-    ],
-    "MLK": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 56.5,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-30T15:58:00+09:00",
-        "price_krw": 53.2,
-        "action": "SELL"
-      }
-    ],
-    "WLFI": [
-      {
-        "timestamp": "2026-06-30T09:58:00+09:00",
-        "price_krw": 90.8,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-06-30T15:58:00+09:00",
-        "price_krw": 90.5,
+        "timestamp": "2026-06-30T21:58:00+09:00",
+        "price_krw": 465.0,
         "action": "SELL"
       }
     ],
@@ -374,6 +325,11 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 53.5,
         "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 54.0,
+        "action": "BUY"
       }
     ],
     "JTO": [
@@ -405,6 +361,11 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 59.5,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 52.8,
+        "action": "SELL"
       }
     ],
     "IN": [
@@ -412,6 +373,11 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 212.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 147.0,
+        "action": "SELL"
       }
     ],
     "ZRO": [
@@ -419,6 +385,11 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 1264.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 1249.0,
+        "action": "SELL"
       }
     ],
     "CPOOL": [
@@ -426,6 +397,11 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 31.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 30.4,
+        "action": "SELL"
       }
     ],
     "FF": [
@@ -433,95 +409,119 @@
         "timestamp": "2026-06-30T21:58:00+09:00",
         "price_krw": 104.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 108.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 108.0,
+        "action": "BUY"
+      }
+    ],
+    "ZBT": [
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 184.0,
+        "action": "BUY"
+      }
+    ],
+    "GLM": [
+      {
+        "timestamp": "2026-07-01T03:58:50+09:00",
+        "price_krw": 170.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-06-30-2158.md",
+  "latest_report_file": "2026-07-01-0358.md",
   "preferred_buy_candidates": [
     {
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "price_krw": 285.0,
+      "change_pct_24h": 7.54716981,
+      "turnover_krw_24h": 50836227811.10293,
+      "reason": "508.4억원 대금·+7.55%·95.7% 위치·-0.35% gap으로 현재 업비트 최우선 리더입니다.",
+      "score": null,
+      "community": "업비트 보드에서 가장 강한 실제 체결은 XLM에 몰렸고, 고점 근처 체류가 깔끔합니다.",
+      "risk": null,
+      "allocation_krw": 309772.9863124226,
+      "role": "mega-liquidity fresh breakout",
+      "invalidated_if": "281원 하회 또는 90% 상단 체류 붕괴",
+      "range_position_pct": 95.7,
+      "day_high_gap_pct": -0.35
+    },
+    {
+      "icon": "🧿",
+      "symbol": "ZBT",
+      "market": "KRW-ZBT",
+      "price_krw": 184.0,
+      "change_pct_24h": 12.19512195,
+      "turnover_krw_24h": 3628118621.2676687,
+      "reason": "36.3억원 대금·+12.20%·82.9% 위치로 소형 알트 중 구조가 가장 공격적입니다.",
+      "score": null,
+      "community": "소형 체급이지만 +12%대 수익률과 80%대 위치가 함께 살아 있어 후속 리테일 추종 가능성이 있습니다.",
+      "risk": null,
+      "allocation_krw": 309772.9863124226,
+      "role": "small-cap breakout continuation",
+      "invalidated_if": "177원 하회 또는 80% 상단 유지 실패",
+      "range_position_pct": 82.9,
+      "day_high_gap_pct": -3.66
+    },
+    {
       "icon": "🪙",
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "price_krw": 59.5,
-      "change_pct_24h": 0.84745763,
-      "turnover_krw_24h": 70267828323.30788,
-      "reason": "702.7억원 대금과 신규 상장 attention이 겹친 오늘 밤 최대 유동성 알트 코어입니다.",
+      "symbol": "GLM",
+      "market": "KRW-GLM",
+      "price_krw": 170.0,
+      "change_pct_24h": 14.09395973,
+      "turnover_krw_24h": 4228267939.876565,
+      "reason": "42.3억원 대금·+14.09%·68.6% 위치로 고베타 확장 슬롯으로 적합합니다.",
       "score": null,
-      "community": "업비트 신규 상장 체결이 오늘 밤 가장 크게 붙은 attention/AI 축입니다.",
+      "community": "AI·컴퓨트 계열 관심이 남아 있는 가운데 GLM이 오늘 밤 후속 회전축으로 떠올랐습니다.",
       "risk": null,
-      "allocation_krw": 287641.27142977726,
-      "role": "upbit-listing AI continuation",
-      "invalidated_if": "57.8원 하회 또는 상장일 continuation 구조 붕괴",
-      "range_position_pct": 85.7,
-      "day_high_gap_pct": -6.89
-    },
-    {
-      "icon": "♾️",
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "price_krw": 212.0,
-      "change_pct_24h": 13.97849462,
-      "turnover_krw_24h": 20495873738.99558,
-      "reason": "204.9억원 대금·+13.98%·94.9% 위치로 현재 보드의 유일한 clean fresh breakout입니다.",
-      "score": null,
-      "community": "오늘 보드에서 fresh breakout이라고 부를 만한 이름이 사실상 IN 하나입니다.",
-      "risk": null,
-      "allocation_krw": 287641.27142977726,
-      "role": "fresh-breakout core",
-      "invalidated_if": "205원 하회 또는 90%대 상단 체류 붕괴",
-      "range_position_pct": 94.9,
-      "day_high_gap_pct": -0.93
-    },
-    {
-      "icon": "🪢",
-      "symbol": "ZRO",
-      "market": "KRW-ZRO",
-      "price_krw": 1264.0,
-      "change_pct_24h": 3.77668309,
-      "turnover_krw_24h": 2039242729.715535,
-      "reason": "20.4억원 대금은 크지 않지만 +3.78%·95.1% 위치·-0.24% gap 조합이 매우 깔끔합니다.",
-      "score": null,
-      "community": "체급은 작지만 tonight board에서 가장 정갈한 미세 continuation 구조 중 하나입니다.",
-      "risk": null,
-      "allocation_krw": 287641.27142977726,
-      "role": "clean micro-liquidity continuation",
-      "invalidated_if": "1240원 하회 시 clean continuation 훼손",
-      "range_position_pct": 95.1,
-      "day_high_gap_pct": -0.24
-    },
-    {
-      "icon": "🌊",
-      "symbol": "CPOOL",
-      "market": "KRW-CPOOL",
-      "price_krw": 31.0,
-      "change_pct_24h": 4.72972973,
-      "turnover_krw_24h": 1428883624.772055,
-      "reason": "14.3억원 대금·+4.73%·63.0% 위치로 얇지만 아직 살아 있는 secondary continuation입니다.",
-      "score": null,
-      "community": "메이저 붕괴 속에서도 남아 있는 소형 디파이 continuation 보조축입니다.",
-      "risk": null,
-      "allocation_krw": 287641.27142977726,
-      "role": "defi secondary continuation",
-      "invalidated_if": "30.2원 하회 또는 60% continuation 붕괴",
-      "range_position_pct": 63.0,
-      "day_high_gap_pct": -5.2
+      "allocation_krw": 309772.9863124226,
+      "role": "AI/compute beta continuation",
+      "invalidated_if": "163원 하회 또는 65% continuation 붕괴",
+      "range_position_pct": 68.6,
+      "day_high_gap_pct": -6.08
     },
     {
       "icon": "🦅",
       "symbol": "FF",
       "market": "KRW-FF",
-      "price_krw": 104.0,
-      "change_pct_24h": 4.52261307,
-      "turnover_krw_24h": 1045863882.7849505,
-      "reason": "10.5억원 대금·+4.52%·69.2% 위치·-1.89% gap으로 얇은 체급 대비 구조가 깔끔합니다.",
+      "price_krw": 108.0,
+      "change_pct_24h": 8.54271357,
+      "turnover_krw_24h": 2054617220.6209726,
+      "reason": "20.5억원 대금·+8.54%·73.9% 위치·-2.70% gap으로 보조 코어 품질이 좋습니다.",
       "score": null,
-      "community": "체급은 가장 작지만 오늘 밤 board에서 day-high gap이 가장 안정적인 생존주 중 하나입니다.",
+      "community": "가벼운 체급이지만 현재 보드에서 gap이 얕고 상단 체류가 가장 차분한 축입니다.",
       "risk": null,
-      "allocation_krw": 287641.27142977726,
-      "role": "small-cap quality survivor",
-      "invalidated_if": "102원 하회 시 품질 생존주 구조 훼손",
-      "range_position_pct": 69.2,
-      "day_high_gap_pct": -1.89
+      "allocation_krw": 309772.9863124226,
+      "role": "clean secondary continuation",
+      "invalidated_if": "105원 하회 시 깨끗한 continuation 구조 훼손",
+      "range_position_pct": 73.9,
+      "day_high_gap_pct": -2.7
+    },
+    {
+      "icon": "🆔",
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "price_krw": 54.0,
+      "change_pct_24h": 1.31332083,
+      "turnover_krw_24h": 12523655330.573004,
+      "reason": "125.2억원 대금·+1.31%·52.8% 위치로 과열되지 않은 유동성 생존 슬롯입니다.",
+      "score": null,
+      "community": "초대금 리더가 무너진 뒤 상대적으로 ID 쪽으로 자금이 다시 모이는 흔적이 보입니다.",
+      "risk": null,
+      "allocation_krw": 309772.9863124226,
+      "role": "liquid survivor/reclaim",
+      "invalidated_if": "52.5원 하회 또는 50% 중단 회복 실패",
+      "range_position_pct": 52.8,
+      "day_high_gap_pct": -4.42
     }
   ],
   "reference_watchlist": [
@@ -529,221 +529,221 @@
       "icon": "🌞",
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "-1.70%라도 1022억원 대금·78.5% 위치·-3.11% gap이면 음전환 salvage 1순위입니다. 양전환 시 즉시 승격 검토."
-    },
-    {
-      "icon": "🚀",
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "+2.74%와 82.4억원 대금은 좋지만 44.2% 위치라 아직 상단 회복이 부족합니다. 이번 주 unlock 변동성도 경계."
-    },
-    {
-      "icon": "🆔",
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "115.3억원 대금에도 43.4% 위치면 기존 continuation 코어로 남기기엔 약합니다. 55%+ reclaim 때 재평가."
-    },
-    {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "72.1억원 대금이 남아도 35.7% 위치면 tonight core보다 watchlist가 적절합니다."
-    },
-    {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "457.7억원 대금이어도 13.0% 위치·-6.99% gap이면 mega-liquidity trap입니다."
+      "reason": "930.2억원 대금·72.0% 위치는 강하지만 아직 -2.31% 음전환입니다. 양전환 시 XLM 다음 승격 1순위입니다."
     },
     {
       "icon": "🪙",
-      "symbol": "WAXP",
-      "market": "KRW-WAXP",
-      "reason": "+0.80%·7.1억원·68.0% 위치로 얇지만 차분한 후보입니다. FF 약화 시 대체 검토."
+      "symbol": "PYTH",
+      "market": "KRW-PYTH",
+      "reason": "122.9억원 대금·+9.32%는 좋지만 46.6% 위치·-10.61% gap로 아직 과열 후 되밀림이 큽니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "85.7% 위치·-0.45% gap으로 매우 안정적입니다. 다만 공격성은 GLM·ZBT보다 낮아 차분한 대체 후보로 둡니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "SHIB",
+      "market": "KRW-SHIB",
+      "reason": "86.7% 위치와 얕은 gap은 좋지만 24h 변동성이 너무 좁아 full breakout보다 박스 상단 유지에 가깝습니다."
+    },
+    {
+      "icon": "🌊",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "87.5% 위치라도 아직 음전환이라 core 승격은 보류합니다. 양전환 시 대형 품질 슬롯 대체 가능."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "상장 관심은 남았지만 -10.5%와 -17.37% gap면 headline보다 매물 소화가 더 큽니다. 재상승 구조 확인 전까지 관찰만."
     }
   ],
   "cycle_improvements": [
-    "fetch_upbit_snapshot.py를 21:59 직전에 재실행해 급락 직후 stale snapshot 의존을 제거했습니다.",
-    "DECISIONS.md에 “major avg <5 / fresh=1 / 3개 이상 무효화” 시 70%·1 fresh core·소형 continuation 허용 규칙을 추가했습니다.",
-    "리포트 상단에 “실제 무효화 3 / near-break 2 / 80%→70%”를 명시해 손상 정도와 대응 강도를 더 빨리 읽게 정리했습니다."
+    "fetch_upbit_snapshot.py를 03:58 KST에 다시 실행해 반등 직후 보드를 최신값으로 갱신했습니다.",
+    "DECISIONS.md에 “메이저 평균 40~55 반등·weak breadth 유지·fresh 1” 구간에서는 기존 crash basket을 방어하지 않고 all-positive 5종으로 75~80% 재구성하는 규칙을 추가했습니다.",
+    "리포트에서 “왜 기존 바스켓을 버렸는지”를 회전표로 더 짧고 빠르게 읽히게 정리했습니다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "457.7억원 대금이어도 13.0% 위치·-6.99% gap이면 기존 mega-liquidity continuation 가정이 무너졌습니다."
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "878.9억원 대금에도 -10.51%·64.0% 위치·-17.37% gap이면 listing-leader보다 exhausted headline에 가깝습니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "120.6억원 대금에도 -3.13%·0.0% 위치면 명확한 invalidation입니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "379.7억원 대금에도 -2.04%·17.4% 위치면 attention trap 재분류가 맞습니다."
-    },
-    {
-      "symbol": "ONG",
-      "market": "KRW-ONG",
-      "reason": "+4.84%라도 16.9% 위치·-18.92% gap면 exhausted chase 금지입니다."
-    },
-    {
-      "symbol": "MOC",
-      "market": "KRW-MOC",
-      "reason": "+9.73%라도 -32.54% gap면 수익률보다 매도 압력이 훨씬 큽니다."
+      "symbol": "IN",
+      "market": "KRW-IN",
+      "reason": "563.3억원 대금이어도 -20.97%·12.0% 위치면 turnover trap입니다."
     },
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "구조는 좋지만 아직 음전환이라 이번 회차 core보다는 salvage watchlist가 적절합니다."
+      "reason": "유동성은 압도적이지만 아직 음전환이라 preferred 5종은 all-positive 원칙을 우선했습니다."
+    },
+    {
+      "symbol": "ONG",
+      "market": "KRW-ONG",
+      "reason": "+2.42%라도 8.7% 위치·-20.79% gap면 late blowoff라 추격 금지입니다."
+    },
+    {
+      "symbol": "MOC",
+      "market": "KRW-MOC",
+      "reason": "+5.06%라도 9.8% 위치·-35.41% gap면 대금보다 매도 압력이 훨씬 큽니다."
+    },
+    {
+      "symbol": "CPOOL",
+      "market": "KRW-CPOOL",
+      "reason": "+2.70%라도 14.6% 위치·-30.59% gap로 기존 보유 continuation 가정이 완전히 깨졌습니다."
     }
   ],
-  "top_line": "**실제 무효화 3 / near-break 2**가 확인됐습니다. **80% 바스켓 방어를 중단하고 70%로 낮춘 뒤 AI·IN·ZRO·CPOOL·FF all-positive 5종**으로 재편합니다.",
-  "ui_version": "v22.2",
+  "top_line": "**메이저 평균 위치가 45.1%까지 반등**했지만 **4종 모두 아직 음전환**입니다. 기존 70% crash-reset 바스켓은 **4개가 훼손**돼, **XLM·ZBT·GLM·FF·ID all-positive 5종으로 80% 재공격**합니다.",
+  "ui_version": "v22.3",
   "risk_plan": {
-    "portfolio_cash_target": "기본 30% 유지. major avg가 20 이상으로 회복하고 top15 비메이저 플러스가 8개 이상으로 넓어지면 75-80% 재상향 검토. 반대로 AI·IN 둘 중 하나가 깨지고 CPOOL·FF 중 하나까지 동반 약화되면 60-65%로 재축소 검토.",
-    "review_trigger": "AI 57.8 / IN 205 / ZRO 1240 / CPOOL 30.2 / FF 102 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. 메이저 평균이 60+로 올라가고 fresh breakout이 2개 이상으로 늘면 85% 검토. 반대로 XLM·ID 동반 약화나 SLX 재실패가 나오면 70~75%로 재축소 검토.",
+    "review_trigger": "XLM 281 / ZBT 177 / GLM 163 / FF 105 / ID 52.5 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "major avg 5 미만에서는 음전환 대금주보다 현재 플러스 생존 구조를 우선",
-      "fresh breakout이 1개뿐일 때는 그 1개만 코어로 두고 나머지는 all-positive continuation으로 채움",
-      "public-figure attention slot은 구조 붕괴 시 강제로 비활성화 가능",
-      "leader turnover share가 70%를 넘을 때 추가 집중 금지"
+      "weak breadth가 true일 때는 all-positive 후보를 우선",
+      "음전환 mega-turnover는 양전환 전까지 watchlist에만 둠",
+      "반등 장이어도 fresh breakout이 1개뿐이면 all-in 금지",
+      "headline leader가 -10% 이상 day-high gap이면 core 제외"
     ],
     "exit_rules": [
-      "AI 57.8 / IN 205 / ZRO 1240 / CPOOL 30.2 / FF 102 하회 시 즉시 재평가",
+      "XLM 281 / ZBT 177 / GLM 163 / FF 105 / ID 52.5 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "major avg 5 미만에서는 음전환 대금주보다 현재 플러스 생존 구조를 우선",
-      "fresh breakout이 1개뿐일 때는 그 1개만 코어로 두고 나머지는 all-positive continuation으로 채움",
-      "public-figure attention slot은 구조 붕괴 시 강제로 비활성화 가능",
-      "leader turnover share가 70%를 넘을 때 추가 집중 금지"
+      "weak breadth가 true일 때는 all-positive 후보를 우선",
+      "음전환 mega-turnover는 양전환 전까지 watchlist에만 둠",
+      "반등 장이어도 fresh breakout이 1개뿐이면 all-in 금지",
+      "headline leader가 -10% 이상 day-high gap이면 core 제외"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 952.8억원입니다.",
-    "momentum_discipline": "기존 80% 바스켓 5종을 전부 폐기하고 현재 all-positive 5종으로 재구성",
-    "diversification": "listing AI 1 + fresh breakout 1 + micro continuation 1 + DeFi continuation 1 + small-cap survivor 1",
-    "cash_usage": "70%",
+    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 732.7억원입니다.",
+    "momentum_discipline": "기존 70% crash-reset 바스켓을 폐기하고 all-positive 5종으로 전면 교체",
+    "diversification": "mega leader 1 + small-cap breakout 1 + AI beta 1 + clean continuation 1 + liquid survivor 1",
+    "cash_usage": "80%",
     "rotation_speed": "very_high"
   },
   "signal_balance": {
-    "summary": "majors collapsed / fresh 1 / old basket broken / rebuild around all-positive survivors"
+    "summary": "majors rebounded but still red / fresh 1 / weak breadth true / rotate into all-positive rebound leaders"
   },
   "rotation_map": [
     {
-      "bucket": "XLM → AI",
+      "bucket": "AI → XLM",
       "symbols": [
-        "XLM",
-        "AI"
+        "AI",
+        "XLM"
       ],
-      "note": "무너진 mega-liquidity continuation 대신 업비트 신규 상장 최대 대금 코어로 교체합니다."
+      "note": "listing 후퇴 대금주 대신 실제 상단 유지가 가장 강한 메가 리더로 교체합니다."
     },
     {
-      "bucket": "ONDO → IN",
+      "bucket": "IN → ZBT",
       "symbols": [
-        "ONDO",
-        "IN"
+        "IN",
+        "ZBT"
       ],
-      "note": "실제 invalidation이 난 headline core 대신 유일한 clean fresh breakout으로 교체합니다."
+      "note": "완전 trap이 된 fresh breakout 대신 현재 상단 구조가 남은 소형 돌파주로 전환합니다."
     },
     {
-      "bucket": "ID → ZRO",
+      "bucket": "ZRO → GLM",
       "symbols": [
-        "ID",
-        "ZRO"
+        "ZRO",
+        "GLM"
       ],
-      "note": "43.4%로 내려온 옛 continuation보다 95.1% micro continuation이 더 읽기 쉽습니다."
+      "note": "미세 continuation보다 거래대금과 상승률이 더 강한 후속 AI/compute 베타로 업그레이드합니다."
     },
     {
-      "bucket": "JTO → CPOOL",
+      "bucket": "CPOOL → FF",
       "symbols": [
-        "JTO",
-        "CPOOL"
-      ],
-      "note": "35.7%로 식은 인프라 continuation 대신 현재도 63.0%를 지키는 secondary continuation으로 교체합니다."
-    },
-    {
-      "bucket": "WLD → FF",
-      "symbols": [
-        "WLD",
+        "CPOOL",
         "FF"
       ],
-      "note": "깨진 attention slot 대신 더 얇아도 all-positive quality survivor로 전환합니다."
+      "note": "깨진 보조 continuation 대신 gap이 얕고 양전환이 유지된 품질 continuation으로 교체합니다."
+    },
+    {
+      "bucket": "FF → ID",
+      "symbols": [
+        "FF",
+        "ID"
+      ],
+      "note": "FF는 유지 후보였지만 동일비중 80% 재구성에서 더 큰 유동성 생존축인 ID를 추가해 분산을 강화합니다."
     }
   ],
   "self_evaluation": {
-    "score": 8.9,
-    "summary": "15:58의 clean continuation 재편은 당시엔 합리적이었지만 메이저 붕괴 앞에서 오래 버티지 못했습니다. 이번에는 3개 실제 무효화와 2개 near-break를 인정하고, 더 좁은 breadth에 맞춰 70% all-positive 바스켓으로 바로 축소한 대응은 좋았습니다."
+    "score": 9.1,
+    "summary": "직전 회차의 70% crash-reset은 당시엔 맞았지만 6시간 안에 AI·IN·CPOOL이 구조를 잃었습니다. 이번에는 rebound 숫자만 보고 old winners를 붙들지 않고, 현재 all-positive 5종으로 신속하게 재편한 대응이 좋았습니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 5.57,
+    "preferred_avg_change_pct_24h": 8.74,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 95277692299.57599,
-    "leader_turnover_share_pct": 73.75,
-    "leader_symbol": "AI",
+    "preferred_turnover_total_krw_24h": 73270886923.44113,
+    "leader_turnover_share_pct": 69.38,
+    "leader_symbol": "XLM",
     "leader_concentration_warning": "high"
   },
-  "snapshot_updated_at_utc": "2026-06-30T12:59:04.780480+00:00",
+  "snapshot_updated_at_utc": "2026-06-30T18:58:50.786052+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 1,
-    "top15_alt_low_range_count_delta": 3,
+    "top15_alt_positive_count_delta": 0,
+    "top15_alt_low_range_count_delta": -2,
     "weak_breadth_warning_changed": false,
     "entered_top5_turnover": [
-      "AI"
+      "IN"
     ],
     "exited_top5_turnover": [
-      "ARX"
+      "WLD"
     ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -40.72,
+    "major_avg_range_position_pct_delta": 43.7,
     "major_positive_count_delta": 0,
     "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
     "fresh_breakout_count": 1,
-    "high_conviction_count": 2,
-    "quality_survivor_count": 1,
-    "relative_strength_reclaim_count": 2,
+    "high_conviction_count": 1,
+    "quality_survivor_count": 2,
+    "relative_strength_reclaim_count": 3,
     "breakout_cluster_active": false,
-    "summary": "fresh 1 / conviction 2 / survivor 1 / reclaim 2"
+    "summary": "fresh 1 / conviction 1 / survivor 2 / reclaim 3"
   },
   "scenario_view": {
-    "regime": "majors_breakdown_selective_defense",
-    "regime_label_ko": "메이저 붕괴·선별 방어",
-    "regime_icon": "🟠",
-    "btc_range_position_pct": 0.0,
-    "major_avg_range_position_pct": 1.4,
-    "preferred_avg_change_pct_24h": 5.57,
-    "preferred_high_range_count": 3,
-    "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 17.3,
+    "major_avg_range_position_pct": 45.1,
+    "preferred_avg_change_pct_24h": 8.74,
+    "preferred_high_range_count": 2,
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "regime_shift_alert": {
     "active": true,
-    "major_avg_delta_pct": -40.72,
+    "major_avg_delta_pct": 43.7,
     "top15_positive_count": 6,
-    "top15_low_range_count": 12,
+    "top15_low_range_count": 10,
     "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -40.72,
+    "major_avg_delta_pct": 43.7,
     "fresh_breakout_count": 1,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 81.58,
-    "avg_day_high_gap_pct": -3.03,
-    "above_80_range_count": 3,
-    "summary": "고위치(80%+) 후보 3개 / 평균 위치 81.58%"
+    "avg_range_position_pct": 74.78,
+    "avg_day_high_gap_pct": -3.44,
+    "above_80_range_count": 2,
+    "summary": "고위치(80%+) 후보 2개 / 평균 위치 74.78%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -754,43 +754,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
+      "icon": "✨",
+      "symbol": "XLM",
+      "last_price_krw": 285.0,
+      "threshold_krw": 281.0,
+      "distance_to_invalidation_pct": 1.42,
+      "status": "near"
+    },
+    {
+      "icon": "🧿",
+      "symbol": "ZBT",
+      "last_price_krw": 184.0,
+      "threshold_krw": 177.0,
+      "distance_to_invalidation_pct": 3.95,
+      "status": "near"
+    },
+    {
       "icon": "🪙",
-      "symbol": "AI",
-      "last_price_krw": 59.5,
-      "threshold_krw": 57.8,
-      "distance_to_invalidation_pct": 2.94,
-      "status": "near"
-    },
-    {
-      "icon": "♾️",
-      "symbol": "IN",
-      "last_price_krw": 212.0,
-      "threshold_krw": 205.0,
-      "distance_to_invalidation_pct": 3.41,
-      "status": "near"
-    },
-    {
-      "icon": "🪢",
-      "symbol": "ZRO",
-      "last_price_krw": 1264.0,
-      "threshold_krw": 1240.0,
-      "distance_to_invalidation_pct": 1.94,
-      "status": "near"
-    },
-    {
-      "icon": "🌊",
-      "symbol": "CPOOL",
-      "last_price_krw": 31.0,
-      "threshold_krw": 30.2,
-      "distance_to_invalidation_pct": 2.65,
+      "symbol": "GLM",
+      "last_price_krw": 170.0,
+      "threshold_krw": 163.0,
+      "distance_to_invalidation_pct": 4.29,
       "status": "near"
     },
     {
       "icon": "🦅",
       "symbol": "FF",
-      "last_price_krw": 104.0,
-      "threshold_krw": 102.0,
-      "distance_to_invalidation_pct": 1.96,
+      "last_price_krw": 108.0,
+      "threshold_krw": 105.0,
+      "distance_to_invalidation_pct": 2.86,
+      "status": "near"
+    },
+    {
+      "icon": "🆔",
+      "symbol": "ID",
+      "last_price_krw": 54.0,
+      "threshold_krw": 52.5,
+      "distance_to_invalidation_pct": 2.86,
       "status": "near"
     }
   ],
@@ -804,7 +804,7 @@
     "active": true,
     "near_or_broken_count": 5,
     "leader_concentration_warning": "high",
-    "avg_range_position_pct": 81.58,
+    "avg_range_position_pct": 74.78,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -814,155 +814,155 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 54.0,
+      "amount_delta": 5736.5367835633815,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "125.2억원 대금·+1.31%·52.8% 위치로 과열되지 않은 유동성 생존 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
       "symbol": "FF",
       "action": "BUY",
-      "price_krw": 104.0,
-      "amount_delta": 2765.7814560555507,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "10.5억원 대금·+4.52%·69.2% 위치·-1.89% gap으로 얇은 체급 대비 구조가 깔끔합니다."
+      "price_krw": 108.0,
+      "amount_delta": 2868.2683917816908,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "20.5억원 대금·+8.54%·73.9% 위치·-2.70% gap으로 보조 코어 품질이 좋습니다."
     },
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "CPOOL",
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "GLM",
       "action": "BUY",
-      "price_krw": 31.0,
-      "amount_delta": 9278.750691283138,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "14.3억원 대금·+4.73%·63.0% 위치로 얇지만 아직 살아 있는 secondary continuation입니다."
+      "price_krw": 170.0,
+      "amount_delta": 1822.1940371318976,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "42.3억원 대금·+14.09%·68.6% 위치로 고베타 확장 슬롯으로 적합합니다."
     },
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "ZRO",
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "ZBT",
       "action": "BUY",
-      "price_krw": 1264.0,
-      "amount_delta": 227.56429701722885,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "20.4억원 대금은 크지 않지만 +3.78%·95.1% 위치·-0.24% gap 조합이 매우 깔끔합니다."
+      "price_krw": 184.0,
+      "amount_delta": 1683.5488386544707,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "36.3억원 대금·+12.20%·82.9% 위치로 소형 알트 중 구조가 가장 공격적입니다."
     },
     {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "IN",
-      "action": "BUY",
-      "price_krw": 212.0,
-      "amount_delta": 1356.7984501404587,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "204.9억원 대금·+13.98%·94.9% 위치로 현재 보드의 유일한 clean fresh breakout입니다."
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "AI",
-      "action": "BUY",
-      "price_krw": 59.5,
-      "amount_delta": 4834.307082853399,
-      "cash_delta_krw": -287641.27142977726,
-      "reason": "702.7억원 대금과 신규 상장 attention이 겹친 오늘 밤 최대 유동성 알트 코어입니다."
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "WLD",
-      "action": "SELL",
-      "price_krw": 623.0,
-      "amount_delta": -522.9458421456235,
-      "cash_delta_krw": 325795.2596567234,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "JTO",
-      "action": "SELL",
-      "price_krw": 1121.0,
-      "amount_delta": -296.25918634329156,
-      "cash_delta_krw": 332106.54789082985,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "ID",
-      "action": "SELL",
-      "price_krw": 53.5,
-      "amount_delta": -6215.41915895815,
-      "cash_delta_krw": 332524.925004261,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
-      "symbol": "ONDO",
-      "action": "SELL",
-      "price_krw": 465.0,
-      "amount_delta": -697.6227728208214,
-      "cash_delta_krw": 324394.58936168195,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-06-30T21:58:00+09:00",
+      "timestamp": "2026-07-01T03:58:50+09:00",
       "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 285.0,
+      "amount_delta": 1086.9227589909565,
+      "cash_delta_krw": -309772.9863124226,
+      "reason": "508.4억원 대금·+7.55%·95.7% 위치·-0.35% gap으로 현재 업비트 최우선 리더입니다."
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "FF",
       "action": "SELL",
-      "price_krw": 266.0,
-      "amount_delta": -1200.9077732129854,
-      "cash_delta_krw": 319441.4676746541,
-      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+      "price_krw": 108.0,
+      "amount_delta": -2765.7814560555507,
+      "cash_delta_krw": 298704.3972539995,
+      "reason": "FF 기존 crash-reset 가정이 약화돼 ID 중심 80% all-positive rebound 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "CPOOL",
+      "action": "SELL",
+      "price_krw": 30.4,
+      "amount_delta": -9278.750691283138,
+      "cash_delta_krw": 282074.0210150074,
+      "reason": "CPOOL 기존 crash-reset 가정이 약화돼 FF 중심 80% all-positive rebound 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "ZRO",
+      "action": "SELL",
+      "price_krw": 1249.0,
+      "amount_delta": -227.56429701722885,
+      "cash_delta_krw": 284227.8069745188,
+      "reason": "ZRO 기존 crash-reset 가정이 약화돼 GLM 중심 80% all-positive rebound 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "IN",
+      "action": "SELL",
+      "price_krw": 147.0,
+      "amount_delta": -1356.7984501404587,
+      "cash_delta_krw": 199449.37217064743,
+      "reason": "IN 기존 crash-reset 가정이 약화돼 ZBT 중심 80% all-positive rebound 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T03:58:50+09:00",
+      "symbol": "AI",
+      "action": "SELL",
+      "price_krw": 52.8,
+      "amount_delta": -4834.307082853399,
+      "cash_delta_krw": 255251.41397465946,
+      "reason": "AI 기존 crash-reset 가정이 약화돼 XLM 중심 80% all-positive rebound 바스켓으로 전량 재편"
     }
   ],
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🤖 **AI** — 59.5원 / **+0.85%** / 702.7억원 / 위치 **85.7%** / upbit-listing AI continuation",
-      "- ♾️ **IN** — 212원 / **+13.98%** / 205.0억원 / 위치 **94.9%** / fresh-breakout core",
-      "- 🪢 **ZRO** — 1,264원 / **+3.78%** / 20.4억원 / 위치 **95.1%** / clean micro-liquidity continuation",
-      "- 🌊 **CPOOL** — 31.0원 / **+4.73%** / 14.3억원 / 위치 **63.0%** / defi secondary continuation",
-      "- 🦅 **FF** — 104원 / **+4.52%** / 10.5억원 / 위치 **69.2%** / small-cap quality survivor"
+      "- 💫 **XLM** — 285원 / **+7.55%** / 508.4억원 / 위치 **95.7%** / mega-liquidity fresh breakout",
+      "- 🧱 **ZBT** — 184원 / **+12.20%** / 36.3억원 / 위치 **82.9%** / small-cap breakout continuation",
+      "- 🧠 **GLM** — 170원 / **+14.09%** / 42.3억원 / 위치 **68.6%** / AI/compute beta continuation",
+      "- 🦅 **FF** — 108원 / **+8.54%** / 20.5억원 / 위치 **73.9%** / clean secondary continuation",
+      "- 🛰️ **ID** — 54.0원 / **+1.31%** / 125.2억원 / 위치 **52.8%** / liquid survivor/reclaim"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **0.0%** / ETH **3.0%** / XRP **0.0%** / SOL **2.6%**",
-      "- 메이저 평균 **1.4% 위치**, **4종 모두 음전환**",
-      "- fresh breakout **1개(IN)**, top15 비메이저 플러스 **6개** → 후보 풀이 매우 좁습니다"
+      "- BTC **17.3%** / ETH **47.3%** / XRP **60.0%** / SOL **55.8%**",
+      "- 메이저 평균 **45.1% 위치**, **4종 모두 음전환**",
+      "- fresh breakout **1개(XLM)**, top15 비메이저 플러스 **6개**, weak breadth **true**"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **70%**, 5종 동일비중",
-      "- 타깃: 각 약 **287,641원**",
-      "- 현금: 약 **616,374원 (30.0%)**",
-      "- 핵심 논리: **majors collapse / old basket broken / only all-positive survivors**"
+      "- 실투입: **80%**, 5종 동일비중",
+      "- 타깃: 각 약 **309,773원**",
+      "- 현금: 약 **387,216원 (20.0%)**",
+      "- 핵심 논리: **rebound yes / breadth no / all-positive only**"
     ],
     "가상 매매 실행 내용": [
-      "- ❌ **교체 5:** XLM→AI / ONDO→IN / ID→ZRO / JTO→CPOOL / WLD→FF",
+      "- ❌ **교체 5:** AI→XLM / IN→ZBT / ZRO→GLM / CPOOL→FF / FF(구비중)→ID",
       "- ✅ **유지 0**",
-      "- ↘️ **비중 축소:** 총 노출 **80% → 70%**",
-      "- 마지막 액션: **RESET_70_AI_IN_ZRO_CPOOL_FF**"
+      "- ↗️ **비중 확대:** 총 노출 **70% → 80%**",
+      "- 마지막 액션: **RESET_80_XLM_ZBT_GLM_FF_ID**"
     ],
     "현재 포트폴리오 현황": [
-      "- AI **4,834.3071개 @ 59.5원**",
-      "- IN **1,356.7985개 @ 212원**",
-      "- ZRO **227.5643개 @ 1,264원**",
-      "- CPOOL **9,278.7507개 @ 31.0원**",
-      "- FF **2,765.7815개 @ 104원**",
-      "- 현금 **616,374원** / 총평가 **2,054,581원**"
+      "- XLM **1,087.9754개 @ 285원**",
+      "- ZBT **1,683.5488개 @ 184원**",
+      "- GLM **1,822.1937개 @ 170원**",
+      "- FF **2,868.2684개 @ 108원**",
+      "- ID **5,736.5370개 @ 54.0원**",
+      "- 현금 **387,216원** / 총평가 **1,936,081원**"
     ],
     "자기 평가": [
-      "- 장점: **기존 80% 바스켓을 최근 결정이라는 이유로 붙들지 않고, 3개 actual break를 확인하자마자 70% all-positive로 재축소한 점**은 좋았습니다.",
-      "- 아쉬움: **ZRO·CPOOL·FF는 구조는 예쁘지만 체급이 얇아 흔들림이 커질 수 있습니다.**",
-      "- 점수: **8.9 / 10**"
+      "- 장점: **직전 crash-reset winners를 최근 선택이라는 이유로 고집하지 않고, 실제 보드가 바뀐 순간 전면 리셋한 점**은 좋았습니다.",
+      "- 아쉬움: **XLM 쏠림이 매우 강해, 리더 하나만 무너지면 80% 공격 배치가 바로 부담이 될 수 있습니다.**",
+      "- 점수: **9.1 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **급락 직후 snapshot을 다시 받아 stale 상태를 제거**했습니다.",
-      "- ✅ **DECISIONS.md에 ‘major avg <5 / fresh=1 / 3개 이상 무효화’ 대응 규칙**을 추가했습니다.",
-      "- ✅ **리포트 상단에 실제 무효화 3 / near-break 2 / 80→70 축소를 고정 표기**해 손상도와 대응 강도를 더 빨리 읽게 했습니다."
+      "- ✅ **03:58 KST snapshot 재수집**으로 반등 직후 보드를 최신 상태로 맞췄습니다.",
+      "- ✅ **DECISIONS.md에 “40~55 반등 + weak breadth + fresh 1” 대응 규칙**을 추가했습니다.",
+      "- ✅ **회전표를 더 짧게 정리**해 왜 기존 바스켓을 버렸는지 한눈에 읽히게 바꿨습니다."
     ],
     "판단": [
-      "- **selective-aggressive-70-crash-reset**"
+      "- **aggressive-80-partial-rebound-reset**"
     ],
     "신뢰도": [
-      "- **medium-low**"
+      "- **medium**"
     ],
     "추천 행동": [
-      "- **AI 57.8 / IN 205 / ZRO 1240 / CPOOL 30.2 / FF 102** 하회 시 즉시 재평가",
-      "- **SLX**는 아직 음전환이지만 **78.5% 위치·1022억원 대금**이라 **양전환 시 승격 1순위**입니다",
-      "- **ONG / MOC / AQT / TAIKO**는 플러스여도 **day-high gap이 너무 깊어 추격 금지**입니다"
+      "- **XLM 281 / ZBT 177 / GLM 163 / FF 105 / ID 52.5** 하회 시 즉시 재평가",
+      "- **SLX**는 아직 음전환이지만 **930.2억원 대금·72.0% 위치**라 **양전환 시 승격 1순위**입니다",
+      "- **AI / IN / ONG / MOC**는 대금이 커도 **gap이 너무 깊거나 위치가 낮아 추격 금지**입니다"
     ],
     "리스크 메모": [
-      "- **메이저 4종이 사실상 저점권**이라 강세 해석 금지입니다.",
-      "- **AI 대금 집중도 73.8%**로 leader dependence가 큽니다.",
-      "- **소형 3종(ZRO·CPOOL·FF)**은 유동성 급감 시 quickly 교체해야 합니다.",
-      "- **AI 또는 IN**이 상단 체류를 잃고 나머지 소형주도 약해지면 **60~65%**까지 더 낮출 수 있습니다."
+      "- **메이저 4종이 전부 아직 음전환**이라 broad risk-on 해석은 금지입니다.",
+      "- **XLM 대금 의존도**가 높아 리더 붕괴 시 포트폴리오 전체가 빠르게 흔들릴 수 있습니다.",
+      "- **ZBT·GLM·FF**는 얇은 체급이라 손절 기준을 느슨하게 잡으면 안 됩니다.",
+      "- **XLM과 ID**가 동시에 무너지면 **70~75% 재축소**가 더 맞을 수 있습니다."
     ]
   }
 }
