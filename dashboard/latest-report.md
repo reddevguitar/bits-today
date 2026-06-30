@@ -1,66 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-06-30 15:58 KST
-- 기준 한줄: **오전 70% reset 5종 중 4종이 재붕괴**했습니다. **HUNT·ARX·GAS·MLK·WLFI를 정리하고 XLM·ONDO·ID·JTO·WLD 80% clean continuation 바스켓**으로 갈아탑니다.
-- 시장 한줄 요약: **메이저는 아직 전부 음전환이지만, 업비트는 실패한 오전 바스켓보다 cleaner continuation 5종이 더 읽기 쉬운 장**입니다.
+- 시각: 2026-06-30 21:58 KST
+- 기준 한줄: **실제 무효화 3 / near-break 2**가 확인됐습니다. **80% 바스켓 방어를 중단하고 70%로 낮춘 뒤 AI·IN·ZRO·CPOOL·FF all-positive 5종**으로 재편합니다.
+- 시장 한줄 요약: **메이저 평균 위치가 1.4%까지 붕괴**해 broad risk-on은 종료됐고, **오늘 밤 업비트는 소수 생존주만 공격적으로 분산 보유하는 장**입니다.
 - 공포탐욕지수: **12 (Extreme Fear, latest known)**
-- BTC 참고: **BTC 90.462M원 / ETH 2.420M원 / XRP 1,595원 / SOL 112.6K원**
+- BTC 참고: **BTC 89.300M원 / ETH 2.377M원 / XRP 1,568원 / SOL 110.2K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- ✨ **XLM** — 280원 / **+5.66%** / 360.1억원 / 위치 **73.9%** / mega-liquidity continuation
-- 🌐 **ONDO** — 482원 / **+0.42%** / 130.5억원 / 위치 **83.3%** / headline-backed continuation
-- 🆔 **ID** — 54.1원 / **+1.50%** / 85.3억원 / 위치 **85.3%** / identity-beta continuation
-- 🪂 **JTO** — 1,135원 / **+1.43%** / 71.7억원 / 위치 **81.2%** / solana-infra continuation
-- 🌍 **WLD** — 643원 / **+1.10%** / 364.8억원 / 위치 **60.9%** / attention reclaim anchor
+- 🤖 **AI** — 59.5원 / **+0.85%** / 702.7억원 / 위치 **85.7%** / upbit-listing AI continuation
+- ♾️ **IN** — 212원 / **+13.98%** / 205.0억원 / 위치 **94.9%** / fresh-breakout core
+- 🪢 **ZRO** — 1,264원 / **+3.78%** / 20.4억원 / 위치 **95.1%** / clean micro-liquidity continuation
+- 🌊 **CPOOL** — 31.0원 / **+4.73%** / 14.3억원 / 위치 **63.0%** / defi secondary continuation
+- 🦅 **FF** — 104원 / **+4.52%** / 10.5억원 / 위치 **69.2%** / small-cap quality survivor
 
 ## 제외된 메이저 참고 신호
-- BTC **26.5%** / ETH **47.6%** / XRP **61.1%** / SOL **33.3%**
-- 메이저 평균 **42.1% 위치**, **4종 모두 음전환**
-- fresh breakout **0**, top15 비메이저 플러스 **5개뿐** → 무작정 90% 공격은 아직 이릅니다
+- BTC **0.0%** / ETH **3.0%** / XRP **0.0%** / SOL **2.6%**
+- 메이저 평균 **1.4% 위치**, **4종 모두 음전환**
+- fresh breakout **1개(IN)**, top15 비메이저 플러스 **6개** → 후보 풀이 매우 좁습니다
 
 ## 공격 포트폴리오 전략
-- 실투입: **80%**, 5종 동일비중
-- 타깃: 각 약 **336,254원**
-- 현금: 약 **420,318원 (20.0%)**
-- 핵심 논리: **morning reset failed / clean continuation only / attention slot 1개 제한**
+- 실투입: **70%**, 5종 동일비중
+- 타깃: 각 약 **287,641원**
+- 현금: 약 **616,374원 (30.0%)**
+- 핵심 논리: **majors collapse / old basket broken / only all-positive survivors**
 
 ## 가상 매매 실행 내용
-- ❌ **교체 5:** HUNT→XLM / ARX→ONDO / GAS→ID / MLK→JTO / WLFI→WLD
+- ❌ **교체 5:** XLM→AI / ONDO→IN / ID→ZRO / JTO→CPOOL / WLD→FF
 - ✅ **유지 0**
-- ↗️ **비중 확대:** 총 노출 **70% → 80%**
-- 마지막 액션: **RESET_80_XLM_ONDO_ID_JTO_WLD**
+- ↘️ **비중 축소:** 총 노출 **80% → 70%**
+- 마지막 액션: **RESET_70_AI_IN_ZRO_CPOOL_FF**
 
 ## 현재 포트폴리오 현황
-- XLM **1200.9078개 @ 280원**
-- ONDO **697.6228개 @ 482원**
-- ID **6215.4192개 @ 54.1원**
-- JTO **296.2592개 @ 1,135원**
-- WLD **522.9458개 @ 643원**
-- 현금 **420,318원** / 총평가 **2,101,589원**
+- AI **4,834.3071개 @ 59.5원**
+- IN **1,356.7985개 @ 212원**
+- ZRO **227.5643개 @ 1,264원**
+- CPOOL **9,278.7507개 @ 31.0원**
+- FF **2,765.7815개 @ 104원**
+- 현금 **616,374원** / 총평가 **2,054,581원**
 
 ## 자기 평가
-- 장점: **오전 70% reset을 최근 결정이라는 이유만으로 방어하지 않고, 4개 무효화를 확인한 뒤 전면 교체한 점**이 좋았습니다.
-- 아쉬움: **WLD는 체급은 좋지만 attention slot이라 broad risk-on 없이 오래 끌고 가면 다시 흔들릴 수 있습니다.**
-- 점수: **9.0 / 10**
+- 장점: **기존 80% 바스켓을 최근 결정이라는 이유로 붙들지 않고, 3개 actual break를 확인하자마자 70% all-positive로 재축소한 점**은 좋았습니다.
+- 아쉬움: **ZRO·CPOOL·FF는 구조는 예쁘지만 체급이 얇아 흔들림이 커질 수 있습니다.**
+- 점수: **8.9 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **fetch_upbit_snapshot.py를 직전에 재실행해 stale snapshot 의존 제거**
-- ✅ **DECISIONS.md에 ‘70% reset 직후 4개 이상 무효화되면 cleaner 80% continuation 바스켓으로 재업그레이드’ 규칙 추가**
-- ✅ **리포트 상단에 교체 5 / 유지 0 / 비중확대 10%p를 명시해 실패 인정과 방향 전환을 더 빨리 보이게 개선**
+- ✅ **급락 직후 snapshot을 다시 받아 stale 상태를 제거**했습니다.
+- ✅ **DECISIONS.md에 ‘major avg <5 / fresh=1 / 3개 이상 무효화’ 대응 규칙**을 추가했습니다.
+- ✅ **리포트 상단에 실제 무효화 3 / near-break 2 / 80→70 축소를 고정 표기**해 손상도와 대응 강도를 더 빨리 읽게 했습니다.
 
 ## 판단
-- **selective-aggressive-80-clean-continuation-reset**
+- **selective-aggressive-70-crash-reset**
 
 ## 신뢰도
-- **medium**
+- **medium-low**
 
 ## 추천 행동
-- **XLM 274 / ONDO 476 / ID 53.2 / JTO 1120 / WLD 632** 하회 시 즉시 재평가
-- **ONG**는 강하지만 **-8.58% gap** 축소 전까지 추격 금지
-- **RE / SLX / ARX / GAS / POWR**는 구조 복구 전 core 금지
+- **AI 57.8 / IN 205 / ZRO 1240 / CPOOL 30.2 / FF 102** 하회 시 즉시 재평가
+- **SLX**는 아직 음전환이지만 **78.5% 위치·1022억원 대금**이라 **양전환 시 승격 1순위**입니다
+- **ONG / MOC / AQT / TAIKO**는 플러스여도 **day-high gap이 너무 깊어 추격 금지**입니다
 
 ## 리스크 메모
-- **메이저 4종 전부 음전환**이라 broad risk-on으로 오해하면 안 됩니다.
-- **top15 플러스가 5개뿐**이라 후보 풀이 좁습니다.
-- **WLD**는 attention slot 1개 한정으로만 유지해야 합니다.
-- **ONDO·ID·JTO 중 2개 이상**이 동시에 상단 체류를 잃으면 80% 노출도 과합니다.
+- **메이저 4종이 사실상 저점권**이라 강세 해석 금지입니다.
+- **AI 대금 집중도 73.8%**로 leader dependence가 큽니다.
+- **소형 3종(ZRO·CPOOL·FF)**은 유동성 급감 시 quickly 교체해야 합니다.
+- **AI 또는 IN**이 상단 체류를 잃고 나머지 소형주도 약해지면 **60~65%**까지 더 낮출 수 있습니다.

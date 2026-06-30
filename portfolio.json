@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 420317.72062454466,
-  "realized_pnl_krw": -7888173.123158823,
-  "last_valuation_krw": 2101588.603122724,
-  "last_action": "RESET_80_XLM_ONDO_ID_JTO_WLD",
-  "last_updated": "2026-06-30T15:58:00+09:00",
-  "trade_count": 1384,
+  "cash_krw": 616374.1530638088,
+  "realized_pnl_krw": -7935181.216068852,
+  "last_valuation_krw": 2054580.510212695,
+  "last_action": "RESET_70_AI_IN_ZRO_CPOOL_FF",
+  "last_updated": "2026-06-30T21:58:00+09:00",
+  "trade_count": 1394,
   "positions": {
-    "XLM": {
-      "market": "KRW-XLM",
-      "amount": 1200.9077732129854,
-      "avg_buy_price_krw": 280.0,
-      "last_price_krw": 280.0,
-      "value_krw": 336254.1764996359,
-      "thesis": "360.1억원 대금·+5.66%·73.9% 위치로 현재 원화 보드의 mega-liquidity continuation 1순위입니다.",
-      "strategy": "keep while 274원 above and 65%+ continuation structure persists",
-      "role": "mega-liquidity continuation",
-      "risk_limit_pct": 2.1,
+    "AI": {
+      "market": "KRW-AI",
+      "amount": 4834.307082853399,
+      "avg_buy_price_krw": 59.5,
+      "last_price_krw": 59.5,
+      "value_krw": 287641.27142977726,
+      "thesis": "702.7억원 대금과 신규 상장 attention이 겹친 오늘 밤 최대 유동성 알트 코어입니다.",
+      "strategy": "keep while 57.8원 above and listing-continuation structure stays intact",
+      "role": "upbit-listing AI continuation",
+      "risk_limit_pct": 2.9,
+      "profit_take_pct": 8.0
+    },
+    "IN": {
+      "market": "KRW-IN",
+      "amount": 1356.7984501404587,
+      "avg_buy_price_krw": 212.0,
+      "last_price_krw": 212.0,
+      "value_krw": 287641.27142977726,
+      "thesis": "204.9억원 대금·+13.98%·94.9% 위치로 현재 보드의 유일한 clean fresh breakout입니다.",
+      "strategy": "hold while 205원 above and 90%+ upper-range hold persists",
+      "role": "fresh-breakout core",
+      "risk_limit_pct": 3.3,
+      "profit_take_pct": 10.0
+    },
+    "ZRO": {
+      "market": "KRW-ZRO",
+      "amount": 227.56429701722885,
+      "avg_buy_price_krw": 1264.0,
+      "last_price_krw": 1264.0,
+      "value_krw": 287641.27142977726,
+      "thesis": "20.4억원 대금은 크지 않지만 +3.78%·95.1% 위치·-0.24% gap 조합이 매우 깔끔합니다.",
+      "strategy": "keep while 1240원 above and micro-continuation remains clean",
+      "role": "clean micro-liquidity continuation",
+      "risk_limit_pct": 1.9,
       "profit_take_pct": 7.0
     },
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 697.6227728208214,
-      "avg_buy_price_krw": 482.0,
-      "last_price_krw": 482.0,
-      "value_krw": 336254.1764996359,
-      "thesis": "130.5억원 대금·+0.42%·83.3% 위치로 headline과 실제 테이프가 동시에 살아 있는 clean continuation입니다.",
-      "strategy": "prefer while 476원 above and 80%+ upper-range hold persists",
-      "role": "headline-backed continuation",
-      "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.5
-    },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 6215.41915895815,
-      "avg_buy_price_krw": 54.1,
-      "last_price_krw": 54.1,
-      "value_krw": 336254.1764996359,
-      "thesis": "85.3억원 대금·+1.50%·85.3% 위치로 attention 과열 없이 고가권을 지키는 clean beta continuation입니다.",
-      "strategy": "hold while 53.2원 above and 80%+ continuation remains intact",
-      "role": "identity-beta continuation",
-      "risk_limit_pct": 3.1,
-      "profit_take_pct": 6.5
-    },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 296.25918634329156,
-      "avg_buy_price_krw": 1135.0,
-      "last_price_krw": 1135.0,
-      "value_krw": 336254.1764996359,
-      "thesis": "71.7억원 대금·+1.43%·81.2% 위치로 오후 continuation 바스켓에서 가장 깔끔한 인프라 슬롯입니다.",
-      "strategy": "hold while 1120원 above and upper-range structure persists",
-      "role": "solana-infra continuation",
+    "CPOOL": {
+      "market": "KRW-CPOOL",
+      "amount": 9278.750691283138,
+      "avg_buy_price_krw": 31.0,
+      "last_price_krw": 31.0,
+      "value_krw": 287641.27142977726,
+      "thesis": "14.3억원 대금·+4.73%·63.0% 위치로 얇지만 아직 살아 있는 secondary continuation입니다.",
+      "strategy": "hold while 30.2원 above and 60%+ continuation survives",
+      "role": "defi secondary continuation",
       "risk_limit_pct": 2.6,
-      "profit_take_pct": 6.5
+      "profit_take_pct": 8.0
     },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 522.9458421456235,
-      "avg_buy_price_krw": 643.0,
-      "last_price_krw": 643.0,
-      "value_krw": 336254.1764996359,
-      "thesis": "364.8억원 대금·+1.10%·60.9% 위치로 오후 attention/reclaim 슬롯 중 체급이 가장 큰 앵커입니다.",
-      "strategy": "keep while 632원 above and 55%+ reclaim structure holds",
-      "role": "attention reclaim anchor",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 6.5
+    "FF": {
+      "market": "KRW-FF",
+      "amount": 2765.7814560555507,
+      "avg_buy_price_krw": 104.0,
+      "last_price_krw": 104.0,
+      "value_krw": 287641.27142977726,
+      "thesis": "10.5억원 대금·+4.52%·69.2% 위치·-1.89% gap으로 얇은 체급 대비 구조가 깔끔합니다.",
+      "strategy": "keep while 102원 above and 65%+ survivor structure persists",
+      "role": "small-cap quality survivor",
+      "risk_limit_pct": 1.9,
+      "profit_take_pct": 7.5
     }
   },
   "watchlist": [
     {
-      "symbol": "ONG",
-      "market": "KRW-ONG",
-      "reason": "+18.21%와 250.7억원 대금은 강하지만 day-high-gap이 -8.58%라 같은 플러스여도 exhausted 성격이 남습니다. -5% 안쪽으로 조여질 때 승격 검토."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "-1.70%라도 1022억원 대금·78.5% 위치·-3.11% gap이면 음전환 salvage 1순위입니다. 양전환 시 즉시 승격 검토."
     },
     {
       "symbol": "MEGA",
       "market": "KRW-MEGA",
-      "reason": "77원·+5.48%·48.9억원·79.4% 위치로 구조는 좋지만 체급이 톱5 대비 한 단계 작아 이번 회차는 watchlist에 둡니다."
+      "reason": "+2.74%와 82.4억원 대금은 좋지만 44.2% 위치라 아직 상단 회복이 부족합니다. 이번 주 unlock 변동성도 경계."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "2822원·0.00%·53.2억원·68.0% 위치로 neutral quality slot입니다. ONDO/JTO 중 하나가 깨지면 대체 1순위."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "115.3억원 대금에도 43.4% 위치면 기존 continuation 코어로 남기기엔 약합니다. 55%+ reclaim 때 재평가."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "221원·+0.45%·34.4억원·100% 위치지만 일중 박스가 너무 좁아 tight-range hold로 분류합니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "72.1억원 대금이 남아도 35.7% 위치면 tonight core보다 watchlist가 적절합니다."
     },
     {
-      "symbol": "WLFI",
-      "market": "KRW-WLFI",
-      "reason": "90.5원·+0.78%로 무효화는 안 깼지만 대금이 11.3억원 수준이라 attention 슬롯 경쟁에서 WLD에 밀렸습니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "457.7억원 대금이어도 13.0% 위치·-6.99% gap이면 mega-liquidity trap입니다."
     },
     {
-      "symbol": "TAIKO",
-      "market": "KRW-TAIKO",
-      "reason": "113원·+11.88%라도 38.7% 위치와 -16.91% gap이면 chase 금지입니다."
+      "symbol": "WAXP",
+      "market": "KRW-WAXP",
+      "reason": "+0.80%·7.1억원·68.0% 위치로 얇지만 차분한 후보입니다. FF 약화 시 대체 검토."
     }
   ],
   "history": [
@@ -12558,6 +12558,96 @@
       "amount_delta": 522.9458421456235,
       "cash_delta_krw": -336254.1764996359,
       "reason": "364.8억원 대금·+1.10%·60.9% 위치로 오후 attention/reclaim 슬롯 중 체급이 가장 큰 앵커입니다."
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 266.0,
+      "amount_delta": -1200.9077732129854,
+      "cash_delta_krw": 319441.4676746541,
+      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 465.0,
+      "amount_delta": -697.6227728208214,
+      "cash_delta_krw": 324394.58936168195,
+      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 53.5,
+      "amount_delta": -6215.41915895815,
+      "cash_delta_krw": 332524.925004261,
+      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1121.0,
+      "amount_delta": -296.25918634329156,
+      "cash_delta_krw": 332106.54789082985,
+      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 623.0,
+      "amount_delta": -522.9458421456235,
+      "cash_delta_krw": 325795.2596567234,
+      "reason": "메이저 평균 위치가 1.4%까지 붕괴했고 기존 80% 바스켓은 3개 실제 무효화·2개 near-break라, 오후 continuation 가정을 철회하고 all-positive 70% 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "AI",
+      "action": "BUY",
+      "price_krw": 59.5,
+      "amount_delta": 4834.307082853399,
+      "cash_delta_krw": -287641.27142977726,
+      "reason": "702.7억원 대금과 신규 상장 attention이 겹친 오늘 밤 최대 유동성 알트 코어입니다."
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 212.0,
+      "amount_delta": 1356.7984501404587,
+      "cash_delta_krw": -287641.27142977726,
+      "reason": "204.9억원 대금·+13.98%·94.9% 위치로 현재 보드의 유일한 clean fresh breakout입니다."
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "ZRO",
+      "action": "BUY",
+      "price_krw": 1264.0,
+      "amount_delta": 227.56429701722885,
+      "cash_delta_krw": -287641.27142977726,
+      "reason": "20.4억원 대금은 크지 않지만 +3.78%·95.1% 위치·-0.24% gap 조합이 매우 깔끔합니다."
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "CPOOL",
+      "action": "BUY",
+      "price_krw": 31.0,
+      "amount_delta": 9278.750691283138,
+      "cash_delta_krw": -287641.27142977726,
+      "reason": "14.3억원 대금·+4.73%·63.0% 위치로 얇지만 아직 살아 있는 secondary continuation입니다."
+    },
+    {
+      "timestamp": "2026-06-30T21:58:00+09:00",
+      "symbol": "FF",
+      "action": "BUY",
+      "price_krw": 104.0,
+      "amount_delta": 2765.7814560555507,
+      "cash_delta_krw": -287641.27142977726,
+      "reason": "10.5억원 대금·+4.52%·69.2% 위치·-1.89% gap으로 얇은 체급 대비 구조가 깔끔합니다."
     }
   ]
 }
