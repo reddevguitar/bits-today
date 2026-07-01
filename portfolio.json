@@ -2,99 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 380189.0045378404,
-  "realized_pnl_krw": -8100772.853941244,
-  "last_valuation_krw": 1900945.0226892028,
-  "last_action": "RESET_80_JTO_ZBT_ADA_ME_CELO",
-  "last_updated": "2026-07-01T21:59:07+09:00",
-  "trade_count": 1433,
+  "cash_krw": 192309.24761494482,
+  "realized_pnl_krw": -8078625.400480999,
+  "last_valuation_krw": 1923092.4761494477,
+  "last_action": "RESET_90_ZBT_ONDO_JTO_ADA_CELO",
+  "last_updated": "2026-07-02T03:58:00+09:00",
+  "trade_count": 1443,
   "positions": {
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 256.884462525568,
-      "avg_buy_price_krw": 1184.0,
-      "last_price_krw": 1184.0,
-      "value_krw": 304151.2036302725,
-      "thesis": "102.3억원 대금·+9.02%·65.1% 위치에 JTX 7월 공개 기대가 살아 있어 촉매형 continuation 슬롯으로 적합합니다.",
-      "strategy": "JTX early-access momentum survives while 1160원 above and 60%+ range hold persists",
-      "role": "solana catalyst continuation",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 8.5
-    },
     "ZBT": {
       "market": "KRW-ZBT",
-      "amount": 1401.6184499090898,
-      "avg_buy_price_krw": 217.0,
-      "last_price_krw": 217.0,
-      "value_krw": 304151.2036302725,
-      "thesis": "154.8억원 대금·+17.93%·77.8% 위치로 fresh 0 장세에서도 실제 상단 체류가 확인된 고베타 리더입니다.",
-      "strategy": "hold while 209원 above and 72%+ structure persists",
+      "amount": 1518.2309022232482,
+      "avg_buy_price_krw": 228.0,
+      "last_price_krw": 228.0,
+      "value_krw": 346156.64570690057,
+      "thesis": "176.1억원 대금·+23.91%·82.1% 위치로 현재 보드에서 가장 공격적으로 쓸 수 있는 continuation 리더입니다.",
+      "strategy": "hold while 221원 above and 78%+ structure persists",
       "role": "high-beta continuation leader",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 11.0
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 12.0
+    },
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 716.6804258942041,
+      "avg_buy_price_krw": 483.0,
+      "last_price_krw": 483.0,
+      "value_krw": 346156.64570690057,
+      "thesis": "159.9억원 대금·+2.55%·76.9% 위치·-1.23% gap로 메이저 rebound 구간의 유동성 앵커 1순위입니다.",
+      "strategy": "hold while 474원 above and 72%+ range hold persists",
+      "role": "liquidity anchor reclaim",
+      "risk_limit_pct": 2.0,
+      "profit_take_pct": 7.5
+    },
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 294.1008034892953,
+      "avg_buy_price_krw": 1177.0,
+      "last_price_krw": 1177.0,
+      "value_krw": 346156.64570690057,
+      "thesis": "100.7억원 대금·+8.38%·60.5% 위치에 JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯 유지가 가능합니다.",
+      "strategy": "hold while 1150원 above and 58%+ structure persists",
+      "role": "solana catalyst continuation",
+      "risk_limit_pct": 2.7,
+      "profit_take_pct": 9.0
     },
     "ADA": {
       "market": "KRW-ADA",
-      "amount": 1310.996567371864,
-      "avg_buy_price_krw": 232.0,
-      "last_price_krw": 232.0,
-      "value_krw": 304151.2036302725,
-      "thesis": "65.9억원 대금·+5.45%·93.8% 위치·-0.43% gap로 이번 회차 가장 깔끔한 대형 continuation 후보입니다.",
-      "strategy": "hold while 227원 above and 85%+ range hold persists",
+      "amount": 1479.3019047303444,
+      "avg_buy_price_krw": 234.0,
+      "last_price_krw": 234.0,
+      "value_krw": 346156.64570690057,
+      "thesis": "85.0억원 대금·+6.36%·73.9% 위치로 메이저 회복 수혜를 가장 깔끔하게 받는 대형 continuation 후보입니다.",
+      "strategy": "hold while 229원 above and 70%+ range hold persists",
       "role": "clean large-cap continuation",
-      "risk_limit_pct": 2.2,
+      "risk_limit_pct": 2.1,
       "profit_take_pct": 6.5
-    },
-    "ME": {
-      "market": "KRW-ME",
-      "amount": 3345.997839716969,
-      "avg_buy_price_krw": 90.9,
-      "last_price_krw": 90.9,
-      "value_krw": 304151.2036302725,
-      "thesis": "65.9억원 대금·+5.70%·80.3% 위치·-1.30% gap으로 attention과 구조가 동시에 양호한 2선 리더입니다.",
-      "strategy": "hold while 88.5원 above and 75%+ range hold persists",
-      "role": "attention-backed continuation",
-      "risk_limit_pct": 2.7,
-      "profit_take_pct": 7.5
     },
     "CELO": {
       "market": "KRW-CELO",
-      "amount": 2952.924307090024,
-      "avg_buy_price_krw": 103.0,
-      "last_price_krw": 103.0,
-      "value_krw": 304151.2036302725,
-      "thesis": "86.7억원 대금·+15.21%·70.0% 위치로 headline trap이 아닌 실제 continuation 흐름이 확인됩니다.",
-      "strategy": "hold while 99원 above and 65%+ range hold persists",
+      "amount": 3296.7299591133387,
+      "avg_buy_price_krw": 105.0,
+      "last_price_krw": 105.0,
+      "value_krw": 346156.64570690057,
+      "thesis": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다.",
+      "strategy": "hold while 101원 above and 75%+ range hold persists",
       "role": "mid-cap momentum continuation",
-      "risk_limit_pct": 3.5,
-      "profit_take_pct": 9.5
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 10.0
     }
   },
   "watchlist": [
     {
       "symbol": "TAIKO",
       "market": "KRW-TAIKO",
-      "reason": "530.9억원 대금·+79.09%라도 최근 보안 이슈/상장유의 경계와 -9.22% gap가 겹쳐 이번 회차는 추격 금지입니다."
+      "reason": "673.8억원 대금·+60.00%라도 최근 보안사고 후 watchlist 오버행과 -18.89% gap가 너무 깊어 추격 금지입니다."
     },
     {
       "symbol": "AERGO",
       "market": "KRW-AERGO",
-      "reason": "150.7억원 대금·81.5% 위치는 좋지만 Upbit watchlist 헤드라인이 남아 있어 preferred 승격은 보류합니다."
+      "reason": "171.1억원 대금·+10.00%라도 Upbit delisting watchlist 이슈가 살아 있어 preferred 승격을 보류합니다."
     },
     {
       "symbol": "AQT",
       "market": "KRW-AQT",
-      "reason": "94.1억원 대금·74.3% 위치라도 delisting watchlist 리스크가 있어 이번 회차는 보유보다 관찰이 맞습니다."
+      "reason": "96.5억원 대금·+3.50%라도 delisting review 리스크가 남아 있어 거래보다 관찰이 우선입니다."
     },
     {
       "symbol": "FLUID",
       "market": "KRW-FLUID",
-      "reason": "192.3억원 대금·+28.38% 강세지만 -6.65% gap가 깊어 late chase 리스크가 큽니다."
+      "reason": "268.2억원 대금·+21.62% 강세지만 58.2% 위치·-11.56% gap면 exhausted blowoff 성격이 강합니다."
+    },
+    {
+      "symbol": "ME",
+      "market": "KRW-ME",
+      "reason": "67.1억원 대금·+5.70%·80.3% 위치로 깨끗하지만, 이번 회차는 ONDO와 JTO 쪽 촉매·유동성이 더 우위입니다."
     },
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "710.7억원 대금은 압도적이지만 42.9% 위치·-5.06% gap로 더 이상 survivor 기준을 충족하지 못합니다."
+      "reason": "695.1억원 초대금과 양전환은 좋지만 50.0% 위치라 이번 90% 바스켓의 상단 지속형 기준에는 못 미칩니다."
     }
   ],
   "history": [
@@ -12994,6 +12999,96 @@
       "amount_delta": 2952.924307090024,
       "cash_delta_krw": -304151.2036302725,
       "reason": "86.7억원 대금·+15.21%·70.0% 위치로 headline trap이 아닌 실제 continuation 흐름이 확인됩니다."
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1177.0,
+      "amount_delta": -256.884462525568,
+      "cash_delta_krw": 302353.0123925935,
+      "reason": "메이저 급반등 확인 후 03:58 가격 기준 5종 균등 공격 분산과 90% 노출 상향을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "SELL",
+      "price_krw": 228.0,
+      "amount_delta": -1401.6184499090898,
+      "cash_delta_krw": 319569.00657927245,
+      "reason": "메이저 급반등 확인 후 03:58 가격 기준 5종 균등 공격 분산과 90% 노출 상향을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "ADA",
+      "action": "SELL",
+      "price_krw": 234.0,
+      "amount_delta": -1310.996567371864,
+      "cash_delta_krw": 306773.1967650162,
+      "reason": "메이저 급반등 확인 후 03:58 가격 기준 5종 균등 공격 분산과 90% 노출 상향을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "ME",
+      "action": "SELL",
+      "price_krw": 90.9,
+      "amount_delta": -3345.997839716969,
+      "cash_delta_krw": 304151.2036302725,
+      "reason": "메이저 급반등 확인 후 03:58 가격 기준 5종 균등 공격 분산과 90% 노출 상향을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "CELO",
+      "action": "SELL",
+      "price_krw": 105.0,
+      "amount_delta": -2952.924307090024,
+      "cash_delta_krw": 310057.0522444525,
+      "reason": "메이저 급반등 확인 후 03:58 가격 기준 5종 균등 공격 분산과 90% 노출 상향을 위해 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 228.0,
+      "amount_delta": 1518.2309022232482,
+      "cash_delta_krw": -346156.64570690057,
+      "reason": "176.1억원 대금·+23.91%·82.1% 위치로 현재 보드에서 가장 공격적으로 쓸 수 있는 continuation 리더입니다."
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 483.0,
+      "amount_delta": 716.6804258942041,
+      "cash_delta_krw": -346156.64570690057,
+      "reason": "159.9억원 대금·+2.55%·76.9% 위치·-1.23% gap로 메이저 rebound 구간의 유동성 앵커 1순위입니다."
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1177.0,
+      "amount_delta": 294.1008034892953,
+      "cash_delta_krw": -346156.64570690057,
+      "reason": "100.7억원 대금·+8.38%·60.5% 위치에 JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯 유지가 가능합니다."
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "ADA",
+      "action": "BUY",
+      "price_krw": 234.0,
+      "amount_delta": 1479.3019047303444,
+      "cash_delta_krw": -346156.64570690057,
+      "reason": "85.0억원 대금·+6.36%·73.9% 위치로 메이저 회복 수혜를 가장 깔끔하게 받는 대형 continuation 후보입니다."
+    },
+    {
+      "timestamp": "2026-07-02T03:58:00+09:00",
+      "symbol": "CELO",
+      "action": "BUY",
+      "price_krw": 105.0,
+      "amount_delta": 3296.7299591133387,
+      "cash_delta_krw": -346156.64570690057,
+      "reason": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다."
     }
   ]
 }

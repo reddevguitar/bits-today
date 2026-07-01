@@ -136,7 +136,12 @@ ICONS = {
     'ME': '🪄',
     'STEEM': '📝',
     'EDGE': '🗡️',
-    'AZTEC': '🏛️'
+    'AZTEC': '🏛️',
+    'CELO': '🪙',
+    'AERGO': '🛑',
+    'PYTH': '🐍',
+    'WET': '💦',
+    'BSV': '⛏️'
 }
 
 
