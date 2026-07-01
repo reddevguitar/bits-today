@@ -2,104 +2,99 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 287814.9458633691,
-  "realized_pnl_krw": -8082951.570874653,
-  "last_valuation_krw": 1918766.305755794,
-  "last_action": "RESET_85_AI_XLM_RE_ARX_JTO",
-  "last_updated": "2026-07-01T09:59:01+09:00",
-  "trade_count": 1413,
+  "cash_krw": 380775.4344186741,
+  "realized_pnl_krw": -8097840.704537076,
+  "last_valuation_krw": 1903877.172093371,
+  "last_action": "RESET_80_XLM_AQT_EDGE_JTO_ZBT",
+  "last_updated": "2026-07-01T15:58:56+09:00",
+  "trade_count": 1423,
   "positions": {
     "XLM": {
       "market": "KRW-XLM",
-      "amount": 1101.9941620894763,
-      "avg_buy_price_krw": 296.0,
-      "last_price_krw": 296.0,
-      "value_krw": 326190.271978485,
-      "thesis": "623.6억원 대금·+2.42%·72.7% 위치·-1.00% gap으로 breadth 확장 국면의 유동성 앵커입니다.",
-      "strategy": "hold while 292원 above and 70%+ range hold persists",
-      "role": "mega-liquidity continuation anchor",
-      "risk_limit_pct": 2.6,
+      "amount": 995.4913318135273,
+      "avg_buy_price_krw": 306.0,
+      "last_price_krw": 306.0,
+      "value_krw": 304620.34753493936,
+      "thesis": "696.0억원 대금·+5.88%·64.3% 위치로 AI 붕괴 뒤에도 남은 최상위 메가 유동성 reclaim 축입니다.",
+      "strategy": "hold while 300원 above and 60%+ range hold persists",
+      "role": "mega-liquidity reclaim anchor",
+      "risk_limit_pct": 2.8,
       "profit_take_pct": 7.0
     },
-    "AI": {
-      "market": "KRW-AI",
-      "amount": 5556.9041222910555,
-      "avg_buy_price_krw": 58.7,
-      "last_price_krw": 58.7,
-      "value_krw": 326190.271978485,
-      "thesis": "1,016.5억원 대금·+8.91%·95.7% 위치·-0.51% gap으로 현재 업비트 최우선 신규상장 리더입니다.",
-      "strategy": "hold while 56.8원 above and 85%+ upper-range hold persists",
-      "role": "mega-liquidity fresh breakout",
-      "risk_limit_pct": 3.2,
+    "AQT": {
+      "market": "KRW-AQT",
+      "amount": 937.2933770305826,
+      "avg_buy_price_krw": 325.0,
+      "last_price_krw": 325.0,
+      "value_krw": 304620.34753493936,
+      "thesis": "127.2억원 대금·+3.50%·63.6% 위치·-2.40% gap으로 오후 보드에서 가장 깔끔한 중형 continuation입니다.",
+      "strategy": "hold while 319원 above and 60%+ range hold persists",
+      "role": "clean turnover continuation",
+      "risk_limit_pct": 2.4,
+      "profit_take_pct": 6.5
+    },
+    "EDGE": {
+      "market": "KRW-EDGE",
+      "amount": 2398.5854136609396,
+      "avg_buy_price_krw": 127.0,
+      "last_price_krw": 127.0,
+      "value_krw": 304620.34753493936,
+      "thesis": "91.1억원 대금·+9.48%·73.9% 위치로 소형보다 체급이 낫고 상단 유지도 선명합니다.",
+      "strategy": "hold while 121원 above and 70%+ structure persists",
+      "role": "mid-cap momentum continuation",
+      "risk_limit_pct": 3.6,
       "profit_take_pct": 9.0
-    },
-    "RE": {
-      "market": "KRW-RE",
-      "amount": 318.54518747898925,
-      "avg_buy_price_krw": 1024.0,
-      "last_price_krw": 1024.0,
-      "value_krw": 326190.271978485,
-      "thesis": "371.0억원 대금·+3.54%·83.1% 위치·-1.06% gap으로 상단 유지가 가장 읽기 쉬운 중대형 continuation입니다.",
-      "strategy": "hold while 1005원 above and 80%+ range hold persists",
-      "role": "high-liquidity continuation core",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 8.0
-    },
-    "ARX": {
-      "market": "KRW-ARX",
-      "amount": 845.0525180789766,
-      "avg_buy_price_krw": 386.0,
-      "last_price_krw": 386.0,
-      "value_krw": 326190.271978485,
-      "thesis": "198.9억원 대금·+1.58%·100% 위치로 최근 상장 잔열과 상단 고정이 동시에 보입니다.",
-      "strategy": "hold while 381원 above and breakout high structure persists",
-      "role": "fresh listing breakout beta",
-      "risk_limit_pct": 3.7,
-      "profit_take_pct": 10.0
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 294.92791318127036,
-      "avg_buy_price_krw": 1106.0,
-      "last_price_krw": 1106.0,
-      "value_krw": 326190.271978485,
-      "thesis": "64.2억원 대금·+1.84%·95.5% 위치·-0.09% gap으로 솔라나계 follow-through 품질이 좋습니다.",
-      "strategy": "hold while 1093원 above and 90%+ range hold persists",
-      "role": "solana beta continuation",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 8.0
+      "amount": 258.37179604320556,
+      "avg_buy_price_krw": 1179.0,
+      "last_price_krw": 1179.0,
+      "value_krw": 304620.34753493936,
+      "thesis": "85.1억원 대금·+8.56%·69.1% 위치에 JTX 7월 론칭 기대가 남아 있어 솔라나 베타 슬롯으로 적합합니다.",
+      "strategy": "hold while 1155원 above and 65%+ range hold persists",
+      "role": "solana catalyst continuation",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 8.5
+    },
+    "ZBT": {
+      "market": "KRW-ZBT",
+      "amount": 1508.0215224501949,
+      "avg_buy_price_krw": 202.0,
+      "last_price_krw": 202.0,
+      "value_krw": 304620.34753493936,
+      "thesis": "64.1억원 대금·+9.78%·100% 위치로 현재 보드에서 허용 가능한 유일한 소형 breakout 가속 슬롯입니다.",
+      "strategy": "hold while 194원 above and breakout high structure persists",
+      "role": "small-cap breakout accelerator",
+      "risk_limit_pct": 4.6,
+      "profit_take_pct": 11.0
     }
   },
   "watchlist": [
     {
-      "symbol": "ENA",
-      "market": "KRW-ENA",
-      "reason": "103.8억원 대금·100% 위치지만 박스가 짧아 이번엔 watch로만 둡니다. 상단 유지가 더 길어지면 JTO 대체 후보입니다."
+      "symbol": "TAIKO",
+      "market": "KRW-TAIKO",
+      "reason": "148.1억원 대금·+11.82% 강하지만 -6.11% gap가 깊어 ZBT보다 추격 효율이 떨어집니다."
     },
     {
-      "symbol": "PYTH",
-      "market": "KRW-PYTH",
-      "reason": "131.6억원 대금·76.2% 위치·-0.85% gap으로 품질은 좋습니다. JTO 약화 시 교체 1순위입니다."
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "67.9억원 대금·+6.06%·71.4% 위치로 좋지만 EDGE·JTO 대비 체급과 서사 우위가 한 단계 약합니다."
+    },
+    {
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "109.7억원 대금·+1.58%라도 52.9% 위치로 listing 잔열이 확실히 둔화됐습니다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "115.2억원 대금·80.0% 위치·-0.21% gap으로 안정적이지만 공격성은 RE·ARX보다 약해 대기시킵니다."
+      "reason": "143.6억원 대금과 gap은 좋지만 50% 정중앙이라 공격 포트폴리오 우선순위에서 밀립니다."
     },
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "773.8억원 대금이 남았지만 아직 -0.39% 음전환이라 양전환 전까지는 승격 보류입니다."
-    },
-    {
-      "symbol": "ZBT",
-      "market": "KRW-ZBT",
-      "reason": "100% 위치는 좋지만 48.6억원 체급이라 AI·ARX·JTO보다 공격 핵심 우선순위가 밀립니다."
-    },
-    {
-      "symbol": "TAIKO",
-      "market": "KRW-TAIKO",
-      "reason": "+11.82% 강세지만 -5.38% gap이 아직 깊어 late chase보다 눌림 확인이 먼저입니다."
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "75.0% 위치·61.6억원 대금으로 안정적이지만 이번 회차는 톱4 메이저 밖 참고용으로만 유지합니다."
     }
   ],
   "history": [
@@ -12819,6 +12814,96 @@
       "amount_delta": 294.92791318127036,
       "cash_delta_krw": -326190.271978485,
       "reason": "메이저 평균 위치 79%대 회복과 fresh breakout 3개 확인에 따라 85% 동일비중 공격 바스켓으로 재정렬"
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 306.0,
+      "amount_delta": -1101.9941620894763,
+      "cash_delta_krw": 337210.21359937976,
+      "reason": "메이저 평균 위치가 79.4%→51.0%로 식고 weak breadth가 재점등해 오전 돌파 바스켓을 80% survivor/continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "AI",
+      "action": "SELL",
+      "price_krw": 52.8,
+      "amount_delta": -5556.9041222910555,
+      "cash_delta_krw": 293404.5376569677,
+      "reason": "메이저 평균 위치가 79.4%→51.0%로 식고 weak breadth가 재점등해 오전 돌파 바스켓을 80% survivor/continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "RE",
+      "action": "SELL",
+      "price_krw": 978.0,
+      "amount_delta": -318.54518747898925,
+      "cash_delta_krw": 311537.1933544515,
+      "reason": "메이저 평균 위치가 79.4%→51.0%로 식고 weak breadth가 재점등해 오전 돌파 바스켓을 80% survivor/continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "ARX",
+      "action": "SELL",
+      "price_krw": 386.0,
+      "amount_delta": -845.0525180789766,
+      "cash_delta_krw": 326190.271978485,
+      "reason": "메이저 평균 위치가 79.4%→51.0%로 식고 weak breadth가 재점등해 오전 돌파 바스켓을 80% survivor/continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1179.0,
+      "amount_delta": -294.92791318127036,
+      "cash_delta_krw": 347720.00964071776,
+      "reason": "메이저 평균 위치가 79.4%→51.0%로 식고 weak breadth가 재점등해 오전 돌파 바스켓을 80% survivor/continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 306.0,
+      "amount_delta": 995.4913318135273,
+      "cash_delta_krw": -304620.34753493936,
+      "reason": "696.0억원 대금·+5.88%·64.3% 위치로 AI 붕괴 뒤에도 남은 최상위 메가 유동성 reclaim 축입니다."
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "AQT",
+      "action": "BUY",
+      "price_krw": 325.0,
+      "amount_delta": 937.2933770305826,
+      "cash_delta_krw": -304620.34753493936,
+      "reason": "127.2억원 대금·+3.50%·63.6% 위치·-2.40% gap으로 오후 보드에서 가장 깔끔한 중형 continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "EDGE",
+      "action": "BUY",
+      "price_krw": 127.0,
+      "amount_delta": 2398.5854136609396,
+      "cash_delta_krw": -304620.34753493936,
+      "reason": "91.1억원 대금·+9.48%·73.9% 위치로 소형보다 체급이 낫고 상단 유지도 선명합니다."
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1179.0,
+      "amount_delta": 258.37179604320556,
+      "cash_delta_krw": -304620.34753493936,
+      "reason": "85.1억원 대금·+8.56%·69.1% 위치에 JTX 7월 론칭 기대가 남아 있어 솔라나 베타 슬롯으로 적합합니다."
+    },
+    {
+      "timestamp": "2026-07-01T15:58:56+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 202.0,
+      "amount_delta": 1508.0215224501949,
+      "cash_delta_krw": -304620.34753493936,
+      "reason": "64.1억원 대금·+9.78%·100% 위치로 현재 보드에서 허용 가능한 유일한 소형 breakout 가속 슬롯입니다."
     }
   ]
 }
