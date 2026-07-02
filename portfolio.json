@@ -2,104 +2,104 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 192309.24761494482,
-  "realized_pnl_krw": -8078625.400480999,
-  "last_valuation_krw": 1923092.4761494477,
-  "last_action": "RESET_90_ZBT_ONDO_JTO_ADA_CELO",
-  "last_updated": "2026-07-02T03:58:00+09:00",
-  "trade_count": 1443,
+  "cash_krw": 386507.9945020748,
+  "realized_pnl_krw": -8069177.904120072,
+  "last_valuation_krw": 1932539.9725103742,
+  "last_action": "RESET_80_WLD_ZBT_ONDO_JTO_RE",
+  "last_updated": "2026-07-02T09:58:00+09:00",
+  "trade_count": 1453,
   "positions": {
+    "WLD": {
+      "market": "KRW-WLD",
+      "amount": 557.1286407237116,
+      "avg_buy_price_krw": 555.0,
+      "last_price_krw": 555.0,
+      "value_krw": 309206.3956016599,
+      "thesis": "438.1억원 대금·+1.09%·85.7% 위치에 World의 1.35억달러 자금조달/네트워크 확장 attention이 겹쳐 이번 회차 최대 유동성 continuation 코어입니다.",
+      "strategy": "hold while 549원 above and 78%+ range hold persists",
+      "role": "mega-liquidity continuation anchor",
+      "risk_limit_pct": 2.1,
+      "profit_take_pct": 7.5
+    },
     "ZBT": {
       "market": "KRW-ZBT",
-      "amount": 1518.2309022232482,
-      "avg_buy_price_krw": 228.0,
-      "last_price_krw": 228.0,
-      "value_krw": 346156.64570690057,
-      "thesis": "176.1억원 대금·+23.91%·82.1% 위치로 현재 보드에서 가장 공격적으로 쓸 수 있는 continuation 리더입니다.",
-      "strategy": "hold while 221원 above and 78%+ structure persists",
-      "role": "high-beta continuation leader",
-      "risk_limit_pct": 3.2,
-      "profit_take_pct": 12.0
+      "amount": 1299.1865361414282,
+      "avg_buy_price_krw": 238.0,
+      "last_price_krw": 238.0,
+      "value_krw": 309206.3956016599,
+      "thesis": "191.7억원 대금·+3.93%·81.8% 위치로 직전 바스켓 중 상단 유지력이 가장 살아남은 high-beta continuation입니다.",
+      "strategy": "hold while 233원 above and 76%+ structure persists",
+      "role": "high-beta continuation survivor",
+      "risk_limit_pct": 2.6,
+      "profit_take_pct": 8.5
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 716.6804258942041,
-      "avg_buy_price_krw": 483.0,
-      "last_price_krw": 483.0,
-      "value_krw": 346156.64570690057,
-      "thesis": "159.9억원 대금·+2.55%·76.9% 위치·-1.23% gap로 메이저 rebound 구간의 유동성 앵커 1순위입니다.",
-      "strategy": "hold while 474원 above and 72%+ range hold persists",
+      "amount": 627.1935002062066,
+      "avg_buy_price_krw": 493.0,
+      "last_price_krw": 493.0,
+      "value_krw": 309206.3956016599,
+      "thesis": "190.7억원 대금·0.00%라도 66.7% 위치·-0.40% gap로 메이저 급랭 구간에서 가장 읽기 쉬운 유동성 앵커입니다.",
+      "strategy": "hold while 489원 above and 62%+ range hold persists",
       "role": "liquidity anchor reclaim",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 7.5
+      "risk_limit_pct": 1.2,
+      "profit_take_pct": 5.0
     },
     "JTO": {
       "market": "KRW-JTO",
-      "amount": 294.1008034892953,
-      "avg_buy_price_krw": 1177.0,
-      "last_price_krw": 1177.0,
-      "value_krw": 346156.64570690057,
-      "thesis": "100.7억원 대금·+8.38%·60.5% 위치에 JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯 유지가 가능합니다.",
-      "strategy": "hold while 1150원 above and 58%+ structure persists",
-      "role": "solana catalyst continuation",
-      "risk_limit_pct": 2.7,
-      "profit_take_pct": 9.0
-    },
-    "ADA": {
-      "market": "KRW-ADA",
-      "amount": 1479.3019047303444,
-      "avg_buy_price_krw": 234.0,
-      "last_price_krw": 234.0,
-      "value_krw": 346156.64570690057,
-      "thesis": "85.0억원 대금·+6.36%·73.9% 위치로 메이저 회복 수혜를 가장 깔끔하게 받는 대형 continuation 후보입니다.",
-      "strategy": "hold while 229원 above and 70%+ range hold persists",
-      "role": "clean large-cap continuation",
-      "risk_limit_pct": 2.1,
+      "amount": 261.3748060876246,
+      "avg_buy_price_krw": 1183.0,
+      "last_price_krw": 1183.0,
+      "value_krw": 309206.3956016599,
+      "thesis": "102.2억원 대금·+1.55%·100% 위치에 JTX early access와 7월 공개 출시 기대가 겹쳐 fresh breakout 코어를 유지합니다.",
+      "strategy": "hold while 1170원 above and 92%+ breakout hold persists",
+      "role": "solana catalyst breakout",
+      "risk_limit_pct": 1.1,
       "profit_take_pct": 6.5
     },
-    "CELO": {
-      "market": "KRW-CELO",
-      "amount": 3296.7299591133387,
-      "avg_buy_price_krw": 105.0,
-      "last_price_krw": 105.0,
-      "value_krw": 346156.64570690057,
-      "thesis": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다.",
-      "strategy": "hold while 101원 above and 75%+ range hold persists",
-      "role": "mid-cap momentum continuation",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 10.0
+    "RE": {
+      "market": "KRW-RE",
+      "amount": 331.41092776169336,
+      "avg_buy_price_krw": 933.0,
+      "last_price_krw": 933.0,
+      "value_krw": 309206.3956016599,
+      "thesis": "191.8억원 대금·+4.83%·96.2% 위치·-0.21% gap로 이번 보드에서 오버행 없이 가장 깔끔한 신규 breakout 슬롯입니다.",
+      "strategy": "hold while 917원 above and 88%+ breakout hold persists",
+      "role": "clean fresh breakout",
+      "risk_limit_pct": 1.7,
+      "profit_take_pct": 8.0
     }
   },
   "watchlist": [
     {
-      "symbol": "TAIKO",
-      "market": "KRW-TAIKO",
-      "reason": "673.8억원 대금·+60.00%라도 최근 보안사고 후 watchlist 오버행과 -18.89% gap가 너무 깊어 추격 금지입니다."
-    },
-    {
       "symbol": "AERGO",
       "market": "KRW-AERGO",
-      "reason": "171.1억원 대금·+10.00%라도 Upbit delisting watchlist 이슈가 살아 있어 preferred 승격을 보류합니다."
+      "reason": "333.7억원 대금·+30.66%·90.7% 위치라도 국내 거래소 유의/상장적격성 오버행을 아직 무시하기 어렵습니다."
     },
     {
       "symbol": "AQT",
       "market": "KRW-AQT",
-      "reason": "96.5억원 대금·+3.50%라도 delisting review 리스크가 남아 있어 거래보다 관찰이 우선입니다."
+      "reason": "136.4억원 대금·+12.87%·93.8% 위치라도 투자유의/상장적격성 리스크 기억이 남아 preferred 승격은 보류합니다."
     },
     {
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "reason": "268.2억원 대금·+21.62% 강세지만 58.2% 위치·-11.56% gap면 exhausted blowoff 성격이 강합니다."
+      "symbol": "TAIKO",
+      "market": "KRW-TAIKO",
+      "reason": "960.6억원 초대금이어도 -2.76%·25.9% 위치·-8.66% gap면 대표적 대금 함정입니다."
     },
     {
-      "symbol": "ME",
-      "market": "KRW-ME",
-      "reason": "67.1억원 대금·+5.70%·80.3% 위치로 깨끗하지만, 이번 회차는 ONDO와 JTO 쪽 촉매·유동성이 더 우위입니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "699.8억원 대금과 양전환에도 36.2% 위치·-7.37% gap라 fading leader 성격이 강합니다."
     },
     {
       "symbol": "XLM",
       "market": "KRW-XLM",
-      "reason": "695.1억원 초대금과 양전환은 좋지만 50.0% 위치라 이번 90% 바스켓의 상단 지속형 기준에는 못 미칩니다."
+      "reason": "651.0억원 대금이어도 -2.0%·22.2% 위치로 상단 회복 실패가 명확합니다."
+    },
+    {
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "477.5억원 대금이 남아도 0.0% 위치·-7.04% gap라 추격보다 회피가 우선입니다."
     }
   ],
   "history": [
@@ -13089,6 +13089,96 @@
       "amount_delta": 3296.7299591133387,
       "cash_delta_krw": -346156.64570690057,
       "reason": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "SELL",
+      "price_krw": 238.0,
+      "amount_delta": -1518.2309022232482,
+      "cash_delta_krw": 361338.95472913305,
+      "reason": "메이저 평균 위치가 82.9%→35.4%로 급랭했고 ADA·CELO가 상단 구조를 잃어, 90% 바스켓을 80% clean-breakout 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 493.0,
+      "amount_delta": -716.6804258942041,
+      "cash_delta_krw": 353323.4499658426,
+      "reason": "메이저 평균 위치가 82.9%→35.4%로 급랭했고 ADA·CELO가 상단 구조를 잃어, 90% 바스켓을 80% clean-breakout 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1183.0,
+      "amount_delta": -294.1008034892953,
+      "cash_delta_krw": 347921.2505278363,
+      "reason": "메이저 평균 위치가 82.9%→35.4%로 급랭했고 ADA·CELO가 상단 구조를 잃어, 90% 바스켓을 80% clean-breakout 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "ADA",
+      "action": "SELL",
+      "price_krw": 233.0,
+      "amount_delta": -1479.3019047303444,
+      "cash_delta_krw": 344677.34380217025,
+      "reason": "메이저 평균 위치가 82.9%→35.4%로 급랭했고 ADA·CELO가 상단 구조를 잃어, 90% 바스켓을 80% clean-breakout 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "CELO",
+      "action": "SELL",
+      "price_krw": 101.0,
+      "amount_delta": -3296.7299591133387,
+      "cash_delta_krw": 332969.72587044723,
+      "reason": "메이저 평균 위치가 82.9%→35.4%로 급랭했고 ADA·CELO가 상단 구조를 잃어, 90% 바스켓을 80% clean-breakout 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 555.0,
+      "amount_delta": 557.1286407237116,
+      "cash_delta_krw": -309206.3956016599,
+      "reason": "438.1억원 대금·+1.09%·85.7% 위치에 World의 1.35억달러 자금조달/네트워크 확장 attention이 겹쳐 이번 회차 최대 유동성 continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "ZBT",
+      "action": "BUY",
+      "price_krw": 238.0,
+      "amount_delta": 1299.1865361414282,
+      "cash_delta_krw": -309206.3956016599,
+      "reason": "191.7억원 대금·+3.93%·81.8% 위치로 직전 바스켓 중 상단 유지력이 가장 살아남은 high-beta continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 493.0,
+      "amount_delta": 627.1935002062066,
+      "cash_delta_krw": -309206.3956016599,
+      "reason": "190.7억원 대금·0.00%라도 66.7% 위치·-0.40% gap로 메이저 급랭 구간에서 가장 읽기 쉬운 유동성 앵커입니다."
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 1183.0,
+      "amount_delta": 261.3748060876246,
+      "cash_delta_krw": -309206.3956016599,
+      "reason": "102.2억원 대금·+1.55%·100% 위치에 JTX early access와 7월 공개 출시 기대가 겹쳐 fresh breakout 코어를 유지합니다."
+    },
+    {
+      "timestamp": "2026-07-02T09:58:00+09:00",
+      "symbol": "RE",
+      "action": "BUY",
+      "price_krw": 933.0,
+      "amount_delta": 331.41092776169336,
+      "cash_delta_krw": -309206.3956016599,
+      "reason": "191.8억원 대금·+4.83%·96.2% 위치·-0.21% gap로 이번 보드에서 오버행 없이 가장 깔끔한 신규 breakout 슬롯입니다."
     }
   ]
 }

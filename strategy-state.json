@@ -1,296 +1,301 @@
 {
-  "updated_at": "2026-07-02T03:58:00+09:00",
-  "top_line": "메이저가 강하게 되살아나 90%까지 다시 공격할 수 있는 구간입니다. 다만 TAIKO·AERGO·AQT 같은 오버행 강세주는 버리고 ZBT·ONDO·JTO·ADA·CELO 5종으로 재편합니다.",
-  "macro_summary": "BTC·ETH·XRP·SOL 메이저 4종이 모두 양전환했고 평균 위치는 82.9%까지 급반등했습니다. fresh breakout은 0이지만 high conviction 8개·quality survivor 11개·relative strength reclaim 9개라, 지금은 수직 추격보다 70~82% 상단 continuation/reclaim 군으로 90%까지 다시 공격할 수 있는 장입니다.",
-  "news_summary": "외부 확인 기준으로 JTO는 6월 26일 JTX early access 롤아웃이 시작됐고 7월 공개 출시 기대가 유지됩니다. 반대로 TAIKO는 브리지 보안사고 뒤 watchlist 오버행이 남아 있고, AERGO·AQT 역시 Upbit delisting review 이슈가 해소되지 않아 강세여도 추격보다 경계가 우선입니다.",
-  "community_summary": "업비트 보드는 XLM·TAIKO·AI 쪽 초대금 관심이 매우 크지만 실제로 따라붙기 좋은 구조는 ZBT·ONDO·CELO·ADA처럼 day-high gap이 얕고 상단 유지가 되는 이름들입니다. 커뮤니티 체감도 “대금 1위 무조건 추격”보다 “깨끗한 continuation 재진입”으로 옮겨갔습니다.",
-  "public_figure_summary": "public-figure attention 축은 이번 회차 우선순위가 아닙니다. WLD와 VVV는 이름값은 있지만 각각 음전환 또는 50% 미만 중단 위치라, Sam Altman류 attention보다 실제 구조가 좋은 continuation 군이 우위입니다.",
-  "major_coin_summary": "BTC +2.22%·83.5% 위치 / XRP +1.58%·85.2% 위치 / ETH +2.47%·76.5% 위치 / SOL +4.91%·86.4% 위치 / 메이저 평균 82.9% 위치",
-  "altcoin_selection_summary": "preferred buy는 ZBT, ONDO, JTO, ADA, CELO입니다. 이번 회차 핵심은 80% survivor 바스켓을 90%로 올리되, TAIKO·AERGO·AQT 같은 오버행 강세주는 계속 배제하고 ONDO를 유동성 앵커로 승격시킨 점입니다.",
-  "overall_bias": "aggressive-90-major-rebound-selective",
+  "updated_at": "2026-07-02T09:58:00+09:00",
+  "top_line": "메이저가 급식어 90%는 과합니다. ADA·CELO를 버리고 WLD·RE를 넣어 WLD·ZBT·ONDO·JTO·RE 5종 80%로 다시 공격합니다.",
+  "macro_summary": "BTC·ETH·XRP·SOL 메이저 4종이 모두 음전환했고 평균 위치는 35.4%로 한 사이클 만에 급락했습니다. 다만 fresh breakout 4개·high conviction 11개·quality survivor 11개라 판 전체가 완전히 죽은 것은 아니어서, 90% 추격 대신 80% 수준에서 clean breakout/continuation 5종으로 재편하는 장입니다.",
+  "news_summary": "외부 확인 기준으로 JTO는 6월 26일 JTX early access가 시작됐고 7월 공개 출시 기대가 이어집니다. WLD는 World가 a16z·Bain Capital Crypto로부터 1.35억달러를 조달해 Orb-verified World ID 확장 자금을 확보했다고 발표했습니다. 반면 AERGO·AQT는 과거 국내 거래소 유의/상장적격성 오버행 기억이 남아 있어 strong tape라도 즉시 선호 후보로 올리지 않았습니다.",
+  "community_summary": "업비트 체감상 초대금은 아직 TAIKO·XLM·AI 쪽에 남지만 실제로 따라붙기 쉬운 구조는 WLD·ZBT·JTO·RE처럼 high-range가 깨끗한 이름들입니다. “대금 1위 무조건 추격”보다 “보드가 식어도 상단을 지킨 종목만 재진입” 쪽으로 무게가 실렸습니다.",
+  "public_figure_summary": "public figure attention은 이번 회차에서 WLD가 가장 유효합니다. Sam Altman 연상도와 World 네트워크 확장 자금조달 뉴스가 attention 유지에 도움을 주지만, 순수 선택은 여전히 turnover와 구조를 우선했습니다.",
+  "major_coin_summary": "BTC -0.53%·18.0% 위치 / XRP -0.56%·25.0% 위치 / ETH -0.45%·44.0% 위치 / SOL -0.42%·54.5% 위치 / 메이저 평균 35.4% 위치",
+  "altcoin_selection_summary": "preferred buy는 WLD, ZBT, ONDO, JTO, RE입니다. 핵심은 메이저 급랭 뒤 90% survivor 바스켓을 그대로 방어하지 않고, 무너진 ADA·CELO를 버린 뒤 WLD·RE 같은 clean high-range 대안으로 교체하며 전체 노출은 80%로 한 단계 낮춘 점입니다.",
+  "overall_bias": "aggressive-80-clean-breakout-after-major-cooldown",
   "confidence": "medium",
   "preferred_buy_candidates": [
+    {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "korean_name": "월드코인",
+      "english_name": "Worldcoin",
+      "price_krw": 555.0,
+      "change_pct_24h": 1.09289617,
+      "turnover_krw_24h": 43805192990.48768,
+      "opening_price": 550.0,
+      "high_price": 557.0,
+      "low_price": 543.0,
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -0.36,
+      "role": "mega-liquidity continuation anchor",
+      "strategy": "hold while 549원 above and 78%+ range hold persists",
+      "risk_limit_pct": 2.1,
+      "profit_take_pct": 7.5,
+      "invalidated_if": "549원 하회 또는 78% range hold 붕괴",
+      "community": "업비트 커뮤니티는 메이저보다 WLD 같은 대형 attention-알트를 더 편하게 재진입하는 분위기입니다.",
+      "thesis": "438.1억원 대금·+1.09%·85.7% 위치에 World의 1.35억달러 자금조달/네트워크 확장 attention이 겹쳐 이번 회차 최대 유동성 continuation 코어입니다.",
+      "reason": "438.1억원 대금·+1.09%·85.7% 위치에 World의 1.35억달러 자금조달/네트워크 확장 attention이 겹쳐 이번 회차 최대 유동성 continuation 코어입니다.",
+      "allocation_krw": 309206.3956016599
+    },
     {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
       "korean_name": "제로베이스",
       "english_name": "ZEROBASE",
-      "price_krw": 228.0,
-      "change_pct_24h": 23.91304348,
-      "turnover_krw_24h": 17605672845.71631,
-      "opening_price": 184.0,
-      "high_price": 238.0,
-      "low_price": 182.0,
-      "range_position_pct": 82.1,
-      "day_high_gap_pct": -4.2,
-      "role": "high-beta continuation leader",
-      "strategy": "hold while 221원 above and 78%+ structure persists",
-      "risk_limit_pct": 3.2,
-      "profit_take_pct": 12.0,
-      "invalidated_if": "221원 하회 또는 78% 구조 붕괴",
-      "community": "업비트 단타 자금이 다시 붙었지만, 이번엔 상단 유지가 실제로 확인된 소형 리더입니다.",
-      "thesis": "176.1억원 대금·+23.91%·82.1% 위치로 현재 보드에서 가장 공격적으로 쓸 수 있는 continuation 리더입니다.",
-      "reason": "176.1억원 대금·+23.91%·82.1% 위치로 현재 보드에서 가장 공격적으로 쓸 수 있는 continuation 리더입니다.",
-      "allocation_krw": 346156.64570690057
+      "price_krw": 238.0,
+      "change_pct_24h": 3.930131,
+      "turnover_krw_24h": 19171100069.702362,
+      "opening_price": 230.0,
+      "high_price": 240.0,
+      "low_price": 229.0,
+      "range_position_pct": 81.8,
+      "day_high_gap_pct": -0.83,
+      "role": "high-beta continuation survivor",
+      "strategy": "hold while 233원 above and 76%+ structure persists",
+      "risk_limit_pct": 2.6,
+      "profit_take_pct": 8.5,
+      "invalidated_if": "233원 하회 또는 76% 구조 붕괴",
+      "community": "소형주 추격 자금 중 실제로 상단을 지킨 쪽이 ZBT라 재활용 수요가 남아 있습니다.",
+      "thesis": "191.7억원 대금·+3.93%·81.8% 위치로 직전 바스켓 중 상단 유지력이 가장 살아남은 high-beta continuation입니다.",
+      "reason": "191.7억원 대금·+3.93%·81.8% 위치로 직전 바스켓 중 상단 유지력이 가장 살아남은 high-beta continuation입니다.",
+      "allocation_krw": 309206.3956016599
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
       "korean_name": "온도파이낸스",
       "english_name": "Ondo Finance",
-      "price_krw": 483.0,
-      "change_pct_24h": 2.5477707,
-      "turnover_krw_24h": 15993515965.293694,
-      "opening_price": 471.0,
-      "high_price": 489.0,
-      "low_price": 463.0,
-      "range_position_pct": 76.9,
-      "day_high_gap_pct": -1.23,
+      "price_krw": 493.0,
+      "change_pct_24h": 0,
+      "turnover_krw_24h": 19066117183.67855,
+      "opening_price": 493.0,
+      "high_price": 495.0,
+      "low_price": 489.0,
+      "range_position_pct": 66.7,
+      "day_high_gap_pct": -0.4,
       "role": "liquidity anchor reclaim",
-      "strategy": "hold while 474원 above and 72%+ range hold persists",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 7.5,
-      "invalidated_if": "474원 하회 또는 72% range hold 붕괴",
-      "community": "리테일 추격보다도 유동성 앵커로 다시 선택되는 흐름이 보여 큰 자금이 다루기 쉬운 축입니다.",
-      "thesis": "159.9억원 대금·+2.55%·76.9% 위치·-1.23% gap로 메이저 rebound 구간의 유동성 앵커 1순위입니다.",
-      "reason": "159.9억원 대금·+2.55%·76.9% 위치·-1.23% gap로 메이저 rebound 구간의 유동성 앵커 1순위입니다.",
-      "allocation_krw": 346156.64570690057
+      "strategy": "hold while 489원 above and 62%+ range hold persists",
+      "risk_limit_pct": 1.2,
+      "profit_take_pct": 5.0,
+      "invalidated_if": "489원 하회 또는 62% range hold 붕괴",
+      "community": "리테일 과열보다도 “이럴 땐 ONDO 같은 큰 유동성”이라는 방어적 심리가 강합니다.",
+      "thesis": "190.7억원 대금·0.00%라도 66.7% 위치·-0.40% gap로 메이저 급랭 구간에서 가장 읽기 쉬운 유동성 앵커입니다.",
+      "reason": "190.7억원 대금·0.00%라도 66.7% 위치·-0.40% gap로 메이저 급랭 구간에서 가장 읽기 쉬운 유동성 앵커입니다.",
+      "allocation_krw": 309206.3956016599
     },
     {
       "symbol": "JTO",
       "market": "KRW-JTO",
       "korean_name": "지토",
       "english_name": "Jito",
-      "price_krw": 1177.0,
-      "change_pct_24h": 8.37937385,
-      "turnover_krw_24h": 10067418393.794147,
-      "opening_price": 1085.0,
-      "high_price": 1237.0,
-      "low_price": 1085.0,
-      "range_position_pct": 60.5,
-      "day_high_gap_pct": -4.85,
-      "role": "solana catalyst continuation",
-      "strategy": "hold while 1150원 above and 58%+ structure persists",
-      "risk_limit_pct": 2.7,
-      "profit_take_pct": 9.0,
-      "invalidated_if": "1150원 하회 또는 58% 구조 붕괴",
-      "community": "솔라나 트레이더들은 JTX 7월 공개 기대를 아직 가격에 반영 중입니다.",
-      "thesis": "100.7억원 대금·+8.38%·60.5% 위치에 JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯 유지가 가능합니다.",
-      "reason": "100.7억원 대금·+8.38%·60.5% 위치에 JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯 유지가 가능합니다.",
-      "allocation_krw": 346156.64570690057
-    },
-    {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "korean_name": "에이다",
-      "english_name": "Ada",
-      "price_krw": 234.0,
-      "change_pct_24h": 6.36363636,
-      "turnover_krw_24h": 8503238111.638209,
-      "opening_price": 220.0,
-      "high_price": 240.0,
-      "low_price": 217.0,
-      "range_position_pct": 73.9,
-      "day_high_gap_pct": -2.5,
-      "role": "clean large-cap continuation",
-      "strategy": "hold while 229원 above and 70%+ range hold persists",
-      "risk_limit_pct": 2.1,
+      "price_krw": 1183.0,
+      "change_pct_24h": 1.54506438,
+      "turnover_krw_24h": 10215796465.207611,
+      "opening_price": 1167.0,
+      "high_price": 1183.0,
+      "low_price": 1158.0,
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0,
+      "role": "solana catalyst breakout",
+      "strategy": "hold while 1170원 above and 92%+ breakout hold persists",
+      "risk_limit_pct": 1.1,
       "profit_take_pct": 6.5,
-      "invalidated_if": "229원 하회 또는 70% range hold 붕괴",
-      "community": "대형 알트 중에서는 메이저 회복 수혜를 가장 깔끔하게 받는 축으로 읽힙니다.",
-      "thesis": "85.0억원 대금·+6.36%·73.9% 위치로 메이저 회복 수혜를 가장 깔끔하게 받는 대형 continuation 후보입니다.",
-      "reason": "85.0억원 대금·+6.36%·73.9% 위치로 메이저 회복 수혜를 가장 깔끔하게 받는 대형 continuation 후보입니다.",
-      "allocation_krw": 346156.64570690057
+      "invalidated_if": "1170원 하회 또는 92% breakout hold 붕괴",
+      "community": "솔라나 트레이더들은 JTX 공개 일정과 제품성에 다시 반응하고 있습니다.",
+      "thesis": "102.2억원 대금·+1.55%·100% 위치에 JTX early access와 7월 공개 출시 기대가 겹쳐 fresh breakout 코어를 유지합니다.",
+      "reason": "102.2억원 대금·+1.55%·100% 위치에 JTX early access와 7월 공개 출시 기대가 겹쳐 fresh breakout 코어를 유지합니다.",
+      "allocation_krw": 309206.3956016599
     },
     {
-      "symbol": "CELO",
-      "market": "KRW-CELO",
-      "korean_name": "셀로",
-      "english_name": "Celo",
-      "price_krw": 105.0,
-      "change_pct_24h": 17.44966443,
-      "turnover_krw_24h": 9499994198.118477,
-      "opening_price": 89.4,
-      "high_price": 109.0,
-      "low_price": 89.0,
-      "range_position_pct": 80.0,
-      "day_high_gap_pct": -3.67,
-      "role": "mid-cap momentum continuation",
-      "strategy": "hold while 101원 above and 75%+ range hold persists",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 10.0,
-      "invalidated_if": "101원 하회 또는 75% 구조 붕괴",
-      "community": "중형 순환매 자금이 실제 수익률과 구조가 동시에 좋은 종목으로 좁혀지고 있습니다.",
-      "thesis": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다.",
-      "reason": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다.",
-      "allocation_krw": 346156.64570690057
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "korean_name": "리",
+      "english_name": "Re",
+      "price_krw": 933.0,
+      "change_pct_24h": 4.83146067,
+      "turnover_krw_24h": 19182097961.037746,
+      "opening_price": 890.0,
+      "high_price": 935.0,
+      "low_price": 882.0,
+      "range_position_pct": 96.2,
+      "day_high_gap_pct": -0.21,
+      "role": "clean fresh breakout",
+      "strategy": "hold while 917원 above and 88%+ breakout hold persists",
+      "risk_limit_pct": 1.7,
+      "profit_take_pct": 8.0,
+      "invalidated_if": "917원 하회 또는 88% breakout hold 붕괴",
+      "community": "커뮤니티 체감상 아직 과하게 붐비지 않았는데 차트가 가장 깨끗한 편이라 신규 베타 슬롯으로 읽힙니다.",
+      "thesis": "191.8억원 대금·+4.83%·96.2% 위치·-0.21% gap로 이번 보드에서 오버행 없이 가장 깔끔한 신규 breakout 슬롯입니다.",
+      "reason": "191.8억원 대금·+4.83%·96.2% 위치·-0.21% gap로 이번 보드에서 오버행 없이 가장 깔끔한 신규 breakout 슬롯입니다.",
+      "allocation_krw": 309206.3956016599
     }
   ],
   "selected_altcoins": [
     {
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "438.1억원 대금·+1.09%·85.7% 위치에 World의 1.35억달러 자금조달/네트워크 확장 attention이 겹쳐 이번 회차 최대 유동성 continuation 코어입니다."
+    },
+    {
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "176.1억원 대금·+23.91%·82.1% 위치로 현재 보드에서 가장 공격적으로 쓸 수 있는 continuation 리더입니다."
+      "reason": "191.7억원 대금·+3.93%·81.8% 위치로 직전 바스켓 중 상단 유지력이 가장 살아남은 high-beta continuation입니다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "159.9억원 대금·+2.55%·76.9% 위치·-1.23% gap로 메이저 rebound 구간의 유동성 앵커 1순위입니다."
+      "reason": "190.7억원 대금·0.00%라도 66.7% 위치·-0.40% gap로 메이저 급랭 구간에서 가장 읽기 쉬운 유동성 앵커입니다."
     },
     {
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "reason": "100.7억원 대금·+8.38%·60.5% 위치에 JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯 유지가 가능합니다."
+      "reason": "102.2억원 대금·+1.55%·100% 위치에 JTX early access와 7월 공개 출시 기대가 겹쳐 fresh breakout 코어를 유지합니다."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "85.0억원 대금·+6.36%·73.9% 위치로 메이저 회복 수혜를 가장 깔끔하게 받는 대형 continuation 후보입니다."
-    },
-    {
-      "symbol": "CELO",
-      "market": "KRW-CELO",
-      "reason": "95.0억원 대금·+17.45%·80.0% 위치로 중형 강세 지속성이 가장 선명한 공격 슬롯입니다."
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "reason": "191.8억원 대금·+4.83%·96.2% 위치·-0.21% gap로 이번 보드에서 오버행 없이 가장 깔끔한 신규 breakout 슬롯입니다."
     }
   ],
   "watchlist": [
     {
-      "symbol": "TAIKO",
-      "market": "KRW-TAIKO",
-      "reason": "673.8억원 대금·+60.00%라도 최근 보안사고 후 watchlist 오버행과 -18.89% gap가 너무 깊어 추격 금지입니다."
-    },
-    {
       "symbol": "AERGO",
       "market": "KRW-AERGO",
-      "reason": "171.1억원 대금·+10.00%라도 Upbit delisting watchlist 이슈가 살아 있어 preferred 승격을 보류합니다."
+      "reason": "333.7억원 대금·+30.66%·90.7% 위치라도 국내 거래소 유의/상장적격성 오버행을 아직 무시하기 어렵습니다."
     },
     {
       "symbol": "AQT",
       "market": "KRW-AQT",
-      "reason": "96.5억원 대금·+3.50%라도 delisting review 리스크가 남아 있어 거래보다 관찰이 우선입니다."
-    },
-    {
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "reason": "268.2억원 대금·+21.62% 강세지만 58.2% 위치·-11.56% gap면 exhausted blowoff 성격이 강합니다."
-    },
-    {
-      "symbol": "ME",
-      "market": "KRW-ME",
-      "reason": "67.1억원 대금·+5.70%·80.3% 위치로 깨끗하지만, 이번 회차는 ONDO와 JTO 쪽 촉매·유동성이 더 우위입니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "695.1억원 초대금과 양전환은 좋지만 50.0% 위치라 이번 90% 바스켓의 상단 지속형 기준에는 못 미칩니다."
-    }
-  ],
-  "risk_notes": [
-    "fresh breakout은 여전히 0이라 +50%급 headline candle 추격보다 70%+ continuation/reclaim 위주로만 구성했습니다.",
-    "TAIKO·AERGO·AQT는 수익률이 강해도 watchlist·보안 오버행이 남아 있어 preferred 승격 금지입니다.",
-    "ZBT 221 / ONDO 474 / JTO 1150 / ADA 229 / CELO 101 이탈 시 90% 노출은 과할 수 있어 80%로 즉시 축소 검토합니다.",
-    "XLM·AI처럼 초대금이지만 50% 안팎 구조에 머무는 종목은 cleaner continuation이 있는 동안 재편입 우선순위를 낮춥니다.",
-    "메이저 반등이 다시 꺾이고 weak breadth가 재발하면 이번 90% 업그레이드는 빠르게 취소할 준비가 필요합니다."
-  ],
-  "fear_greed": "11 (Extreme Fear; Alternative.me API refreshed this cycle)",
-  "btc_reference": "BTC 91.276M원 / ETH 2.450M원 / XRP 1,608원 / SOL 117.5K원",
-  "improvement_log": [
-    "03:59 KST 기준 fetch_upbit_snapshot.py 재실행으로 메이저 급반등과 XLM·TAIKO 초대금 재유입을 최신 상태로 반영했습니다.",
-    "DECISIONS.md에 메이저 급반등 + fresh 0 환경에서도 watchlist/보안 오버행 + 깊은 day-high gap 종목은 추격 금지하는 규칙을 추가했습니다.",
-    "dashboard 아이콘 맵에 CELO·AERGO·PYTH·WET·BSV를 추가해 최신 보드 후보와 watchlist가 더 빨리 읽히게 개선했습니다."
-  ],
-  "self_evaluation": {
-    "score": 8.9,
-    "summary": "직전 80% survivor 바스켓 자체는 틀리지 않았지만, 메이저 4종 동시 반등과 weak breadth 해제 신호를 보고 ONDO 같은 유동성 앵커를 더 빨리 올렸어야 했습니다. 이번에는 노출을 90%로 올리면서도 오버행 강세주를 끝까지 배제한 점이 개선입니다."
-  },
-  "ui_version": "v22.7",
-  "rejected_candidates": [
-    {
-      "symbol": "IN",
-      "market": "KRW-IN",
-      "reason": "607.3억원 대금이어도 -6.79%·22.8% 위치·-10.99% gap면 대표적 turnover trap입니다."
-    },
-    {
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "reason": "479.3억원 대금이 남아도 +1.67%·48.4% 위치·-8.05% gap라 cleaner continuation 대비 우선순위가 낮습니다."
-    },
-    {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "435.8억원 대금·-27.26%·0.4% 위치면 구조 붕괴가 명확합니다."
+      "reason": "136.4억원 대금·+12.87%·93.8% 위치라도 투자유의/상장적격성 리스크 기억이 남아 preferred 승격은 보류합니다."
     },
     {
       "symbol": "TAIKO",
       "market": "KRW-TAIKO",
-      "reason": "수익률은 강하지만 보안사고 watchlist와 -18.89% 고점 괴리가 겹쳐 preferred로는 과격합니다."
+      "reason": "960.6억원 초대금이어도 -2.76%·25.9% 위치·-8.66% gap면 대표적 대금 함정입니다."
     },
+    {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "699.8억원 대금과 양전환에도 36.2% 위치·-7.37% gap라 fading leader 성격이 강합니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "651.0억원 대금이어도 -2.0%·22.2% 위치로 상단 회복 실패가 명확합니다."
+    },
+    {
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "477.5억원 대금이 남아도 0.0% 위치·-7.04% gap라 추격보다 회피가 우선입니다."
+    }
+  ],
+  "risk_notes": [
+    "메이저 평균 위치가 35.4%까지 급락해 직전 90% 모드는 취소하고 80%로 낮췄습니다.",
+    "AERGO·AQT는 성과가 강해도 국내 거래소 유의/상장적격성 오버행 기억 때문에 preferred 승격을 보류했습니다.",
+    "WLD 549 / ZBT 233 / ONDO 489 / JTO 1170 / RE 917 하회 시 80%도 빠르게 과해질 수 있어 즉시 재평가합니다.",
+    "TAIKO·XLM·AI·SLX는 거래대금이 커도 구조가 꺾여 turnover trap/fading leader로 분류했습니다.",
+    "fresh breakout은 4개지만 메이저가 모두 음전환이라 90% 재상향은 아직 이릅니다."
+  ],
+  "fear_greed": "19 (Extreme Fear; Alternative.me API refreshed this cycle)",
+  "btc_reference": "BTC 90.630M원 / ETH 2.433M원 / XRP 1,591원 / SOL 117.3K원",
+  "improvement_log": [
+    "09:59 KST 기준 fetch_upbit_snapshot.py와 Alternative.me API를 다시 실행해 메이저 급랭·fresh breakout 4개·공포탐욕 19를 최신 상태로 반영했습니다.",
+    "DECISIONS.md에 메이저 급랭 직후 watchlist 강세주가 보드를 장악해도 clean non-watchlist 대안 5개가 있으면 80% 수준에서 재구성하는 규칙을 추가했습니다.",
+    "dashboard 아이콘 맵에 RE·ARDR를 추가해 이번 회차 신규 후보를 더 빠르게 읽을 수 있게 했습니다."
+  ],
+  "self_evaluation": {
+    "score": 9.0,
+    "summary": "직전 90% 상향 자체는 당시 데이터에 맞았지만, 이번 급랭에서 ADA·CELO를 붙잡으면 안 되는 상황을 바로 인정하고 WLD·RE로 교체한 대응은 좋았습니다. 다만 AERGO·AQT 리스크 검증을 더 자동화할 필요는 남아 있습니다."
+  },
+  "ui_version": "v22.8",
+  "rejected_candidates": [
     {
       "symbol": "AERGO",
       "market": "KRW-AERGO",
-      "reason": "171.1억원 대금과 +10.0% 반등에도 delisting watchlist 오버행이 가격보다 더 큽니다."
+      "reason": "30.7% 급등·90.7% 위치라도 국내 거래소 유의/상장적격성 오버행이 아직 price purity보다 큽니다."
+    },
+    {
+      "symbol": "AQT",
+      "market": "KRW-AQT",
+      "reason": "12.9% 상승·93.8% 위치라도 유의/적격성 리스크 기억이 남아 이번 회차 preferred로는 과격합니다."
+    },
+    {
+      "symbol": "TAIKO",
+      "market": "KRW-TAIKO",
+      "reason": "960.6억원 대금에도 -2.76%·25.9% 위치·-8.66% gap면 대금 함정입니다."
+    },
+    {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "699.8억원 대금과 양전환에도 36.2% 위치·-7.37% gap라 fading leader입니다."
+    },
+    {
+      "symbol": "CELO",
+      "market": "KRW-CELO",
+      "reason": "직전 보유였지만 28.6% 위치로 상단 구조를 잃어 방어 명분이 사라졌습니다."
+    },
+    {
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "체급은 좋지만 -0.43%·50.0% 위치면 더 강한 WLD·RE 대비 우선순위가 낮습니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 616.7억원입니다.",
-    "momentum_discipline": "headline overhang 3종과 deep-gap blowoff를 배제하고, cleaner continuation/reclaim 5종으로 90% 재공격",
-    "diversification": "high-beta 1 + liquidity reclaim 1 + solana catalyst 1 + large-cap continuation 1 + mid-cap momentum 1",
-    "cash_usage": "90%",
-    "rotation_speed": "medium-high"
+    "turnover_focus": "preferred 5종 최신 24h 대금 합계는 약 1114.4억원입니다.",
+    "momentum_discipline": "major cooldown 뒤 ADA·CELO를 제거하고 clean breakout/continuation 5종으로 80% 재구성",
+    "diversification": "mega-liquidity 1 + high-beta survivor 1 + liquidity anchor 1 + catalyst breakout 1 + clean fresh breakout 1",
+    "cash_usage": "80%",
+    "rotation_speed": "high"
   },
   "signal_balance": {
-    "summary": "majors all green / weak breadth false / fresh 0 / clean continuation-reclaim preferred / overhang filter on"
+    "summary": "majors all red / major avg 35.4 / fresh 4 / weak breadth false / watchlist overhang filter on / 80% reset"
   },
   "rotation_map": [
     {
-      "out": "ME",
-      "in": "ONDO",
-      "why": "ME도 깨끗했지만 이번 회차는 159.9억원 대금·76.9% 위치의 ONDO가 메이저 rebound 수혜를 더 직접적으로 받습니다."
+      "out": "ADA",
+      "in": "WLD",
+      "why": "ADA는 50% 위치로 식었고, 438.1억원 대금·85.7% 위치의 WLD가 더 깨끗한 대형 attention continuation입니다."
+    },
+    {
+      "out": "CELO",
+      "in": "RE",
+      "why": "CELO는 28.6% 위치까지 밀렸지만 RE는 191.8억원 대금·96.2% 위치의 깔끔한 신규 breakout입니다."
     },
     {
       "out": "ZBT(유지)",
       "in": "ZBT(유지)",
-      "why": "23.9% 상승·82.1% 위치로 현재 보드의 최상위 고베타 continuation 자격을 유지합니다."
+      "why": "소형주 중 직전 보유에서 상단 유지가 가장 잘 남은 high-beta survivor라 유지합니다."
+    },
+    {
+      "out": "ONDO(유지)",
+      "in": "ONDO(유지)",
+      "why": "메이저 급랭 구간에서 66.7% 위치·-0.40% gap의 유동성 앵커 역할이 여전히 유효합니다."
     },
     {
       "out": "JTO(유지)",
       "in": "JTO(유지)",
-      "why": "JTX early access와 7월 공개 기대가 남아 있어 촉매형 슬롯을 유지합니다."
-    },
-    {
-      "out": "ADA(유지)",
-      "in": "ADA(유지)",
-      "why": "메이저 반등 수혜를 가장 깔끔하게 받는 대형 continuation 역할을 유지합니다."
-    },
-    {
-      "out": "CELO(유지)",
-      "in": "CELO(유지)",
-      "why": "중형 momentum continuation 중 구조와 수익률 조합이 가장 읽기 쉬워 유지합니다."
+      "why": "JTX early access와 100% 위치가 겹친 fresh breakout 코어라 유지합니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 10% 유지. 메이저 평균 위치가 다시 70% 아래로 내려가거나 preferred 2개 이상이 무효화되면 80%로 즉시 축소 검토. fresh breakout이 2개 이상 생기면 95% 재상향 검토.",
-    "review_trigger": "ZBT 221 / ONDO 474 / JTO 1150 / ADA 229 / CELO 101 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 20% 유지. 메이저 평균 위치가 25% 아래로 더 밀리거나 preferred 2개 이상이 무효화되면 70%까지 즉시 축소 검토. majors 회복 + fresh breakout 5개 이상이면 85% 재상향 검토.",
+    "review_trigger": "WLD 549 / ZBT 233 / ONDO 489 / JTO 1170 / RE 917 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 급반등이어도 watchlist·보안 오버행 종목은 깊은 gap 상태에서 추격 금지",
-      "fresh breakout 0일 때는 cleaner 70%+ continuation/reclaim 우선",
+      "거래소 유의/보안 오버행 이름은 구조가 좋아도 기본 watchlist 우선",
+      "major avg 40 아래에서는 90% 이상 재공격 금지",
       "현금 0%는 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 11.73069776,
-    "preferred_positive_count": 5,
+    "preferred_avg_change_pct_24h": 2.27991044,
+    "preferred_positive_count": 4,
     "preferred_negative_count": 0,
-    "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 61669839514.56084,
-    "leader_turnover_share_pct": 28.5,
-    "leader_symbol": "ZBT"
+    "preferred_flat_count": 1,
+    "preferred_turnover_total_krw_24h": 111440304670.11395,
+    "leader_turnover_share_pct": 39.3,
+    "leader_symbol": "WLD"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": true,
-    "comment": "이번 회차는 메이저 반등을 따라 90%까지 올렸지만, 5개 모두 무효화 거리가 짧은 타이트한 공격 바스켓이라 회전 규율이 특히 중요합니다."
+    "comment": "이번 회차도 5개 모두 무효화 거리가 짧은 타이트한 공격 바스켓이라 빠른 재평가 규율이 중요합니다."
   }
 }
