@@ -5,8 +5,8 @@
   "cash_krw": 292781.48397057806,
   "realized_pnl_krw": -8049841.316826594,
   "last_valuation_krw": 1951876.559803852,
-  "last_action": "HOLD_85_ENA_NEAR_RE_UNI_WLD",
-  "last_updated": "2026-07-03T09:58+09:00",
+  "last_action": "HOLD_85_ENA_NEAR_RE_UNI_WLD_STALE_AWARE",
+  "last_updated": "2026-07-03T15:58+09:00",
   "trade_count": 1484,
   "positions": {
     "ENA": {
@@ -72,19 +72,19 @@
   },
   "watchlist": [
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "207.2억원 대금은 충분하지만 50.0% 위치 정체라 이번 회차도 승격 보류입니다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "93.9% 위치·-0.39% gap로 구조는 매우 좋지만 체급이 작고 새 스냅샷 부재라 이번 회차 승격은 보류합니다."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "85.1억원 대금·61.0% 위치의 무난한 대형주지만 NEAR·WLD·ENA보다 한 단계 아래입니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "83.3% 위치·188.4억원 대금의 고유동성 continuation이지만 포트폴리오 알트 공격성 측면에선 UNI·WLD보다 우선순위가 낮습니다."
     },
     {
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "reason": "41.2억원 대금·90.0% 위치는 좋지만 7월 하순 unlock 오버행이 있어 메인 바스켓 대신 보조 관찰로 둡니다."
+      "reason": "90.0% 위치는 좋지만 7월 25일 전후 unlock 오버행이 있어 메인 바스켓 승격은 아직 이릅니다."
     },
     {
       "symbol": "DEEP",
@@ -92,29 +92,29 @@
       "reason": "214.3억원 대금·+15.77%라도 -6.69% gap가 커 메인 바스켓 승격엔 한 박자 이릅니다."
     },
     {
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "207.2억원 대금은 충분하지만 50.0% 위치 정체라 continuation 품질이 상위 5개보다 약합니다."
+    },
+    {
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "85.1억원 대금·61.0% 위치의 무난한 대형주지만 NEAR·WLD·ENA보다 한 단계 아래입니다."
+    },
+    {
       "symbol": "ADA",
       "market": "KRW-ADA",
       "reason": "73.3% 위치와 안정적 gap는 좋지만 속도와 대금이 상위 5개보다 약합니다."
     },
     {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "93.9% 위치의 깔끔한 2선 continuation이지만 체급이 작아 톱5 승격은 보류합니다."
+      "symbol": "PUMP",
+      "market": "KRW-PUMP",
+      "reason": "72.7% 위치는 좋지만 7월 unlock 일정 확인이 필요해 보조 관찰이 낫습니다."
     },
     {
       "symbol": "MEGA",
       "market": "KRW-MEGA",
       "reason": "78.9% 위치와 양호한 gap가 있어 3선 공격 후보로는 볼 만합니다."
-    },
-    {
-      "symbol": "PUMP",
-      "market": "KRW-PUMP",
-      "reason": "72.7% 위치지만 7월 unlock 이슈를 확인해야 해 보조 관찰이 낫습니다."
-    },
-    {
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "883.2억원 초대금과 +66.87%에도 -21.02% gap라 late chase 금지입니다."
     },
     {
       "symbol": "SLX",
@@ -13478,6 +13478,15 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "실시간 공포탐욕 21과 WLD/ENA/XPL 외부 재료를 재확인했지만, 현재 ENA·NEAR·RE·UNI·WLD 5종이 여전히 가장 읽기 쉬운 상단 구조라 85% 공격 바스켓을 그대로 유지"
+    },
+    {
+      "timestamp": "2026-07-03T15:58+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 1951876.559803852,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "새 업비트 스냅샷 부재로 실시간 교체 신호 신뢰도가 낮아, RE·WLD·NEAR·UNI·ENA 85% 공격 바스켓을 유지하고 데이터 신선도 경고만 강화"
     }
   ]
 }

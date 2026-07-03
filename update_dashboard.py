@@ -411,6 +411,16 @@ replacement_count_24h = min(recent_24h_buys, recent_24h_sells)
 portfolio_churn_24h_pct = round((replacement_count_24h / slot_base) * 100, 2)
 recent_rotation_log_24h = recent_24h_trades[-10:][::-1]
 
+staleness_warning = {
+    'active': bool(snapshot_age_hours is not None and snapshot_age_hours >= 9),
+    'snapshot_age_hours': snapshot_age_hours,
+    'summary': (
+        f"스냅샷 기준 {snapshot_age_hours}시간 경과로, 구조 판단은 유효하지만 실시간 추격/교체 판단은 보수적으로 봐야 합니다."
+        if snapshot_age_hours is not None and snapshot_age_hours >= 9
+        else '데이터 신선도 경고 없음'
+    )
+}
+
 status = {
     'project': portfolio.get('project', "bit's today"),
     'judgment': strategy.get('overall_bias', 'unknown'),
@@ -500,6 +510,7 @@ status = {
     'rotation_pressure': rotation_pressure,
     'portfolio_health': portfolio_health,
     'recent_rotation_log_24h': recent_rotation_log_24h,
+    'staleness_warning': staleness_warning,
     'report_sections': sections,
 }
 
