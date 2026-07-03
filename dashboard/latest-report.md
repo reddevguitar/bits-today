@@ -1,66 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-07-03 21:58 KST
-- 기준 한줄: **RE·WLD는 빼고 ONDO·NEAR·SUI·ENA·UNI로 85% 공격 바스켓을 재편합니다. 메이저 평균 77.8%로 판은 괜찮지만 fresh breakout은 1개뿐이라, 오늘은 과열 급등주보다 90~100% 상단 유지형 5종이 더 낫습니다.**
-- 시장 한줄 요약: **메이저 평균 위치 77.8%, fresh breakout 1개, high conviction 9개, top15 비메이저 플러스 10개**입니다. 강세는 유지되지만 **headline 급등주 대부분이 함정화**돼, **깨진 RE/WLD를 정리하고 clean continuation 쪽으로 압축**했습니다.
+- 시각: 2026-07-04 03:58 KST
+- 기준 한줄: **NEAR·ENA·UNI는 빼고 WLD·ADA·XLM을 넣어 85% 공격 바스켓을 다시 고위치 5종으로 압축합니다. 메이저 평균 85.4%로 판은 더 좋아졌지만 fresh breakout은 ADA 1개뿐이라, ZKP류 과열 추격보다 WLD·ONDO·XLM 같은 대형 reclaim/continuation 혼합이 더 낫습니다.**
+- 시장 한줄 요약: **메이저 평균 위치 85.4%, fresh breakout 1개, high conviction 6개, top15 비메이저 플러스 11개**입니다. 판은 더 강해졌지만 **소형 급등주는 함정이 많아**, **WLD 재진입 + ADA fresh + XLM 초유동성** 조합으로 재정렬했습니다.
 - 공포탐욕지수: **21 (Extreme Fear)**
-- BTC 참고: **BTC 93.460M원 / ETH 2.617M원 / XRP 1,670원 / SOL 123.0K원**
+- BTC 참고: **BTC 93.710M원 / ETH 2.621M원 / XRP 1,699원 / SOL 123.6K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🌐 **ONDO** — 509원 / **+2.62%** / 152.2억원 / 위치 **93.3%** / institutional RWA breakout
-- 🌉 **NEAR** — 3,073원 / **+4.70%** / 76.2억원 / 위치 **93.5%** / quality L1 continuation
-- 🌊 **SUI** — 1,142원 / **+2.98%** / 76.1억원 / 위치 **95.2%** / large-cap beta continuation
-- 🏦 **ENA** — 118원 / **+1.72%** / 63.1억원 / 위치 **100.0%** / stablecoin adoption continuation
-- 🦄 **UNI** — 4,940원 / **+3.00%** / 43.6억원 / 위치 **100.0%** / DeFi closing breakout
+- 🌍 **WLD** — 650원 / **+6.38%** / 490.7억원 / 위치 **75.5%** / attention mega-reclaim
+- 🛡️ **ADA** — 271원 / **+11.07%** / 91.5억원 / 위치 **96.7%** / fresh L1 breakout
+- 🌊 **SUI** — 1,149원 / **+3.61%** / 72.5억원 / 위치 **97.9%** / large-cap beta continuation
+- 🌐 **ONDO** — 506원 / **+2.02%** / 145.7억원 / 위치 **73.3%** / institutional RWA survivor
+- ✨ **XLM** — 306원 / **+1.66%** / 259.3억원 / 위치 **76.9%** / payments liquidity continuation
 
 ## 제외된 메이저 참고 신호
-- BTC **80.1%** / XRP **80.0%** / ETH **75.0%** / SOL **76.2%**
-- 메이저 평균 **77.8% 위치**, **양전환 4개 / 음전환 0개**
-- fresh breakout **1개(ONDO)**, high conviction **9개**, weak breadth **false**
+- BTC **83.1%** / XRP **98.5%** / ETH **75.3%** / SOL **84.6%**
+- 메이저 평균 **85.4% 위치**, **양전환 4개 / 음전환 0개**
+- fresh breakout **1개(ADA)**, high conviction **6개**, weak breadth **false**
 
 ## 공격 포트폴리오 전략
 - 실투입: **85%**, 5종 동일비중
-- 타깃: 각 약 **333,807원**
-- 현금: 약 **294,536원 (15.0%)**
-- 핵심 논리: **broken leaders out / clean 90~100% continuations in**
+- 타깃: 각 약 **333,544원**
+- 현금: 약 **294,304원 (15.0%)**
+- 핵심 논리: **fresh 1 + mega reclaim 1 + liquid continuation 3**
 
 ## 가상 매매 실행 내용
-- ❌ **퇴출:** RE / WLD
-- ✅ **신규 편입:** ONDO / SUI
-- 🔧 **리밸런스 유지:** ENA / NEAR / UNI
-- 마지막 액션: **ROTATE_85_RE_WLD_OUT_ONDO_SUI_IN**
+- ❌ **퇴출:** NEAR / ENA / UNI
+- ✅ **신규 편입:** WLD / ADA / XLM
+- 🔧 **리셋 유지:** SUI / ONDO
+- 마지막 액션: **ROTATE_85_NEAR_ENA_UNI_OUT_WLD_ADA_XLM_IN**
 
 ## 현재 포트폴리오 현황
-- ONDO **655.8096개 @ 509원**
-- NEAR **108.6258개 @ 3,073원**
-- SUI **292.3004개 @ 1,142원**
-- ENA **2828.8735개 @ 118원**
-- UNI **67.5723개 @ 4,940원**
-- 현금 **294,536원** / 총평가 **1,963,571원**
+- WLD **513.1450개 @ 650원**
+- ADA **1,230.7905개 @ 271원**
+- SUI **290.2909개 @ 1,149원**
+- ONDO **659.1783개 @ 506원**
+- XLM **1,090.0138개 @ 306원**
+- 현금 **294,304원** / 총평가 **1,962,025원**
 
 ## 자기 평가
-- 장점: **stale-data 핑계를 끝내고 새 업비트 스냅샷으로 실제 강제 교체를 실행한 점**이 좋았습니다.
-- 아쉬움: **XPL은 차트가 너무 좋아 보여도 unlock 오버행 때문에 한 번 더 보수적으로 봤습니다.**
-- 점수: **9.1 / 10**
+- 장점: **직전 배제 종목이던 WLD를 실제 reclaim 확인 뒤 다시 받아들여 관성 편향을 줄인 점**이 좋았습니다.
+- 아쉬움: **NEAR가 50% 아래로 식은 뒤에야 교체해 반응이 한 템포 늦었습니다.**
+- 점수: **9.2 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **새 Upbit 스냅샷 재생성**으로 stale-data 모드를 해제했습니다.
-- ✅ **RE 무효화 붕괴 / WLD mid-range 후퇴**를 실제 포트폴리오 교체로 연결했습니다.
-- ✅ **대시보드 개선:** `paper_deployment_pct`, `cash_ratio_pct`를 추가해 **공격 투입률이 바로 보이게** 바꿨습니다.
+- ✅ **03:59 KST 업비트 스냅샷 재갱신**으로 메이저 평균 85.4% 회복과 WLD reclaim을 즉시 반영했습니다.
+- ✅ **재진입 규율 추가:** 이전 탈락 attention 종목도 **75%+ reclaim + -2% 내 gap**이면 복귀 허용하도록 `DECISIONS.md`를 보강했습니다.
+- ✅ **실전 교체 실행:** NEAR·ENA·UNI를 실제 포트폴리오에서 빼고 **WLD·ADA·XLM**으로 교체했습니다.
 
 ## 판단
-- **aggressive-85-rotate-into-clean-continuations**
+- **aggressive-85-upgrade-into-wld-ada-xlm**
 
 ## 신뢰도
 - **medium-high**
 
 ## 추천 행동
-- **ONDO 503 / NEAR 3025 / SUI 1125 / ENA 115 / UNI 4880** 하회 시 즉시 재평가
-- **XPL / PENGU / WLD / XLM**은 보조 승격 후보로 관찰
-- **ZKP / MIRA / BLEND / SLX**는 대금이 커도 **지금은 추격 금지**
+- **WLD 640 / ADA 267 / SUI 1140 / ONDO 501 / XLM 302** 하회 시 즉시 재평가
+- **DOGE / ENA / JTO / PENGU / XPL**은 보조 승격 후보로 관찰
+- **ZKP / MIRA / BLEND / SLX / RE**는 대금이 커도 **지금은 추격 금지**
 
 ## 리스크 메모
-- **fresh breakout은 1개뿐**이라, 85% 공격이어도 과열 late chase는 금지입니다.
-- **RE는 이미 깨졌고**, **WLD도 mid-range**라 같은 이름 재매수는 성급합니다.
-- **XPL은 최상급 차트지만** 7월 25일 전후 unlock 오버행이 있어 cleaner 대안이 있는 지금은 watchlist가 낫습니다.
+- **fresh breakout은 ADA 1개뿐**이라, 85% 공격이어도 90% 이상 과열 확장은 아직 이릅니다.
+- **WLD는 reclaim이 맞지만 attention 성격도 강해** 640원 아래로 다시 밀리면 빠르게 잘라야 합니다.
+- **ZKP·MIRA·BLEND**는 거래대금 상위라도 **day-high gap가 너무 나빠** late chase 금지입니다.
 - **공포탐욕 21**은 여전히 Extreme Fear라, 메이저가 다시 꺾이면 이 바스켓도 바로 줄여야 합니다.
