@@ -5,9 +5,9 @@
   "cash_krw": 292781.48397057806,
   "realized_pnl_krw": -8049841.316826594,
   "last_valuation_krw": 1951876.559803852,
-  "last_action": "RESET_85_ENA_NEAR_RE_UNI_WLD",
-  "last_updated": "2026-07-03T03:58+09:00",
-  "trade_count": 1483,
+  "last_action": "HOLD_85_ENA_NEAR_RE_UNI_WLD",
+  "last_updated": "2026-07-03T09:58+09:00",
+  "trade_count": 1484,
   "positions": {
     "ENA": {
       "market": "KRW-ENA",
@@ -15,9 +15,9 @@
       "avg_buy_price_krw": 116.0,
       "last_price_krw": 116.0,
       "value_krw": 331819.01516665483,
-      "thesis": "123.8억원 대금·+6.42%·66.7% 위치로 속도는 조금 식었지만 ENA treasury/스테이블코인 서사가 아직 살아 있는 대형 continuation 축입니다.",
+      "thesis": "123.8억원 대금·+6.42%·66.7% 위치에 StablecoinX Harness 출시까지 겹쳐, ENA는 속도는 둔해도 기관형 스테이블코인 채택 서사를 유지하는 핵심 continuation 축입니다.",
       "strategy": "hold while 112원 above and 60%+ structure persists",
-      "role": "institutional narrative continuation",
+      "role": "institutional adoption continuation",
       "risk_limit_pct": 3.4,
       "profit_take_pct": 7.5
     },
@@ -27,7 +27,7 @@
       "avg_buy_price_krw": 2939.0,
       "last_price_krw": 2939.0,
       "value_krw": 331819.01516665483,
-      "thesis": "98.4억원 대금·+7.03%·92.5% 위치·-0.54% gap로 메이저 둔화 속에서도 가장 깔끔한 대형 알트 fresh breakout입니다.",
+      "thesis": "98.4억원 대금·+7.03%·92.5% 위치·-0.54% gap로 메이저 둔화 속에서도 가장 읽기 쉬운 대형 알트 fresh breakout입니다.",
       "strategy": "hold while 2885원 above and 85%+ breakout persists",
       "role": "quality large-cap breakout",
       "risk_limit_pct": 1.8,
@@ -39,7 +39,7 @@
       "avg_buy_price_krw": 1105.0,
       "last_price_krw": 1105.0,
       "value_krw": 331819.01516665483,
-      "thesis": "259.1억원 대금·+24.16%·99.1% 위치·-0.18% gap로 이번 회차 최강 breakout 코어입니다.",
+      "thesis": "259.1억원 대금·+24.16%·99.1% 위치·-0.18% gap로 이번 시점 최강 breakout 코어라 유지가 맞습니다.",
       "strategy": "hold while 1065원 above and 90%+ breakout persists",
       "role": "top momentum breakout core",
       "risk_limit_pct": 3.6,
@@ -51,9 +51,9 @@
       "avg_buy_price_krw": 4906.0,
       "last_price_krw": 4906.0,
       "value_krw": 331819.01516665483,
-      "thesis": "56.4억원 대금·+15.71%·92.8% 위치·-1.07% gap로, 둔한 ONDO 대신 공격성을 올릴 수 있는 fresh DeFi 리더입니다.",
+      "thesis": "56.4억원 대금·+15.71%·92.8% 위치·-1.07% gap로, 공격 바스켓의 DeFi 베타 슬롯을 계속 맡길 만한 fresh 리더입니다.",
       "strategy": "hold while 4720원 above and 85%+ breakout persists",
-      "role": "fresh DeFi breakout upgrade",
+      "role": "fresh DeFi breakout",
       "risk_limit_pct": 3.8,
       "profit_take_pct": 9.0
     },
@@ -63,7 +63,7 @@
       "avg_buy_price_krw": 593.0,
       "last_price_krw": 593.0,
       "value_krw": 331819.01516665483,
-      "thesis": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap로, 이번 바스켓의 대금 앵커이자 attention continuation 코어입니다.",
+      "thesis": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap에 7월 24일 WLD unlock rate 43% 감소 기대가 겹쳐, 수급 기대를 동반한 mega attention continuation 축입니다.",
       "strategy": "hold while 584원 above and 80%+ continuation persists",
       "role": "attention mega-continuation",
       "risk_limit_pct": 2.9,
@@ -74,27 +74,42 @@
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "207.2억원 대금은 충분하지만 50.0% 위치로 둔해져 이번 회차 preferred에서는 UNI에 밀렸습니다."
+      "reason": "207.2억원 대금은 충분하지만 50.0% 위치 정체라 이번 회차도 승격 보류입니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "85.1억원 대금·61.0% 위치의 무난한 대형주지만 더 강한 RE·NEAR·WLD가 우선입니다."
-    },
-    {
-      "symbol": "DEEP",
-      "market": "KRW-DEEP",
-      "reason": "214.3억원 대금·+15.77%라도 -6.69% gap이 커서 메인 바스켓보다는 보조 관찰이 낫습니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "401.6억원 대금은 크지만 52.9% 위치 정체라 공격 포트폴리오 승격 근거가 약합니다."
+      "reason": "85.1억원 대금·61.0% 위치의 무난한 대형주지만 NEAR·WLD·ENA보다 한 단계 아래입니다."
     },
     {
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "reason": "41.2억원 대금·90.0% 위치의 깔끔한 2선 후보지만 체급은 아직 UNI·NEAR보다 한 단계 아래입니다."
+      "reason": "41.2억원 대금·90.0% 위치는 좋지만 7월 하순 unlock 오버행이 있어 메인 바스켓 대신 보조 관찰로 둡니다."
+    },
+    {
+      "symbol": "DEEP",
+      "market": "KRW-DEEP",
+      "reason": "214.3억원 대금·+15.77%라도 -6.69% gap가 커 메인 바스켓 승격엔 한 박자 이릅니다."
+    },
+    {
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "73.3% 위치와 안정적 gap는 좋지만 속도와 대금이 상위 5개보다 약합니다."
+    },
+    {
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "93.9% 위치의 깔끔한 2선 continuation이지만 체급이 작아 톱5 승격은 보류합니다."
+    },
+    {
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "78.9% 위치와 양호한 gap가 있어 3선 공격 후보로는 볼 만합니다."
+    },
+    {
+      "symbol": "PUMP",
+      "market": "KRW-PUMP",
+      "reason": "72.7% 위치지만 7월 unlock 이슈를 확인해야 해 보조 관찰이 낫습니다."
     },
     {
       "symbol": "BIRB",
@@ -102,24 +117,9 @@
       "reason": "883.2억원 초대금과 +66.87%에도 -21.02% gap라 late chase 금지입니다."
     },
     {
-      "symbol": "AERGO",
-      "market": "KRW-AERGO",
-      "reason": "669.2억원 대금이어도 19.1% 위치·-26.92% gap라 구조가 너무 망가졌습니다."
-    },
-    {
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "460.5억원 대금·+29.36%라도 43.4% 위치·-23.37% gap면 exhausted blowoff에 가깝습니다."
-    },
-    {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "대금 1위지만 49.7% 위치·-9.58% gap로 깨끗한 continuation보다 한참 불리합니다."
-    },
-    {
-      "symbol": "TAIKO",
-      "market": "KRW-TAIKO",
-      "reason": "1002.0억원 대금에도 -6.91%·29.4% 위치로 아직 turnover trap 성격이 강합니다."
+      "reason": "대금 1위지만 49.7% 위치·-9.58% gap라 continuation 품질이 너무 약합니다."
     }
   ],
   "history": [
@@ -13469,6 +13469,15 @@
       "amount_delta": 559.5598906688952,
       "cash_delta_krw": -331819.01516665483,
       "reason": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap로, 이번 바스켓의 대금 앵커이자 attention continuation 코어입니다."
+    },
+    {
+      "timestamp": "2026-07-03T09:58+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 1951876.559803852,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "실시간 공포탐욕 21과 WLD/ENA/XPL 외부 재료를 재확인했지만, 현재 ENA·NEAR·RE·UNI·WLD 5종이 여전히 가장 읽기 쉬운 상단 구조라 85% 공격 바스켓을 그대로 유지"
     }
   ]
 }
