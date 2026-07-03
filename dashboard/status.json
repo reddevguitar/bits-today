@@ -1,145 +1,151 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive-85-hold-5-stale-data-aware",
-  "confidence": "medium",
+  "judgment": "aggressive-85-rotate-into-clean-continuations",
+  "confidence": "medium-high",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-07-03 15:58 KST",
-  "market_status": "**메이저 평균 위치 71.6%, fresh breakout 2개, top15 비메이저 플러스 11개**로 판은 살아 있습니다. 다만 **이번 회차는 새 업비트 스냅샷 부재** 때문에 **85% 유지·무리한 교체 금지**가 더 합리적입니다.",
+  "updated_at": "2026-07-03 21:58 KST",
+  "market_status": "**메이저 평균 위치 77.8%, fresh breakout 1개, high conviction 9개, top15 비메이저 플러스 10개**입니다. 강세는 유지되지만 **headline 급등주 대부분이 함정화**돼, **깨진 RE/WLD를 정리하고 clean continuation 쪽으로 압축**했습니다.",
   "fear_greed": "**21 (Extreme Fear)**",
-  "btc_snapshot": "**BTC 93.099M원 / ETH 2.568M원 / XRP 1,643원 / SOL 122.3K원**",
-  "cash_krw": "292,781 KRW",
-  "realized_pnl_krw": "-8,049,841 KRW",
-  "last_valuation_krw": "1,951,877 KRW",
+  "btc_snapshot": "**BTC 93.460M원 / ETH 2.617M원 / XRP 1,670원 / SOL 123.0K원**",
+  "cash_krw": "294,536 KRW",
+  "realized_pnl_krw": "-8,060,658 KRW",
+  "last_valuation_krw": "1,963,571 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -80.48,
-  "last_action": "HOLD_85_ENA_NEAR_RE_UNI_WLD_STALE_AWARE",
-  "trade_count": 1484,
-  "last_updated": "2026-07-03T15:58+09:00",
+  "return_pct": -80.36,
+  "paper_deployment_pct": 85.0,
+  "cash_ratio_pct": 15.0,
+  "last_action": "ROTATE_85_RE_WLD_OUT_ONDO_SUI_IN",
+  "trade_count": 1492,
+  "last_updated": "2026-07-03T21:58+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 20,
-    "recent_sell_count": 18,
-    "recent_rotation_count": 18,
-    "recent_trade_actions_24h": 12,
-    "recent_24h_buy_count": 15,
+    "recent_buy_count": 17,
+    "recent_sell_count": 20,
+    "recent_rotation_count": 17,
+    "recent_trade_actions_24h": 20,
+    "recent_24h_buy_count": 12,
     "recent_24h_sell_count": 15,
-    "recent_24h_replacement_count": 15,
-    "portfolio_churn_24h_pct": 300.0
+    "recent_24h_replacement_count": 12,
+    "portfolio_churn_24h_pct": 240.0
   },
   "summary": [
-    "🧲 **RE** — 1,105원 / **+24.16%** / 259.1억원 / 위치 **99.1%** / top momentum breakout core",
-    "🌍 **WLD** — 593원 / **+8.01%** / 510.0억원 / 위치 **84.7%** / attention mega-continuation",
-    "🌉 **NEAR** — 2,939원 / **+7.03%** / 98.4억원 / 위치 **92.5%** / quality large-cap breakout",
-    "🦄 **UNI** — 4,906원 / **+15.71%** / 56.4억원 / 위치 **92.8%** / fresh DeFi breakout",
-    "🏦 **ENA** — 116원 / **+6.42%** / 123.8억원 / 위치 **66.7%** / institutional adoption continuation",
-    "BTC **77.9%** / ETH **82.0%** / XRP **60.4%** / SOL **65.9%**",
-    "메이저 평균 **71.6% 위치**, **양전환 4개 / 음전환 0개**",
-    "fresh breakout **2개**, quality survivor **12개**, weak breadth **false**",
+    "🌐 **ONDO** — 509원 / **+2.62%** / 152.2억원 / 위치 **93.3%** / institutional RWA breakout",
+    "🌉 **NEAR** — 3,073원 / **+4.70%** / 76.2억원 / 위치 **93.5%** / quality L1 continuation",
+    "🌊 **SUI** — 1,142원 / **+2.98%** / 76.1억원 / 위치 **95.2%** / large-cap beta continuation",
+    "🏦 **ENA** — 118원 / **+1.72%** / 63.1억원 / 위치 **100.0%** / stablecoin adoption continuation",
+    "🦄 **UNI** — 4,940원 / **+3.00%** / 43.6억원 / 위치 **100.0%** / DeFi closing breakout",
+    "BTC **80.1%** / XRP **80.0%** / ETH **75.0%** / SOL **76.2%**",
+    "메이저 평균 **77.8% 위치**, **양전환 4개 / 음전환 0개**",
+    "fresh breakout **1개(ONDO)**, high conviction **9개**, weak breadth **false**",
     "실투입: **85%**, 5종 동일비중",
-    "타깃: 각 약 **331,819원**",
-    "현금: 약 **292,781원 (15.0%)**",
-    "핵심 논리: **hold 5 cores / stale-data aware / no forced churn**",
-    "➖ **교체 없음**",
-    "✅ **유지 5:** ENA / NEAR / RE / UNI / WLD",
-    "🧠 **판단 근거:** 공포탐욕 21 유지, WLD unlock-rate 둔화·ENA 채택 뉴스·XPL unlock 일정까지 재확인했지만, **새 업비트 스냅샷이 없어서 기존 5종보다 확실히 낫다고 말할 새 후보가 없었습니다.**",
-    "마지막 액션: **HOLD_85_ENA_NEAR_RE_UNI_WLD_STALE_AWARE**",
-    "ENA **2860.5088개 @ 116원**",
-    "NEAR **112.9020개 @ 2,939원**",
-    "RE **300.2887개 @ 1,105원**",
-    "UNI **67.6353개 @ 4,906원**",
-    "WLD **559.5599개 @ 593원**",
-    "현금 **292,781원** / 총평가 **1,951,877원**",
-    "장점: **데이터가 덜 신선한 회차라는 점을 숨기지 않고, 기존 강한 5종 유지와 리스크 메모 강화로 대응한 것**은 좋았습니다.",
-    "아쉬움: **새 스냅샷 부재 때문에 ID·DOGE·XPL 같은 대안 검증을 공격적으로 밀어붙이지 못했습니다.**",
-    "점수: **8.9 / 10**",
-    "✅ **Alternative.me 실시간 공포탐욕 21 재확인**으로 심리 수치를 최신화했습니다.",
-    "✅ **WLD unlock-rate 둔화 / StablecoinX Harness 출시 / XPL 7월 25일 unlock 일정**을 다시 확인해 selection·risk 문구를 다듬었습니다.",
-    "✅ **대시보드 개선:** `update_dashboard.py`에 **staleness_warning** 블록을 추가해 **데이터 신선도 경고가 바로 보이도록** 바꿨습니다.",
-    "**aggressive-85-hold-5-stale-data-aware**",
-    "**medium**",
-    "**ENA 112 / NEAR 2885 / RE 1065 / UNI 4720 / WLD 584** 하회 시 즉시 재평가",
-    "**ID / DOGE / XPL / DEEP**은 보조 승격 후보로 관찰",
-    "**BIRB / BREV / AERGO / SLX**는 대금이 커도 **지금은 추격 금지**",
-    "**메이저 평균 71.6%**라 아직 괜찮지만, **이번 회차 핵심 리스크는 데이터 신선도 부족**입니다.",
-    "**WLD는 강하지만** unlock-rate 둔화 기대가 일부 선반영됐을 수 있어 584원 이탈을 주의해야 합니다.",
-    "**XPL은 차트가 좋아도** 7월 25일 전후 unlock 오버행 때문에 지금은 watchlist가 더 안전합니다.",
-    "**공포탐욕 21**은 여전히 Extreme Fear라, 메이저가 다시 꺾이면 알트 상단 유지도 빠르게 약해질 수 있습니다."
+    "타깃: 각 약 **333,807원**",
+    "현금: 약 **294,536원 (15.0%)**",
+    "핵심 논리: **broken leaders out / clean 90~100% continuations in**",
+    "❌ **퇴출:** RE / WLD",
+    "✅ **신규 편입:** ONDO / SUI",
+    "🔧 **리밸런스 유지:** ENA / NEAR / UNI",
+    "마지막 액션: **ROTATE_85_RE_WLD_OUT_ONDO_SUI_IN**",
+    "ONDO **655.8096개 @ 509원**",
+    "NEAR **108.6258개 @ 3,073원**",
+    "SUI **292.3004개 @ 1,142원**",
+    "ENA **2828.8735개 @ 118원**",
+    "UNI **67.5723개 @ 4,940원**",
+    "현금 **294,536원** / 총평가 **1,963,571원**",
+    "장점: **stale-data 핑계를 끝내고 새 업비트 스냅샷으로 실제 강제 교체를 실행한 점**이 좋았습니다.",
+    "아쉬움: **XPL은 차트가 너무 좋아 보여도 unlock 오버행 때문에 한 번 더 보수적으로 봤습니다.**",
+    "점수: **9.1 / 10**",
+    "✅ **새 Upbit 스냅샷 재생성**으로 stale-data 모드를 해제했습니다.",
+    "✅ **RE 무효화 붕괴 / WLD mid-range 후퇴**를 실제 포트폴리오 교체로 연결했습니다.",
+    "✅ **대시보드 개선:** `paper_deployment_pct`, `cash_ratio_pct`를 추가해 **공격 투입률이 바로 보이게** 바꿨습니다.",
+    "**aggressive-85-rotate-into-clean-continuations**",
+    "**medium-high**",
+    "**ONDO 503 / NEAR 3025 / SUI 1125 / ENA 115 / UNI 4880** 하회 시 즉시 재평가",
+    "**XPL / PENGU / WLD / XLM**은 보조 승격 후보로 관찰",
+    "**ZKP / MIRA / BLEND / SLX**는 대금이 커도 **지금은 추격 금지**",
+    "**fresh breakout은 1개뿐**이라, 85% 공격이어도 과열 late chase는 금지입니다.",
+    "**RE는 이미 깨졌고**, **WLD도 mid-range**라 같은 이름 재매수는 성급합니다.",
+    "**XPL은 최상급 차트지만** 7월 25일 전후 unlock 오버행이 있어 cleaner 대안이 있는 지금은 watchlist가 낫습니다.",
+    "**공포탐욕 21**은 여전히 Extreme Fear라, 메이저가 다시 꺾이면 이 바스켓도 바로 줄여야 합니다."
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-07-03T15:58+09:00",
+      "timestamp": "2026-07-03T21:58+09:00",
       "symbol": "PORTFOLIO",
-      "action": "HOLD",
-      "price_krw": 1951876.559803852,
+      "action": "ROTATE",
+      "price_krw": 1963571.02231468,
       "amount_delta": 0,
       "cash_delta_krw": 0,
-      "reason": "새 업비트 스냅샷 부재로 실시간 교체 신호 신뢰도가 낮아, RE·WLD·NEAR·UNI·ENA 85% 공격 바스켓을 유지하고 데이터 신선도 경고만 강화"
+      "reason": "새 Upbit 스냅샷 기준 RE 무효화·WLD mid-range 후퇴가 확인돼 ONDO·SUI 중심 85% 공격 바스켓으로 재편"
     },
     {
-      "timestamp": "2026-07-03T09:58+09:00",
-      "symbol": "PORTFOLIO",
-      "action": "HOLD",
-      "price_krw": 1951876.559803852,
-      "amount_delta": 0,
-      "cash_delta_krw": 0,
-      "reason": "실시간 공포탐욕 21과 WLD/ENA/XPL 외부 재료를 재확인했지만, 현재 ENA·NEAR·RE·UNI·WLD 5종이 여전히 가장 읽기 쉬운 상단 구조라 85% 공격 바스켓을 그대로 유지"
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "WLD",
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "SUI",
       "action": "BUY",
-      "price_krw": 593.0,
-      "amount_delta": 559.5598906688952,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap로, 이번 바스켓의 대금 앵커이자 attention continuation 코어입니다."
+      "price_krw": 1142.0,
+      "amount_delta": 292.300414880469,
+      "cash_delta_krw": -333807.0737934956,
+      "reason": "76.1억원 대금·95.2% 위치·-0.17% gap로, RE처럼 깨진 고베타보다 훨씬 깨끗한 대형 베타 continuation입니다."
     },
     {
-      "timestamp": "2026-07-03T03:58:00+09:00",
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 509.0,
+      "amount_delta": 655.8095752328007,
+      "cash_delta_krw": -333807.0737934956,
+      "reason": "152.2억원 대금·93.3% 위치·-0.20% gap로, 이번 회차 fresh breakout이 사실상 ONDO 한 종에 집중된 가장 읽기 쉬운 기관서사형 코어입니다."
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
       "symbol": "UNI",
-      "action": "BUY",
-      "price_krw": 4906.0,
-      "amount_delta": 67.63534756760188,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "56.4억원 대금·+15.71%·92.8% 위치·-1.07% gap로, 둔한 ONDO 대신 공격성을 올릴 수 있는 fresh DeFi 리더입니다."
+      "action": "SELL",
+      "price_krw": 4940.0,
+      "amount_delta": -0.06306542316956865,
+      "cash_delta_krw": 311.5431904576791,
+      "reason": "21:58 가격 기준 85% 동일비중 리셋을 위해 소폭 트림"
     },
     {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "RE",
-      "action": "BUY",
-      "price_krw": 1105.0,
-      "amount_delta": 300.28870150828493,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "259.1억원 대금·+24.16%·99.1% 위치·-0.18% gap로 이번 회차 최강 breakout 코어입니다."
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
+      "timestamp": "2026-07-03T21:58+09:00",
       "symbol": "NEAR",
-      "action": "BUY",
-      "price_krw": 2939.0,
-      "amount_delta": 112.9020126460207,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "98.4억원 대금·+7.03%·92.5% 위치·-0.54% gap로 메이저 둔화 속에서도 가장 깔끔한 대형 알트 fresh breakout입니다."
+      "action": "SELL",
+      "price_krw": 3073.0,
+      "amount_delta": -4.276215772120404,
+      "cash_delta_krw": 13140.811067726003,
+      "reason": "21:58 가격 기준 85% 동일비중 리셋을 위해 소폭 트림"
     },
     {
-      "timestamp": "2026-07-03T03:58:00+09:00",
+      "timestamp": "2026-07-03T21:58+09:00",
       "symbol": "ENA",
-      "action": "BUY",
-      "price_krw": 116.0,
-      "amount_delta": 2860.5087514366796,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "123.8억원 대금·+6.42%·66.7% 위치로 속도는 조금 식었지만 ENA treasury/스테이블코인 서사가 아직 살아 있는 대형 continuation 축입니다."
+      "action": "SELL",
+      "price_krw": 118.0,
+      "amount_delta": -31.635244712140775,
+      "cash_delta_krw": 3732.9588760326114,
+      "reason": "21:58 가격 기준 85% 동일비중 리셋을 위해 소폭 트림"
     },
     {
-      "timestamp": "2026-07-03T03:58:00+09:00",
+      "timestamp": "2026-07-03T21:58+09:00",
       "symbol": "WLD",
       "action": "SELL",
-      "price_krw": 593.0,
-      "amount_delta": -562.8399701826162,
-      "cash_delta_krw": 333764.1023182914,
-      "reason": "03:58 가격 기준 85% 동일비중 재편. ONDO를 UNI로 교체하고 나머지 4개 코어는 새 가격으로 균등 리셋"
+      "price_krw": 638.0,
+      "amount_delta": -559.5598906688952,
+      "cash_delta_krw": 356999.2102467551,
+      "reason": "533.1억원 대금에도 52.8% 위치까지 식어 SUI로 교체"
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "RE",
+      "action": "SELL",
+      "price_krw": 983.0,
+      "amount_delta": -300.28870150828493,
+      "cash_delta_krw": 295183.7935826441,
+      "reason": "-5.30%·35.5% 위치·-9.82% gap로 breakout 코어 가정이 깨져 ONDO로 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-07-03-2158.md",
+      "title": "2026-07-03-2158"
+    },
     {
       "file": "2026-07-03-1558.md",
       "title": "2026-07-03-1558"
@@ -167,10 +173,6 @@
     {
       "file": "2026-07-02-0358.md",
       "title": "2026-07-02-0358"
-    },
-    {
-      "file": "2026-07-01-2158.md",
-      "title": "2026-07-01-2158"
     }
   ],
   "positions": [
@@ -178,14 +180,14 @@
       "icon": "🏦",
       "symbol": "ENA",
       "market": "KRW-ENA",
-      "amount": 2860.5087514366796,
-      "avg_buy_price_krw": "116 KRW",
-      "last_price_krw": "116 KRW",
-      "thesis": "123.8억원 대금·+6.42%·66.7% 위치에 StablecoinX Harness 출시까지 겹쳐, ENA는 속도는 둔해도 기관형 스테이블코인 채택 서사를 유지하는 핵심 continuation 축입니다.",
-      "strategy": "hold while 112원 above and 60%+ structure persists",
-      "role": "institutional adoption continuation",
-      "risk_limit_pct": 3.4,
-      "profit_take_pct": 7.5,
+      "amount": 2828.873506724539,
+      "avg_buy_price_krw": "118 KRW",
+      "last_price_krw": "118 KRW",
+      "thesis": "63.1억원 대금·100.0% 위치·0.00% gap로, StablecoinX Harness 촉매를 품은 채 고가권 마감을 만든 가장 안정적인 스테이블코인 서사 슬롯입니다.",
+      "strategy": "hold while 115원 above and tight-box high close persists",
+      "role": "stablecoin adoption continuation",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -193,29 +195,44 @@
       "icon": "🌉",
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "amount": 112.9020126460207,
-      "avg_buy_price_krw": "2,939 KRW",
-      "last_price_krw": "2,939 KRW",
-      "thesis": "98.4억원 대금·+7.03%·92.5% 위치·-0.54% gap로 메이저 둔화 속에서도 가장 읽기 쉬운 대형 알트 fresh breakout입니다.",
-      "strategy": "hold while 2885원 above and 85%+ breakout persists",
-      "role": "quality large-cap breakout",
-      "risk_limit_pct": 1.8,
-      "profit_take_pct": 7.0,
+      "amount": 108.6257968739003,
+      "avg_buy_price_krw": "3,073 KRW",
+      "last_price_krw": "3,073 KRW",
+      "thesis": "76.2억원 대금·93.5% 위치·-0.39% gap로, 메이저 강세를 무난하게 흡수하는 품질형 L1 continuation 축입니다.",
+      "strategy": "hold while 3025원 above and 90%+ structure persists",
+      "role": "quality L1 continuation",
+      "risk_limit_pct": 1.6,
+      "profit_take_pct": 6.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "amount": 300.28870150828493,
-      "avg_buy_price_krw": "1,105 KRW",
-      "last_price_krw": "1,105 KRW",
-      "thesis": "259.1억원 대금·+24.16%·99.1% 위치·-0.18% gap로 이번 시점 최강 breakout 코어라 유지가 맞습니다.",
-      "strategy": "hold while 1065원 above and 90%+ breakout persists",
-      "role": "top momentum breakout core",
-      "risk_limit_pct": 3.6,
-      "profit_take_pct": 10.0,
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "amount": 655.8095752328007,
+      "avg_buy_price_krw": "509 KRW",
+      "last_price_krw": "509 KRW",
+      "thesis": "152.2억원 대금·93.3% 위치·-0.20% gap로, 이번 회차 fresh breakout이 사실상 ONDO 한 종에 집중된 가장 읽기 쉬운 기관서사형 코어입니다.",
+      "strategy": "hold while 503원 above and 90%+ breakout persists",
+      "role": "institutional RWA breakout",
+      "risk_limit_pct": 1.2,
+      "profit_take_pct": 5.5,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🌊",
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "amount": 292.300414880469,
+      "avg_buy_price_krw": "1,142 KRW",
+      "last_price_krw": "1,142 KRW",
+      "thesis": "76.1억원 대금·95.2% 위치·-0.17% gap로, RE처럼 깨진 고베타보다 훨씬 깨끗한 대형 베타 continuation입니다.",
+      "strategy": "hold while 1125원 above and 90%+ continuation persists",
+      "role": "large-cap beta continuation",
+      "risk_limit_pct": 1.5,
+      "profit_take_pct": 5.8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -223,74 +240,95 @@
       "icon": "🦄",
       "symbol": "UNI",
       "market": "KRW-UNI",
-      "amount": 67.63534756760188,
-      "avg_buy_price_krw": "4,906 KRW",
-      "last_price_krw": "4,906 KRW",
-      "thesis": "56.4억원 대금·+15.71%·92.8% 위치·-1.07% gap로, 공격 바스켓의 DeFi 베타 슬롯을 계속 맡길 만한 fresh 리더입니다.",
-      "strategy": "hold while 4720원 above and 85%+ breakout persists",
-      "role": "fresh DeFi breakout",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 9.0,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "amount": 559.5598906688952,
-      "avg_buy_price_krw": "593 KRW",
-      "last_price_krw": "593 KRW",
-      "thesis": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap에 7월 24일 WLD unlock rate 43% 감소 기대가 겹쳐, 수급 기대를 동반한 mega attention continuation 축입니다.",
-      "strategy": "hold while 584원 above and 80%+ continuation persists",
-      "role": "attention mega-continuation",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 8.5,
+      "amount": 67.57228214443231,
+      "avg_buy_price_krw": "4,940 KRW",
+      "last_price_krw": "4,940 KRW",
+      "thesis": "43.6억원 대금·100.0% 위치·0.00% gap로, 낮 시간 과열을 버티고 종가권을 잠근 clean DeFi breakout입니다.",
+      "strategy": "hold while 4880원 above and closing breakout persists",
+      "role": "DeFi closing breakout",
+      "risk_limit_pct": 1.2,
+      "profit_take_pct": 5.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "ONDO": [
+    "NEAR": [
       {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 500.0,
+        "timestamp": "2026-07-02T21:59+09:00",
+        "price_krw": 2923.0,
         "action": "SELL"
       },
       {
         "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 507.0,
+        "price_krw": 2923.0,
         "action": "BUY"
       },
       {
         "timestamp": "2026-07-03T03:58:00+09:00",
-        "price_krw": 501.0,
+        "price_krw": 2939.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-03T03:58:00+09:00",
+        "price_krw": 2939.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 3073.0,
+        "action": "SELL"
+      }
+    ],
+    "ENA": [
+      {
+        "timestamp": "2026-07-02T21:59+09:00",
+        "price_krw": 117.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-02T21:59+09:00",
+        "price_krw": 117.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-03T03:58:00+09:00",
+        "price_krw": 116.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-03T03:58:00+09:00",
+        "price_krw": 116.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 118.0,
         "action": "SELL"
       }
     ],
     "JTO": [
-      {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 1216.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 1216.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-07-02T21:59+09:00",
         "price_krw": 1174.0,
         "action": "SELL"
       }
     ],
-    "RE": [
+    "SAHARA": [
       {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 918.0,
+        "timestamp": "2026-07-02T21:59+09:00",
+        "price_krw": 16.1,
         "action": "SELL"
-      },
+      }
+    ],
+    "BREV": [
+      {
+        "timestamp": "2026-07-02T21:59+09:00",
+        "price_krw": 144.0,
+        "action": "SELL"
+      }
+    ],
+    "RE": [
       {
         "timestamp": "2026-07-02T21:59+09:00",
         "price_krw": 961.0,
@@ -305,84 +343,28 @@
         "timestamp": "2026-07-03T03:58:00+09:00",
         "price_krw": 1105.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 983.0,
+        "action": "SELL"
       }
     ],
-    "NEAR": [
-      {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 2896.0,
-        "action": "BUY"
-      },
+    "ONDO": [
       {
         "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 2923.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 2923.0,
+        "price_krw": 507.0,
         "action": "BUY"
       },
       {
         "timestamp": "2026-07-03T03:58:00+09:00",
-        "price_krw": 2939.0,
+        "price_krw": 501.0,
         "action": "SELL"
       },
       {
-        "timestamp": "2026-07-03T03:58:00+09:00",
-        "price_krw": 2939.0,
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 509.0,
         "action": "BUY"
-      }
-    ],
-    "ENA": [
-      {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 115.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 117.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 117.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-03T03:58:00+09:00",
-        "price_krw": 116.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-03T03:58:00+09:00",
-        "price_krw": 116.0,
-        "action": "BUY"
-      }
-    ],
-    "SAHARA": [
-      {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 16.2,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 16.1,
-        "action": "SELL"
-      }
-    ],
-    "BREV": [
-      {
-        "timestamp": "2026-07-02T15:58:00+09:00",
-        "price_krw": 145.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-02T21:59+09:00",
-        "price_krw": 144.0,
-        "action": "SELL"
       }
     ],
     "WLD": [
@@ -400,6 +382,11 @@
         "timestamp": "2026-07-03T03:58:00+09:00",
         "price_krw": 593.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 638.0,
+        "action": "SELL"
       }
     ],
     "UNI": [
@@ -407,6 +394,11 @@
         "timestamp": "2026-07-03T03:58:00+09:00",
         "price_krw": 4906.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 4940.0,
+        "action": "SELL"
       }
     ],
     "PORTFOLIO": [
@@ -419,227 +411,255 @@
         "timestamp": "2026-07-03T15:58+09:00",
         "price_krw": 1951876.559803852,
         "action": "HOLD"
+      },
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 1963571.02231468,
+        "action": "ROTATE"
+      }
+    ],
+    "SUI": [
+      {
+        "timestamp": "2026-07-03T21:58+09:00",
+        "price_krw": 1142.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-07-03-1558.md",
+  "latest_report_file": "2026-07-03-2158.md",
   "preferred_buy_candidates": [
     {
-      "icon": "🏦",
-      "symbol": "ENA",
-      "market": "KRW-ENA",
-      "price_krw": 116.0,
-      "change_pct_24h": 6.42201835,
-      "turnover_krw_24h": 12378853924.140919,
-      "reason": "123.8억원 대금·+6.42%·66.7% 위치에 StablecoinX Harness 출시까지 겹쳐, ENA는 속도는 둔해도 기관형 스테이블코인 채택 서사를 유지하는 핵심 continuation 축입니다.",
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "price_krw": 509.0,
+      "change_pct_24h": 2.62096774,
+      "turnover_krw_24h": 15217031968.250889,
+      "reason": "152.2억원 대금·93.3% 위치·-0.20% gap로, 이번 회차 fresh breakout이 사실상 ONDO 한 종에 집중된 가장 읽기 쉬운 기관서사형 코어입니다.",
       "score": null,
-      "community": "업비트 체감 자금은 아직 ENA를 완전히 버리지 않았고, 안정적 서사 슬롯으로 계속 남겨두는 흐름입니다.",
+      "community": "업비트 자금은 RE·WLD처럼 과열된 이름보다 ONDO 같은 깔끔한 고위치 대형 알트로 재정렬되는 흐름입니다.",
       "risk": null,
-      "allocation_krw": 331819.01516665483,
-      "role": "institutional adoption continuation",
-      "invalidated_if": "112원 하회 또는 60% 구조 붕괴",
-      "range_position_pct": 66.7,
-      "day_high_gap_pct": -3.33
+      "allocation_krw": 333807.0737934956,
+      "role": "institutional RWA breakout",
+      "invalidated_if": "503원 하회 또는 90% breakout 붕괴",
+      "range_position_pct": 93.3,
+      "day_high_gap_pct": -0.2
     },
     {
       "icon": "🌉",
       "symbol": "NEAR",
       "market": "KRW-NEAR",
-      "price_krw": 2939.0,
-      "change_pct_24h": 7.02840495,
-      "turnover_krw_24h": 9839570492.710888,
-      "reason": "98.4억원 대금·+7.03%·92.5% 위치·-0.54% gap로 메이저 둔화 속에서도 가장 읽기 쉬운 대형 알트 fresh breakout입니다.",
+      "price_krw": 3073.0,
+      "change_pct_24h": 4.70187394,
+      "turnover_krw_24h": 7621328298.462655,
+      "reason": "76.2억원 대금·93.5% 위치·-0.39% gap로, 메이저 강세를 무난하게 흡수하는 품질형 L1 continuation 축입니다.",
       "score": null,
-      "community": "대형 알트 중에서는 NEAR가 가장 깔끔한 상단 유지형으로 계속 선택받고 있습니다.",
+      "community": "대형 알트 중 체결 품질은 여전히 NEAR가 가장 안정적이라, 새 고점권 추격 자금이 계속 붙고 있습니다.",
       "risk": null,
-      "allocation_krw": 331819.01516665483,
-      "role": "quality large-cap breakout",
-      "invalidated_if": "2885원 하회 또는 85% breakout 붕괴",
-      "range_position_pct": 92.5,
-      "day_high_gap_pct": -0.54
-    },
-    {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "price_krw": 1105.0,
-      "change_pct_24h": 24.15730337,
-      "turnover_krw_24h": 25905620916.85641,
-      "reason": "259.1억원 대금·+24.16%·99.1% 위치·-0.18% gap로 이번 시점 최강 breakout 코어라 유지가 맞습니다.",
-      "score": null,
-      "community": "지금 업비트 보드에서 리테일 추격 자금이 가장 깔끔하게 붙는 이름은 여전히 RE입니다.",
-      "risk": null,
-      "allocation_krw": 331819.01516665483,
-      "role": "top momentum breakout core",
-      "invalidated_if": "1065원 하회 또는 90% breakout 붕괴",
-      "range_position_pct": 99.1,
-      "day_high_gap_pct": -0.18
-    },
-    {
-      "icon": "🦄",
-      "symbol": "UNI",
-      "market": "KRW-UNI",
-      "price_krw": 4906.0,
-      "change_pct_24h": 15.70754717,
-      "turnover_krw_24h": 5635602998.935594,
-      "reason": "56.4억원 대금·+15.71%·92.8% 위치·-1.07% gap로, 공격 바스켓의 DeFi 베타 슬롯을 계속 맡길 만한 fresh 리더입니다.",
-      "score": null,
-      "community": "DeFi 슬롯에서는 UNI가 가장 깨끗한 상단 유지형이라 추격 자금이 계속 붙고 있습니다.",
-      "risk": null,
-      "allocation_krw": 331819.01516665483,
-      "role": "fresh DeFi breakout",
-      "invalidated_if": "4720원 하회 또는 85% breakout 붕괴",
-      "range_position_pct": 92.8,
-      "day_high_gap_pct": -1.07
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "price_krw": 593.0,
-      "change_pct_24h": 8.01457195,
-      "turnover_krw_24h": 51004242928.586334,
-      "reason": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap에 7월 24일 WLD unlock rate 43% 감소 기대가 겹쳐, 수급 기대를 동반한 mega attention continuation 축입니다.",
-      "score": null,
-      "community": "업비트 대금 최상단 attention 자금은 아직 WLD를 핵심 앵커로 쓰고 있습니다.",
-      "risk": null,
-      "allocation_krw": 331819.01516665483,
-      "role": "attention mega-continuation",
-      "invalidated_if": "584원 하회 또는 80% continuation 붕괴",
-      "range_position_pct": 84.7,
-      "day_high_gap_pct": -1.5
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🆔",
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "93.9% 위치·-0.39% gap로 구조는 매우 좋지만 체급이 작고 새 스냅샷 부재라 이번 회차 승격은 보류합니다."
-    },
-    {
-      "icon": "🐕",
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "83.3% 위치·188.4억원 대금의 고유동성 continuation이지만 포트폴리오 알트 공격성 측면에선 UNI·WLD보다 우선순위가 낮습니다."
-    },
-    {
-      "icon": "🫧",
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "90.0% 위치는 좋지만 7월 25일 전후 unlock 오버행이 있어 메인 바스켓 승격은 아직 이릅니다."
-    },
-    {
-      "icon": "🌊",
-      "symbol": "DEEP",
-      "market": "KRW-DEEP",
-      "reason": "214.3억원 대금·+15.77%라도 -6.69% gap가 커 메인 바스켓 승격엔 한 박자 이릅니다."
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "207.2억원 대금은 충분하지만 50.0% 위치 정체라 continuation 품질이 상위 5개보다 약합니다."
+      "allocation_krw": 333807.0737934956,
+      "role": "quality L1 continuation",
+      "invalidated_if": "3025원 하회 또는 90% 구조 붕괴",
+      "range_position_pct": 93.5,
+      "day_high_gap_pct": -0.39
     },
     {
       "icon": "🌊",
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "85.1억원 대금·61.0% 위치의 무난한 대형주지만 NEAR·WLD·ENA보다 한 단계 아래입니다."
+      "price_krw": 1142.0,
+      "change_pct_24h": 2.97565374,
+      "turnover_krw_24h": 7614127993.928851,
+      "reason": "76.1억원 대금·95.2% 위치·-0.17% gap로, RE처럼 깨진 고베타보다 훨씬 깨끗한 대형 베타 continuation입니다.",
+      "score": null,
+      "community": "SUI는 오늘 업비트 보드에서 조용하지만 매우 강한 상단 유지형으로 재평가되고 있습니다.",
+      "risk": null,
+      "allocation_krw": 333807.0737934956,
+      "role": "large-cap beta continuation",
+      "invalidated_if": "1125원 하회 또는 90% continuation 붕괴",
+      "range_position_pct": 95.2,
+      "day_high_gap_pct": -0.17
+    },
+    {
+      "icon": "🏦",
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "price_krw": 118.0,
+      "change_pct_24h": 1.72413793,
+      "turnover_krw_24h": 6306257141.631795,
+      "reason": "63.1억원 대금·100.0% 위치·0.00% gap로, StablecoinX Harness 촉매를 품은 채 고가권 마감을 만든 가장 안정적인 스테이블코인 서사 슬롯입니다.",
+      "score": null,
+      "community": "과열 추격 자금이 빠진 자리에서 ENA는 기관형 서사 슬롯으로 다시 압축되는 모습입니다.",
+      "risk": null,
+      "allocation_krw": 333807.0737934956,
+      "role": "stablecoin adoption continuation",
+      "invalidated_if": "115원 하회 또는 고가권 박스 유지 실패",
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0
+    },
+    {
+      "icon": "🦄",
+      "symbol": "UNI",
+      "market": "KRW-UNI",
+      "price_krw": 4940.0,
+      "change_pct_24h": 3.00250209,
+      "turnover_krw_24h": 4357559591.252261,
+      "reason": "43.6억원 대금·100.0% 위치·0.00% gap로, 낮 시간 과열을 버티고 종가권을 잠근 clean DeFi breakout입니다.",
+      "score": null,
+      "community": "DeFi 슬롯에서는 UNI가 다시 가장 깔끔한 종가형 강세로 자리잡았습니다.",
+      "risk": null,
+      "allocation_krw": 333807.0737934956,
+      "role": "DeFi closing breakout",
+      "invalidated_if": "4880원 하회 또는 종가형 breakout 실패",
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🫧",
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "95.7% 위치·-0.61% gap로 차트는 최상위지만 7월 25일 전후 unlock 오버행이 있어 오늘은 preferred 대신 watchlist 유지합니다."
+    },
+    {
+      "icon": "🐧",
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "88.5% 위치와 -0.96% gap가 좋고 보조 돌파 후보로 우수하지만, 체급은 ONDO·SUI보다 한 단계 낮습니다."
+    },
+    {
+      "icon": "🌍",
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "533.1억원 대금은 압도적이지만 52.8% 위치까지 식어 unlock-cut 재료보다 실제 구조 훼손을 더 우선했습니다."
+    },
+    {
+      "icon": "✨",
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "281.7억원 대금·75.0% 위치의 매우 깨끗한 유동성 생존주라, 2차 교체 후보로는 가장 믿을 만합니다."
     },
     {
       "icon": "🛡️",
       "symbol": "ADA",
       "market": "KRW-ADA",
-      "reason": "73.3% 위치와 안정적 gap는 좋지만 속도와 대금이 상위 5개보다 약합니다."
+      "reason": "86.7% 위치와 깔끔한 gap는 좋지만 속도와 내러티브 강도는 SUI·NEAR보다 약합니다."
     },
     {
-      "icon": "⛽",
-      "symbol": "PUMP",
-      "market": "KRW-PUMP",
-      "reason": "72.7% 위치는 좋지만 7월 unlock 일정 확인이 필요해 보조 관찰이 낫습니다."
+      "icon": "🐕",
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "143.5억원 대금·75.0% 위치의 고유동성 continuation이지만, 공격성보다 유동성 앵커 성격이 강합니다."
+    },
+    {
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "77.0% 위치와 -1.45% gap로 깨끗하지만 상위 5개보다 거래대금과 신선도가 살짝 약합니다."
+    },
+    {
+      "icon": "🔐",
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "633.7억원 대금·+28.67%라도 -15.7% gap는 exhausted blowoff라 재추격 금지입니다."
     }
   ],
   "cycle_improvements": [
-    "15:58 KST 기준 Alternative.me 실시간 공포탐욕 21 재확인으로 심리 수치를 최신화했습니다.",
-    "WLD unlock-rate 둔화·StablecoinX Harness 출시·XPL 7월 25일 unlock 일정을 다시 확인해 selection/risk 메모를 다듬었습니다.",
-    "update_dashboard.py에 data staleness_warning 블록을 추가해 스냅샷 노후화가 대시보드에 바로 보이도록 개선했습니다."
+    "21:59 KST 기준 새 Upbit 스냅샷을 직접 재생성해 stale-data 경고 상태를 해제했습니다.",
+    "RE 무효화 붕괴와 WLD mid-range 후퇴를 반영해, ONDO·SUI 승격 중심의 강제 로테이션 규율을 실제 포트폴리오에 적용했습니다.",
+    "update_dashboard.py에 paper_deployment_pct / cash_ratio_pct 표시를 추가해 공격 투입률을 대시보드에서 바로 보이도록 개선했습니다."
   ],
   "rejected_candidates": [
     {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "90.0% 구조는 좋지만 7월 25일 전후 unlock 오버행이 있어 preferred 승격은 보류합니다."
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "reason": "-5.30%·35.5% 위치·-9.82% gap로 기존 breakout 코어 가정이 깨져 강제 퇴출했습니다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "고유동성 continuation이지만 기존 5종의 알트 공격성·서사 분산이 더 낫습니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "대금은 크지만 52.8% 위치까지 식어 cleaner 90%대 continuation들보다 우선순위가 밀렸습니다."
     },
     {
-      "symbol": "ID",
-      "market": "KRW-ID",
-      "reason": "93.9% 위치는 매우 좋지만 체급이 작고 새 스냅샷 부재라 과감한 승격 근거가 부족합니다."
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "거래대금 1위급이지만 -15.7% gap라 전형적인 exhausted blowoff입니다."
     },
     {
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "883.2억원 대금과 +66.87%에도 -21.02% gap는 전형적인 exhausted blowoff입니다."
+      "symbol": "MIRA",
+      "market": "KRW-MIRA",
+      "reason": "327.4억원 대금에도 23.5% 위치·-17.61% gap라 대금 함정에 가깝습니다."
     },
     {
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "460.5억원 대금·+29.36%라도 43.4% 위치·-23.37% gap라 추격 금지입니다."
+      "symbol": "BLEND",
+      "market": "KRW-BLEND",
+      "reason": "+11.34%라도 29.9% 위치·-19.26% gap라 추격 불가입니다."
     },
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "대금 1위지만 49.7% 위치·-9.58% gap라 대금 함정에 더 가깝습니다."
+      "reason": "-10.04%·9.6% 위치로 이번 회차 대표 turnover trap입니다."
     }
   ],
-  "top_line": "**RE·WLD·NEAR·UNI·ENA 85% 공격 바스켓은 유지합니다. 새 업비트 스냅샷이 아직 없어 교체 신호 신뢰도는 낮지만, 현 시점엔 기존 상단 5종을 건드리는 것보다 데이터 신선도 경고를 키우는 편이 낫습니다.**",
-  "ui_version": "v23.3",
+  "top_line": "**RE·WLD는 빼고 ONDO·NEAR·SUI·ENA·UNI로 85% 공격 바스켓을 재편합니다. 메이저 평균 77.8%로 판은 괜찮지만 fresh breakout은 1개뿐이라, 오늘은 과열 급등주보다 90~100% 상단 유지형 5종이 더 낫습니다.**",
+  "ui_version": "v23.4",
   "risk_plan": {
-    "portfolio_cash_target": "기본 15% 유지. 새 스냅샷 기준 메이저 평균 위치가 60 아래로 밀리거나 preferred 2개 이상이 무효화되면 75~80%로 즉시 축소 검토. fresh 확장이 4개 이상이면 90% 재상향 검토.",
-    "review_trigger": "ENA 112 / NEAR 2885 / RE 1065 / UNI 4720 / WLD 584 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 15% 유지. 메이저 평균 위치가 70 아래로 밀리거나 preferred 2개 이상이 무효화되면 75~80%로 즉시 축소 검토. fresh breakout이 3개 이상으로 다시 늘면 90% 재상향 검토.",
+    "review_trigger": "ONDO 503 / NEAR 3025 / SUI 1125 / ENA 115 / UNI 4880 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
       "현금 0%는 금지",
       "day-high gap가 -15% 이하인 급등주는 late chase 금지",
-      "동월 대형 unlock 오버행이 있는 종목은 70% 이하 구조면 preferred 승격 금지",
-      "스냅샷이 9시간 이상 오래됐으면 신규 교체보다 유지/리스크 관리 우선"
+      "동월 대형 unlock 오버행이 있는 종목은 cleaner 대안이 있으면 watchlist 우선",
+      "기존 코어가 무효화 또는 55% 미만으로 훼손되면 회차 내 강제 교체 검토"
     ],
     "exit_rules": [
-      "ENA 112 / NEAR 2885 / RE 1065 / UNI 4720 / WLD 584 하회 시 즉시 재평가",
+      "ONDO 503 / NEAR 3025 / SUI 1125 / ENA 115 / UNI 4880 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
       "현금 0%는 금지",
       "day-high gap가 -15% 이하인 급등주는 late chase 금지",
-      "동월 대형 unlock 오버행이 있는 종목은 70% 이하 구조면 preferred 승격 금지",
-      "스냅샷이 9시간 이상 오래됐으면 신규 교체보다 유지/리스크 관리 우선"
+      "동월 대형 unlock 오버행이 있는 종목은 cleaner 대안이 있으면 watchlist 우선",
+      "기존 코어가 무효화 또는 55% 미만으로 훼손되면 회차 내 강제 교체 검토"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 최신 확인 기준 24h 대금 합계는 약 1,047.9억원입니다.",
-    "momentum_discipline": "RE·WLD·NEAR·UNI·ENA 유지 / stale-data 구간 불필요한 churn 억제",
-    "diversification": "institutional 1 + quality breakout 1 + top momentum 1 + DeFi breakout 1 + attention continuation 1",
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 411.2억원입니다.",
+    "momentum_discipline": "RE·WLD 퇴출 / ONDO·SUI 승격 / ENA·NEAR·UNI 유지",
+    "diversification": "RWA 1 + quality L1 1 + beta L1 1 + stablecoin 1 + DeFi 1",
     "cash_usage": "85%",
-    "rotation_speed": "medium-slow"
+    "rotation_speed": "medium"
   },
   "signal_balance": {
-    "summary": "majors all green / major avg 71.6 / fresh 2 / fear&greed 21 / stale snapshot -> no forced swap"
+    "summary": "majors all green / major avg 77.8 / fresh 1 / conviction 9 / fear&greed 21 -> rotate out broken leaders"
   },
   "rotation_map": [
+    {
+      "bucket": "RE → ONDO",
+      "symbols": [
+        "RE",
+        "ONDO"
+      ],
+      "note": "RE는 무효화 붕괴라 퇴출, ONDO는 93.3% fresh breakout으로 승격합니다."
+    },
+    {
+      "bucket": "WLD → SUI",
+      "symbols": [
+        "WLD",
+        "SUI"
+      ],
+      "note": "WLD는 52.8% mid-range로 식어, 95.2% 상단 유지의 SUI로 교체합니다."
+    },
     {
       "bucket": "ENA(유지) → ENA(유지)",
       "symbols": [
         "ENA(유지)",
         "ENA(유지)"
       ],
-      "note": "StablecoinX Harness 채택 서사가 유지돼 방어보다 continuation 보유가 낫습니다."
+      "note": "StablecoinX Harness 서사와 100% 고가권 마감이 유지됩니다."
     },
     {
       "bucket": "NEAR(유지) → NEAR(유지)",
@@ -647,15 +667,7 @@
         "NEAR(유지)",
         "NEAR(유지)"
       ],
-      "note": "92.5% 위치와 -0.54% gap의 가장 깔끔한 대형 알트 breakout입니다."
-    },
-    {
-      "bucket": "RE(유지) → RE(유지)",
-      "symbols": [
-        "RE(유지)",
-        "RE(유지)"
-      ],
-      "note": "259.1억원 대금·99.1% 위치의 최강 breakout 코어라 유지가 맞습니다."
+      "note": "대형 L1 품질 코어 중 가장 읽기 쉬운 93.5% continuation입니다."
     },
     {
       "bucket": "UNI(유지) → UNI(유지)",
@@ -663,81 +675,79 @@
         "UNI(유지)",
         "UNI(유지)"
       ],
-      "note": "DeFi 슬롯에서 가장 깨끗한 92.8% fresh breakout이라 유지합니다."
-    },
-    {
-      "bucket": "WLD(유지) → WLD(유지)",
-      "symbols": [
-        "WLD(유지)",
-        "WLD(유지)"
-      ],
-      "note": "대금 앵커 역할과 unlock-rate 둔화 기대가 동시에 남아 있어 유지합니다."
+      "note": "DeFi 슬롯에서 가장 깔끔한 100% 종가형 breakout입니다."
     }
   ],
   "self_evaluation": {
-    "score": 8.9,
-    "summary": "이번 회차는 새 스냅샷이 없는 한계를 숨기지 않고, 괜한 churn 대신 기존 상단 5종 유지와 데이터 신선도 경고 강화로 대응한 점이 좋았습니다. 다만 실시간 판 재확인이 비어 있어 공격적 교체 판단까지는 못 갔습니다."
+    "score": 9.1,
+    "summary": "이번 회차는 stale hold를 고집하지 않고 새 스냅샷을 다시 만든 뒤, 실제로 깨진 RE와 식은 WLD를 정리한 점이 좋았습니다. 다만 XPL을 unlock 리스크 때문에 한 번 더 보수적으로 본 만큼, 다음 회차엔 그 판단의 타당성을 바로 검증해야 합니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 12.27,
+    "preferred_avg_change_pct_24h": 3.01,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 104763891261.23015,
-    "leader_turnover_share_pct": 48.68,
-    "leader_symbol": "WLD",
-    "leader_concentration_warning": "high"
+    "preferred_turnover_total_krw_24h": 41116304993.52645,
+    "leader_turnover_share_pct": 37.01,
+    "leader_symbol": "ONDO",
+    "leader_concentration_warning": "moderate"
   },
-  "snapshot_updated_at_utc": "2026-07-02T18:59:30.436290+00:00",
-  "snapshot_age_hours": 11.97,
+  "snapshot_updated_at_utc": "2026-07-03T12:59:17.600554+00:00",
+  "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 2,
-    "top15_alt_low_range_count_delta": 0,
+    "top15_alt_positive_count_delta": -1,
+    "top15_alt_low_range_count_delta": 2,
     "weak_breadth_warning_changed": false,
-    "entered_top5_turnover": [],
-    "exited_top5_turnover": []
+    "entered_top5_turnover": [
+      "ZKP",
+      "MIRA"
+    ],
+    "exited_top5_turnover": [
+      "TAIKO",
+      "AERGO"
+    ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -17.55,
+    "major_avg_range_position_pct_delta": 6.28,
     "major_positive_count_delta": 0,
     "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 2,
-    "high_conviction_count": 6,
-    "quality_survivor_count": 12,
-    "relative_strength_reclaim_count": 13,
+    "fresh_breakout_count": 1,
+    "high_conviction_count": 9,
+    "quality_survivor_count": 13,
+    "relative_strength_reclaim_count": 15,
     "breakout_cluster_active": true,
-    "summary": "fresh 2 / conviction 6 / survivor 12 / reclaim 13"
+    "summary": "fresh 1 / conviction 9 / survivor 13 / reclaim 15"
   },
   "scenario_view": {
-    "regime": "btc_stabilizing_alt_continuation",
-    "regime_label_ko": "메이저 안정·알트 지속",
-    "regime_icon": "🟢",
-    "btc_range_position_pct": 77.9,
-    "major_avg_range_position_pct": 71.55,
-    "preferred_avg_change_pct_24h": 12.27,
-    "preferred_high_range_count": 4,
-    "summary": "BTC는 고위치 회복, 메이저 평균도 붕괴는 아님. 알트는 고위치 지속형 위주 공격이 유리한 구간."
+    "regime": "mixed_selective_rotation",
+    "regime_label_ko": "혼조·빠른 순환 대응",
+    "regime_icon": "🟡",
+    "btc_range_position_pct": 80.1,
+    "major_avg_range_position_pct": 77.83,
+    "preferred_avg_change_pct_24h": 3.01,
+    "preferred_high_range_count": 5,
+    "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "regime_shift_alert": {
     "active": false,
-    "major_avg_delta_pct": -17.55,
-    "top15_positive_count": 11,
-    "top15_low_range_count": 5,
+    "major_avg_delta_pct": 6.28,
+    "top15_positive_count": 10,
+    "top15_low_range_count": 7,
     "summary": "급격한 레짐 붕괴 경고는 아직 없음"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -17.55,
-    "fresh_breakout_count": 2,
+    "major_avg_delta_pct": 6.28,
+    "fresh_breakout_count": 1,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 87.16,
-    "avg_day_high_gap_pct": -1.32,
-    "above_80_range_count": 4,
-    "summary": "고위치(80%+) 후보 4개 / 평균 위치 87.16%"
+    "avg_range_position_pct": 96.4,
+    "avg_day_high_gap_pct": -0.15,
+    "above_80_range_count": 5,
+    "summary": "고위치(80%+) 후보 5개 / 평균 위치 96.4%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -748,43 +758,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🏦",
-      "symbol": "ENA",
-      "last_price_krw": 116.0,
-      "threshold_krw": 112.0,
-      "distance_to_invalidation_pct": 3.57,
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "last_price_krw": 509.0,
+      "threshold_krw": 503.0,
+      "distance_to_invalidation_pct": 1.19,
       "status": "near"
     },
     {
       "icon": "🌉",
       "symbol": "NEAR",
-      "last_price_krw": 2939.0,
-      "threshold_krw": 2885.0,
-      "distance_to_invalidation_pct": 1.87,
+      "last_price_krw": 3073.0,
+      "threshold_krw": 3025.0,
+      "distance_to_invalidation_pct": 1.59,
       "status": "near"
     },
     {
-      "icon": "🧲",
-      "symbol": "RE",
-      "last_price_krw": 1105.0,
-      "threshold_krw": 1065.0,
-      "distance_to_invalidation_pct": 3.76,
+      "icon": "🌊",
+      "symbol": "SUI",
+      "last_price_krw": 1142.0,
+      "threshold_krw": 1125.0,
+      "distance_to_invalidation_pct": 1.51,
+      "status": "near"
+    },
+    {
+      "icon": "🏦",
+      "symbol": "ENA",
+      "last_price_krw": 118.0,
+      "threshold_krw": 115.0,
+      "distance_to_invalidation_pct": 2.61,
       "status": "near"
     },
     {
       "icon": "🦄",
       "symbol": "UNI",
-      "last_price_krw": 4906.0,
-      "threshold_krw": 4720.0,
-      "distance_to_invalidation_pct": 3.94,
-      "status": "near"
-    },
-    {
-      "icon": "🌍",
-      "symbol": "WLD",
-      "last_price_krw": 593.0,
-      "threshold_krw": 584.0,
-      "distance_to_invalidation_pct": 1.54,
+      "last_price_krw": 4940.0,
+      "threshold_krw": 4880.0,
+      "distance_to_invalidation_pct": 1.23,
       "status": "near"
     }
   ],
@@ -797,8 +807,8 @@
   "rotation_pressure": {
     "active": true,
     "near_or_broken_count": 5,
-    "leader_concentration_warning": "high",
-    "avg_range_position_pct": 87.16,
+    "leader_concentration_warning": "moderate",
+    "avg_range_position_pct": 96.4,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -807,6 +817,78 @@
     "red_position_count": 0
   },
   "recent_rotation_log_24h": [
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "ROTATE",
+      "price_krw": 1963571.02231468,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "새 Upbit 스냅샷 기준 RE 무효화·WLD mid-range 후퇴가 확인돼 ONDO·SUI 중심 85% 공격 바스켓으로 재편"
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "SUI",
+      "action": "BUY",
+      "price_krw": 1142.0,
+      "amount_delta": 292.300414880469,
+      "cash_delta_krw": -333807.0737934956,
+      "reason": "76.1억원 대금·95.2% 위치·-0.17% gap로, RE처럼 깨진 고베타보다 훨씬 깨끗한 대형 베타 continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 509.0,
+      "amount_delta": 655.8095752328007,
+      "cash_delta_krw": -333807.0737934956,
+      "reason": "152.2억원 대금·93.3% 위치·-0.20% gap로, 이번 회차 fresh breakout이 사실상 ONDO 한 종에 집중된 가장 읽기 쉬운 기관서사형 코어입니다."
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "UNI",
+      "action": "SELL",
+      "price_krw": 4940.0,
+      "amount_delta": -0.06306542316956865,
+      "cash_delta_krw": 311.5431904576791,
+      "reason": "21:58 가격 기준 85% 동일비중 리셋을 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "NEAR",
+      "action": "SELL",
+      "price_krw": 3073.0,
+      "amount_delta": -4.276215772120404,
+      "cash_delta_krw": 13140.811067726003,
+      "reason": "21:58 가격 기준 85% 동일비중 리셋을 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "ENA",
+      "action": "SELL",
+      "price_krw": 118.0,
+      "amount_delta": -31.635244712140775,
+      "cash_delta_krw": 3732.9588760326114,
+      "reason": "21:58 가격 기준 85% 동일비중 리셋을 위해 소폭 트림"
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 638.0,
+      "amount_delta": -559.5598906688952,
+      "cash_delta_krw": 356999.2102467551,
+      "reason": "533.1억원 대금에도 52.8% 위치까지 식어 SUI로 교체"
+    },
+    {
+      "timestamp": "2026-07-03T21:58+09:00",
+      "symbol": "RE",
+      "action": "SELL",
+      "price_krw": 983.0,
+      "amount_delta": -300.28870150828493,
+      "cash_delta_krw": 295183.7935826441,
+      "reason": "-5.30%·35.5% 위치·-9.82% gap로 breakout 코어 가정이 깨져 ONDO로 교체"
+    },
     {
       "timestamp": "2026-07-03T15:58+09:00",
       "symbol": "PORTFOLIO",
@@ -824,144 +906,72 @@
       "amount_delta": 0,
       "cash_delta_krw": 0,
       "reason": "실시간 공포탐욕 21과 WLD/ENA/XPL 외부 재료를 재확인했지만, 현재 ENA·NEAR·RE·UNI·WLD 5종이 여전히 가장 읽기 쉬운 상단 구조라 85% 공격 바스켓을 그대로 유지"
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "WLD",
-      "action": "BUY",
-      "price_krw": 593.0,
-      "amount_delta": 559.5598906688952,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "510.0억원 대금·+8.01%·84.7% 위치·-1.50% gap로, 이번 바스켓의 대금 앵커이자 attention continuation 코어입니다."
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "UNI",
-      "action": "BUY",
-      "price_krw": 4906.0,
-      "amount_delta": 67.63534756760188,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "56.4억원 대금·+15.71%·92.8% 위치·-1.07% gap로, 둔한 ONDO 대신 공격성을 올릴 수 있는 fresh DeFi 리더입니다."
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "RE",
-      "action": "BUY",
-      "price_krw": 1105.0,
-      "amount_delta": 300.28870150828493,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "259.1억원 대금·+24.16%·99.1% 위치·-0.18% gap로 이번 회차 최강 breakout 코어입니다."
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "NEAR",
-      "action": "BUY",
-      "price_krw": 2939.0,
-      "amount_delta": 112.9020126460207,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "98.4억원 대금·+7.03%·92.5% 위치·-0.54% gap로 메이저 둔화 속에서도 가장 깔끔한 대형 알트 fresh breakout입니다."
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "ENA",
-      "action": "BUY",
-      "price_krw": 116.0,
-      "amount_delta": 2860.5087514366796,
-      "cash_delta_krw": -331819.01516665483,
-      "reason": "123.8억원 대금·+6.42%·66.7% 위치로 속도는 조금 식었지만 ENA treasury/스테이블코인 서사가 아직 살아 있는 대형 continuation 축입니다."
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "WLD",
-      "action": "SELL",
-      "price_krw": 593.0,
-      "amount_delta": -562.8399701826162,
-      "cash_delta_krw": 333764.1023182914,
-      "reason": "03:58 가격 기준 85% 동일비중 재편. ONDO를 UNI로 교체하고 나머지 4개 코어는 새 가격으로 균등 리셋"
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "ONDO",
-      "action": "SELL",
-      "price_krw": 501.0,
-      "amount_delta": -636.1090787270988,
-      "cash_delta_krw": 318690.6484422765,
-      "reason": "ONDO는 50.0% 위치까지 둔해져, 92.8% fresh breakout UNI로 교체"
-    },
-    {
-      "timestamp": "2026-07-03T03:58:00+09:00",
-      "symbol": "RE",
-      "action": "SELL",
-      "price_krw": 1105.0,
-      "amount_delta": -335.59552852719986,
-      "cash_delta_krw": 370833.0590225558,
-      "reason": "03:58 가격 기준 85% 동일비중 재편. ONDO를 UNI로 교체하고 나머지 4개 코어는 새 가격으로 균등 리셋"
     }
   ],
   "staleness_warning": {
-    "active": true,
-    "snapshot_age_hours": 11.97,
-    "summary": "스냅샷 기준 11.97시간 경과로, 구조 판단은 유효하지만 실시간 추격/교체 판단은 보수적으로 봐야 합니다."
+    "active": false,
+    "snapshot_age_hours": 0,
+    "summary": "데이터 신선도 경고 없음"
   },
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🧲 **RE** — 1,105원 / **+24.16%** / 259.1억원 / 위치 **99.1%** / top momentum breakout core",
-      "- 🌍 **WLD** — 593원 / **+8.01%** / 510.0억원 / 위치 **84.7%** / attention mega-continuation",
-      "- 🌉 **NEAR** — 2,939원 / **+7.03%** / 98.4억원 / 위치 **92.5%** / quality large-cap breakout",
-      "- 🦄 **UNI** — 4,906원 / **+15.71%** / 56.4억원 / 위치 **92.8%** / fresh DeFi breakout",
-      "- 🏦 **ENA** — 116원 / **+6.42%** / 123.8억원 / 위치 **66.7%** / institutional adoption continuation"
+      "- 🌐 **ONDO** — 509원 / **+2.62%** / 152.2억원 / 위치 **93.3%** / institutional RWA breakout",
+      "- 🌉 **NEAR** — 3,073원 / **+4.70%** / 76.2억원 / 위치 **93.5%** / quality L1 continuation",
+      "- 🌊 **SUI** — 1,142원 / **+2.98%** / 76.1억원 / 위치 **95.2%** / large-cap beta continuation",
+      "- 🏦 **ENA** — 118원 / **+1.72%** / 63.1억원 / 위치 **100.0%** / stablecoin adoption continuation",
+      "- 🦄 **UNI** — 4,940원 / **+3.00%** / 43.6억원 / 위치 **100.0%** / DeFi closing breakout"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **77.9%** / ETH **82.0%** / XRP **60.4%** / SOL **65.9%**",
-      "- 메이저 평균 **71.6% 위치**, **양전환 4개 / 음전환 0개**",
-      "- fresh breakout **2개**, quality survivor **12개**, weak breadth **false**"
+      "- BTC **80.1%** / XRP **80.0%** / ETH **75.0%** / SOL **76.2%**",
+      "- 메이저 평균 **77.8% 위치**, **양전환 4개 / 음전환 0개**",
+      "- fresh breakout **1개(ONDO)**, high conviction **9개**, weak breadth **false**"
     ],
     "공격 포트폴리오 전략": [
       "- 실투입: **85%**, 5종 동일비중",
-      "- 타깃: 각 약 **331,819원**",
-      "- 현금: 약 **292,781원 (15.0%)**",
-      "- 핵심 논리: **hold 5 cores / stale-data aware / no forced churn**"
+      "- 타깃: 각 약 **333,807원**",
+      "- 현금: 약 **294,536원 (15.0%)**",
+      "- 핵심 논리: **broken leaders out / clean 90~100% continuations in**"
     ],
     "가상 매매 실행 내용": [
-      "- ➖ **교체 없음**",
-      "- ✅ **유지 5:** ENA / NEAR / RE / UNI / WLD",
-      "- 🧠 **판단 근거:** 공포탐욕 21 유지, WLD unlock-rate 둔화·ENA 채택 뉴스·XPL unlock 일정까지 재확인했지만, **새 업비트 스냅샷이 없어서 기존 5종보다 확실히 낫다고 말할 새 후보가 없었습니다.**",
-      "- 마지막 액션: **HOLD_85_ENA_NEAR_RE_UNI_WLD_STALE_AWARE**"
+      "- ❌ **퇴출:** RE / WLD",
+      "- ✅ **신규 편입:** ONDO / SUI",
+      "- 🔧 **리밸런스 유지:** ENA / NEAR / UNI",
+      "- 마지막 액션: **ROTATE_85_RE_WLD_OUT_ONDO_SUI_IN**"
     ],
     "현재 포트폴리오 현황": [
-      "- ENA **2860.5088개 @ 116원**",
-      "- NEAR **112.9020개 @ 2,939원**",
-      "- RE **300.2887개 @ 1,105원**",
-      "- UNI **67.6353개 @ 4,906원**",
-      "- WLD **559.5599개 @ 593원**",
-      "- 현금 **292,781원** / 총평가 **1,951,877원**"
+      "- ONDO **655.8096개 @ 509원**",
+      "- NEAR **108.6258개 @ 3,073원**",
+      "- SUI **292.3004개 @ 1,142원**",
+      "- ENA **2828.8735개 @ 118원**",
+      "- UNI **67.5723개 @ 4,940원**",
+      "- 현금 **294,536원** / 총평가 **1,963,571원**"
     ],
     "자기 평가": [
-      "- 장점: **데이터가 덜 신선한 회차라는 점을 숨기지 않고, 기존 강한 5종 유지와 리스크 메모 강화로 대응한 것**은 좋았습니다.",
-      "- 아쉬움: **새 스냅샷 부재 때문에 ID·DOGE·XPL 같은 대안 검증을 공격적으로 밀어붙이지 못했습니다.**",
-      "- 점수: **8.9 / 10**"
+      "- 장점: **stale-data 핑계를 끝내고 새 업비트 스냅샷으로 실제 강제 교체를 실행한 점**이 좋았습니다.",
+      "- 아쉬움: **XPL은 차트가 너무 좋아 보여도 unlock 오버행 때문에 한 번 더 보수적으로 봤습니다.**",
+      "- 점수: **9.1 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **Alternative.me 실시간 공포탐욕 21 재확인**으로 심리 수치를 최신화했습니다.",
-      "- ✅ **WLD unlock-rate 둔화 / StablecoinX Harness 출시 / XPL 7월 25일 unlock 일정**을 다시 확인해 selection·risk 문구를 다듬었습니다.",
-      "- ✅ **대시보드 개선:** `update_dashboard.py`에 **staleness_warning** 블록을 추가해 **데이터 신선도 경고가 바로 보이도록** 바꿨습니다."
+      "- ✅ **새 Upbit 스냅샷 재생성**으로 stale-data 모드를 해제했습니다.",
+      "- ✅ **RE 무효화 붕괴 / WLD mid-range 후퇴**를 실제 포트폴리오 교체로 연결했습니다.",
+      "- ✅ **대시보드 개선:** `paper_deployment_pct`, `cash_ratio_pct`를 추가해 **공격 투입률이 바로 보이게** 바꿨습니다."
     ],
     "판단": [
-      "- **aggressive-85-hold-5-stale-data-aware**"
+      "- **aggressive-85-rotate-into-clean-continuations**"
     ],
     "신뢰도": [
-      "- **medium**"
+      "- **medium-high**"
     ],
     "추천 행동": [
-      "- **ENA 112 / NEAR 2885 / RE 1065 / UNI 4720 / WLD 584** 하회 시 즉시 재평가",
-      "- **ID / DOGE / XPL / DEEP**은 보조 승격 후보로 관찰",
-      "- **BIRB / BREV / AERGO / SLX**는 대금이 커도 **지금은 추격 금지**"
+      "- **ONDO 503 / NEAR 3025 / SUI 1125 / ENA 115 / UNI 4880** 하회 시 즉시 재평가",
+      "- **XPL / PENGU / WLD / XLM**은 보조 승격 후보로 관찰",
+      "- **ZKP / MIRA / BLEND / SLX**는 대금이 커도 **지금은 추격 금지**"
     ],
     "리스크 메모": [
-      "- **메이저 평균 71.6%**라 아직 괜찮지만, **이번 회차 핵심 리스크는 데이터 신선도 부족**입니다.",
-      "- **WLD는 강하지만** unlock-rate 둔화 기대가 일부 선반영됐을 수 있어 584원 이탈을 주의해야 합니다.",
-      "- **XPL은 차트가 좋아도** 7월 25일 전후 unlock 오버행 때문에 지금은 watchlist가 더 안전합니다.",
-      "- **공포탐욕 21**은 여전히 Extreme Fear라, 메이저가 다시 꺾이면 알트 상단 유지도 빠르게 약해질 수 있습니다."
+      "- **fresh breakout은 1개뿐**이라, 85% 공격이어도 과열 late chase는 금지입니다.",
+      "- **RE는 이미 깨졌고**, **WLD도 mid-range**라 같은 이름 재매수는 성급합니다.",
+      "- **XPL은 최상급 차트지만** 7월 25일 전후 unlock 오버행이 있어 cleaner 대안이 있는 지금은 watchlist가 낫습니다.",
+      "- **공포탐욕 21**은 여전히 Extreme Fear라, 메이저가 다시 꺾이면 이 바스켓도 바로 줄여야 합니다."
     ]
   }
 }

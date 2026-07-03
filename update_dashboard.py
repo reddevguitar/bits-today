@@ -435,6 +435,8 @@ status = {
     'last_valuation_krw': fmt_krw(portfolio.get('last_valuation_krw', 0)),
     'initial_cash_krw': fmt_krw(portfolio.get('initial_cash_krw', 0)),
     'return_pct': round((((portfolio.get('last_valuation_krw', 0) or 0) - (portfolio.get('initial_cash_krw', 0) or 0)) / (portfolio.get('initial_cash_krw', 1) or 1)) * 100, 2) if portfolio.get('initial_cash_krw', 0) else 0,
+    'paper_deployment_pct': round((((portfolio.get('last_valuation_krw', 0) or 0) - (portfolio.get('cash_krw', 0) or 0)) / (portfolio.get('last_valuation_krw', 1) or 1)) * 100, 2) if portfolio.get('last_valuation_krw', 0) else 0,
+    'cash_ratio_pct': round((((portfolio.get('cash_krw', 0) or 0) / (portfolio.get('last_valuation_krw', 1) or 1)) * 100), 2) if portfolio.get('last_valuation_krw', 0) else 0,
     'last_action': portfolio.get('last_action', '-'),
     'trade_count': portfolio.get('trade_count', 0),
     'last_updated': portfolio.get('last_updated', '-'),
