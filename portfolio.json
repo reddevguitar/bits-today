@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 190342.83443702318,
-  "realized_pnl_krw": -8120800.593647677,
-  "last_valuation_krw": 1903428.3443702317,
-  "last_action": "RERISK_90_MIRA_XPL_SPX_MEGA_HBAR_OUT_DOGE_ONDO_XLM_WLD_ETHFI_IN",
-  "last_updated": "2026-07-05T03:58+09:00",
-  "trade_count": 1540,
+  "cash_krw": 550039.4315794802,
+  "realized_pnl_krw": -8190764.16608631,
+  "last_valuation_krw": 1833464.7719315991,
+  "last_action": "RESET_70_WEAK_BREADTH_DOGE_ONDO_XLM_WLD_ETHFI_OUT_ONG_MEGA_RE_ID_ETHFI_IN",
+  "last_updated": "2026-07-05T09:58+09:00",
+  "trade_count": 1550,
   "positions": {
-    "DOGE": {
-      "market": "KRW-DOGE",
-      "amount": 2855.1425165553474,
-      "avg_buy_price_krw": 120.0,
-      "last_price_krw": 120.0,
-      "value_krw": 342617.1019866417,
-      "thesis": "142.6억원 대금·100.0% 위치·0.00% gap으로 이번 새벽 유일한 fresh breakout 코어입니다.",
-      "strategy": "hold while 118원 above and 90%+ breakout structure persists",
-      "role": "fresh breakout anchor",
-      "risk_limit_pct": 1.7,
-      "profit_take_pct": 5.8
+    "ONG": {
+      "market": "KRW-ONG",
+      "amount": 3107.567410053558,
+      "avg_buy_price_krw": 82.6,
+      "last_price_krw": 82.6,
+      "value_krw": 256685.06807042388,
+      "thesis": "93.7억원 대금·92.0% 위치·-1.31% gap으로, 현재 약한 장에서 드문 fresh breakout 실전 코어입니다.",
+      "strategy": "hold while 80.5원 above and 85%+ breakout structure persists",
+      "role": "fresh breakout core",
+      "risk_limit_pct": 2.5,
+      "profit_take_pct": 7.5
     },
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 658.8790422820033,
-      "avg_buy_price_krw": 520.0,
-      "last_price_krw": 520.0,
-      "value_krw": 342617.1019866417,
-      "thesis": "130.2억원 대금·88.0% 위치·-0.57% gap으로, 메이저 반등 구간에서 가장 읽기 쉬운 RWA continuation입니다.",
-      "strategy": "hold while 512원 above and 80%+ continuation persists",
-      "role": "rwa continuation core",
-      "risk_limit_pct": 1.5,
-      "profit_take_pct": 5.5
-    },
-    "XLM": {
-      "market": "KRW-XLM",
-      "amount": 1074.0348024659615,
-      "avg_buy_price_krw": 319.0,
-      "last_price_krw": 319.0,
-      "value_krw": 342617.1019866417,
-      "thesis": "359.4억원 대금·70.0% 위치·-1.85% gap으로, 전 회차의 broken survivor에서 다시 liquid continuation으로 복귀했습니다.",
-      "strategy": "hold while 314원 above and 65%+ continuation persists",
-      "role": "mega-liquidity continuation",
+    "MEGA": {
+      "market": "KRW-MEGA",
+      "amount": 3196.5761901671717,
+      "avg_buy_price_krw": 80.3,
+      "last_price_krw": 80.3,
+      "value_krw": 256685.06807042388,
+      "thesis": "181.0억원 대금·75.0% 위치·-0.86% gap으로, 약세 전환장에서도 버틴 최상위 유동성 survivor입니다.",
+      "strategy": "hold while 79.0원 above and 70%+ continuation persists",
+      "role": "mega-turnover survivor",
       "risk_limit_pct": 1.6,
-      "profit_take_pct": 5.0
+      "profit_take_pct": 5.2
     },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 519.9045553666793,
-      "avg_buy_price_krw": 659.0,
-      "last_price_krw": 659.0,
-      "value_krw": 342617.1019866417,
-      "thesis": "413.5억원 대금·61.7% 위치·-2.66% gap에 7월 24일 unlock rate 43% 감소 이슈까지 겹친 attention reclaim 슬롯입니다.",
-      "strategy": "hold while 648원 above and 60%+ reclaim structure persists",
-      "role": "headline reclaim core",
-      "risk_limit_pct": 1.7,
-      "profit_take_pct": 5.4
+    "RE": {
+      "market": "KRW-RE",
+      "amount": 265.4447446436648,
+      "avg_buy_price_krw": 967.0,
+      "last_price_krw": 967.0,
+      "value_krw": 256685.06807042388,
+      "thesis": "148.4억원 대금·67.9% 위치·-0.92% gap으로, 약세 메이저 대비 읽기 쉬운 liquid continuation입니다.",
+      "strategy": "hold while 958원 above and 60%+ continuation persists",
+      "role": "liquid continuation anchor",
+      "risk_limit_pct": 1.4,
+      "profit_take_pct": 4.8
+    },
+    "ID": {
+      "market": "KRW-ID",
+      "amount": 4684.0340888763485,
+      "avg_buy_price_krw": 54.8,
+      "last_price_krw": 54.8,
+      "value_krw": 256685.06807042388,
+      "thesis": "60.4억원 대금·73.3% 위치·-1.44% gap으로, breadth 붕괴장에서도 살아남은 attention continuation입니다.",
+      "strategy": "hold while 53.8원 above and 68%+ continuation persists",
+      "role": "attention continuation",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.8
     },
     "ETHFI": {
       "market": "KRW-ETHFI",
-      "amount": 517.5484924269513,
-      "avg_buy_price_krw": 662.0,
-      "last_price_krw": 662.0,
-      "value_krw": 342617.1019866417,
-      "thesis": "47.9억원 대금·96.4% 위치·-0.60% gap으로, 대형주 사이에서 가장 선명한 고베타 fresh leader입니다.",
-      "strategy": "hold while 646원 above and 90%+ breakout structure persists",
-      "role": "high-beta fresh leader",
-      "risk_limit_pct": 2.4,
-      "profit_take_pct": 7.5
+      "amount": 412.014555490247,
+      "avg_buy_price_krw": 623.0,
+      "last_price_krw": 623.0,
+      "value_krw": 256685.0680704239,
+      "thesis": "60.4억원 대금·75.0% 위치·-0.48% gap으로, 약세 전환 속에서도 살아남은 고베타 survivor입니다.",
+      "strategy": "hold while 618원 above and 70%+ continuation persists",
+      "role": "beta survivor",
+      "risk_limit_pct": 1.7,
+      "profit_take_pct": 5.5
     }
   },
   "watchlist": [
     {
-      "symbol": "HBAR",
-      "market": "KRW-HBAR",
-      "reason": "83.3% 위치와 40.7억원 대금은 좋지만 이번 회차는 ONDO·ETHFI보다 공격성이 한 단계 아래입니다."
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "71.4% 위치와 173.4억원 대금은 좋지만 이 회차는 메이저성 체급 알트라 참고 축으로만 둡니다."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "73.9% 위치와 75.3억원 대금으로 차순위 대형 알트 축이지만 preferred 5종보다 속도가 약합니다."
+      "symbol": "ELSA",
+      "market": "KRW-ELSA",
+      "reason": "71.4% 위치·54.5억원 대금으로 구조는 좋지만 ID·ETHFI보다 주도력이 한 단계 약합니다."
     },
     {
-      "symbol": "SHIB",
-      "market": "KRW-SHIB",
-      "reason": "92.9% 위치는 강하지만 밈 슬롯은 DOGE 하나면 충분합니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "79.2% 위치와 40.5억원 대금의 솔라나계 survivor라 차순위 승격 후보입니다."
     },
     {
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "reason": "83.6% 위치와 구조는 깔끔하지만 25.5억원 대금이라 주력 톱5보다 체급이 작습니다."
+      "symbol": "AWE",
+      "market": "KRW-AWE",
+      "reason": "62.5% 위치와 -0.34% gap은 안정적이지만 공격성은 제한적입니다."
+    },
+    {
+      "symbol": "BONK",
+      "market": "KRW-BONK",
+      "reason": "81.3% 위치는 좋지만 21.0억원 대금으로 톱5 주력보다 체급이 작습니다."
     },
     {
       "symbol": "MIRA",
       "market": "KRW-MIRA",
-      "reason": "659.2억원 초대금은 최고지만 현재 60.8% 위치·-8.96% gap이면 이번엔 대금보다 구조 약화를 우선합니다."
+      "reason": "660.9억원 초대금과 91.8% 위치라도 아직 음수라 weak breadth 구간의 preferred 승격은 보류합니다."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "81.1% 위치와 176.5억원 대금이 좋지만 메이저성 대형 알트라 컨텍스트 비중으로만 봅니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "공식 unlock 완화 이슈는 남지만 현재 -2.34%·11.8% 위치로 구조가 훼손됐습니다."
     },
     {
-      "symbol": "BLAST",
-      "market": "KRW-BLAST",
-      "reason": "+8.43%라도 28.9% 위치·-15.66% gap이면 exhausted blowoff 성격이 강합니다."
-    },
-    {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "518.1억원 대금에도 4.3% 위치·-21.02% gap이면 전형적 turnover trap입니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "340.2억원 대금에도 -0.64%·25.0% 위치로 약세 메이저와 함께 무너졌습니다."
     }
   ],
   "history": [
@@ -13981,6 +13981,96 @@
       "amount_delta": 517.5484924269513,
       "cash_delta_krw": -342617.1019866417,
       "reason": "47.9억원 대금·96.4% 위치·-0.60% gap으로, 대형주 사이에서 가장 선명한 고베타 fresh leader입니다."
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "DOGE",
+      "action": "SELL",
+      "price_krw": 117.0,
+      "amount_delta": -2855.1425165553474,
+      "cash_delta_krw": 334051.6744369756,
+      "reason": "메이저 붕괴와 weak breadth true 전환으로 90% 공격 바스켓을 70% all-positive reset으로 축소 재편"
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 499.0,
+      "amount_delta": -658.8790422820033,
+      "cash_delta_krw": 328780.64209871966,
+      "reason": "메이저 붕괴와 weak breadth true 전환으로 90% 공격 바스켓을 70% all-positive reset으로 축소 재편"
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "XLM",
+      "action": "SELL",
+      "price_krw": 309.0,
+      "amount_delta": -1074.0348024659615,
+      "cash_delta_krw": 331876.7539619821,
+      "reason": "메이저 붕괴와 weak breadth true 전환으로 90% 공격 바스켓을 70% all-positive reset으로 축소 재편"
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 627.0,
+      "amount_delta": -519.9045553666793,
+      "cash_delta_krw": 325980.15621490794,
+      "reason": "메이저 붕괴와 weak breadth true 전환으로 90% 공격 바스켓을 70% all-positive reset으로 축소 재편"
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "ETHFI",
+      "action": "SELL",
+      "price_krw": 623.0,
+      "amount_delta": -517.5484924269513,
+      "cash_delta_krw": 322432.71078199067,
+      "reason": "메이저 붕괴와 weak breadth true 전환으로 90% 공격 바스켓을 70% all-positive reset으로 축소 재편"
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "ONG",
+      "action": "BUY",
+      "price_krw": 82.6,
+      "amount_delta": 3107.567410053558,
+      "cash_delta_krw": -256685.06807042388,
+      "reason": "93.7억원 대금·92.0% 위치·-1.31% gap으로, 현재 약한 장에서 드문 fresh breakout 실전 코어입니다."
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 80.3,
+      "amount_delta": 3196.5761901671717,
+      "cash_delta_krw": -256685.06807042388,
+      "reason": "181.0억원 대금·75.0% 위치·-0.86% gap으로, 약세 전환장에서도 버틴 최상위 유동성 survivor입니다."
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "RE",
+      "action": "BUY",
+      "price_krw": 967.0,
+      "amount_delta": 265.4447446436648,
+      "cash_delta_krw": -256685.06807042388,
+      "reason": "148.4억원 대금·67.9% 위치·-0.92% gap으로, 약세 메이저 대비 읽기 쉬운 liquid continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 54.8,
+      "amount_delta": 4684.0340888763485,
+      "cash_delta_krw": -256685.06807042388,
+      "reason": "60.4억원 대금·73.3% 위치·-1.44% gap으로, breadth 붕괴장에서도 살아남은 attention continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-05T09:58+09:00",
+      "symbol": "ETHFI",
+      "action": "BUY",
+      "price_krw": 623.0,
+      "amount_delta": 412.014555490247,
+      "cash_delta_krw": -256685.06807042388,
+      "reason": "60.4억원 대금·75.0% 위치·-0.48% gap으로, 약세 전환 속에서도 살아남은 고베타 survivor입니다."
     }
   ]
 }
