@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 550039.4315794802,
-  "realized_pnl_krw": -8190764.16608631,
-  "last_valuation_krw": 1833464.7719315991,
-  "last_action": "RESET_70_WEAK_BREADTH_DOGE_ONDO_XLM_WLD_ETHFI_OUT_ONG_MEGA_RE_ID_ETHFI_IN",
-  "last_updated": "2026-07-05T09:58+09:00",
-  "trade_count": 1550,
+  "cash_krw": 361142.6693302188,
+  "realized_pnl_krw": -8219154.906605397,
+  "last_valuation_krw": 1805713.3466505457,
+  "last_action": "RESET_80_RECOVERY_WEAK_BREADTH_ONG_RE_ID_ETHFI_OUT_KITE_ARX_AI_ZKP_IN_MEGA_TOPUP",
+  "last_updated": "2026-07-05T15:59+09:00",
+  "trade_count": 1559,
   "positions": {
-    "ONG": {
-      "market": "KRW-ONG",
-      "amount": 3107.567410053558,
-      "avg_buy_price_krw": 82.6,
-      "last_price_krw": 82.6,
-      "value_krw": 256685.06807042388,
-      "thesis": "93.7억원 대금·92.0% 위치·-1.31% gap으로, 현재 약한 장에서 드문 fresh breakout 실전 코어입니다.",
-      "strategy": "hold while 80.5원 above and 85%+ breakout structure persists",
-      "role": "fresh breakout core",
-      "risk_limit_pct": 2.5,
-      "profit_take_pct": 7.5
+    "KITE": {
+      "market": "KRW-KITE",
+      "amount": 1587.4403047477324,
+      "avg_buy_price_krw": 182.0,
+      "last_price_krw": 182.0,
+      "value_krw": 288914.1354640873,
+      "thesis": "42.0억원 대금·90.9% 위치·-0.55% gap으로, weak breadth 속에서도 가장 읽기 쉬운 소형 fresh 리더입니다.",
+      "strategy": "hold while 178원 above and 80%+ upper-range structure persists",
+      "role": "mini fresh breakout",
+      "risk_limit_pct": 2.3,
+      "profit_take_pct": 6.8
+    },
+    "ARX": {
+      "market": "KRW-ARX",
+      "amount": 880.8357788539247,
+      "avg_buy_price_krw": 328.0,
+      "last_price_krw": 328.0,
+      "value_krw": 288914.1354640873,
+      "thesis": "73.0억원 대금·65.4% 위치·-2.67% gap으로, AI/신규관심 군 중 구조가 가장 균형적입니다.",
+      "strategy": "hold while 321원 above and 60%+ continuation persists",
+      "role": "clean continuation",
+      "risk_limit_pct": 2.0,
+      "profit_take_pct": 6.0
+    },
+    "AI": {
+      "market": "KRW-AI",
+      "amount": 6750.330267852507,
+      "avg_buy_price_krw": 42.8,
+      "last_price_krw": 42.8,
+      "value_krw": 288914.1354640873,
+      "thesis": "130.7억원 대금·60.0% 위치·-3.60% gap으로, 최근 상장 뉴스가 아직 유동성으로 남아 있는 핵심 continuation입니다.",
+      "strategy": "hold while 41.8원 above and 55%+ continuation persists",
+      "role": "listing-driven liquidity",
+      "risk_limit_pct": 2.1,
+      "profit_take_pct": 5.8
+    },
+    "ZKP": {
+      "market": "KRW-ZKP",
+      "amount": 3615.9466265843216,
+      "avg_buy_price_krw": 79.9,
+      "last_price_krw": 79.9,
+      "value_krw": 288914.1354640873,
+      "thesis": "106.5억원 대금·64.8% 위치·-3.85% gap으로, 과열 없이 살아남은 reclaim 후보입니다.",
+      "strategy": "hold while 77원 above and 60%+ reclaim persists",
+      "role": "quiet reclaim",
+      "risk_limit_pct": 1.9,
+      "profit_take_pct": 5.6
     },
     "MEGA": {
       "market": "KRW-MEGA",
-      "amount": 3196.5761901671717,
-      "avg_buy_price_krw": 80.3,
-      "last_price_krw": 80.3,
-      "value_krw": 256685.06807042388,
-      "thesis": "181.0억원 대금·75.0% 위치·-0.86% gap으로, 약세 전환장에서도 버틴 최상위 유동성 survivor입니다.",
-      "strategy": "hold while 79.0원 above and 70%+ continuation persists",
-      "role": "mega-turnover survivor",
-      "risk_limit_pct": 1.6,
-      "profit_take_pct": 5.2
-    },
-    "RE": {
-      "market": "KRW-RE",
-      "amount": 265.4447446436648,
-      "avg_buy_price_krw": 967.0,
-      "last_price_krw": 967.0,
-      "value_krw": 256685.06807042388,
-      "thesis": "148.4억원 대금·67.9% 위치·-0.92% gap으로, 약세 메이저 대비 읽기 쉬운 liquid continuation입니다.",
-      "strategy": "hold while 958원 above and 60%+ continuation persists",
-      "role": "liquid continuation anchor",
-      "risk_limit_pct": 1.4,
-      "profit_take_pct": 4.8
-    },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 4684.0340888763485,
-      "avg_buy_price_krw": 54.8,
-      "last_price_krw": 54.8,
-      "value_krw": 256685.06807042388,
-      "thesis": "60.4억원 대금·73.3% 위치·-1.44% gap으로, breadth 붕괴장에서도 살아남은 attention continuation입니다.",
-      "strategy": "hold while 53.8원 above and 68%+ continuation persists",
-      "role": "attention continuation",
-      "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.8
-    },
-    "ETHFI": {
-      "market": "KRW-ETHFI",
-      "amount": 412.014555490247,
-      "avg_buy_price_krw": 623.0,
-      "last_price_krw": 623.0,
-      "value_krw": 256685.0680704239,
-      "thesis": "60.4억원 대금·75.0% 위치·-0.48% gap으로, 약세 전환 속에서도 살아남은 고베타 survivor입니다.",
-      "strategy": "hold while 618원 above and 70%+ continuation persists",
-      "role": "beta survivor",
+      "amount": 3588.995471603569,
+      "avg_buy_price_krw": 80.5,
+      "last_price_krw": 80.5,
+      "value_krw": 288914.1354640873,
+      "thesis": "184.2억원 대금·50.7% 위치·-4.05% gap으로, 아직 weak breadth지만 바스켓 유동성을 지켜 주는 최상위 survivor입니다.",
+      "strategy": "hold while 78.2원 above and 45%+ survivor structure persists",
+      "role": "mega-liquidity anchor",
       "risk_limit_pct": 1.7,
-      "profit_take_pct": 5.5
+      "profit_take_pct": 5.0
     }
   },
   "watchlist": [
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "71.4% 위치와 173.4억원 대금은 좋지만 이 회차는 메이저성 체급 알트라 참고 축으로만 둡니다."
-    },
-    {
-      "symbol": "ELSA",
-      "market": "KRW-ELSA",
-      "reason": "71.4% 위치·54.5억원 대금으로 구조는 좋지만 ID·ETHFI보다 주도력이 한 단계 약합니다."
-    },
-    {
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "reason": "79.2% 위치와 40.5억원 대금의 솔라나계 survivor라 차순위 승격 후보입니다."
+      "reason": "62.9% 위치·59.6억원 대금의 솔라나계 survivor로 KITE 약화 시 바로 승격 가능한 차순위입니다."
     },
     {
-      "symbol": "AWE",
-      "market": "KRW-AWE",
-      "reason": "62.5% 위치와 -0.34% gap은 안정적이지만 공격성은 제한적입니다."
+      "symbol": "RE",
+      "market": "KRW-RE",
+      "reason": "234.2억원 대금은 가장 크지만 43.3% 위치로 상단 유지력이 부족해 이번 preferred에서는 제외했습니다."
     },
     {
-      "symbol": "BONK",
-      "market": "KRW-BONK",
-      "reason": "81.3% 위치는 좋지만 21.0억원 대금으로 톱5 주력보다 체급이 작습니다."
+      "symbol": "BREV",
+      "market": "KRW-BREV",
+      "reason": "66.7% 위치·59.6억원 대금은 좋지만 +9.68% 대비 -4.23% gap으로 KITE보다 덜 깔끔합니다."
     },
     {
-      "symbol": "MIRA",
-      "market": "KRW-MIRA",
-      "reason": "660.9억원 초대금과 91.8% 위치라도 아직 음수라 weak breadth 구간의 preferred 승격은 보류합니다."
+      "symbol": "BIRB",
+      "market": "KRW-BIRB",
+      "reason": "18.35% 급등과 159.1억원 대금에도 -8.51% gap이면 weak breadth 구간의 exhausted blowoff 성격입니다."
+    },
+    {
+      "symbol": "BCH",
+      "market": "KRW-BCH",
+      "reason": "77.2% 위치와 -0.80% gap은 좋지만 메이저성 체급 알트라 참고 축으로만 둡니다."
+    },
+    {
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "-1.23%라도 62.5% 위치·89.5억원 대금으로 상대강도는 남아 있어 관찰 가치가 있습니다."
+    },
+    {
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "대금은 크지만 18.2% 위치라 메이저성 trap에 가깝습니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "공식 unlock 완화 이슈는 남지만 현재 -2.34%·11.8% 위치로 구조가 훼손됐습니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "340.2억원 대금에도 -0.64%·25.0% 위치로 약세 메이저와 함께 무너졌습니다."
+      "reason": "7월 24일 unlock rate 축소 headline은 남지만 24.0% 위치로 가격 확인이 실패했습니다."
     }
   ],
   "history": [
@@ -14071,6 +14071,87 @@
       "amount_delta": 412.014555490247,
       "cash_delta_krw": -256685.06807042388,
       "reason": "60.4억원 대금·75.0% 위치·-0.48% gap으로, 약세 전환 속에서도 살아남은 고베타 survivor입니다."
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "ONG",
+      "action": "SELL",
+      "price_krw": 72.6,
+      "amount_delta": -3107.567410053558,
+      "cash_delta_krw": 225609.3939698883,
+      "reason": "직전 fresh 코어였지만 19.0% 위치·-13.26% gap로 fading leader가 명확해져 KITE로 교체"
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "RE",
+      "action": "SELL",
+      "price_krw": 987.0,
+      "amount_delta": -265.4447446436648,
+      "cash_delta_krw": 261993.96296329718,
+      "reason": "초대금은 남았지만 43.3% 위치로 continuation 질이 약해 ARX로 교체"
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 53.8,
+      "amount_delta": -4684.0340888763485,
+      "cash_delta_krw": 252001.03398154755,
+      "reason": "26.1% 위치·-5.94% gap로 약화돼 업비트 상장 잔열이 남은 AI로 교체"
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "ETHFI",
+      "action": "SELL",
+      "price_krw": 628.0,
+      "amount_delta": -412.014555490247,
+      "cash_delta_krw": 258745.14084787513,
+      "reason": "40.0% 위치로 둔화돼 더 깔끔한 reclaim 구조의 ZKP로 교체"
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "MEGA",
+      "action": "BUY",
+      "price_krw": 80.5,
+      "amount_delta": 392.4192814363975,
+      "cash_delta_krw": -31589.752155629994,
+      "reason": "메가 유동성 앵커는 유지하되 80% continuation 바스켓 목표 비중으로 증액"
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 182.0,
+      "amount_delta": 1587.4403047477324,
+      "cash_delta_krw": -288914.1354640873,
+      "reason": "42.0억원 대금·90.9% 위치·-0.55% gap으로, weak breadth 속에서도 가장 읽기 쉬운 소형 fresh 리더입니다."
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "ARX",
+      "action": "BUY",
+      "price_krw": 328.0,
+      "amount_delta": 880.8357788539247,
+      "cash_delta_krw": -288914.1354640873,
+      "reason": "73.0억원 대금·65.4% 위치·-2.67% gap으로, AI/신규관심 군 중 구조가 가장 균형적입니다."
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "AI",
+      "action": "BUY",
+      "price_krw": 42.8,
+      "amount_delta": 6750.330267852507,
+      "cash_delta_krw": -288914.1354640873,
+      "reason": "130.7억원 대금·60.0% 위치·-3.60% gap으로, 최근 상장 뉴스가 아직 유동성으로 남아 있는 핵심 continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-05T15:59+09:00",
+      "symbol": "ZKP",
+      "action": "BUY",
+      "price_krw": 79.9,
+      "amount_delta": 3615.9466265843216,
+      "cash_delta_krw": -288914.1354640873,
+      "reason": "106.5억원 대금·64.8% 위치·-3.85% gap으로, 과열 없이 살아남은 reclaim 후보입니다."
     }
   ]
 }
