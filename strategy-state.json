@@ -1,317 +1,316 @@
 {
-  "updated_at": "2026-07-05T15:59+09:00",
-  "top_line": "메이저 평균 위치가 19.6→38.3으로 반등했지만 4대 메이저는 여전히 전부 음수이고 fresh breakout도 0입니다. 그래서 ONG 붕괴를 인정하고 70% 방어 바스켓을 80% continuation 리셋(KITE·ARX·AI·ZKP·MEGA)으로 공격 재정렬한 것이 이번 회차 핵심입니다.",
-  "macro_summary": "BTC·ETH·XRP·SOL은 모두 아직 음수지만, 메이저 평균 위치는 38.3%로 18.7p 반등했습니다. top15 비메이저 양전환도 7개로 늘었지만 low-range가 9개라 weak breadth는 유지됩니다. 즉 전면 강세는 아니고, fresh 0 구간에서 상단 continuation만 선별해 80%까지 재리스크하는 단계입니다.",
-  "news_summary": "외부 확인 기준 새 뉴스는 Gensyn(AI)의 최근 업비트 상장 잔열이 가장 직접적입니다. 반면 Worldcoin의 7월 24일 WLD 일일 unlock rate 43% 축소 headline은 여전히 남아도 이번 회차 가격 확인에는 실패했습니다.",
-  "community_summary": "업비트 보드 관심은 SLX·MIRA·WLD 같은 초대금 trap 추격보다 KITE·ARX·AI·ZKP처럼 상단을 지키는 continuation 쪽으로 옮겨갔습니다. ONG는 오전 hero에서 오후엔 탈출성 체결이 우세해졌고, JTO는 조용하지만 구조가 가장 안정적인 차순위로 보입니다.",
-  "public_figure_summary": "Sam Altman/WLD 서사는 headline으로만 남고 실제 매수 우위로 이어지지 않았습니다. 이번 회차는 인물 서사보다 업비트 실거래 구조와 상단 체류가 훨씬 중요했습니다.",
-  "major_coin_summary": "BTC -0.55%·45.5% 위치 / XRP -1.60%·26.3% 위치 / ETH -0.86%·42.2% 위치 / SOL -1.30%·39.3% 위치 / 메이저 평균 38.3% 위치",
-  "altcoin_selection_summary": "preferred buy는 KITE, ARX, AI, ZKP, MEGA입니다. fresh breakout은 사실상 KITE 1개뿐이고, 나머지는 60% 안팎 continuation/reclaim과 MEGA 한 개의 유동성 앵커로 구성했습니다. ONG·WLD·SLX 같은 trap/fade 이름은 대금이 커도 제외했습니다.",
-  "overall_bias": "reset-to-80-clean-continuations-kite-arx-ai-zkp-mega",
+  "updated_at": "2026-07-05T22:01+09:00",
+  "top_line": "메이저 평균 위치는 37.8%로 사실상 정체이고 fresh breakout은 다시 0입니다. 직전 80% continuation 바스켓 5종이 거의 전부 훼손돼서, 이번 회차는 75%로 한 단계 줄이되 ID 단일 리더 + ETHFI·XTZ·WLFI·XPL 생존주 바스켓으로 공격 재편한 것이 핵심입니다.",
+  "macro_summary": "BTC·ETH·XRP·SOL은 여전히 전부 음수이고 메이저 평균 위치는 37.8%로 6시간 전과 거의 차이가 없습니다. top15 비메이저 양전환은 7개지만 low-range 9개로 weak breadth가 유지됩니다. 즉 회복이 아니라 소수 종목 순환이며, 기존 continuation 바스켓이 깨진 만큼 투입은 80%에서 75%로 낮추고 clean survivor 위주로 재편해야 합니다.",
+  "news_summary": "외부 확인상 Gensyn의 업비트 상장 잔열은 여전히 거래대금을 키우고 있지만, 현재 가격 구조는 고점 대비 -12.5% gap까지 벌어져 뉴스만으로는 매수 명분이 약합니다. WLD의 7월 24일 unlock rate 43% 축소 헤드라인도 남아 있으나 이번 회차 가격 회복 확인에는 실패했습니다.",
+  "community_summary": "업비트 보드 자금은 SLX·MIRA·AI 같은 대금 폭주 이름보다 ID·ETHFI 같은 늦은 시간 clean survivor 쪽으로 다시 쏠렸습니다. 직전 보유였던 KITE·ARX·AI·ZKP·MEGA는 저녁 들어 상단 체류가 무너졌고, 커뮤니티도 추격보다 손절/교체 톤이 강해졌습니다.",
+  "public_figure_summary": "Sam Altman/WLD는 계속 헤드라인만 남고 가격은 중립 이하입니다. 반면 WLFI는 Trump 연관 attention이 잔존해 약한 장에서도 보조 생존 슬롯 명분은 남아 있지만, 어디까지나 5번째 슬롯 수준으로만 취급합니다.",
+  "major_coin_summary": "BTC -0.67%·34.3% 위치 / XRP -1.78%·29.5% 위치 / ETH -0.86%·42.2% 위치 / SOL -1.30%·45.2% 위치 / 메이저 평균 37.8% 위치",
+  "altcoin_selection_summary": "preferred buy는 ID, ETHFI, XTZ, WLFI, XPL입니다. ID만 80%대 상단 리더이고 나머지는 55~67% 생존/continuation 구조로 채웠습니다. AI·ARX·KITE처럼 직전 보유였던 이름들은 대금이 커도 gap과 range 훼손이 커서 제외했습니다.",
+  "overall_bias": "reset-to-75-id-leader-plus-clean-survivors",
   "confidence": "medium",
   "preferred_buy_candidates": [
     {
-      "market": "KRW-KITE",
-      "symbol": "KITE",
-      "korean_name": "카이트",
-      "english_name": "Kite",
-      "price_krw": 182.0,
-      "change_pct_24h": 4.0,
-      "turnover_krw_24h": 4197998381.910908,
-      "opening_price": 176.0,
-      "high_price": 183.0,
-      "low_price": 172.0,
-      "range_position_pct": 90.9,
-      "day_high_gap_pct": -0.55,
-      "selection_score": 44.51,
-      "role": "mini fresh breakout",
-      "strategy": "hold while 178원 above and 80%+ upper-range structure persists",
-      "risk_limit_pct": 2.3,
-      "profit_take_pct": 6.8,
-      "invalidated_if": "178원 하회 또는 80% 상단 구조 붕괴",
-      "community": "저가 코인 보드에서 trap보다 KITE처럼 상단 체류가 깔끔한 이름으로 관심이 이동했습니다.",
-      "thesis": "42.0억원 대금·90.9% 위치·-0.55% gap으로, weak breadth 속에서도 가장 읽기 쉬운 소형 fresh 리더입니다.",
-      "allocation_krw": 288914.1354640873,
-      "reason": "42.0억원 대금·90.9% 위치·-0.55% gap으로, weak breadth 속에서도 가장 읽기 쉬운 소형 fresh 리더입니다."
-    },
-    {
-      "market": "KRW-ARX",
-      "symbol": "ARX",
-      "korean_name": "아르키움",
-      "english_name": "Arcium",
-      "price_krw": 328.0,
-      "change_pct_24h": 4.79233227,
-      "turnover_krw_24h": 7297036007.4274025,
-      "opening_price": 313.0,
-      "high_price": 337.0,
-      "low_price": 311.0,
-      "range_position_pct": 65.4,
-      "day_high_gap_pct": -2.67,
-      "selection_score": 34.5,
-      "role": "clean continuation",
-      "strategy": "hold while 321원 above and 60%+ continuation persists",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 6.0,
-      "invalidated_if": "321원 하회 또는 60% continuation 붕괴",
-      "community": "ARX는 과열 댓글보다 실제 체결 흐름이 안정적이라 추격 부담이 덜했습니다.",
-      "thesis": "73.0억원 대금·65.4% 위치·-2.67% gap으로, AI/신규관심 군 중 구조가 가장 균형적입니다.",
-      "allocation_krw": 288914.1354640873,
-      "reason": "73.0억원 대금·65.4% 위치·-2.67% gap으로, AI/신규관심 군 중 구조가 가장 균형적입니다."
-    },
-    {
-      "market": "KRW-AI",
-      "symbol": "AI",
-      "korean_name": "젠신",
-      "english_name": "Gensyn",
-      "price_krw": 42.8,
-      "change_pct_24h": 3.88349515,
-      "turnover_krw_24h": 13072932616.133558,
-      "opening_price": 41.2,
-      "high_price": 44.4,
-      "low_price": 40.4,
-      "range_position_pct": 60.0,
-      "day_high_gap_pct": -3.6,
-      "selection_score": 31.3,
-      "role": "listing-driven liquidity",
-      "strategy": "hold while 41.8원 above and 55%+ continuation persists",
+      "market": "KRW-ID",
+      "symbol": "ID",
+      "korean_name": "스페이스아이디",
+      "english_name": "SPACE ID",
+      "price_krw": 58.0,
+      "change_pct_24h": 9.22787194,
+      "turnover_krw_24h": 18271914990.405727,
+      "opening_price": 53.2,
+      "high_price": 58.8,
+      "low_price": 52.6,
+      "range_position_pct": 87.1,
+      "day_high_gap_pct": -1.36,
+      "selection_score": 54.26,
+      "role": "late-session leader",
+      "strategy": "hold while 56.8원 above and 80%+ continuation persists",
       "risk_limit_pct": 2.1,
-      "profit_take_pct": 5.8,
-      "invalidated_if": "41.8원 하회 또는 55% continuation 붕괴",
-      "community": "업비트 Gensyn 상장 잔열이 아직 살아 있고 AI 내러티브 댓글 회전도 유지됩니다.",
-      "thesis": "130.7억원 대금·60.0% 위치·-3.60% gap으로, 최근 상장 뉴스가 아직 유동성으로 남아 있는 핵심 continuation입니다.",
-      "allocation_krw": 288914.1354640873,
-      "reason": "130.7억원 대금·60.0% 위치·-3.60% gap으로, 최근 상장 뉴스가 아직 유동성으로 남아 있는 핵심 continuation입니다."
+      "profit_take_pct": 6.5,
+      "invalidated_if": "56.8원 하회 또는 80% continuation 붕괴",
+      "community": "",
+      "thesis": "18.3억원급 대금과 87.1% 위치, -1.36% gap으로 이번 회차 유일한 상단 리더입니다.",
+      "allocation_krw": 269534.72716817353,
+      "reason": "18.3억원급 대금과 87.1% 위치, -1.36% gap으로 이번 회차 유일한 상단 리더입니다."
     },
     {
-      "market": "KRW-ZKP",
-      "symbol": "ZKP",
-      "korean_name": "지케이패스",
-      "english_name": "zkPass",
-      "price_krw": 79.9,
-      "change_pct_24h": 2.43589744,
-      "turnover_krw_24h": 10649936371.687225,
-      "opening_price": 77.8,
-      "high_price": 83.1,
-      "low_price": 74.0,
-      "range_position_pct": 64.8,
-      "day_high_gap_pct": -3.85,
-      "selection_score": 29.65,
-      "role": "quiet reclaim",
-      "strategy": "hold while 77원 above and 60%+ reclaim persists",
+      "market": "KRW-ETHFI",
+      "symbol": "ETHFI",
+      "korean_name": "이더파이",
+      "english_name": "Ether.fi",
+      "price_krw": 642.0,
+      "change_pct_24h": 3.38164251,
+      "turnover_krw_24h": 6886576651.304693,
+      "opening_price": 621.0,
+      "high_price": 656.0,
+      "low_price": 614.0,
+      "range_position_pct": 66.7,
+      "day_high_gap_pct": -2.13,
+      "selection_score": 33.47,
+      "role": "clean continuation",
+      "strategy": "hold while 631원 above and 60%+ continuation persists",
       "risk_limit_pct": 1.9,
-      "profit_take_pct": 5.6,
-      "invalidated_if": "77원 하회 또는 60% reclaim 붕괴",
-      "community": "ZKP는 보드 소음은 약하지만 체결 구조가 안정적이라 약한 장의 공격 슬롯으로 적합합니다.",
-      "thesis": "106.5억원 대금·64.8% 위치·-3.85% gap으로, 과열 없이 살아남은 reclaim 후보입니다.",
-      "allocation_krw": 288914.1354640873,
-      "reason": "106.5억원 대금·64.8% 위치·-3.85% gap으로, 과열 없이 살아남은 reclaim 후보입니다."
+      "profit_take_pct": 5.8,
+      "invalidated_if": "631원 하회 또는 60% continuation 붕괴",
+      "community": "",
+      "thesis": "68.9억원 대금과 66.7% 위치, -2.13% gap으로 저녁 회차 가장 무난한 양전환 continuation입니다.",
+      "allocation_krw": 269534.72716817353,
+      "reason": "68.9억원 대금과 66.7% 위치, -2.13% gap으로 저녁 회차 가장 무난한 양전환 continuation입니다."
     },
     {
-      "market": "KRW-MEGA",
-      "symbol": "MEGA",
-      "korean_name": "메가이더",
-      "english_name": "MegaETH",
-      "price_krw": 80.5,
-      "change_pct_24h": 1.64141414,
-      "turnover_krw_24h": 18418308749.188103,
-      "opening_price": 79.2,
-      "high_price": 83.9,
-      "low_price": 77.0,
-      "range_position_pct": 50.7,
-      "day_high_gap_pct": -4.05,
-      "selection_score": 25.21,
-      "role": "mega-liquidity anchor",
-      "strategy": "hold while 78.2원 above and 45%+ survivor structure persists",
-      "risk_limit_pct": 1.7,
-      "profit_take_pct": 5.0,
-      "invalidated_if": "78.2원 하회 또는 45% survivor 구조 붕괴",
-      "community": "MEGA는 과열 추격보다 재정렬 쪽 체결이 남아 있어 대금 앵커 역할이 유효합니다.",
-      "thesis": "184.2억원 대금·50.7% 위치·-4.05% gap으로, 아직 weak breadth지만 바스켓 유동성을 지켜 주는 최상위 survivor입니다.",
-      "allocation_krw": 288914.1354640873,
-      "reason": "184.2억원 대금·50.7% 위치·-4.05% gap으로, 아직 weak breadth지만 바스켓 유동성을 지켜 주는 최상위 survivor입니다."
+      "market": "KRW-XTZ",
+      "symbol": "XTZ",
+      "korean_name": "테조스",
+      "english_name": "Tezos",
+      "price_krw": 382.0,
+      "change_pct_24h": 5.81717452,
+      "turnover_krw_24h": 3848337764.366294,
+      "opening_price": 361.0,
+      "high_price": 398.0,
+      "low_price": 357.0,
+      "range_position_pct": 61.0,
+      "day_high_gap_pct": -4.02,
+      "selection_score": 31.69,
+      "role": "mid-turnover continuation",
+      "strategy": "hold while 372원 above and 55%+ continuation persists",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.5,
+      "invalidated_if": "372원 하회 또는 55% continuation 붕괴",
+      "community": "",
+      "thesis": "38.5억원 대금과 +5.82%, 61.0% 위치로 과열 없이 유지되는 중형 강세축입니다.",
+      "allocation_krw": 269534.72716817353,
+      "reason": "38.5억원 대금과 +5.82%, 61.0% 위치로 과열 없이 유지되는 중형 강세축입니다."
+    },
+    {
+      "market": "KRW-WLFI",
+      "symbol": "WLFI",
+      "korean_name": "월드리버티파이낸셜",
+      "english_name": "World Liberty Financial",
+      "price_krw": 89.1,
+      "change_pct_24h": 2.29621125,
+      "turnover_krw_24h": 4205268225.675987,
+      "opening_price": 87.1,
+      "high_price": 91.9,
+      "low_price": 85.2,
+      "range_position_pct": 58.2,
+      "day_high_gap_pct": -3.05,
+      "selection_score": 26.63,
+      "role": "attention-backed survivor",
+      "strategy": "hold while 87.3원 above and 55%+ survivor structure persists",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.4,
+      "invalidated_if": "87.3원 하회 또는 55% survivor 구조 붕괴",
+      "community": "",
+      "thesis": "42.1억원 대금과 +2.30%, 58.2% 위치로 정치/이슈 attention이 남아 있는 생존 슬롯입니다.",
+      "allocation_krw": 269534.72716817353,
+      "reason": "42.1억원 대금과 +2.30%, 58.2% 위치로 정치/이슈 attention이 남아 있는 생존 슬롯입니다."
+    },
+    {
+      "market": "KRW-XPL",
+      "symbol": "XPL",
+      "korean_name": "플라즈마",
+      "english_name": "Plasma",
+      "price_krw": 161.0,
+      "change_pct_24h": -0.61728395,
+      "turnover_krw_24h": 8122998480.401745,
+      "opening_price": 162.0,
+      "high_price": 164.0,
+      "low_price": 155.0,
+      "range_position_pct": 66.7,
+      "day_high_gap_pct": -1.83,
+      "selection_score": 26.5,
+      "role": "relative-strength survivor",
+      "strategy": "hold while 158원 above and 60%+ relative-strength structure persists",
+      "risk_limit_pct": 1.6,
+      "profit_take_pct": 4.8,
+      "invalidated_if": "158원 하회 또는 60% relative-strength 구조 붕괴",
+      "community": "",
+      "thesis": "81.2억원 대금과 66.7% 위치, -0.62%로 음수여도 구조가 가장 덜 망가진 상대강도 생존주입니다.",
+      "allocation_krw": 269534.72716817353,
+      "reason": "81.2억원 대금과 66.7% 위치, -0.62%로 음수여도 구조가 가장 덜 망가진 상대강도 생존주입니다."
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "KITE",
-      "market": "KRW-KITE",
-      "reason": "42.0억원 대금·90.9% 위치·-0.55% gap으로, weak breadth 속에서도 가장 읽기 쉬운 소형 fresh 리더입니다."
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "18.3억원급 대금과 87.1% 위치, -1.36% gap으로 이번 회차 유일한 상단 리더입니다."
     },
     {
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "reason": "73.0억원 대금·65.4% 위치·-2.67% gap으로, AI/신규관심 군 중 구조가 가장 균형적입니다."
+      "symbol": "ETHFI",
+      "market": "KRW-ETHFI",
+      "reason": "68.9억원 대금과 66.7% 위치, -2.13% gap으로 저녁 회차 가장 무난한 양전환 continuation입니다."
     },
     {
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "reason": "130.7억원 대금·60.0% 위치·-3.60% gap으로, 최근 상장 뉴스가 아직 유동성으로 남아 있는 핵심 continuation입니다."
+      "symbol": "XTZ",
+      "market": "KRW-XTZ",
+      "reason": "38.5억원 대금과 +5.82%, 61.0% 위치로 과열 없이 유지되는 중형 강세축입니다."
     },
     {
-      "symbol": "ZKP",
-      "market": "KRW-ZKP",
-      "reason": "106.5억원 대금·64.8% 위치·-3.85% gap으로, 과열 없이 살아남은 reclaim 후보입니다."
-    },
-    {
-      "symbol": "MEGA",
-      "market": "KRW-MEGA",
-      "reason": "184.2억원 대금·50.7% 위치·-4.05% gap으로, 아직 weak breadth지만 바스켓 유동성을 지켜 주는 최상위 survivor입니다."
-    }
-  ],
-  "watchlist": [
-    {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "62.9% 위치·59.6억원 대금의 솔라나계 survivor로 KITE 약화 시 바로 승격 가능한 차순위입니다."
-    },
-    {
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "234.2억원 대금은 가장 크지만 43.3% 위치로 상단 유지력이 부족해 이번 preferred에서는 제외했습니다."
-    },
-    {
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "66.7% 위치·59.6억원 대금은 좋지만 +9.68% 대비 -4.23% gap으로 KITE보다 덜 깔끔합니다."
-    },
-    {
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "18.35% 급등과 159.1억원 대금에도 -8.51% gap이면 weak breadth 구간의 exhausted blowoff 성격입니다."
-    },
-    {
-      "symbol": "BCH",
-      "market": "KRW-BCH",
-      "reason": "77.2% 위치와 -0.80% gap은 좋지만 메이저성 체급 알트라 참고 축으로만 둡니다."
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "42.1억원 대금과 +2.30%, 58.2% 위치로 정치/이슈 attention이 남아 있는 생존 슬롯입니다."
     },
     {
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "reason": "-1.23%라도 62.5% 위치·89.5억원 대금으로 상대강도는 남아 있어 관찰 가치가 있습니다."
+      "reason": "81.2억원 대금과 66.7% 위치, -0.62%로 음수여도 구조가 가장 덜 망가진 상대강도 생존주입니다."
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "BCH",
+      "market": "KRW-BCH",
+      "reason": "79.5% 위치와 -0.82% gap은 매우 좋지만 메이저성 체급이라 참고 신호로만 둡니다."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "대금은 크지만 18.2% 위치라 메이저성 trap에 가깝습니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "-0.84%지만 66.7% 위치·52.9억원 대금으로 XPL 대체 차순위 survivor입니다."
+    },
+    {
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "-0.12%·62.5% 위치로 구조는 안정적이지만 24.5억원 대금이라 1군 승격은 보류합니다."
+    },
+    {
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "67.7% 위치와 깔끔한 gap은 좋지만 대금이 25.3억원대로 다소 얕습니다."
+    },
+    {
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "상승률은 크지만 48.2% 위치·-7.90% gap이면 저녁에는 exhausted reclaim에 가깝습니다."
+    },
+    {
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "350.8억원 대금에도 32.6% 위치·-12.50% gap이면 뉴스보다 가격이 약합니다."
+    },
+    {
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "양수는 유지했지만 47.3% 위치와 -5.78% gap으로 금일 핵심 preferred 명분은 약해졌습니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "7월 24일 unlock rate 축소 headline은 남지만 24.0% 위치로 가격 확인이 실패했습니다."
+      "reason": "unlock 완화 headline은 남아도 -2.96%·42.4% 위치로 follow-through가 약합니다."
     }
   ],
   "risk_notes": [
-    "4대 메이저가 모두 아직 음수라 90% 재확대는 금지하고 80%까지만 사용합니다.",
-    "fresh breakout이 사실상 KITE 1개뿐이라 KITE 178원 하회 시 바로 공격 강도를 낮춰야 합니다.",
-    "MEGA는 유동성 앵커지만 50.7% survivor라 78.2원 아래로 밀리면 방어 바스켓 재검토가 필요합니다.",
-    "BIRB·ONG처럼 급등 후 day-high gap이 크게 벌어진 이름은 weak breadth 세션에서 late chase 금지입니다.",
-    "major average가 45 이상으로 추가 회복하지 못하면 80% 바스켓도 다음 회차에 다시 70~75%로 낮출 수 있습니다."
+    "메이저 4종이 모두 아직 음수라 85% 이상 재확대는 금지하고 75%까지만 사용합니다.",
+    "ID가 사실상 유일한 80%대 리더라 56.8원 하회 시 바스켓 전체 공격 강도를 다시 낮춰야 합니다.",
+    "직전 보유 5종이 거의 전부 훼손됐으므로 새 바스켓도 하루짜리 구조라는 전제에서 방어적으로 검증해야 합니다.",
+    "AI·ARX·BIRB·ONG처럼 대금이 커도 day-high gap이 크게 벌어진 이름은 late chase 금지입니다.",
+    "메이저 평균이 45 이상 회복하지 못하면 다음 회차도 survivor/reclaim 위주 유지가 우선입니다."
   ],
-  "fear_greed": "23 (Extreme Fear; Alternative.me 16:01 KST 확인)",
-  "btc_reference": "BTC 94.714M원 / ETH 2.662M원 / XRP 1,717원 / SOL 121.7K원",
+  "fear_greed": "23 (Extreme Fear; Alternative.me 22:00 KST 확인)",
+  "btc_reference": "BTC 94.601M원 / ETH 2.662M원 / XRP 1,714원 / SOL 121.7K원",
   "improvement_log": [
-    "15:59 KST 기준 업비트 스냅샷을 새로 반영해 메이저 평균 38.3%, top15 비메이저 양전환 7개, fresh breakout 0, weak breadth true 상태를 즉시 반영했습니다.",
-    "직전 70% reset basket의 사후 결과를 점검해 ONG·ID·ETHFI 구조 약화를 확인하고, 80% continuation 리셋(KITE·ARX·AI·ZKP·MEGA)으로 재배치했습니다.",
-    "DECISIONS.md에 “메이저 평균이 30~45대로 반등해도 fresh가 0이고 weak breadth가 유지되면, at most 1개만 sub-55 유동성 앵커를 허용하고 나머지는 60%+ continuation으로 채운다” 규칙을 추가했습니다."
+    "21:59 KST 기준 새 업비트 스냅샷을 반영해 메이저 평균 37.8%, top15 비메이저 양전환 7개, low-range 9개, fresh 0 상태를 즉시 갱신했습니다.",
+    "직전 80% continuation 바스켓(KITE·ARX·AI·ZKP·MEGA)의 사후 훼손을 점검해 5종 전부를 청산하고, 75% ID·ETHFI·XTZ·WLFI·XPL 재편으로 회전 규율을 강화했습니다.",
+    "DECISIONS.md에 “fresh 0·weak breadth 유지 상태에서 직전 continuation 바스켓 4개 이상이 동시에 50% 미만 range 또는 invalidation으로 훼손되면, 다음 회차는 75%로 낮추고 1개 리더 + 4개 cleaner survivor/reclaim으로 재구성한다” 규칙을 추가했습니다."
   ],
   "self_evaluation": {
-    "score": 9.1,
-    "summary": "오전의 70% 방어 전환은 맞았고, 이번 회차에는 ONG가 더 이상 fresh가 아니라는 점을 빨리 인정한 것이 좋았습니다. 다만 09:58 시점에 ONG의 당일 고점 과열 리스크를 더 강하게 적어 둘 수는 있었습니다."
+    "score": 9.0,
+    "summary": "직전 회차의 80% 재리스크는 시도 자체는 맞았지만, 저녁에 5종 모두 훼손된 뒤 더 빨리 방어적으로 재선별했어야 했습니다. 이번엔 무너진 basket memory를 버리고 75%로 한 단계 줄인 점은 좋았습니다."
   },
-  "ui_version": "v25.0",
+  "ui_version": "v26.0",
   "rejected_candidates": [
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "668.7억원 대금에도 -10.29%·4.5% 위치·-13.76% gap이면 전형적 turnover trap입니다."
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "350.8억원 대금과 +5.34%가 있어도 32.6% 위치·-12.50% gap이면 늦은 시간 trap입니다."
     },
     {
-      "symbol": "MIRA",
-      "market": "KRW-MIRA",
-      "reason": "636.0억원 대금에도 -3.40%·36.2% 위치·-10.17% gap이라 weak breadth 구간의 clean buy가 아닙니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "unlock 감축 호재가 있어도 -2.96%·24.0% 위치면 headline보다 가격이 약합니다."
-    },
-    {
-      "symbol": "ONG",
-      "market": "KRW-ONG",
-      "reason": "직전 fresh leader였지만 현재 19.0% 위치·-13.26% gap으로 완전히 fading leader가 됐습니다."
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "17.8억원급 대금과 +7.99%에도 48.2% 위치·-7.90% gap이면 continuation보다 exhausted reclaim에 가깝습니다."
     },
     {
       "symbol": "BIRB",
       "market": "KRW-BIRB",
-      "reason": "+18.35% 급등은 강하지만 -8.51% gap이라 weak breadth 세션의 late chase로 분류합니다."
+      "reason": "+8.26%와 228.4억원 대금에도 36.1% 위치·-16.31% gap이면 전형적 blowoff fade입니다."
     },
     {
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "양전환과 초대금은 좋지만 43.3% 위치로 KITE·ARX·AI·ZKP보다 구조가 무겁습니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "719.9억원 대금에도 -13.87%·3.6% 위치·-17.20% gap이면 명백한 turnover trap입니다."
+    },
+    {
+      "symbol": "MIRA",
+      "market": "KRW-MIRA",
+      "reason": "478.8억원 대금에도 -5.35%·24.8% 위치·-11.98% gap이라 clean buy가 아닙니다."
+    },
+    {
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "직전 앵커였지만 현재 -2.27%·12.2% 위치·-7.75% gap로 앵커 명분이 무너졌습니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 546.0억원입니다.",
-    "momentum_discipline": "ONG·RE·ID·ETHFI 약화 인지 후 KITE·ARX·AI·ZKP 승격 / MEGA만 유동성 앵커로 유지",
-    "diversification": "mini fresh 1 + continuation/reclaim 3 + mega-liquidity anchor 1",
-    "cash_usage": "80%",
-    "rotation_speed": "fast-clean-reset"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 413.4억원입니다.",
+    "momentum_discipline": "KITE·ARX·AI·ZKP·MEGA 전량 청산 / ID·ETHFI·XTZ·WLFI·XPL 재편",
+    "diversification": "single leader 1 + positive continuations 3 + relative-strength survivor 1",
+    "cash_usage": "75%",
+    "rotation_speed": "hard-reset-after-basket-failure"
   },
   "signal_balance": {
-    "summary": "major avg 38.3 / weak breadth true / fresh 0 / top15 positives 7 -> no all-clear, but enough rebound to move from 70% defense into 80% clean continuation basket with only one sub-55 liquidity anchor"
+    "summary": "major avg 37.8 / weak breadth true / fresh 0 / top15 positives 7 -> no all-clear, so cut from 80% to 75% and hold only one upper-range leader plus four cleaner survivors"
   },
   "rotation_map": [
     {
-      "out": "ONG",
-      "in": "KITE",
-      "why": "ONG는 19.0% 위치·-13.26% gap로 fresh 가정이 붕괴했고, KITE는 90.9% 위치·-0.55% gap으로 가장 깔끔한 새 리더입니다."
+      "out": "KITE",
+      "in": "ID",
+      "why": "KITE는 41.2% 위치·-5.29% gap로 fresh 가정이 깨졌고, ID는 87.1% 위치·-1.36% gap의 새 리더입니다."
     },
     {
-      "out": "RE",
-      "in": "ARX",
-      "why": "RE는 초대금이지만 43.3% 위치로 눌림이 깊고, ARX는 65.4% 위치·-2.67% gap으로 더 건강한 continuation입니다."
+      "out": "ARX",
+      "in": "ETHFI",
+      "why": "ARX는 +7.99%라도 48.2% 위치·-7.90% gap로 훼손됐고, ETHFI는 66.7% 위치·-2.13% gap으로 훨씬 깔끔합니다."
     },
     {
-      "out": "ID",
-      "in": "AI",
-      "why": "ID는 26.1% 위치·-5.94% gap로 약화됐고, AI는 업비트 상장 잔열과 130.7억원 대금이 남아 있습니다."
+      "out": "AI",
+      "in": "XTZ",
+      "why": "AI는 350.8억원 대금에도 32.6% 위치로 무너졌고, XTZ는 61.0% 위치의 과열 없는 continuation입니다."
     },
     {
-      "out": "ETHFI",
-      "in": "ZKP",
-      "why": "ETHFI는 40.0% 위치로 둔화됐고, ZKP는 64.8% 위치의 조용한 reclaim 구조가 더 낫습니다."
+      "out": "ZKP",
+      "in": "WLFI",
+      "why": "ZKP는 47.3% 위치로 식어 5번째 슬롯 우위가 약해졌고, WLFI는 +2.30%·58.2% 위치로 attention-backed survivor 성격이 더 낫습니다."
     },
     {
       "out": "MEGA",
-      "in": "MEGA",
-      "why": "MEGA는 50.7% survivor로 fresh는 아니지만, 이번 바스켓 유동성 앵커로는 계속 필요해 비중만 재확대합니다."
+      "in": "XPL",
+      "why": "MEGA는 12.2% 위치로 앵커 명분이 붕괴했고, XPL은 음수여도 66.7% 위치와 81.2억원 대금으로 더 건강한 상대강도 생존주입니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 20% 유지. 메이저 평균이 45 위로 올라가고 weak breadth가 해제되면 85% 상향 검토. 메이저 평균이 30 아래 재하락하거나 KITE·MEGA가 함께 약해지면 70~75% 축소 검토.",
-    "review_trigger": "KITE 178 / ARX 321 / AI 41.8 / ZKP 77 / MEGA 78.2 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 25% 유지. 메이저 평균이 45 위로 회복하고 fresh가 1~2개 늘면 80% 재상향 검토. 메이저 평균이 30 아래 재하락하거나 ID가 56.8원 이탈 시 65~70% 축소 검토.",
+    "review_trigger": "ID 56.8 / ETHFI 631 / XTZ 372 / WLFI 87.3 / XPL 158 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "weak breadth true와 fresh breakout 0일 때 90% 이상 과투입 금지",
-      "sub-55 유동성 앵커는 최대 1개만 허용",
-      "day-high gap -8% 이하의 급등주는 weak breadth 세션에서 preferred 승격 금지",
+      "weak breadth true와 fresh breakout 0일 때 85% 이상 과투입 금지",
+      "day-high gap -8% 이하 late spike는 preferred 승격 금지",
       "현금 0%는 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 3.353055488,
-    "preferred_positive_count": 5,
-    "preferred_negative_count": 0,
+    "preferred_avg_change_pct_24h": 4.021123254,
+    "preferred_positive_count": 4,
+    "preferred_negative_count": 1,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 54570564003.17249,
-    "leader_turnover_share_pct": 33.75,
-    "leader_symbol": "MEGA"
+    "preferred_turnover_total_krw_24h": 41335096112.15445,
+    "leader_turnover_share_pct": 44.2,
+    "leader_symbol": "ID"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "KITE가 유일한 upper-range fresh 성격이고, ARX·AI·ZKP가 continuation 본체, MEGA가 유동성 앵커입니다. 다음 회차 핵심은 weak breadth 해제 여부보다 이 4개 continuation의 상단 유지력입니다."
+    "comment": "ID만 명확한 upper-range leader이고 ETHFI·XTZ·WLFI·XPL은 생존/continuation 군입니다. 다음 회차 핵심은 ID 유지와 ETHFI·XTZ의 상단 지속 여부입니다."
   }
 }

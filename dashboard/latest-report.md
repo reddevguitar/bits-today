@@ -1,66 +1,66 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-07-05 15:59 KST
-- 기준 한줄: **메이저 평균 위치가 19.6→38.3으로 반등했지만 fresh breakout은 0입니다. 그래서 ONG 붕괴를 인정하고, 70% 방어 바스켓을 80% continuation 리셋(KITE·ARX·AI·ZKP·MEGA)으로 재정렬했습니다.**
-- 시장 한줄 요약: **메이저는 아직 동반 음수지만, 알트 breadth는 일부 복구됐습니다.** 전면 강세는 아니므로 **late spike 대신 clean continuation 5종으로 80%만 공격**합니다.
-- 공포탐욕지수: **23 (Extreme Fear; Alternative.me 16:01 KST 확인)**
-- BTC 참고: **BTC 94.714M원 / ETH 2.662M원 / XRP 1,717원 / SOL 121.7K원**
+- 시각: 2026-07-05 21:59 KST
+- 기준 한줄: **메이저 평균 위치는 37.8%로 제자리이고 fresh breakout은 다시 0입니다. 직전 80% continuation 바스켓 5종이 거의 전부 무너져서, 이번엔 75%로 낮추고 ID 단일 리더 + ETHFI·XTZ·WLFI·XPL 생존주 바스켓으로 재편했습니다.**
+- 시장 한줄 요약: **시장은 회복이 아니라 소수 종목 순환입니다.** late spike 추격보다 **clean survivor 재배치**가 낫습니다.
+- 공포탐욕지수: **23 (Extreme Fear; Alternative.me 22:00 KST 확인)**
+- BTC 참고: **BTC 94.601M원 / ETH 2.662M원 / XRP 1,714원 / SOL 121.7K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🪁 **KITE** — 182원 / **+4.00%** / 42.0억원 / 위치 **90.9%** / mini fresh breakout
-- 🧬 **ARX** — 328원 / **+4.79%** / 73.0억원 / 위치 **65.4%** / clean continuation
-- 🤖 **AI** — 42.8원 / **+3.88%** / 130.7억원 / 위치 **60.0%** / listing-driven liquidity
-- 🔐 **ZKP** — 79.9원 / **+2.44%** / 106.5억원 / 위치 **64.8%** / quiet reclaim
-- 🚀 **MEGA** — 80.5원 / **+1.64%** / 184.2억원 / 위치 **50.7%** / mega-liquidity anchor
+- 🆔 **ID** — 58.0원 / **+9.23%** / 182.7억원 / 위치 **87.1%** / late-session leader
+- 💧 **ETHFI** — 642원 / **+3.38%** / 68.9억원 / 위치 **66.7%** / clean continuation
+- 🪙 **XTZ** — 382원 / **+5.82%** / 38.5억원 / 위치 **61.0%** / mid-turnover continuation
+- 🦅 **WLFI** — 89.1원 / **+2.30%** / 42.1억원 / 위치 **58.2%** / attention-backed survivor
+- 🧱 **XPL** — 161원 / **-0.62%** / 81.2억원 / 위치 **66.7%** / relative-strength survivor
 
 ## 제외된 메이저 참고 신호
-- BTC **45.5%** / ETH **42.2%** / SOL **39.3%** / XRP **26.3%**
-- 메이저 평균 **38.3% 위치**, **양전환 0개 / 음전환 4개**
+- BTC **34.3%** / ETH **42.2%** / SOL **45.2%** / XRP **29.5%**
+- 메이저 평균 **37.8% 위치**, **양전환 0개 / 음전환 4개**
 - fresh breakout **0개**, top15 양전환 **7개**, weak breadth **true**
+- 참고 메이저성 알트: **BCH 79.5% 위치 / -0.82% gap** → 구조는 좋지만 이번 회차도 참고 신호로만 유지
 
 ## 공격 포트폴리오 전략
-- 실투입: **80%**, 5종 동일비중
-- 타깃: 각 약 **288,914원**
-- 현금: 약 **361,143원 (20.0%)**
-- 핵심 논리: **mini fresh 1 + continuation/reclaim 3 + mega-liquidity anchor 1**
+- 실투입: **75%**, 5종 동일비중
+- 타깃: 각 약 **269,535원**
+- 현금: 약 **449,225원 (25.0%)**
+- 핵심 논리: **ID 1개 리더 + positive continuation 3 + relative-strength survivor 1**
 
 ## 가상 매매 실행 내용
-- ❌ **정리:** ONG / RE / ID / ETHFI
-- ➕ **증액 유지:** MEGA
-- ✅ **신규 편입:** KITE / ARX / AI / ZKP
-- 🔁 마지막 액션: **RESET_80_RECOVERY_WEAK_BREADTH_ONG_RE_ID_ETHFI_OUT_KITE_ARX_AI_ZKP_IN_MEGA_TOPUP**
+- ❌ **전량 정리:** KITE / ARX / AI / ZKP / MEGA
+- ✅ **신규 편입:** ID / ETHFI / XTZ / WLFI / XPL
+- 🔁 마지막 액션: **RESET_75_ID_ETHFI_XTZ_WLFI_XPL_IN_KITE_ARX_AI_ZKP_MEGA_OUT**
 
 ## 현재 포트폴리오 현황
-- KITE **1587.4403개 @ 182원**
-- ARX **880.8358개 @ 328원**
-- AI **6750.3303개 @ 42.8원**
-- ZKP **3615.9466개 @ 79.9원**
-- MEGA **3588.9955개 @ 80.5원**
-- 현금 **361,143원** / 총평가 **1,805,713원**
+- ID **4647.1505개 @ 58.0원**
+- ETHFI **419.8357개 @ 642원**
+- XTZ **705.5883개 @ 382원**
+- WLFI **3025.0800개 @ 89.1원**
+- XPL **1674.1287개 @ 161원**
+- 현금 **449,225원** / 총평가 **1,796,898원**
 
 ## 자기 평가
-- 장점: **ONG fading을 바로 인정하고, weak breadth 속에서도 80% 재리스크를 너무 늦추지 않은 점**은 좋았습니다.
-- 아쉬움: **직전 회차에서 ONG의 과열/되밀림 리스크를 더 강하게 문장화했으면 교체 판단이 더 빨라졌을 수 있습니다.**
-- 점수: **9.1 / 10**
+- 장점: **무너진 80% continuation 바스켓을 미련 없이 버린 점**은 좋았습니다.
+- 아쉬움: **직전 회차에서 KITE·ARX의 evening fade 가능성을 더 빨리 반영했어야 했습니다.**
+- 점수: **9.0 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **15:59 KST 새 스냅샷으로 메이저 평균 38.3%, top15 양전환 7개, fresh 0 상태를 즉시 반영했습니다.**
-- ✅ **ONG·ID·ETHFI 같은 약화 슬롯을 버리고, KITE·ARX·AI·ZKP의 clean continuation 구조로 80% 재편했습니다.**
-- ✅ **DECISIONS.md에 ‘30~45 반등 + fresh 0 + weak breadth 유지 시 sub-55 유동성 앵커는 최대 1개’ 규칙을 추가했습니다.**
+- ✅ **21:59 KST 스냅샷으로 메이저 정체(37.8%)·fresh 0·low-range 9개 상태를 즉시 반영했습니다.**
+- ✅ **직전 5보유 전부를 재평가해 80%→75%로 낮추는 hard reset 규율을 실제 포트폴리오에 적용했습니다.**
+- ✅ **DECISIONS.md에 ‘fresh 0 + weak breadth + continuation 바스켓 4개 이상 동시 훼손 시 75%로 낮추고 1 리더 + 4 생존주 재구성’ 규칙을 추가했습니다.**
 
 ## 판단
-- **reset-to-80-clean-continuations-kite-arx-ai-zkp-mega**
+- **reset-to-75-id-leader-plus-clean-survivors**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **KITE 178 / ARX 321 / AI 41.8 / ZKP 77 / MEGA 78.2** 하회 시 즉시 재평가
-- **JTO / RE / BREV / XPL**은 차순위 승격 후보
-- **SLX / MIRA / WLD / ONG / BIRB**는 대금이 커도 **지금은 추격 금지**
+- **ID 56.8 / ETHFI 631 / XTZ 372 / WLFI 87.3 / XPL 158** 하회 시 즉시 재평가
+- 차순위 승격 후보: **ENA / VIRTUAL / PENGU / BCH(참고용) / ZKP**
+- **SLX / MIRA / AI / BIRB / ONG / MEGA**는 대금이 커도 **지금은 추격 금지**
 
 ## 리스크 메모
-- **4대 메이저가 아직 모두 음수라 90% 확대로 착각하면 안 됩니다.**
-- **KITE가 유일한 upper-range fresh 성격이라 이 슬롯 실패 시 전체 공격성도 다시 낮춰야 합니다.**
-- **MEGA는 필요한 유동성 앵커지만 50.7% survivor라 78.2원 이탈 시 바스켓 질이 급격히 약해집니다.**
-- **WLD unlock 감축 headline, BIRB 급등, MIRA 초대금처럼 스토리가 있어도 가격 구조가 약하면 preferred 승격 금지입니다.**
+- **메이저 4종이 모두 음수라 85% 이상 재확대는 아직 무리입니다.**
+- **ID가 사실상 유일한 상단 리더라 이 종목 실패 시 바스켓 전체 공격성도 다시 낮춰야 합니다.**
+- **AI·ARX처럼 대금이 커도 고점 대비 gap이 크게 벌어진 이름은 late chase 함정일 가능성이 높습니다.**
+- **XPL·WLFI는 보조 생존 슬롯이라 메이저 재약세가 나오면 가장 먼저 재검토될 수 있습니다.**
