@@ -1,11 +1,11 @@
 {
   "project": "bit's today",
-  "judgment": "reset-to-75-id-leader-plus-clean-survivors",
-  "confidence": "medium",
+  "judgment": "hold-75-id-led-survivors-until-fresh-pull",
+  "confidence": "medium-low",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-07-05 21:59 KST",
-  "market_status": "**시장은 회복이 아니라 소수 종목 순환입니다.** late spike 추격보다 **clean survivor 재배치**가 낫습니다.",
-  "fear_greed": "**23 (Extreme Fear; Alternative.me 22:00 KST 확인)**",
+  "updated_at": "2026-07-06 04:02 KST",
+  "market_status": "**광범위 반등이 아니라 소수 생존주 순환이라, 지금은 교체보다 무효화 관리가 우선입니다.**",
+  "fear_greed": "**23 (Extreme Fear; Alternative.me 04:01 KST 확인)**",
   "btc_snapshot": "**BTC 94.601M원 / ETH 2.662M원 / XRP 1,714원 / SOL 121.7K원**",
   "cash_krw": "449,225 KRW",
   "realized_pnl_krw": "-8,219,155 KRW",
@@ -14,60 +14,69 @@
   "return_pct": -82.03,
   "paper_deployment_pct": 75.0,
   "cash_ratio_pct": 25.0,
-  "last_action": "RESET_75_ID_ETHFI_XTZ_WLFI_XPL_IN_KITE_ARX_AI_ZKP_MEGA_OUT",
+  "last_action": "HOLD_75_ID_ETHFI_XTZ_WLFI_XPL_STALE_DATA_DISCIPLINE",
   "trade_count": 1569,
-  "last_updated": "2026-07-05T22:01+09:00",
+  "last_updated": "2026-07-06T04:02+09:00",
   "position_count": 5,
   "rotation_footprint": {
-    "recent_buy_count": 21,
+    "recent_buy_count": 20,
     "recent_sell_count": 19,
     "recent_rotation_count": 19,
-    "recent_trade_actions_24h": 39,
-    "recent_24h_buy_count": 25,
-    "recent_24h_sell_count": 24,
-    "recent_24h_replacement_count": 24,
-    "portfolio_churn_24h_pct": 480.0
+    "recent_trade_actions_24h": 1,
+    "recent_24h_buy_count": 15,
+    "recent_24h_sell_count": 14,
+    "recent_24h_replacement_count": 14,
+    "portfolio_churn_24h_pct": 280.0
   },
   "summary": [
     "🆔 **ID** — 58.0원 / **+9.23%** / 182.7억원 / 위치 **87.1%** / late-session leader",
     "💧 **ETHFI** — 642원 / **+3.38%** / 68.9억원 / 위치 **66.7%** / clean continuation",
     "🪙 **XTZ** — 382원 / **+5.82%** / 38.5억원 / 위치 **61.0%** / mid-turnover continuation",
-    "🦅 **WLFI** — 89.1원 / **+2.30%** / 42.1억원 / 위치 **58.2%** / attention-backed survivor",
-    "🧱 **XPL** — 161원 / **-0.62%** / 81.2억원 / 위치 **66.7%** / relative-strength survivor",
+    "⚙️ **WLFI** — 89.1원 / **+2.30%** / 42.1억원 / 위치 **58.2%** / attention-backed survivor",
+    "🫧 **XPL** — 161원 / **-0.62%** / 81.2억원 / 위치 **66.7%** / relative-strength survivor",
     "BTC **34.3%** / ETH **42.2%** / SOL **45.2%** / XRP **29.5%**",
     "메이저 평균 **37.8% 위치**, **양전환 0개 / 음전환 4개**",
     "fresh breakout **0개**, top15 양전환 **7개**, weak breadth **true**",
-    "참고 메이저성 알트: **BCH 79.5% 위치 / -0.82% gap** → 구조는 좋지만 이번 회차도 참고 신호로만 유지",
-    "실투입: **75%**, 5종 동일비중",
+    "참고 메이저성 알트: **BCH 79.5% 위치 / -0.82% gap** → 구조는 좋지만 이번 회차도 참고용",
+    "실투입: **75%**, 5종 동일비중 유지",
     "타깃: 각 약 **269,535원**",
     "현금: 약 **449,225원 (25.0%)**",
-    "핵심 논리: **ID 1개 리더 + positive continuation 3 + relative-strength survivor 1**",
-    "❌ **전량 정리:** KITE / ARX / AI / ZKP / MEGA",
-    "✅ **신규 편입:** ID / ETHFI / XTZ / WLFI / XPL",
-    "🔁 마지막 액션: **RESET_75_ID_ETHFI_XTZ_WLFI_XPL_IN_KITE_ARX_AI_ZKP_MEGA_OUT**",
+    "핵심 논리: **ID 1개 리더 + continuation 2 + survivor 2**, 단 **stale-data churn 금지**",
+    "🟡 **매매 없음 / 유지**",
+    "이유: **실시간 Upbit refresh 지연 + 마지막 검증 스냅샷도 weak breadth·fresh 0 유지**",
+    "🔁 마지막 액션: **HOLD_75_ID_ETHFI_XTZ_WLFI_XPL_STALE_DATA_DISCIPLINE**",
     "ID **4647.1505개 @ 58.0원**",
-    "ETHFI **419.8357개 @ 642원**",
+    "ETHFI **419.8360개 @ 642원**",
     "XTZ **705.5883개 @ 382원**",
-    "WLFI **3025.0800개 @ 89.1원**",
+    "WLFI **3025.0811개 @ 89.1원**",
     "XPL **1674.1287개 @ 161원**",
     "현금 **449,225원** / 총평가 **1,796,898원**",
-    "장점: **무너진 80% continuation 바스켓을 미련 없이 버린 점**은 좋았습니다.",
-    "아쉬움: **직전 회차에서 KITE·ARX의 evening fade 가능성을 더 빨리 반영했어야 했습니다.**",
-    "점수: **9.0 / 10**",
-    "✅ **21:59 KST 스냅샷으로 메이저 정체(37.8%)·fresh 0·low-range 9개 상태를 즉시 반영했습니다.**",
-    "✅ **직전 5보유 전부를 재평가해 80%→75%로 낮추는 hard reset 규율을 실제 포트폴리오에 적용했습니다.**",
-    "✅ **DECISIONS.md에 ‘fresh 0 + weak breadth + continuation 바스켓 4개 이상 동시 훼손 시 75%로 낮추고 1 리더 + 4 생존주 재구성’ 규칙을 추가했습니다.**",
-    "**reset-to-75-id-leader-plus-clean-survivors**",
-    "**medium**",
+    "장점: **stale 데이터에서 억지 교체를 하지 않은 점**은 좋았습니다.",
+    "아쉬움: **실시간 새 pull 확보 실패 자체는 운영 품질 리스크**입니다.",
+    "점수: **8.8 / 10**",
+    "✅ **stale-data 경고를 전략 판단 중심에 노출**했습니다.",
+    "✅ **DECISIONS.md에 refresh 실패 시 churn 금지 규칙**을 추가했습니다.",
+    "✅ **weak breadth 환경에서도 왜 75% 공격 바스켓을 유지하는지 한 줄로 읽히게 정리**했습니다.",
+    "**hold-75-id-led-survivors-until-fresh-pull**",
+    "**medium-low**",
     "**ID 56.8 / ETHFI 631 / XTZ 372 / WLFI 87.3 / XPL 158** 하회 시 즉시 재평가",
-    "차순위 승격 후보: **ENA / VIRTUAL / PENGU / BCH(참고용) / ZKP**",
+    "정상 refresh 복구 시 **ENA / VIRTUAL / PENGU / BCH(참고용) / ZKP** 재비교",
     "**SLX / MIRA / AI / BIRB / ONG / MEGA**는 대금이 커도 **지금은 추격 금지**",
     "**메이저 4종이 모두 음수라 85% 이상 재확대는 아직 무리입니다.**",
-    "**ID가 사실상 유일한 상단 리더라 이 종목 실패 시 바스켓 전체 공격성도 다시 낮춰야 합니다.**",
-    "**AI·ARX처럼 대금이 커도 고점 대비 gap이 크게 벌어진 이름은 late chase 함정일 가능성이 높습니다.**",
-    "**XPL·WLFI는 보조 생존 슬롯이라 메이저 재약세가 나오면 가장 먼저 재검토될 수 있습니다.**"
+    "**실시간 Upbit refresh 지연으로 데이터 신선도가 낮아, 이번 회차는 새로운 추격보다 기존 무효화 관리가 중요합니다.**",
+    "**ID 실패 시 바스켓 전체 공격성도 다시 낮춰야 합니다.**",
+    "**AI·ARX처럼 고점 대비 gap이 크게 벌어진 고대금 이름은 여전히 late chase 함정 후보입니다.**"
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-07-06T04:02+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 1796898.181121157,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "실시간 Upbit refresh가 지연돼 21:59 검증 스냅샷 기준 75% ID·ETHFI·XTZ·WLFI·XPL 바스켓 유지. weak breadth·fresh 0 환경이라 stale-data churn보다 기존 invalidation 관리가 우선"
+    },
     {
       "timestamp": "2026-07-05T22:01+09:00",
       "symbol": "XPL",
@@ -130,18 +139,13 @@
       "amount_delta": -3615.9466265843216,
       "cash_delta_krw": 283128.62086155236,
       "reason": "직전 80% continuation 바스켓 5종 중 대부분이 invalidation/하단 이탈로 무너져, 21:59 기준 75% 재리스크 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-07-05T22:01+09:00",
-      "symbol": "AI",
-      "action": "SELL",
-      "price_krw": 43.4,
-      "amount_delta": -6750.330267852507,
-      "cash_delta_krw": 292964.3336247988,
-      "reason": "직전 80% continuation 바스켓 5종 중 대부분이 invalidation/하단 이탈로 무너져, 21:59 기준 75% 재리스크 바스켓으로 전량 재편"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-07-06-0402.md",
+      "title": "2026-07-06-0402"
+    },
     {
       "file": "2026-07-05-2159.md",
       "title": "2026-07-05-2159"
@@ -169,10 +173,6 @@
     {
       "file": "2026-07-04-0959.md",
       "title": "2026-07-04-0959"
-    },
-    {
-      "file": "2026-07-04-0358.md",
-      "title": "2026-07-04-0358"
     }
   ],
   "positions": [
@@ -253,33 +253,6 @@
     }
   ],
   "chart_series": {
-    "ETHFI": [
-      {
-        "timestamp": "2026-07-05T03:58+09:00",
-        "price_krw": 662.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-05T09:58+09:00",
-        "price_krw": 623.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-05T09:58+09:00",
-        "price_krw": 623.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-05T15:59+09:00",
-        "price_krw": 628.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-05T22:01+09:00",
-        "price_krw": 642.0,
-        "action": "BUY"
-      }
-    ],
     "DOGE": [
       {
         "timestamp": "2026-07-05T09:58+09:00",
@@ -306,6 +279,28 @@
         "timestamp": "2026-07-05T09:58+09:00",
         "price_krw": 627.0,
         "action": "SELL"
+      }
+    ],
+    "ETHFI": [
+      {
+        "timestamp": "2026-07-05T09:58+09:00",
+        "price_krw": 623.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-05T09:58+09:00",
+        "price_krw": 623.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-05T15:59+09:00",
+        "price_krw": 628.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-05T22:01+09:00",
+        "price_krw": 642.0,
+        "action": "BUY"
       }
     ],
     "ONG": [
@@ -434,9 +429,16 @@
         "price_krw": 161.0,
         "action": "BUY"
       }
+    ],
+    "PORTFOLIO": [
+      {
+        "timestamp": "2026-07-06T04:02+09:00",
+        "price_krw": 1796898.181121157,
+        "action": "HOLD"
+      }
     ]
   },
-  "latest_report_file": "2026-07-05-2159.md",
+  "latest_report_file": "2026-07-06-0402.md",
   "preferred_buy_candidates": [
     {
       "icon": "🆔",
@@ -526,58 +528,58 @@
   ],
   "reference_watchlist": [
     {
-      "icon": "🪂",
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "62.9% 위치·59.6억원 대금의 솔라나계 survivor로 KITE 약화 시 바로 승격 가능한 차순위입니다."
-    },
-    {
-      "icon": "🧲",
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "234.2억원 대금은 가장 크지만 43.3% 위치로 상단 유지력이 부족해 이번 preferred에서는 제외했습니다."
-    },
-    {
-      "icon": "🫧",
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "66.7% 위치·59.6억원 대금은 좋지만 +9.68% 대비 -4.23% gap으로 KITE보다 덜 깔끔합니다."
-    },
-    {
-      "icon": "🦉",
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "18.35% 급등과 159.1억원 대금에도 -8.51% gap이면 weak breadth 구간의 exhausted blowoff 성격입니다."
-    },
-    {
       "icon": "🪙",
       "symbol": "BCH",
       "market": "KRW-BCH",
-      "reason": "77.2% 위치와 -0.80% gap은 좋지만 메이저성 체급 알트라 참고 축으로만 둡니다."
+      "reason": "79.5% 위치와 -0.82% gap은 매우 좋지만 메이저성 체급이라 참고 신호로만 둡니다."
     },
     {
-      "icon": "🫧",
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "-1.23%라도 62.5% 위치·89.5억원 대금으로 상대강도는 남아 있어 관찰 가치가 있습니다."
+      "icon": "🏦",
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "-0.84%지만 66.7% 위치·52.9억원 대금으로 XPL 대체 차순위 survivor입니다."
     },
     {
-      "icon": "🛡️",
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "대금은 크지만 18.2% 위치라 메이저성 trap에 가깝습니다."
+      "icon": "🤖",
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "-0.12%·62.5% 위치로 구조는 안정적이지만 24.5억원 대금이라 1군 승격은 보류합니다."
+    },
+    {
+      "icon": "🐧",
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "67.7% 위치와 깔끔한 gap은 좋지만 대금이 25.3억원대로 다소 얕습니다."
+    },
+    {
+      "icon": "🧬",
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "상승률은 크지만 48.2% 위치·-7.90% gap이면 저녁에는 exhausted reclaim에 가깝습니다."
+    },
+    {
+      "icon": "🤖",
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "350.8억원 대금에도 32.6% 위치·-12.50% gap이면 뉴스보다 가격이 약합니다."
+    },
+    {
+      "icon": "🔐",
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "양수는 유지했지만 47.3% 위치와 -5.78% gap으로 금일 핵심 preferred 명분은 약해졌습니다."
     },
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "7월 24일 unlock rate 축소 headline은 남지만 24.0% 위치로 가격 확인이 실패했습니다."
+      "reason": "unlock 완화 headline은 남아도 -2.96%·42.4% 위치로 follow-through가 약합니다."
     }
   ],
   "cycle_improvements": [
-    "21:59 KST 기준 새 업비트 스냅샷을 반영해 메이저 평균 37.8%, top15 비메이저 양전환 7개, low-range 9개, fresh 0 상태를 즉시 갱신했습니다.",
-    "직전 80% continuation 바스켓(KITE·ARX·AI·ZKP·MEGA)의 사후 훼손을 점검해 5종 전부를 청산하고, 75% ID·ETHFI·XTZ·WLFI·XPL 재편으로 회전 규율을 강화했습니다.",
-    "DECISIONS.md에 “fresh 0·weak breadth 유지 상태에서 직전 continuation 바스켓 4개 이상이 동시에 50% 미만 range 또는 invalidation으로 훼손되면, 다음 회차는 75%로 낮추고 1개 리더 + 4개 cleaner survivor/reclaim으로 재구성한다” 규칙을 추가했습니다."
+    "04:02 KST 회차에 실시간 Upbit 새 pull 지연을 명시적으로 감지하고, stale-data 상태에서 무리한 포트폴리오 churn을 금지하는 운용 규율을 전략 문구와 보고서에 반영했습니다.",
+    "DECISIONS.md에 “실시간 Upbit refresh 실패 시 마지막 검증 5종 바스켓을 유지하고 stale-data 경고를 전면 노출한다” 규칙을 추가했습니다.",
+    "리포트에 데이터 신선도 이슈를 숨기지 않고 드러내면서도, 75% 공격 배치를 유지하는 이유를 한 줄로 읽히게 정리했습니다."
   ],
   "rejected_candidates": [
     {
@@ -611,8 +613,8 @@
       "reason": "직전 앵커였지만 현재 -2.27%·12.2% 위치·-7.75% gap로 앵커 명분이 무너졌습니다."
     }
   ],
-  "top_line": "**메이저 평균 위치는 37.8%로 제자리이고 fresh breakout은 다시 0입니다. 직전 80% continuation 바스켓 5종이 거의 전부 무너져서, 이번엔 75%로 낮추고 ID 단일 리더 + ETHFI·XTZ·WLFI·XPL 생존주 바스켓으로 재편했습니다.**",
-  "ui_version": "v26.0",
+  "top_line": "**실시간 Upbit 새 pull이 막혀도, 마지막 검증 스냅샷 기준 weak breadth·fresh 0 구조가 그대로라 75% ID·ETHFI·XTZ·WLFI·XPL 바스켓을 유지했습니다.**",
+  "ui_version": "v26.1",
   "risk_plan": {
     "portfolio_cash_target": "기본 25% 유지. 메이저 평균이 45 위로 회복하고 fresh가 1~2개 늘면 80% 재상향 검토. 메이저 평균이 30 아래 재하락하거나 ID가 56.8원 이탈 시 65~70% 축소 검토.",
     "review_trigger": "ID 56.8 / ETHFI 631 / XTZ 372 / WLFI 87.3 / XPL 158 하회 시 즉시 재평가",
@@ -687,8 +689,8 @@
     }
   ],
   "self_evaluation": {
-    "score": 9.0,
-    "summary": "직전 회차의 80% 재리스크는 시도 자체는 맞았지만, 저녁에 5종 모두 훼손된 뒤 더 빨리 방어적으로 재선별했어야 했습니다. 이번엔 무너진 basket memory를 버리고 75%로 한 단계 줄인 점은 좋았습니다."
+    "score": 8.8,
+    "summary": "실시간 새 스냅샷을 확보하지 못한 건 아쉽지만, 그 상태에서 억지 교체를 하지 않고 마지막 검증 바스켓을 유지한 판단은 합리적이었습니다. 다음 개선 우선순위는 fetch 안정성 강화입니다."
   },
   "market_breadth": {
     "preferred_avg_change_pct_24h": 4.02,
@@ -701,7 +703,7 @@
     "leader_concentration_warning": "moderate"
   },
   "snapshot_updated_at_utc": "2026-07-05T12:59:00.339944+00:00",
-  "snapshot_age_hours": 0.03,
+  "snapshot_age_hours": 6.05,
   "snapshot_delta": {
     "top15_alt_positive_count_delta": 0,
     "top15_alt_low_range_count_delta": 0,
@@ -824,6 +826,15 @@
   },
   "recent_rotation_log_24h": [
     {
+      "timestamp": "2026-07-06T04:02+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 1796898.181121157,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "실시간 Upbit refresh가 지연돼 21:59 검증 스냅샷 기준 75% ID·ETHFI·XTZ·WLFI·XPL 바스켓 유지. weak breadth·fresh 0 환경이라 stale-data churn보다 기존 invalidation 관리가 우선"
+    },
+    {
       "timestamp": "2026-07-05T22:01+09:00",
       "symbol": "XPL",
       "action": "BUY",
@@ -903,20 +914,11 @@
       "amount_delta": -880.8357788539247,
       "cash_delta_krw": 297722.49325262656,
       "reason": "직전 80% continuation 바스켓 5종 중 대부분이 invalidation/하단 이탈로 무너져, 21:59 기준 75% 재리스크 바스켓으로 전량 재편"
-    },
-    {
-      "timestamp": "2026-07-05T22:01+09:00",
-      "symbol": "KITE",
-      "action": "SELL",
-      "price_krw": 179.0,
-      "amount_delta": -1587.4403047477324,
-      "cash_delta_krw": 284151.8145498441,
-      "reason": "직전 80% continuation 바스켓 5종 중 대부분이 invalidation/하단 이탈로 무너져, 21:59 기준 75% 재리스크 바스켓으로 전량 재편"
     }
   ],
   "staleness_warning": {
     "active": false,
-    "snapshot_age_hours": 0.03,
+    "snapshot_age_hours": 6.05,
     "summary": "데이터 신선도 경고 없음"
   },
   "report_sections": {
@@ -924,60 +926,60 @@
       "- 🆔 **ID** — 58.0원 / **+9.23%** / 182.7억원 / 위치 **87.1%** / late-session leader",
       "- 💧 **ETHFI** — 642원 / **+3.38%** / 68.9억원 / 위치 **66.7%** / clean continuation",
       "- 🪙 **XTZ** — 382원 / **+5.82%** / 38.5억원 / 위치 **61.0%** / mid-turnover continuation",
-      "- 🦅 **WLFI** — 89.1원 / **+2.30%** / 42.1억원 / 위치 **58.2%** / attention-backed survivor",
-      "- 🧱 **XPL** — 161원 / **-0.62%** / 81.2억원 / 위치 **66.7%** / relative-strength survivor"
+      "- ⚙️ **WLFI** — 89.1원 / **+2.30%** / 42.1억원 / 위치 **58.2%** / attention-backed survivor",
+      "- 🫧 **XPL** — 161원 / **-0.62%** / 81.2억원 / 위치 **66.7%** / relative-strength survivor"
     ],
     "제외된 메이저 참고 신호": [
       "- BTC **34.3%** / ETH **42.2%** / SOL **45.2%** / XRP **29.5%**",
       "- 메이저 평균 **37.8% 위치**, **양전환 0개 / 음전환 4개**",
       "- fresh breakout **0개**, top15 양전환 **7개**, weak breadth **true**",
-      "- 참고 메이저성 알트: **BCH 79.5% 위치 / -0.82% gap** → 구조는 좋지만 이번 회차도 참고 신호로만 유지"
+      "- 참고 메이저성 알트: **BCH 79.5% 위치 / -0.82% gap** → 구조는 좋지만 이번 회차도 참고용"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **75%**, 5종 동일비중",
+      "- 실투입: **75%**, 5종 동일비중 유지",
       "- 타깃: 각 약 **269,535원**",
       "- 현금: 약 **449,225원 (25.0%)**",
-      "- 핵심 논리: **ID 1개 리더 + positive continuation 3 + relative-strength survivor 1**"
+      "- 핵심 논리: **ID 1개 리더 + continuation 2 + survivor 2**, 단 **stale-data churn 금지**"
     ],
     "가상 매매 실행 내용": [
-      "- ❌ **전량 정리:** KITE / ARX / AI / ZKP / MEGA",
-      "- ✅ **신규 편입:** ID / ETHFI / XTZ / WLFI / XPL",
-      "- 🔁 마지막 액션: **RESET_75_ID_ETHFI_XTZ_WLFI_XPL_IN_KITE_ARX_AI_ZKP_MEGA_OUT**"
+      "- 🟡 **매매 없음 / 유지**",
+      "- 이유: **실시간 Upbit refresh 지연 + 마지막 검증 스냅샷도 weak breadth·fresh 0 유지**",
+      "- 🔁 마지막 액션: **HOLD_75_ID_ETHFI_XTZ_WLFI_XPL_STALE_DATA_DISCIPLINE**"
     ],
     "현재 포트폴리오 현황": [
       "- ID **4647.1505개 @ 58.0원**",
-      "- ETHFI **419.8357개 @ 642원**",
+      "- ETHFI **419.8360개 @ 642원**",
       "- XTZ **705.5883개 @ 382원**",
-      "- WLFI **3025.0800개 @ 89.1원**",
+      "- WLFI **3025.0811개 @ 89.1원**",
       "- XPL **1674.1287개 @ 161원**",
       "- 현금 **449,225원** / 총평가 **1,796,898원**"
     ],
     "자기 평가": [
-      "- 장점: **무너진 80% continuation 바스켓을 미련 없이 버린 점**은 좋았습니다.",
-      "- 아쉬움: **직전 회차에서 KITE·ARX의 evening fade 가능성을 더 빨리 반영했어야 했습니다.**",
-      "- 점수: **9.0 / 10**"
+      "- 장점: **stale 데이터에서 억지 교체를 하지 않은 점**은 좋았습니다.",
+      "- 아쉬움: **실시간 새 pull 확보 실패 자체는 운영 품질 리스크**입니다.",
+      "- 점수: **8.8 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **21:59 KST 스냅샷으로 메이저 정체(37.8%)·fresh 0·low-range 9개 상태를 즉시 반영했습니다.**",
-      "- ✅ **직전 5보유 전부를 재평가해 80%→75%로 낮추는 hard reset 규율을 실제 포트폴리오에 적용했습니다.**",
-      "- ✅ **DECISIONS.md에 ‘fresh 0 + weak breadth + continuation 바스켓 4개 이상 동시 훼손 시 75%로 낮추고 1 리더 + 4 생존주 재구성’ 규칙을 추가했습니다.**"
+      "- ✅ **stale-data 경고를 전략 판단 중심에 노출**했습니다.",
+      "- ✅ **DECISIONS.md에 refresh 실패 시 churn 금지 규칙**을 추가했습니다.",
+      "- ✅ **weak breadth 환경에서도 왜 75% 공격 바스켓을 유지하는지 한 줄로 읽히게 정리**했습니다."
     ],
     "판단": [
-      "- **reset-to-75-id-leader-plus-clean-survivors**"
+      "- **hold-75-id-led-survivors-until-fresh-pull**"
     ],
     "신뢰도": [
-      "- **medium**"
+      "- **medium-low**"
     ],
     "추천 행동": [
       "- **ID 56.8 / ETHFI 631 / XTZ 372 / WLFI 87.3 / XPL 158** 하회 시 즉시 재평가",
-      "- 차순위 승격 후보: **ENA / VIRTUAL / PENGU / BCH(참고용) / ZKP**",
+      "- 정상 refresh 복구 시 **ENA / VIRTUAL / PENGU / BCH(참고용) / ZKP** 재비교",
       "- **SLX / MIRA / AI / BIRB / ONG / MEGA**는 대금이 커도 **지금은 추격 금지**"
     ],
     "리스크 메모": [
       "- **메이저 4종이 모두 음수라 85% 이상 재확대는 아직 무리입니다.**",
-      "- **ID가 사실상 유일한 상단 리더라 이 종목 실패 시 바스켓 전체 공격성도 다시 낮춰야 합니다.**",
-      "- **AI·ARX처럼 대금이 커도 고점 대비 gap이 크게 벌어진 이름은 late chase 함정일 가능성이 높습니다.**",
-      "- **XPL·WLFI는 보조 생존 슬롯이라 메이저 재약세가 나오면 가장 먼저 재검토될 수 있습니다.**"
+      "- **실시간 Upbit refresh 지연으로 데이터 신선도가 낮아, 이번 회차는 새로운 추격보다 기존 무효화 관리가 중요합니다.**",
+      "- **ID 실패 시 바스켓 전체 공격성도 다시 낮춰야 합니다.**",
+      "- **AI·ARX처럼 고점 대비 gap이 크게 벌어진 고대금 이름은 여전히 late chase 함정 후보입니다.**"
     ]
   }
 }

@@ -5,8 +5,8 @@
   "cash_krw": 449224.54528028937,
   "realized_pnl_krw": -8219154.906605397,
   "last_valuation_krw": 1796898.181121157,
-  "last_action": "RESET_75_ID_ETHFI_XTZ_WLFI_XPL_IN_KITE_ARX_AI_ZKP_MEGA_OUT",
-  "last_updated": "2026-07-05T22:01+09:00",
+  "last_action": "HOLD_75_ID_ETHFI_XTZ_WLFI_XPL_STALE_DATA_DISCIPLINE",
+  "last_updated": "2026-07-06T04:02+09:00",
   "trade_count": 1569,
   "positions": {
     "ID": {
@@ -72,44 +72,44 @@
   },
   "watchlist": [
     {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "62.9% 위치·59.6억원 대금의 솔라나계 survivor로 KITE 약화 시 바로 승격 가능한 차순위입니다."
-    },
-    {
-      "symbol": "RE",
-      "market": "KRW-RE",
-      "reason": "234.2억원 대금은 가장 크지만 43.3% 위치로 상단 유지력이 부족해 이번 preferred에서는 제외했습니다."
-    },
-    {
-      "symbol": "BREV",
-      "market": "KRW-BREV",
-      "reason": "66.7% 위치·59.6억원 대금은 좋지만 +9.68% 대비 -4.23% gap으로 KITE보다 덜 깔끔합니다."
-    },
-    {
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "18.35% 급등과 159.1억원 대금에도 -8.51% gap이면 weak breadth 구간의 exhausted blowoff 성격입니다."
-    },
-    {
       "symbol": "BCH",
       "market": "KRW-BCH",
-      "reason": "77.2% 위치와 -0.80% gap은 좋지만 메이저성 체급 알트라 참고 축으로만 둡니다."
+      "reason": "79.5% 위치와 -0.82% gap은 매우 좋지만 메이저성 체급이라 참고 신호로만 둡니다."
     },
     {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "-1.23%라도 62.5% 위치·89.5억원 대금으로 상대강도는 남아 있어 관찰 가치가 있습니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "-0.84%지만 66.7% 위치·52.9억원 대금으로 XPL 대체 차순위 survivor입니다."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "대금은 크지만 18.2% 위치라 메이저성 trap에 가깝습니다."
+      "symbol": "VIRTUAL",
+      "market": "KRW-VIRTUAL",
+      "reason": "-0.12%·62.5% 위치로 구조는 안정적이지만 24.5억원 대금이라 1군 승격은 보류합니다."
+    },
+    {
+      "symbol": "PENGU",
+      "market": "KRW-PENGU",
+      "reason": "67.7% 위치와 깔끔한 gap은 좋지만 대금이 25.3억원대로 다소 얕습니다."
+    },
+    {
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "상승률은 크지만 48.2% 위치·-7.90% gap이면 저녁에는 exhausted reclaim에 가깝습니다."
+    },
+    {
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "350.8억원 대금에도 32.6% 위치·-12.50% gap이면 뉴스보다 가격이 약합니다."
+    },
+    {
+      "symbol": "ZKP",
+      "market": "KRW-ZKP",
+      "reason": "양수는 유지했지만 47.3% 위치와 -5.78% gap으로 금일 핵심 preferred 명분은 약해졌습니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "7월 24일 unlock rate 축소 headline은 남지만 24.0% 위치로 가격 확인이 실패했습니다."
+      "reason": "unlock 완화 headline은 남아도 -2.96%·42.4% 위치로 follow-through가 약합니다."
     }
   ],
   "history": [
@@ -4612,6 +4612,15 @@
       "amount_delta": 1674.1287401749908,
       "cash_delta_krw": -269534.72716817353,
       "reason": "81.2억원 대금과 66.7% 위치, -0.62%로 음수여도 구조가 가장 덜 망가진 상대강도 생존주입니다."
+    },
+    {
+      "timestamp": "2026-07-06T04:02+09:00",
+      "symbol": "PORTFOLIO",
+      "action": "HOLD",
+      "price_krw": 1796898.181121157,
+      "amount_delta": 0,
+      "cash_delta_krw": 0,
+      "reason": "실시간 Upbit refresh가 지연돼 21:59 검증 스냅샷 기준 75% ID·ETHFI·XTZ·WLFI·XPL 바스켓 유지. weak breadth·fresh 0 환경이라 stale-data churn보다 기존 invalidation 관리가 우선"
     }
   ]
 }
