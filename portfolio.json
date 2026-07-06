@@ -2,114 +2,114 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 430259.8831905867,
-  "realized_pnl_krw": -8295013.554964207,
-  "last_valuation_krw": 1721039.5327623473,
-  "last_action": "RESET_75_ID_PROS_KITE_PYTH_JTO",
-  "last_updated": "2026-07-06T15:58+09:00",
-  "trade_count": 1589,
+  "cash_krw": 681564.259001584,
+  "realized_pnl_krw": -8312142.440222596,
+  "last_valuation_krw": 1703910.647503959,
+  "last_action": "RESET_60_ID_PYTH_PROS_AAVE_ZRO",
+  "last_updated": "2026-07-06T21:58+09:00",
+  "trade_count": 1599,
   "positions": {
     "ID": {
       "market": "KRW-ID",
-      "amount": 4184.0507279473595,
-      "avg_buy_price_krw": 61.7,
-      "last_price_krw": 61.7,
-      "value_krw": 258155.9299143521,
-      "thesis": "278.9억원 대금과 +9.59%, 84.6% 위치, -1.91% gap으로 메이저 붕괴장에서도 남은 유일한 초대금 코어입니다.",
-      "strategy": "60.0원 above and 75%+ upper-range 유지 시 보유",
+      "amount": 3374.080490106849,
+      "avg_buy_price_krw": 60.6,
+      "last_price_krw": 60.6,
+      "value_krw": 204469.27770047507,
+      "thesis": "289.1억원 대금과 +7.64%를 유지한 유일한 초대금 양전환 핵심이며, 메이저 붕괴 속에서도 67.1% 상단을 지켰습니다.",
+      "strategy": "60.0원 above and 60%+ 구조 유지 시 보유",
       "role": "mega-liquidity survivor",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 7.8
-    },
-    "PROS": {
-      "market": "KRW-PROS",
-      "amount": 388.20440588624376,
-      "avg_buy_price_krw": 665.0,
-      "last_price_krw": 665.0,
-      "value_krw": 258155.9299143521,
-      "thesis": "118.3억원 대금과 +13.29%, 80.0% 위치, -2.92% gap에 7월 21일까지 AI Agent Carnival 이벤트가 겹친 고베타 지속주입니다.",
-      "strategy": "646원 above and 75%+ 구조 유지 시 보유",
-      "role": "event-backed continuation",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 8.6
-    },
-    "KITE": {
-      "market": "KRW-KITE",
-      "amount": 1395.437458996498,
-      "avg_buy_price_krw": 185.0,
-      "last_price_krw": 185.0,
-      "value_krw": 258155.9299143521,
-      "thesis": "64.8억원 대금과 +2.21%, 81.8% 위치, -1.07% gap으로 오늘 약세장 survivors 중 차트가 가장 단순합니다.",
-      "strategy": "181원 above and 75%+ 구조 유지 시 보유",
-      "role": "clean upper-range survivor",
-      "risk_limit_pct": 2.2,
-      "profit_take_pct": 6.4
+      "risk_limit_pct": 3.0,
+      "profit_take_pct": 6.8
     },
     "PYTH": {
       "market": "KRW-PYTH",
-      "amount": 4150.4168796519625,
-      "avg_buy_price_krw": 62.2,
-      "last_price_krw": 62.2,
-      "value_krw": 258155.9299143521,
-      "thesis": "49.6억원 대금과 +2.13%, 69.2% 위치, -1.27% gap이며 최근 Nasdaq 온체인 데이터 공급/Nasdaq TotalView 관련 관심이 붙은 품질형 오라클 축입니다.",
-      "strategy": "61.2원 above and 65%+ reclaim 유지 시 보유",
-      "role": "oracle quality reclaim",
+      "amount": 3145.681195391924,
+      "avg_buy_price_krw": 65.0,
+      "last_price_krw": 65.0,
+      "value_krw": 204469.27770047507,
+      "thesis": "79.8억원 대금과 +6.73%, 67.6% 위치에 Nasdaq TotalView 온체인 배포 재료까지 겹친 품질형 생존주입니다.",
+      "strategy": "63.8원 above and 65%+ 유지 시 보유",
+      "role": "oracle quality survivor",
       "risk_limit_pct": 1.9,
       "profit_take_pct": 5.8
     },
-    "JTO": {
-      "market": "KRW-JTO",
-      "amount": 234.47405078506094,
-      "avg_buy_price_krw": 1101.0,
-      "last_price_krw": 1101.0,
-      "value_krw": 258155.9299143521,
-      "thesis": "30.7억원 대금은 줄었지만 +1.19%, 72.7% 위치, -0.81% gap으로 붕괴장에서도 구조가 덜 무너졌고 JTX 기대가 남아 있습니다.",
-      "strategy": "1090원 above and 70%+ support 유지 시 보유",
-      "role": "solana beta support",
+    "PROS": {
+      "market": "KRW-PROS",
+      "amount": 317.99265583277617,
+      "avg_buy_price_krw": 643.0,
+      "last_price_krw": 643.0,
+      "value_krw": 204469.27770047507,
+      "thesis": "142.4억원 대금과 +9.54%는 여전히 강하고, 7월 21일까지 이어지는 AI Agent Carnival 이벤트가 살아 있습니다.",
+      "strategy": "628원 above and 55%+ 유지 시 보유",
+      "role": "event-backed beta",
+      "risk_limit_pct": 3.1,
+      "profit_take_pct": 7.4
+    },
+    "AAVE": {
+      "market": "KRW-AAVE",
+      "amount": 1.482735878901197,
+      "avg_buy_price_krw": 137900.0,
+      "last_price_krw": 137900.0,
+      "value_krw": 204469.27770047507,
+      "thesis": "25.4억원 대금은 크지 않지만 +2.91%, 68.4% 위치, -1.78% gap으로 약세장 보조축 중 가장 단정한 품질형 앵커입니다.",
+      "strategy": "135500원 above and 65%+ 유지 시 보유",
+      "role": "defi quality anchor",
       "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.2
+      "profit_take_pct": 4.9
+    },
+    "ZRO": {
+      "market": "KRW-ZRO",
+      "amount": 140.3358117367708,
+      "avg_buy_price_krw": 1457.0,
+      "last_price_krw": 1457.0,
+      "value_krw": 204469.27770047507,
+      "thesis": "20.3억원 대금은 얕지만 +4.67%, 71.2% 위치, -2.02% gap으로 오늘 보드에서 가장 깔끔한 2선 continuation입니다.",
+      "strategy": "1420원 above and 70%+ 유지 시 보유",
+      "role": "clean secondary continuation",
+      "risk_limit_pct": 2.0,
+      "profit_take_pct": 5.5
     }
   },
   "watchlist": [
     {
-      "symbol": "ME",
-      "market": "KRW-ME",
-      "reason": "60.5% 위치와 +4.89%는 좋지만 7월 5일 제기된 소송 이슈가 있어 이번 회차는 core 승격을 보류합니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "0.0%·57.7% 위치와 -1.98% gap이면 망가지진 않았지만 ZRO/AAVE보다 상단 확신이 약해 한 단계 강등합니다."
+    },
+    {
+      "symbol": "AQT",
+      "market": "KRW-AQT",
+      "reason": "58.9억원 대금은 좋지만 50.0% 위치라 현재 5코어보다 구조가 한 단계 느립니다."
     },
     {
       "symbol": "BERA",
       "market": "KRW-BERA",
-      "reason": "83.3% 위치는 매우 좋지만 21.3억원 대금이라 core 5종보다는 보조 watchlist가 맞습니다."
+      "reason": "+3.23%이지만 41.9% 위치라 약세장 코어 승격 근거가 부족합니다."
     },
     {
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "reason": "+3.79%여도 43.2% 위치라 상단 체류가 충분하지 않습니다."
+      "symbol": "ME",
+      "market": "KRW-ME",
+      "reason": "법률 오버행이 남아 있고 31.4% 위치라 core보다 관찰 대상입니다."
     },
     {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "+1.86%지만 45.5% 위치의 중간권 구조라 오늘은 5순위 밖입니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "Altman/7월24일 unlock 완화 서사는 남지만 현재 31.0% 위치라 core 재진입 근거가 부족합니다."
-    },
-    {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "reason": "75.0% 위치는 좋지만 14.1억원 대금이라 약세장 공격 슬롯 우선순위가 낮습니다."
+      "symbol": "G",
+      "market": "KRW-G",
+      "reason": "+3.68%여도 43.6% 위치와 -7.6% gap이면 약세장 추격 슬롯으로는 거칠습니다."
     },
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "771.2억원 대금 1위라도 -3.73%·15.6% 위치면 전형적 turnover trap입니다."
+      "reason": "807.1억원 대금 1위지만 -1.86%·28.9% 위치·-9.2% gap이면 전형적 turnover trap입니다."
     },
     {
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "reason": "324.8억원 대금에도 -4.99%·20.5% 위치면 복원보다 배출이 강합니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "Altman attention은 있어도 -3.01%·7.7% 위치라 public figure 프리미엄이 전혀 가격으로 이어지지 않습니다."
+    },
+    {
+      "symbol": "PRL",
+      "market": "KRW-PRL",
+      "reason": "73.7% 위치는 좋지만 15.2억원 대금이라 다음 회차 2선 후보 정도가 적절합니다."
     }
   ],
   "history": [
@@ -4801,6 +4801,96 @@
       "amount_delta": 234.47405078506094,
       "cash_delta_krw": -258155.9299143521,
       "reason": "30.7억원 대금은 줄었지만 +1.19%, 72.7% 위치, -0.81% gap으로 붕괴장에서도 구조가 덜 무너졌고 JTX 기대가 남아 있습니다."
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 60.6,
+      "amount_delta": -4184.0507279473595,
+      "cash_delta_krw": 253553.47411361,
+      "reason": "메이저 붕괴에도 289.1억원 대금과 +7.64%를 지킨 유일한 초대금 양전환 core라 60% 바스켓에서도 유지"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "PROS",
+      "action": "SELL",
+      "price_krw": 643.0,
+      "amount_delta": -388.20440588624376,
+      "cash_delta_krw": 249615.43298485473,
+      "reason": "7월 21일까지 AI Agent Carnival 이벤트가 남아 있어 흔들려도 beta 슬롯 유지"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "KITE",
+      "action": "SELL",
+      "price_krw": 176.0,
+      "amount_delta": -1395.437458996498,
+      "cash_delta_krw": 245596.99278338364,
+      "reason": "기존 survivor였지만 현재 -2.76%·15.4% 위치로 구조 붕괴가 확인돼 전량 정리"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "PYTH",
+      "action": "SELL",
+      "price_krw": 65.0,
+      "amount_delta": -4150.4168796519625,
+      "cash_delta_krw": 269777.09717737755,
+      "reason": "Nasdaq TotalView 온체인 데이터 재료와 67.6% 구조가 남아 quality survivor로 유지"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "JTO",
+      "action": "SELL",
+      "price_krw": 1088.0,
+      "amount_delta": -234.47405078506094,
+      "cash_delta_krw": 255107.7672541463,
+      "reason": "flat 구조는 남았지만 더 강한 all-positive continuation인 ZRO로 교체"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "ID",
+      "action": "BUY",
+      "price_krw": 60.6,
+      "amount_delta": 3374.080490106849,
+      "cash_delta_krw": -204469.27770047507,
+      "reason": "메이저 붕괴에도 289.1억원 대금과 +7.64%를 지킨 유일한 초대금 양전환 core라 60% 바스켓에서도 유지"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "PYTH",
+      "action": "BUY",
+      "price_krw": 65.0,
+      "amount_delta": 3145.681195391924,
+      "cash_delta_krw": -204469.27770047507,
+      "reason": "Nasdaq TotalView 온체인 데이터 재료와 67.6% 구조가 남아 quality survivor로 유지"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "PROS",
+      "action": "BUY",
+      "price_krw": 643.0,
+      "amount_delta": 317.99265583277617,
+      "cash_delta_krw": -204469.27770047507,
+      "reason": "7월 21일까지 AI Agent Carnival 이벤트가 남아 있어 흔들려도 beta 슬롯 유지"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "AAVE",
+      "action": "BUY",
+      "price_krw": 137900.0,
+      "amount_delta": 1.482735878901197,
+      "cash_delta_krw": -204469.27770047507,
+      "reason": "약세장에서도 +2.91%·68.4% 위치를 지켜 KITE 대체 품질 앵커로 신규 편입"
+    },
+    {
+      "timestamp": "2026-07-06T21:58+09:00",
+      "symbol": "ZRO",
+      "action": "BUY",
+      "price_krw": 1457.0,
+      "amount_delta": 140.3358117367708,
+      "cash_delta_krw": -204469.27770047507,
+      "reason": "71.2% 위치와 -2.02% gap가 JTO보다 깨끗해 2선 continuation 슬롯으로 신규 편입"
     }
   ]
 }
