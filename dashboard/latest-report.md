@@ -1,69 +1,69 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-07-07 03:59 KST
-- 기준 한줄: **메이저 평균 위치가 9.4%→79.2%로 급반등했지만 fresh breakout은 0이라, 60% 방어를 끝내고도 90%까지는 가지 않고 80%만 재공격하며 ID·PROS를 빼고 PYTH·ONDO·AAVE·NEAR·ZRO 5종 continuation 바스켓으로 재편했습니다.**
-- 시장 한줄 요약: **메이저는 살아났지만 업비트 알트 확산은 아직 약해서, 함정 대금주를 버리고 상단 유지형 continuation만 골라야 하는 장입니다.**
-- 공포탐욕지수: **24 (Extreme Fear; Alternative.me 03:59 KST 확인)**
-- BTC 참고: **BTC 95.596M원 / ETH 2.691M원 / XRP 1,723원 / SOL 123.1K원**
+- 시각: 2026-07-07 15:59 KST
+- 기준 한줄: **major 평균 위치가 61.0%→48.7%로 다시 꺾이고 top15 비메이저 양전환이 9개→1개, fresh breakout이 1→0으로 붕괴해 85% 바스켓을 즉시 해체했습니다. 이번 회차는 PROS·ARX·UP2·WLFI·MON 5종 all-positive survivor로 75%만 재투입합니다.**
+- 시장 한줄 요약: **메이저 4종이 전부 음전환했고 초대금 알트 다수가 무너져, 지금은 ‘큰 대금’보다 ‘현재 플러스+상단 구조’가 더 중요합니다.**
+- 공포탐욕지수: **27 (Fear; Alternative.me 16:00 KST 확인)**
+- BTC 참고: **BTC 95.182M원 / ETH 2.673M원 / XRP 1,702원 / SOL 122.5K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🐍 **PYTH** — 69.6원 / **+14.29%** / 98.5억원 / 위치 **82.1%** / oracle momentum core
-- 🌐 **ONDO** — 506원 / **+1.00%** / 150.1억원 / 위치 **82.6%** / rwa liquidity continuation
-- 🏦 **AAVE** — 143,700원 / **+7.24%** / 54.8억원 / 위치 **78.9%** / defi quality anchor
-- 🌉 **NEAR** — 3,110원 / **+2.50%** / 95.8억원 / 위치 **73.6%** / large-cap continuation
-- 🪢 **ZRO** — 1,532원 / **+10.06%** / 31.8억원 / 위치 **81.4%** / interoperability beta continuation
+- 🧱 **PROS** — 640원 / **+5.09%** / 119.8억원 / 위치 **56.3%** / reclaim momentum core
+- 🧬 **ARX** — 331원 / **+0.61%** / 77.6억원 / 위치 **73.3%** / clean survivor anchor
+- 🪜 **UP2** — 98.6원 / **+10.54%** / 71.2억원 / 위치 **67.4%** / high-beta continuation
+- ⚙️ **WLFI** — 90.3원 / **+3.32%** / 28.1억원 / 위치 **88.6%** / attention continuation
+- 🌙 **MON** — 37.6원 / **+0.27%** / 36.7억원 / 위치 **72.2%** / mid-cap steady survivor
 
 ## 제외된 메이저 참고 신호
-- BTC **84.8%** / ETH **80.8%** / SOL **84.1%** / XRP **67.1%**
-- 메이저 평균 **79.2% 위치**, **양전환 2개 / 음전환 2개**
-- fresh breakout **0개**, top15 비메이저 양전환 **7개**, top15 low-range **8개**, weak breadth **true**
-- 대금 상위 함정주: **SLX / XLM / WLD / MIRA / ARX**
+- BTC **43.7%** / ETH **48.8%** / XRP **44.7%** / SOL **57.6%**
+- 메이저 평균 **48.7% 위치**, **음전환 4종**
+- fresh breakout **0개**, top15 비메이저 양전환 **1개**, weak breadth **true**
+- 초대금 함정 후보: **SLX / XLM / WLD / BLUR / ONDO**
 
 ## 공격 포트폴리오 전략
-- 실투입: **80%**, 5종 동일비중
-- 타깃: 각 약 **275,440원**
-- 현금: 약 **344,299원 (20.0%)**
-- 핵심 논리: **메이저 반등은 강하지만 fresh가 0이라 90% 전면 risk-on보다 80% selective continuation이 더 합리적입니다.**
+- 실투입: **75%**, 5종 동일비중
+- 타깃: 각 약 **250,747원**
+- 현금: 약 **417,911원 (25.0%)**
+- 핵심 논리: **강세장 철수가 아니라 breadth 붕괴 대응입니다. 지금은 큰 음전환 리더를 버리고, 양전환 생존주 5종으로만 짧고 강하게 대응하는 편이 낫습니다.**
 
 ## 가상 매매 실행 내용
-- 🔄 **전량 리셋 후 rebound-80 바스켓 재편**
-- SELL: **ID / PYTH / PROS / AAVE / ZRO**
-- BUY: **PYTH / ONDO / AAVE / NEAR / ZRO**
-- ❌ 퇴출: **ID / PROS**
-- ✅ 신규: **ONDO / NEAR**
-- 🔁 마지막 액션: **REBOUND_80_PYTH_ONDO_AAVE_NEAR_ZRO**
+- 🔄 **전량 리셋 후 75% all-positive survivor 바스켓 재편**
+- SELL: **PROS / BLUR / ONDO / NEAR / ZRO**
+- BUY: **PROS / ARX / UP2 / WLFI / MON**
+- ❌ 퇴출: **BLUR / ONDO / NEAR / ZRO**
+- ✅ 신규: **ARX / UP2 / WLFI / MON**
+- 🔁 마지막 액션: **RESET_75_PROS_ARX_UP2_WLFI_MON**
 
 ## 현재 포트폴리오 현황
-- PYTH **3957.4645개 @ 69.6원**
-- ONDO **544.3469개 @ 506원**
-- AAVE **1.9168개 @ 143,700원**
-- NEAR **88.5658개 @ 3,110원**
-- ZRO **179.7908개 @ 1,532원**
-- 현금 **344,299원** / 총평가 **1,721,497원**
+- PROS **391.7918개 @ 640원**
+- ARX **757.5431개 @ 331원**
+- UP2 **2543.0705개 @ 98.6원**
+- WLFI **2776.8189개 @ 90.3원**
+- MON **6668.7966개 @ 37.6원**
+- 현금 **417,911원** / 총평가 **1,671,645원**
 
 ## 자기 평가
-- 장점: **직전 60% 방어를 오래 끌지 않고, 메이저 급반등을 보자마자 ID·PROS 같은 하단 양수주를 정리하고 cleaner continuation으로 갈아탄 점**
-- 아쉬움: **breadth가 아직 약한데 90%까지 올리는 과속 유혹은 계속 경계해야 합니다.**
+- 장점: **직전 85% 바스켓을 고집하지 않고, 4개 붕괴 슬롯을 즉시 all-positive 구조로 교체한 점**
+- 아쉬움: **이번 바스켓은 저체급 종목 비중이 늘어 다음 회차 변동성이 더 클 수 있습니다.**
 - 점수: **8.7 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 ‘major avg>75 rebound + weak breadth + fresh 0이면 80%까지만 재공격’ 규칙을 추가했습니다.**
-- ✅ **리포트 첫 줄에서 ‘메이저 반등 강함 vs fresh 0’ 상충 신호를 바로 읽히게 정리했습니다.**
-- ✅ **양수라도 45% 미만으로 밀린 ID·PROS를 코어에서 배제하고, 70%+ 유지 구조 중심으로 선별 기준을 강화했습니다.**
+- ✅ **DECISIONS.md에 ‘weak breadth=true + major avg 40~55 + top15 positives 1 이하 + fresh 0이면 75%로 즉시 축소’ 규칙을 추가했습니다.**
+- ✅ **dashboard 아이콘 맵에 MON을 추가해 보고서/대시보드 가독성을 높였습니다.**
+- ✅ **기준 한줄에 major avg·top15 positives·fresh 변화를 같이 표기해 왜 비중을 줄였는지 바로 읽히게 정리했습니다.**
 
 ## 판단
-- **rebound-80-selective-continuations**
+- **reset-75-all-positive-survivors**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **PYTH 68.0 / ONDO 500 / AAVE 141500 / NEAR 3040 / ZRO 1490** 하회 시 즉시 재평가
-- 다음 비교 우선순위: **RE / JTO / BERA / ME / MINA**
-- **SLX / XLM / WLD / ID / PROS**는 대금이 커도 이번 회차 core 추격 금지
+- **PROS 630 / ARX 326 / UP2 96 / WLFI 89 / MON 37.0** 하회 시 즉시 재평가
+- 다음 승격 후보: **CHIP / JTO / BERA / RE / ONDO**
+- **SLX / XLM / WLD / BLUR / NEAR / PYTH**는 대금이 커도 이번 회차 core 추격 금지
 
 ## 리스크 메모
-- **메이저는 회복됐지만 fresh breakout 0이라 확산장이 아니라 선택적 회복장입니다.**
-- **ONDO는 깨끗하지만 속도가 느릴 수 있어, 다음 회차엔 ZRO·NEAR와 상대강도 재비교가 필요합니다.**
-- **ZRO는 구조는 좋지만 대금이 얕아 RE·JTO로 교체될 여지가 있습니다.**
-- **BLUR·MON 같은 급등 소형은 차트가 좋아 보여도 gap 피로가 커 이번 회차 chase 금지입니다.**
+- **top15 비메이저 양전환이 1개뿐이라 다음 회차에 재악화되면 65~70%까지 더 줄일 수 있습니다.**
+- **PROS가 630원 아래로 꺾이면 이번 바스켓의 중심축이 사라집니다.**
+- **UP2·WLFI는 체급이 작아 수익도 손실도 빠를 수 있습니다.**
+- **ARX·MON은 상대적으로 안정적이지만 메이저 추가 하락을 완전히 막아주진 못합니다.**
