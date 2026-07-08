@@ -1,69 +1,69 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-07-08 09:58 KST
-- 기준 한줄: **메이저 평균 위치가 36.6%→56.4%로 19.8p 반등하고 weak breadth 경고도 해제됐습니다. 65% 방어는 너무 가벼워져 85%로 다시 올리되, 함정 대금주 대신 CHIP·AGLD 중심의 고위치 실유동성 5종으로 공격 재확대합니다.**
-- 시장 한줄 요약: **메이저는 회복, 알트 breadth도 개선입니다. 다만 fresh breakout은 CHIP 1개뿐이라 90% 풀공격보다 85% 선별 공격이 더 좋습니다.**
-- 공포탐욕지수: **20 (Extreme Fear; Alternative.me 09:59 KST 확인)**
-- BTC 참고: **BTC 95.296M원 / ETH 2.667M원 / XRP 1,670원 / SOL 120.5K원**
+- 시각: 2026-07-08 15:58 KST
+- 기준 한줄: **메이저 평균 위치가 56.4%→13.6%로 급락했고 top15 비메이저 양수는 2개뿐입니다. 85% 반등 바스켓은 틀렸다고 인정하고, 65%로 즉시 줄이되 전량 현금 대신 AI·SLX·ENSO·FLUID·UNI 5종으로 공격축만 남깁니다.**
+- 시장 한줄 요약: **메이저 4종 전부 음수, fresh breakout 0, weak breadth 재점등입니다. 지금은 반등 기대보다 생존 강세만 선별해야 합니다.**
+- 공포탐욕지수: **20 (Extreme Fear; Alternative.me 15:59 KST 확인)**
+- BTC 참고: **BTC 93.439M원 / ETH 2.611M원 / XRP 1,627원 / SOL 116.6K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🧩 **CHIP** — 53.4원 / **+3.49%** / 258.8억원 / 위치 **95.8%** / fresh breakout liquidity core
-- 🧭 **AGLD** — 286원 / **+10.00%** / 158.7억원 / 위치 **87.1%** / quality momentum core
-- 🌍 **WLD** — 579원 / **+1.40%** / 204.5억원 / 위치 **71.4%** / headline mega-liquidity reclaim
-- ✨ **XLM** — 284원 / **+0.35%** / 242.7억원 / 위치 **66.7%** / liquid continuation anchor
-- 🌉 **NEAR** — 2,984원 / **+0.81%** / 86.9억원 / 위치 **84.6%** / large-cap clean continuation
+- 🤖 **AI** — 41.0원 / **+1.99%** / 41.0억원 / 위치 **95.8%** / recent-listing clean strength core
+- 🌞 **SLX** — 276원 / **+3.37%** / 638.6억원 / 위치 **56.7%** / mega-liquidity green survivor
+- 🌀 **ENSO** — 1,027원 / **+3.63%** / 23.0억원 / 위치 **82.1%** / clean continuation beta
+- 💧 **FLUID** — 1,616원 / **+4.12%** / 21.7억원 / 위치 **69.9%** / balanced positive continuation
+- 🦄 **UNI** — 4,936원 / **+3.20%** / 23.9억원 / 위치 **65.5%** / large-cap defi anchor
 
 ## 제외된 메이저 참고 신호
-- BTC **73.5%** / ETH **69.6%** / XRP **70.0%** / SOL **12.5%**
-- 메이저 평균 **56.4% 위치**, **3상승 1하락**
-- fresh breakout **1개(CHIP)**, top15 비메이저 양전환 **7개**, top15 저위치 **7개**, weak breadth **false**
-- 초대금 함정 후보: **OPG / BLUR / SLX / UP2**
+- BTC **13.2%** / ETH **14.9%** / XRP **16.4%** / SOL **9.8%**
+- 메이저 평균 **13.6% 위치**, **0상승 4하락**
+- fresh breakout **0개**, top15 비메이저 양전환 **2개**, top15 저위치 **13개**, weak breadth **true**
+- 초대금 함정 후보: **OPG / BLUR / CHIP / AGLD / WLD**
 
 ## 공격 포트폴리오 전략
-- 실투입: **85%**, 5종 동일비중
-- 타깃: 각 약 **279,855원**
-- 현금: 약 **246,931원 (15.0%)**
-- 핵심 논리: **반등은 맞지만 아직 완전한 확산장은 아닙니다. 그래서 90%까지 밀어붙이진 않고, fresh 1 + 품질 모멘텀 1 + 초대금 리클레임 2 + 대형 continuation 1로 구성합니다.**
+- 실투입: **65%**, 5종 동일비중
+- 타깃: 각 약 **200,664원**
+- 현금: 약 **540,250원 (35.0%)**
+- 핵심 논리: **장이 나쁘지만 all-cash까지 갈 정도는 아닙니다. 최근 상장 강세 1개 + 초대금 양수 survivor 1개 + 깨끗한 continuation 2개 + 대형 앵커 1개로 압축합니다.**
 
 ## 가상 매매 실행 내용
-- 🔼 **65% → 85% 재확대**
-- SELL: **AGLD / CHIP / JUP / FLUID / MEGA**
-- BUY: **CHIP / AGLD / WLD / XLM / NEAR**
-- ❌ 퇴출: **JUP / FLUID / MEGA**
-- ✅ 신규: **WLD / XLM / NEAR**
-- 🔁 마지막 액션: **RAISE_TO_85_CHIP_AGLD_WLD_XLM_NEAR**
+- 🔽 **85% → 65% 축소**
+- SELL: **CHIP / AGLD / WLD / XLM / NEAR**
+- BUY: **AI / SLX / ENSO / FLUID / UNI**
+- ❌ 퇴출: **CHIP / AGLD / WLD / XLM / NEAR**
+- ✅ 신규: **AI / SLX / ENSO / FLUID / UNI**
+- 🔁 마지막 액션: **RESET_TO_65_AI_SLX_ENSO_FLUID_UNI**
 
 ## 현재 포트폴리오 현황
-- CHIP **5240.7350개 @ 53.4원**
-- AGLD **978.5149개 @ 286원**
-- WLD **483.3424개 @ 579원**
-- XLM **985.4058개 @ 284원**
-- NEAR **93.7853개 @ 2,984원**
-- 현금 **246,931원** / 총평가 **1,646,207원**
+- AI **4,894.2471개 @ 41.0원**
+- SLX **727.0440개 @ 276원**
+- ENSO **195.3886개 @ 1,027원**
+- FLUID **124.1733개 @ 1,616원**
+- UNI **40.6532개 @ 4,936원**
+- 현금 **540,250원** / 총평가 **1,543,570원**
 
 ## 자기 평가
-- 장점: **메이저 회복과 breadth 개선을 확인한 뒤 방어 바스켓을 너무 오래 고집하지 않고 85%까지 재확대한 점**
-- 아쉬움: **직전 65% 축소는 방어적으로는 맞았지만 반등 재가속에선 다소 가벼웠습니다.**
-- 점수: **8.4 / 10**
+- 장점: **이전 판단이 틀렸다는 신호(major avg -42.8p, fresh 0, top15 양수 2개)를 바로 인정하고 바스켓을 전면 교체한 점**
+- 아쉬움: **09:58의 85% 재확대는 이번 6시간에는 너무 빨랐고, CHIP·AGLD 같은 직전 강세주 붕괴를 더 빠르게 의심했어야 했습니다.**
+- 점수: **7.6 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 ‘좁은 박스 95~100% range-position 저대금 종목은 1개 이상 preferred에 넣지 않는다’ 규칙을 추가했습니다.**
-- ✅ **fresh breakout 수와 메이저 회복을 분리해, 반등장이어도 fresh가 1개뿐이면 90% 대신 85%로 제한하는 규율을 더 명확히 반영했습니다.**
-- ✅ **headline 메가리퀴드(WLD)와 함정 초대금(OPG·BLUR·SLX)을 리포트에서 더 분명하게 갈라 읽기 쉽게 만들었습니다.**
+- ✅ **DECISIONS.md에 ‘major avg 10~20·fresh 0·top15 positives ≤2면 65% + 1개 mega survivor + 4개 cleaner positive names’ 규칙을 추가했습니다.**
+- ✅ **리포트에 기존 보유를 왜 버렸는지와 새 슬롯 역할을 더 직설적으로 적어 교체 이유를 빠르게 읽게 만들었습니다.**
+- ✅ **KAITO의 7월 20일 unlock 오버행을 watchlist 판단에 명시 반영했습니다.**
 
 ## 판단
-- **raise-to-85-liquid-upper-range-rotation**
+- **cut-to-65-selective-survivor-reset**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **CHIP 52.0 / AGLD 279 / WLD 572 / XLM 282 / NEAR 2,968** 하회 시 즉시 재평가
-- 다음 승격 후보: **SUI / ID / ONDO / JTO / XPL**
-- **OPG / BLUR / SLX / UP2**는 대금이 커도 이번 회차 core 추격 금지
+- **AI 40.2 / SLX 268 / ENSO 1,000 / FLUID 1,560 / UNI 4,840** 하회 시 즉시 재평가
+- 다음 승격 후보: **EDGE / ZBT / SAFE / ARB / PENDLE**
+- **OPG / BLUR / CHIP / AGLD / WLD**는 대금이 커도 이번 회차 core 추격 금지
 
 ## 리스크 메모
-- **fresh breakout은 CHIP 1개뿐이라, 나머지 4종은 continuation/reclaim 성격입니다.**
-- **SOL이 12.5% 위치라 솔라나 계열 전반은 아직 변동성 리스크가 큽니다.**
-- **WLD·XLM은 유동성은 강하지만 수익률 확장 속도는 AGLD·CHIP보다 느릴 수 있습니다.**
-- **메이저 평균이 다시 45 아래로 밀리면 75% 수준 재축소를 열어둬야 합니다.**
+- **메이저 4종이 모두 음수이고 fresh breakout이 0이라, 65%도 공격적입니다.**
+- **SLX는 유동성은 압도적이지만 -8.61% gap이라 1개 salvage 코어 이상 확대 금지입니다.**
+- **AI·ENSO·FLUID는 체급이 상대적으로 작아 장이 한 번 더 꺾이면 변동성이 큽니다.**
+- **메이저 평균이 10 아래로 더 밀리면 다음 회차는 60%까지 축소를 열어둬야 합니다.**
