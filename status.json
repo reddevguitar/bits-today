@@ -1,150 +1,154 @@
 {
   "project": "bit's today",
-  "judgment": "cut-to-65-selective-survivor-reset",
-  "confidence": "medium",
+  "judgment": "cut-to-60-single-core-survivor-with-limited-beta",
+  "confidence": "medium-low",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-07-08 15:58 KST",
-  "market_status": "**메이저 4종 전부 음수, fresh breakout 0, weak breadth 재점등입니다. 지금은 반등 기대보다 생존 강세만 선별해야 합니다.**",
-  "fear_greed": "**20 (Extreme Fear; Alternative.me 15:59 KST 확인)**",
-  "btc_snapshot": "**BTC 93.439M원 / ETH 2.611M원 / XRP 1,627원 / SOL 116.6K원**",
-  "cash_krw": "540,250 KRW",
-  "realized_pnl_krw": "-8,456,430 KRW",
-  "last_valuation_krw": "1,543,570 KRW",
+  "updated_at": "2026-07-08 21:59 KST",
+  "market_status": "**메이저 4종 전부 음수, top15 비메이저 저위치 12개, weak breadth 유지입니다. 지금은 ‘거의 다 깨진 장에서 남은 초록만 고르는’ 국면입니다.**",
+  "fear_greed": "**20 (Extreme Fear; Alternative.me 21:59 KST 확인)**",
+  "btc_snapshot": "**BTC 92.577M원 / ETH 2.597M원 / XRP 1,617원 / SOL 115.1K원**",
+  "cash_krw": "614,169 KRW",
+  "realized_pnl_krw": "-8,464,577 KRW",
+  "last_valuation_krw": "1,535,423 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -84.56,
-  "paper_deployment_pct": 65.0,
-  "cash_ratio_pct": 35.0,
-  "last_action": "RESET_TO_65_AI_SLX_ENSO_FLUID_UNI",
-  "trade_count": 1669,
-  "last_updated": "2026-07-08T15:58:00+09:00",
+  "return_pct": -84.65,
+  "paper_deployment_pct": 60.0,
+  "cash_ratio_pct": 40.0,
+  "last_action": "RESET_TO_60_SLX_ENSO_UNI_KITE_ORBS",
+  "trade_count": 1679,
+  "last_updated": "2026-07-08T21:59:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 30,
+    "recent_trade_actions_24h": 40,
     "recent_24h_buy_count": 25,
     "recent_24h_sell_count": 25,
     "recent_24h_replacement_count": 25,
     "portfolio_churn_24h_pct": 500.0
   },
   "summary": [
-    "🤖 **AI** — 41.0원 / **+1.99%** / 41.0억원 / 위치 **95.8%** / recent-listing clean strength core",
-    "🌞 **SLX** — 276원 / **+3.37%** / 638.6억원 / 위치 **56.7%** / mega-liquidity green survivor",
-    "🌀 **ENSO** — 1,027원 / **+3.63%** / 23.0억원 / 위치 **82.1%** / clean continuation beta",
-    "💧 **FLUID** — 1,616원 / **+4.12%** / 21.7억원 / 위치 **69.9%** / balanced positive continuation",
-    "🦄 **UNI** — 4,936원 / **+3.20%** / 23.9억원 / 위치 **65.5%** / large-cap defi anchor",
-    "BTC **13.2%** / ETH **14.9%** / XRP **16.4%** / SOL **9.8%**",
-    "메이저 평균 **13.6% 위치**, **0상승 4하락**",
-    "fresh breakout **0개**, top15 비메이저 양전환 **2개**, top15 저위치 **13개**, weak breadth **true**",
-    "초대금 함정 후보: **OPG / BLUR / CHIP / AGLD / WLD**",
-    "실투입: **65%**, 5종 동일비중",
-    "타깃: 각 약 **200,664원**",
-    "현금: 약 **540,250원 (35.0%)**",
-    "핵심 논리: **장이 나쁘지만 all-cash까지 갈 정도는 아닙니다. 최근 상장 강세 1개 + 초대금 양수 survivor 1개 + 깨끗한 continuation 2개 + 대형 앵커 1개로 압축합니다.**",
-    "🔽 **85% → 65% 축소**",
-    "SELL: **CHIP / AGLD / WLD / XLM / NEAR**",
-    "BUY: **AI / SLX / ENSO / FLUID / UNI**",
-    "❌ 퇴출: **CHIP / AGLD / WLD / XLM / NEAR**",
-    "✅ 신규: **AI / SLX / ENSO / FLUID / UNI**",
-    "🔁 마지막 액션: **RESET_TO_65_AI_SLX_ENSO_FLUID_UNI**",
-    "AI **4,894.2471개 @ 41.0원**",
-    "SLX **727.0440개 @ 276원**",
-    "ENSO **195.3886개 @ 1,027원**",
-    "FLUID **124.1733개 @ 1,616원**",
-    "UNI **40.6532개 @ 4,936원**",
-    "현금 **540,250원** / 총평가 **1,543,570원**",
-    "장점: **이전 판단이 틀렸다는 신호(major avg -42.8p, fresh 0, top15 양수 2개)를 바로 인정하고 바스켓을 전면 교체한 점**",
-    "아쉬움: **09:58의 85% 재확대는 이번 6시간에는 너무 빨랐고, CHIP·AGLD 같은 직전 강세주 붕괴를 더 빠르게 의심했어야 했습니다.**",
-    "점수: **7.6 / 10**",
-    "✅ **DECISIONS.md에 ‘major avg 10~20·fresh 0·top15 positives ≤2면 65% + 1개 mega survivor + 4개 cleaner positive names’ 규칙을 추가했습니다.**",
-    "✅ **리포트에 기존 보유를 왜 버렸는지와 새 슬롯 역할을 더 직설적으로 적어 교체 이유를 빠르게 읽게 만들었습니다.**",
-    "✅ **KAITO의 7월 20일 unlock 오버행을 watchlist 판단에 명시 반영했습니다.**",
-    "**cut-to-65-selective-survivor-reset**",
-    "**medium**",
-    "**AI 40.2 / SLX 268 / ENSO 1,000 / FLUID 1,560 / UNI 4,840** 하회 시 즉시 재평가",
-    "다음 승격 후보: **EDGE / ZBT / SAFE / ARB / PENDLE**",
-    "**OPG / BLUR / CHIP / AGLD / WLD**는 대금이 커도 이번 회차 core 추격 금지",
-    "**메이저 4종이 모두 음수이고 fresh breakout이 0이라, 65%도 공격적입니다.**",
-    "**SLX는 유동성은 압도적이지만 -8.61% gap이라 1개 salvage 코어 이상 확대 금지입니다.**",
-    "**AI·ENSO·FLUID는 체급이 상대적으로 작아 장이 한 번 더 꺾이면 변동성이 큽니다.**",
-    "**메이저 평균이 10 아래로 더 밀리면 다음 회차는 60%까지 축소를 열어둬야 합니다.**"
+    "🌞 **SLX** — 283원 / **+5.99%** / 681.9억원 / 위치 **68.3%** / mega-liquidity survivor core",
+    "🌀 **ENSO** — 1,039원 / **+4.84%** / 76.1억원 / 위치 **62.8%** / clean survivor continuation",
+    "🦄 **UNI** — 4,927원 / **+3.01%** / 42.3억원 / 위치 **64.1%** / large-cap defi anchor",
+    "🪁 **KITE** — 175원 / **+2.94%** / 29.0억원 / 위치 **100%** / tight-box micro breakout probe",
+    "🔮 **ORBS** — 10.1원 / **+15.56%** / 132.9억원 / 위치 **59.3%** / single wide-gap beta reclaim",
+    "BTC **8.2%** / ETH **16.3%** / XRP **13.8%** / SOL **3.2%**",
+    "메이저 평균 **10.4% 위치**, **0상승 4하락**",
+    "fresh breakout **0개**, quality survivor **1개**, reclaim **1개**, weak breadth **true**",
+    "대금 함정 경고: **OPG / BLUR / XLM / AGLD / WLD**",
+    "실투입: **60%**, 5종 동일비중",
+    "타깃: 각 약 **184,251원**",
+    "현금: 약 **614,169원 (40.0%)**",
+    "핵심 논리: **SLX 1개만 메가 코어로 인정하고, ENSO·UNI 품질축 위에 KITE·ORBS를 제한적으로 얹는 약한 장용 공격 분산입니다.**",
+    "🔽 **65% → 60% 축소**",
+    "SELL: **AI / SLX / ENSO / FLUID / UNI**",
+    "BUY: **SLX / ENSO / UNI / KITE / ORBS**",
+    "❌ 퇴출: **AI / FLUID**",
+    "✅ 신규: **KITE / ORBS**",
+    "🔁 마지막 액션: **RESET_TO_60_SLX_ENSO_UNI_KITE_ORBS**",
+    "SLX **651.0626개 @ 283원**",
+    "ENSO **177.3347개 @ 1,039원**",
+    "UNI **37.3961개 @ 4,927원**",
+    "KITE **1,052.8612개 @ 175원**",
+    "ORBS **18,242.6444개 @ 10.1원**",
+    "현금 **614,169원** / 총평가 **1,535,423원**",
+    "장점: **65% 축소 후에도 추가 악화를 인정하고 AI·FLUID를 바로 퇴출한 점**",
+    "아쉬움: **AI의 상장 뉴스보다 4.8% 위치 붕괴를 더 빨리 우선했어야 했습니다.**",
+    "점수: **7.9 / 10**",
+    "✅ **DECISIONS.md에 “major avg 12 미만·fresh 0·quality survivor/reclaim ≤2면 60%까지 축소” 규칙을 추가했습니다.**",
+    "✅ **보고서 한줄 기준에 실투입 변화(65→60)와 교체 사유를 같이 적어 더 빨리 읽히게 바꿨습니다.**",
+    "✅ **AI처럼 뉴스가 살아 있어도 구조가 10% 미만이면 차트를 우선한다는 자기 점검 기준을 강화했습니다.**",
+    "**cut-to-60-single-core-survivor-with-limited-beta**",
+    "**medium-low**",
+    "**SLX 275 / ENSO 1,010 / UNI 4,840 / KITE 169 / ORBS 9.7** 하회 시 즉시 재평가",
+    "다음 승격 후보: **KAITO / ZBT / ELSA / FLUID / SAFE**",
+    "**OPG / BLUR / XLM / AGLD / AI**는 대금이 커도 이번 회차 core 추격 금지",
+    "**메이저 평균 10.4%라 60%도 여전히 공격적입니다.**",
+    "**SLX 외엔 절대 코어가 부족해 KITE·ORBS 변동성이 큽니다.**",
+    "**KITE는 좁은 박스, ORBS는 wide-gap이라 둘 다 실전 코어가 아니라 제한 슬롯입니다.**",
+    "**메이저 평균이 8 아래로 더 밀리면 다음 회차는 55~60% 추가 방어도 열어둬야 합니다.**"
   ],
   "recent_trades": [
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "ORBS",
+      "action": "BUY",
+      "price_krw": 10.1,
+      "amount_delta": 18242.6443599201,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "132.9억원 대금과 +15.56% attention이 남아 있는 단일 wide-gap beta slot으로 FLUID 대체 신규 편입"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 175.0,
+      "amount_delta": 1052.8611887725315,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "29.0억원 대금, 100% 위치, 0% gap의 좁은 박스 상단 프로브로 AI 대체 슬롯에 신규 편입"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "UNI",
       "action": "BUY",
-      "price_krw": 4936.0,
-      "amount_delta": 40.65318736321317,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "23.9억원 대금, +3.20%, 65.5% 위치, -2.45% gap로 대형 알트 중 가장 읽기 쉬운 디파이 앵커입니다."
+      "price_krw": 4927.0,
+      "amount_delta": 37.3961250325133,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "42.3억원 대금과 64.1% 위치, -2.63% gap로 대형 품질 앵커 역할이 가장 명확해 유지 재편입"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "FLUID",
-      "action": "BUY",
-      "price_krw": 1616.0,
-      "amount_delta": 124.17334952030953,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "21.7억원 대금, +4.12%, 69.9% 위치, -2.83% gap로 과열보다 유지력이 보이는 밸런스형 continuation입니다."
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "ENSO",
       "action": "BUY",
-      "price_krw": 1027.0,
-      "amount_delta": 195.38863955678696,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "23.0억원 대금, +3.63%, 82.1% 위치, -1.44% gap로 소형이지만 가장 단순한 continuation 구조 중 하나입니다."
+      "price_krw": 1039.0,
+      "amount_delta": 177.33465643425697,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "76.1억원 대금과 62.8% 위치, -4.42% gap로 가장 단순한 중형 survivor continuation이라 유지 재편입"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "SLX",
       "action": "BUY",
-      "price_krw": 276.0,
-      "amount_delta": 727.0439595102181,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "63.9억원이 아니라 638.6억원 대금으로 양수 유지한 유일한 메가 리더입니다. gap -8.61%는 거칠지만, 약세장에서도 실제 돈이 남아 있어 1개 salvage 코어로만 허용합니다."
+      "price_krw": 283.0,
+      "amount_delta": 651.0625725625194,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "681.9억원 대금과 +5.99%, 68.3% 위치로 weak breadth 장의 유일한 메가 생존 코어라 재편입"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "AI",
-      "action": "BUY",
-      "price_krw": 41.0,
-      "amount_delta": 4894.247142068785,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "업비트 상장 잔재가 남은 AI 신생 주도주입니다. 41.0억원 대금, +1.99%, 95.8% 위치, -0.24% gap로 오늘 보드에서 가장 깨끗한 생존 강세입니다."
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "NEAR",
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "UNI",
       "action": "SELL",
-      "price_krw": 2842.0,
-      "amount_delta": -93.78527109048633,
-      "cash_delta_krw": 266537.7404391622,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 85% 반등 바스켓을 종료하고 65% all-positive survivor 바스켓으로 재설정"
+      "price_krw": 4927.0,
+      "amount_delta": -40.65318736321317,
+      "cash_delta_krw": 200298.2541385513,
+      "reason": "품질 앵커는 유지하되 21:59 가격 기준 60% 5종 균등 재편을 위해 전량 재매수형 리밸런싱"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "XLM",
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "FLUID",
       "action": "SELL",
-      "price_krw": 276.0,
-      "amount_delta": -985.4058061056733,
-      "cash_delta_krw": 271972.00248516584,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 09:58의 85% 바스켓을 즉시 종료하고 65% all-positive survivor 바스켓으로 재설정"
+      "price_krw": 1592.0,
+      "amount_delta": -124.17334952030953,
+      "cash_delta_krw": 197683.97243633278,
+      "reason": "44.7% 위치와 -6.19% gap로 구조가 약해져 KITE·ORBS 슬롯 재편을 위해 전량 정리"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "WLD",
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "ENSO",
       "action": "SELL",
-      "price_krw": 552.0,
-      "amount_delta": -483.3423988497603,
-      "cash_delta_krw": 266805.0041650677,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 09:58의 85% 바스켓을 즉시 종료하고 65% all-positive survivor 바스켓으로 재설정"
+      "price_krw": 1039.0,
+      "amount_delta": -195.38863955678696,
+      "cash_delta_krw": 203008.79649950165,
+      "reason": "품질 continuation은 유지하되 21:59 가격 기준 60% 5종 균등 재편을 위해 전량 재매수형 리밸런싱"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-07-08-2159.md",
+      "title": "2026-07-08-2159"
+    },
     {
       "file": "2026-07-08-1558.md",
       "title": "2026-07-08-1558"
@@ -172,40 +176,21 @@
     {
       "file": "2026-07-07-0359.md",
       "title": "2026-07-07-0359"
-    },
-    {
-      "file": "2026-07-06-2158.md",
-      "title": "2026-07-06-2158"
     }
   ],
   "positions": [
     {
-      "icon": "🤖",
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "amount": 4894.247142068785,
-      "avg_buy_price_krw": "41 KRW",
-      "last_price_krw": "41 KRW",
-      "thesis": "업비트 상장 잔재가 남은 AI 신생 주도주입니다. 41.0억원 대금, +1.99%, 95.8% 위치, -0.24% gap로 오늘 보드에서 가장 깨끗한 생존 강세입니다.",
-      "strategy": "40.2원 above and 85%+ 구조 유지 시 보유",
-      "role": "recent-listing clean strength core",
-      "risk_limit_pct": 2.4,
-      "profit_take_pct": 6.8,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
       "icon": "🌞",
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "amount": 727.0439595102181,
-      "avg_buy_price_krw": "276 KRW",
-      "last_price_krw": "276 KRW",
-      "thesis": "63.9억원이 아니라 638.6억원 대금으로 양수 유지한 유일한 메가 리더입니다. gap -8.61%는 거칠지만, 약세장에서도 실제 돈이 남아 있어 1개 salvage 코어로만 허용합니다.",
-      "strategy": "268원 above and 50%+ 구조 유지 시 보유",
-      "role": "mega-liquidity green survivor",
-      "risk_limit_pct": 3.6,
-      "profit_take_pct": 5.5,
+      "amount": 651.0625725625194,
+      "avg_buy_price_krw": "283 KRW",
+      "last_price_krw": "283 KRW",
+      "thesis": "68.2억원이 아니라 681.9억원 대금으로 여전히 업비트 비메이저 1위입니다. 메이저 전멸 속에서도 +5.99%와 68.3% 위치를 지켜 이번 회차 유일한 메가 생존 코어입니다.",
+      "strategy": "275원 above and 60%+ 구조 유지 시 보유",
+      "role": "mega-liquidity survivor core",
+      "risk_limit_pct": 4.0,
+      "profit_take_pct": 6.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -213,28 +198,13 @@
       "icon": "🌀",
       "symbol": "ENSO",
       "market": "KRW-ENSO",
-      "amount": 195.38863955678696,
-      "avg_buy_price_krw": "1,027 KRW",
-      "last_price_krw": "1,027 KRW",
-      "thesis": "23.0억원 대금, +3.63%, 82.1% 위치, -1.44% gap로 소형이지만 가장 단순한 continuation 구조 중 하나입니다.",
-      "strategy": "1000원 above and 78%+ 구조 유지 시 보유",
-      "role": "clean continuation beta",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 6.0,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "💧",
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "amount": 124.17334952030953,
-      "avg_buy_price_krw": "1,616 KRW",
-      "last_price_krw": "1,616 KRW",
-      "thesis": "21.7억원 대금, +4.12%, 69.9% 위치, -2.83% gap로 과열보다 유지력이 보이는 밸런스형 continuation입니다.",
-      "strategy": "1560원 above and 65%+ 구조 유지 시 보유",
-      "role": "balanced positive continuation",
-      "risk_limit_pct": 2.6,
+      "amount": 177.33465643425697,
+      "avg_buy_price_krw": "1,039 KRW",
+      "last_price_krw": "1,039 KRW",
+      "thesis": "76.1억원 대금, +4.84%, 62.8% 위치, -4.42% gap로 오늘 보드에서 가장 단순한 중형 생존 continuation입니다.",
+      "strategy": "1010원 above and 58%+ 구조 유지 시 보유",
+      "role": "clean survivor continuation",
+      "risk_limit_pct": 2.9,
       "profit_take_pct": 5.8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
@@ -243,60 +213,50 @@
       "icon": "🦄",
       "symbol": "UNI",
       "market": "KRW-UNI",
-      "amount": 40.65318736321317,
-      "avg_buy_price_krw": "4,936 KRW",
-      "last_price_krw": "4,936 KRW",
-      "thesis": "23.9억원 대금, +3.20%, 65.5% 위치, -2.45% gap로 대형 알트 중 가장 읽기 쉬운 디파이 앵커입니다.",
-      "strategy": "4840원 above and 60%+ 구조 유지 시 보유",
+      "amount": 37.3961250325133,
+      "avg_buy_price_krw": "4,927 KRW",
+      "last_price_krw": "4,927 KRW",
+      "thesis": "42.3억원 대금과 64.1% 위치, -2.63% gap 조합으로 대형 알트 중 가장 깨끗한 품질 앵커입니다.",
+      "strategy": "4840원 above and 58%+ 구조 유지 시 보유",
       "role": "large-cap defi anchor",
-      "risk_limit_pct": 2.2,
-      "profit_take_pct": 4.9,
+      "risk_limit_pct": 2.3,
+      "profit_take_pct": 4.8,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "amount": 1052.8611887725315,
+      "avg_buy_price_krw": "175 KRW",
+      "last_price_krw": "175 KRW",
+      "thesis": "29.0억원 대금은 크지 않지만 100% 위치와 0% gap가 매우 선명합니다. 단, 좁은 박스 fresh 성격이라 공격 프로브 1슬롯으로만 사용합니다.",
+      "strategy": "169원 above and 90%+ 상단 체류 시 보유",
+      "role": "tight-box micro breakout probe",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 5.4,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ORBS",
+      "market": "KRW-ORBS",
+      "amount": 18242.6443599201,
+      "avg_buy_price_krw": "10 KRW",
+      "last_price_krw": "10 KRW",
+      "thesis": "132.9억원 대금과 +15.56%는 강하지만 -9.82% gap가 커서 전형적 core는 아닙니다. 그래도 현재 보드에서 실제 attention이 남은 고베타 슬롯 1개로만 허용합니다.",
+      "strategy": "9.7원 above and 50%+ 구조 유지 시 보유",
+      "role": "single wide-gap beta reclaim",
+      "risk_limit_pct": 4.8,
+      "profit_take_pct": 8.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "RE": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 976.0,
-        "action": "SELL"
-      }
-    ],
-    "UP2": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 94.1,
-        "action": "SELL"
-      }
-    ],
-    "PYTH": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 65.1,
-        "action": "SELL"
-      }
-    ],
-    "WLFI": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 87.2,
-        "action": "SELL"
-      }
-    ],
-    "MON": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 37.7,
-        "action": "SELL"
-      }
-    ],
     "AGLD": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 245.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-07-08T09:58:00+09:00",
         "price_krw": 286.0,
@@ -315,11 +275,6 @@
     ],
     "CHIP": [
       {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 53.1,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-07-08T09:58:00+09:00",
         "price_krw": 53.4,
         "action": "SELL"
@@ -337,22 +292,12 @@
     ],
     "JUP": [
       {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 360.0,
-        "action": "BUY"
-      },
-      {
         "timestamp": "2026-07-08T09:58:00+09:00",
         "price_krw": 360.0,
         "action": "SELL"
       }
     ],
     "FLUID": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 1531.0,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-07-08T09:58:00+09:00",
         "price_krw": 1531.0,
@@ -362,14 +307,14 @@
         "timestamp": "2026-07-08T15:58:00+09:00",
         "price_krw": 1616.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 1592.0,
+        "action": "SELL"
       }
     ],
     "MEGA": [
-      {
-        "timestamp": "2026-07-08T03:58:00+09:00",
-        "price_krw": 74.6,
-        "action": "BUY"
-      },
       {
         "timestamp": "2026-07-08T09:58:00+09:00",
         "price_krw": 74.6,
@@ -417,12 +362,27 @@
         "timestamp": "2026-07-08T15:58:00+09:00",
         "price_krw": 41.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 38.5,
+        "action": "SELL"
       }
     ],
     "SLX": [
       {
         "timestamp": "2026-07-08T15:58:00+09:00",
         "price_krw": 276.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 283.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 283.0,
         "action": "BUY"
       }
     ],
@@ -431,6 +391,16 @@
         "timestamp": "2026-07-08T15:58:00+09:00",
         "price_krw": 1027.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 1039.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 1039.0,
+        "action": "BUY"
       }
     ],
     "UNI": [
@@ -438,323 +408,337 @@
         "timestamp": "2026-07-08T15:58:00+09:00",
         "price_krw": 4936.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 4927.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 4927.0,
+        "action": "BUY"
+      }
+    ],
+    "KITE": [
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 175.0,
+        "action": "BUY"
+      }
+    ],
+    "ORBS": [
+      {
+        "timestamp": "2026-07-08T21:59:00+09:00",
+        "price_krw": 10.1,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-07-08-1558.md",
+  "latest_report_file": "2026-07-08-2159.md",
   "preferred_buy_candidates": [
-    {
-      "icon": "🤖",
-      "symbol": "AI",
-      "market": "KRW-AI",
-      "price_krw": 41.0,
-      "change_pct_24h": 1.99004975,
-      "turnover_krw_24h": 4100081363.116865,
-      "reason": "업비트 상장 잔재가 남은 AI 신생 주도주입니다. 41.0억원 대금, +1.99%, 95.8% 위치, -0.24% gap로 오늘 보드에서 가장 깨끗한 생존 강세입니다.",
-      "score": null,
-      "community": null,
-      "risk": null,
-      "allocation_krw": 200664.1328248202,
-      "role": "recent-listing clean strength core",
-      "invalidated_if": "40.2원 하회 또는 85% 구조 붕괴",
-      "range_position_pct": 95.8,
-      "day_high_gap_pct": -0.24
-    },
     {
       "icon": "🌞",
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "price_krw": 276.0,
-      "change_pct_24h": 3.37078652,
-      "turnover_krw_24h": 63857869516.64036,
-      "reason": "63.9억원이 아니라 638.6억원 대금으로 양수 유지한 유일한 메가 리더입니다. gap -8.61%는 거칠지만, 약세장에서도 실제 돈이 남아 있어 1개 salvage 코어로만 허용합니다.",
+      "price_krw": 283.0,
+      "change_pct_24h": 5.99250936,
+      "turnover_krw_24h": 68189603524.07531,
+      "reason": "68.2억원이 아니라 681.9억원 대금으로 여전히 업비트 비메이저 1위입니다. 메이저 전멸 속에서도 +5.99%와 68.3% 위치를 지켜 이번 회차 유일한 메가 생존 코어입니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 200664.1328248202,
-      "role": "mega-liquidity green survivor",
-      "invalidated_if": "268원 하회 또는 50% 구조 붕괴",
-      "range_position_pct": 56.7,
-      "day_high_gap_pct": -8.61
+      "allocation_krw": 184250.708035193,
+      "role": "mega-liquidity survivor core",
+      "invalidated_if": "275원 하회 또는 60% 구조 붕괴",
+      "range_position_pct": 68.3,
+      "day_high_gap_pct": -6.29
     },
     {
       "icon": "🌀",
       "symbol": "ENSO",
       "market": "KRW-ENSO",
-      "price_krw": 1027.0,
-      "change_pct_24h": 3.63269425,
-      "turnover_krw_24h": 2302383863.8536105,
-      "reason": "23.0억원 대금, +3.63%, 82.1% 위치, -1.44% gap로 소형이지만 가장 단순한 continuation 구조 중 하나입니다.",
+      "price_krw": 1039.0,
+      "change_pct_24h": 4.84359233,
+      "turnover_krw_24h": 7612174023.309098,
+      "reason": "76.1억원 대금, +4.84%, 62.8% 위치, -4.42% gap로 오늘 보드에서 가장 단순한 중형 생존 continuation입니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 200664.1328248202,
-      "role": "clean continuation beta",
-      "invalidated_if": "1,000원 하회 또는 78% 구조 붕괴",
-      "range_position_pct": 82.1,
-      "day_high_gap_pct": -1.44
-    },
-    {
-      "icon": "💧",
-      "symbol": "FLUID",
-      "market": "KRW-FLUID",
-      "price_krw": 1616.0,
-      "change_pct_24h": 4.12371134,
-      "turnover_krw_24h": 2174297169.086635,
-      "reason": "21.7억원 대금, +4.12%, 69.9% 위치, -2.83% gap로 과열보다 유지력이 보이는 밸런스형 continuation입니다.",
-      "score": null,
-      "community": null,
-      "risk": null,
-      "allocation_krw": 200664.1328248202,
-      "role": "balanced positive continuation",
-      "invalidated_if": "1,560원 하회 또는 65% 구조 붕괴",
-      "range_position_pct": 69.9,
-      "day_high_gap_pct": -2.83
+      "allocation_krw": 184250.708035193,
+      "role": "clean survivor continuation",
+      "invalidated_if": "1,010원 하회 또는 58% 구조 붕괴",
+      "range_position_pct": 62.8,
+      "day_high_gap_pct": -4.42
     },
     {
       "icon": "🦄",
       "symbol": "UNI",
       "market": "KRW-UNI",
-      "price_krw": 4936.0,
-      "change_pct_24h": 3.19882919,
-      "turnover_krw_24h": 2390436799.8936124,
-      "reason": "23.9억원 대금, +3.20%, 65.5% 위치, -2.45% gap로 대형 알트 중 가장 읽기 쉬운 디파이 앵커입니다.",
+      "price_krw": 4927.0,
+      "change_pct_24h": 3.01066276,
+      "turnover_krw_24h": 4230204523.1356945,
+      "reason": "42.3억원 대금과 64.1% 위치, -2.63% gap 조합으로 대형 알트 중 가장 깨끗한 품질 앵커입니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 200664.1328248202,
+      "allocation_krw": 184250.708035193,
       "role": "large-cap defi anchor",
-      "invalidated_if": "4,840원 하회 또는 60% 구조 붕괴",
-      "range_position_pct": 65.5,
-      "day_high_gap_pct": -2.45
+      "invalidated_if": "4,840원 하회 또는 58% 구조 붕괴",
+      "range_position_pct": 64.1,
+      "day_high_gap_pct": -2.63
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "market": "KRW-KITE",
+      "price_krw": 175.0,
+      "change_pct_24h": 2.94117647,
+      "turnover_krw_24h": 2890066282.8306427,
+      "reason": "29.0억원 대금은 크지 않지만 100% 위치와 0% gap가 매우 선명합니다. 단, 좁은 박스 fresh 성격이라 공격 프로브 1슬롯으로만 사용합니다.",
+      "score": null,
+      "community": null,
+      "risk": null,
+      "allocation_krw": 184250.708035193,
+      "role": "tight-box micro breakout probe",
+      "invalidated_if": "169원 하회 또는 90% 구조 붕괴",
+      "range_position_pct": 100.0,
+      "day_high_gap_pct": 0.0
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ORBS",
+      "market": "KRW-ORBS",
+      "price_krw": 10.1,
+      "change_pct_24h": 15.56064073,
+      "turnover_krw_24h": 13288016432.535568,
+      "reason": "132.9억원 대금과 +15.56%는 강하지만 -9.82% gap가 커서 전형적 core는 아닙니다. 그래도 현재 보드에서 실제 attention이 남은 고베타 슬롯 1개로만 허용합니다.",
+      "score": null,
+      "community": null,
+      "risk": null,
+      "allocation_krw": 184250.708035193,
+      "role": "single wide-gap beta reclaim",
+      "invalidated_if": "9.7원 하회 또는 50% 구조 붕괴",
+      "range_position_pct": 59.3,
+      "day_high_gap_pct": -9.82
     }
   ],
   "reference_watchlist": [
     {
-      "icon": "🗡️",
-      "symbol": "EDGE",
-      "market": "KRW-EDGE",
-      "reason": "5.5억원이 아니라 55.4억원 대금과 +7.62%는 강하지만 50.0% 위치·-7.38% gap라 preferred보다는 후순위 승격 후보입니다."
+      "icon": "🧠",
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "+14.84%라도 38.7% 위치·-18.23% gap에 7월 20일 unlock 오버행까지 있어 preferred 승격 보류입니다."
     },
     {
       "icon": "🧿",
       "symbol": "ZBT",
       "market": "KRW-ZBT",
-      "reason": "11.4억원 대금과 87.5% 위치가 매우 깔끔하지만 절대 체급이 더 작은 좁은 박스형이라 watchlist 상단에 둡니다."
+      "reason": "20.2억원 대금과 +5.0%는 좋지만 52.2% 위치로 KITE보다 상단 선명도가 약합니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ELSA",
+      "market": "KRW-ELSA",
+      "reason": "26.4억원 대금과 +4.78%는 무난하지만 -6.47% gap라 ENSO보다 한 단계 거칩니다."
+    },
+    {
+      "icon": "💧",
+      "symbol": "FLUID",
+      "market": "KRW-FLUID",
+      "reason": "+2.58%라도 44.7% 위치·-6.19% gap로 기존 continuation 구조가 약해졌습니다."
     },
     {
       "icon": "🛟",
       "symbol": "SAFE",
       "market": "KRW-SAFE",
-      "reason": "12.0억원 대금, 66.7% 위치, -1.80% gap 조합은 좋지만 오늘은 UNI·FLUID가 더 단순했습니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "ARB",
-      "market": "KRW-ARB",
-      "reason": "80.0% 위치와 -0.85% gap는 우수하지만 17.2억원 대금으로 UNI 대비 체급 우위가 부족합니다."
-    },
-    {
-      "icon": "🪙",
-      "symbol": "PENDLE",
-      "market": "KRW-PENDLE",
-      "reason": "76.4% 위치는 좋지만 12.8억원 대금으로 5개 코어 자리를 차지할 정도의 attention은 아닙니다."
+      "reason": "39.1% 위치로 mid-range에 머물러 5개 코어 자리를 차지하기 어렵습니다."
     },
     {
       "icon": "🆔",
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "+2.51% 양수여도 32.7% 위치·-5.46% gap면 구조가 너무 낮아 rescue 슬롯 이상으로 보지 않습니다."
+      "reason": "대금은 크지만 31.7% 위치·-6.79% gap면 아직 reclaim 근거가 약합니다."
     },
     {
-      "icon": "🐍",
-      "symbol": "PYTH",
-      "market": "KRW-PYTH",
-      "reason": "Pyth 재료는 남아도 26.3% 위치라 아직 보드 추세로 연결되지 않았습니다."
+      "icon": "⚙️",
+      "symbol": "WLFI",
+      "market": "KRW-WLFI",
+      "reason": "gap은 깨끗하지만 아직 음수라 공격 코어로 올리기엔 부족합니다."
     },
     {
-      "icon": "🧠",
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "reason": "+8.13%라도 42.3% 위치·-9.31% gap에 7월 20일 unlock 오버행까지 있어 과열 watchlist로만 둡니다."
+      "icon": "🤖",
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "Gensyn 상장 재료는 남아도 4.8% 위치와 -9.41% gap로 구조 붕괴가 더 중요합니다."
     }
   ],
   "cycle_improvements": [
-    "DECISIONS.md에 “major avg 10~20, fresh 0, top15 positives ≤2면 65%와 1개 mega survivor + 4개 cleaner positive names로 재구성” 규칙을 추가했습니다.",
-    "이번 회차부터 보고서에 왜 기존 보유 5종을 버렸는지와 새 바스켓의 역할 분리를 더 직설적으로 적어 교체 이유를 빠르게 읽게 만들었습니다.",
-    "selection에서 KAITO unlock 오버행을 명시적으로 감점해 단순 상승률 추격을 줄였습니다."
+    "DECISIONS.md에 “major avg 12 미만·fresh 0·quality survivor/reclaim 합계 2 이하이면 paper deployment를 60%까지 낮추고 wide-gap beta는 최대 1개만 허용” 규칙을 추가했습니다.",
+    "이번 회차부터 리포트 한줄 기준에 65%→60% 같은 실투입 변화와 교체 사유를 함께 적어 포지션 변화가 더 바로 읽히게 했습니다.",
+    "AI처럼 외부 호재가 살아 있어도 구조가 10% 미만으로 붕괴하면 뉴스보다 차트를 우선하도록 self-review 문장을 강화했습니다."
   ],
   "rejected_candidates": [
     {
+      "symbol": "AI",
+      "market": "KRW-AI",
+      "reason": "상장 서사는 남아도 -4.23%, 4.8% 위치, -9.41% gap면 즉시 탈락입니다."
+    },
+    {
       "symbol": "OPG",
       "market": "KRW-OPG",
-      "reason": "540.8억원 대금에도 -7.29%·16.7% 위치면 전형적인 turnover trap입니다."
+      "reason": "384.5억원 대금에도 -7.81%, 12.5% 위치면 전형적인 turnover trap입니다."
     },
     {
       "symbol": "BLUR",
       "market": "KRW-BLUR",
-      "reason": "450.9억원 대금에도 16.7% 위치·-9.49% gap라 반등 코어 자격이 없습니다."
+      "reason": "259.2억원 대금과 달리 7.7% 위치·-11.39% gap라 추격 금지입니다."
     },
     {
-      "symbol": "CHIP",
-      "market": "KRW-CHIP",
-      "reason": "334.9억원 대금이어도 17.1% 위치·-10.49% gap면 fresh core 가정이 완전히 무너졌습니다."
-    },
-    {
-      "symbol": "AGLD",
-      "market": "KRW-AGLD",
-      "reason": "-8.85%, 3.6% 위치, -18.28% gap로 실패한 breakout의 전형입니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "Altman headline은 남아도 11.4% 위치·-5.32% gap로 현 시점엔 trap 쪽입니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "247.0억원 대금이어도 7.1% 위치면 생존 코어 자격이 없습니다."
     },
     {
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "reason": "8.13% 상승이라도 42.3% 위치·-9.31% gap에 unlock 오버행까지 있어 preferred 승격은 보류합니다."
+      "reason": "+14.84%라도 38.7% 위치·-18.23% gap에 unlock 오버행까지 겹칩니다."
+    },
+    {
+      "symbol": "FLUID",
+      "market": "KRW-FLUID",
+      "reason": "+2.58% 양수여도 44.7% 위치와 -6.19% gap면 더 강한 5개보다 밀립니다."
     }
   ],
-  "top_line": "**메이저 평균 위치가 56.4%→13.6%로 급락했고 top15 비메이저 양수는 2개뿐입니다. 85% 반등 바스켓은 틀렸다고 인정하고, 65%로 즉시 줄이되 전량 현금 대신 AI·SLX·ENSO·FLUID·UNI 5종으로 공격축만 남깁니다.**",
-  "ui_version": "v28.0",
+  "top_line": "**메이저 평균 위치가 13.6%→10.4%로 더 밀렸고 fresh breakout은 여전히 0입니다. 65% survivor 바스켓도 한 칸 더 줄여 60%로 재설정하되, SLX·ENSO·UNI를 축으로 KITE·ORBS의 제한적 공격 슬롯만 남깁니다.**",
+  "ui_version": "v29.0",
   "risk_plan": {
-    "portfolio_cash_target": "기본 현금 35% 유지. 메이저 평균이 10 아래로 재하락하면 60%까지 축소 검토. 메이저 평균이 35 위로 회복하고 fresh breakout이 2개 이상이면 75% 재상향 검토.",
-    "review_trigger": "AI 40.2 / SLX 268 / ENSO 1,000 / FLUID 1,560 / UNI 4,840 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 현금 40% 유지. 메이저 평균이 8 아래로 더 밀리면 55~60% 재검토. 메이저 평균이 25 위로 회복하고 fresh breakout이 2개 이상이면 70% 재상향 검토.",
+    "review_trigger": "SLX 275 / ENSO 1,010 / UNI 4,840 / KITE 169 / ORBS 9.7 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "major avg 20 미만·fresh 0 구간에서는 70% 초과 과투입 금지",
-      "top15 positives가 2개 이하일 때 sub-35% rescue 종목은 최대 1개만 허용",
+      "major avg 12 미만·fresh 0 구간에서는 60% 초과 과투입 금지",
+      "wide-gap beta slot은 최대 1개만 허용",
       "현금 0%는 금지"
     ],
     "exit_rules": [
-      "AI 40.2 / SLX 268 / ENSO 1,000 / FLUID 1,560 / UNI 4,840 하회 시 즉시 재평가",
+      "SLX 275 / ENSO 1,010 / UNI 4,840 / KITE 169 / ORBS 9.7 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "major avg 20 미만·fresh 0 구간에서는 70% 초과 과투입 금지",
-      "top15 positives가 2개 이하일 때 sub-35% rescue 종목은 최대 1개만 허용",
+      "major avg 12 미만·fresh 0 구간에서는 60% 초과 과투입 금지",
+      "wide-gap beta slot은 최대 1개만 허용",
       "현금 0%는 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 133.8억원입니다.",
-    "momentum_discipline": "85% failed breakout/reclaim basket 종료 / AI·SLX·ENSO·FLUID·UNI 65% 재배치",
-    "diversification": "recent-listing core 1 + mega-liquidity survivor 1 + clean continuation 2 + large-cap anchor 1",
-    "cash_usage": "65%",
-    "rotation_speed": "fast-de-risk-into-all-positive-survivors"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 958.9억원입니다.",
+    "momentum_discipline": "AI·FLUID 제거 / SLX·ENSO·UNI 유지 / KITE·ORBS로 제한적 공격 교체",
+    "diversification": "mega survivor 1 + clean continuation 2 + tight-box probe 1 + wide-gap beta 1",
+    "cash_usage": "60%",
+    "rotation_speed": "incremental-de-risk-into-single-core-plus-limited-beta"
   },
   "signal_balance": {
-    "summary": "major avg 13.57 / weak breadth true / fresh 0 / top15 positives 2 / top15 low-range 13 -> 함정 대금주는 버리고 65% all-positive survivor 바스켓이 합리적"
+    "summary": "major avg 10.38 / weak breadth true / fresh 0 / top15 positives 4 / top15 low-range 12 -> 60%로 축소, SLX 단일 메가 코어 + ENSO·UNI 품질축 + 제한적 KITE·ORBS"
   },
   "rotation_map": [
     {
-      "bucket": "CHIP → AI",
+      "bucket": "AI → KITE",
       "symbols": [
-        "CHIP",
-        "AI"
+        "AI",
+        "KITE"
       ],
-      "note": "AI는 최근 상장 잔재와 95.8% 구조가 남아 있지만 CHIP은 17.1% 위치 trap으로 무너졌습니다."
+      "note": "AI는 4.8% 위치로 붕괴했고 KITE는 100% 위치·0% gap의 상단 프로브를 보여줍니다."
     },
     {
-      "bucket": "AGLD → ENSO",
+      "bucket": "FLUID → ORBS",
       "symbols": [
-        "AGLD",
-        "ENSO"
+        "FLUID",
+        "ORBS"
       ],
-      "note": "AGLD failed breakout을 버리고, 82.1% 위치의 더 깨끗한 continuation으로 교체했습니다."
+      "note": "FLUID는 44.7% 위치로 mid-range에 밀렸고 ORBS는 거칠어도 실제 대금과 +15.56% attention이 남았습니다."
     },
     {
-      "bucket": "WLD → FLUID",
+      "bucket": "65% sizing → 60% sizing",
       "symbols": [
-        "WLD",
-        "FLUID"
+        "65% sizing",
+        "60% sizing"
       ],
-      "note": "headline 리클레임이 깨진 WLD 대신 구조가 단순한 중형 continuation을 택했습니다."
-    },
-    {
-      "bucket": "XLM → UNI",
-      "symbols": [
-        "XLM",
-        "UNI"
-      ],
-      "note": "XLM은 10.0% 위치로 붕괴했고 UNI는 65.5% 위치의 대형 디파이 앵커로 더 안정적입니다."
-    },
-    {
-      "bucket": "NEAR → SLX",
-      "symbols": [
-        "NEAR",
-        "SLX"
-      ],
-      "note": "NEAR도 11.5% 위치로 무너진 반면 SLX는 거친 gap에도 유일한 초대금 양수 survivor였습니다."
+      "note": "메이저 평균이 13.6%에서 10.4%로 더 악화돼 추가 방어가 필요해졌습니다."
     }
   ],
   "self_evaluation": {
-    "score": 7.6,
-    "summary": "09:58의 85% 재확대는 이번 6시간에 크게 맞지 않았습니다. 다만 손실을 인정하고 즉시 65%로 줄이면서 all-positive survivor 5종으로 구조를 재설정한 대응은 늦지 않았습니다."
+    "score": 7.9,
+    "summary": "15:58의 65% 축소는 맞았지만 AI·FLUID를 한 회차 더 들고 간 것은 과했습니다. 다만 6시간 안에 구조 악화를 인정하고 60%로 추가 축소한 대응은 개선적입니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 3.26,
+    "preferred_avg_change_pct_24h": 6.47,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 74825068712.5911,
-    "leader_turnover_share_pct": 85.34,
+    "preferred_turnover_total_krw_24h": 96210064785.88632,
+    "leader_turnover_share_pct": 70.88,
     "leader_symbol": "SLX",
     "leader_concentration_warning": "high"
   },
-  "snapshot_updated_at_utc": "2026-07-08T06:59:04.357097+00:00",
+  "snapshot_updated_at_utc": "2026-07-08T12:59:05.049428+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": -5,
-    "top15_alt_low_range_count_delta": 6,
-    "weak_breadth_warning_changed": true,
-    "entered_top5_turnover": [],
-    "exited_top5_turnover": []
+    "top15_alt_positive_count_delta": 2,
+    "top15_alt_low_range_count_delta": -1,
+    "weak_breadth_warning_changed": false,
+    "entered_top5_turnover": [
+      "KAITO",
+      "XLM"
+    ],
+    "exited_top5_turnover": [
+      "CHIP",
+      "RE"
+    ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": -42.83,
-    "major_positive_count_delta": -3,
-    "major_negative_count_delta": 3
+    "major_avg_range_position_pct_delta": -3.19,
+    "major_positive_count_delta": 0,
+    "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
     "fresh_breakout_count": 0,
     "high_conviction_count": 0,
-    "quality_survivor_count": 0,
+    "quality_survivor_count": 1,
     "relative_strength_reclaim_count": 1,
     "breakout_cluster_active": false,
-    "summary": "fresh 0 / conviction 0 / survivor 0 / reclaim 1"
+    "summary": "fresh 0 / conviction 0 / survivor 1 / reclaim 1"
   },
   "scenario_view": {
     "regime": "majors_breakdown_selective_defense",
     "regime_label_ko": "메이저 붕괴·선별 방어",
     "regime_icon": "🟠",
-    "btc_range_position_pct": 13.2,
-    "major_avg_range_position_pct": 13.57,
-    "preferred_avg_change_pct_24h": 3.26,
-    "preferred_high_range_count": 2,
+    "btc_range_position_pct": 8.2,
+    "major_avg_range_position_pct": 10.38,
+    "preferred_avg_change_pct_24h": 6.47,
+    "preferred_high_range_count": 1,
     "summary": "메이저가 동시에 저위치라 광범위 추격보다 소수 잔존 강세만 허용해야 하는 구간."
   },
   "regime_shift_alert": {
     "active": true,
-    "major_avg_delta_pct": -42.83,
-    "top15_positive_count": 2,
-    "top15_low_range_count": 13,
+    "major_avg_delta_pct": -3.19,
+    "top15_positive_count": 4,
+    "top15_low_range_count": 12,
     "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": -42.83,
+    "major_avg_delta_pct": -3.19,
     "fresh_breakout_count": 0,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 74.0,
-    "avg_day_high_gap_pct": -3.11,
-    "above_80_range_count": 2,
-    "summary": "고위치(80%+) 후보 2개 / 평균 위치 74.0%"
+    "avg_range_position_pct": 70.9,
+    "avg_day_high_gap_pct": -4.63,
+    "above_80_range_count": 1,
+    "summary": "고위치(80%+) 후보 1개 / 평균 위치 70.9%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -765,43 +749,43 @@
   "discipline_alerts": [],
   "candidate_health": [
     {
-      "icon": "🤖",
-      "symbol": "AI",
-      "last_price_krw": 41.0,
-      "threshold_krw": 40.2,
-      "distance_to_invalidation_pct": 1.99,
-      "status": "near"
-    },
-    {
       "icon": "🌞",
       "symbol": "SLX",
-      "last_price_krw": 276.0,
-      "threshold_krw": 268.0,
-      "distance_to_invalidation_pct": 2.99,
+      "last_price_krw": 283.0,
+      "threshold_krw": 275.0,
+      "distance_to_invalidation_pct": 2.91,
       "status": "near"
     },
     {
       "icon": "🌀",
       "symbol": "ENSO",
-      "last_price_krw": 1027.0,
-      "threshold_krw": 1000.0,
-      "distance_to_invalidation_pct": 2.7,
-      "status": "near"
-    },
-    {
-      "icon": "💧",
-      "symbol": "FLUID",
-      "last_price_krw": 1616.0,
-      "threshold_krw": 1560.0,
-      "distance_to_invalidation_pct": 3.59,
+      "last_price_krw": 1039.0,
+      "threshold_krw": 1010.0,
+      "distance_to_invalidation_pct": 2.87,
       "status": "near"
     },
     {
       "icon": "🦄",
       "symbol": "UNI",
-      "last_price_krw": 4936.0,
+      "last_price_krw": 4927.0,
       "threshold_krw": 4840.0,
-      "distance_to_invalidation_pct": 1.98,
+      "distance_to_invalidation_pct": 1.8,
+      "status": "near"
+    },
+    {
+      "icon": "🪁",
+      "symbol": "KITE",
+      "last_price_krw": 175.0,
+      "threshold_krw": 169.0,
+      "distance_to_invalidation_pct": 3.55,
+      "status": "near"
+    },
+    {
+      "icon": "🪙",
+      "symbol": "ORBS",
+      "last_price_krw": 10.1,
+      "threshold_krw": 9.7,
+      "distance_to_invalidation_pct": 4.12,
       "status": "near"
     }
   ],
@@ -815,7 +799,7 @@
     "active": true,
     "near_or_broken_count": 5,
     "leader_concentration_warning": "high",
-    "avg_range_position_pct": 74.0,
+    "avg_range_position_pct": 70.9,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -825,94 +809,94 @@
   },
   "recent_rotation_log_24h": [
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "ORBS",
+      "action": "BUY",
+      "price_krw": 10.1,
+      "amount_delta": 18242.6443599201,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "132.9억원 대금과 +15.56% attention이 남아 있는 단일 wide-gap beta slot으로 FLUID 대체 신규 편입"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 175.0,
+      "amount_delta": 1052.8611887725315,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "29.0억원 대금, 100% 위치, 0% gap의 좁은 박스 상단 프로브로 AI 대체 슬롯에 신규 편입"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "UNI",
       "action": "BUY",
-      "price_krw": 4936.0,
-      "amount_delta": 40.65318736321317,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "23.9억원 대금, +3.20%, 65.5% 위치, -2.45% gap로 대형 알트 중 가장 읽기 쉬운 디파이 앵커입니다."
+      "price_krw": 4927.0,
+      "amount_delta": 37.3961250325133,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "42.3억원 대금과 64.1% 위치, -2.63% gap로 대형 품질 앵커 역할이 가장 명확해 유지 재편입"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "FLUID",
-      "action": "BUY",
-      "price_krw": 1616.0,
-      "amount_delta": 124.17334952030953,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "21.7억원 대금, +4.12%, 69.9% 위치, -2.83% gap로 과열보다 유지력이 보이는 밸런스형 continuation입니다."
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "ENSO",
       "action": "BUY",
-      "price_krw": 1027.0,
-      "amount_delta": 195.38863955678696,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "23.0억원 대금, +3.63%, 82.1% 위치, -1.44% gap로 소형이지만 가장 단순한 continuation 구조 중 하나입니다."
+      "price_krw": 1039.0,
+      "amount_delta": 177.33465643425697,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "76.1억원 대금과 62.8% 위치, -4.42% gap로 가장 단순한 중형 survivor continuation이라 유지 재편입"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "SLX",
       "action": "BUY",
-      "price_krw": 276.0,
-      "amount_delta": 727.0439595102181,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "63.9억원이 아니라 638.6억원 대금으로 양수 유지한 유일한 메가 리더입니다. gap -8.61%는 거칠지만, 약세장에서도 실제 돈이 남아 있어 1개 salvage 코어로만 허용합니다."
+      "price_krw": 283.0,
+      "amount_delta": 651.0625725625194,
+      "cash_delta_krw": -184250.708035193,
+      "reason": "681.9억원 대금과 +5.99%, 68.3% 위치로 weak breadth 장의 유일한 메가 생존 코어라 재편입"
     },
     {
-      "timestamp": "2026-07-08T15:58:00+09:00",
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "UNI",
+      "action": "SELL",
+      "price_krw": 4927.0,
+      "amount_delta": -40.65318736321317,
+      "cash_delta_krw": 200298.2541385513,
+      "reason": "품질 앵커는 유지하되 21:59 가격 기준 60% 5종 균등 재편을 위해 전량 재매수형 리밸런싱"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "FLUID",
+      "action": "SELL",
+      "price_krw": 1592.0,
+      "amount_delta": -124.17334952030953,
+      "cash_delta_krw": 197683.97243633278,
+      "reason": "44.7% 위치와 -6.19% gap로 구조가 약해져 KITE·ORBS 슬롯 재편을 위해 전량 정리"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "ENSO",
+      "action": "SELL",
+      "price_krw": 1039.0,
+      "amount_delta": -195.38863955678696,
+      "cash_delta_krw": 203008.79649950165,
+      "reason": "품질 continuation은 유지하되 21:59 가격 기준 60% 5종 균등 재편을 위해 전량 재매수형 리밸런싱"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
+      "symbol": "SLX",
+      "action": "SELL",
+      "price_krw": 283.0,
+      "amount_delta": -727.0439595102181,
+      "cash_delta_krw": 205753.44054139173,
+      "reason": "메가 생존 코어는 유지하되 21:59 가격 기준 60% 5종 균등 재편을 위해 전량 재매수형 리밸런싱"
+    },
+    {
+      "timestamp": "2026-07-08T21:59:00+09:00",
       "symbol": "AI",
-      "action": "BUY",
-      "price_krw": 41.0,
-      "amount_delta": 4894.247142068785,
-      "cash_delta_krw": -200664.1328248202,
-      "reason": "업비트 상장 잔재가 남은 AI 신생 주도주입니다. 41.0억원 대금, +1.99%, 95.8% 위치, -0.24% gap로 오늘 보드에서 가장 깨끗한 생존 강세입니다."
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "NEAR",
       "action": "SELL",
-      "price_krw": 2842.0,
-      "amount_delta": -93.78527109048633,
-      "cash_delta_krw": 266537.7404391622,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 85% 반등 바스켓을 종료하고 65% all-positive survivor 바스켓으로 재설정"
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "XLM",
-      "action": "SELL",
-      "price_krw": 276.0,
-      "amount_delta": -985.4058061056733,
-      "cash_delta_krw": 271972.00248516584,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 09:58의 85% 바스켓을 즉시 종료하고 65% all-positive survivor 바스켓으로 재설정"
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "WLD",
-      "action": "SELL",
-      "price_krw": 552.0,
-      "amount_delta": -483.3423988497603,
-      "cash_delta_krw": 266805.0041650677,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 09:58의 85% 바스켓을 즉시 종료하고 65% all-positive survivor 바스켓으로 재설정"
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "AGLD",
-      "action": "SELL",
-      "price_krw": 237.0,
-      "amount_delta": -978.5148564126266,
-      "cash_delta_krw": 231908.0209697925,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 09:58의 85% 바스켓을 즉시 종료하고 65% all-positive survivor 바스켓으로 재설정"
-    },
-    {
-      "timestamp": "2026-07-08T15:58:00+09:00",
-      "symbol": "CHIP",
-      "action": "SELL",
-      "price_krw": 49.5,
-      "amount_delta": -5240.734998764255,
-      "cash_delta_krw": 259416.3824388306,
-      "reason": "메이저 평균 13.6%, fresh breakout 0, top15 비메이저 양수 2개뿐이라 09:58의 85% 바스켓을 즉시 종료하고 65% all-positive survivor 바스켓으로 재설정"
+      "price_krw": 38.5,
+      "amount_delta": -4894.247142068785,
+      "cash_delta_krw": 188428.51496964824,
+      "reason": "AI 상장 서사는 남아도 4.8% 위치 붕괴가 확인돼 60% 재편을 위해 전량 정리"
     }
   ],
   "staleness_warning": {
@@ -922,66 +906,66 @@
   },
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🤖 **AI** — 41.0원 / **+1.99%** / 41.0억원 / 위치 **95.8%** / recent-listing clean strength core",
-      "- 🌞 **SLX** — 276원 / **+3.37%** / 638.6억원 / 위치 **56.7%** / mega-liquidity green survivor",
-      "- 🌀 **ENSO** — 1,027원 / **+3.63%** / 23.0억원 / 위치 **82.1%** / clean continuation beta",
-      "- 💧 **FLUID** — 1,616원 / **+4.12%** / 21.7억원 / 위치 **69.9%** / balanced positive continuation",
-      "- 🦄 **UNI** — 4,936원 / **+3.20%** / 23.9억원 / 위치 **65.5%** / large-cap defi anchor"
+      "- 🌞 **SLX** — 283원 / **+5.99%** / 681.9억원 / 위치 **68.3%** / mega-liquidity survivor core",
+      "- 🌀 **ENSO** — 1,039원 / **+4.84%** / 76.1억원 / 위치 **62.8%** / clean survivor continuation",
+      "- 🦄 **UNI** — 4,927원 / **+3.01%** / 42.3억원 / 위치 **64.1%** / large-cap defi anchor",
+      "- 🪁 **KITE** — 175원 / **+2.94%** / 29.0억원 / 위치 **100%** / tight-box micro breakout probe",
+      "- 🔮 **ORBS** — 10.1원 / **+15.56%** / 132.9억원 / 위치 **59.3%** / single wide-gap beta reclaim"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **13.2%** / ETH **14.9%** / XRP **16.4%** / SOL **9.8%**",
-      "- 메이저 평균 **13.6% 위치**, **0상승 4하락**",
-      "- fresh breakout **0개**, top15 비메이저 양전환 **2개**, top15 저위치 **13개**, weak breadth **true**",
-      "- 초대금 함정 후보: **OPG / BLUR / CHIP / AGLD / WLD**"
+      "- BTC **8.2%** / ETH **16.3%** / XRP **13.8%** / SOL **3.2%**",
+      "- 메이저 평균 **10.4% 위치**, **0상승 4하락**",
+      "- fresh breakout **0개**, quality survivor **1개**, reclaim **1개**, weak breadth **true**",
+      "- 대금 함정 경고: **OPG / BLUR / XLM / AGLD / WLD**"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **65%**, 5종 동일비중",
-      "- 타깃: 각 약 **200,664원**",
-      "- 현금: 약 **540,250원 (35.0%)**",
-      "- 핵심 논리: **장이 나쁘지만 all-cash까지 갈 정도는 아닙니다. 최근 상장 강세 1개 + 초대금 양수 survivor 1개 + 깨끗한 continuation 2개 + 대형 앵커 1개로 압축합니다.**"
+      "- 실투입: **60%**, 5종 동일비중",
+      "- 타깃: 각 약 **184,251원**",
+      "- 현금: 약 **614,169원 (40.0%)**",
+      "- 핵심 논리: **SLX 1개만 메가 코어로 인정하고, ENSO·UNI 품질축 위에 KITE·ORBS를 제한적으로 얹는 약한 장용 공격 분산입니다.**"
     ],
     "가상 매매 실행 내용": [
-      "- 🔽 **85% → 65% 축소**",
-      "- SELL: **CHIP / AGLD / WLD / XLM / NEAR**",
-      "- BUY: **AI / SLX / ENSO / FLUID / UNI**",
-      "- ❌ 퇴출: **CHIP / AGLD / WLD / XLM / NEAR**",
-      "- ✅ 신규: **AI / SLX / ENSO / FLUID / UNI**",
-      "- 🔁 마지막 액션: **RESET_TO_65_AI_SLX_ENSO_FLUID_UNI**"
+      "- 🔽 **65% → 60% 축소**",
+      "- SELL: **AI / SLX / ENSO / FLUID / UNI**",
+      "- BUY: **SLX / ENSO / UNI / KITE / ORBS**",
+      "- ❌ 퇴출: **AI / FLUID**",
+      "- ✅ 신규: **KITE / ORBS**",
+      "- 🔁 마지막 액션: **RESET_TO_60_SLX_ENSO_UNI_KITE_ORBS**"
     ],
     "현재 포트폴리오 현황": [
-      "- AI **4,894.2471개 @ 41.0원**",
-      "- SLX **727.0440개 @ 276원**",
-      "- ENSO **195.3886개 @ 1,027원**",
-      "- FLUID **124.1733개 @ 1,616원**",
-      "- UNI **40.6532개 @ 4,936원**",
-      "- 현금 **540,250원** / 총평가 **1,543,570원**"
+      "- SLX **651.0626개 @ 283원**",
+      "- ENSO **177.3347개 @ 1,039원**",
+      "- UNI **37.3961개 @ 4,927원**",
+      "- KITE **1,052.8612개 @ 175원**",
+      "- ORBS **18,242.6444개 @ 10.1원**",
+      "- 현금 **614,169원** / 총평가 **1,535,423원**"
     ],
     "자기 평가": [
-      "- 장점: **이전 판단이 틀렸다는 신호(major avg -42.8p, fresh 0, top15 양수 2개)를 바로 인정하고 바스켓을 전면 교체한 점**",
-      "- 아쉬움: **09:58의 85% 재확대는 이번 6시간에는 너무 빨랐고, CHIP·AGLD 같은 직전 강세주 붕괴를 더 빠르게 의심했어야 했습니다.**",
-      "- 점수: **7.6 / 10**"
+      "- 장점: **65% 축소 후에도 추가 악화를 인정하고 AI·FLUID를 바로 퇴출한 점**",
+      "- 아쉬움: **AI의 상장 뉴스보다 4.8% 위치 붕괴를 더 빨리 우선했어야 했습니다.**",
+      "- 점수: **7.9 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **DECISIONS.md에 ‘major avg 10~20·fresh 0·top15 positives ≤2면 65% + 1개 mega survivor + 4개 cleaner positive names’ 규칙을 추가했습니다.**",
-      "- ✅ **리포트에 기존 보유를 왜 버렸는지와 새 슬롯 역할을 더 직설적으로 적어 교체 이유를 빠르게 읽게 만들었습니다.**",
-      "- ✅ **KAITO의 7월 20일 unlock 오버행을 watchlist 판단에 명시 반영했습니다.**"
+      "- ✅ **DECISIONS.md에 “major avg 12 미만·fresh 0·quality survivor/reclaim ≤2면 60%까지 축소” 규칙을 추가했습니다.**",
+      "- ✅ **보고서 한줄 기준에 실투입 변화(65→60)와 교체 사유를 같이 적어 더 빨리 읽히게 바꿨습니다.**",
+      "- ✅ **AI처럼 뉴스가 살아 있어도 구조가 10% 미만이면 차트를 우선한다는 자기 점검 기준을 강화했습니다.**"
     ],
     "판단": [
-      "- **cut-to-65-selective-survivor-reset**"
+      "- **cut-to-60-single-core-survivor-with-limited-beta**"
     ],
     "신뢰도": [
-      "- **medium**"
+      "- **medium-low**"
     ],
     "추천 행동": [
-      "- **AI 40.2 / SLX 268 / ENSO 1,000 / FLUID 1,560 / UNI 4,840** 하회 시 즉시 재평가",
-      "- 다음 승격 후보: **EDGE / ZBT / SAFE / ARB / PENDLE**",
-      "- **OPG / BLUR / CHIP / AGLD / WLD**는 대금이 커도 이번 회차 core 추격 금지"
+      "- **SLX 275 / ENSO 1,010 / UNI 4,840 / KITE 169 / ORBS 9.7** 하회 시 즉시 재평가",
+      "- 다음 승격 후보: **KAITO / ZBT / ELSA / FLUID / SAFE**",
+      "- **OPG / BLUR / XLM / AGLD / AI**는 대금이 커도 이번 회차 core 추격 금지"
     ],
     "리스크 메모": [
-      "- **메이저 4종이 모두 음수이고 fresh breakout이 0이라, 65%도 공격적입니다.**",
-      "- **SLX는 유동성은 압도적이지만 -8.61% gap이라 1개 salvage 코어 이상 확대 금지입니다.**",
-      "- **AI·ENSO·FLUID는 체급이 상대적으로 작아 장이 한 번 더 꺾이면 변동성이 큽니다.**",
-      "- **메이저 평균이 10 아래로 더 밀리면 다음 회차는 60%까지 축소를 열어둬야 합니다.**"
+      "- **메이저 평균 10.4%라 60%도 여전히 공격적입니다.**",
+      "- **SLX 외엔 절대 코어가 부족해 KITE·ORBS 변동성이 큽니다.**",
+      "- **KITE는 좁은 박스, ORBS는 wide-gap이라 둘 다 실전 코어가 아니라 제한 슬롯입니다.**",
+      "- **메이저 평균이 8 아래로 더 밀리면 다음 회차는 55~60% 추가 방어도 열어둬야 합니다.**"
     ]
   }
 }
