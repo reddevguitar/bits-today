@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 299387.3292625689,
-  "realized_pnl_krw": -8509521.108802043,
-  "last_valuation_krw": 1496941.6463128496,
-  "last_action": "ROTATE_TO_80_KAITO_ARB_ID_ENSO_ADA",
-  "last_updated": "2026-07-09T21:58:00+09:00",
-  "trade_count": 1716,
+  "cash_krw": 224210.5399646724,
+  "realized_pnl_krw": -8511725.822017075,
+  "last_valuation_krw": 1494736.9330978165,
+  "last_action": "RESET_TO_85_XLM_ARB_OPG_SENT_ONDO",
+  "last_updated": "2026-07-10T03:58:00+09:00",
+  "trade_count": 1726,
   "positions": {
-    "KAITO": {
-      "market": "KRW-KAITO",
-      "amount": 230.96592421413303,
-      "avg_buy_price_krw": 1037.0,
-      "last_price_krw": 1037.0,
-      "value_krw": 239510.66341005595,
-      "thesis": "282.9억원 대금 1위, +4.96%, 87.1% 위치로 이번 밤에도 가장 읽기 쉬운 메가 코어입니다. 7월 20일 unlock 오버행은 남아도 현재 보드에서는 구조 우위가 더 큽니다.",
-      "strategy": "1015원 above and 80%+ 구조 유지 시 보유",
-      "role": "mega-liquidity continuation core",
-      "risk_limit_pct": 3.2,
-      "profit_take_pct": 6.0
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 917.3475762694181,
+      "avg_buy_price_krw": 277.0,
+      "last_price_krw": 277.0,
+      "value_krw": 254105.27862662883,
+      "thesis": "213.4억원 실거래대금과 90.0% 위치, -0.36% gap로 이번 새벽 가장 단순하고 큰 상단 유지입니다. fresh 재확장 구간에서 XLM을 다시 코어로 올리는 편이 직관적입니다.",
+      "strategy": "274원 above and 85%+ 구조 유지 시 보유",
+      "role": "mega-liquidity breakout anchor",
+      "risk_limit_pct": 2.0,
+      "profit_take_pct": 4.8
     },
     "ARB": {
       "market": "KRW-ARB",
-      "amount": 1871.177057891062,
-      "avg_buy_price_krw": 128.0,
-      "last_price_krw": 128.0,
-      "value_krw": 239510.66341005595,
-      "thesis": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다.",
-      "strategy": "123원 above and 75%+ 구조 유지 시 보유",
-      "role": "beta momentum replacement",
-      "risk_limit_pct": 4.0,
+      "amount": 1896.308049452454,
+      "avg_buy_price_krw": 134.0,
+      "last_price_krw": 134.0,
+      "value_krw": 254105.27862662883,
+      "thesis": "+17.54%와 92.7억원, 90.9% 위치가 동시에 살아 있는 이번 회차 최강 베타입니다. fresh breakout 재개 구간에서는 방어보다 가속 축으로 다루는 게 맞습니다.",
+      "strategy": "130원 above and 85%+ 구조 유지 시 보유",
+      "role": "fresh beta accelerator",
+      "risk_limit_pct": 3.5,
       "profit_take_pct": 7.5
     },
-    "ID": {
-      "market": "KRW-ID",
-      "amount": 4246.642968263404,
-      "avg_buy_price_krw": 56.4,
-      "last_price_krw": 56.4,
-      "value_krw": 239510.66341005595,
-      "thesis": "52.6억원 대금과 90.7% 위치, -0.70% gap으로 가장 단정한 상단 고정 슬롯입니다.",
-      "strategy": "55.3원 above and 84%+ 구조 유지 시 보유",
-      "role": "tight high-range finisher",
+    "OPG": {
+      "market": "KRW-OPG",
+      "amount": 1403.8965669979493,
+      "avg_buy_price_krw": 181.0,
+      "last_price_krw": 181.0,
+      "value_krw": 254105.27862662883,
+      "thesis": "152.7억원 대금과 83.3% 위치, -1.09% gap 조합이 매우 깔끔합니다. community 자금이 다시 AI·인프라 쪽으로 붙는 흐름에서 OPG가 가장 읽기 쉽습니다.",
+      "strategy": "178원 above and 78%+ 구조 유지 시 보유",
+      "role": "ai-liquidity continuation core",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 5.5
+    },
+    "SENT": {
+      "market": "KRW-SENT",
+      "amount": 9517.051633956136,
+      "avg_buy_price_krw": 26.7,
+      "last_price_krw": 26.7,
+      "value_krw": 254105.27862662883,
+      "thesis": "30.88% 급등과 107.8억원 대금, 82.5% 위치가 동시에 확인됩니다. 바이낸스 상장 이력과 한국 거래소 접근성 확대 서사가 겹친 attention 슬롯으로 공격 바스켓 가치가 충분합니다.",
+      "strategy": "25.9원 above and 78%+ 구조 유지 시 보유",
+      "role": "high-beta listing momentum slot",
+      "risk_limit_pct": 5.0,
+      "profit_take_pct": 9.0
+    },
+    "ONDO": {
+      "market": "KRW-ONDO",
+      "amount": 532.7154688189283,
+      "avg_buy_price_krw": 477.0,
+      "last_price_krw": 477.0,
+      "value_krw": 254105.27862662883,
+      "thesis": "77.1억원이 아니라 71.5억원 대금이지만 83.3% 위치와 -0.62% gap가 매우 좋습니다. 직전 강등 이후 바로 상단 회복에 성공해 재편입 명분이 생겼습니다.",
+      "strategy": "472원 above and 78%+ 구조 유지 시 보유",
+      "role": "large-cap rwa continuation",
       "risk_limit_pct": 2.5,
       "profit_take_pct": 4.8
-    },
-    "ENSO": {
-      "market": "KRW-ENSO",
-      "amount": 220.95079650374257,
-      "avg_buy_price_krw": 1084.0,
-      "last_price_krw": 1084.0,
-      "value_krw": 239510.66341005595,
-      "thesis": "+5.14%와 88.5억원 대금은 아직 살아 있고, 16시 대비 식었어도 70%대 상단 체류를 유지해 교체보다 잔류 가치가 있습니다.",
-      "strategy": "1065원 above and 70%+ 구조 유지 시 보유",
-      "role": "attention survivor expansion",
-      "risk_limit_pct": 3.8,
-      "profit_take_pct": 6.5
-    },
-    "ADA": {
-      "market": "KRW-ADA",
-      "amount": 946.6824640713673,
-      "avg_buy_price_krw": 253.0,
-      "last_price_krw": 253.0,
-      "value_krw": 239510.66341005595,
-      "thesis": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다.",
-      "strategy": "250원 above and 78%+ 구조 유지 시 보유",
-      "role": "large-cap clean continuation",
-      "risk_limit_pct": 2.5,
-      "profit_take_pct": 4.5
     }
   },
   "watchlist": [
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "473원 자체는 버텼지만 61.1% 위치로 기존 72% 구조 기준이 깨졌습니다. 70%대 재회복 시 재진입 후보입니다."
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "1015원 기준이 실제로 깨졌고 현재 위치가 60.0%입니다. 1020원 재회복과 70%대 상단 복귀 전까지 core 재진입 보류."
+    },
+    {
+      "symbol": "ID",
+      "market": "KRW-ID",
+      "reason": "79.1% 구조는 좋지만 XLM·OPG·ONDO 대비 체급과 확장성이 한 단계 약해 이번엔 6번째 후보로 밀렸습니다."
+    },
+    {
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "reason": "+4.17%는 좋지만 위치 63.3%와 -3.24% gap로 fresh 재확장 바스켓 우선순위에서 밀렸습니다."
     },
     {
       "symbol": "XPL",
       "market": "KRW-XPL",
-      "reason": "가격은 138원선이지만 위치가 62.5%까지 식어 80% continuation 명분이 사라졌습니다. 재상단 복귀 전 watchlist로 강등합니다."
+      "reason": "75.0% 구조는 회복했지만 44.7억원 대금으로 현재 상위 5종보다 한 단계 약합니다."
     },
     {
-      "symbol": "OPG",
-      "market": "KRW-OPG",
-      "reason": "112.8억원 실대금은 좋지만 58.3% 위치라 지금은 코어보다 감시 후보입니다."
+      "symbol": "UNI",
+      "market": "KRW-UNI",
+      "reason": "76.7% 위치와 -1.27% gap는 좋지만 34.1억원 대금이라 이번 톱5 공격 슬롯까지는 부족합니다."
     },
     {
-      "symbol": "BIRB",
-      "market": "KRW-BIRB",
-      "reason": "+8.0%와 92.4억원 대금은 좋지만 고점 대비 -5.54% gap가 넓어 우선순위를 낮췄습니다."
-    },
-    {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "67.4억원 대금과 58.9% 위치로 무난하지만 ARB·ADA 대비 상단 질이 한 단계 약합니다."
-    },
-    {
-      "symbol": "EGLD",
-      "market": "KRW-EGLD",
-      "reason": "+10.2%지만 55.3% 위치와 -6.16% gap로 late strength 성격이 강합니다."
+      "symbol": "ENA",
+      "market": "KRW-ENA",
+      "reason": "83.3% 위치는 좋지만 대금이 27.8억원대로 얕아 선발 기준에 못 미칩니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "Altman headline은 남아도 음수라 현재 all-positive 바스켓보다 우선순위가 낮습니다."
+      "reason": "10.3억원대가 아니라 103.4억원 대금이어도 음수라 current all-positive 바스켓보다 우선순위가 낮습니다."
     }
   ],
   "history": [
@@ -5939,6 +5939,96 @@
       "amount_delta": 946.6824640713673,
       "cash_delta_krw": -239510.66341005595,
       "reason": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다."
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 1014.0,
+      "amount_delta": -230.96592421413303,
+      "cash_delta_krw": 234199.4471531309,
+      "reason": "1015원 무효화와 60% 구조 둔화가 확인돼 XLM fresh core로 교체"
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "ARB",
+      "action": "SELL",
+      "price_krw": 134.0,
+      "amount_delta": -1871.177057891062,
+      "cash_delta_krw": 250737.7257574023,
+      "reason": "ARB는 유지하지만 03:58 가격 기준 85% 동일비중 재정렬을 위해 전량 재매수형 리밸런싱"
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 55.9,
+      "amount_delta": -4246.642968263404,
+      "cash_delta_krw": 237387.3419259243,
+      "reason": "79.1% 구조는 남았지만 더 큰 실대금의 OPG·ONDO·XLM으로 바스켓 업그레이드"
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "SELL",
+      "price_krw": 1074.0,
+      "amount_delta": -220.95079650374257,
+      "cash_delta_krw": 237301.1554450195,
+      "reason": "63.3% 구조와 -3.24% gap로 fresh 재확장 바스켓 우선순위에서 밀려 SENT로 교체"
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "ADA",
+      "action": "SELL",
+      "price_krw": 249.0,
+      "amount_delta": -946.6824640713673,
+      "cash_delta_krw": 235723.93355377048,
+      "reason": "28.6% 위치와 음전환으로 continuation 명분이 사라져 ONDO로 교체"
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 277.0,
+      "amount_delta": 917.3475762694181,
+      "cash_delta_krw": -254105.27862662883,
+      "reason": "213.4억원 대금, 90.0% 위치, -0.36% gap로 이번 새벽 최강 메가 브레이크아웃 코어입니다."
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "ARB",
+      "action": "BUY",
+      "price_krw": 134.0,
+      "amount_delta": 1896.308049452454,
+      "cash_delta_krw": -254105.27862662883,
+      "reason": "+17.54%와 92.7억원, 90.9% 위치가 동시에 살아 있는 fresh 베타 가속 축입니다."
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "OPG",
+      "action": "BUY",
+      "price_krw": 181.0,
+      "amount_delta": 1403.8965669979493,
+      "cash_delta_krw": -254105.27862662883,
+      "reason": "152.7억원 대금과 83.3% 위치, -1.09% gap로 AI/인프라 계열 중 가장 깔끔한 continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "SENT",
+      "action": "BUY",
+      "price_krw": 26.7,
+      "amount_delta": 9517.051633956136,
+      "cash_delta_krw": -254105.27862662883,
+      "reason": "30.88% 급등과 107.8억원 대금, 82.5% 위치가 겹친 공격 attention 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-07-10T03:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 477.0,
+      "amount_delta": 532.7154688189283,
+      "cash_delta_krw": -254105.27862662883,
+      "reason": "71.5억원 대금과 83.3% 위치, -0.62% gap로 large-cap RWA continuation이 다시 확인됐습니다."
     }
   ]
 }
