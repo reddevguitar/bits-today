@@ -1,69 +1,68 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-07-09 03:59 KST
-- 기준 한줄: **메이저 평균 위치가 10.4%→26.9%로 반등했지만 fresh breakout은 여전히 0입니다. 60% 방어 모드에서 65%로만 소폭 재리스크하고, 구조가 깨진 KITE·ORBS를 빼고 SLX·WLD·UNI·VVV·WLFI의 cleaner continuation 바스켓으로 교체합니다.**
-- 시장 한줄 요약: **메이저는 아직 4종 전부 음수지만, 알트 상단 보존 종목이 조금 늘었습니다. 지금은 “전면 공격”이 아니라 “깨끗한 상단 5개만 선별 재가동” 구간입니다.**
-- 공포탐욕지수: **20 (Extreme Fear; Alternative.me 03:59 KST 확인)**
-- BTC 참고: **BTC 93.011M원 / ETH 2.595M원 / XRP 1,627원 / SOL 115.4K원**
+- 시각: 2026-07-09 09:59 KST
+- 기준 한줄: **메이저 평균 위치가 26.9%→23.7%로 다시 밀리고 top15 양수는 3개뿐입니다. 65% 공격 비중은 유지하되 WLD·WLFI·VVV 같은 깨진 헤드라인 슬롯을 전량 제거하고 SLX·ORBS·JTO·ARX·IN의 all-positive/near-flat survivor 5종으로 전면 리셋합니다.**
+- 시장 한줄 요약: **메이저는 더 약해졌지만, 업비트 보드에는 여전히 65~93% 상단을 지키는 알트 5개가 남아 있습니다. 이번 회차는 비중 축소보다 종목 교체가 핵심입니다.**
+- 공포탐욕지수: **22 (Extreme Fear; Alternative.me 09:59 KST 확인)**
+- BTC 참고: **BTC 92.585M원 / ETH 2.592M원 / XRP 1,622.0원 / SOL 115.9K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🌞 **SLX** — 282원 / **+5.62%** / 657.8억원 / 위치 **66.7%** / mega-liquidity survivor core
-- 🌍 **WLD** — 578원 / **+1.23%** / 148.2억원 / 위치 **86.8%** / public-figure liquidity continuation
-- 🦄 **UNI** — 5,020원 / **+4.96%** / 45.6억원 / 위치 **86.8%** / large-cap defi quality continuation
-- 🕶️ **VVV** — 16,690원 / **+5.90%** / 34.4억원 / 위치 **95.4%** / tight clean high-range beta
-- ⚙️ **WLFI** — 88.5원 / **+1.14%** / 31.5억원 / 위치 **75.0%** / narrative-linked clean support continuation
+- 🌞 **SLX** — 289.0원 / **-0.34%** / 662.5억원 / 위치 **60.0%** / mega core
+- 🪐 **ORBS** — 9.8원 / **+4.48%** / 197.8억원 / 위치 **66.3%** / liquid beta reclaim
+- 🪂 **JTO** — 961.0원 / **+1.26%** / 122.0억원 / 위치 **74.1%** / sol beta continuation
+- 🧬 **ARX** — 273.0원 / **+0.74%** / 69.3억원 / 위치 **85.7%** / tight reclaim
+- ♾️ **IN** — 70.7원 / **+4.59%** / 71.0억원 / 위치 **97.8%** / high-range beta
 
 ## 제외된 메이저 참고 신호
-- BTC **26.3%** / ETH **28.8%** / XRP **35.2%** / SOL **17.1%**
-- 메이저 평균 **26.9% 위치**, **0상승 4하락**
-- fresh breakout **0개**, quality survivor **2개**, reclaim **2개**, weak breadth **true**
-- 대금 함정 경고: **KAITO / OPG / XLM / AGLD / BLUR**
+- BTC **6.1%** / ETH **18.8%** / XRP **20.0%** / SOL **50.0%**
+- 메이저 평균 **23.7% 위치**, **0상승 4하락**
+- fresh breakout **0개**, quality survivor **7개**, reclaim **8개**, weak breadth **true**
+- 대금 함정 경고: **KAITO / OPG / WLD / ID / ENSO**
 
 ## 공격 포트폴리오 전략
 - 실투입: **65%**, 5종 동일비중
-- 타깃: 각 약 **197,785원**
-- 현금: 약 **532,498원 (35.0%)**
-- 핵심 논리: **KITE·ORBS처럼 깨진 beta를 버리고, SLX 1개 메가 코어 + WLD·UNI liquid continuation + VVV·WLFI 보조 공격 슬롯으로 재편합니다.**
+- 타깃: 각 약 **197,803원**
+- 현금: 약 **532,548원 (35.0%)**
+- 핵심 논리: **비중은 유지하되 headline 실패주를 버리고, flat-to-positive 상단 생존주 5개로 갈아탑니다.**
 
 ## 가상 매매 실행 내용
-- 🔼 **60% → 65% 소폭 재리스크**
-- SELL: **SLX / ENSO / UNI / KITE / ORBS**
-- BUY: **SLX / WLD / UNI / VVV / WLFI**
-- ❌ 퇴출: **ENSO / KITE / ORBS**
-- ✅ 신규: **WLD / VVV / WLFI**
-- 🔁 마지막 액션: **RESET_TO_65_SLX_WLD_UNI_VVV_WLFI**
+- 🔁 **65% 유지, 종목만 전면 리셋**
+- ❌ 퇴출: **WLD / WLFI / VVV / UNI**
+- ➖ 정리 후 재편: **SLX**
+- ✅ 신규: **ORBS / JTO / ARX / IN**
+- 마지막 액션: **RESET_TO_65_SLX_ORBS_JTO_ARX_IN**
 
 ## 현재 포트폴리오 현황
-- SLX **701.3653개 @ 282원**
-- WLD **342.1886개 @ 578원**
-- UNI **39.3994개 @ 5,020원**
-- VVV **11.8505개 @ 16,690원**
-- WLFI **2234.8588개 @ 88.5원**
-- 현금 **532,498원** / 총평가 **1,521,423원**
+- SLX **684.4411개 @ 289.0원**
+- ORBS **20184.0286개 @ 9.8원**
+- JTO **205.8309개 @ 961.0원**
+- ARX **724.5549개 @ 273.0원**
+- IN **2797.7861개 @ 70.7원**
+- 현금 **532,548원** / 총평가 **1,521,565원**
 
 ## 자기 평가
-- 장점: **60% 방어 후 반등 구간에서도 70%로 과속하지 않고 65%만 올린 점**
-- 아쉬움: **WLD 같은 cleaner continuation을 한 회차 더 빨리 승격했으면 더 좋았습니다.**
-- 점수: **8.3 / 10**
+- 장점: **65% 비중을 조급하게 줄이지 않고, 구조가 깨진 슬롯만 잘라낸 점**
+- 아쉬움: **WLD·WLFI headline 슬롯을 직전 회차에 더 빨리 버렸어야 했습니다.**
+- 점수: **8.4 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 “sub-15 crash base 반등에서도 weak breadth·fresh 0이면 깨진 beta를 즉시 퇴출하고 65%까지만 재리스크” 규칙을 추가했습니다.**
-- ✅ **public-figure 계열을 WLD·WLFI(구조 정상)와 KAITO(대금 함정)로 분리 표기해 판단 실수를 줄였습니다.**
-- ✅ **리포트 한줄 기준에 방어→재리스크 전환과 퇴출 슬롯(KITE·ORBS)을 함께 적어 변화가 더 바로 보이게 했습니다.**
+- ✅ **DECISIONS.md에 “low-20s major avg + weak breadth + fresh 0이어도 flat/positive 상단 5개가 있으면 65% 유지, 대신 negative headline은 강제 퇴출” 규칙을 추가했습니다.**
+- ✅ **리포트에 잔류/퇴출/신규를 분리해 포지션 변경 이유를 더 빨리 보이게 했습니다.**
+- ✅ **ZKP 같은 tight-box 100% 후보를 watchlist로 분리해 숫자 과적합을 줄였습니다.**
 
 ## 판단
-- **re-risk-to-65-clean-continuations-with-one-mega-core**
+- **hold-65-but-hard-reset-into-clean-survivors**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **SLX 275 / WLD 565 / UNI 4,950 / VVV 16,200 / WLFI 87.4** 하회 시 즉시 재평가
-- 다음 승격 후보: **ENSO / KITE / ELSA / STX / FLUID**
-- **KAITO / OPG / XLM / AGLD / BLUR / ORBS**는 대금이 커도 이번 회차 core 추격 금지
+- **SLX 286 / ORBS 9.55 / JTO 950 / ARX 271 / IN 69** 하회 시 즉시 재평가
+- 다음 승격 후보: **XPL / ZKP / UNI / TAIKO**
+- **KAITO / OPG / WLD / ID / ENSO**는 대금이 커도 이번 회차 core 추격 금지
 
 ## 리스크 메모
-- **메이저 4종이 아직 모두 음수라 65%도 제한적 공격입니다.**
-- **SLX 대금 집중도가 높아 리더 하나가 흔들리면 바스켓 체감이 빠르게 나빠질 수 있습니다.**
-- **VVV·WLFI는 구조는 좋지만 30억원대라 유동성 둔화 시 교체가 빨라질 수 있습니다.**
-- **메이저 평균이 다시 20 아래로 밀리면 다음 회차는 60% 재방어를 우선 검토해야 합니다.**
+- **메이저 4종이 모두 음수라 65%도 방심 구간은 아닙니다.**
+- **SLX 대금 집중도가 커서 메가 코어 하나가 꺾이면 바스켓 체감이 빨리 나빠질 수 있습니다.**
+- **ORBS는 재진입 종목이라 65% 구조를 다시 잃으면 미련 없이 퇴출해야 합니다.**
+- **IN·ARX는 체급이 아주 크진 않아 유동성 둔화 시 교체 속도가 빨라질 수 있습니다.**
