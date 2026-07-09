@@ -1,74 +1,138 @@
 {
   "project": "bit's today",
-  "judgment": "aggressive-85-full-reset-into-high-range-leaders",
-  "confidence": "medium-high",
+  "judgment": "aggressive-80-rotate-into-true-high-range-leaders",
+  "confidence": "medium",
   "suggested_action": "aggressive diversified paper trading with refreshed alt focus",
-  "updated_at": "2026-07-09 15:58 KST",
-  "market_status": "**공포탐욕은 아직 22지만 업비트 구조는 이미 risk-on으로 돌아섰습니다. 이번 회차 핵심은 관망이 아니라 broken basket 청산 후 상단 리더 재배치입니다.**",
-  "fear_greed": "**22 (Extreme Fear; Alternative.me API 16:00 KST 확인)**",
-  "btc_snapshot": "**BTC 93.767M원 / ETH 2.615M원 / XRP 1,641.0원 / SOL 117.1K원**",
-  "cash_krw": "224,268 KRW",
-  "realized_pnl_krw": "-8,504,877 KRW",
-  "last_valuation_krw": "1,495,123 KRW",
+  "updated_at": "2026-07-09 21:58 KST",
+  "market_status": "**공포탐욕은 아직 22지만 업비트 보드는 완전 붕괴가 아니라 선별 강세입니다. 오늘 밤 핵심은 방어 전환이 아니라 broken slot 3개를 정리하고 진짜 상단만 남기는 것입니다.**",
+  "fear_greed": "**22 (Extreme Fear; Alternative.me 21:59 KST 확인)**",
+  "btc_snapshot": "**BTC 93.650M원 / ETH 2.606M원 / XRP 1,635원 / SOL 116.2K원**",
+  "cash_krw": "299,387 KRW",
+  "realized_pnl_krw": "-8,509,521 KRW",
+  "last_valuation_krw": "1,496,942 KRW",
   "initial_cash_krw": "10,000,000 KRW",
-  "return_pct": -85.05,
-  "paper_deployment_pct": 85.0,
-  "cash_ratio_pct": 15.0,
-  "last_action": "RESET_TO_85_KAITO_ENSO_ONDO_ID_XPL",
-  "trade_count": 1709,
-  "last_updated": "2026-07-09T15:58:00+09:00",
+  "return_pct": -85.03,
+  "paper_deployment_pct": 80.0,
+  "cash_ratio_pct": 20.0,
+  "last_action": "ROTATE_TO_80_KAITO_ARB_ID_ENSO_ADA",
+  "trade_count": 1716,
+  "last_updated": "2026-07-09T21:58:00+09:00",
   "position_count": 5,
   "rotation_footprint": {
     "recent_buy_count": 20,
     "recent_sell_count": 20,
     "recent_rotation_count": 20,
-    "recent_trade_actions_24h": 30,
-    "recent_24h_buy_count": 25,
+    "recent_trade_actions_24h": 37,
+    "recent_24h_buy_count": 22,
     "recent_24h_sell_count": 25,
-    "recent_24h_replacement_count": 25,
-    "portfolio_churn_24h_pct": 500.0
+    "recent_24h_replacement_count": 22,
+    "portfolio_churn_24h_pct": 440.0
   },
   "summary": [
-    "🧠 **KAITO** — 1,016원 / **+2.83%** / 497.4억원 / 위치 **85.5%** / mega core",
-    "🌀 **ENSO** — 1,094원 / **+6.11%** / 117.3억원 / 위치 **93.2%** / fresh expansion",
-    "🌐 **ONDO** — 476원 / **+0.85%** / 115.2억원 / 위치 **77.8%** / liquid RWA",
-    "🆔 **ID** — 55.5원 / **+0.73%** / 67.9억원 / 위치 **100.0%** / tight finisher",
-    "🫧 **XPL** — 140원 / **+2.94%** / 53.7억원 / 위치 **87.5%** / clean continuation",
-    "BTC **99.4%** / ETH **92.0%** / XRP **92.9%** / SOL **87.1%**",
-    "메이저 평균 **92.9% 위치**, **4상승 0하락**",
-    "fresh breakout **2개**, high conviction **9개**, weak breadth **false**",
-    "대금 함정 경고: **SLX / ORBS / OPG / TAIKO**",
-    "실투입: **85%**, 5종 동일비중",
-    "타깃: 각 약 **254,171원**",
-    "현금: 약 **224,268원 (15.0%)**",
-    "핵심 논리: **메이저 반등이 90%대까지 열렸는데 기존 보유 4종은 이미 broken 상태라, 방어 유지보다 현재 상단 리더로 갈아타는 편이 훨씬 낫습니다.**",
-    "🔁 **65% → 85%로 상향, 전 종목 전면 리셋**",
-    "❌ 퇴출: **SLX / ORBS / JTO / ARX / IN**",
-    "✅ 신규: **KAITO / ENSO / ONDO / ID / XPL**",
-    "마지막 액션: **RESET_TO_85_KAITO_ENSO_ONDO_ID_XPL**",
-    "KAITO **250.1682개 @ 1,016원**",
-    "ENSO **232.3317개 @ 1,094원**",
-    "ONDO **533.9724개 @ 476원**",
-    "ID **4579.6550개 @ 55.5원**",
-    "XPL **1815.5061개 @ 140원**",
-    "현금 **224,268원** / 총평가 **1,495,123원**",
-    "장점: **반등이 확인되자 65% 방어를 고집하지 않고 broken 보유를 전량 폐기한 점**",
-    "아쉬움: **직전 회차 survivor 5종 중 SLX·ORBS 붕괴를 더 빠르게 경계했어야 했습니다.**",
-    "점수: **8.8 / 10**",
-    "✅ **DECISIONS.md에 “메이저 평균 85+ 반등 + weak breadth 해제 + held 2개 이상 붕괴 시 85% 즉시 리셋” 규칙을 추가했습니다.**",
-    "✅ **리포트에 비중 변경(65→85) 사유를 한 줄과 실행 섹션에 동시에 넣어 읽는 속도를 높였습니다.**",
-    "✅ **watchlist를 다음 승격 후보 중심으로 다시 정리해 감시용 이름과 매수 후보를 덜 섞이게 했습니다.**",
-    "**aggressive-85-full-reset-into-high-range-leaders**",
-    "**medium-high**",
-    "**KAITO 998 / ENSO 1060 / ONDO 470 / ID 54.2 / XPL 138** 하회 시 즉시 재평가",
-    "다음 승격 후보: **SAHARA / NEAR / ADA / SUI / UNI**",
-    "**SLX / ORBS**는 대금이 커도 70%+ 재회복 전 core 재진입 금지",
-    "**KAITO는 7월 20일 unlock 오버행이 있어 구조가 깨지면 반응이 빠를 수 있습니다.**",
-    "**ID는 100% 위치지만 타이트 박스라 54.2원 이탈 시 되돌림 속도가 빠를 수 있습니다.**",
-    "**fresh breakout이 2개뿐이라 90% 풀공격까지는 아직 이릅니다.**",
-    "**메이저가 너무 빨리 강해진 구간이라 다음 회차에 상단 식는지 여부를 꼭 확인해야 합니다.**"
+    "🧠 **KAITO** — 1,037원 / **+4.96%** / 282.9억원 / 위치 **87.1%** / mega core",
+    "🌀 **ARB** — 128원 / **+12.28%** / 66.1억원 / 위치 **82.4%** / beta replacement",
+    "🆔 **ID** — 56.4원 / **+2.36%** / 52.6억원 / 위치 **90.7%** / tight finisher",
+    "🧬 **ENSO** — 1,084원 / **+5.14%** / 88.5억원 / 위치 **73.5%** / attention survivor",
+    "🛡️ **ADA** — 253원 / **+1.20%** / 49.3억원 / 위치 **85.7%** / clean continuation",
+    "BTC **65.9%** / ETH **61.7%** / XRP **66.7%** / SOL **58.1%**",
+    "메이저 평균 **63.1% 위치**, **3상승 0약세권**",
+    "fresh breakout **0개**, high conviction **4개**, weak breadth **false**",
+    "대금 함정 경고: **SLX / XLM / TAIKO / BLAST**",
+    "실투입: **80%**, 5종 동일비중",
+    "타깃: 각 약 **239,511원**",
+    "현금: 약 **299,387원 (20.0%)**",
+    "핵심 논리: **강세장은 남아 있지만 16시 바스켓 중 ONDO·XPL·일부 ENSO가 이미 구조를 잃었습니다. 85%를 억지로 유지하기보다 80%로만 낮추고 ARB·ADA 같은 더 깨끗한 상단으로 갈아타는 편이 낫습니다.**",
+    "🔻 **85% → 80%로 미세 감속**",
+    "❌ 전량 퇴출: **ONDO / XPL**",
+    "🔄 부분 축소 유지: **KAITO / ENSO / ID**",
+    "✅ 신규 편입: **ARB / ADA**",
+    "마지막 액션: **ROTATE_TO_80_KAITO_ARB_ID_ENSO_ADA**",
+    "KAITO **230.9659개 @ 1,037원**",
+    "ARB **1871.1771개 @ 128원**",
+    "ID **4246.6430개 @ 56.4원**",
+    "ENSO **220.9508개 @ 1,084원**",
+    "ADA **946.6825개 @ 253원**",
+    "현금 **299,387원** / 총평가 **1,496,942원**",
+    "장점: **fresh 0 전환과 held 3슬롯 구조 훼손을 보고 85%를 고집하지 않은 점**",
+    "아쉬움: **ONDO·XPL의 상단 둔화를 1사이클 더 빨리 경계했으면 더 깔끔했습니다.**",
+    "점수: **8.6 / 10**",
+    "✅ **DECISIONS.md에 “90대→60대 냉각 + fresh 0 + held 3개 이상 구조 붕괴 시 80%로 낮추고 상단 리더로 교체” 규칙을 추가했습니다.**",
+    "✅ **리포트 실행 섹션을 ‘전량 퇴출 / 부분 유지 / 신규 편입’으로 나눠 읽는 속도를 높였습니다.**",
+    "✅ **watchlist 앞쪽을 ONDO·XPL·OPG처럼 재진입 판단이 빠른 이름으로 재정렬했습니다.**",
+    "**aggressive-80-rotate-into-true-high-range-leaders**",
+    "**medium**",
+    "**KAITO 1015 / ARB 123 / ID 55.3 / ENSO 1065 / ADA 250** 하회 시 즉시 재평가",
+    "다음 승격 후보: **ONDO / XPL / OPG / BIRB / JTO**",
+    "**SLX / XLM / TAIKO**는 대금이 커도 70%+ 구조 회복 전 core 재진입 금지",
+    "**fresh breakout이 0이라 다시 85~90%로 올릴 근거는 아직 부족합니다.**",
+    "**KAITO는 7월 20일 unlock 오버행이 있어 1015원 이탈 시 반응이 빨라질 수 있습니다.**",
+    "**ARB는 수익률이 큰 만큼 123원 하회 시 되돌림 속도가 빠를 수 있습니다.**",
+    "**ENSO는 양호하지만 16시 대비 위치가 많이 식어 1065원 재이탈 시 survivor 명분이 약해집니다.**"
   ],
   "recent_trades": [
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ADA",
+      "action": "BUY",
+      "price_krw": 253.0,
+      "amount_delta": 946.6824640713673,
+      "cash_delta_krw": -239510.66341005595,
+      "reason": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다."
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ARB",
+      "action": "BUY",
+      "price_krw": 128.0,
+      "amount_delta": 1871.177057891062,
+      "cash_delta_krw": -239510.66341005595,
+      "reason": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다."
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 138.0,
+      "amount_delta": -1815.5061010677757,
+      "cash_delta_krw": 250539.84194735304,
+      "reason": "62.5% 위치로 80% continuation 명분이 사라져 ADA clean continuation으로 교체"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 56.4,
+      "amount_delta": -333.012061457111,
+      "cash_delta_krw": 18781.88026618106,
+      "reason": "ID는 유지하되 80% 동일비중 정렬을 위해 일부만 축소"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 473.0,
+      "amount_delta": -533.9723826669929,
+      "cash_delta_krw": 252568.93700148765,
+      "reason": "61.1% 위치로 기존 72% continuation 기준이 깨져 ARB 공격 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "SELL",
+      "price_krw": 1084.0,
+      "amount_delta": -11.3808800497205,
+      "cash_delta_krw": 12336.873973897022,
+      "reason": "ENSO는 유지하되 fresh 0 전환에 맞춰 80% 동일비중으로 미세 축소"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 1037.0,
+      "amount_delta": -19.2022393188282,
+      "cash_delta_krw": 19912.722173624843,
+      "reason": "85% 동일비중을 80%로 낮추며 메가 코어는 유지하되 초과분만 축소"
+    },
     {
       "timestamp": "2026-07-09T15:58:00+09:00",
       "symbol": "XPL",
@@ -77,72 +141,13 @@
       "amount_delta": 1815.5061010677757,
       "cash_delta_krw": -254170.8541494886,
       "reason": "53.7억원 대금과 +2.94%, 87.5% 위치, -0.71% gap 조합이 매우 깔끔해 5번째 분산축으로 적합합니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ID",
-      "action": "BUY",
-      "price_krw": 55.5,
-      "amount_delta": 4579.655029720515,
-      "cash_delta_krw": -254170.8541494886,
-      "reason": "67.9억원 대금과 100% 위치, 0% gap으로 가장 읽기 쉬운 상단 고정 슬롯입니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ONDO",
-      "action": "BUY",
-      "price_krw": 476.0,
-      "amount_delta": 533.9723826669929,
-      "cash_delta_krw": -254170.8541494886,
-      "reason": "115.2억원 실대금과 77.8% 위치, -0.83% gap 조합으로 유지력이 선명한 대형 RWA continuation입니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ENSO",
-      "action": "BUY",
-      "price_krw": 1094.0,
-      "amount_delta": 232.33167655346307,
-      "cash_delta_krw": -254170.8541494886,
-      "reason": "+6.11%, 117.3억원, 93.2% 위치가 동시에 살아 있어 가장 단순한 fresh 확장 슬롯입니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "KAITO",
-      "action": "BUY",
-      "price_krw": 1016.0,
-      "amount_delta": 250.16816353296122,
-      "cash_delta_krw": -254170.8541494886,
-      "reason": "497.4억원 대금 1위와 85.5% 위치, -0.88% gap로 이번 회차 메가 리더입니다. unlock 오버행보다 현재 구조가 더 강합니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "IN",
-      "action": "SELL",
-      "price_krw": 68.8,
-      "amount_delta": -2797.7861441926675,
-      "cash_delta_krw": 192487.68672045553,
-      "reason": "IN은 46% 위치로 식어 XPL 같은 80%대 continuation에 자리 양보"
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ARX",
-      "action": "SELL",
-      "price_krw": 275.0,
-      "amount_delta": -724.5548732396396,
-      "cash_delta_krw": 199252.5901409009,
-      "reason": "반등은 됐지만 ID·XPL 대비 상단 유지 질이 약해 85% 공격 바스켓에서 제외"
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "JTO",
-      "action": "SELL",
-      "price_krw": 953.0,
-      "amount_delta": -205.8308849057457,
-      "cash_delta_krw": 196156.83331517567,
-      "reason": "보합권 유지엔 성공했지만 51% 위치로 현재 80%대 리더들에 밀려 교체"
     }
   ],
   "recent_reports": [
+    {
+      "file": "2026-07-09-2158.md",
+      "title": "2026-07-09-2158"
+    },
     {
       "file": "2026-07-09-1558.md",
       "title": "2026-07-09-1558"
@@ -170,10 +175,6 @@
     {
       "file": "2026-07-08-0358.md",
       "title": "2026-07-08-0358"
-    },
-    {
-      "file": "2026-07-07-2159.md",
-      "title": "2026-07-07-2159"
     }
   ],
   "positions": [
@@ -181,44 +182,29 @@
       "icon": "🧠",
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "amount": 250.16816353296122,
-      "avg_buy_price_krw": "1,016 KRW",
-      "last_price_krw": "1,016 KRW",
-      "thesis": "497.4억원 대금 1위와 85.5% 위치, -0.88% gap로 이번 회차 메가 리더입니다. unlock 오버행보다 현재 구조가 더 강합니다.",
-      "strategy": "998원 above and 78%+ 구조 유지 시 보유",
-      "role": "mega-liquidity breakout core",
-      "risk_limit_pct": 3.5,
-      "profit_take_pct": 6.5,
+      "amount": 230.96592421413303,
+      "avg_buy_price_krw": "1,037 KRW",
+      "last_price_krw": "1,037 KRW",
+      "thesis": "282.9억원 대금 1위, +4.96%, 87.1% 위치로 이번 밤에도 가장 읽기 쉬운 메가 코어입니다. 7월 20일 unlock 오버행은 남아도 현재 보드에서는 구조 우위가 더 큽니다.",
+      "strategy": "1015원 above and 80%+ 구조 유지 시 보유",
+      "role": "mega-liquidity continuation core",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 6.0,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "amount": 232.33167655346307,
-      "avg_buy_price_krw": "1,094 KRW",
-      "last_price_krw": "1,094 KRW",
-      "thesis": "+6.11%, 117.3억원, 93.2% 위치가 동시에 살아 있어 가장 단순한 fresh 확장 슬롯입니다.",
-      "strategy": "1060원 above and 85%+ 구조 유지 시 보유",
-      "role": "fresh momentum expansion",
+      "icon": "🪙",
+      "symbol": "ARB",
+      "market": "KRW-ARB",
+      "amount": 1871.177057891062,
+      "avg_buy_price_krw": "128 KRW",
+      "last_price_krw": "128 KRW",
+      "thesis": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다.",
+      "strategy": "123원 above and 75%+ 구조 유지 시 보유",
+      "role": "beta momentum replacement",
       "risk_limit_pct": 4.0,
-      "profit_take_pct": 7.0,
-      "pnl_krw": "0 KRW",
-      "pnl_pct": 0.0
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "amount": 533.9723826669929,
-      "avg_buy_price_krw": "476 KRW",
-      "last_price_krw": "476 KRW",
-      "thesis": "115.2억원 실대금과 77.8% 위치, -0.83% gap 조합으로 유지력이 선명한 대형 RWA continuation입니다.",
-      "strategy": "470원 above and 72%+ 구조 유지 시 보유",
-      "role": "liquid rwa continuation",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 5.0,
+      "profit_take_pct": 7.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
@@ -226,79 +212,50 @@
       "icon": "🆔",
       "symbol": "ID",
       "market": "KRW-ID",
-      "amount": 4579.655029720515,
+      "amount": 4246.642968263404,
       "avg_buy_price_krw": "56 KRW",
       "last_price_krw": "56 KRW",
-      "thesis": "67.9억원 대금과 100% 위치, 0% gap으로 가장 읽기 쉬운 상단 고정 슬롯입니다.",
-      "strategy": "54.2원 above and 82%+ 구조 유지 시 보유",
+      "thesis": "52.6억원 대금과 90.7% 위치, -0.70% gap으로 가장 단정한 상단 고정 슬롯입니다.",
+      "strategy": "55.3원 above and 84%+ 구조 유지 시 보유",
       "role": "tight high-range finisher",
-      "risk_limit_pct": 2.6,
+      "risk_limit_pct": 2.5,
       "profit_take_pct": 4.8,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     },
     {
-      "icon": "🫧",
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "amount": 1815.5061010677757,
-      "avg_buy_price_krw": "140 KRW",
-      "last_price_krw": "140 KRW",
-      "thesis": "53.7억원 대금과 +2.94%, 87.5% 위치, -0.71% gap 조합이 매우 깔끔해 5번째 분산축으로 적합합니다.",
-      "strategy": "138원 above and 80%+ 구조 유지 시 보유",
-      "role": "clean mid-cap continuation",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 5.5,
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "amount": 220.95079650374257,
+      "avg_buy_price_krw": "1,084 KRW",
+      "last_price_krw": "1,084 KRW",
+      "thesis": "+5.14%와 88.5억원 대금은 아직 살아 있고, 16시 대비 식었어도 70%대 상단 체류를 유지해 교체보다 잔류 가치가 있습니다.",
+      "strategy": "1065원 above and 70%+ 구조 유지 시 보유",
+      "role": "attention survivor expansion",
+      "risk_limit_pct": 3.8,
+      "profit_take_pct": 6.5,
+      "pnl_krw": "0 KRW",
+      "pnl_pct": 0.0
+    },
+    {
+      "icon": "🛡️",
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "amount": 946.6824640713673,
+      "avg_buy_price_krw": "253 KRW",
+      "last_price_krw": "253 KRW",
+      "thesis": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다.",
+      "strategy": "250원 above and 78%+ 구조 유지 시 보유",
+      "role": "large-cap clean continuation",
+      "risk_limit_pct": 2.5,
+      "profit_take_pct": 4.5,
       "pnl_krw": "0 KRW",
       "pnl_pct": 0.0
     }
   ],
   "chart_series": {
-    "SLX": [
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 282.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 282.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-09T09:59:00+09:00",
-        "price_krw": 289.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-09T09:59:00+09:00",
-        "price_krw": 289.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-09T15:58:00+09:00",
-        "price_krw": 277.0,
-        "action": "SELL"
-      }
-    ],
-    "ENSO": [
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 1028.0,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-09T15:58:00+09:00",
-        "price_krw": 1094.0,
-        "action": "BUY"
-      }
-    ],
     "UNI": [
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 5020.0,
-        "action": "SELL"
-      },
       {
         "timestamp": "2026-07-09T03:59:00+09:00",
         "price_krw": 5020.0,
@@ -307,42 +264,6 @@
       {
         "timestamp": "2026-07-09T09:59:00+09:00",
         "price_krw": 4953.0,
-        "action": "SELL"
-      }
-    ],
-    "KITE": [
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 173.0,
-        "action": "SELL"
-      }
-    ],
-    "ORBS": [
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 9.4,
-        "action": "SELL"
-      },
-      {
-        "timestamp": "2026-07-09T09:59:00+09:00",
-        "price_krw": 9.8,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-09T15:58:00+09:00",
-        "price_krw": 9.17,
-        "action": "SELL"
-      }
-    ],
-    "WLD": [
-      {
-        "timestamp": "2026-07-09T03:59:00+09:00",
-        "price_krw": 578.0,
-        "action": "BUY"
-      },
-      {
-        "timestamp": "2026-07-09T09:59:00+09:00",
-        "price_krw": 573.0,
         "action": "SELL"
       }
     ],
@@ -367,6 +288,42 @@
       {
         "timestamp": "2026-07-09T09:59:00+09:00",
         "price_krw": 87.2,
+        "action": "SELL"
+      }
+    ],
+    "SLX": [
+      {
+        "timestamp": "2026-07-09T09:59:00+09:00",
+        "price_krw": 289.0,
+        "action": "SELL"
+      },
+      {
+        "timestamp": "2026-07-09T09:59:00+09:00",
+        "price_krw": 289.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T15:58:00+09:00",
+        "price_krw": 277.0,
+        "action": "SELL"
+      }
+    ],
+    "WLD": [
+      {
+        "timestamp": "2026-07-09T09:59:00+09:00",
+        "price_krw": 573.0,
+        "action": "SELL"
+      }
+    ],
+    "ORBS": [
+      {
+        "timestamp": "2026-07-09T09:59:00+09:00",
+        "price_krw": 9.8,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T15:58:00+09:00",
+        "price_krw": 9.17,
         "action": "SELL"
       }
     ],
@@ -411,6 +368,23 @@
         "timestamp": "2026-07-09T15:58:00+09:00",
         "price_krw": 1016.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 1037.0,
+        "action": "SELL"
+      }
+    ],
+    "ENSO": [
+      {
+        "timestamp": "2026-07-09T15:58:00+09:00",
+        "price_krw": 1094.0,
+        "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 1084.0,
+        "action": "SELL"
       }
     ],
     "ONDO": [
@@ -418,6 +392,11 @@
         "timestamp": "2026-07-09T15:58:00+09:00",
         "price_krw": 476.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 473.0,
+        "action": "SELL"
       }
     ],
     "ID": [
@@ -425,6 +404,11 @@
         "timestamp": "2026-07-09T15:58:00+09:00",
         "price_krw": 55.5,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 56.4,
+        "action": "SELL"
       }
     ],
     "XPL": [
@@ -432,322 +416,319 @@
         "timestamp": "2026-07-09T15:58:00+09:00",
         "price_krw": 140.0,
         "action": "BUY"
+      },
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 138.0,
+        "action": "SELL"
+      }
+    ],
+    "ARB": [
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 128.0,
+        "action": "BUY"
+      }
+    ],
+    "ADA": [
+      {
+        "timestamp": "2026-07-09T21:58:00+09:00",
+        "price_krw": 253.0,
+        "action": "BUY"
       }
     ]
   },
-  "latest_report_file": "2026-07-09-1558.md",
+  "latest_report_file": "2026-07-09-2158.md",
   "preferred_buy_candidates": [
     {
       "icon": "🧠",
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "price_krw": 1016.0,
-      "change_pct_24h": 2.8340081,
-      "turnover_krw_24h": 49736873871.28711,
-      "reason": "497.4억원 대금 1위와 85.5% 위치, -0.88% gap가 겹친 이번 회차 최우선 메가 리더입니다. 7월 20일 unlock 오버행은 남아도 지금은 차트가 더 강합니다.",
+      "price_krw": 1037.0,
+      "change_pct_24h": 4.95951417,
+      "turnover_krw_24h": 28288025242.537083,
+      "reason": "282.9억원 대금 1위, +4.96%, 87.1% 위치로 이번 밤에도 가장 읽기 쉬운 메가 코어입니다. 7월 20일 unlock 오버행은 남아도 현재 보드에서는 구조 우위가 더 큽니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 254170.8541494886,
-      "role": "mega-liquidity breakout core",
-      "invalidated_if": "998원 하회 또는 78% 구조 붕괴",
-      "range_position_pct": 85.5,
-      "day_high_gap_pct": -0.88
+      "allocation_krw": 239510.66341005595,
+      "role": "mega-liquidity continuation core",
+      "invalidated_if": "1015원 하회 또는 80% 구조 붕괴",
+      "range_position_pct": 87.1,
+      "day_high_gap_pct": -1.05
     },
     {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "price_krw": 1094.0,
-      "change_pct_24h": 6.11055189,
-      "turnover_krw_24h": 11728376925.280092,
-      "reason": "+6.11%, 117.3억원, 93.2% 위치가 동시에 살아 있어 이번 회차 가장 단순한 fresh 확장 슬롯입니다.",
+      "icon": "🪙",
+      "symbol": "ARB",
+      "market": "KRW-ARB",
+      "price_krw": 128.0,
+      "change_pct_24h": 12.28070175,
+      "turnover_krw_24h": 6605370336.270946,
+      "reason": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 254170.8541494886,
-      "role": "fresh momentum expansion",
-      "invalidated_if": "1060원 하회 또는 85% 구조 붕괴",
-      "range_position_pct": 93.2,
-      "day_high_gap_pct": -0.55
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "price_krw": 476.0,
-      "change_pct_24h": 0.84745763,
-      "turnover_krw_24h": 11517049012.906248,
-      "reason": "115.2억원 실대금과 77.8% 위치, -0.83% gap 조합으로 과열보다 유지력이 선명한 대형 RWA continuation입니다.",
-      "score": null,
-      "community": null,
-      "risk": null,
-      "allocation_krw": 254170.8541494886,
-      "role": "liquid rwa continuation",
-      "invalidated_if": "470원 하회 또는 72% 구조 붕괴",
-      "range_position_pct": 77.8,
-      "day_high_gap_pct": -0.83
+      "allocation_krw": 239510.66341005595,
+      "role": "beta momentum replacement",
+      "invalidated_if": "123원 하회 또는 75% 구조 붕괴",
+      "range_position_pct": 82.4,
+      "day_high_gap_pct": -2.29
     },
     {
       "icon": "🆔",
       "symbol": "ID",
       "market": "KRW-ID",
-      "price_krw": 55.5,
-      "change_pct_24h": 0.7260181,
-      "turnover_krw_24h": 6793156659.054822,
-      "reason": "67.9억원 대금과 100% 위치, 0% gap으로 타이트하지만 가장 읽기 쉬운 상단 고정 슬롯입니다.",
+      "price_krw": 56.4,
+      "change_pct_24h": 2.35934664,
+      "turnover_krw_24h": 5257251176.704672,
+      "reason": "52.6억원 대금과 90.7% 위치, -0.70% gap으로 가장 단정한 상단 고정 슬롯입니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 254170.8541494886,
+      "allocation_krw": 239510.66341005595,
       "role": "tight high-range finisher",
-      "invalidated_if": "54.2원 하회 또는 82% 구조 붕괴",
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0
+      "invalidated_if": "55.3원 하회 또는 84% 구조 붕괴",
+      "range_position_pct": 90.7,
+      "day_high_gap_pct": -0.7
     },
     {
-      "icon": "🫧",
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "price_krw": 140.0,
-      "change_pct_24h": 2.94117647,
-      "turnover_krw_24h": 5374808432.418249,
-      "reason": "53.7억원 대금과 +2.94%, 87.5% 위치, -0.71% gap 조합이 매우 깔끔해 5번째 분산축으로 적합합니다.",
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "price_krw": 1084.0,
+      "change_pct_24h": 5.14064016,
+      "turnover_krw_24h": 8852043254.415375,
+      "reason": "+5.14%와 88.5억원 대금은 아직 살아 있고, 16시 대비 식었어도 70%대 상단 체류를 유지해 교체보다 잔류 가치가 있습니다.",
       "score": null,
       "community": null,
       "risk": null,
-      "allocation_krw": 254170.8541494886,
-      "role": "clean mid-cap continuation",
-      "invalidated_if": "138원 하회 또는 80% 구조 붕괴",
-      "range_position_pct": 87.5,
-      "day_high_gap_pct": -0.71
-    }
-  ],
-  "reference_watchlist": [
-    {
-      "icon": "🏜️",
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "90.9% 위치와 +6.0%는 좋지만 AI attention 베타가 이미 ENSO와 겹쳐 이번 회차는 6순위로 둡니다."
-    },
-    {
-      "icon": "🌉",
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "84.9% 위치와 55.1억원 대금으로 충분히 좋지만 ONDO·XPL 대비 서사 독립성이 한 단계 약합니다."
+      "allocation_krw": 239510.66341005595,
+      "role": "attention survivor expansion",
+      "invalidated_if": "1065원 하회 또는 70% 구조 붕괴",
+      "range_position_pct": 73.5,
+      "day_high_gap_pct": -2.34
     },
     {
       "icon": "🛡️",
       "symbol": "ADA",
       "market": "KRW-ADA",
-      "reason": "85.7% 위치의 quality continuation이지만 상대 대금과 탄력이 XPL·ID보다 한 단계 아래입니다."
+      "price_krw": 253.0,
+      "change_pct_24h": 1.2,
+      "turnover_krw_24h": 4930964951.100934,
+      "reason": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다.",
+      "score": null,
+      "community": null,
+      "risk": null,
+      "allocation_krw": 239510.66341005595,
+      "role": "large-cap clean continuation",
+      "invalidated_if": "250원 하회 또는 78% 구조 붕괴",
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -0.39
+    }
+  ],
+  "reference_watchlist": [
+    {
+      "icon": "🌐",
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "473원 자체는 버텼지만 61.1% 위치로 기존 72% 구조 기준이 깨졌습니다. 70%대 재회복 시 재진입 후보입니다."
     },
     {
-      "icon": "🌊",
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "76.3% 위치의 체급 continuation이지만 이번 회차는 ONDO 쪽이 더 단순합니다."
+      "icon": "🫧",
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "가격은 138원선이지만 위치가 62.5%까지 식어 80% continuation 명분이 사라졌습니다. 재상단 복귀 전 watchlist로 강등합니다."
     },
     {
-      "icon": "🦄",
-      "symbol": "UNI",
-      "market": "KRW-UNI",
-      "reason": "89.2% 위치는 좋지만 45.6억원 체급이라 XPL·ID보다 우선순위를 낮췄습니다."
+      "icon": "🪙",
+      "symbol": "OPG",
+      "market": "KRW-OPG",
+      "reason": "112.8억원 실대금은 좋지만 58.3% 위치라 지금은 코어보다 감시 후보입니다."
     },
     {
-      "icon": "✨",
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "202.8억원 대금은 매우 크지만 50% 위치 정체형이라 85% 공격 바스켓으로는 부족합니다."
+      "icon": "🦉",
+      "symbol": "BIRB",
+      "market": "KRW-BIRB",
+      "reason": "+8.0%와 92.4억원 대금은 좋지만 고점 대비 -5.54% gap가 넓어 우선순위를 낮췄습니다."
     },
     {
-      "icon": "🧬",
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "reason": "반등은 성공했지만 45.4억원 체급과 66.7% 위치라 현재 고위치 리더 5종보다 한 단계 약합니다."
+      "icon": "🪂",
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "67.4억원 대금과 58.9% 위치로 무난하지만 ARB·ADA 대비 상단 질이 한 단계 약합니다."
+    },
+    {
+      "icon": "🪙",
+      "symbol": "EGLD",
+      "market": "KRW-EGLD",
+      "reason": "+10.2%지만 55.3% 위치와 -6.16% gap로 late strength 성격이 강합니다."
     },
     {
       "icon": "🌍",
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "61.1% 구조는 회복했지만 아직 음수라 Altman headline보다 현재 양수 리더가 우선입니다."
+      "reason": "Altman headline은 남아도 음수라 현재 all-positive 바스켓보다 우선순위가 낮습니다."
     }
   ],
   "cycle_improvements": [
-    "DECISIONS.md에 “메이저 평균이 85 이상으로 급반등하고 weak breadth가 해제됐는데 기존 보유 2개 이상이 이미 무효화·50% 미만이면 65% 방어를 즉시 종료하고 85% 현재 리더 5종으로 전면 리셋” 규칙을 추가했습니다.",
-    "이번 리포트는 65%→85% 비중 변경 이유를 한 줄과 실행 섹션에 명시해, 왜 방어에서 공격으로 바뀌었는지 더 빨리 읽히게 했습니다.",
-    "watchlist를 “바로 다음 승격 후보” 중심으로 다시 정리해, 보유 실패주 감시와 신규 승격 후보를 섞어 읽던 문제를 줄였습니다."
+    "DECISIONS.md에 “메이저 평균이 90대에서 60대 초반으로 식고 fresh breakout이 0으로 줄며 held 3개 이상이 구조를 잃으면 85%를 고집하지 말고 80%로 낮추고 현재 80%+/70%+ 리더로 교체” 규칙을 추가했습니다.",
+    "이번 리포트는 “유지 / 교체 / 강등”을 더 분명히 보여주도록 가상 매매 실행 내용을 재정렬했습니다.",
+    "watchlist를 재진입 조건이 보이는 이름 위주(ONDO·XPL·OPG)로 앞쪽에 재배치해 다음 의사결정을 더 빠르게 읽히게 했습니다."
   ],
   "rejected_candidates": [
     {
       "symbol": "SLX",
       "market": "KRW-SLX",
-      "reason": "404.3억원 대금 2위여도 -4.48%, 18%대 위치면 전형적인 turnover trap입니다."
+      "reason": "401.7억원 초대금이어도 0% 위치와 -13.9% gap면 명백한 turnover trap입니다."
     },
     {
-      "symbol": "ORBS",
-      "market": "KRW-ORBS",
-      "reason": "210.8억원 대금에도 12% 위치와 -9% gap로 구조가 완전히 무너졌습니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "206.8억원 대금은 크지만 음수·25% 위치면 리더가 아니라 stalled liquidity입니다."
     },
     {
       "symbol": "TAIKO",
       "market": "KRW-TAIKO",
-      "reason": "고점 대비 -19% gap와 6% 위치면 리더가 아니라 실패 캔들입니다."
+      "reason": "6.1% 위치와 -19.25% gap는 실패 캔들입니다."
     },
     {
-      "symbol": "OPG",
-      "market": "KRW-OPG",
-      "reason": "124.6억원 대금이어도 25% 위치 음수면 rebound core로 볼 근거가 약합니다."
+      "symbol": "BLAST",
+      "market": "KRW-BLAST",
+      "reason": "+7.07%라도 34% 위치와 -13.47% gap면 late spike에 가깝습니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "WLD는 구조가 살아나도 아직 음수라 이번 회차 preferred 5선에 넣기엔 한 박자 늦습니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "100% 위치는 좋지만 top4 majors 외 reference 성격이 강해 이번 알트 코어 5선에서는 제외합니다."
     }
   ],
-  "top_line": "**메이저 평균 위치가 23.7%→92.9%로 급반등했고 weak breadth가 해제됐습니다. 직전 보유 5종 중 4종이 무효화·저위치라 65% 방어 바스켓을 끝내고 KAITO·ENSO·ONDO·ID·XPL 85% 상단 리더 5종으로 전면 리셋합니다.**",
-  "ui_version": "v32.0",
+  "top_line": "**메이저 평균 위치가 92.9%→63.1%로 식고 fresh breakout이 2→0으로 줄었습니다. 그래도 weak breadth는 false라 85% 풀공격을 80%로만 낮추고, 무효화된 ONDO·XPL 축을 ARB·ADA로 교체한 5종 상단 바스켓으로 재정렬합니다.**",
+  "ui_version": "v33.0",
   "risk_plan": {
-    "portfolio_cash_target": "기본 현금 15% 유지. 메이저 평균이 75 아래로 식거나 preferred 5종 중 2개 이상이 무효화되면 75~80% 재방어 검토. fresh breakout이 4개 이상으로 늘면 90% 재상향 검토.",
-    "review_trigger": "KAITO 998 / ENSO 1060 / ONDO 470 / ID 54.2 / XPL 138 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 현금 20% 유지. 메이저 평균이 50 아래로 내려가거나 preferred 5종 중 2개 이상이 다시 무효화되면 70~75% 재방어 검토. fresh breakout이 2개 이상 재등장하고 메이저 평균이 75 이상 회복되면 85% 재상향 검토.",
+    "review_trigger": "KAITO 1015 / ARB 123 / ID 55.3 / ENSO 1065 / ADA 250 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 85+·weak breadth false 구간에서는 broken prior holdings를 방치하지 않기",
+      "fresh breakout 0 구간에서는 구조 무너진 기존 보유를 방치하지 않기",
       "KAITO unlock 오버행은 인정하되 구조가 깨지면 즉시 퇴출",
       "현금 0%는 금지"
     ],
     "exit_rules": [
-      "KAITO 998 / ENSO 1060 / ONDO 470 / ID 54.2 / XPL 138 하회 시 즉시 재평가",
+      "KAITO 1015 / ARB 123 / ID 55.3 / ENSO 1065 / ADA 250 하회 시 즉시 재평가",
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 85+·weak breadth false 구간에서는 broken prior holdings를 방치하지 않기",
+      "fresh breakout 0 구간에서는 구조 무너진 기존 보유를 방치하지 않기",
       "KAITO unlock 오버행은 인정하되 구조가 깨지면 즉시 퇴출",
       "현금 0%는 금지"
     ]
   },
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 851.5억원입니다.",
-    "momentum_discipline": "SLX·ORBS·JTO·ARX·IN 퇴출 / KAITO·ENSO·ONDO·ID·XPL 승격",
-    "diversification": "mega core 1 + fresh expansion 1 + liquid RWA 1 + tight finisher 1 + clean mid-cap continuation 1",
-    "cash_usage": "85%",
-    "rotation_speed": "full-reset-after-breadth-reversal"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 584.9억원입니다.",
+    "momentum_discipline": "ONDO·XPL 강등 / ARB·ADA 승격 / KAITO·ENSO·ID 유지",
+    "diversification": "mega core 1 + beta replacement 1 + tight finisher 1 + attention survivor 1 + large-cap continuation 1",
+    "cash_usage": "80%",
+    "rotation_speed": "partial-reset-after-fresh-collapse"
   },
   "signal_balance": {
-    "summary": "major avg 92.85 / weak breadth false / fresh 2 / top15 positives 9 / top15 low-range 5 -> 85% 공격 재개, broken prior basket 전량 교체"
+    "summary": "major avg 63.1 / weak breadth false / fresh 0 / top15 positives 9 / top15 low-range 5 -> 공격 유지 but 85%→80% 미세 감속, broken 3슬롯 교체"
   },
   "rotation_map": [
     {
-      "bucket": "SLX → KAITO",
+      "bucket": "ONDO → ARB",
       "symbols": [
-        "SLX",
-        "KAITO"
+        "ONDO",
+        "ARB"
       ],
-      "note": "SLX는 404억원 초대금에도 20%대 trap으로 무너졌고 KAITO는 497억원·85%대 메가 리더로 반전했습니다."
+      "note": "ONDO는 61.1%로 기존 72% 구조가 깨졌고 ARB는 +12.28%, 82.4% 위치의 더 강한 교체 후보입니다."
     },
     {
-      "bucket": "ORBS → ENSO",
+      "bucket": "XPL → ADA",
       "symbols": [
-        "ORBS",
-        "ENSO"
+        "XPL",
+        "ADA"
       ],
-      "note": "ORBS는 12% 위치 붕괴, ENSO는 93% 위치 fresh 확장이라 교체 우선순위가 명확합니다."
+      "note": "XPL은 62.5%까지 식어 continuation 명분이 약해졌고 ADA는 85.7% 위치와 -0.39% gap의 더 단정한 대형 continuation입니다."
     },
     {
-      "bucket": "JTO → ONDO",
+      "bucket": "85% deployment → 80% deployment",
       "symbols": [
-        "JTO",
-        "ONDO"
+        "85% deployment",
+        "80% deployment"
       ],
-      "note": "JTO는 51% 위치로 둔화됐고 ONDO는 더 큰 체급에서 78% 구조를 보여줍니다."
-    },
-    {
-      "bucket": "ARX → ID",
-      "symbols": [
-        "ARX",
-        "ID"
-      ],
-      "note": "ARX도 반등했지만 ID는 100% 위치와 0% gap의 더 깔끔한 상단 고정입니다."
-    },
-    {
-      "bucket": "IN → XPL",
-      "symbols": [
-        "IN",
-        "XPL"
-      ],
-      "note": "IN은 46%대까지 식었고 XPL은 87.5% 위치를 유지해 현재 continuation 효율이 더 좋습니다."
+      "note": "fresh breakout 0과 메이저 평균 63.1% 냉각을 반영해 공격은 유지하되 과열 노출만 줄였습니다."
     }
   ],
   "self_evaluation": {
-    "score": 8.8,
-    "summary": "직전 회차의 65% 방어는 맞았지만 반등 초입에서 기존 실패주를 더 오래 들고 가면 안 됐습니다. 이번엔 규칙대로 4개 broken slot을 모두 버리고 현재 리더로 갈아탄 점이 개선입니다."
+    "score": 8.6,
+    "summary": "16시 리셋 자체는 맞았지만 fresh 0 전환과 구조 붕괴를 보자마자 85%를 그대로 두면 안 됐습니다. 이번엔 broken 3슬롯을 바로 교체하고 노출을 80%로 낮춘 점이 개선입니다."
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 2.69,
+    "preferred_avg_change_pct_24h": 5.19,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_positive_ratio_pct": 100.0,
-    "preferred_turnover_total_krw_24h": 85150264900.94652,
-    "leader_turnover_share_pct": 58.41,
+    "preferred_turnover_total_krw_24h": 53933654961.029015,
+    "leader_turnover_share_pct": 52.45,
     "leader_symbol": "KAITO",
     "leader_concentration_warning": "high"
   },
-  "snapshot_updated_at_utc": "2026-07-09T06:59:03.895800+00:00",
+  "snapshot_updated_at_utc": "2026-07-09T12:58:58.755780+00:00",
   "snapshot_age_hours": 0,
   "snapshot_delta": {
-    "top15_alt_positive_count_delta": 6,
-    "top15_alt_low_range_count_delta": -4,
-    "weak_breadth_warning_changed": true,
+    "top15_alt_positive_count_delta": 0,
+    "top15_alt_low_range_count_delta": 0,
+    "weak_breadth_warning_changed": false,
     "entered_top5_turnover": [
-      "XLM"
+      "OPG"
     ],
     "exited_top5_turnover": [
-      "OPG"
+      "ORBS"
     ]
   },
   "snapshot_major_delta": {
-    "major_avg_range_position_pct_delta": 69.12,
-    "major_positive_count_delta": 4,
-    "major_negative_count_delta": -4
+    "major_avg_range_position_pct_delta": -29.75,
+    "major_positive_count_delta": -1,
+    "major_negative_count_delta": 0
   },
   "snapshot_breakout_breadth": {
-    "fresh_breakout_count": 2,
-    "high_conviction_count": 9,
-    "quality_survivor_count": 13,
-    "relative_strength_reclaim_count": 14,
-    "breakout_cluster_active": true,
-    "summary": "fresh 2 / conviction 9 / survivor 13 / reclaim 14"
+    "fresh_breakout_count": 0,
+    "high_conviction_count": 4,
+    "quality_survivor_count": 9,
+    "relative_strength_reclaim_count": 8,
+    "breakout_cluster_active": false,
+    "summary": "fresh 0 / conviction 4 / survivor 9 / reclaim 8"
   },
   "scenario_view": {
     "regime": "mixed_selective_rotation",
     "regime_label_ko": "혼조·빠른 순환 대응",
     "regime_icon": "🟡",
-    "btc_range_position_pct": 99.4,
-    "major_avg_range_position_pct": 92.85,
-    "preferred_avg_change_pct_24h": 2.69,
+    "btc_range_position_pct": 65.9,
+    "major_avg_range_position_pct": 63.1,
+    "preferred_avg_change_pct_24h": 5.19,
     "preferred_high_range_count": 4,
     "summary": "메이저 체력은 혼조라 강한 알트만 선별하고, 약한 슬롯은 빠르게 교체해야 하는 구간."
   },
   "regime_shift_alert": {
-    "active": false,
-    "major_avg_delta_pct": 69.12,
+    "active": true,
+    "major_avg_delta_pct": -29.75,
     "top15_positive_count": 9,
     "top15_low_range_count": 5,
-    "summary": "급격한 레짐 붕괴 경고는 아직 없음"
+    "summary": "메이저 평균이 급락하고 약한 상단 종목이 늘어 회전 방어 규율이 필요한 상태"
   },
   "rebound_without_fresh_alert": {
     "active": false,
-    "major_avg_delta_pct": 69.12,
-    "fresh_breakout_count": 2,
+    "major_avg_delta_pct": -29.75,
+    "fresh_breakout_count": 0,
     "summary": "반등 대비 fresh 부족 경고는 없음"
   },
   "preferred_setup_quality": {
-    "avg_range_position_pct": 88.8,
-    "avg_day_high_gap_pct": -0.59,
+    "avg_range_position_pct": 83.88,
+    "avg_day_high_gap_pct": -1.35,
     "above_80_range_count": 4,
-    "summary": "고위치(80%+) 후보 4개 / 평균 위치 88.8%"
+    "summary": "고위치(80%+) 후보 4개 / 평균 위치 83.88%"
   },
   "selection_checks": {
     "preferred_count": 5,
@@ -760,41 +741,41 @@
     {
       "icon": "🧠",
       "symbol": "KAITO",
-      "last_price_krw": 1016.0,
-      "threshold_krw": 998.0,
-      "distance_to_invalidation_pct": 1.8,
+      "last_price_krw": 1037.0,
+      "threshold_krw": 1015.0,
+      "distance_to_invalidation_pct": 2.17,
       "status": "near"
     },
     {
-      "icon": "🌀",
-      "symbol": "ENSO",
-      "last_price_krw": 1094.0,
-      "threshold_krw": 1060.0,
-      "distance_to_invalidation_pct": 3.21,
-      "status": "near"
-    },
-    {
-      "icon": "🌐",
-      "symbol": "ONDO",
-      "last_price_krw": 476.0,
-      "threshold_krw": 470.0,
-      "distance_to_invalidation_pct": 1.28,
+      "icon": "🪙",
+      "symbol": "ARB",
+      "last_price_krw": 128.0,
+      "threshold_krw": 123.0,
+      "distance_to_invalidation_pct": 4.07,
       "status": "near"
     },
     {
       "icon": "🆔",
       "symbol": "ID",
-      "last_price_krw": 55.5,
-      "threshold_krw": 54.2,
-      "distance_to_invalidation_pct": 2.4,
+      "last_price_krw": 56.4,
+      "threshold_krw": 55.3,
+      "distance_to_invalidation_pct": 1.99,
       "status": "near"
     },
     {
-      "icon": "🫧",
-      "symbol": "XPL",
-      "last_price_krw": 140.0,
-      "threshold_krw": 138.0,
-      "distance_to_invalidation_pct": 1.45,
+      "icon": "🌀",
+      "symbol": "ENSO",
+      "last_price_krw": 1084.0,
+      "threshold_krw": 1065.0,
+      "distance_to_invalidation_pct": 1.78,
+      "status": "near"
+    },
+    {
+      "icon": "🛡️",
+      "symbol": "ADA",
+      "last_price_krw": 253.0,
+      "threshold_krw": 250.0,
+      "distance_to_invalidation_pct": 1.2,
       "status": "near"
     }
   ],
@@ -808,7 +789,7 @@
     "active": true,
     "near_or_broken_count": 5,
     "leader_concentration_warning": "high",
-    "avg_range_position_pct": 88.8,
+    "avg_range_position_pct": 83.88,
     "summary": "무효화 근접 슬롯이나 집중도 부담이 있어 다음 교체 압력을 계속 봐야 하는 상태"
   },
   "portfolio_health": {
@@ -817,6 +798,69 @@
     "red_position_count": 0
   },
   "recent_rotation_log_24h": [
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ADA",
+      "action": "BUY",
+      "price_krw": 253.0,
+      "amount_delta": 946.6824640713673,
+      "cash_delta_krw": -239510.66341005595,
+      "reason": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다."
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ARB",
+      "action": "BUY",
+      "price_krw": 128.0,
+      "amount_delta": 1871.177057891062,
+      "cash_delta_krw": -239510.66341005595,
+      "reason": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다."
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "XPL",
+      "action": "SELL",
+      "price_krw": 138.0,
+      "amount_delta": -1815.5061010677757,
+      "cash_delta_krw": 250539.84194735304,
+      "reason": "62.5% 위치로 80% continuation 명분이 사라져 ADA clean continuation으로 교체"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ID",
+      "action": "SELL",
+      "price_krw": 56.4,
+      "amount_delta": -333.012061457111,
+      "cash_delta_krw": 18781.88026618106,
+      "reason": "ID는 유지하되 80% 동일비중 정렬을 위해 일부만 축소"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 473.0,
+      "amount_delta": -533.9723826669929,
+      "cash_delta_krw": 252568.93700148765,
+      "reason": "61.1% 위치로 기존 72% continuation 기준이 깨져 ARB 공격 슬롯으로 교체"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "ENSO",
+      "action": "SELL",
+      "price_krw": 1084.0,
+      "amount_delta": -11.3808800497205,
+      "cash_delta_krw": 12336.873973897022,
+      "reason": "ENSO는 유지하되 fresh 0 전환에 맞춰 80% 동일비중으로 미세 축소"
+    },
+    {
+      "timestamp": "2026-07-09T21:58:00+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 1037.0,
+      "amount_delta": -19.2022393188282,
+      "cash_delta_krw": 19912.722173624843,
+      "reason": "85% 동일비중을 80%로 낮추며 메가 코어는 유지하되 초과분만 축소"
+    },
     {
       "timestamp": "2026-07-09T15:58:00+09:00",
       "symbol": "XPL",
@@ -843,69 +887,6 @@
       "amount_delta": 533.9723826669929,
       "cash_delta_krw": -254170.8541494886,
       "reason": "115.2억원 실대금과 77.8% 위치, -0.83% gap 조합으로 유지력이 선명한 대형 RWA continuation입니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ENSO",
-      "action": "BUY",
-      "price_krw": 1094.0,
-      "amount_delta": 232.33167655346307,
-      "cash_delta_krw": -254170.8541494886,
-      "reason": "+6.11%, 117.3억원, 93.2% 위치가 동시에 살아 있어 가장 단순한 fresh 확장 슬롯입니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "KAITO",
-      "action": "BUY",
-      "price_krw": 1016.0,
-      "amount_delta": 250.16816353296122,
-      "cash_delta_krw": -254170.8541494886,
-      "reason": "497.4억원 대금 1위와 85.5% 위치, -0.88% gap로 이번 회차 메가 리더입니다. unlock 오버행보다 현재 구조가 더 강합니다."
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "IN",
-      "action": "SELL",
-      "price_krw": 68.8,
-      "amount_delta": -2797.7861441926675,
-      "cash_delta_krw": 192487.68672045553,
-      "reason": "IN은 46% 위치로 식어 XPL 같은 80%대 continuation에 자리 양보"
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ARX",
-      "action": "SELL",
-      "price_krw": 275.0,
-      "amount_delta": -724.5548732396396,
-      "cash_delta_krw": 199252.5901409009,
-      "reason": "반등은 됐지만 ID·XPL 대비 상단 유지 질이 약해 85% 공격 바스켓에서 제외"
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "JTO",
-      "action": "SELL",
-      "price_krw": 953.0,
-      "amount_delta": -205.8308849057457,
-      "cash_delta_krw": 196156.83331517567,
-      "reason": "보합권 유지엔 성공했지만 51% 위치로 현재 80%대 리더들에 밀려 교체"
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "ORBS",
-      "action": "SELL",
-      "price_krw": 9.17,
-      "amount_delta": -20184.028611675672,
-      "cash_delta_krw": 185087.54236906592,
-      "reason": "210억원 대금에도 12% 위치 붕괴로 continuation 가정이 무효화돼 전량 정리"
-    },
-    {
-      "timestamp": "2026-07-09T15:58:00+09:00",
-      "symbol": "SLX",
-      "action": "SELL",
-      "price_krw": 277.0,
-      "amount_delta": -684.4411086312166,
-      "cash_delta_krw": 189590.187090847,
-      "reason": "메이저 평균 92.9% 반등에도 18%대 구조면 salvage가 아니라 trap이라 전량 정리"
     }
   ],
   "staleness_warning": {
@@ -915,64 +896,65 @@
   },
   "report_sections": {
     "업비트 알트 톱5 구매 희망 후보": [
-      "- 🧠 **KAITO** — 1,016원 / **+2.83%** / 497.4억원 / 위치 **85.5%** / mega core",
-      "- 🌀 **ENSO** — 1,094원 / **+6.11%** / 117.3억원 / 위치 **93.2%** / fresh expansion",
-      "- 🌐 **ONDO** — 476원 / **+0.85%** / 115.2억원 / 위치 **77.8%** / liquid RWA",
-      "- 🆔 **ID** — 55.5원 / **+0.73%** / 67.9억원 / 위치 **100.0%** / tight finisher",
-      "- 🫧 **XPL** — 140원 / **+2.94%** / 53.7억원 / 위치 **87.5%** / clean continuation"
+      "- 🧠 **KAITO** — 1,037원 / **+4.96%** / 282.9억원 / 위치 **87.1%** / mega core",
+      "- 🌀 **ARB** — 128원 / **+12.28%** / 66.1억원 / 위치 **82.4%** / beta replacement",
+      "- 🆔 **ID** — 56.4원 / **+2.36%** / 52.6억원 / 위치 **90.7%** / tight finisher",
+      "- 🧬 **ENSO** — 1,084원 / **+5.14%** / 88.5억원 / 위치 **73.5%** / attention survivor",
+      "- 🛡️ **ADA** — 253원 / **+1.20%** / 49.3억원 / 위치 **85.7%** / clean continuation"
     ],
     "제외된 메이저 참고 신호": [
-      "- BTC **99.4%** / ETH **92.0%** / XRP **92.9%** / SOL **87.1%**",
-      "- 메이저 평균 **92.9% 위치**, **4상승 0하락**",
-      "- fresh breakout **2개**, high conviction **9개**, weak breadth **false**",
-      "- 대금 함정 경고: **SLX / ORBS / OPG / TAIKO**"
+      "- BTC **65.9%** / ETH **61.7%** / XRP **66.7%** / SOL **58.1%**",
+      "- 메이저 평균 **63.1% 위치**, **3상승 0약세권**",
+      "- fresh breakout **0개**, high conviction **4개**, weak breadth **false**",
+      "- 대금 함정 경고: **SLX / XLM / TAIKO / BLAST**"
     ],
     "공격 포트폴리오 전략": [
-      "- 실투입: **85%**, 5종 동일비중",
-      "- 타깃: 각 약 **254,171원**",
-      "- 현금: 약 **224,268원 (15.0%)**",
-      "- 핵심 논리: **메이저 반등이 90%대까지 열렸는데 기존 보유 4종은 이미 broken 상태라, 방어 유지보다 현재 상단 리더로 갈아타는 편이 훨씬 낫습니다.**"
+      "- 실투입: **80%**, 5종 동일비중",
+      "- 타깃: 각 약 **239,511원**",
+      "- 현금: 약 **299,387원 (20.0%)**",
+      "- 핵심 논리: **강세장은 남아 있지만 16시 바스켓 중 ONDO·XPL·일부 ENSO가 이미 구조를 잃었습니다. 85%를 억지로 유지하기보다 80%로만 낮추고 ARB·ADA 같은 더 깨끗한 상단으로 갈아타는 편이 낫습니다.**"
     ],
     "가상 매매 실행 내용": [
-      "- 🔁 **65% → 85%로 상향, 전 종목 전면 리셋**",
-      "- ❌ 퇴출: **SLX / ORBS / JTO / ARX / IN**",
-      "- ✅ 신규: **KAITO / ENSO / ONDO / ID / XPL**",
-      "- 마지막 액션: **RESET_TO_85_KAITO_ENSO_ONDO_ID_XPL**"
+      "- 🔻 **85% → 80%로 미세 감속**",
+      "- ❌ 전량 퇴출: **ONDO / XPL**",
+      "- 🔄 부분 축소 유지: **KAITO / ENSO / ID**",
+      "- ✅ 신규 편입: **ARB / ADA**",
+      "- 마지막 액션: **ROTATE_TO_80_KAITO_ARB_ID_ENSO_ADA**"
     ],
     "현재 포트폴리오 현황": [
-      "- KAITO **250.1682개 @ 1,016원**",
-      "- ENSO **232.3317개 @ 1,094원**",
-      "- ONDO **533.9724개 @ 476원**",
-      "- ID **4579.6550개 @ 55.5원**",
-      "- XPL **1815.5061개 @ 140원**",
-      "- 현금 **224,268원** / 총평가 **1,495,123원**"
+      "- KAITO **230.9659개 @ 1,037원**",
+      "- ARB **1871.1771개 @ 128원**",
+      "- ID **4246.6430개 @ 56.4원**",
+      "- ENSO **220.9508개 @ 1,084원**",
+      "- ADA **946.6825개 @ 253원**",
+      "- 현금 **299,387원** / 총평가 **1,496,942원**"
     ],
     "자기 평가": [
-      "- 장점: **반등이 확인되자 65% 방어를 고집하지 않고 broken 보유를 전량 폐기한 점**",
-      "- 아쉬움: **직전 회차 survivor 5종 중 SLX·ORBS 붕괴를 더 빠르게 경계했어야 했습니다.**",
-      "- 점수: **8.8 / 10**"
+      "- 장점: **fresh 0 전환과 held 3슬롯 구조 훼손을 보고 85%를 고집하지 않은 점**",
+      "- 아쉬움: **ONDO·XPL의 상단 둔화를 1사이클 더 빨리 경계했으면 더 깔끔했습니다.**",
+      "- 점수: **8.6 / 10**"
     ],
     "이번 사이클 개선점": [
-      "- ✅ **DECISIONS.md에 “메이저 평균 85+ 반등 + weak breadth 해제 + held 2개 이상 붕괴 시 85% 즉시 리셋” 규칙을 추가했습니다.**",
-      "- ✅ **리포트에 비중 변경(65→85) 사유를 한 줄과 실행 섹션에 동시에 넣어 읽는 속도를 높였습니다.**",
-      "- ✅ **watchlist를 다음 승격 후보 중심으로 다시 정리해 감시용 이름과 매수 후보를 덜 섞이게 했습니다.**"
+      "- ✅ **DECISIONS.md에 “90대→60대 냉각 + fresh 0 + held 3개 이상 구조 붕괴 시 80%로 낮추고 상단 리더로 교체” 규칙을 추가했습니다.**",
+      "- ✅ **리포트 실행 섹션을 ‘전량 퇴출 / 부분 유지 / 신규 편입’으로 나눠 읽는 속도를 높였습니다.**",
+      "- ✅ **watchlist 앞쪽을 ONDO·XPL·OPG처럼 재진입 판단이 빠른 이름으로 재정렬했습니다.**"
     ],
     "판단": [
-      "- **aggressive-85-full-reset-into-high-range-leaders**"
+      "- **aggressive-80-rotate-into-true-high-range-leaders**"
     ],
     "신뢰도": [
-      "- **medium-high**"
+      "- **medium**"
     ],
     "추천 행동": [
-      "- **KAITO 998 / ENSO 1060 / ONDO 470 / ID 54.2 / XPL 138** 하회 시 즉시 재평가",
-      "- 다음 승격 후보: **SAHARA / NEAR / ADA / SUI / UNI**",
-      "- **SLX / ORBS**는 대금이 커도 70%+ 재회복 전 core 재진입 금지"
+      "- **KAITO 1015 / ARB 123 / ID 55.3 / ENSO 1065 / ADA 250** 하회 시 즉시 재평가",
+      "- 다음 승격 후보: **ONDO / XPL / OPG / BIRB / JTO**",
+      "- **SLX / XLM / TAIKO**는 대금이 커도 70%+ 구조 회복 전 core 재진입 금지"
     ],
     "리스크 메모": [
-      "- **KAITO는 7월 20일 unlock 오버행이 있어 구조가 깨지면 반응이 빠를 수 있습니다.**",
-      "- **ID는 100% 위치지만 타이트 박스라 54.2원 이탈 시 되돌림 속도가 빠를 수 있습니다.**",
-      "- **fresh breakout이 2개뿐이라 90% 풀공격까지는 아직 이릅니다.**",
-      "- **메이저가 너무 빨리 강해진 구간이라 다음 회차에 상단 식는지 여부를 꼭 확인해야 합니다.**"
+      "- **fresh breakout이 0이라 다시 85~90%로 올릴 근거는 아직 부족합니다.**",
+      "- **KAITO는 7월 20일 unlock 오버행이 있어 1015원 이탈 시 반응이 빨라질 수 있습니다.**",
+      "- **ARB는 수익률이 큰 만큼 123원 하회 시 되돌림 속도가 빠를 수 있습니다.**",
+      "- **ENSO는 양호하지만 16시 대비 위치가 많이 식어 1065원 재이탈 시 survivor 명분이 약해집니다.**"
     ]
   }
 }

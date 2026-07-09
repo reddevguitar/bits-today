@@ -1,302 +1,287 @@
 {
-  "updated_at": "2026-07-09T15:58:00+09:00",
-  "top_line": "메이저 평균 위치가 23.7%→92.9%로 급반등했고 weak breadth가 해제됐습니다. 직전 보유 5종 중 4종이 무효화·저위치라 65% 방어 바스켓을 끝내고 KAITO·ENSO·ONDO·ID·XPL 85% 상단 리더 5종으로 전면 리셋합니다.",
-  "macro_summary": "BTC·ETH·XRP·SOL 4종이 모두 양수이며 메이저 평균 위치는 92.85%로 직전 23.73%에서 급반등했습니다. top15 양수는 9개로 늘고 low-range는 5개로 줄어 weak breadth 경고가 해제됐습니다. fresh breakout은 2개뿐이지만 high-conviction 9개가 살아 있어 65% 방어를 유지할 이유가 사라졌습니다.",
-  "news_summary": "Alternative.me 공포탐욕지수는 22(Extreme Fear)로 여전히 낮습니다. 그럼에도 업비트 내부 구조는 risk-on으로 뒤집혔습니다. KAITO는 7월 20일 약 1.8% 공급 unlock(시총 대비 약 4.2%) 오버행이 남아 있지만 현재 85%+ 상단 구조가 이를 이기고 있어 tactical core로 허용합니다.",
-  "community_summary": "업비트 보드 체감 attention은 KAITO·ENSO·WLD 쪽으로 몰리지만 실전 잔존 강도는 KAITO·ENSO·ONDO·ID·XPL이 더 깔끔합니다. 이번 회차는 “반등은 왔지만 아무거나 사지 말고 상단 유지형만 모으자”는 흐름이 선명합니다.",
-  "public_figure_summary": "public-figure 헤드라인은 WLD보다 KAITO 쪽 attention 회복이 더 실전적으로 보입니다. Altman 연상 WLD는 구조가 살아나도 아직 음수라 코어 승격을 보류합니다.",
-  "major_coin_summary": "BTC +0.91%·99.4% 위치 / ETH +0.42%·92.0% 위치 / XRP +0.80%·92.9% 위치 / SOL +0.77%·87.1% 위치 / 메이저 평균 92.85% 위치",
-  "altcoin_selection_summary": "preferred buy 5종은 KAITO, ENSO, ONDO, ID, XPL입니다. KAITO는 메가 유동성 코어, ENSO는 fresh 확장, ONDO는 liquid RWA continuation, ID는 타이트 상단 고정, XPL은 가장 깔끔한 중형 continuation입니다.",
-  "overall_bias": "aggressive-85-full-reset-into-high-range-leaders",
-  "confidence": "medium-high",
+  "updated_at": "2026-07-09T21:58:00+09:00",
+  "top_line": "메이저 평균 위치가 92.9%→63.1%로 식고 fresh breakout이 2→0으로 줄었습니다. 그래도 weak breadth는 false라 85% 풀공격을 80%로만 낮추고, 무효화된 ONDO·XPL 축을 ARB·ADA로 교체한 5종 상단 바스켓으로 재정렬합니다.",
+  "macro_summary": "BTC·ETH·XRP·SOL은 모두 보합~소폭 양수지만 메이저 평균 위치는 63.1%로 직전 92.9% 대비 냉각됐습니다. top15 양수는 9개로 유지되고 low-range는 5개라 breadth는 아직 깨지지 않았지만 fresh breakout은 0으로 줄어 무작정 85~90%를 밀어붙일 단계는 아닙니다.",
+  "news_summary": "Alternative.me 공포탐욕지수는 22(Extreme Fear)로 여전히 낮습니다. 외부 헤드라인보다 실제 보드 구조가 더 중요해졌고, KAITO는 7월 20일 unlock 오버행이 남아 있어도 현재 상단 체류가 더 우세합니다. ENSO는 상장/신규 attention 잔열이 남아 있지만 이제는 fresh보다 survivor 관점이 맞습니다.",
+  "community_summary": "업비트 보드 체감 자금은 SLX 같은 실패 대금주에서 빠지고 KAITO·ARB·ID 쪽 상단 유지형으로 압축됐습니다. 커뮤니티 관점에서도 \"아무거나 추격\"보다 \"이미 상단에 남은 것만 보자\" 흐름이 선명합니다.",
+  "public_figure_summary": "public figure/헤드라인 attention은 WLD보다 KAITO 쪽이 실전 체류가 낫습니다. Worldcoin류 headline은 반등 탄력이 약해져 참고 신호로만 두는 편이 안전합니다.",
+  "major_coin_summary": "BTC +0.79%·65.9% 위치 / ETH +0.08%·61.7% 위치 / XRP +0.43%·66.7% 위치 / SOL 0.00%·58.1% 위치 / 메이저 평균 63.1% 위치",
+  "altcoin_selection_summary": "preferred buy 5종은 KAITO, ARB, ID, ENSO, ADA입니다. KAITO는 메가 코어, ARB는 공격 교체 슬롯, ID는 타이트 상단 고정, ENSO는 attention survivor, ADA는 대형 clean continuation 역할입니다.",
+  "overall_bias": "aggressive-80-rotate-into-true-high-range-leaders",
+  "confidence": "medium",
   "preferred_buy_candidates": [
     {
       "market": "KRW-KAITO",
       "symbol": "KAITO",
       "korean_name": "카이토",
       "english_name": "KAITO",
-      "price_krw": 1016.0,
-      "change_pct_24h": 2.8340081,
-      "turnover_krw_24h": 49736873871.28711,
+      "price_krw": 1037.0,
+      "change_pct_24h": 4.95951417,
+      "turnover_krw_24h": 28288025242.537083,
       "opening_price": 988.0,
-      "high_price": 1025.0,
+      "high_price": 1048.0,
       "low_price": 963.0,
-      "range_position_pct": 85.5,
-      "day_high_gap_pct": -0.88,
-      "selection_score": 62.33,
-      "role": "mega-liquidity breakout core",
-      "strategy": "998원 above and 78%+ 구조 유지 시 보유",
-      "risk_limit_pct": 3.5,
-      "profit_take_pct": 6.5,
-      "invalidated_if": "998원 하회 또는 78% 구조 붕괴",
-      "reason": "497.4억원 대금 1위와 85.5% 위치, -0.88% gap가 겹친 이번 회차 최우선 메가 리더입니다. 7월 20일 unlock 오버행은 남아도 지금은 차트가 더 강합니다.",
-      "allocation_krw": 254170.8541494886
+      "range_position_pct": 87.1,
+      "day_high_gap_pct": -1.05,
+      "selection_score": 56.14,
+      "role": "mega-liquidity continuation core",
+      "strategy": "1015원 above and 80%+ 구조 유지 시 보유",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 6.0,
+      "invalidated_if": "1015원 하회 또는 80% 구조 붕괴",
+      "reason": "282.9억원 대금 1위, +4.96%, 87.1% 위치로 이번 밤에도 가장 읽기 쉬운 메가 코어입니다. 7월 20일 unlock 오버행은 남아도 현재 보드에서는 구조 우위가 더 큽니다.",
+      "allocation_krw": 239510.66341005595
     },
     {
-      "market": "KRW-ENSO",
-      "symbol": "ENSO",
-      "korean_name": "엔소",
-      "english_name": "Enso",
-      "price_krw": 1094.0,
-      "change_pct_24h": 6.11055189,
-      "turnover_krw_24h": 11728376925.280092,
-      "opening_price": 1033.0,
-      "high_price": 1100.0,
-      "low_price": 1012.0,
-      "range_position_pct": 93.2,
-      "day_high_gap_pct": -0.55,
-      "selection_score": 54.28,
-      "role": "fresh momentum expansion",
-      "strategy": "1060원 above and 85%+ 구조 유지 시 보유",
+      "market": "KRW-ARB",
+      "symbol": "ARB",
+      "korean_name": "아비트럼",
+      "english_name": "Arbitrum",
+      "price_krw": 128.0,
+      "change_pct_24h": 12.28070175,
+      "turnover_krw_24h": 6605370336.270946,
+      "opening_price": 114.0,
+      "high_price": 131.0,
+      "low_price": 114.0,
+      "range_position_pct": 82.4,
+      "day_high_gap_pct": -2.29,
+      "selection_score": 54.16,
+      "role": "beta momentum replacement",
+      "strategy": "123원 above and 75%+ 구조 유지 시 보유",
       "risk_limit_pct": 4.0,
-      "profit_take_pct": 7.0,
-      "invalidated_if": "1060원 하회 또는 85% 구조 붕괴",
-      "reason": "+6.11%, 117.3억원, 93.2% 위치가 동시에 살아 있어 이번 회차 가장 단순한 fresh 확장 슬롯입니다.",
-      "allocation_krw": 254170.8541494886
-    },
-    {
-      "market": "KRW-ONDO",
-      "symbol": "ONDO",
-      "korean_name": "온도파이낸스",
-      "english_name": "Ondo Finance",
-      "price_krw": 476.0,
-      "change_pct_24h": 0.84745763,
-      "turnover_krw_24h": 11517049012.906248,
-      "opening_price": 472.0,
-      "high_price": 480.0,
-      "low_price": 462.0,
-      "range_position_pct": 77.8,
-      "day_high_gap_pct": -0.83,
-      "selection_score": 40.48,
-      "role": "liquid rwa continuation",
-      "strategy": "470원 above and 72%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 5.0,
-      "invalidated_if": "470원 하회 또는 72% 구조 붕괴",
-      "reason": "115.2억원 실대금과 77.8% 위치, -0.83% gap 조합으로 과열보다 유지력이 선명한 대형 RWA continuation입니다.",
-      "allocation_krw": 254170.8541494886
+      "profit_take_pct": 7.5,
+      "invalidated_if": "123원 하회 또는 75% 구조 붕괴",
+      "reason": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다.",
+      "allocation_krw": 239510.66341005595
     },
     {
       "market": "KRW-ID",
       "symbol": "ID",
       "korean_name": "스페이스아이디",
       "english_name": "SPACE ID",
-      "price_krw": 55.5,
-      "change_pct_24h": 0.7260181,
-      "turnover_krw_24h": 6793156659.054822,
+      "price_krw": 56.4,
+      "change_pct_24h": 2.35934664,
+      "turnover_krw_24h": 5257251176.704672,
       "opening_price": 55.1,
-      "high_price": 55.5,
+      "high_price": 56.8,
       "low_price": 52.5,
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0,
-      "selection_score": 44.56,
+      "range_position_pct": 90.7,
+      "day_high_gap_pct": -0.7,
+      "selection_score": 42.94,
       "role": "tight high-range finisher",
-      "strategy": "54.2원 above and 82%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.6,
+      "strategy": "55.3원 above and 84%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.5,
       "profit_take_pct": 4.8,
-      "invalidated_if": "54.2원 하회 또는 82% 구조 붕괴",
-      "reason": "67.9억원 대금과 100% 위치, 0% gap으로 타이트하지만 가장 읽기 쉬운 상단 고정 슬롯입니다.",
-      "allocation_krw": 254170.8541494886
+      "invalidated_if": "55.3원 하회 또는 84% 구조 붕괴",
+      "reason": "52.6억원 대금과 90.7% 위치, -0.70% gap으로 가장 단정한 상단 고정 슬롯입니다.",
+      "allocation_krw": 239510.66341005595
     },
     {
-      "market": "KRW-XPL",
-      "symbol": "XPL",
-      "korean_name": "플라즈마",
-      "english_name": "Plasma",
-      "price_krw": 140.0,
-      "change_pct_24h": 2.94117647,
-      "turnover_krw_24h": 5374808432.418249,
-      "opening_price": 136.0,
-      "high_price": 141.0,
-      "low_price": 133.0,
-      "range_position_pct": 87.5,
-      "day_high_gap_pct": -0.71,
-      "selection_score": 42.39,
-      "role": "clean mid-cap continuation",
-      "strategy": "138원 above and 80%+ 구조 유지 시 보유",
-      "risk_limit_pct": 3.0,
-      "profit_take_pct": 5.5,
-      "invalidated_if": "138원 하회 또는 80% 구조 붕괴",
-      "reason": "53.7억원 대금과 +2.94%, 87.5% 위치, -0.71% gap 조합이 매우 깔끔해 5번째 분산축으로 적합합니다.",
-      "allocation_krw": 254170.8541494886
+      "market": "KRW-ENSO",
+      "symbol": "ENSO",
+      "korean_name": "엔소",
+      "english_name": "Enso",
+      "price_krw": 1084.0,
+      "change_pct_24h": 5.14064016,
+      "turnover_krw_24h": 8852043254.415375,
+      "opening_price": 1033.0,
+      "high_price": 1110.0,
+      "low_price": 1012.0,
+      "range_position_pct": 73.5,
+      "day_high_gap_pct": -2.34,
+      "selection_score": 40.6,
+      "role": "attention survivor expansion",
+      "strategy": "1065원 above and 70%+ 구조 유지 시 보유",
+      "risk_limit_pct": 3.8,
+      "profit_take_pct": 6.5,
+      "invalidated_if": "1065원 하회 또는 70% 구조 붕괴",
+      "reason": "+5.14%와 88.5억원 대금은 아직 살아 있고, 16시 대비 식었어도 70%대 상단 체류를 유지해 교체보다 잔류 가치가 있습니다.",
+      "allocation_krw": 239510.66341005595
+    },
+    {
+      "market": "KRW-ADA",
+      "symbol": "ADA",
+      "korean_name": "에이다",
+      "english_name": "Ada",
+      "price_krw": 253.0,
+      "change_pct_24h": 1.2,
+      "turnover_krw_24h": 4930964951.100934,
+      "opening_price": 250.0,
+      "high_price": 254.0,
+      "low_price": 247.0,
+      "range_position_pct": 85.7,
+      "day_high_gap_pct": -0.39,
+      "selection_score": 39.65,
+      "role": "large-cap clean continuation",
+      "strategy": "250원 above and 78%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.5,
+      "profit_take_pct": 4.5,
+      "invalidated_if": "250원 하회 또는 78% 구조 붕괴",
+      "reason": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다.",
+      "allocation_krw": 239510.66341005595
     }
   ],
   "selected_altcoins": [
     {
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "reason": "497.4억원 대금 1위와 85.5% 위치, -0.88% gap가 겹친 이번 회차 최우선 메가 리더입니다. 7월 20일 unlock 오버행은 남아도 지금은 차트가 더 강합니다."
+      "reason": "282.9억원 대금 1위, +4.96%, 87.1% 위치로 이번 밤에도 가장 읽기 쉬운 메가 코어입니다. 7월 20일 unlock 오버행은 남아도 현재 보드에서는 구조 우위가 더 큽니다."
     },
     {
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "reason": "+6.11%, 117.3억원, 93.2% 위치가 동시에 살아 있어 이번 회차 가장 단순한 fresh 확장 슬롯입니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "115.2억원 실대금과 77.8% 위치, -0.83% gap 조합으로 과열보다 유지력이 선명한 대형 RWA continuation입니다."
+      "symbol": "ARB",
+      "market": "KRW-ARB",
+      "reason": "+12.28%와 66.1억원, 82.4% 위치가 동시에 살아 있습니다. fresh count는 0이지만 현재 보드에서 교체 효율이 가장 높은 공격형 베타입니다."
     },
     {
       "symbol": "ID",
       "market": "KRW-ID",
-      "reason": "67.9억원 대금과 100% 위치, 0% gap으로 타이트하지만 가장 읽기 쉬운 상단 고정 슬롯입니다."
+      "reason": "52.6억원 대금과 90.7% 위치, -0.70% gap으로 가장 단정한 상단 고정 슬롯입니다."
     },
     {
-      "symbol": "XPL",
-      "market": "KRW-XPL",
-      "reason": "53.7억원 대금과 +2.94%, 87.5% 위치, -0.71% gap 조합이 매우 깔끔해 5번째 분산축으로 적합합니다."
-    }
-  ],
-  "watchlist": [
-    {
-      "symbol": "SAHARA",
-      "market": "KRW-SAHARA",
-      "reason": "90.9% 위치와 +6.0%는 좋지만 AI attention 베타가 이미 ENSO와 겹쳐 이번 회차는 6순위로 둡니다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "84.9% 위치와 55.1억원 대금으로 충분히 좋지만 ONDO·XPL 대비 서사 독립성이 한 단계 약합니다."
+      "symbol": "ENSO",
+      "market": "KRW-ENSO",
+      "reason": "+5.14%와 88.5억원 대금은 아직 살아 있고, 16시 대비 식었어도 70%대 상단 체류를 유지해 교체보다 잔류 가치가 있습니다."
     },
     {
       "symbol": "ADA",
       "market": "KRW-ADA",
-      "reason": "85.7% 위치의 quality continuation이지만 상대 대금과 탄력이 XPL·ID보다 한 단계 아래입니다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "76.3% 위치의 체급 continuation이지만 이번 회차는 ONDO 쪽이 더 단순합니다."
-    },
-    {
-      "symbol": "UNI",
-      "market": "KRW-UNI",
-      "reason": "89.2% 위치는 좋지만 45.6억원 체급이라 XPL·ID보다 우선순위를 낮췄습니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "202.8억원 대금은 매우 크지만 50% 위치 정체형이라 85% 공격 바스켓으로는 부족합니다."
-    },
-    {
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "reason": "반등은 성공했지만 45.4억원 체급과 66.7% 위치라 현재 고위치 리더 5종보다 한 단계 약합니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "61.1% 구조는 회복했지만 아직 음수라 Altman headline보다 현재 양수 리더가 우선입니다."
+      "reason": "49.3억원 대금은 아주 크지 않지만 85.7% 위치와 -0.39% gap이 매우 깔끔합니다. XPL보다 현재 상단 유지 질이 더 좋습니다."
     }
   ],
-  "risk_notes": [
-    "KAITO는 구조가 가장 좋지만 7월 20일 unlock 오버행이 있어 998원 하회 시 미련 없이 축소해야 합니다.",
-    "ID는 100% 위치지만 타이트한 박스라 54.2원 이탈 시 되돌림 속도가 빠를 수 있습니다.",
-    "ENSO·XPL은 상단 구조가 매우 좋지만 중형 체급이라 대금 이탈 시 교체 속도를 늦추면 안 됩니다.",
-    "메이저 반등이 강해도 fresh breakout은 2개뿐이라 90%까지는 아직 과합니다.",
-    "SLX·ORBS 같은 기존 대금주가 다시 살아나더라도 70%+ 재회복 전에는 재진입 금지입니다."
-  ],
-  "fear_greed": "22 (Extreme Fear; Alternative.me API 16:00 KST 확인)",
-  "btc_reference": "BTC 93.767M원 / ETH 2.615M원 / XRP 1,641.0원 / SOL 117.1K원",
-  "improvement_log": [
-    "DECISIONS.md에 “메이저 평균이 85 이상으로 급반등하고 weak breadth가 해제됐는데 기존 보유 2개 이상이 이미 무효화·50% 미만이면 65% 방어를 즉시 종료하고 85% 현재 리더 5종으로 전면 리셋” 규칙을 추가했습니다.",
-    "이번 리포트는 65%→85% 비중 변경 이유를 한 줄과 실행 섹션에 명시해, 왜 방어에서 공격으로 바뀌었는지 더 빨리 읽히게 했습니다.",
-    "watchlist를 “바로 다음 승격 후보” 중심으로 다시 정리해, 보유 실패주 감시와 신규 승격 후보를 섞어 읽던 문제를 줄였습니다."
-  ],
-  "self_evaluation": {
-    "score": 8.8,
-    "summary": "직전 회차의 65% 방어는 맞았지만 반등 초입에서 기존 실패주를 더 오래 들고 가면 안 됐습니다. 이번엔 규칙대로 4개 broken slot을 모두 버리고 현재 리더로 갈아탄 점이 개선입니다."
-  },
-  "ui_version": "v32.0",
-  "rejected_candidates": [
+  "watchlist": [
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "404.3억원 대금 2위여도 -4.48%, 18%대 위치면 전형적인 turnover trap입니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "473원 자체는 버텼지만 61.1% 위치로 기존 72% 구조 기준이 깨졌습니다. 70%대 재회복 시 재진입 후보입니다."
     },
     {
-      "symbol": "ORBS",
-      "market": "KRW-ORBS",
-      "reason": "210.8억원 대금에도 12% 위치와 -9% gap로 구조가 완전히 무너졌습니다."
-    },
-    {
-      "symbol": "TAIKO",
-      "market": "KRW-TAIKO",
-      "reason": "고점 대비 -19% gap와 6% 위치면 리더가 아니라 실패 캔들입니다."
+      "symbol": "XPL",
+      "market": "KRW-XPL",
+      "reason": "가격은 138원선이지만 위치가 62.5%까지 식어 80% continuation 명분이 사라졌습니다. 재상단 복귀 전 watchlist로 강등합니다."
     },
     {
       "symbol": "OPG",
       "market": "KRW-OPG",
-      "reason": "124.6억원 대금이어도 25% 위치 음수면 rebound core로 볼 근거가 약합니다."
+      "reason": "112.8억원 실대금은 좋지만 58.3% 위치라 지금은 코어보다 감시 후보입니다."
+    },
+    {
+      "symbol": "BIRB",
+      "market": "KRW-BIRB",
+      "reason": "+8.0%와 92.4억원 대금은 좋지만 고점 대비 -5.54% gap가 넓어 우선순위를 낮췄습니다."
+    },
+    {
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "67.4억원 대금과 58.9% 위치로 무난하지만 ARB·ADA 대비 상단 질이 한 단계 약합니다."
+    },
+    {
+      "symbol": "EGLD",
+      "market": "KRW-EGLD",
+      "reason": "+10.2%지만 55.3% 위치와 -6.16% gap로 late strength 성격이 강합니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "WLD는 구조가 살아나도 아직 음수라 이번 회차 preferred 5선에 넣기엔 한 박자 늦습니다."
+      "reason": "Altman headline은 남아도 음수라 현재 all-positive 바스켓보다 우선순위가 낮습니다."
+    }
+  ],
+  "risk_notes": [
+    "fresh breakout이 0이라 85~90% 재가속을 유지할 근거는 부족합니다.",
+    "KAITO는 최강 코어지만 7월 20일 unlock 오버행이 있어 1015원 하회 시 반응을 늦추면 안 됩니다.",
+    "ENSO는 양호하지만 16시 대비 위치가 93%→73.5%로 식어 1065원 재이탈 시 survivor 명분이 약해집니다.",
+    "ARB는 강하지만 고베타라 123원 이탈 시 되돌림 속도가 빠를 수 있습니다.",
+    "SLX·XLM 같은 대금 상위 trap은 다시 70%+ 구조를 회복하기 전까지 재진입 금지입니다."
+  ],
+  "fear_greed": "22 (Extreme Fear; Alternative.me 21:59 KST 확인)",
+  "btc_reference": "BTC 93.650M원 / ETH 2.606M원 / XRP 1,635원 / SOL 116.2K원",
+  "improvement_log": [
+    "DECISIONS.md에 “메이저 평균이 90대에서 60대 초반으로 식고 fresh breakout이 0으로 줄며 held 3개 이상이 구조를 잃으면 85%를 고집하지 말고 80%로 낮추고 현재 80%+/70%+ 리더로 교체” 규칙을 추가했습니다.",
+    "이번 리포트는 “유지 / 교체 / 강등”을 더 분명히 보여주도록 가상 매매 실행 내용을 재정렬했습니다.",
+    "watchlist를 재진입 조건이 보이는 이름 위주(ONDO·XPL·OPG)로 앞쪽에 재배치해 다음 의사결정을 더 빠르게 읽히게 했습니다."
+  ],
+  "self_evaluation": {
+    "score": 8.6,
+    "summary": "16시 리셋 자체는 맞았지만 fresh 0 전환과 구조 붕괴를 보자마자 85%를 그대로 두면 안 됐습니다. 이번엔 broken 3슬롯을 바로 교체하고 노출을 80%로 낮춘 점이 개선입니다."
+  },
+  "ui_version": "v33.0",
+  "rejected_candidates": [
+    {
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "401.7억원 초대금이어도 0% 위치와 -13.9% gap면 명백한 turnover trap입니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "206.8억원 대금은 크지만 음수·25% 위치면 리더가 아니라 stalled liquidity입니다."
+    },
+    {
+      "symbol": "TAIKO",
+      "market": "KRW-TAIKO",
+      "reason": "6.1% 위치와 -19.25% gap는 실패 캔들입니다."
+    },
+    {
+      "symbol": "BLAST",
+      "market": "KRW-BLAST",
+      "reason": "+7.07%라도 34% 위치와 -13.47% gap면 late spike에 가깝습니다."
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "100% 위치는 좋지만 top4 majors 외 reference 성격이 강해 이번 알트 코어 5선에서는 제외합니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 851.5억원입니다.",
-    "momentum_discipline": "SLX·ORBS·JTO·ARX·IN 퇴출 / KAITO·ENSO·ONDO·ID·XPL 승격",
-    "diversification": "mega core 1 + fresh expansion 1 + liquid RWA 1 + tight finisher 1 + clean mid-cap continuation 1",
-    "cash_usage": "85%",
-    "rotation_speed": "full-reset-after-breadth-reversal"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 584.9억원입니다.",
+    "momentum_discipline": "ONDO·XPL 강등 / ARB·ADA 승격 / KAITO·ENSO·ID 유지",
+    "diversification": "mega core 1 + beta replacement 1 + tight finisher 1 + attention survivor 1 + large-cap continuation 1",
+    "cash_usage": "80%",
+    "rotation_speed": "partial-reset-after-fresh-collapse"
   },
   "signal_balance": {
-    "summary": "major avg 92.85 / weak breadth false / fresh 2 / top15 positives 9 / top15 low-range 5 -> 85% 공격 재개, broken prior basket 전량 교체"
+    "summary": "major avg 63.1 / weak breadth false / fresh 0 / top15 positives 9 / top15 low-range 5 -> 공격 유지 but 85%→80% 미세 감속, broken 3슬롯 교체"
   },
   "rotation_map": [
     {
-      "out": "SLX",
-      "in": "KAITO",
-      "why": "SLX는 404억원 초대금에도 20%대 trap으로 무너졌고 KAITO는 497억원·85%대 메가 리더로 반전했습니다."
+      "out": "ONDO",
+      "in": "ARB",
+      "why": "ONDO는 61.1%로 기존 72% 구조가 깨졌고 ARB는 +12.28%, 82.4% 위치의 더 강한 교체 후보입니다."
     },
     {
-      "out": "ORBS",
-      "in": "ENSO",
-      "why": "ORBS는 12% 위치 붕괴, ENSO는 93% 위치 fresh 확장이라 교체 우선순위가 명확합니다."
+      "out": "XPL",
+      "in": "ADA",
+      "why": "XPL은 62.5%까지 식어 continuation 명분이 약해졌고 ADA는 85.7% 위치와 -0.39% gap의 더 단정한 대형 continuation입니다."
     },
     {
-      "out": "JTO",
-      "in": "ONDO",
-      "why": "JTO는 51% 위치로 둔화됐고 ONDO는 더 큰 체급에서 78% 구조를 보여줍니다."
-    },
-    {
-      "out": "ARX",
-      "in": "ID",
-      "why": "ARX도 반등했지만 ID는 100% 위치와 0% gap의 더 깔끔한 상단 고정입니다."
-    },
-    {
-      "out": "IN",
-      "in": "XPL",
-      "why": "IN은 46%대까지 식었고 XPL은 87.5% 위치를 유지해 현재 continuation 효율이 더 좋습니다."
+      "out": "85% deployment",
+      "in": "80% deployment",
+      "why": "fresh breakout 0과 메이저 평균 63.1% 냉각을 반영해 공격은 유지하되 과열 노출만 줄였습니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 현금 15% 유지. 메이저 평균이 75 아래로 식거나 preferred 5종 중 2개 이상이 무효화되면 75~80% 재방어 검토. fresh breakout이 4개 이상으로 늘면 90% 재상향 검토.",
-    "review_trigger": "KAITO 998 / ENSO 1060 / ONDO 470 / ID 54.2 / XPL 138 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 현금 20% 유지. 메이저 평균이 50 아래로 내려가거나 preferred 5종 중 2개 이상이 다시 무효화되면 70~75% 재방어 검토. fresh breakout이 2개 이상 재등장하고 메이저 평균이 75 이상 회복되면 85% 재상향 검토.",
+    "review_trigger": "KAITO 1015 / ARB 123 / ID 55.3 / ENSO 1065 / ADA 250 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
-      "메이저 평균 85+·weak breadth false 구간에서는 broken prior holdings를 방치하지 않기",
+      "fresh breakout 0 구간에서는 구조 무너진 기존 보유를 방치하지 않기",
       "KAITO unlock 오버행은 인정하되 구조가 깨지면 즉시 퇴출",
       "현금 0%는 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 2.69,
+    "preferred_avg_change_pct_24h": 5.39,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 85150264900.94652,
-    "leader_turnover_share_pct": 58.41,
+    "preferred_turnover_total_krw_24h": 58494054961.02901,
+    "leader_turnover_share_pct": 48.36,
     "leader_symbol": "KAITO"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "상단 구조는 KAITO·ENSO·ID가 이끌고, ONDO·XPL이 과열을 낮추는 균형 역할을 합니다."
+    "comment": "KAITO·ID·ADA가 상단 질을 책임지고, ARB·ENSO가 공격 베타를 보강하는 구조입니다."
   },
-  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-09 15:59 KST 스냅샷 기준 판단"
+  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-09 21:58 KST 스냅샷 기준 판단"
 }
