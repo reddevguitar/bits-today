@@ -2,114 +2,124 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 284769.6975677493,
-  "realized_pnl_krw": -8548335.709525453,
-  "last_valuation_krw": 1423848.4878387467,
-  "last_action": "RESET_TO_80_MMT_SYRUP_ENA_ONDO_IN",
-  "last_updated": "2026-07-11T03:58:00+09:00",
-  "trade_count": 1756,
+  "cash_krw": 287848.32906562765,
+  "realized_pnl_krw": -8532942.552036062,
+  "last_valuation_krw": 1439241.6453281385,
+  "last_action": "RESET_TO_80_IN_VIRTUAL_ARX_ONDO_ENA",
+  "last_updated": "2026-07-11T09:59:00+09:00",
+  "trade_count": 1766,
   "positions": {
-    "MMT": {
-      "market": "KRW-MMT",
-      "amount": 759.385860180665,
-      "avg_buy_price_krw": 300.0,
-      "last_price_krw": 300.0,
-      "value_krw": 227815.75805419948,
-      "thesis": "76.1억원 대금인데도 98.7% 위치와 -0.33% gap를 동시에 지켰습니다. fresh count는 공식 임계치상 0이지만 실전 보드에서는 MMT가 사실상 유일한 새 선봉입니다.",
-      "strategy": "286원 above and 85%+ 구조 유지 시 보유",
-      "role": "fresh momentum spearhead",
-      "risk_limit_pct": 4.7,
-      "profit_take_pct": 11.8
+    "IN": {
+      "market": "KRW-IN",
+      "amount": 3090.988768489962,
+      "avg_buy_price_krw": 74.5,
+      "last_price_krw": 74.5,
+      "value_krw": 230278.66325250216,
+      "thesis": "114.4억원 대금과 +5.37%, 97.4% 위치, -0.13% gap이 함께 살아 있습니다. 기존 MMT보다 훨씬 더 선명한 현재 보드 선봉입니다.",
+      "strategy": "73.3원 above and 90%+ 구조 유지 시 보유",
+      "role": "high-liquidity fresh spearhead",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 8.4
     },
-    "SYRUP": {
-      "market": "KRW-SYRUP",
-      "amount": 816.5439356781344,
+    "VIRTUAL": {
+      "market": "KRW-VIRTUAL",
+      "amount": 246.02421287660488,
+      "avg_buy_price_krw": 936.0,
+      "last_price_krw": 936.0,
+      "value_krw": 230278.66325250216,
+      "thesis": "96.4억원 대금과 100% 위치가 겹칩니다. OPG·KAT 쪽 실패 자금이 더 깨끗한 AI attention 리더로 이동하는 흐름을 가장 잘 받습니다.",
+      "strategy": "920원 above and 95%+ 구조 유지 시 보유",
+      "role": "ai attention continuation",
+      "risk_limit_pct": 3.4,
+      "profit_take_pct": 8.7
+    },
+    "ARX": {
+      "market": "KRW-ARX",
+      "amount": 825.3715528763518,
       "avg_buy_price_krw": 279.0,
       "last_price_krw": 279.0,
-      "value_krw": 227815.75805419948,
-      "thesis": "48.7억원 대금과 +15.29%, 81.6% 위치가 함께 살아 있습니다. Maple/SYRUP 쪽 자금이 한 번 올라온 뒤 눌림 없이 버텨서 공격 바스켓 2번 축으로 적합합니다.",
-      "strategy": "272원 above and 75%+ 구조 유지 시 보유",
-      "role": "defi beta continuation",
+      "value_krw": 230278.66325250216,
+      "thesis": "46.3억원 대금, +4.49%, 93.3% 위치, -0.36% gap 조합이 단순합니다. 저체급이지만 지금 보드에서 follow-through가 가장 깔끔한 베타 슬롯입니다.",
+      "strategy": "273원 above and 85%+ 구조 유지 시 보유",
+      "role": "clean beta breakout",
       "risk_limit_pct": 4.1,
-      "profit_take_pct": 9.6
-    },
-    "ENA": {
-      "market": "KRW-ENA",
-      "amount": 1914.4181349092394,
-      "avg_buy_price_krw": 119.0,
-      "last_price_krw": 119.0,
-      "value_krw": 227815.75805419948,
-      "thesis": "41.6억원 대금이 아주 크진 않지만 85.7% 위치와 -0.83% gap가 매우 단순합니다. 과열이 덜한 상단 지속주라 새벽 재정렬에서 품질 슬롯 역할이 좋습니다.",
-      "strategy": "117원 above and 80%+ 구조 유지 시 보유",
-      "role": "clean stable continuation",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 7.2
+      "profit_take_pct": 10.2
     },
     "ONDO": {
       "market": "KRW-ONDO",
-      "amount": 469.7232124828855,
-      "avg_buy_price_krw": 485.0,
-      "last_price_krw": 485.0,
-      "value_krw": 227815.75805419948,
-      "thesis": "90.0억원 대금과 68.2% 위치, -1.42% gap 조합이 깔끔합니다. 메이저가 식은 구간에서 중대형 유동성 분산축으로 가장 읽기 쉽습니다.",
-      "strategy": "479원 above and 60%+ 구조 유지 시 보유",
-      "role": "liquid rwa continuation",
-      "risk_limit_pct": 2.6,
-      "profit_take_pct": 6.4
+      "amount": 468.04606352134584,
+      "avg_buy_price_krw": 492.0,
+      "last_price_krw": 492.0,
+      "value_krw": 230278.66325250216,
+      "thesis": "97.3억원 대금과 100% 위치를 동시에 지켰습니다. 좁은 박스이긴 하지만 체급형 비메이저 중 가장 읽기 쉬운 RWA 앵커입니다.",
+      "strategy": "489원 above and 95%+ 구조 유지 시 보유",
+      "role": "liquid rwa anchor",
+      "risk_limit_pct": 2.1,
+      "profit_take_pct": 5.6
     },
-    "IN": {
-      "market": "KRW-IN",
-      "amount": 3199.6595232331388,
-      "avg_buy_price_krw": 71.2,
-      "last_price_krw": 71.2,
-      "value_krw": 227815.75805419948,
-      "thesis": "103.0억원 대금에 +0.71%로 화려하진 않지만 62.2% 위치와 -1.93% gap가 안정적입니다. 기존 고베타 실패 슬롯을 대신할 생존형 대금 코어로 적합합니다.",
-      "strategy": "70.0원 above and 60%+ 구조 유지 시 보유",
-      "role": "high-liquidity survivor",
-      "risk_limit_pct": 2.4,
-      "profit_take_pct": 5.9
+    "ENA": {
+      "market": "KRW-ENA",
+      "amount": 1887.5300266598538,
+      "avg_buy_price_krw": 122.0,
+      "last_price_krw": 122.0,
+      "value_krw": 230278.66325250216,
+      "thesis": "50.8억원 대금에 100% 위치를 유지하고 있습니다. SYRUP가 무너진 자리에서 더 단순하고 덜 시끄러운 DeFi 지속주입니다.",
+      "strategy": "121원 above and 95%+ 구조 유지 시 보유",
+      "role": "clean defi box leader",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 4.9
     }
   },
   "watchlist": [
     {
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "427.9억원 대금과 +16.10%는 압도적이지만 현재 -9.01% day-high gap라 새벽 추격 슬롯보다 감시 승격 후보가 맞습니다. gap이 -4% 안쪽으로 조여지면 즉시 재평가합니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "93.1억원 대금과 80.0% 위치, -0.17% gap는 매우 좋습니다. 다만 7월 24일 일일 언락 43% 감소 재료가 붙어 narrative 쏠림이 있어 이번 회차는 preferred보다 watch 승격이 맞습니다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "34.7억원 대금, 89.7% 위치, -1.03% gap로 모양은 매우 좋습니다. 40억원대 이상 대금 확장 시 ENA 대체 후보 1순위입니다."
+      "symbol": "B3",
+      "market": "KRW-B3",
+      "reason": "31.3억원 대금, +11.05%, 80.0% 위치로 고베타 후보입니다. 다만 체급이 작아 ARX보다 한 단계 아래 대기군으로 둡니다."
     },
     {
-      "symbol": "F",
-      "market": "KRW-F",
-      "reason": "32.7억원 대금과 85.2% 위치가 좋아 저체급 베타 대기군으로 둡니다. 다만 MMT·SYRUP 대비 체감 주도력은 한 단계 아래입니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "47.0억원 대금과 76.5% 위치, -0.14% gap가 깔끔합니다. 다만 박스가 너무 좁아 ONDO·ENA 대비 추가 탄력은 약합니다."
     },
     {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "50.9% 위치와 52.0억원 대금으로 체급 분산축 후보입니다. 다만 이번 회차는 ENA·ONDO보다 상단 유지력이 약했습니다."
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "94.1억원 대금과 100% 위치지만 일중 박스가 1원짜리 tight box라 pseudo-breakout 성격이 강합니다. 컨텍스트용으로만 봅니다."
     },
     {
-      "symbol": "AAVE",
-      "market": "KRW-AAVE",
-      "reason": "29.3억원 대금과 +4.18%는 양호하지만 절대 유동성이 ENA·ONDO보다 약해 보조 대기군으로만 둡니다."
+      "symbol": "MMT",
+      "market": "KRW-MMT",
+      "reason": "131.2억원 대금은 강하지만 -0.33%와 66.7% 위치로 fresh spearhead 지위는 잃었습니다. 305원대 재회복 전까지 선봉 복귀 보류입니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "214.9억원 대금은 압도적이지만 42.9% 위치면 상단 지속 코어 명분이 약합니다. 60%대 재회복 전까지 watch only입니다."
+      "symbol": "SYRUP",
+      "market": "KRW-SYRUP",
+      "reason": "-1.81%와 25.0% 위치로 직전 DeFi 코어 가정이 무너졌습니다. 275원대 재회복 전까지 watch only입니다."
     },
     {
       "symbol": "OPG",
       "market": "KRW-OPG",
-      "reason": "541.7억원 대금 1위지만 23.8% 위치와 -7.96% gap는 명백한 stalled core입니다. 190원대 재회복 전까지 재진입 보류입니다."
+      "reason": "516.2억원 대금 1위지만 -1.08%와 33.3% 위치면 여전히 turnover trap입니다. 상장 잔열보다 구조 회복이 먼저입니다."
     },
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "7월 24일 일일 언락 감소 재료는 남아도 가격 구조는 17.2% 위치로 약합니다. 이벤트보다 보드 구조가 먼저입니다."
+      "symbol": "SLX",
+      "market": "KRW-SLX",
+      "reason": "484.6억원 대금에도 14.3% 위치면 리더십이 끝났습니다. 반등 확인 전까지 재진입 금지입니다."
+    },
+    {
+      "symbol": "KAT",
+      "market": "KRW-KAT",
+      "reason": "476.2억원 대금에도 -2.90%, 19.2% 위치면 전형적인 실패 고베타입니다. 반등보다 복구 확인이 먼저입니다."
+    },
+    {
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "7월 20일 약 17.8M 토큰 언락 일정이 남아 있어 구조가 좋아져도 이번 주 preferred 승격은 보수적으로 봅니다."
     }
   ],
   "history": [
@@ -6304,6 +6314,96 @@
       "amount_delta": 3199.6595232331388,
       "cash_delta_krw": -227815.75805419948,
       "reason": "103.0억원 대금에 +0.71%로 화려하진 않지만 62.2% 위치와 -1.93% gap가 안정적입니다. 기존 고베타 실패 슬롯을 대신할 생존형 대금 코어로 적합합니다."
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "MMT",
+      "action": "SELL",
+      "price_krw": 302.0,
+      "amount_delta": -759.385860180665,
+      "cash_delta_krw": 229334.52977456083,
+      "reason": "weak breadth는 여전히 true지만 fresh breakout 4개가 현재 보드 상단에 집중돼 있어, 09:59 가격 기준 80% IN·VIRTUAL·ARX·ONDO·ENA equal-weight 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "SYRUP",
+      "action": "SELL",
+      "price_krw": 272.0,
+      "amount_delta": -816.5439356781344,
+      "cash_delta_krw": 222099.95050445257,
+      "reason": "weak breadth는 여전히 true지만 fresh breakout 4개가 현재 보드 상단에 집중돼 있어, 09:59 가격 기준 80% IN·VIRTUAL·ARX·ONDO·ENA equal-weight 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "ENA",
+      "action": "SELL",
+      "price_krw": 122.0,
+      "amount_delta": -1914.4181349092394,
+      "cash_delta_krw": 233559.0124589272,
+      "reason": "weak breadth는 여전히 true지만 fresh breakout 4개가 현재 보드 상단에 집중돼 있어, 09:59 가격 기준 80% IN·VIRTUAL·ARX·ONDO·ENA equal-weight 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 492.0,
+      "amount_delta": -469.7232124828855,
+      "cash_delta_krw": 231103.82054157968,
+      "reason": "weak breadth는 여전히 true지만 fresh breakout 4개가 현재 보드 상단에 집중돼 있어, 09:59 가격 기준 80% IN·VIRTUAL·ARX·ONDO·ENA equal-weight 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "IN",
+      "action": "SELL",
+      "price_krw": 74.5,
+      "amount_delta": -3199.6595232331388,
+      "cash_delta_krw": 238374.63448086884,
+      "reason": "weak breadth는 여전히 true지만 fresh breakout 4개가 현재 보드 상단에 집중돼 있어, 09:59 가격 기준 80% IN·VIRTUAL·ARX·ONDO·ENA equal-weight 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "IN",
+      "action": "BUY",
+      "price_krw": 74.5,
+      "amount_delta": 3090.988768489962,
+      "cash_delta_krw": -230278.66325250216,
+      "reason": "114.4억원 대금과 +5.37%, 97.4% 위치, -0.13% gap이 함께 살아 있습니다. 기존 MMT보다 훨씬 더 선명한 현재 보드 선봉입니다."
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "VIRTUAL",
+      "action": "BUY",
+      "price_krw": 936.0,
+      "amount_delta": 246.02421287660488,
+      "cash_delta_krw": -230278.66325250216,
+      "reason": "96.4억원 대금과 100% 위치가 겹칩니다. OPG·KAT 쪽 실패 자금이 더 깨끗한 AI attention 리더로 이동하는 흐름을 가장 잘 받습니다."
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "ARX",
+      "action": "BUY",
+      "price_krw": 279.0,
+      "amount_delta": 825.3715528763518,
+      "cash_delta_krw": -230278.66325250216,
+      "reason": "46.3억원 대금, +4.49%, 93.3% 위치, -0.36% gap 조합이 단순합니다. 저체급이지만 지금 보드에서 follow-through가 가장 깔끔한 베타 슬롯입니다."
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "ONDO",
+      "action": "BUY",
+      "price_krw": 492.0,
+      "amount_delta": 468.04606352134584,
+      "cash_delta_krw": -230278.66325250216,
+      "reason": "97.3억원 대금과 100% 위치를 동시에 지켰습니다. 좁은 박스이긴 하지만 체급형 비메이저 중 가장 읽기 쉬운 RWA 앵커입니다."
+    },
+    {
+      "timestamp": "2026-07-11T09:59:00+09:00",
+      "symbol": "ENA",
+      "action": "BUY",
+      "price_krw": 122.0,
+      "amount_delta": 1887.5300266598538,
+      "cash_delta_krw": -230278.66325250216,
+      "reason": "50.8억원 대금에 100% 위치를 유지하고 있습니다. SYRUP가 무너진 자리에서 더 단순하고 덜 시끄러운 DeFi 지속주입니다."
     }
   ]
 }
