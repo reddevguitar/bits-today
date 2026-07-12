@@ -1,301 +1,286 @@
 {
-  "updated_at": "2026-07-12T15:58+09:00",
-  "top_line": "약세 메이저 속에서도 top15 비메이저 양수는 2→9로 회복했습니다. 다만 기존 65% 바스켓 3개가 이미 깨져, 80%만 쓰되 WLD·MMT·SUI·KAITO·ONDO로 전면 리셋하는 쪽이 더 공격적이면서도 깔끔합니다.",
-  "macro_summary": "BTC 21.7% / ETH 51.0% / XRP 27.8% / SOL 52.4%로 메이저 평균 위치는 38.2%까지 더 밀렸습니다. 하지만 top15 비메이저 양수는 9개로 반등했고 weak breadth 경고도 해제돼, 메이저 약세 대비 알트 상대강도 회복이 동시에 보입니다.",
-  "news_summary": "Alternative.me 공포탐욕지수는 26(Fear)입니다. World는 7월 24일 WLD 일일 unlock rate 43% 감소 일정을 유지 중이고, Ondo는 7월 초 미국 토큰화 증권 출시 발표로 기관형 서사를 이어가고 있습니다.",
-  "community_summary": "업비트 대금판은 T·ELSA·B3가 다시 튀지만 gap이 너무 넓어 커뮤니티식 추격은 위험합니다. 실제로 덜 망가진 이름은 WLD·MMT·SUI·KAITO·ONDO 쪽이며, “초대금 반등주보다 구조 남은 생존주 우선” 해석이 맞습니다.",
-  "public_figure_summary": "Sam Altman 연상 서사는 여전히 WLD에만 체급 있는 반응을 줍니다. Ondo는 Broadridge와 연결된 제도권 서사가 강점이고, 나머지 오늘 반등주에는 그만한 외부 신뢰 앵커가 약합니다.",
-  "major_coin_summary": "BTC +0.06%·21.7% 위치 / ETH +0.49%·51.0% 위치 / XRP -0.55%·27.8% 위치 / SOL -0.44%·52.4% 위치 / 메이저 평균 38.23% 위치",
-  "altcoin_selection_summary": "preferred buy 5종은 WLD, MMT, SUI, KAITO, ONDO입니다. WLD가 유동성 코어, MMT가 continuation 선봉, SUI가 대형 품질 앵커, KAITO가 attention support, ONDO가 기관서사 reclaim 역할입니다.",
-  "overall_bias": "aggressive-80-survivor-reclaim-reset",
+  "updated_at": "2026-07-12T21:59+09:00",
+  "top_line": "메이저 평균 위치가 38.2%→77.7%로 급반등했지만 fresh breakout은 1개뿐입니다. 그래서 90% 추격 대신 85%만 쓰고, 깨진 MMT를 AGLD로 교체한 WLD·AGLD·SUI·KAITO·ONDO 바스켓이 가장 공격적이면서도 덜 지저분합니다.",
+  "macro_summary": "BTC 58.1% / ETH 83.7% / XRP 77.8% / SOL 91.3%로 메이저 평균 위치가 77.7%까지 급반등했습니다. 다만 top15 비메이저 양수는 6개로 줄었고 low-range도 7개라, 메이저 회복 대비 알트 폭은 아직 중간 수준입니다.",
+  "news_summary": "Alternative.me 공포탐욕지수는 26(Fear)입니다. WLD는 7월 23~24일 unlock 관련 기대와 공급부담 해석이 동시에 돌고 있어 호재 단정이 어렵고, ONDO의 기관형 토큰화 서사는 여전히 질 좋은 보조 재료로 남아 있습니다.",
+  "community_summary": "업비트 대금판의 시선은 T·BLAST 같은 큰 캔들에 몰렸지만 실제 구조는 거칠습니다. 커뮤니티식 추격보다 AGLD 1개 fresh와 WLD·SUI·KAITO·ONDO 같은 상단 유지형 생존주 조합이 더 실전적입니다.",
+  "public_figure_summary": "Sam Altman 연상 서사는 여전히 WLD attention에 힘을 줍니다. 그 외 오늘 후보군은 유명인 발언보다 실제 대금·구조가 더 중요했고, AGLD는 거의 순수 테이프 주도형입니다.",
+  "major_coin_summary": "BTC +0.32%·58.1% 위치 / ETH +1.09%·83.7% 위치 / XRP 0.00%·77.8% 위치 / SOL +0.44%·91.3% 위치 / 메이저 평균 77.73% 위치",
+  "altcoin_selection_summary": "preferred buy 5종은 AGLD, WLD, SUI, KAITO, ONDO입니다. AGLD가 유일 fresh spearhead, WLD가 대금 코어, SUI가 품질 대형축, KAITO가 attention continuation, ONDO가 기관서사 reclaim 역할입니다.",
+  "overall_bias": "aggressive-85-single-fresh-plus-liquid-survivors",
   "confidence": "medium",
   "preferred_buy_candidates": [
+    {
+      "market": "KRW-AGLD",
+      "symbol": "AGLD",
+      "korean_name": "어드벤처골드",
+      "english_name": "Adventure Gold",
+      "price_krw": 260.0,
+      "change_pct_24h": 14.53744493,
+      "turnover_krw_24h": 16188463111.901964,
+      "opening_price": 226.0,
+      "high_price": 264.0,
+      "low_price": 223.0,
+      "range_position_pct": 90.2,
+      "day_high_gap_pct": -1.52,
+      "selection_score": 63.44,
+      "role": "fresh breakout spearhead",
+      "strategy": "260원 기준 255원 위·82%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 8.0,
+      "invalidated_if": "255원 하회 또는 82% 구조 붕괴",
+      "reason": "161.9억원 대금, +14.54%, 90.2% 위치, -1.52% gap로 현재 업비트 비메이저 중 유일하게 fresh breakout 성격이 분명합니다.",
+      "allocation_krw": 232893.9821927809
+    },
     {
       "market": "KRW-WLD",
       "symbol": "WLD",
       "korean_name": "월드코인",
       "english_name": "Worldcoin",
-      "price_krw": 600.0,
-      "change_pct_24h": 1.35135135,
-      "turnover_krw_24h": 21642750855.451336,
+      "price_krw": 628.0,
+      "change_pct_24h": 6.08108108,
+      "turnover_krw_24h": 26736714670.57119,
       "opening_price": 593.0,
-      "high_price": 604.0,
+      "high_price": 646.0,
       "low_price": 587.0,
-      "range_position_pct": 76.5,
-      "day_high_gap_pct": -0.66,
-      "selection_score": 41.37,
-      "role": "headline survivor anchor",
-      "strategy": "600원 기준 596원 위·70%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 5.5,
-      "invalidated_if": "596원 하회 또는 70% 구조 붕괴",
-      "reason": "216.4억원 대금, +1.35%, 76.5% 위치로 현재 업비트에서 체급과 구조가 동시에 남은 최상위 생존주입니다. 7월 24일 WLD unlock-rate 43% 감소 일정이 아직 서사 지지선 역할을 합니다.",
-      "allocation_krw": 219080.87118587043
-    },
-    {
-      "market": "KRW-MMT",
-      "symbol": "MMT",
-      "korean_name": "모멘텀",
-      "english_name": "Momentum",
-      "price_krw": 282.0,
-      "change_pct_24h": 4.05904059,
-      "turnover_krw_24h": 10525778790.239607,
-      "opening_price": 271.0,
-      "high_price": 288.0,
-      "low_price": 254.0,
-      "range_position_pct": 82.4,
-      "day_high_gap_pct": -2.08,
-      "selection_score": 41.83,
-      "role": "clean continuation spearhead",
-      "strategy": "282원 기준 276원 위·75%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 7.5,
-      "invalidated_if": "276원 하회 또는 75% 구조 붕괴",
-      "reason": "105.3억원 대금, +4.06%, 82.4% 위치, -2.08% gap으로 지금 보드에서 가장 읽기 쉬운 중형 continuation입니다. fresh는 아니지만 실제 상단 체류가 분명합니다.",
-      "allocation_krw": 219080.87118587043
+      "range_position_pct": 69.5,
+      "day_high_gap_pct": -2.79,
+      "selection_score": 43.95,
+      "role": "mega-liquidity continuation anchor",
+      "strategy": "628원 기준 620원 위·62%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.2,
+      "profit_take_pct": 6.5,
+      "invalidated_if": "620원 하회 또는 62% 구조 붕괴",
+      "reason": "267.4억원 대금, +6.08%, 69.5% 위치로 여전히 업비트 비메이저 최대 체급 코어입니다. 다만 7월 23~24일 unlock 이슈는 기대와 공급경계가 함께 있어 과신은 금지입니다.",
+      "allocation_krw": 232893.9821927809
     },
     {
       "market": "KRW-SUI",
       "symbol": "SUI",
       "korean_name": "수이",
       "english_name": "Sui",
-      "price_krw": 1093.0,
-      "change_pct_24h": 0.55197792,
-      "turnover_krw_24h": 4130157261.2192903,
+      "price_krw": 1108.0,
+      "change_pct_24h": 1.93192272,
+      "turnover_krw_24h": 4036824032.54117,
       "opening_price": 1087.0,
-      "high_price": 1096.0,
+      "high_price": 1115.0,
       "low_price": 1078.0,
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -0.27,
-      "selection_score": 37.05,
-      "role": "large-cap quality anchor",
-      "strategy": "1093원 기준 1086원 위·75%+ 구조 유지 시 보유",
+      "range_position_pct": 81.1,
+      "day_high_gap_pct": -0.63,
+      "selection_score": 37.75,
+      "role": "large-cap quality continuation",
+      "strategy": "1108원 기준 1101원 위·75%+ 구조 유지 시 보유",
       "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.0,
-      "invalidated_if": "1086원 하회 또는 75% 구조 붕괴",
-      "reason": "41.3억원 대금, +0.55%, 83.3% 위치, -0.27% gap으로 메이저 제외 대형 알트 중 구조가 가장 단순합니다. 메이저가 약한 날의 품질 앵커 역할이 가능합니다.",
-      "allocation_krw": 219080.87118587043
+      "profit_take_pct": 5.5,
+      "invalidated_if": "1101원 하회 또는 75% 구조 붕괴",
+      "reason": "40.4억원 대금, +1.93%, 81.1% 위치, -0.63% gap로 메이저 제외 대형 알트 중 가장 단순한 상단 지속축입니다.",
+      "allocation_krw": 232893.9821927809
     },
     {
       "market": "KRW-KAITO",
       "symbol": "KAITO",
       "korean_name": "카이토",
       "english_name": "KAITO",
-      "price_krw": 1004.0,
-      "change_pct_24h": 2.1363174,
-      "turnover_krw_24h": 5160021978.843815,
+      "price_krw": 1006.0,
+      "change_pct_24h": 2.3397762,
+      "turnover_krw_24h": 4125527247.0267754,
       "opening_price": 984.0,
       "high_price": 1015.0,
-      "low_price": 980.0,
-      "range_position_pct": 68.6,
-      "day_high_gap_pct": -1.08,
-      "selection_score": 33.58,
+      "low_price": 969.0,
+      "range_position_pct": 80.4,
+      "day_high_gap_pct": -0.89,
+      "selection_score": 37.79,
       "role": "attention support continuation",
-      "strategy": "1004원 기준 998원 위·64%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.2,
+      "strategy": "1006원 기준 1000원 위·74%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.0,
       "profit_take_pct": 6.0,
-      "invalidated_if": "998원 하회 또는 64% 구조 붕괴",
-      "reason": "51.6억원 대금, +2.14%, 68.6% 위치, -1.08% gap으로 attention 계열 중 가장 덜 찌그러진 잔존주입니다. headline 슬롯은 T보다 KAITO가 훨씬 깨끗합니다.",
-      "allocation_krw": 219080.87118587043
+      "invalidated_if": "1000원 하회 또는 74% 구조 붕괴",
+      "reason": "41.3억원 대금, +2.34%, 80.4% 위치, -0.89% gap로 attention 계열 중 가장 타이트한 continuation입니다.",
+      "allocation_krw": 232893.9821927809
     },
     {
       "market": "KRW-ONDO",
       "symbol": "ONDO",
       "korean_name": "온도파이낸스",
       "english_name": "Ondo Finance",
-      "price_krw": 486.0,
-      "change_pct_24h": 0.20618557,
-      "turnover_krw_24h": 8068645080.632331,
+      "price_krw": 490.0,
+      "change_pct_24h": 1.03092784,
+      "turnover_krw_24h": 7713078460.94853,
       "opening_price": 485.0,
-      "high_price": 489.0,
+      "high_price": 493.0,
       "low_price": 482.0,
-      "range_position_pct": 57.1,
+      "range_position_pct": 72.7,
       "day_high_gap_pct": -0.61,
-      "selection_score": 28.17,
-      "role": "institutional narrative reclaim",
-      "strategy": "486원 기준 483원 위·52%+ 구조 유지 시 보유",
-      "risk_limit_pct": 1.9,
-      "profit_take_pct": 5.2,
-      "invalidated_if": "483원 하회 또는 52% 구조 붕괴",
-      "reason": "80.7억원 대금, +0.21%, 57.1% 위치, -0.61% gap으로 자극적이지 않지만 가장 실전적인 reclaim입니다. 7월 초 미국 토큰화 증권 출시 뉴스도 질 좋은 서사 지지입니다.",
-      "allocation_krw": 219080.87118587043
+      "selection_score": 34.51,
+      "role": "institutional reclaim anchor",
+      "strategy": "490원 기준 487원 위·65%+ 구조 유지 시 보유",
+      "risk_limit_pct": 1.8,
+      "profit_take_pct": 5.5,
+      "invalidated_if": "487원 하회 또는 65% 구조 붕괴",
+      "reason": "77.1억원 대금, +1.03%, 72.7% 위치, -0.61% gap로 화려하진 않지만 기관형 서사가 붙는 가장 실전적인 reclaim입니다.",
+      "allocation_krw": 232893.9821927809
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "216.4억원 대금, +1.35%, 76.5% 위치로 현재 업비트에서 체급과 구조가 동시에 남은 최상위 생존주입니다. 7월 24일 WLD unlock-rate 43% 감소 일정이 아직 서사 지지선 역할을 합니다."
+      "symbol": "AGLD",
+      "market": "KRW-AGLD",
+      "reason": "161.9억원 대금, +14.54%, 90.2% 위치, -1.52% gap로 현재 업비트 비메이저 중 유일하게 fresh breakout 성격이 분명합니다."
     },
     {
-      "symbol": "MMT",
-      "market": "KRW-MMT",
-      "reason": "105.3억원 대금, +4.06%, 82.4% 위치, -2.08% gap으로 지금 보드에서 가장 읽기 쉬운 중형 continuation입니다. fresh는 아니지만 실제 상단 체류가 분명합니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "267.4억원 대금, +6.08%, 69.5% 위치로 여전히 업비트 비메이저 최대 체급 코어입니다. 다만 7월 23~24일 unlock 이슈는 기대와 공급경계가 함께 있어 과신은 금지입니다."
     },
     {
       "symbol": "SUI",
       "market": "KRW-SUI",
-      "reason": "41.3억원 대금, +0.55%, 83.3% 위치, -0.27% gap으로 메이저 제외 대형 알트 중 구조가 가장 단순합니다. 메이저가 약한 날의 품질 앵커 역할이 가능합니다."
+      "reason": "40.4억원 대금, +1.93%, 81.1% 위치, -0.63% gap로 메이저 제외 대형 알트 중 가장 단순한 상단 지속축입니다."
     },
     {
       "symbol": "KAITO",
       "market": "KRW-KAITO",
-      "reason": "51.6억원 대금, +2.14%, 68.6% 위치, -1.08% gap으로 attention 계열 중 가장 덜 찌그러진 잔존주입니다. headline 슬롯은 T보다 KAITO가 훨씬 깨끗합니다."
+      "reason": "41.3억원 대금, +2.34%, 80.4% 위치, -0.89% gap로 attention 계열 중 가장 타이트한 continuation입니다."
     },
     {
       "symbol": "ONDO",
       "market": "KRW-ONDO",
-      "reason": "80.7억원 대금, +0.21%, 57.1% 위치, -0.61% gap으로 자극적이지 않지만 가장 실전적인 reclaim입니다. 7월 초 미국 토큰화 증권 출시 뉴스도 질 좋은 서사 지지입니다."
+      "reason": "77.1억원 대금, +1.03%, 72.7% 위치, -0.61% gap로 화려하진 않지만 기관형 서사가 붙는 가장 실전적인 reclaim입니다."
     }
   ],
   "watchlist": [
     {
       "symbol": "T",
       "market": "KRW-T",
-      "reason": "1020.3억원 초대금이지만 55.2% 위치·-10.59% gap면 strength가 아니라 exhausted blowoff입니다."
+      "reason": "1158.6억원 초대금과 +16.0%는 세지만 61.7% 위치·-9.95% gap면 아직 exhausted chase에 가깝습니다."
     },
     {
-      "symbol": "ELSA",
-      "market": "KRW-ELSA",
-      "reason": "403.9억원 대금과 +4.17%는 크지만 53.4% 위치·-7.72% gap라 late rebound 함정 냄새가 강합니다."
-    },
-    {
-      "symbol": "ARB",
-      "market": "KRW-ARB",
-      "reason": "41.6억원, +4.26%, 60.0% 위치로 깔끔하지만 ONDO·SUI보다 체급/품질 우위가 약해 1단계 아래입니다."
-    },
-    {
-      "symbol": "VVV",
-      "market": "KRW-VVV",
-      "reason": "31.6억원, +3.07%, 72.4% 위치로 모양은 좋지만 거래 체급이 WLD·MMT보다 작아 대기군입니다."
+      "symbol": "BLAST",
+      "market": "KRW-BLAST",
+      "reason": "291.1억원·+27.85%여도 60.9% 위치·-13.01% gap라 추격보다 trap 경계가 우선입니다."
     },
     {
       "symbol": "ENSO",
       "market": "KRW-ENSO",
-      "reason": "23.8억원, +5.15%, 92.6% 위치의 소형 돌파지만 대형 유동성 대비 신뢰도가 낮아 추격보다 관찰이 낫습니다."
+      "reason": "41.2억원, +4.57%, 69.5% 위치로 후보권이지만 ONDO·SUI보다 체급/품질 우위가 약합니다."
     },
     {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "양수는 남았지만 34.3% 위치로 기존 continuation 구조가 붕괴했습니다. 재상단 회복 전까지 보류합니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "131.0억원 대금과 71.4% 위치는 좋지만 모멘텀이 0%라 1단계 아래 지원축입니다."
+    },
+    {
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "42.4억원, +0.97%, 68.3% 위치의 조용한 대형 continuation으로 대기군 가치가 있습니다."
+    },
+    {
+      "symbol": "ADA",
+      "market": "KRW-ADA",
+      "reason": "62.5억원과 71.4% 위치는 단정하지만 fresh/attention 측면이 약해 후보군 아래입니다."
+    },
+    {
+      "symbol": "MMT",
+      "market": "KRW-MMT",
+      "reason": "-2.95%, 26.5% 위치, -8.68% gap로 직전 코어 thesis가 완전히 꺾였습니다."
     },
     {
       "symbol": "ARDR",
       "market": "KRW-ARDR",
-      "reason": "+5.28%라도 27.3% 위치·-12.4% gap면 vertical failure입니다. 재진입 금지입니다."
-    },
-    {
-      "symbol": "STEEM",
-      "market": "KRW-STEEM",
-      "reason": "-1.93%와 11.7% 위치로 오전 breakout 가정이 완전히 깨졌습니다."
+      "reason": "+6.21%라도 31.8% 위치·-11.63% gap면 전형적인 fading leader입니다."
     }
   ],
   "risk_notes": [
-    "메이저 평균 위치가 38.2%라 알트 breadth 회복만 믿고 85~90%까지 올리면 과합니다. 이번 회차는 80%가 상한입니다.",
-    "T·ELSA·B3는 대금이 커도 day-high gap이 너무 넓어 late rebound 함정일 가능성이 큽니다.",
-    "VIRTUAL·ARDR·STEEM은 오전 보유였지만 현재 모두 구조가 깨졌습니다. recency bias로 재진입하면 안 됩니다.",
-    "WLD·MMT·SUI 3축이 동시에 60%대 구조를 잃으면 다음 회차는 70% 이하로 바로 감속해야 합니다.",
-    "ONDO는 가장 덜 화려하지만, 이런 장에선 오히려 그 점이 장점입니다."
+    "메이저는 강하게 회복했지만 top15 비메이저 양수가 6개뿐이라 90% 풀추격은 과합니다.",
+    "T와 BLAST는 대금은 압도적이지만 gap이 너무 넓어 late chase 함정 확률이 큽니다.",
+    "WLD는 이벤트 기대가 있지만 7월 하순 unlock 이슈가 순풍만은 아닙니다.",
+    "AGLD가 유일 fresh라 이 한 축이 꺾이면 이번 85% 바스켓도 80% 이하로 빠르게 낮춰야 합니다.",
+    "MMT처럼 직전 승자라도 30% 아래로 무너지면 미련 없이 교체해야 합니다."
   ],
-  "fear_greed": "26 (Fear; Alternative.me 15:59 KST 확인)",
-  "btc_reference": "BTC 95.283M원 / ETH 2.682M원 / XRP 1,630원 / SOL 114.1K원",
+  "fear_greed": "26 (Fear; Alternative.me 21:59 KST 기준)",
+  "btc_reference": "BTC 95.534M원 / ETH 2.698M원 / XRP 1,639원 / SOL 115.1K원",
   "improvement_log": [
-    "DECISIONS.md에 “top15 양수 8개 이상 회복 + weak breadth 해제라도 majors<40·fresh 0이면 sub-35 보유를 즉시 버리고 80% survivor/reclaim reset” 규칙을 추가했습니다.",
-    "이번 회차는 snapshot delta를 직접 읽어 2→9 breadth 회복과 기존 보유 3종 붕괴를 동시에 반영했습니다.",
-    "리포트에 “오전 보유 중 파손 3종(VIRTUAL·ARDR·STEEM)”을 명시해 교체 이유를 더 빠르게 읽게 만들었습니다."
+    "DECISIONS.md에 “메이저 급반등(75%+)이어도 fresh가 1개뿐이고 보유 중 1개가 무효화되면 90%까지 올리지 말고 85% single-fresh + liquid survivors로 대응” 규칙을 추가했습니다.",
+    "WLD unlock 관련 서술을 단순 호재 문장 대신 기대와 공급경계가 공존하는 mixed-event 표현으로 수정했습니다.",
+    "이번 회차 리포트에 유지·퇴출·신규를 더 분리해 보여 포지션 변경 이유를 더 빨리 스캔하게 했습니다."
   ],
   "self_evaluation": {
-    "score": 8.7,
-    "summary": "09:58의 65% survivor reset 자체는 맞았지만, VIRTUAL·ARDR·STEEM이 모두 near-invalidation이었던 만큼 15:58엔 더 빨리 전면 교체를 가정했어야 했습니다. 이번엔 breadth 회복과 기존 포지션 파손을 함께 읽어 80% survivor/reclaim reset으로 개선했습니다."
+    "score": 8.9,
+    "summary": "직전 80% survivor reset 자체는 맞았지만 MMT 약화가 예상보다 빨랐습니다. 이번엔 메이저 강세를 인정하면서도 알트 폭 부족을 감안해 90% 대신 85%로만 올린 점은 개선입니다."
   },
-  "ui_version": "v36.7",
+  "ui_version": "v36.8",
   "rejected_candidates": [
     {
       "symbol": "T",
       "market": "KRW-T",
-      "reason": "1020.3억원 대금 1위라도 55.2% 위치·-10.59% gap면 clean leader가 아니라 exhausted blowoff입니다."
+      "reason": "1158.6억원 대금 1위지만 61.7% 위치·-9.95% gap면 강세라기보다 많이 식은 수직 스파이크입니다."
     },
     {
-      "symbol": "ELSA",
-      "market": "KRW-ELSA",
-      "reason": "403.9억원 대금이어도 53.4% 위치·-7.72% gap면 late rebound 함정에 가깝습니다."
-    },
-    {
-      "symbol": "B3",
-      "market": "KRW-B3",
-      "reason": "양수 전환에도 41.7% 위치·-7.11% gap라 질 좋은 continuation이 아닙니다."
-    },
-    {
-      "symbol": "VIRTUAL",
-      "market": "KRW-VIRTUAL",
-      "reason": "양수는 남았지만 34.3% 위치로 오전 continuation 구조가 붕괴했습니다."
+      "symbol": "BLAST",
+      "market": "KRW-BLAST",
+      "reason": "291.1억원과 +27.85%는 세지만 60.9% 위치·-13.01% gap라 과열 후 이격이 너무 큽니다."
     },
     {
       "symbol": "ARDR",
       "market": "KRW-ARDR",
-      "reason": "+5.28%라도 27.3% 위치·-12.4% gap면 vertical failure라 재진입 금지입니다."
+      "reason": "+6.21%라도 31.8% 위치·-11.63% gap면 구조가 아니라 잔상입니다."
     },
     {
-      "symbol": "STEEM",
-      "market": "KRW-STEEM",
-      "reason": "-1.93%와 11.7% 위치로 오전 breakout 가정이 완전히 무효화됐습니다."
+      "symbol": "MMT",
+      "market": "KRW-MMT",
+      "reason": "-2.95%와 26.5% 위치로 직전 continuation thesis가 파손됐습니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "품질은 좋지만 0% 모멘텀이라 AGLD 같은 fresh 슬롯을 밀어낼 정도는 아닙니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 499.4억원입니다.",
-    "momentum_discipline": "WLD·KAITO 유지 / VIRTUAL·ARDR·STEEM 퇴출 / MMT·SUI·ONDO 신규",
-    "diversification": "headline survivor 1 + continuation spearhead 1 + large-cap quality 1 + attention support 1 + institutional reclaim 1",
-    "cash_usage": "80%",
-    "rotation_speed": "purge-broken-65-basket-into-all-positive-survivor-reclaims"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 588.0억원입니다.",
+    "momentum_discipline": "MMT 퇴출 / AGLD 신규 / WLD·SUI·KAITO·ONDO 유지 증액",
+    "diversification": "fresh spearhead 1 + mega-liquidity anchor 1 + large-cap quality 1 + attention continuation 1 + institutional reclaim 1",
+    "cash_usage": "85%",
+    "rotation_speed": "upgrade-only-one-broken-slot-while-raising-risk-from-80-to-85"
   },
   "signal_balance": {
-    "summary": "major avg 38.2 / weak breadth false / fresh 0 / top15 positives 9 / low-range 5 -> 메이저는 약하지만 알트 survivor breadth는 회복, 그래서 fresh chase보다 80% survivor/reclaim이 우위"
+    "summary": "major avg 77.7 / weak breadth false / fresh 1 / top15 positives 6 / low-range 7 -> 메이저는 강하지만 알트 폭은 아직 애매, 그래서 1 fresh + 4 liquid survivor/reclaim이 우위"
   },
   "rotation_map": [
     {
-      "out": "VIRTUAL",
-      "in": "MMT",
-      "why": "VIRTUAL은 34.3% 위치까지 식었고 MMT는 82.4% 위치·105.3억원으로 더 깨끗합니다."
+      "out": "MMT",
+      "in": "AGLD",
+      "why": "MMT는 26.5% 위치·음전환으로 실패했고 AGLD는 90.2% 위치·161.9억원으로 유일한 fresh leader입니다."
     },
     {
-      "out": "ARDR",
-      "in": "SUI",
-      "why": "ARDR는 +5.28%여도 27.3% 위치·-12.4% gap로 망가졌고 SUI는 83.3% 위치의 대형 품질축입니다."
-    },
-    {
-      "out": "STEEM",
-      "in": "ONDO",
-      "why": "STEEM은 음전환·11.7% 위치로 붕괴했고 ONDO는 57.1% 구조와 80.7억원 대금을 유지합니다."
-    },
-    {
-      "out": "65% crash basket",
-      "in": "80% survivor/reclaim reset",
-      "why": "top15 양수 2→9, weak breadth 해제, 기존 보유 3종 파손이 동시에 확인돼 재위험은 늘리되 fresh chase는 피합니다."
+      "out": "80% survivor reset",
+      "in": "85% single-fresh + liquid survivors",
+      "why": "메이저 평균 38.2→77.7 급반등을 반영하되, fresh 1개와 top15 양수 6개라 90% 추격은 아직 이릅니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 현금 20% 유지. WLD·MMT·SUI 중 2개 이상이 무효화되거나 메이저 평균 위치가 30 아래로 더 밀리면 70%대로 재감속. 반대로 메이저 평균이 50 위로 회복되고 fresh가 2개 이상 생기면 85% 재상향 검토.",
-    "review_trigger": "WLD 596 / MMT 276 / SUI 1086 / KAITO 998 / ONDO 483 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 현금 15% 유지. AGLD가 무효화되거나 WLD·SUI·KAITO 중 2개 이상이 60%대 구조를 잃으면 80% 이하로 재감속. 반대로 fresh가 3개 이상으로 늘면 90% 재상향 검토.",
+    "review_trigger": "AGLD 255 / WLD 620 / SUI 1101 / KAITO 1000 / ONDO 487 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
       "현금 0%는 금지",
-      "fresh 0 + majors<40 구간에서는 exhausted blowoff 추격 금지"
+      "과열 대금주라도 day-high gap -8% 이하 추격 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 1.66,
+    "preferred_avg_change_pct_24h": 5.18,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 49527353966.386375,
-    "leader_turnover_share_pct": 43.7,
+    "preferred_turnover_total_krw_24h": 58800607522.989624,
+    "leader_turnover_share_pct": 45.47,
     "leader_symbol": "WLD"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "WLD·MMT·SUI가 핵심축이고 KAITO·ONDO는 회전 대응형 보조축입니다."
+    "comment": "AGLD가 속도를 열고 WLD·SUI·KAITO·ONDO가 유지력을 받치는 구조입니다."
   },
-  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-12 15:59 KST 스냅샷 기준 판단"
+  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-12 21:59 KST 스냅샷 기준 판단"
 }

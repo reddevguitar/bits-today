@@ -78,3 +78,5 @@
 
 - When top15 non-major positives collapse by 8개 이상 within one cycle while a held vertical leader turns negative and slips below roughly 35% of the day range, force an immediate 65% survivor reset, purge the failed spearhead, and rebuild around 5 all-positive non-major names where possible instead of defending the old attention basket.
 - When weak_breadth_warning clears and top15 non-major positives rebound above roughly 8 while major average range-position is still below roughly 40 and fresh breakouts remain 0, force out held names that already broke into sub-35% structure, re-risk toward roughly 80%, and rebuild around all-positive 55-85% liquid survivor/continuation names instead of defending the older 65% crash basket.
+
+- When major average range-position rebounds above roughly 75 within one cycle but fresh breakouts are still only 1 and one held continuation slot already breaks invalidation, raise paper deployment only toward roughly 85%, replace the broken slot with the cleanest 90%+ fresh leader, and keep the other 4 slots in liquid survivor/reclaim names instead of jumping straight to a 90% chase basket.
