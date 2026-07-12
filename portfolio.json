@@ -2,114 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 205494.6901701009,
-  "realized_pnl_krw": -8631388.276451804,
-  "last_valuation_krw": 1369964.6011340055,
-  "last_action": "UPGRADE_TO_85_AGLD_WLD_SUI_KAITO_ONDO",
-  "last_updated": "2026-07-12T21:59+09:00",
-  "trade_count": 1819,
+  "cash_krw": 276755.8358417961,
+  "realized_pnl_krw": -8602103.774237735,
+  "last_valuation_krw": 1383779.1792089804,
+  "last_action": "RESET_TO_80_AGLD_WLD_XLM_PUNDIX_NEAR",
+  "last_updated": "2026-07-13T03:58+09:00",
+  "trade_count": 1829,
   "positions": {
     "AGLD": {
       "market": "KRW-AGLD",
-      "amount": 895.7460853568497,
-      "avg_buy_price_krw": 260.0,
-      "last_price_krw": 260.0,
-      "value_krw": 232893.9821927809,
-      "thesis": "161.9억원 대금, +14.54%, 90.2% 위치, -1.52% gap로 현재 업비트 비메이저 중 유일하게 fresh breakout 성격이 분명합니다.",
-      "strategy": "260원 기준 255원 위·82%+ 구조 유지 시 보유",
-      "role": "fresh breakout spearhead",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 8.0
+      "amount": 782.3486525563139,
+      "avg_buy_price_krw": 283.0,
+      "last_price_krw": 283.0,
+      "value_krw": 221404.66867343686,
+      "thesis": "292.2억원 대금과 +24.67% 모멘텀은 압도적입니다. fresh는 아니지만 아직 77.9% 상단을 지켜 이번 보드의 실질 spearhead입니다.",
+      "strategy": "283원 기준 276원 위·72%+ 구조 유지 시 보유",
+      "role": "momentum spearhead survivor",
+      "risk_limit_pct": 3.2,
+      "profit_take_pct": 9.0
     },
     "WLD": {
       "market": "KRW-WLD",
-      "amount": 370.8502901158932,
-      "avg_buy_price_krw": 600.4315329900943,
-      "last_price_krw": 628.0,
-      "value_krw": 232893.9821927809,
-      "thesis": "267.4억원 대금, +6.08%, 69.5% 위치로 여전히 업비트 비메이저 최대 체급 코어입니다. 다만 7월 23~24일 unlock 이슈는 기대와 공급경계가 함께 있어 과신은 금지입니다.",
-      "strategy": "628원 기준 620원 위·62%+ 구조 유지 시 보유",
-      "role": "mega-liquidity continuation anchor",
+      "amount": 350.32384283771654,
+      "avg_buy_price_krw": 632.0,
+      "last_price_krw": 632.0,
+      "value_krw": 221404.66867343686,
+      "thesis": "251.9억원 대금, +6.76%, 76.3% 위치로 현재 업비트 비메이저 대형 유동성 앵커입니다. 7월 24일 unlock rate 43% 감소 기대가 attention을 계속 받칩니다.",
+      "strategy": "632원 기준 624원 위·68%+ 구조 유지 시 보유",
+      "role": "mega-liquidity attention anchor",
       "risk_limit_pct": 2.2,
       "profit_take_pct": 6.5
     },
-    "SUI": {
-      "market": "KRW-SUI",
-      "amount": 210.19312472272645,
-      "avg_buy_price_krw": 1093.6960148717717,
-      "last_price_krw": 1108.0,
-      "value_krw": 232893.9821927809,
-      "thesis": "40.4억원 대금, +1.93%, 81.1% 위치, -0.63% gap로 메이저 제외 대형 알트 중 가장 단순한 상단 지속축입니다.",
-      "strategy": "1108원 기준 1101원 위·75%+ 구조 유지 시 보유",
-      "role": "large-cap quality continuation",
+    "XLM": {
+      "market": "KRW-XLM",
+      "amount": 782.3486525563139,
+      "avg_buy_price_krw": 283.0,
+      "last_price_krw": 283.0,
+      "value_krw": 221404.66867343686,
+      "thesis": "125.1억원 대금과 83.3% 위치, -0.70% gap 조합이 매우 깔끔합니다. majors 강세를 받는 대형 continuation 슬롯으로 SUI보다 우위입니다.",
+      "strategy": "283원 기준 281원 위·78%+ 구조 유지 시 보유",
+      "role": "liquid quality continuation",
       "risk_limit_pct": 1.8,
       "profit_take_pct": 5.5
     },
-    "KAITO": {
-      "market": "KRW-KAITO",
-      "amount": 231.50495247791343,
-      "avg_buy_price_krw": 1004.1148736846088,
-      "last_price_krw": 1006.0,
-      "value_krw": 232893.9821927809,
-      "thesis": "41.3억원 대금, +2.34%, 80.4% 위치, -0.89% gap로 attention 계열 중 가장 타이트한 continuation입니다.",
-      "strategy": "1006원 기준 1000원 위·74%+ 구조 유지 시 보유",
-      "role": "attention support continuation",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 6.0
+    "PUNDIX": {
+      "market": "KRW-PUNDIX",
+      "amount": 1581.4619190959775,
+      "avg_buy_price_krw": 140.0,
+      "last_price_krw": 140.0,
+      "value_krw": 221404.66867343686,
+      "thesis": "66.4억원 대금, +12.90%, 77.3% 위치로 today 보드에서 과열주치고 구조가 덜 무너졌습니다. 명확한 외부 재료보다 순수 테이프 지속성이 강합니다.",
+      "strategy": "140원 기준 135원 위·70%+ 구조 유지 시 보유",
+      "role": "mid-cap beta continuation",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 8.0
     },
-    "ONDO": {
-      "market": "KRW-ONDO",
-      "amount": 475.2938412097569,
-      "avg_buy_price_krw": 486.2062737070587,
-      "last_price_krw": 490.0,
-      "value_krw": 232893.9821927809,
-      "thesis": "77.1억원 대금, +1.03%, 72.7% 위치, -0.61% gap로 화려하진 않지만 기관형 서사가 붙는 가장 실전적인 reclaim입니다.",
-      "strategy": "490원 기준 487원 위·65%+ 구조 유지 시 보유",
-      "role": "institutional reclaim anchor",
-      "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.5
+    "NEAR": {
+      "market": "KRW-NEAR",
+      "amount": 77.7404033263472,
+      "avg_buy_price_krw": 2848.0,
+      "last_price_krw": 2848.0,
+      "value_krw": 221404.66867343686,
+      "thesis": "40.7억원 대금, +2.12%, 100% 위치, 0% gap입니다. 박스가 좁아 과신은 금물이지만 이번 회차에서는 가장 단정한 마감형 대형 알트입니다.",
+      "strategy": "2848원 기준 2810원 위·85%+ 구조 유지 시 보유",
+      "role": "tight-box quality finisher",
+      "risk_limit_pct": 1.6,
+      "profit_take_pct": 4.5
     }
   },
   "watchlist": [
     {
       "symbol": "T",
       "market": "KRW-T",
-      "reason": "1158.6억원 초대금과 +16.0%는 세지만 61.7% 위치·-9.95% gap면 아직 exhausted chase에 가깝습니다."
+      "reason": "955.8억원 대금 1위지만 49.6% 위치·-13.08% gap면 수직 스파이크 잔상에 가깝습니다."
     },
     {
       "symbol": "BLAST",
       "market": "KRW-BLAST",
-      "reason": "291.1억원·+27.85%여도 60.9% 위치·-13.01% gap라 추격보다 trap 경계가 우선입니다."
+      "reason": "354.0억원·+20.34%라도 45.5% 위치·-18.12% gap라 추격보다 함정 경계가 우선입니다."
     },
     {
-      "symbol": "ENSO",
-      "market": "KRW-ENSO",
-      "reason": "41.2억원, +4.57%, 69.5% 위치로 후보권이지만 ONDO·SUI보다 체급/품질 우위가 약합니다."
+      "symbol": "SUI",
+      "market": "KRW-SUI",
+      "reason": "39.5억원, +1.29%, 62.2% 위치로 나쁘진 않지만 XLM·NEAR보다 현재 구조가 한 단계 아래입니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "131.0억원 대금과 71.4% 위치는 좋지만 모멘텀이 0%라 1단계 아래 지원축입니다."
+      "symbol": "JTO",
+      "market": "KRW-JTO",
+      "reason": "21.8억원, +1.34%, 80.0% 위치, -1.09% gap로 깔끔하지만 체급이 더 약해 2선 후보입니다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "42.4억원, +0.97%, 68.3% 위치의 조용한 대형 continuation으로 대기군 가치가 있습니다."
+      "symbol": "KAITO",
+      "market": "KRW-KAITO",
+      "reason": "29.3억원과 +0.81%는 남아도 47.8% 위치까지 식어 이번 코어 5종에서는 제외합니다."
     },
     {
-      "symbol": "ADA",
-      "market": "KRW-ADA",
-      "reason": "62.5억원과 71.4% 위치는 단정하지만 fresh/attention 측면이 약해 후보군 아래입니다."
-    },
-    {
-      "symbol": "MMT",
-      "market": "KRW-MMT",
-      "reason": "-2.95%, 26.5% 위치, -8.68% gap로 직전 코어 thesis가 완전히 꺾였습니다."
+      "symbol": "ONDO",
+      "market": "KRW-ONDO",
+      "reason": "-0.41%, 9.1% 위치로 직전 reclaim thesis가 완전히 깨졌습니다."
     },
     {
       "symbol": "ARDR",
       "market": "KRW-ARDR",
-      "reason": "+6.21%라도 31.8% 위치·-11.63% gap면 전형적인 fading leader입니다."
+      "reason": "+5.28%라도 27.3% 위치·-12.40% gap면 fading leader입니다."
     }
   ],
   "history": [
@@ -6871,6 +6866,96 @@
       "amount_delta": 24.51015564212231,
       "cash_delta_krw": -12009.976264639932,
       "reason": "기관형 reclaim 슬롯을 유지하면서 85% 동일비중으로 증액"
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "AGLD",
+      "action": "SELL",
+      "price_krw": 283.0,
+      "amount_delta": -895.7460853568497,
+      "cash_delta_krw": 253496.14215598846,
+      "reason": "메이저는 강하지만 fresh 0·weak breadth true라 03:58 가격 기준 80% liquid continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 632.0,
+      "amount_delta": -370.8502901158932,
+      "cash_delta_krw": 234377.38335324448,
+      "reason": "메이저는 강하지만 fresh 0·weak breadth true라 03:58 가격 기준 80% liquid continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "SUI",
+      "action": "SELL",
+      "price_krw": 1101.0,
+      "amount_delta": -210.19312472272645,
+      "cash_delta_krw": 231422.63031972182,
+      "reason": "메이저는 강하지만 fresh 0·weak breadth true라 03:58 가격 기준 80% liquid continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "KAITO",
+      "action": "SELL",
+      "price_krw": 991.0,
+      "amount_delta": -231.50495247791343,
+      "cash_delta_krw": 229421.4079056122,
+      "reason": "메이저는 강하지만 fresh 0·weak breadth true라 03:58 가격 기준 80% liquid continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "ONDO",
+      "action": "SELL",
+      "price_krw": 483.0,
+      "amount_delta": -475.2938412097569,
+      "cash_delta_krw": 229566.92530431258,
+      "reason": "메이저는 강하지만 fresh 0·weak breadth true라 03:58 가격 기준 80% liquid continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "AGLD",
+      "action": "BUY",
+      "price_krw": 283.0,
+      "amount_delta": 782.3486525563139,
+      "cash_delta_krw": -221404.66867343686,
+      "reason": "292.2억원 대금과 +24.67% 모멘텀은 압도적입니다. fresh는 아니지만 아직 77.9% 상단을 지켜 이번 보드의 실질 spearhead입니다."
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "WLD",
+      "action": "BUY",
+      "price_krw": 632.0,
+      "amount_delta": 350.32384283771654,
+      "cash_delta_krw": -221404.66867343686,
+      "reason": "251.9억원 대금, +6.76%, 76.3% 위치로 현재 업비트 비메이저 대형 유동성 앵커입니다. 7월 24일 unlock rate 43% 감소 기대가 attention을 계속 받칩니다."
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "XLM",
+      "action": "BUY",
+      "price_krw": 283.0,
+      "amount_delta": 782.3486525563139,
+      "cash_delta_krw": -221404.66867343686,
+      "reason": "125.1억원 대금과 83.3% 위치, -0.70% gap 조합이 매우 깔끔합니다. majors 강세를 받는 대형 continuation 슬롯으로 SUI보다 우위입니다."
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "PUNDIX",
+      "action": "BUY",
+      "price_krw": 140.0,
+      "amount_delta": 1581.4619190959775,
+      "cash_delta_krw": -221404.66867343686,
+      "reason": "66.4억원 대금, +12.90%, 77.3% 위치로 today 보드에서 과열주치고 구조가 덜 무너졌습니다. 명확한 외부 재료보다 순수 테이프 지속성이 강합니다."
+    },
+    {
+      "timestamp": "2026-07-13T03:58+09:00",
+      "symbol": "NEAR",
+      "action": "BUY",
+      "price_krw": 2848.0,
+      "amount_delta": 77.7404033263472,
+      "cash_delta_krw": -221404.66867343686,
+      "reason": "40.7억원 대금, +2.12%, 100% 위치, 0% gap입니다. 박스가 좁아 과신은 금물이지만 이번 회차에서는 가장 단정한 마감형 대형 알트입니다."
     }
   ]
 }
