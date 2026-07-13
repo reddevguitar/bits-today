@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T15:58:00+09:00",
-  "top_line": "메이저 평균 위치가 56.7%→12.9%로 급락했고 top15 양수도 10개→4개로 붕괴했습니다. 그래서 T·ARDR·BLAST를 즉시 버리고, 65%만 재투입해 XEC·ELSA 중심의 fresh 2개와 KITE·JTO·BLUR 3개로 손상 최소화 재구성을 진행합니다.",
-  "macro_summary": "BTC 9.3% / ETH 4.6% / XRP 14.6% / SOL 23.1%로 메이저 평균 위치는 12.9%입니다. 4메이저가 모두 음수이고, 직전 대비 43.8p 급락해 장 전체가 risk-off로 급반전했습니다.",
-  "news_summary": "이번 회차의 외부 검증 가능한 재료는 여전히 WLD 쪽이 가장 뚜렷합니다. world.org 공식 블로그 기준 7월 24일부터 WLD 일일 unlock rate가 43% 줄지만, 현재 WLD 가격 구조는 약해 실제 매수보다 참고 신호로만 둡니다. XEC·ELSA·KITE·JTO·BLUR는 지금은 대형 새 뉴스보다 업비트 수급과 상대강도가 핵심입니다.",
-  "community_summary": "업비트 보드 attention은 T·BLAST 같은 초대금 실패주에서 빠르게 이탈했고, 현재는 XEC·ELSA 두 종목에 추격 유동성이 몰린 뒤 KITE·JTO·BLUR 같은 더 깨끗한 상단 유지주로 분산되는 흐름입니다. 오늘은 커뮤니티 열기보다 실제 상단 유지 여부가 더 중요합니다.",
-  "public_figure_summary": "공인 영향력 서사는 여전히 WLD의 Sam Altman 연상 효과가 가장 크지만 이번 회차는 가격 구조가 이를 따라주지 못합니다. 실전 선택 5종은 유명인보다 테이프와 유동성 생존력으로 골랐습니다.",
-  "major_coin_summary": "BTC -1.75%·9.3% 위치 / ETH -1.78%·4.6% 위치 / XRP -1.11%·14.6% 위치 / SOL -1.13%·23.1% 위치 / 메이저 평균 12.9% 위치",
-  "altcoin_selection_summary": "preferred buy 5종은 XEC, ELSA, KITE, JTO, BLUR입니다. 메이저 급락과 weak breadth 재진입 때문에 85% 공격을 유지할 근거가 사라졌고, 따라서 fresh 2개(XEC·ELSA) + 타이트 continuation 3개(KITE·JTO·BLUR)로 리셋합니다.",
-  "overall_bias": "defensive-aggressive-65-crash-reset-two-fresh-three-clean-secondaries",
+  "updated_at": "2026-07-13T21:58:00+09:00",
+  "top_line": "메이저 평균 위치가 12.9%→3.8%로 더 꺾였지만 top15 양수는 4개→6개로 소폭 회복했습니다. 그래서 무효화가 난 ELSA·BLUR를 버리고, 60%만 재투입해 XEC를 남긴 채 KITE·BSV·ARX·JTO로 더 단단한 5종으로 교체합니다.",
+  "macro_summary": "BTC 2.4% / ETH 2.4% / XRP 5.6% / SOL 4.8%로 메이저 평균 위치는 3.8%입니다. 메이저는 더 나빠졌지만 top15 비메이저 양수는 6개로 늘어 알트 내부 선별 강세는 일부 남아 있습니다.",
+  "news_summary": "검증 가능한 외부 재료는 여전히 WLD가 가장 명확합니다. world.org 공식 블로그 기준 7월 24일부터 WLD 일일 unlock rate가 43% 줄지만, 현재 WLD 가격은 45.5% 위치라 실전 매수보다 watchlist가 맞습니다. BSV·ARX·JTO·KITE는 대형 뉴스보다 업비트 수급과 상대강도가 더 중요합니다.",
+  "community_summary": "업비트 attention은 여전히 BLAST·T 같은 초대금 실패주를 맴돌지만 실제 돈은 XEC·KITE·BSV·ARX·JTO 같은 양수 생존주로 옮겨가고 있습니다. 오늘은 커뮤니티 소음보다 상단 유지율과 재진입 품질이 더 중요합니다.",
+  "public_figure_summary": "공인 서사는 계속 WLD의 Altman 연상 효과가 가장 크지만 실전 선택 5종은 유명인보다 생존한 테이프와 유동성에 근거했습니다.",
+  "major_coin_summary": "BTC -2.25%·2.4% 위치 / ETH -2.45%·2.4% 위치 / XRP -1.73%·5.6% 위치 / SOL -2.01%·4.8% 위치 / 메이저 평균 3.8% 위치",
+  "altcoin_selection_summary": "preferred buy 5종은 XEC, KITE, BSV, ARX, JTO입니다. fresh breakout은 0이지만 상단 continuation/reclaim 5종은 남아 있어, 65% 바스켓을 60%로 더 줄인 뒤 무효화가 난 ELSA·BLUR를 BSV·ARX로 교체했습니다.",
+  "overall_bias": "crash-60-keep-top-survivor-rotate-broken-slots-into-liquid-reclaims",
   "confidence": "medium",
   "preferred_buy_candidates": [
     {
@@ -15,66 +15,88 @@
       "symbol": "XEC",
       "korean_name": "이캐시",
       "english_name": "eCash",
-      "price_krw": 0.0105,
-      "change_pct_24h": 38.88888889,
-      "turnover_krw_24h": 30291748928.696106,
+      "price_krw": 0.0101,
+      "change_pct_24h": 33.5978836,
+      "turnover_krw_24h": 44734037111.96103,
       "opening_price": 0.00756,
       "high_price": 0.0108,
       "low_price": 0.00756,
-      "range_position_pct": 90.7,
-      "day_high_gap_pct": -2.78,
-      "selection_score": 76.62,
-      "role": "fresh breakout cash-magnet",
-      "strategy": "0.0105원 기준 0.0102원 위·84%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.9,
-      "profit_take_pct": 12.0,
-      "invalidated_if": "0.0102원 하회 또는 84% 구조 붕괴",
-      "reason": "302.9억원 대금, +38.89%, 90.7% 위치로 오늘 업비트 보드에서 유동성과 속도가 동시에 살아 있는 최강 fresh 리더입니다.",
-      "allocation_krw": 165444.25351150092
-    },
-    {
-      "market": "KRW-ELSA",
-      "symbol": "ELSA",
-      "korean_name": "헤이엘사",
-      "english_name": "HeyElsa",
-      "price_krw": 86.6,
-      "change_pct_24h": 15.93038822,
-      "turnover_krw_24h": 20128280681.787052,
-      "opening_price": 74.6,
-      "high_price": 87.9,
-      "low_price": 73.9,
-      "range_position_pct": 90.7,
-      "day_high_gap_pct": -1.48,
-      "selection_score": 70.48,
-      "role": "fresh beta co-leader",
-      "strategy": "86.6원 기준 84.8원 위·85%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.1,
+      "range_position_pct": 78.4,
+      "day_high_gap_pct": -6.48,
+      "selection_score": 70.82,
+      "role": "mega-liquidity survivor spearhead",
+      "strategy": "0.0101원 기준 0.0099원 위·70%+ 구조 유지 시 보유",
+      "risk_limit_pct": 1.98,
       "profit_take_pct": 9.0,
-      "invalidated_if": "84.8원 하회 또는 85% 구조 붕괴",
-      "reason": "201.3억원 대금과 +15.93%, 90.7% 위치가 겹쳐 XEC 다음의 실전 주도주입니다. 직전 회차에서도 살아남은 드문 강세 축입니다.",
-      "allocation_krw": 165444.25351150092
+      "invalidated_if": "0.0099원 하회 또는 70% 구조 붕괴",
+      "reason": "44.7억원 대금과 +33.60%는 여전히 압도적입니다. 고점 대비 -6.48%로 식었지만 메이저 붕괴 속에서도 78.4% 위치를 지켜 오늘 남은 최상위 실전 리더입니다.",
+      "allocation_krw": 151664.99618017746
     },
     {
       "market": "KRW-KITE",
       "symbol": "KITE",
       "korean_name": "카이트",
       "english_name": "Kite",
-      "price_krw": 197.0,
-      "change_pct_24h": 9.44444444,
-      "turnover_krw_24h": 3901713127.1386843,
+      "price_krw": 204.0,
+      "change_pct_24h": 13.33333333,
+      "turnover_krw_24h": 9542266201.953781,
       "opening_price": 180.0,
-      "high_price": 198.0,
+      "high_price": 212.0,
       "low_price": 179.0,
-      "range_position_pct": 94.7,
-      "day_high_gap_pct": -0.51,
-      "selection_score": 55.33,
-      "role": "small-cap tight breakout",
-      "strategy": "197원 기준 192원 위·88%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.5,
+      "range_position_pct": 75.8,
+      "day_high_gap_pct": -3.77,
+      "selection_score": 52.11,
+      "role": "clean continuation core",
+      "strategy": "204원 기준 198원 위·72%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.94,
       "profit_take_pct": 8.0,
-      "invalidated_if": "192원 하회 또는 88% 구조 붕괴",
-      "reason": "39.0억원 대금이 아주 크진 않지만 94.7% 위치와 -0.51% gap이 매우 단순합니다. 약한 장에서 보기 드문 타이트 상단 유지입니다.",
-      "allocation_krw": 165444.25351150092
+      "invalidated_if": "198원 하회 또는 72% 구조 붕괴",
+      "reason": "24h 대금 95.4억원, +13.33%, 75.8% 위치 조합으로 현재 가장 단순한 상단 continuation입니다.",
+      "allocation_krw": 151664.99618017746
+    },
+    {
+      "market": "KRW-BSV",
+      "symbol": "BSV",
+      "korean_name": "비트코인에스브이",
+      "english_name": "Bitcoin SV",
+      "price_krw": 21700.0,
+      "change_pct_24h": 10.82737487,
+      "turnover_krw_24h": 16660834556.606354,
+      "opening_price": 19550.0,
+      "high_price": 23000.0,
+      "low_price": 19250.0,
+      "range_position_pct": 65.3,
+      "day_high_gap_pct": -5.65,
+      "selection_score": 44.52,
+      "role": "high-turnover rebound attacker",
+      "strategy": "21,700원 기준 21,000원 위·60%+ 구조 유지 시 보유",
+      "risk_limit_pct": 3.23,
+      "profit_take_pct": 10.0,
+      "invalidated_if": "21,000원 하회 또는 60% 구조 붕괴",
+      "reason": "166.6억원 대금과 +10.83%로 today 보드 상위 양수 대형입니다. 갭은 -5.65%로 완벽하진 않지만 breadth가 좁은 밤에 공격성을 유지할 수 있는 큰 체급입니다.",
+      "allocation_krw": 151664.99618017746
+    },
+    {
+      "market": "KRW-ARX",
+      "symbol": "ARX",
+      "korean_name": "아르키움",
+      "english_name": "Arcium",
+      "price_krw": 263.0,
+      "change_pct_24h": 4.36507937,
+      "turnover_krw_24h": 6465667437.821164,
+      "opening_price": 252.0,
+      "high_price": 271.0,
+      "low_price": 244.0,
+      "range_position_pct": 70.4,
+      "day_high_gap_pct": -2.95,
+      "selection_score": 35.84,
+      "role": "relative-strength reclaim",
+      "strategy": "263원 기준 257원 위·66%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.28,
+      "profit_take_pct": 7.5,
+      "invalidated_if": "257원 하회 또는 66% 구조 붕괴",
+      "reason": "64.7억원 대금, +4.37%, 70.4% 위치, -2.95% gap 조합으로 현재 고베타 중 가장 균형이 좋습니다. fresh가 0인 장에서 가장 읽기 쉬운 reclaim 축입니다.",
+      "allocation_krw": 151664.99618017746
     },
     {
       "market": "KRW-JTO",
@@ -83,194 +105,167 @@
       "english_name": "Jito",
       "price_krw": 969.0,
       "change_pct_24h": 6.71806167,
-      "turnover_krw_24h": 2982966378.76121,
+      "turnover_krw_24h": 6085388162.688002,
       "opening_price": 908.0,
-      "high_price": 976.0,
+      "high_price": 1003.0,
       "low_price": 908.0,
-      "range_position_pct": 89.7,
-      "day_high_gap_pct": -0.72,
-      "selection_score": 48.47,
-      "role": "solana-beta continuation",
-      "strategy": "969원 기준 950원 위·84%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 7.5,
-      "invalidated_if": "950원 하회 또는 84% 구조 붕괴",
-      "reason": "29.8억원 대금과 +6.72%, 89.7% 위치로 현재 솔라나 계열 베타 중 가장 깔끔한 continuation입니다.",
-      "allocation_krw": 165444.25351150092
-    },
-    {
-      "market": "KRW-BLUR",
-      "symbol": "BLUR",
-      "korean_name": "블러",
-      "english_name": "Blur",
-      "price_krw": 25.6,
-      "change_pct_24h": 1.99203187,
-      "turnover_krw_24h": 2201010486.970289,
-      "opening_price": 25.0,
-      "high_price": 25.9,
-      "low_price": 24.5,
-      "range_position_pct": 78.6,
-      "day_high_gap_pct": -1.16,
-      "selection_score": 35.99,
-      "role": "clean secondary continuation",
-      "strategy": "25.6원 기준 25.1원 위·72%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.0,
-      "profit_take_pct": 6.5,
-      "invalidated_if": "25.1원 하회 또는 72% 구조 붕괴",
-      "reason": "22.0억원 대금은 중간이지만 +1.99%, 78.6% 위치, -1.16% gap으로 AQT보다 훨씬 깨끗한 5번째 분산 슬롯입니다.",
-      "allocation_krw": 165444.25351150092
+      "range_position_pct": 64.2,
+      "day_high_gap_pct": -3.39,
+      "selection_score": 36.62,
+      "role": "sol-beta survivor",
+      "strategy": "969원 기준 950원 위·60%+ 구조 유지 시 보유",
+      "risk_limit_pct": 1.96,
+      "profit_take_pct": 7.0,
+      "invalidated_if": "950원 하회 또는 60% 구조 붕괴",
+      "reason": "60.9억원 대금과 +6.72%, 64.2% 위치로 솔라나 베타 중 가장 살아남았습니다. 메이저가 약해도 상대강도 유지가 선명합니다.",
+      "allocation_krw": 151664.99618017746
     }
   ],
   "selected_altcoins": [
     {
       "symbol": "XEC",
       "market": "KRW-XEC",
-      "reason": "302.9억원 대금, +38.89%, 90.7% 위치로 오늘 업비트 보드에서 유동성과 속도가 동시에 살아 있는 최강 fresh 리더입니다."
-    },
-    {
-      "symbol": "ELSA",
-      "market": "KRW-ELSA",
-      "reason": "201.3억원 대금과 +15.93%, 90.7% 위치가 겹쳐 XEC 다음의 실전 주도주입니다. 직전 회차에서도 살아남은 드문 강세 축입니다."
+      "reason": "44.7억원 대금과 +33.60%는 여전히 압도적입니다. 고점 대비 -6.48%로 식었지만 메이저 붕괴 속에서도 78.4% 위치를 지켜 오늘 남은 최상위 실전 리더입니다."
     },
     {
       "symbol": "KITE",
       "market": "KRW-KITE",
-      "reason": "39.0억원 대금이 아주 크진 않지만 94.7% 위치와 -0.51% gap이 매우 단순합니다. 약한 장에서 보기 드문 타이트 상단 유지입니다."
+      "reason": "24h 대금 95.4억원, +13.33%, 75.8% 위치 조합으로 현재 가장 단순한 상단 continuation입니다."
+    },
+    {
+      "symbol": "BSV",
+      "market": "KRW-BSV",
+      "reason": "166.6억원 대금과 +10.83%로 today 보드 상위 양수 대형입니다. 갭은 -5.65%로 완벽하진 않지만 breadth가 좁은 밤에 공격성을 유지할 수 있는 큰 체급입니다."
+    },
+    {
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "64.7억원 대금, +4.37%, 70.4% 위치, -2.95% gap 조합으로 현재 고베타 중 가장 균형이 좋습니다. fresh가 0인 장에서 가장 읽기 쉬운 reclaim 축입니다."
     },
     {
       "symbol": "JTO",
       "market": "KRW-JTO",
-      "reason": "29.8억원 대금과 +6.72%, 89.7% 위치로 현재 솔라나 계열 베타 중 가장 깔끔한 continuation입니다."
-    },
-    {
-      "symbol": "BLUR",
-      "market": "KRW-BLUR",
-      "reason": "22.0억원 대금은 중간이지만 +1.99%, 78.6% 위치, -1.16% gap으로 AQT보다 훨씬 깨끗한 5번째 분산 슬롯입니다."
+      "reason": "60.9억원 대금과 +6.72%, 64.2% 위치로 솔라나 베타 중 가장 살아남았습니다. 메이저가 약해도 상대강도 유지가 선명합니다."
     }
   ],
   "watchlist": [
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "366.5억원 대금과 WLD 7월 24일 unlock rate 43% 감소 일정은 여전히 크지만 현재 -0.16%, 48.1% 위치라 실전 매수보다 감시가 맞습니다."
+      "reason": "공식 블로그 기준 7월 24일 WLD unlock rate 43% 감소 재료는 유효하지만 현재 45.5% 위치라 실전 코어보다 대기 감시가 맞습니다."
+    },
+    {
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "4.38% 양수와 53.1% 위치는 나쁘지 않지만 BSV·ARX보다 체급/공격성이 약해 6번째 후보로 후퇴했습니다."
+    },
+    {
+      "symbol": "AVAX",
+      "market": "KRW-AVAX",
+      "reason": "64.2% 위치와 -1.21% gap는 매우 깨끗하지만 이번 회차는 더 공격적인 비메이저 분산 슬롯이 우선입니다."
+    },
+    {
+      "symbol": "ELSA",
+      "market": "KRW-ELSA",
+      "reason": "22.9억원 대금과 +7.36%는 남았지만 45.0% 위치와 -8.76% gap이면 직전 무효화 이탈 후 재진입 근거가 부족합니다."
     },
     {
       "symbol": "AQT",
       "market": "KRW-AQT",
-      "reason": "73.9억원 대금과 +8.47%는 좋지만 56.6% 위치·-6.71% gap이면 weak breadth 장에서 추격 품질이 부족합니다."
+      "reason": "98.4억원 대금은 좋지만 47.2% 위치·-8.16% gap이면 상단 유지 품질이 아직 부족합니다."
     },
     {
-      "symbol": "ARX",
-      "market": "KRW-ARX",
-      "reason": "52.5억원 대금의 양수 생존주지만 50.0% 중간 위치라 코어 5종보다 둔합니다."
+      "symbol": "MEGA",
+      "market": "KRW-MEGA",
+      "reason": "88.5% 위치의 예쁜 소형 박스지만 21.5억원 체급이라 이번 회차 preferred 5에 넣기엔 유동성이 작습니다."
     },
     {
-      "symbol": "LA",
-      "market": "KRW-LA",
-      "reason": "79.2% 위치와 -1.13% gap는 좋지만 15.6억원 체급이라 KITE·JTO보다 후순위입니다."
-    },
-    {
-      "symbol": "CELO",
-      "market": "KRW-CELO",
-      "reason": "80.0% 위치의 깔끔한 2선 continuation이지만 6.3억원 체급이라 실전 코어보다 실험 슬롯에 가깝습니다."
-    },
-    {
-      "symbol": "T",
-      "market": "KRW-T",
-      "reason": "672.4억원 대금이어도 -12.05%, 8.2% 위치, -17.1% gap이면 이번 회차 대표적 turnover trap입니다."
-    },
-    {
-      "symbol": "BLAST",
-      "market": "KRW-BLAST",
-      "reason": "625.1억원 대금과 달리 15.5% 위치·-15.55% gap으로 실패가 너무 명확합니다."
+      "symbol": "BIRB",
+      "market": "KRW-BIRB",
+      "reason": "84.2% 위치의 예쁜 소형 신호지만 14.2억원 체급이라 실험 관찰용에 가깝습니다."
     }
   ],
   "risk_notes": [
-    "메이저 평균 위치 12.9%는 강한 risk-off라 85~90% 과속을 중단해야 합니다.",
-    "현재 fresh breakout은 사실상 XEC·ELSA 2개뿐이라 나머지 3개는 깨끗한 continuation 슬롯으로만 관리합니다.",
-    "XEC는 가장 강하지만 이미 +38.9% 급등 상태라 0.0102원 이탈 시 추격 논리를 즉시 철회해야 합니다.",
-    "KITE·JTO·BLUR는 구조는 좋지만 대금이 중간권이므로 breadth가 한 번 더 무너지면 교체 후보가 됩니다.",
-    "WLD는 공식 tokenomics 재료가 있어도 구조가 50% 아래라 당장 매수보다 watchlist가 더 안전합니다."
+    "메이저 평균 위치 3.8%는 극단적 risk-off라 65% 이상 과속은 중단하고 60%만 유지합니다.",
+    "XEC는 오늘 최강 대금주지만 고점 대비 -6.48%까지 식어 0.0099원 이탈 시 spearhead 논리를 철회해야 합니다.",
+    "BSV는 공격성은 좋지만 day-high gap이 -5.65%라 21,000원 아래로 밀리면 빠르게 재평가해야 합니다.",
+    "ARX·JTO는 구조가 가장 깨끗한 상대강도 reclaim이지만 breadth가 다시 꺾이면 바로 교체 대상이 됩니다.",
+    "WLD는 공식 재료가 있어도 위치가 50% 아래라 당장 코어 매수보다 감시가 안전합니다."
   ],
-  "fear_greed": "26 (Fear; 최근 확인 기준)",
-  "btc_reference": "BTC 93.337M원 / ETH 2.643M원 / XRP 1,600원 / SOL 113.4K원",
+  "fear_greed": "42 (Neutral; CFGI 2026-07-13 12:50 UTC 기준)",
+  "btc_reference": "BTC 92.865M원 / ETH 2.625M원 / XRP 1,590원 / SOL 112.4K원",
   "improvement_log": [
-    "DECISIONS.md에 “85% 바스켓 직후 메이저 평균이 40p+ 급락하고 다수 보유가 무너지면 65%까지 즉시 축소하고 fresh 2개+clean secondary 3개로 재구성” 규칙을 추가했습니다.",
-    "이번 리포트는 실패한 기존 보유 5종과 새 5종의 교체 이유를 한 줄로 더 짧게 비교하도록 정리했습니다.",
-    "WLD 공식 tokenomics 링크를 다시 확인해 뉴스는 유지하되 실전 매수와 참고 신호를 분리 표기했습니다."
+    "DECISIONS.md에 “메이저 평균 위치가 5% 안팎까지 붕괴해도 top15 양수가 늘면 60%만 유지하고, 직전 무효화 종목은 즉시 강등” 규칙을 추가했습니다.",
+    "공포탐욕 수치를 오래된 고정값 대신 이번 회차 live CFGI 값으로 갱신했습니다.",
+    "리포트에 “무효화 이탈 종목 퇴출”을 더 직접적으로 표시해 왜 바뀌었는지 한눈에 보이게 했습니다."
   ],
   "self_evaluation": {
-    "score": 8.4,
-    "summary": "직전 회차의 85% breadth-rebuild 자체는 당시 데이터에 맞았지만, T·BLAST 같은 mega-turnover 실패주 리스크를 더 보수적으로 봤어야 했습니다. 이번엔 6시간 안에 붕괴가 확인되자 미련 없이 65%까지 줄이고 실제 양수 상단 유지주로 교체한 점이 개선입니다."
+    "score": 8.5,
+    "summary": "직전 65% crash-reset 자체는 타당했지만 ELSA·BLUR의 구조 약화를 더 빨리 구분했어야 했습니다. 이번에는 메이저가 더 무너졌는데도 XEC·KITE·ARX·JTO 같은 실제 생존주만 남기고 비중을 60%로 더 줄인 점이 개선입니다."
   },
-  "ui_version": "v38.0",
+  "ui_version": "v39.0",
   "rejected_candidates": [
     {
-      "symbol": "T",
-      "market": "KRW-T",
-      "reason": "672.4억원 대금이어도 -12.05%, 8.2% 위치, -17.1% gap이면 오늘 최악의 trap입니다."
+      "symbol": "ELSA",
+      "market": "KRW-ELSA",
+      "reason": "직전 핵심축이었지만 45.0% 위치와 -8.76% gap이면 무효화 이탈 후 재매수 근거가 약합니다."
     },
     {
-      "symbol": "BLAST",
-      "market": "KRW-BLAST",
-      "reason": "625.1억원 대금에도 15.5% 위치와 -15.55% gap로 continuation 서사가 종료됐습니다."
-    },
-    {
-      "symbol": "ARDR",
-      "market": "KRW-ARDR",
-      "reason": "직전 fresh leader였지만 이번엔 -8.12%, 2.1% 위치로 failed breakout입니다."
+      "symbol": "BLUR",
+      "market": "KRW-BLUR",
+      "reason": "양수는 유지했지만 53.1% 위치로 BSV·ARX보다 공격 효율이 낮아 6번째 후보로 후퇴했습니다."
     },
     {
       "symbol": "WLD",
       "market": "KRW-WLD",
-      "reason": "공식 재료는 남아도 -0.16%, 48.1% 위치면 buy보다 watchlist가 맞습니다."
+      "reason": "공식 tokenomics 재료는 유효하지만 45.5% 위치라 watchlist가 더 적절합니다."
     },
     {
       "symbol": "AQT",
       "market": "KRW-AQT",
-      "reason": "양수와 대금은 좋지만 -6.71% gap가 커서 weak breadth 장의 코어로 쓰기엔 거칠습니다."
+      "reason": "98.4억원 대금에도 47.2% 위치·-8.16% gap이면 상단 유지 품질이 부족합니다."
+    },
+    {
+      "symbol": "T",
+      "market": "KRW-T",
+      "reason": "456.3억원 대금이어도 -10.56%, 15.7% 위치, -15.69% gap이면 여전히 대표적 trap입니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 595.1억원입니다.",
-    "momentum_discipline": "T·ARDR·WLD·BLAST 전량 재평가 / XEC·KITE·JTO·BLUR 신규 / ELSA만 생존 후 확대",
-    "diversification": "fresh breakout 2 + tight continuation 2 + clean secondary continuation 1",
-    "cash_usage": "65%",
-    "rotation_speed": "purge-broken-85-basket-and-rebuild-with-current-positive-structure"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 823.8억원입니다.",
+    "momentum_discipline": "ELSA·BLUR 퇴출 / BSV·ARX 승격 / XEC·KITE·JTO 유지",
+    "diversification": "mega survivor 1 + continuation 2 + rebound/reclaim 2",
+    "cash_usage": "60%",
+    "rotation_speed": "cut-broken-slots-and-keep-only-positive-liquid-survivors"
   },
   "signal_balance": {
-    "summary": "major avg 12.9 / weak breadth true / fresh 2 / top15 positives 4 / low-range 9 -> 공격은 유지하되 비중은 65%로 후퇴, 깨끗한 양수 상단만 선택"
+    "summary": "major avg 3.8 / weak breadth false / fresh 0 / top15 positives 6 / low-range 7 -> 60% 유지, 양수 생존 continuation과 reclaim 중심"
   },
   "rotation_map": [
     {
-      "out": "T",
-      "in": "XEC",
-      "why": "T는 8.2% 위치 trap으로 붕괴했고 XEC는 302.9억원·90.7% 위치의 최강 fresh 리더입니다."
+      "out": "ELSA",
+      "in": "BSV",
+      "why": "ELSA는 45.0% 위치·-8.76% gap로 무효화 후 재진입 근거가 약하고 BSV는 166.6억원·+10.83%의 고체급 공격 슬롯입니다."
     },
     {
-      "out": "ARDR",
-      "in": "KITE",
-      "why": "ARDR는 2.1% failed breakout이 됐고 KITE는 94.7% 위치·-0.51% gap의 타이트 상단 유지주입니다."
+      "out": "BLUR",
+      "in": "ARX",
+      "why": "BLUR는 53.1% 중간권에 머물렀고 ARX는 70.4% 위치·-2.95% gap의 cleaner reclaim입니다."
     },
     {
-      "out": "WLD",
-      "in": "JTO",
-      "why": "WLD는 48.1% 중간권으로 밀렸고 JTO는 89.7% 위치의 더 깔끔한 솔라나 베타입니다."
+      "out": "65% basket",
+      "in": "60% basket",
+      "why": "메이저 평균이 12.9%에서 3.8%로 더 무너져 현금 비중을 40%로 추가 확대했습니다."
     },
     {
-      "out": "BLAST",
-      "in": "BLUR",
-      "why": "BLAST는 -15.55% gap의 초대금 실패주가 됐고 BLUR는 78.6% 위치의 cleaner continuation입니다."
-    },
-    {
-      "out": "85% basket",
-      "in": "65% basket",
-      "why": "메이저 평균 56.7%→12.9%, top15 양수 10개→4개, low-range 1개→9개로 붕괴해 현금 비중을 다시 35%로 높였습니다."
+      "out": "fresh 기대",
+      "in": "survivor/reclaim 유지",
+      "why": "fresh breakout 수가 0이어서 같은 양수라도 상단 유지주를 우선했습니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 현금 35% 유지. XEC 0.0102 이탈 또는 ELSA·KITE·JTO·BLUR 중 2개 이상이 상단 구조를 잃으면 60% 이하로 재감속.",
-    "review_trigger": "XEC 0.0102 / ELSA 84.8 / KITE 192 / JTO 950 / BLUR 25.1 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 현금 40% 유지. XEC 0.0099 또는 KITE 198 또는 BSV 21,000 또는 ARX 257 또는 JTO 950 하회 시 추가 감속 검토.",
+    "review_trigger": "XEC 0.0099 / KITE 198 / BSV 21,000 / ARX 257 / JTO 950 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
@@ -280,17 +275,17 @@
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 14.59,
+    "preferred_avg_change_pct_24h": 13.77,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 59505719603.35334,
-    "leader_turnover_share_pct": 50.91,
+    "preferred_turnover_total_krw_24h": 83488193471.03033,
+    "leader_turnover_share_pct": 53.58,
     "leader_symbol": "XEC"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "XEC·ELSA 두 개만 명확한 fresh이고, 나머지는 crash session에서 살아남은 cleaner continuation 슬롯입니다."
+    "comment": "fresh는 0이지만 XEC·KITE·BSV·ARX·JTO 5종이 모두 양수이며, 그중 4종은 60% 이상 위치를 유지합니다."
   },
-  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-13 15:59 KST 스냅샷 기준 판단"
+  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-13 21:58 KST 스냅샷 기준 판단"
 }
