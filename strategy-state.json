@@ -1,36 +1,80 @@
 {
-  "updated_at": "2026-07-13T03:58+09:00",
-  "top_line": "메이저 평균 위치는 80.4%로 더 좋아졌지만 fresh breakout은 0개이고 top15 low-range가 9개라 알트 폭은 다시 나빠졌습니다. 그래서 85% 유지 대신 80%로 한 단계 낮추고, 깨진 ONDO·KAITO를 XLM·PUNDIX로 교체한 AGLD·WLD·XLM·PUNDIX·NEAR 바스켓이 가장 공격적이면서도 덜 함정입니다.",
-  "macro_summary": "BTC 67.8% / ETH 87.5% / XRP 70.0% / SOL 96.4%로 메이저 평균 위치는 80.4%까지 개선됐습니다. 하지만 top15 비메이저 양수는 7개뿐이고 low-range가 9개라, 메이저 대비 알트 breadth는 오히려 다시 약해진 상태입니다.",
-  "news_summary": "WLD는 7월 24일부터 일일 unlock rate가 43% 줄어드는 일정이 공식 블로그 기준으로 확인됩니다. 다만 cliff 제거형 선형 unlock이 계속된다는 점까지 같이 봐야 해서 무조건 강세 재료로만 해석하면 위험합니다. PUNDIX·AGLD는 뚜렷한 외부 뉴스보다 업비트 내 순수 수급 주도 성격이 강합니다.",
-  "community_summary": "커뮤니티 시선은 여전히 T·BLAST 같은 큰 캔들에 쏠렸지만 실제 구조는 45~50% 위치와 두 자릿수 음의 gap이라 뒤늦은 추격이 불리합니다. 실전적으로는 AGLD·WLD·XLM·PUNDIX처럼 상단 유지가 남은 종목이 더 읽기 쉽습니다.",
-  "public_figure_summary": "Sam Altman 연상 서사는 여전히 WLD attention의 핵심입니다. 반면 AGLD·PUNDIX는 유명인보다 순수 테이프와 업비트 대금 흐름 영향이 더 큽니다.",
-  "major_coin_summary": "BTC +0.39%·67.8% 위치 / ETH +1.65%·87.5% 위치 / XRP 0.00%·70.0% 위치 / SOL +0.96%·96.4% 위치 / 메이저 평균 80.43% 위치",
-  "altcoin_selection_summary": "preferred buy 5종은 AGLD, WLD, XLM, PUNDIX, NEAR입니다. fresh 0 구간이라 ONDO·KAITO 같은 약화 슬롯 대신, AGLD spearhead 1개에 WLD·XLM의 유동성 코어와 PUNDIX·NEAR의 상단 유지형 베타를 얹는 구성이 가장 효율적입니다.",
-  "overall_bias": "aggressive-80-no-fresh-liquid-continuations",
+  "updated_at": "2026-07-13T09:58:00+09:00",
+  "top_line": "메이저 평균 위치는 56.7%로 식었지만 top15 양수 10개·low-range 1개로 breadth는 오히려 좋아졌습니다. 그래서 깨진 AGLD·XLM·PUNDIX를 버리고, 유일 fresh인 ARDR에 T·WLD·BLAST·ELSA를 얹은 85% 공격 재구성이 이번 6시간 최선입니다.",
+  "macro_summary": "BTC 55.8% / ETH 61.0% / XRP 51.9% / SOL 57.9%로 메이저 평균 위치는 56.7%입니다. 직전 대비 23.8p 식었지만 4메이저 모두 양수이고, top15 비메이저 양수는 10개·low-range는 1개뿐이라 알트 breadth 자체는 건강합니다.",
+  "news_summary": "외부 검증 가능한 새 재료는 WLD 쪽이 가장 뚜렷합니다. world.org 공식 블로그 기준 7월 24일부터 WLD 일일 unlock rate가 43% 줄어들지만, unlock은 선형으로 계속되고 cliff는 없습니다. T·ELSA·ARDR·BLAST는 현재로선 대형 신규 뉴스보다 업비트 수급과 테이프 우위가 핵심입니다.",
+  "community_summary": "업비트 커뮤니티와 실전 attention은 AGLD·PUNDIX 같은 기존 고베타보다 T·ELSA·BLAST·ARDR처럼 아직 상단 체류가 남은 이름으로 빠르게 이동했습니다. 이번 회차는 뒤늦은 salvage보다 현재 보드의 살아 있는 유동성 축을 따라가는 편이 낫습니다.",
+  "public_figure_summary": "공인 영향력 서사는 여전히 WLD의 Sam Altman 연상 효과가 가장 강합니다. 나머지 핵심 후보는 유명인보다 거래대금·구조 회복 자체가 선정 이유입니다.",
+  "major_coin_summary": "BTC +0.43%·55.8% 위치 / ETH +1.23%·61.0% 위치 / XRP +0.62%·51.9% 위치 / SOL +0.78%·57.9% 위치 / 메이저 평균 56.65% 위치",
+  "altcoin_selection_summary": "preferred buy 5종은 T, ELSA, ARDR, WLD, BLAST입니다. 직전 코어 5개 중 AGLD·XLM·PUNDIX가 50% 아래로 식어 리셋이 필요했고, 현재는 1개 fresh(ARDR) + 3개 대형 유동성 지속주(T·WLD·BLAST) + 1개 고베타 상단 리더(ELSA) 조합이 가장 공격적이면서도 덜 둔합니다.",
+  "overall_bias": "aggressive-85-breadth-rebuild-one-fresh-liquid-leaders",
   "confidence": "medium",
   "preferred_buy_candidates": [
     {
-      "market": "KRW-AGLD",
-      "symbol": "AGLD",
-      "korean_name": "어드벤처골드",
-      "english_name": "Adventure Gold",
-      "price_krw": 283.0,
-      "change_pct_24h": 24.66960352,
-      "turnover_krw_24h": 29220600571.147778,
-      "opening_price": 227.0,
-      "high_price": 300.0,
-      "low_price": 220.0,
-      "range_position_pct": 77.9,
-      "day_high_gap_pct": -5.67,
-      "selection_score": 64.26,
-      "role": "momentum spearhead survivor",
-      "strategy": "283원 기준 276원 위·72%+ 구조 유지 시 보유",
-      "risk_limit_pct": 3.2,
-      "profit_take_pct": 9.0,
-      "invalidated_if": "276원 하회 또는 72% 구조 붕괴",
-      "reason": "292.2억원 대금과 +24.67% 모멘텀은 압도적입니다. fresh는 아니지만 아직 77.9% 상단을 지켜 이번 보드의 실질 spearhead입니다.",
-      "allocation_krw": 221404.66867343686
+      "market": "KRW-T",
+      "symbol": "T",
+      "korean_name": "쓰레스홀드",
+      "english_name": "Threshold",
+      "price_krw": 8.37,
+      "change_pct_24h": 3.97515528,
+      "turnover_krw_24h": 92540037635.19559,
+      "opening_price": 8.05,
+      "high_price": 8.54,
+      "low_price": 7.96,
+      "range_position_pct": 70.7,
+      "day_high_gap_pct": -1.99,
+      "selection_score": 69.12,
+      "role": "mega-liquidity reclaim core",
+      "strategy": "8.37원 기준 8.15원 위·62%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.6,
+      "profit_take_pct": 7.0,
+      "invalidated_if": "8.15원 하회 또는 62% 구조 붕괴",
+      "reason": "925.4억원 압도적 대금과 +3.98%, 70.7% 위치가 동시에 남았습니다. 직전 trap 구간에서 완전히 벗어난 현재 업비트 최상위 유동성 리클레임 코어입니다.",
+      "allocation_krw": 228829.99561689547
+    },
+    {
+      "market": "KRW-ELSA",
+      "symbol": "ELSA",
+      "korean_name": "헤이엘사",
+      "english_name": "HeyElsa",
+      "price_krw": 81.8,
+      "change_pct_24h": 9.50468541,
+      "turnover_krw_24h": 21951762169.708267,
+      "opening_price": 74.6,
+      "high_price": 82.8,
+      "low_price": 73.9,
+      "range_position_pct": 88.8,
+      "day_high_gap_pct": -1.21,
+      "selection_score": 58.77,
+      "role": "fresh beta leader",
+      "strategy": "81.8원 기준 79.5원 위·82%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.8,
+      "profit_take_pct": 8.5,
+      "invalidated_if": "79.5원 하회 또는 82% 구조 붕괴",
+      "reason": "219.5억원 대금, +9.50%, 88.8% 위치로 이번 회차 가장 공격적인 비메이저 베타 리더입니다. 아직 고점 이탈이 얕아 추세 슬롯 가치가 큽니다.",
+      "allocation_krw": 228829.99561689547
+    },
+    {
+      "market": "KRW-ARDR",
+      "symbol": "ARDR",
+      "korean_name": "아더",
+      "english_name": "Ardor",
+      "price_krw": 35.8,
+      "change_pct_24h": 3.76811594,
+      "turnover_krw_24h": 14764425401.703304,
+      "opening_price": 34.4,
+      "high_price": 36.0,
+      "low_price": 33.3,
+      "range_position_pct": 92.6,
+      "day_high_gap_pct": -0.56,
+      "selection_score": 49.18,
+      "role": "single fresh breakout spearhead",
+      "strategy": "35.8원 기준 35.2원 위·88%+ 구조 유지 시 보유",
+      "risk_limit_pct": 1.9,
+      "profit_take_pct": 6.0,
+      "invalidated_if": "35.2원 하회 또는 88% 구조 붕괴",
+      "reason": "147.6억원 대금과 92.6% 위치, -0.56% gap 조합으로 이번 스냅샷의 유일한 fresh breakout 핵심입니다. 현재 바스켓의 선봉입니다.",
+      "allocation_krw": 228829.99561689547
     },
     {
       "market": "KRW-WLD",
@@ -38,254 +82,215 @@
       "korean_name": "월드코인",
       "english_name": "Worldcoin",
       "price_krw": 632.0,
-      "change_pct_24h": 6.75675676,
-      "turnover_krw_24h": 25193366774.685738,
-      "opening_price": 592.0,
-      "high_price": 646.0,
-      "low_price": 587.0,
-      "range_position_pct": 76.3,
-      "day_high_gap_pct": -2.17,
-      "selection_score": 49.49,
-      "role": "mega-liquidity attention anchor",
+      "change_pct_24h": 1.28205128,
+      "turnover_krw_24h": 32032354580.572502,
+      "opening_price": 624.0,
+      "high_price": 637.0,
+      "low_price": 620.0,
+      "range_position_pct": 70.6,
+      "day_high_gap_pct": -0.78,
+      "selection_score": 43.71,
+      "role": "headline liquidity anchor",
       "strategy": "632원 기준 624원 위·68%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.2,
-      "profit_take_pct": 6.5,
+      "risk_limit_pct": 2.1,
+      "profit_take_pct": 6.0,
       "invalidated_if": "624원 하회 또는 68% 구조 붕괴",
-      "reason": "251.9억원 대금, +6.76%, 76.3% 위치로 현재 업비트 비메이저 대형 유동성 앵커입니다. 7월 24일 unlock rate 43% 감소 기대가 attention을 계속 받칩니다.",
-      "allocation_krw": 221404.66867343686
+      "reason": "320.3억원 대금과 70.6% 위치로 대형 attention 코인 중 구조가 가장 읽기 쉽습니다. 7월 24일 unlock rate 43% 감소 일정이 여전히 관심을 받칩니다.",
+      "allocation_krw": 228829.99561689547
     },
     {
-      "market": "KRW-XLM",
-      "symbol": "XLM",
-      "korean_name": "스텔라루멘",
-      "english_name": "Stellar Lumens",
-      "price_krw": 283.0,
-      "change_pct_24h": 1.79856115,
-      "turnover_krw_24h": 12514499608.919703,
-      "opening_price": 278.0,
-      "high_price": 285.0,
-      "low_price": 273.0,
-      "range_position_pct": 83.3,
-      "day_high_gap_pct": -0.7,
-      "selection_score": 41.57,
-      "role": "liquid quality continuation",
-      "strategy": "283원 기준 281원 위·78%+ 구조 유지 시 보유",
-      "risk_limit_pct": 1.8,
-      "profit_take_pct": 5.5,
-      "invalidated_if": "281원 하회 또는 78% 구조 붕괴",
-      "reason": "125.1억원 대금과 83.3% 위치, -0.70% gap 조합이 매우 깔끔합니다. majors 강세를 받는 대형 continuation 슬롯으로 SUI보다 우위입니다.",
-      "allocation_krw": 221404.66867343686
-    },
-    {
-      "market": "KRW-PUNDIX",
-      "symbol": "PUNDIX",
-      "korean_name": "펀디엑스",
-      "english_name": "Pundi X",
-      "price_krw": 140.0,
-      "change_pct_24h": 12.90322581,
-      "turnover_krw_24h": 6641762683.73865,
-      "opening_price": 124.0,
-      "high_price": 145.0,
-      "low_price": 123.0,
-      "range_position_pct": 77.3,
-      "day_high_gap_pct": -3.45,
-      "selection_score": 50.96,
-      "role": "mid-cap beta continuation",
-      "strategy": "140원 기준 135원 위·70%+ 구조 유지 시 보유",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 8.0,
-      "invalidated_if": "135원 하회 또는 70% 구조 붕괴",
-      "reason": "66.4억원 대금, +12.90%, 77.3% 위치로 today 보드에서 과열주치고 구조가 덜 무너졌습니다. 명확한 외부 재료보다 순수 테이프 지속성이 강합니다.",
-      "allocation_krw": 221404.66867343686
-    },
-    {
-      "market": "KRW-NEAR",
-      "symbol": "NEAR",
-      "korean_name": "니어프로토콜",
-      "english_name": "NEAR Protocol",
-      "price_krw": 2848.0,
-      "change_pct_24h": 2.11545357,
-      "turnover_krw_24h": 4073982556.754739,
-      "opening_price": 2788.0,
-      "high_price": 2848.0,
-      "low_price": 2773.0,
-      "range_position_pct": 100.0,
-      "day_high_gap_pct": 0.0,
-      "selection_score": 45.88,
-      "role": "tight-box quality finisher",
-      "strategy": "2848원 기준 2810원 위·85%+ 구조 유지 시 보유",
-      "risk_limit_pct": 1.6,
-      "profit_take_pct": 4.5,
-      "invalidated_if": "2810원 하회 또는 85% 구조 붕괴",
-      "reason": "40.7억원 대금, +2.12%, 100% 위치, 0% gap입니다. 박스가 좁아 과신은 금물이지만 이번 회차에서는 가장 단정한 마감형 대형 알트입니다.",
-      "allocation_krw": 221404.66867343686
+      "market": "KRW-BLAST",
+      "symbol": "BLAST",
+      "korean_name": "블라스트",
+      "english_name": "Blast",
+      "price_krw": 0.559,
+      "change_pct_24h": 2.19378428,
+      "turnover_krw_24h": 46313947922.28939,
+      "opening_price": 0.546,
+      "high_price": 0.569,
+      "low_price": 0.54,
+      "range_position_pct": 65.5,
+      "day_high_gap_pct": -1.76,
+      "selection_score": 47.31,
+      "role": "liquid continuation support",
+      "strategy": "0.559원 기준 0.551원 위·60%+ 구조 유지 시 보유",
+      "risk_limit_pct": 2.4,
+      "profit_take_pct": 6.8,
+      "invalidated_if": "0.551원 하회 또는 60% 구조 붕괴",
+      "reason": "463.1억원 대금과 +2.19%, 65.5% 위치로 단순 스파이크가 아니라 재정비된 상단 continuation에 가깝습니다. breadth 회복 수혜를 받는 대형 분산축입니다.",
+      "allocation_krw": 228829.99561689547
     }
   ],
   "selected_altcoins": [
     {
-      "symbol": "AGLD",
-      "market": "KRW-AGLD",
-      "reason": "292.2억원 대금과 +24.67% 모멘텀은 압도적입니다. fresh는 아니지만 아직 77.9% 상단을 지켜 이번 보드의 실질 spearhead입니다."
-    },
-    {
-      "symbol": "WLD",
-      "market": "KRW-WLD",
-      "reason": "251.9억원 대금, +6.76%, 76.3% 위치로 현재 업비트 비메이저 대형 유동성 앵커입니다. 7월 24일 unlock rate 43% 감소 기대가 attention을 계속 받칩니다."
-    },
-    {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "125.1억원 대금과 83.3% 위치, -0.70% gap 조합이 매우 깔끔합니다. majors 강세를 받는 대형 continuation 슬롯으로 SUI보다 우위입니다."
-    },
-    {
-      "symbol": "PUNDIX",
-      "market": "KRW-PUNDIX",
-      "reason": "66.4억원 대금, +12.90%, 77.3% 위치로 today 보드에서 과열주치고 구조가 덜 무너졌습니다. 명확한 외부 재료보다 순수 테이프 지속성이 강합니다."
-    },
-    {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "40.7억원 대금, +2.12%, 100% 위치, 0% gap입니다. 박스가 좁아 과신은 금물이지만 이번 회차에서는 가장 단정한 마감형 대형 알트입니다."
-    }
-  ],
-  "watchlist": [
-    {
       "symbol": "T",
       "market": "KRW-T",
-      "reason": "955.8억원 대금 1위지만 49.6% 위치·-13.08% gap면 수직 스파이크 잔상에 가깝습니다."
+      "reason": "925.4억원 압도적 대금과 +3.98%, 70.7% 위치가 동시에 남았습니다. 직전 trap 구간에서 완전히 벗어난 현재 업비트 최상위 유동성 리클레임 코어입니다."
     },
     {
-      "symbol": "BLAST",
-      "market": "KRW-BLAST",
-      "reason": "354.0억원·+20.34%라도 45.5% 위치·-18.12% gap라 추격보다 함정 경계가 우선입니다."
-    },
-    {
-      "symbol": "SUI",
-      "market": "KRW-SUI",
-      "reason": "39.5억원, +1.29%, 62.2% 위치로 나쁘진 않지만 XLM·NEAR보다 현재 구조가 한 단계 아래입니다."
-    },
-    {
-      "symbol": "JTO",
-      "market": "KRW-JTO",
-      "reason": "21.8억원, +1.34%, 80.0% 위치, -1.09% gap로 깔끔하지만 체급이 더 약해 2선 후보입니다."
-    },
-    {
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "reason": "29.3억원과 +0.81%는 남아도 47.8% 위치까지 식어 이번 코어 5종에서는 제외합니다."
-    },
-    {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "-0.41%, 9.1% 위치로 직전 reclaim thesis가 완전히 깨졌습니다."
+      "symbol": "ELSA",
+      "market": "KRW-ELSA",
+      "reason": "219.5억원 대금, +9.50%, 88.8% 위치로 이번 회차 가장 공격적인 비메이저 베타 리더입니다. 아직 고점 이탈이 얕아 추세 슬롯 가치가 큽니다."
     },
     {
       "symbol": "ARDR",
       "market": "KRW-ARDR",
-      "reason": "+5.28%라도 27.3% 위치·-12.40% gap면 fading leader입니다."
-    }
-  ],
-  "risk_notes": [
-    "메이저 평균은 80%대지만 top15 low-range가 9개라 알트 시장 내부 폭은 다시 약해졌습니다.",
-    "T·BLAST는 대금은 압도적이어도 gap이 너무 넓어 late chase 함정 확률이 큽니다.",
-    "AGLD는 strongest tape지만 이미 고점 대비 -5.67%라 fresh가 아닌 survivor로 다뤄야 합니다.",
-    "NEAR는 100% 위치라도 좁은 박스 상단이라 과신 금지, 1개 tight-box 슬롯으로만 허용합니다.",
-    "WLD는 7월 24일 unlock rate 감소 기대가 있지만 선형 unlock 자체는 계속된다는 점을 잊으면 안 됩니다."
-  ],
-  "fear_greed": "26 (Fear; 최근 확인 기준)",
-  "btc_reference": "BTC 95.601M원 / ETH 2.713M원 / XRP 1,639원 / SOL 115.7K원",
-  "improvement_log": [
-    "DECISIONS.md에 “메이저 80%대여도 weak breadth=true, fresh=0, 보유 슬롯 2개 이상 약화면 85%를 고집하지 말고 80%로 감속 후 75%+ liquid continuation으로 교체” 규칙을 추가했습니다.",
-    "이번 회차부터 메이저 강세와 알트 breadth 악화를 분리해 적어, 왜 risk-on이지만 90%가 아닌지 더 빠르게 읽히게 했습니다.",
-    "WLD unlock 설명에 “43% 감소 + cliff 없음”을 함께 적어 단순 호재 과장을 줄였습니다."
-  ],
-  "self_evaluation": {
-    "score": 8.7,
-    "summary": "직전 85% 승격 자체는 무리하지 않았지만, weak breadth 재악화에서 ONDO·KAITO를 한 사이클 더 둔 점은 아쉬웠습니다. 이번엔 메이저 강세를 인정하되 fresh 0과 breadth 경고를 더 강하게 반영해 80%로 재정렬한 점이 개선입니다."
-  },
-  "ui_version": "v36.9",
-  "rejected_candidates": [
+      "reason": "147.6억원 대금과 92.6% 위치, -0.56% gap 조합으로 이번 스냅샷의 유일한 fresh breakout 핵심입니다. 현재 바스켓의 선봉입니다."
+    },
     {
-      "symbol": "T",
-      "market": "KRW-T",
-      "reason": "955.8억원 대금 1위여도 49.6% 위치·-13.08% gap면 강세보다 exhaustion에 가깝습니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "320.3억원 대금과 70.6% 위치로 대형 attention 코인 중 구조가 가장 읽기 쉽습니다. 7월 24일 unlock rate 43% 감소 일정이 여전히 관심을 받칩니다."
     },
     {
       "symbol": "BLAST",
       "market": "KRW-BLAST",
-      "reason": "354.0억원과 +20.34%는 세지만 45.5% 위치·-18.12% gap라 late chase 금지 구간입니다."
+      "reason": "463.1억원 대금과 +2.19%, 65.5% 위치로 단순 스파이크가 아니라 재정비된 상단 continuation에 가깝습니다. breadth 회복 수혜를 받는 대형 분산축입니다."
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "AGLD",
+      "market": "KRW-AGLD",
+      "reason": "333.3억원 대금은 크지만 -0.77%, 37.5% 위치까지 밀려 기존 spearhead 지위가 무너졌습니다."
     },
     {
-      "symbol": "SLX",
-      "market": "KRW-SLX",
-      "reason": "-4.62%, 15.0% 위치로 turnover trap이 명확합니다."
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "107.5억원 대금에도 40.0% 위치면 상단 continuation 가정이 깨졌습니다."
     },
     {
-      "symbol": "ONDO",
-      "market": "KRW-ONDO",
-      "reason": "음전환과 9.1% 위치로 reclaim thesis가 파손됐습니다."
+      "symbol": "PUNDIX",
+      "market": "KRW-PUNDIX",
+      "reason": "대금은 남아도 50.0% 중간권으로 식어 코어 재편 우선순위에서 밀렸습니다."
     },
     {
-      "symbol": "KAITO",
-      "market": "KRW-KAITO",
-      "reason": "긍정은 남아도 47.8% 위치면 상단 지속 코어 자격이 부족합니다."
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "57.3% 위치로 완전 붕괴는 아니지만 현재 65~90% 대체재보다 한 단계 약합니다."
+    },
+    {
+      "symbol": "KAT",
+      "market": "KRW-KAT",
+      "reason": "75.0% 위치와 -0.65% gap는 좋지만 66.9억원 체급이라 BLAST·WLD보다 후순위입니다."
+    },
+    {
+      "symbol": "XEC",
+      "market": "KRW-XEC",
+      "reason": "+10.98%와 73.5% 위치는 매력적이지만 44.9억원·-3.45% gap라 2선 고베타 후보로만 둡니다."
+    },
+    {
+      "symbol": "DOGE",
+      "market": "KRW-DOGE",
+      "reason": "66.7% 위치의 대형 밈 continuation이지만 오늘은 T·WLD·BLAST 쪽 대금 우위가 더 뚜렷합니다."
+    }
+  ],
+  "risk_notes": [
+    "메이저 평균 위치는 56.7%로 직전보다 식었기 때문에 90%까지 과속할 단계는 아닙니다.",
+    "ARDR만 fresh breakout이므로 나머지 4개는 continuation/reclaim 성격으로 관리해야 합니다.",
+    "T가 대금 1위로 바스켓 관심을 주도하므로 구조 붕괴 시 전체 리스크 온도가 빠르게 식을 수 있습니다.",
+    "ELSA는 강하지만 히스토리보다 당일 베타가 앞서는 종목이라 79.5원 이탈 시 미련 없이 재평가가 필요합니다.",
+    "WLD는 unlock rate 감소 기대가 있지만 공급 해소가 아니라 완화라는 점은 계속 감안해야 합니다."
+  ],
+  "fear_greed": "26 (Fear; 최근 확인 기준)",
+  "btc_reference": "BTC 95.415M원 / ETH 2.724M원 / XRP 1,628원 / SOL 115.6K원",
+  "improvement_log": [
+    "DECISIONS.md에 “메이저가 80%대에서 50~60대로 식어도 top15 양수 10개 이상·low-range 1개 수준이면 깨진 보유만 버리고 85% breadth-rebuild로 재공격” 규칙을 추가했습니다.",
+    "이번 리포트는 fresh 1개와 liquid continuation 4개를 아이콘·역할 중심으로 더 짧게 구분해 한눈에 읽히게 정리했습니다.",
+    "WLD 뉴스 설명을 공식 world.org 기준으로 다시 고정해 unlock 기대와 공급 지속을 함께 표기했습니다."
+  ],
+  "self_evaluation": {
+    "score": 8.8,
+    "summary": "직전 80% 재편 자체는 과하지 않았지만 AGLD·XLM·PUNDIX 둔화를 한 사이클 더 끌고 온 점은 아쉬웠습니다. 이번엔 breadth 개선과 보유 손상을 분리해서 보고, broken slot 3개를 바로 현재 리더 3개로 갈아탄 점이 개선입니다."
+  },
+  "ui_version": "v37.0",
+  "rejected_candidates": [
+    {
+      "symbol": "AGLD",
+      "market": "KRW-AGLD",
+      "reason": "333.3억원 대금이어도 -0.77%와 37.5% 위치면 기존 spearhead 서사가 종료됐습니다."
+    },
+    {
+      "symbol": "XLM",
+      "market": "KRW-XLM",
+      "reason": "107.5억원과 양수는 남아도 40.0% 위치면 continuation 코어 자격이 약합니다."
+    },
+    {
+      "symbol": "PUNDIX",
+      "market": "KRW-PUNDIX",
+      "reason": "50.0% 중간권으로 식어 더 높은 65~90% 구조군에 밀립니다."
+    },
+    {
+      "symbol": "NEAR",
+      "market": "KRW-NEAR",
+      "reason": "57.3% 위치의 보통 quality hold로는 지금 85% 재공격 슬롯 우선순위가 부족합니다."
+    },
+    {
+      "symbol": "XEC",
+      "market": "KRW-XEC",
+      "reason": "+10.98%는 강하지만 44.9억원 체급과 -3.45% gap 때문에 코어 5종보다는 2선 고베타 후보가 적절합니다."
     }
   ],
   "scorecard": {
-    "turnover_focus": "preferred 5종 24h 대금 합계는 약 680.8억원입니다.",
-    "momentum_discipline": "ONDO·KAITO·SUI 퇴출 / XLM·PUNDIX·NEAR 신규 / AGLD·WLD 유지",
-    "diversification": "tape spearhead 1 + mega-liquidity anchor 1 + large-cap continuation 2 + mid-cap beta 1",
-    "cash_usage": "80%",
-    "rotation_speed": "trim-risk-and-replace-weakened-slots-under-no-fresh-breadth-warning"
+    "turnover_focus": "preferred 5종 24h 대금 합계는 약 2076.0억원입니다.",
+    "momentum_discipline": "AGLD·XLM·PUNDIX 퇴출 / T·ELSA·ARDR 신규 / WLD 유지 / BLAST 승격",
+    "diversification": "fresh spearhead 1 + mega-liquidity reclaim 1 + headline anchor 1 + liquid continuation 1 + beta leader 1",
+    "cash_usage": "85%",
+    "rotation_speed": "purge-broken-slots-and-rebuild-around-current-liquid-leaders"
   },
   "signal_balance": {
-    "summary": "major avg 80.4 / weak breadth true / fresh 0 / top15 positives 7 / low-range 9 -> 메이저는 강하지만 알트 내부는 지저분, 그래서 80%와 liquid continuation 중심이 우위"
+    "summary": "major avg 56.7 / weak breadth false / fresh 1 / top15 positives 10 / low-range 1 -> 메이저는 중간 속도지만 알트 breadth는 건강, 그래서 85% breadth-rebuild가 우위"
   },
   "rotation_map": [
     {
-      "out": "ONDO",
-      "in": "XLM",
-      "why": "ONDO는 9.1% 위치·음전환으로 붕괴했고 XLM은 83.3% 위치·125.1억원으로 더 깨끗한 대형 continuation입니다."
+      "out": "AGLD",
+      "in": "T",
+      "why": "AGLD는 37.5% 위치로 식었고 T는 925.4억원·70.7% 위치의 압도적 유동성 리클레임입니다."
     },
     {
-      "out": "KAITO",
-      "in": "PUNDIX",
-      "why": "KAITO는 47.8%까지 식었고 PUNDIX는 77.3% 위치·+12.90%로 더 강한 베타 지속 구조입니다."
+      "out": "XLM",
+      "in": "ELSA",
+      "why": "XLM은 40.0%로 둔화됐고 ELSA는 88.8% 위치·+9.50%로 더 공격적인 상단 리더입니다."
     },
     {
-      "out": "SUI",
-      "in": "NEAR",
-      "why": "SUI는 62.2% 중간권에 머물렀고 NEAR는 100% 위치와 0% gap으로 더 단정한 마감형 품질 슬롯입니다."
+      "out": "PUNDIX",
+      "in": "ARDR",
+      "why": "PUNDIX는 50.0% 중간권이고 ARDR는 92.6% 위치의 유일 fresh breakout입니다."
     },
     {
-      "out": "85% single-fresh basket",
-      "in": "80% no-fresh liquid-continuation basket",
-      "why": "메이저는 개선됐지만 fresh 0과 top15 low-range 9개가 동시에 나와 risk-on 강도를 한 단계 낮췄습니다."
+      "out": "NEAR",
+      "in": "BLAST",
+      "why": "NEAR는 57.3% quality hold에 그쳤고 BLAST는 463.1억원·65.5% 위치의 대형 continuation입니다."
+    },
+    {
+      "out": "80% no-fresh continuation basket",
+      "in": "85% breadth-rebuild basket",
+      "why": "메이저는 식었지만 low-range가 9개→1개로 개선되고 top15 양수가 10개까지 늘어 공격도를 다시 한 단계 높였습니다."
     }
   ],
   "risk_plan": {
-    "portfolio_cash_target": "기본 현금 20% 유지. AGLD 276 이탈 또는 WLD·XLM·PUNDIX·NEAR 중 2개 이상이 70% 안팎 구조를 잃으면 75% 이하로 재감속.",
-    "review_trigger": "AGLD 276 / WLD 624 / XLM 281 / PUNDIX 135 / NEAR 2810 하회 시 즉시 재평가",
+    "portfolio_cash_target": "기본 현금 15% 유지. T 8.15 이탈 또는 ELSA·ARDR·WLD·BLAST 중 2개 이상이 60~68% 구조를 잃으면 80% 이하로 재감속.",
+    "review_trigger": "T 8.15 / ELSA 79.5 / ARDR 35.2 / WLD 624 / BLAST 0.551 하회 시 즉시 재평가",
     "hard_rules": [
       "top4 majors는 preferred 후보에서 제외 유지",
       "preferred 후보는 정확히 5개 유지",
       "동일비중 원칙 유지",
       "현금 0%는 금지",
-      "fresh 0 + weak breadth true면 day-high gap -8% 이하 추격 금지"
+      "fresh가 1개뿐이면 90% 과속 금지"
     ]
   },
   "market_breadth": {
-    "preferred_avg_change_pct_24h": 9.65,
+    "preferred_avg_change_pct_24h": 4.14,
     "preferred_positive_count": 5,
     "preferred_negative_count": 0,
     "preferred_flat_count": 0,
-    "preferred_turnover_total_krw_24h": 68079189595.246605,
-    "leader_turnover_share_pct": 42.92,
-    "leader_symbol": "AGLD"
+    "preferred_turnover_total_krw_24h": 207602527709.46906,
+    "leader_turnover_share_pct": 44.58,
+    "leader_symbol": "T"
   },
   "candidate_health_summary": {
     "all_five_within_5pct_of_invalidation": false,
-    "comment": "AGLD·WLD가 유동성 축을 잡고 XLM·PUNDIX·NEAR가 breadth 약세 구간의 상단 유지형 보조축을 맡는 구조입니다."
+    "comment": "ARDR가 fresh spearhead를 맡고 T·WLD·BLAST가 유동성 축, ELSA가 공격 베타를 담당하는 현재형 risk-on 재구축입니다."
   },
-  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-13 03:58 KST 스냅샷 기준 판단"
+  "data_freshness_note": "실시간 Upbit pull 정상, 2026-07-13 09:58 KST 스냅샷 기준 판단"
 }

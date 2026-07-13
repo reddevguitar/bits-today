@@ -1,68 +1,68 @@
 # bit's today — 6시간 자율 전략 리포트
 
-- 시각: 2026-07-13 03:58 KST
-- 기준 한줄: **메이저 평균 위치는 80.4%로 더 좋아졌지만 fresh breakout은 0개이고 top15 low-range가 9개라 알트 폭은 다시 나빠졌습니다. 그래서 85% 유지 대신 80%로 한 단계 낮추고, 깨진 ONDO·KAITO를 XLM·PUNDIX로 교체한 AGLD·WLD·XLM·PUNDIX·NEAR 바스켓이 가장 공격적이면서도 덜 함정입니다.**
-- 시장 한줄 요약: **메이저는 강하지만 알트 내부는 지저분합니다. 지금은 전면 추격보다 liquid continuation 5종 선별이 맞습니다.**
+- 시각: 2026-07-13 09:58 KST
+- 기준 한줄: **메이저 평균 위치는 56.7%로 식었지만 top15 양수 10개·low-range 1개로 breadth는 오히려 좋아졌습니다. 그래서 깨진 AGLD·XLM·PUNDIX를 버리고, 유일 fresh인 ARDR에 T·WLD·BLAST·ELSA를 얹은 85% 공격 재구성이 이번 6시간 최선입니다.**
+- 시장 한줄 요약: **메이저 속도는 둔화됐지만 알트 내부 폭은 건강합니다. 지금은 broken hold를 버리고 현재 리더 5종으로 갈아타는 구간입니다.**
 - 공포탐욕지수: **26 (Fear; 최근 확인 기준)**
-- BTC 참고: **BTC 95.601M원 / ETH 2.713M원 / XRP 1,639원 / SOL 115.7K원**
+- BTC 참고: **BTC 95.415M원 / ETH 2.724M원 / XRP 1,628원 / SOL 115.6K원**
 
 ## 업비트 알트 톱5 구매 희망 후보
-- 🗡️ **AGLD** — 283원 / **+24.67%** / 292.2억원 / 위치 **77.9%** / momentum spearhead
-- 🌍 **WLD** — 632원 / **+6.76%** / 251.9억원 / 위치 **76.3%** / mega-liquidity anchor
-- ✨ **XLM** — 283원 / **+1.80%** / 125.1억원 / 위치 **83.3%** / liquid quality continuation
-- 💠 **PUNDIX** — 140원 / **+12.90%** / 66.4억원 / 위치 **77.3%** / mid-cap beta continuation
-- 🌉 **NEAR** — 2,848원 / **+2.12%** / 40.7억원 / 위치 **100.0%** / tight-box quality finisher
+- 🧱 **T** — 8.37원 / **+3.98%** / 925.4억원 / 위치 **70.7%** / mega-liquidity reclaim core
+- 🚀 **ELSA** — 81.8원 / **+9.50%** / 219.5억원 / 위치 **88.8%** / fresh beta leader
+- ✨ **ARDR** — 35.8원 / **+3.77%** / 147.6억원 / 위치 **92.6%** / single fresh breakout spearhead
+- 🌍 **WLD** — 632원 / **+1.28%** / 320.3억원 / 위치 **70.6%** / headline liquidity anchor
+- 💥 **BLAST** — 0.559원 / **+2.19%** / 463.1억원 / 위치 **65.5%** / liquid continuation support
 
 ## 제외된 메이저 참고 신호
-- BTC **67.8%** / ETH **87.5%** / XRP **70.0%** / SOL **96.4%**
-- 메이저 평균 **80.4% 위치**, **3상승 0하락**
-- fresh breakout **0개**, top15 양수 **7개**, top15 low-range **9개**, **weak breadth true**
-- 추격 보류 리더: **T / BLAST / SLX / ONDO / ARDR**
+- BTC **55.8%** / ETH **61.0%** / XRP **51.9%** / SOL **57.9%**
+- 메이저 평균 **56.7% 위치**, **4상승 0하락**
+- fresh breakout **1개**, top15 양수 **10개**, top15 low-range **1개**, **weak breadth false**
+- 직전 보유 경고: **AGLD / XLM / PUNDIX**
 
 ## 공격 포트폴리오 전략
-- 실투입: **80%**, 5종 동일비중
-- 각 비중: 약 **221,405원**
-- 현금: 약 **276,756원 (20.0%)**
-- 핵심 논리: **메이저는 좋지만 fresh가 0이고 breadth warning이 켜졌습니다. 그래서 85%를 고집하지 않고, ONDO·KAITO·SUI를 버리고 AGLD·WLD·XLM·PUNDIX·NEAR로 재정렬했습니다.**
+- 실투입: **85%**, 5종 동일비중
+- 각 비중: 약 **228,830원**
+- 현금: 약 **201,909원 (15.0%)**
+- 핵심 논리: **메이저는 직전보다 식었지만 breadth 개선이 더 중요했습니다. 그래서 약해진 기존 3슬롯을 버리고, 현재 상단 구조가 살아 있는 T·ELSA·ARDR·WLD·BLAST로 재구성했습니다.**
 
 ## 가상 매매 실행 내용
-- ❌ **전량 퇴출:** ONDO / KAITO / SUI
-- 🟰 **유지:** AGLD / WLD
-- ✅ **신규:** XLM / PUNDIX / NEAR
-- 마지막 액션: **RESET_TO_80_AGLD_WLD_XLM_PUNDIX_NEAR**
+- ❌ **전량 퇴출:** AGLD / XLM / PUNDIX / NEAR
+- 🟰 **유지 후 동일비중 재편:** WLD
+- ✅ **신규:** T / ELSA / ARDR / BLAST
+- 마지막 액션: **RESET_TO_85_T_ELSA_ARDR_WLD_BLAST**
 
 ## 현재 포트폴리오 현황
-- AGLD **782.3487개 @ 283원**
-- WLD **350.3238개 @ 632원**
-- XLM **782.3487개 @ 283원**
-- PUNDIX **1,581.4619개 @ 140원**
-- NEAR **77.7404개 @ 2,848원**
-- 현금 **276,756원** / 총평가 **1,383,779원**
+- T **27,339.3077개 @ 8.37원**
+- ELSA **2,797.4327개 @ 81.8원**
+- ARDR **6,391.8993개 @ 35.8원**
+- WLD **362.0728개 @ 632원**
+- BLAST **409,356.8795개 @ 0.559원**
+- 현금 **201,909원** / 총평가 **1,346,059원**
 
 ## 자기 평가
-- 장점: **ONDO 붕괴와 KAITO 둔화를 인정하고, 메이저 강세만 보고 85%를 유지하지 않은 점**
-- 아쉬움: **직전 회차에서 breadth 악화를 조금 더 빨리 읽었으면 ONDO·KAITO 비중 축소가 한 사이클 빨랐을 수 있습니다.**
-- 점수: **8.7 / 10**
+- 장점: **broken hold 3개를 미루지 않고 현재 리더군으로 즉시 교체한 점**
+- 아쉬움: **AGLD·XLM 둔화를 직전 회차 말미에 더 빨리 반영했으면 손실을 조금 더 줄일 수 있었습니다.**
+- 점수: **8.8 / 10**
 
 ## 이번 사이클 개선점
-- ✅ **DECISIONS.md에 “메이저 80%대여도 weak breadth=true, fresh=0이면 85%를 고집하지 말고 80%로 감속” 규칙을 추가했습니다.**
-- ✅ **메이저 강세와 알트 breadth 약화를 분리해 적어, 왜 risk-on인데도 90%가 아닌지 더 빨리 읽히게 했습니다.**
-- ✅ **WLD unlock 설명에 “43% 감소 + cliff 없음”을 함께 적어 과도한 호재 해석을 줄였습니다.**
+- ✅ **DECISIONS.md에 “메이저가 50~60대로 식어도 breadth가 강하면 85% breadth-rebuild로 즉시 전환” 규칙을 추가했습니다.**
+- ✅ **fresh 1개 / liquid 4개 구조를 더 짧게 보여 주도록 보고서 구성을 압축했습니다.**
+- ✅ **WLD 재료 설명을 world.org 공식 기준으로 다시 고정했습니다.**
 
 ## 판단
-- **aggressive-80-no-fresh-liquid-continuations**
+- **aggressive-85-breadth-rebuild-one-fresh-liquid-leaders**
 
 ## 신뢰도
 - **medium**
 
 ## 추천 행동
-- **AGLD 276 / WLD 624 / XLM 281 / PUNDIX 135 / NEAR 2810** 하회 시 즉시 재평가
-- 다음 승격 후보: **SUI / JTO / SKY**
-- **T / BLAST / SLX / ONDO / ARDR**는 구조 복귀 전 재진입 보류
+- **T 8.15 / ELSA 79.5 / ARDR 35.2 / WLD 624 / BLAST 0.551** 하회 시 즉시 재평가
+- 다음 승격 후보: **KAT / XEC / DOGE**
+- **AGLD / XLM / PUNDIX / NEAR**는 구조 복귀 전 재진입 보류
 
 ## 리스크 메모
-- **메이저가 강해도 top15 low-range가 9개면 알트 내부는 아직 함정이 많습니다.**
-- **T·BLAST는 오늘 시선은 먹었지만 gap이 너무 넓어 늦게 붙을수록 불리합니다.**
-- **AGLD는 가장 강하지만 이미 fresh가 아니라 survivor 구간이라 고점 추격 감각으로 다루면 안 됩니다.**
-- **NEAR는 100% 위치라도 좁은 박스 상단이라 1개 tight-box 슬롯 이상으로 확대하면 과해집니다.**
-- **WLD는 7월 24일 unlock rate 감소 기대가 있지만 공급 이슈 자체가 사라진 것은 아닙니다.**
+- **메이저 평균이 80.4%→56.7%로 식은 만큼 90% 과속은 아직 이릅니다.**
+- **ARDR만 fresh라 나머지 4개는 continuation/reclaim 관리가 필요합니다.**
+- **T 대금 집중도가 높아 이 종목이 꺾이면 전체 risk-on 온도도 빠르게 낮아질 수 있습니다.**
+- **ELSA는 강하지만 당일 베타 성격이 커서 79.5원 이탈 시 미련 없이 재평가해야 합니다.**
+- **WLD는 unlock rate 감소 기대가 있으나 공급 이슈가 끝난 것은 아닙니다.**
