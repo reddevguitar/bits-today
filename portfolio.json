@@ -2,109 +2,109 @@
   "project": "bit's today",
   "currency": "KRW",
   "initial_cash_krw": 10000000,
-  "cash_krw": 201908.81966196653,
+  "cash_krw": 445426.8363771178,
   "realized_pnl_krw": -8639824.155700272,
-  "last_valuation_krw": 1346058.797746444,
-  "last_action": "RESET_TO_85_T_ELSA_ARDR_WLD_BLAST",
-  "last_updated": "2026-07-13T09:58:00+09:00",
-  "trade_count": 1839,
+  "last_valuation_krw": 1272648.1039346224,
+  "last_action": "RESET_TO_65_XEC_ELSA_KITE_JTO_BLUR",
+  "last_updated": "2026-07-13T15:58:00+09:00",
+  "trade_count": 1849,
   "positions": {
-    "T": {
-      "market": "KRW-T",
-      "amount": 27339.306525316068,
-      "avg_buy_price_krw": 8.37,
-      "last_price_krw": 8.37,
-      "value_krw": 228829.99561689547,
-      "thesis": "925.4억원 압도적 대금과 +3.98%, 70.7% 위치가 동시에 남았습니다. 직전 trap 구간에서 완전히 벗어난 현재 업비트 최상위 유동성 리클레임 코어입니다.",
-      "strategy": "8.37원 기준 8.15원 위·62%+ 구조 유지 시 보유",
-      "role": "mega-liquidity reclaim core",
-      "risk_limit_pct": 2.6,
-      "profit_take_pct": 7.0
+    "XEC": {
+      "market": "KRW-XEC",
+      "amount": 15756595.572523896,
+      "avg_buy_price_krw": 0.0105,
+      "last_price_krw": 0.0105,
+      "value_krw": 165444.25351150092,
+      "thesis": "302.9억원 대금, +38.89%, 90.7% 위치로 오늘 업비트 보드에서 유동성과 속도가 동시에 살아 있는 최강 fresh 리더입니다.",
+      "strategy": "0.0105원 기준 0.0102원 위·84%+ 구조 유지 시 보유",
+      "role": "fresh breakout cash-magnet",
+      "risk_limit_pct": 2.9,
+      "profit_take_pct": 12.0
     },
     "ELSA": {
       "market": "KRW-ELSA",
-      "amount": 2797.432709253001,
-      "avg_buy_price_krw": 81.8,
-      "last_price_krw": 81.8,
-      "value_krw": 228829.99561689547,
-      "thesis": "219.5억원 대금, +9.50%, 88.8% 위치로 이번 회차 가장 공격적인 비메이저 베타 리더입니다. 아직 고점 이탈이 얕아 추세 슬롯 가치가 큽니다.",
-      "strategy": "81.8원 기준 79.5원 위·82%+ 구조 유지 시 보유",
-      "role": "fresh beta leader",
-      "risk_limit_pct": 2.8,
-      "profit_take_pct": 8.5
-    },
-    "ARDR": {
-      "market": "KRW-ARDR",
-      "amount": 6391.8993189076955,
-      "avg_buy_price_krw": 35.8,
-      "last_price_krw": 35.8,
-      "value_krw": 228829.99561689547,
-      "thesis": "147.6억원 대금과 92.6% 위치, -0.56% gap 조합으로 이번 스냅샷의 유일한 fresh breakout 핵심입니다. 현재 바스켓의 선봉입니다.",
-      "strategy": "35.8원 기준 35.2원 위·88%+ 구조 유지 시 보유",
-      "role": "single fresh breakout spearhead",
-      "risk_limit_pct": 1.9,
-      "profit_take_pct": 6.0
-    },
-    "WLD": {
-      "market": "KRW-WLD",
-      "amount": 362.07277787483457,
-      "avg_buy_price_krw": 632.0,
-      "last_price_krw": 632.0,
-      "value_krw": 228829.99561689547,
-      "thesis": "320.3억원 대금과 70.6% 위치로 대형 attention 코인 중 구조가 가장 읽기 쉽습니다. 7월 24일 unlock rate 43% 감소 일정이 여전히 관심을 받칩니다.",
-      "strategy": "632원 기준 624원 위·68%+ 구조 유지 시 보유",
-      "role": "headline liquidity anchor",
+      "amount": 1910.4417264607498,
+      "avg_buy_price_krw": 86.6,
+      "last_price_krw": 86.6,
+      "value_krw": 165444.25351150092,
+      "thesis": "201.3억원 대금과 +15.93%, 90.7% 위치가 겹쳐 XEC 다음의 실전 주도주입니다. 직전 회차에서도 살아남은 드문 강세 축입니다.",
+      "strategy": "86.6원 기준 84.8원 위·85%+ 구조 유지 시 보유",
+      "role": "fresh beta co-leader",
       "risk_limit_pct": 2.1,
-      "profit_take_pct": 6.0
+      "profit_take_pct": 9.0
     },
-    "BLAST": {
-      "market": "KRW-BLAST",
-      "amount": 409355.98500339076,
-      "avg_buy_price_krw": 0.559,
-      "last_price_krw": 0.559,
-      "value_krw": 228829.99561689547,
-      "thesis": "463.1억원 대금과 +2.19%, 65.5% 위치로 단순 스파이크가 아니라 재정비된 상단 continuation에 가깝습니다. breadth 회복 수혜를 받는 대형 분산축입니다.",
-      "strategy": "0.559원 기준 0.551원 위·60%+ 구조 유지 시 보유",
-      "role": "liquid continuation support",
-      "risk_limit_pct": 2.4,
-      "profit_take_pct": 6.8
+    "KITE": {
+      "market": "KRW-KITE",
+      "amount": 839.8185457436595,
+      "avg_buy_price_krw": 197.0,
+      "last_price_krw": 197.0,
+      "value_krw": 165444.25351150092,
+      "thesis": "39.0억원 대금이 아주 크진 않지만 94.7% 위치와 -0.51% gap이 매우 단순합니다. 약한 장에서 보기 드문 타이트 상단 유지입니다.",
+      "strategy": "197원 기준 192원 위·88%+ 구조 유지 시 보유",
+      "role": "small-cap tight breakout",
+      "risk_limit_pct": 2.5,
+      "profit_take_pct": 8.0
+    },
+    "JTO": {
+      "market": "KRW-JTO",
+      "amount": 170.73710372703914,
+      "avg_buy_price_krw": 969.0,
+      "last_price_krw": 969.0,
+      "value_krw": 165444.25351150092,
+      "thesis": "29.8억원 대금과 +6.72%, 89.7% 위치로 현재 솔라나 계열 베타 중 가장 깔끔한 continuation입니다.",
+      "strategy": "969원 기준 950원 위·84%+ 구조 유지 시 보유",
+      "role": "solana-beta continuation",
+      "risk_limit_pct": 2.0,
+      "profit_take_pct": 7.5
+    },
+    "BLUR": {
+      "market": "KRW-BLUR",
+      "amount": 6462.666152793005,
+      "avg_buy_price_krw": 25.6,
+      "last_price_krw": 25.6,
+      "value_krw": 165444.25351150092,
+      "thesis": "22.0억원 대금은 중간이지만 +1.99%, 78.6% 위치, -1.16% gap으로 AQT보다 훨씬 깨끗한 5번째 분산 슬롯입니다.",
+      "strategy": "25.6원 기준 25.1원 위·72%+ 구조 유지 시 보유",
+      "role": "clean secondary continuation",
+      "risk_limit_pct": 2.0,
+      "profit_take_pct": 6.5
     }
   },
   "watchlist": [
     {
-      "symbol": "AGLD",
-      "market": "KRW-AGLD",
-      "reason": "333.3억원 대금은 크지만 -0.77%, 37.5% 위치까지 밀려 기존 spearhead 지위가 무너졌습니다."
+      "symbol": "WLD",
+      "market": "KRW-WLD",
+      "reason": "366.5억원 대금과 WLD 7월 24일 unlock rate 43% 감소 일정은 여전히 크지만 현재 -0.16%, 48.1% 위치라 실전 매수보다 감시가 맞습니다."
     },
     {
-      "symbol": "XLM",
-      "market": "KRW-XLM",
-      "reason": "107.5억원 대금에도 40.0% 위치면 상단 continuation 가정이 깨졌습니다."
+      "symbol": "AQT",
+      "market": "KRW-AQT",
+      "reason": "73.9억원 대금과 +8.47%는 좋지만 56.6% 위치·-6.71% gap이면 weak breadth 장에서 추격 품질이 부족합니다."
     },
     {
-      "symbol": "PUNDIX",
-      "market": "KRW-PUNDIX",
-      "reason": "대금은 남아도 50.0% 중간권으로 식어 코어 재편 우선순위에서 밀렸습니다."
+      "symbol": "ARX",
+      "market": "KRW-ARX",
+      "reason": "52.5억원 대금의 양수 생존주지만 50.0% 중간 위치라 코어 5종보다 둔합니다."
     },
     {
-      "symbol": "NEAR",
-      "market": "KRW-NEAR",
-      "reason": "57.3% 위치로 완전 붕괴는 아니지만 현재 65~90% 대체재보다 한 단계 약합니다."
+      "symbol": "LA",
+      "market": "KRW-LA",
+      "reason": "79.2% 위치와 -1.13% gap는 좋지만 15.6억원 체급이라 KITE·JTO보다 후순위입니다."
     },
     {
-      "symbol": "KAT",
-      "market": "KRW-KAT",
-      "reason": "75.0% 위치와 -0.65% gap는 좋지만 66.9억원 체급이라 BLAST·WLD보다 후순위입니다."
+      "symbol": "CELO",
+      "market": "KRW-CELO",
+      "reason": "80.0% 위치의 깔끔한 2선 continuation이지만 6.3억원 체급이라 실전 코어보다 실험 슬롯에 가깝습니다."
     },
     {
-      "symbol": "XEC",
-      "market": "KRW-XEC",
-      "reason": "+10.98%와 73.5% 위치는 매력적이지만 44.9억원·-3.45% gap라 2선 고베타 후보로만 둡니다."
+      "symbol": "T",
+      "market": "KRW-T",
+      "reason": "672.4억원 대금이어도 -12.05%, 8.2% 위치, -17.1% gap이면 이번 회차 대표적 turnover trap입니다."
     },
     {
-      "symbol": "DOGE",
-      "market": "KRW-DOGE",
-      "reason": "66.7% 위치의 대형 밈 continuation이지만 오늘은 T·WLD·BLAST 쪽 대금 우위가 더 뚜렷합니다."
+      "symbol": "BLAST",
+      "market": "KRW-BLAST",
+      "reason": "625.1억원 대금과 달리 15.5% 위치·-15.55% gap으로 실패가 너무 명확합니다."
     }
   ],
   "history": [
@@ -7046,6 +7046,96 @@
       "amount_delta": 409355.98500339076,
       "cash_delta_krw": -228829.99561689547,
       "reason": "463.1억원 대금과 +2.19%, 65.5% 위치로 단순 스파이크가 아니라 재정비된 상단 continuation에 가깝습니다. breadth 회복 수혜를 받는 대형 분산축입니다."
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "T",
+      "action": "SELL",
+      "price_krw": 7.08,
+      "amount_delta": -27339.306525316068,
+      "cash_delta_krw": 193562.29019923776,
+      "reason": "메이저 평균 12.9% 급락, weak breadth 재진입, 기존 85% 바스켓 4개 이상 붕괴 확인으로 15:58 가격 기준 65% fresh/clean continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "ELSA",
+      "action": "SELL",
+      "price_krw": 86.6,
+      "amount_delta": -2797.432709253001,
+      "cash_delta_krw": 242257.67262130987,
+      "reason": "메이저 평균 12.9% 급락, weak breadth 재진입, 기존 85% 바스켓 4개 이상 붕괴 확인으로 15:58 가격 기준 65% fresh/clean continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "ARDR",
+      "action": "SELL",
+      "price_krw": 31.7,
+      "amount_delta": -6391.8993189076955,
+      "cash_delta_krw": 202623.20840937394,
+      "reason": "메이저 평균 12.9% 급락, weak breadth 재진입, 기존 85% 바스켓 4개 이상 붕괴 확인으로 15:58 가격 기준 65% fresh/clean continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "WLD",
+      "action": "SELL",
+      "price_krw": 623.0,
+      "amount_delta": -362.07277787483457,
+      "cash_delta_krw": 225571.34061602195,
+      "reason": "메이저 평균 12.9% 급락, weak breadth 재진입, 기존 85% 바스켓 4개 이상 붕괴 확인으로 15:58 가격 기준 65% fresh/clean continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "BLAST",
+      "action": "SELL",
+      "price_krw": 0.505,
+      "amount_delta": -409355.98500339076,
+      "cash_delta_krw": 206724.77242671233,
+      "reason": "메이저 평균 12.9% 급락, weak breadth 재진입, 기존 85% 바스켓 4개 이상 붕괴 확인으로 15:58 가격 기준 65% fresh/clean continuation 바스켓으로 전량 재편"
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "XEC",
+      "action": "BUY",
+      "price_krw": 0.0105,
+      "amount_delta": 15756595.572523896,
+      "cash_delta_krw": -165444.25351150092,
+      "reason": "302.9억원 대금, +38.89%, 90.7% 위치로 오늘 업비트 보드에서 유동성과 속도가 동시에 살아 있는 최강 fresh 리더입니다."
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "ELSA",
+      "action": "BUY",
+      "price_krw": 86.6,
+      "amount_delta": 1910.4417264607498,
+      "cash_delta_krw": -165444.25351150092,
+      "reason": "201.3억원 대금과 +15.93%, 90.7% 위치가 겹쳐 XEC 다음의 실전 주도주입니다. 직전 회차에서도 살아남은 드문 강세 축입니다."
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "KITE",
+      "action": "BUY",
+      "price_krw": 197.0,
+      "amount_delta": 839.8185457436595,
+      "cash_delta_krw": -165444.25351150092,
+      "reason": "39.0억원 대금이 아주 크진 않지만 94.7% 위치와 -0.51% gap이 매우 단순합니다. 약한 장에서 보기 드문 타이트 상단 유지입니다."
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "JTO",
+      "action": "BUY",
+      "price_krw": 969.0,
+      "amount_delta": 170.73710372703914,
+      "cash_delta_krw": -165444.25351150092,
+      "reason": "29.8억원 대금과 +6.72%, 89.7% 위치로 현재 솔라나 계열 베타 중 가장 깔끔한 continuation입니다."
+    },
+    {
+      "timestamp": "2026-07-13T15:58:00+09:00",
+      "symbol": "BLUR",
+      "action": "BUY",
+      "price_krw": 25.6,
+      "amount_delta": 6462.666152793005,
+      "cash_delta_krw": -165444.25351150092,
+      "reason": "22.0억원 대금은 중간이지만 +1.99%, 78.6% 위치, -1.16% gap으로 AQT보다 훨씬 깨끗한 5번째 분산 슬롯입니다."
     }
   ]
 }
